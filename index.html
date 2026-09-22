@@ -1,0 +1,406 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Paper Radar — 예방의학 · 응급의학 핫토픽</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,400;8..60,600;8..60,700&family=IBM+Plex+Mono:wght@400;500;600&family=IBM+Plex+Sans+KR:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --paper: #F1F3EF;
+    --paper-raised: #FBFBF9;
+    --ink: #16222C;
+    --ink-soft: #4B5A60;
+    --line: #CBD2C9;
+    --line-strong: #9AA69B;
+    --acuity-1: #B8402A;   /* 매우 핫 */
+    --acuity-2: #C08A2E;   /* 주목받는 중 */
+    --acuity-3: #4F7A6A;   /* 잔잔함 */
+    --issue: #5E6B8C;      /* 저널 "현재 호" 가산점 */
+    --prev: #3A7364;
+    --em: #B8402A;
+    --font-serif: 'Source Serif 4', Georgia, 'Noto Serif KR', serif;
+    --font-mono: 'IBM Plex Mono', ui-monospace, 'SFMono-Regular', monospace;
+    --font-sans: 'IBM Plex Sans KR', 'Pretendard', -apple-system, sans-serif;
+  }
+
+  * { box-sizing: border-box; }
+
+  html, body {
+    margin: 0;
+    background: var(--paper);
+    color: var(--ink);
+    font-family: var(--font-sans);
+  }
+
+  body {
+    padding-bottom: 4rem;
+  }
+
+  a { color: inherit; }
+
+  /* ---------- Masthead ---------- */
+  header.masthead {
+    border-bottom: 2px solid var(--ink);
+    padding: 2.4rem 1.5rem 1.4rem;
+    max-width: 920px;
+    margin: 0 auto;
+  }
+
+  .masthead-top {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    flex-wrap: wrap;
+    gap: 0.6rem 1.5rem;
+  }
+
+  h1 {
+    font-family: var(--font-serif);
+    font-weight: 700;
+    font-size: clamp(1.9rem, 4vw, 2.6rem);
+    margin: 0;
+    letter-spacing: -0.01em;
+  }
+
+  .masthead-meta {
+    font-family: var(--font-mono);
+    font-size: 0.78rem;
+    color: var(--ink-soft);
+    text-align: right;
+  }
+
+  .masthead-sub {
+    font-family: var(--font-serif);
+    font-style: italic;
+    color: var(--ink-soft);
+    font-size: 1.02rem;
+    margin-top: 0.5rem;
+  }
+
+  /* ---------- Controls ---------- */
+  .controls {
+    max-width: 920px;
+    margin: 1.4rem auto 0;
+    padding: 0 1.5rem;
+    display: flex;
+    gap: 0.9rem;
+    flex-wrap: wrap;
+    align-items: center;
+  }
+
+  .field-tabs {
+    display: flex;
+    border: 1.5px solid var(--ink);
+  }
+
+  .field-tabs button {
+    font-family: var(--font-mono);
+    font-size: 0.82rem;
+    background: none;
+    border: none;
+    padding: 0.5rem 0.95rem;
+    cursor: pointer;
+    color: var(--ink);
+    border-right: 1.5px solid var(--ink);
+  }
+  .field-tabs button:last-child { border-right: none; }
+  .field-tabs button[aria-pressed="true"] {
+    background: var(--ink);
+    color: var(--paper);
+  }
+
+  #search {
+    flex: 1;
+    min-width: 180px;
+    font-family: var(--font-sans);
+    font-size: 0.92rem;
+    padding: 0.5rem 0.8rem;
+    border: 1.5px solid var(--line-strong);
+    background: var(--paper-raised);
+    color: var(--ink);
+  }
+  #search:focus { outline: 2px solid var(--ink); outline-offset: 1px; }
+
+  .legend {
+    max-width: 920px;
+    margin: 0.9rem auto 0;
+    padding: 0 1.5rem;
+    font-family: var(--font-mono);
+    font-size: 0.72rem;
+    color: var(--ink-soft);
+    display: flex;
+    gap: 1.2rem;
+    flex-wrap: wrap;
+  }
+  .legend span { display: inline-flex; align-items: center; gap: 0.35rem; }
+  .swatch { width: 0.65rem; height: 0.65rem; display: inline-block; }
+
+  /* ---------- List ---------- */
+  main {
+    max-width: 920px;
+    margin: 1.6rem auto 0;
+    padding: 0 1.5rem;
+  }
+
+  .paper-row {
+    display: grid;
+    grid-template-columns: 3.6rem 1fr;
+    gap: 1rem;
+    padding: 1.1rem 0;
+    border-bottom: 1px solid var(--line);
+  }
+
+  .score-badge {
+    font-family: var(--font-mono);
+    font-weight: 600;
+    font-size: 1.15rem;
+    height: 3.6rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: var(--paper-raised);
+  }
+
+  .paper-title {
+    font-family: var(--font-serif);
+    font-size: 1.14rem;
+    font-weight: 600;
+    line-height: 1.4;
+    margin: 0 0 0.35rem;
+    text-decoration: none;
+    display: block;
+  }
+  .paper-title:hover { text-decoration: underline; }
+
+  .paper-meta {
+    font-family: var(--font-mono);
+    font-size: 0.75rem;
+    color: var(--ink-soft);
+    display: flex;
+    gap: 0.9rem;
+    flex-wrap: wrap;
+    margin-bottom: 0.55rem;
+  }
+
+  .field-tag {
+    font-family: var(--font-mono);
+    font-size: 0.68rem;
+    padding: 0.1rem 0.4rem;
+    border: 1px solid currentColor;
+  }
+  .field-tag.preventive { color: var(--prev); }
+  .field-tag.emergency { color: var(--em); }
+
+  .breakdown {
+    display: flex;
+    height: 5px;
+    width: 100%;
+    max-width: 260px;
+    border: 1px solid var(--line-strong);
+    overflow: hidden;
+  }
+  .breakdown div:nth-child(1) { background: var(--acuity-1); }
+  .breakdown div:nth-child(2) { background: var(--acuity-2); }
+  .breakdown div:nth-child(3) { background: var(--acuity-3); }
+  .breakdown div:nth-child(4) { background: var(--issue); }
+
+  .issue-tag {
+    font-family: var(--font-mono);
+    font-size: 0.68rem;
+    padding: 0.1rem 0.4rem;
+    border: 1px solid var(--issue);
+    color: var(--issue);
+  }
+
+  .breakdown-label {
+    font-family: var(--font-mono);
+    font-size: 0.66rem;
+    color: var(--ink-soft);
+    margin-top: 0.3rem;
+  }
+
+  /* ---------- Empty state ---------- */
+  .empty-state {
+    max-width: 620px;
+    margin: 3rem auto;
+    padding: 2rem 1.8rem;
+    border: 1.5px dashed var(--line-strong);
+    background: var(--paper-raised);
+  }
+  .empty-state h2 {
+    font-family: var(--font-serif);
+    font-size: 1.3rem;
+    margin-top: 0;
+  }
+  .empty-state code {
+    font-family: var(--font-mono);
+    background: var(--paper);
+    padding: 0.1rem 0.35rem;
+    font-size: 0.85rem;
+  }
+  .empty-state ol {
+    padding-left: 1.2rem;
+    line-height: 1.8;
+  }
+
+  @media (max-width: 520px) {
+    .paper-row { grid-template-columns: 2.8rem 1fr; }
+    .score-badge { font-size: 1rem; height: 2.8rem; }
+  }
+</style>
+</head>
+<body>
+
+<header class="masthead">
+  <div class="masthead-top">
+    <h1>Paper Radar</h1>
+    <div class="masthead-meta" id="meta-line">데이터 없음</div>
+  </div>
+  <p class="masthead-sub">예방의학과 응급의학, 최근 6개월의 주목도를 추적합니다.</p>
+</header>
+
+<div class="controls">
+  <div class="field-tabs" id="field-tabs">
+    <button data-field="all" aria-pressed="true">전체</button>
+    <button data-field="preventive" aria-pressed="false">예방의학</button>
+    <button data-field="emergency" aria-pressed="false">응급의학</button>
+  </div>
+  <input type="search" id="search" placeholder="제목, 저널, 저자로 검색…">
+</div>
+
+<div class="legend">
+  <span><span class="swatch" style="background:var(--acuity-1)"></span>주목도(Altmetric)</span>
+  <span><span class="swatch" style="background:var(--acuity-2)"></span>인용 지표</span>
+  <span><span class="swatch" style="background:var(--acuity-3)"></span>저널 등급</span>
+  <span><span class="swatch" style="background:var(--issue)"></span>현재 호(issue) 가산점</span>
+</div>
+
+<main id="list-root"></main>
+
+<script>
+async function loadData() {
+  try {
+    const res = await fetch('data/papers.json', { cache: 'no-store' });
+    if (!res.ok) throw new Error('fetch failed');
+    return await res.json();
+  } catch (e) {
+    return { generated_at: null, papers: [] };
+  }
+}
+
+function scoreColor(score) {
+  if (score >= 65) return 'var(--acuity-1)';
+  if (score >= 35) return 'var(--acuity-2)';
+  return 'var(--acuity-3)';
+}
+
+function renderMeta(data) {
+  const el = document.getElementById('meta-line');
+  if (!data.generated_at) {
+    el.textContent = '데이터 없음 — collect.py 실행 필요';
+    return;
+  }
+  const d = new Date(data.generated_at);
+  const stamp = d.toLocaleString('ko-KR', { year: 'numeric', month: '2-digit', day: '2-digit', hour: '2-digit', minute: '2-digit' });
+  el.textContent = `갱신 ${stamp} · 논문 ${data.papers.length}건 · 최근 ${data.window_days ?? 182}일`;
+}
+
+function paperRowHTML(p) {
+  const badgeColor = scoreColor(p.hot_score);
+  const fieldClass = p.field === 'preventive' ? 'preventive' : 'emergency';
+  const authors = (p.authors || []).join(', ');
+  const altW = Math.max(0.5, p.altmetric_score || 0);
+  const citeW = Math.max(0.5, p.citation_count || 0);
+  const journalW = 8; // 고정 최소 비율(시각적 표현용)
+  const issueW = p.is_current_issue ? 10 : 0.3;
+  const total = altW + citeW + journalW + issueW;
+
+  return `
+  <div class="paper-row">
+    <div class="score-badge" style="background:${badgeColor}">${p.hot_score.toFixed(0)}</div>
+    <div>
+      <a class="paper-title" href="${p.url}" target="_blank" rel="noopener">${p.title}</a>
+      <div class="paper-meta">
+        <span class="field-tag ${fieldClass}">${p.field_label}</span>
+        ${p.is_current_issue ? '<span class="issue-tag">현재 호</span>' : ''}
+        <span>${p.journal || '저널 미상'}${p.volume ? ` · Vol.${p.volume}` : ''}${p.issue ? `(${p.issue})` : ''}</span>
+        <span>${p.pubdate || ''}</span>
+        <span>${authors}${authors ? ' 외' : ''}</span>
+      </div>
+      <div class="breakdown">
+        <div style="width:${(altW/total*100).toFixed(1)}%"></div>
+        <div style="width:${(citeW/total*100).toFixed(1)}%"></div>
+        <div style="width:${(journalW/total*100).toFixed(1)}%"></div>
+        <div style="width:${(issueW/total*100).toFixed(1)}%"></div>
+      </div>
+      <div class="breakdown-label">Altmetric ${p.altmetric_score ?? 0} · 인용 ${p.citation_count ?? 0}${p.rcr != null ? ` · RCR ${p.rcr.toFixed(2)}` : ''}${p.is_current_issue ? ' · 최신 호 게재' : ''}</div>
+    </div>
+  </div>`;
+}
+
+function emptyStateHTML() {
+  return `
+  <div class="empty-state">
+    <h2>아직 수집된 데이터가 없어요</h2>
+    <p>이 페이지는 <code>data/papers.json</code>을 읽어서 그립니다. 아래 순서로 한 번 채워주세요.</p>
+    <ol>
+      <li><code>pip install requests</code></li>
+      <li><code>python collect.py</code> 실행 (PubMed·iCite·Altmetric 조회, 몇 분 소요)</li>
+      <li>생성된 <code>data/papers.json</code>과 함께 이 페이지를 열거나 GitHub Pages에 배포</li>
+    </ol>
+    <p>매일 자동 갱신하려면 <code>.github/workflows/update.yml</code>을 참고해 GitHub Actions로 스케줄링하세요.</p>
+  </div>`;
+}
+
+let ALL_PAPERS = [];
+let currentField = 'all';
+
+function render() {
+  const root = document.getElementById('list-root');
+  const q = document.getElementById('search').value.trim().toLowerCase();
+
+  let list = ALL_PAPERS;
+  if (currentField !== 'all') list = list.filter(p => p.field === currentField);
+  if (q) {
+    list = list.filter(p =>
+      (p.title || '').toLowerCase().includes(q) ||
+      (p.journal || '').toLowerCase().includes(q) ||
+      (p.authors || []).join(' ').toLowerCase().includes(q)
+    );
+  }
+
+  if (ALL_PAPERS.length === 0) {
+    root.innerHTML = emptyStateHTML();
+    return;
+  }
+
+  if (list.length === 0) {
+    root.innerHTML = '<p style="font-family:var(--font-mono);color:var(--ink-soft);padding:2rem 0;">검색 결과가 없습니다.</p>';
+    return;
+  }
+
+  root.innerHTML = list.map(paperRowHTML).join('');
+}
+
+document.getElementById('field-tabs').addEventListener('click', (e) => {
+  const btn = e.target.closest('button');
+  if (!btn) return;
+  currentField = btn.dataset.field;
+  document.querySelectorAll('#field-tabs button').forEach(b => b.setAttribute('aria-pressed', b === btn));
+  render();
+});
+
+document.getElementById('search').addEventListener('input', render);
+
+loadData().then(data => {
+  renderMeta(data);
+  ALL_PAPERS = (data.papers || []).slice().sort((a, b) => b.hot_score - a.hot_score);
+  render();
+});
+</script>
+
+</body>
+</html>
