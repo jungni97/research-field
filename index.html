@@ -15,240 +15,113 @@
     --ink-soft: #4B5A60;
     --line: #CBD2C9;
     --line-strong: #9AA69B;
-    --acuity-1: #B8402A;   /* 매우 핫 */
-    --acuity-2: #C08A2E;   /* 주목받는 중 */
-    --acuity-3: #4F7A6A;   /* 잔잔함 */
-    --issue: #5E6B8C;      /* 저널 "현재 호" 가산점 */
-    --prev: #3A7364;
-    --em: #B8402A;
+    --acuity-1: #B8402A;
+    --acuity-2: #C08A2E;
+    --acuity-3: #4F7A6A;
+    --issue: #5E6B8C;
+    --if-badge: #2E4C3C;
+    --idx-scie: #2E4C3C;
+    --idx-esci: #8A6D2F;
+    --idx-unknown: #7A7A72;
+    --topic-bar: #3A5B6E;
     --font-serif: 'Source Serif 4', Georgia, 'Noto Serif KR', serif;
     --font-mono: 'IBM Plex Mono', ui-monospace, 'SFMono-Regular', monospace;
     --font-sans: 'IBM Plex Sans KR', 'Pretendard', -apple-system, sans-serif;
   }
 
   * { box-sizing: border-box; }
-
-  html, body {
-    margin: 0;
-    background: var(--paper);
-    color: var(--ink);
-    font-family: var(--font-sans);
-  }
-
-  body {
-    padding-bottom: 4rem;
-  }
-
+  html, body { margin: 0; background: var(--paper); color: var(--ink); font-family: var(--font-sans); }
+  body { padding-bottom: 4rem; }
   a { color: inherit; }
 
-  /* ---------- Masthead ---------- */
-  header.masthead {
-    border-bottom: 2px solid var(--ink);
-    padding: 2.4rem 1.5rem 1.4rem;
-    max-width: 920px;
-    margin: 0 auto;
-  }
+  header.masthead { border-bottom: 2px solid var(--ink); padding: 2.4rem 1.5rem 1.4rem; max-width: 980px; margin: 0 auto; }
+  .masthead-top { display: flex; justify-content: space-between; align-items: baseline; flex-wrap: wrap; gap: 0.6rem 1.5rem; }
+  h1 { font-family: var(--font-serif); font-weight: 700; font-size: clamp(1.9rem, 4vw, 2.6rem); margin: 0; letter-spacing: -0.01em; }
+  .masthead-meta { font-family: var(--font-mono); font-size: 0.78rem; color: var(--ink-soft); text-align: right; }
+  .masthead-sub { font-family: var(--font-serif); font-style: italic; color: var(--ink-soft); font-size: 1.02rem; margin-top: 0.5rem; }
 
-  .masthead-top {
-    display: flex;
-    justify-content: space-between;
-    align-items: baseline;
-    flex-wrap: wrap;
-    gap: 0.6rem 1.5rem;
-  }
+  .controls { max-width: 980px; margin: 1.4rem auto 0; padding: 0 1.5rem; display: flex; flex-direction: column; gap: 0.7rem; }
+  .controls-row { display: flex; gap: 0.9rem; flex-wrap: wrap; align-items: center; }
+  .filter-tabs { display: flex; border: 1.5px solid var(--ink); }
+  .filter-tabs.secondary { border-color: var(--line-strong); }
+  .filter-tabs button { font-family: var(--font-mono); font-size: 0.8rem; background: none; border: none; padding: 0.45rem 0.85rem; cursor: pointer; color: var(--ink); border-right: 1.5px solid var(--ink); }
+  .filter-tabs.secondary button { border-right: 1.5px solid var(--line-strong); color: var(--ink-soft); }
+  .filter-tabs button:last-child { border-right: none; }
+  .filter-tabs button[aria-pressed="true"] { background: var(--ink); color: var(--paper); }
+  .filter-tabs.secondary button[aria-pressed="true"] { background: var(--line-strong); color: var(--paper-raised); }
+  .filter-label { font-family: var(--font-mono); font-size: 0.7rem; color: var(--ink-soft); align-self: center; }
 
-  h1 {
-    font-family: var(--font-serif);
-    font-weight: 700;
-    font-size: clamp(1.9rem, 4vw, 2.6rem);
-    margin: 0;
-    letter-spacing: -0.01em;
-  }
-
-  .masthead-meta {
-    font-family: var(--font-mono);
-    font-size: 0.78rem;
-    color: var(--ink-soft);
-    text-align: right;
-  }
-
-  .masthead-sub {
-    font-family: var(--font-serif);
-    font-style: italic;
-    color: var(--ink-soft);
-    font-size: 1.02rem;
-    margin-top: 0.5rem;
-  }
-
-  /* ---------- Controls ---------- */
-  .controls {
-    max-width: 920px;
-    margin: 1.4rem auto 0;
-    padding: 0 1.5rem;
-    display: flex;
-    gap: 0.9rem;
-    flex-wrap: wrap;
-    align-items: center;
-  }
-
-  .field-tabs {
-    display: flex;
-    border: 1.5px solid var(--ink);
-  }
-
-  .field-tabs button {
-    font-family: var(--font-mono);
-    font-size: 0.82rem;
-    background: none;
-    border: none;
-    padding: 0.5rem 0.95rem;
-    cursor: pointer;
-    color: var(--ink);
-    border-right: 1.5px solid var(--ink);
-  }
-  .field-tabs button:last-child { border-right: none; }
-  .field-tabs button[aria-pressed="true"] {
-    background: var(--ink);
-    color: var(--paper);
-  }
-
-  #search {
-    flex: 1;
-    min-width: 180px;
-    font-family: var(--font-sans);
-    font-size: 0.92rem;
-    padding: 0.5rem 0.8rem;
-    border: 1.5px solid var(--line-strong);
-    background: var(--paper-raised);
-    color: var(--ink);
-  }
+  #search { flex: 1; min-width: 180px; font-family: var(--font-sans); font-size: 0.92rem; padding: 0.5rem 0.8rem; border: 1.5px solid var(--line-strong); background: var(--paper-raised); color: var(--ink); }
   #search:focus { outline: 2px solid var(--ink); outline-offset: 1px; }
 
-  .legend {
-    max-width: 920px;
-    margin: 0.9rem auto 0;
-    padding: 0 1.5rem;
-    font-family: var(--font-mono);
-    font-size: 0.72rem;
-    color: var(--ink-soft);
-    display: flex;
-    gap: 1.2rem;
-    flex-wrap: wrap;
-  }
+  .legend { max-width: 980px; margin: 0.9rem auto 0; padding: 0 1.5rem; font-family: var(--font-mono); font-size: 0.72rem; color: var(--ink-soft); display: flex; gap: 1.2rem; flex-wrap: wrap; }
   .legend span { display: inline-flex; align-items: center; gap: 0.35rem; }
   .swatch { width: 0.65rem; height: 0.65rem; display: inline-block; }
 
-  /* ---------- List ---------- */
-  main {
-    max-width: 920px;
-    margin: 1.6rem auto 0;
-    padding: 0 1.5rem;
-  }
+  main { max-width: 980px; margin: 1.8rem auto 0; padding: 0 1.5rem; }
 
-  .paper-row {
-    display: grid;
-    grid-template-columns: 3.6rem 1fr;
-    gap: 1rem;
-    padding: 1.1rem 0;
-    border-bottom: 1px solid var(--line);
-  }
+  /* ---------- Topics chart ---------- */
+  .topics-panel { margin-bottom: 2.2rem; border: 1.5px solid var(--ink); background: var(--paper-raised); padding: 1.2rem 1.3rem 1.4rem; }
+  .topics-title { font-family: var(--font-serif); font-weight: 600; font-size: 1.1rem; margin: 0 0 0.9rem; }
+  .topic-row { display: grid; grid-template-columns: 9.5rem 1fr 2.6rem; align-items: center; gap: 0.6rem; margin-bottom: 0.45rem; }
+  .topic-label { font-family: var(--font-mono); font-size: 0.78rem; text-align: right; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  .topic-track { background: var(--line); height: 0.85rem; position: relative; }
+  .topic-fill { background: var(--topic-bar); height: 100%; }
+  .topic-count { font-family: var(--font-mono); font-size: 0.68rem; color: var(--ink-soft); }
 
-  .score-badge {
-    font-family: var(--font-mono);
-    font-weight: 600;
-    font-size: 1.15rem;
-    height: 3.6rem;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    color: var(--paper-raised);
-  }
+  /* ---------- Journal section (grouped view) ---------- */
+  .journal-section { margin-bottom: 2.4rem; }
+  .journal-header { display: flex; align-items: baseline; gap: 0.6rem; flex-wrap: wrap; border-bottom: 1.5px solid var(--ink); padding-bottom: 0.5rem; margin-bottom: 0.9rem; }
+  .journal-name { font-family: var(--font-serif); font-weight: 600; font-size: 1.25rem; margin: 0; }
+  .if-badge { font-family: var(--font-mono); font-size: 0.74rem; color: var(--paper-raised); background: var(--if-badge); padding: 0.15rem 0.5rem; }
+  .idx-badge { font-family: var(--font-mono); font-size: 0.68rem; padding: 0.13rem 0.45rem; border: 1px solid currentColor; }
+  .idx-badge.SCIE { color: var(--idx-scie); }
+  .idx-badge.ESCI { color: var(--idx-esci); }
+  .idx-badge.unknown { color: var(--idx-unknown); }
+  .journal-count { font-family: var(--font-mono); font-size: 0.74rem; color: var(--ink-soft); margin-left: auto; }
 
-  .paper-title {
-    font-family: var(--font-serif);
-    font-size: 1.14rem;
-    font-weight: 600;
-    line-height: 1.4;
-    margin: 0 0 0.35rem;
-    text-decoration: none;
-    display: block;
-  }
+  .top-paper { display: grid; grid-template-columns: 3.8rem 1fr; gap: 1rem; padding: 0.9rem 1rem; margin-bottom: 0.7rem; background: var(--paper-raised); border: 1.5px solid var(--ink); }
+  .top-paper-flag { font-family: var(--font-mono); font-size: 0.68rem; color: var(--acuity-1); letter-spacing: 0.02em; margin-bottom: 0.3rem; }
+
+  .score-badge { font-family: var(--font-mono); font-weight: 600; font-size: 1.15rem; height: 3.6rem; display: flex; align-items: center; justify-content: center; color: var(--paper-raised); }
+
+  .paper-title { font-family: var(--font-serif); font-size: 1.1rem; font-weight: 600; line-height: 1.4; margin: 0 0 0.35rem; text-decoration: none; display: block; }
   .paper-title:hover { text-decoration: underline; }
+  .paper-title.small { font-size: 1rem; }
 
-  .paper-meta {
-    font-family: var(--font-mono);
-    font-size: 0.75rem;
-    color: var(--ink-soft);
-    display: flex;
-    gap: 0.9rem;
-    flex-wrap: wrap;
-    margin-bottom: 0.55rem;
-  }
+  .paper-meta { font-family: var(--font-mono); font-size: 0.74rem; color: var(--ink-soft); display: flex; gap: 0.9rem; flex-wrap: wrap; margin-bottom: 0.5rem; }
+  .field-tag { font-family: var(--font-mono); font-size: 0.68rem; padding: 0.1rem 0.4rem; border: 1px solid currentColor; }
+  .field-tag.preventive { color: var(--acuity-3); }
+  .field-tag.emergency { color: var(--acuity-1); }
+  .issue-tag { font-family: var(--font-mono); font-size: 0.68rem; padding: 0.1rem 0.4rem; border: 1px solid var(--issue); color: var(--issue); }
 
-  .field-tag {
-    font-family: var(--font-mono);
-    font-size: 0.68rem;
-    padding: 0.1rem 0.4rem;
-    border: 1px solid currentColor;
-  }
-  .field-tag.preventive { color: var(--prev); }
-  .field-tag.emergency { color: var(--em); }
-
-  .breakdown {
-    display: flex;
-    height: 5px;
-    width: 100%;
-    max-width: 260px;
-    border: 1px solid var(--line-strong);
-    overflow: hidden;
-  }
+  .breakdown { display: flex; height: 5px; width: 100%; max-width: 260px; border: 1px solid var(--line-strong); overflow: hidden; }
   .breakdown div:nth-child(1) { background: var(--acuity-1); }
   .breakdown div:nth-child(2) { background: var(--acuity-2); }
   .breakdown div:nth-child(3) { background: var(--acuity-3); }
   .breakdown div:nth-child(4) { background: var(--issue); }
+  .breakdown-label { font-family: var(--font-mono); font-size: 0.66rem; color: var(--ink-soft); margin-top: 0.3rem; }
 
-  .issue-tag {
-    font-family: var(--font-mono);
-    font-size: 0.68rem;
-    padding: 0.1rem 0.4rem;
-    border: 1px solid var(--issue);
-    color: var(--issue);
-  }
+  details.rest { margin-top: 0.4rem; }
+  details.rest > summary { font-family: var(--font-mono); font-size: 0.76rem; color: var(--ink-soft); cursor: pointer; padding: 0.3rem 0; list-style: none; }
+  details.rest > summary::-webkit-details-marker { display: none; }
+  details.rest > summary::before { content: '▸ '; }
+  details.rest[open] > summary::before { content: '▾ '; }
+  .rest-row { display: grid; grid-template-columns: 2.6rem 1fr; gap: 0.8rem; padding: 0.7rem 0; border-top: 1px solid var(--line); }
+  .rest-row .score-badge { height: 2.4rem; font-size: 0.9rem; }
 
-  .breakdown-label {
-    font-family: var(--font-mono);
-    font-size: 0.66rem;
-    color: var(--ink-soft);
-    margin-top: 0.3rem;
-  }
+  .paper-row { display: grid; grid-template-columns: 3.6rem 1fr; gap: 1rem; padding: 1.1rem 0; border-bottom: 1px solid var(--line); }
 
-  /* ---------- Empty state ---------- */
-  .empty-state {
-    max-width: 620px;
-    margin: 3rem auto;
-    padding: 2rem 1.8rem;
-    border: 1.5px dashed var(--line-strong);
-    background: var(--paper-raised);
-  }
-  .empty-state h2 {
-    font-family: var(--font-serif);
-    font-size: 1.3rem;
-    margin-top: 0;
-  }
-  .empty-state code {
-    font-family: var(--font-mono);
-    background: var(--paper);
-    padding: 0.1rem 0.35rem;
-    font-size: 0.85rem;
-  }
-  .empty-state ol {
-    padding-left: 1.2rem;
-    line-height: 1.8;
-  }
+  .empty-state { max-width: 620px; margin: 3rem auto; padding: 2rem 1.8rem; border: 1.5px dashed var(--line-strong); background: var(--paper-raised); }
+  .empty-state h2 { font-family: var(--font-serif); font-size: 1.3rem; margin-top: 0; }
+  .empty-state code { font-family: var(--font-mono); background: var(--paper); padding: 0.1rem 0.35rem; font-size: 0.85rem; }
+  .empty-state ol { padding-left: 1.2rem; line-height: 1.8; }
 
   @media (max-width: 520px) {
-    .paper-row { grid-template-columns: 2.8rem 1fr; }
+    .paper-row, .top-paper { grid-template-columns: 2.8rem 1fr; }
     .score-badge { font-size: 1rem; height: 2.8rem; }
+    .journal-count { margin-left: 0; }
+    .topic-row { grid-template-columns: 6.2rem 1fr 2.2rem; }
   }
 </style>
 </head>
@@ -259,22 +132,33 @@
     <h1>Paper Radar</h1>
     <div class="masthead-meta" id="meta-line">데이터 없음</div>
   </div>
-  <p class="masthead-sub">예방의학과 응급의학, 최근 6개월의 주목도를 추적합니다.</p>
+  <p class="masthead-sub">예방의학과 응급의학, 저널별로 최근 6개월의 주목도를 추적합니다.</p>
 </header>
 
 <div class="controls">
-  <div class="field-tabs" id="field-tabs">
-    <button data-field="all" aria-pressed="true">전체</button>
-    <button data-field="preventive" aria-pressed="false">예방의학</button>
-    <button data-field="emergency" aria-pressed="false">응급의학</button>
+  <div class="controls-row">
+    <div class="filter-tabs" id="field-tabs">
+      <button data-field="all" aria-pressed="true">전체</button>
+      <button data-field="preventive" aria-pressed="false">예방의학</button>
+      <button data-field="emergency" aria-pressed="false">응급의학</button>
+    </div>
+    <input type="search" id="search" placeholder="제목, 저널, 저자로 검색…">
   </div>
-  <input type="search" id="search" placeholder="제목, 저널, 저자로 검색…">
+  <div class="controls-row">
+    <span class="filter-label">등급</span>
+    <div class="filter-tabs secondary" id="index-tabs">
+      <button data-index="all" aria-pressed="true">전체</button>
+      <button data-index="SCIE" aria-pressed="false">SCIE</button>
+      <button data-index="ESCI" aria-pressed="false">ESCI</button>
+      <button data-index="미상" aria-pressed="false">미상</button>
+    </div>
+  </div>
 </div>
 
 <div class="legend">
   <span><span class="swatch" style="background:var(--acuity-1)"></span>주목도(Altmetric)</span>
   <span><span class="swatch" style="background:var(--acuity-2)"></span>인용 지표</span>
-  <span><span class="swatch" style="background:var(--acuity-3)"></span>저널 등급</span>
+  <span><span class="swatch" style="background:var(--acuity-3)"></span>Impact Factor</span>
   <span><span class="swatch" style="background:var(--issue)"></span>현재 호(issue) 가산점</span>
 </div>
 
@@ -287,7 +171,7 @@ async function loadData() {
     if (!res.ok) throw new Error('fetch failed');
     return await res.json();
   } catch (e) {
-    return { generated_at: null, papers: [] };
+    return { generated_at: null, fields: [] };
   }
 }
 
@@ -295,6 +179,12 @@ function scoreColor(score) {
   if (score >= 65) return 'var(--acuity-1)';
   if (score >= 35) return 'var(--acuity-2)';
   return 'var(--acuity-3)';
+}
+
+function idxClass(idx) {
+  if (idx === 'SCIE') return 'SCIE';
+  if (idx === 'ESCI') return 'ESCI';
+  return 'unknown';
 }
 
 function renderMeta(data) {
@@ -305,39 +195,116 @@ function renderMeta(data) {
   }
   const d = new Date(data.generated_at);
   const stamp = d.toLocaleString('ko-KR', { year: 'numeric', month: '2-digit', day: '2-digit', hour: '2-digit', minute: '2-digit' });
-  el.textContent = `갱신 ${stamp} · 논문 ${data.papers.length}건 · 최근 ${data.window_days ?? 182}일`;
+  const total = (data.fields || []).reduce((s, f) => s + (f.paper_count || 0), 0);
+  el.textContent = `갱신 ${stamp} · 논문 ${total}건 · 최근 ${data.window_days ?? 182}일`;
+}
+
+function metaLine(p) {
+  const authors = (p.authors || []).join(', ');
+  return `
+    <div class="paper-meta">
+      <span class="field-tag ${p.field === 'preventive' ? 'preventive' : 'emergency'}">${p.field_label}</span>
+      ${p.is_current_issue ? '<span class="issue-tag">현재 호</span>' : ''}
+      <span>${p.pubdate || ''}</span>
+      <span>${authors}${authors ? ' 외' : ''}</span>
+    </div>`;
+}
+
+function breakdownHTML(p) {
+  const altW = Math.max(0.5, p.altmetric_score || 0);
+  const citeW = Math.max(0.5, p.citation_count || 0);
+  const ifW = Math.max(0.5, p.impact_factor || 0);
+  const issueW = p.is_current_issue ? 10 : 0.3;
+  const total = altW + citeW + ifW + issueW;
+  return `
+    <div class="breakdown">
+      <div style="width:${(altW/total*100).toFixed(1)}%"></div>
+      <div style="width:${(citeW/total*100).toFixed(1)}%"></div>
+      <div style="width:${(ifW/total*100).toFixed(1)}%"></div>
+      <div style="width:${(issueW/total*100).toFixed(1)}%"></div>
+    </div>
+    <div class="breakdown-label">Altmetric ${p.altmetric_score ?? 0} · 인용 ${p.citation_count ?? 0}${p.rcr != null ? ` · RCR ${p.rcr.toFixed(2)}` : ''}${p.is_current_issue ? ' · 최신 호 게재' : ''}</div>`;
+}
+
+function topPaperHTML(p) {
+  return `
+  <div class="top-paper">
+    <div class="score-badge" style="background:${scoreColor(p.hot_score)}">${p.hot_score.toFixed(0)}</div>
+    <div>
+      <div class="top-paper-flag">이 저널에서 가장 핫한 논문</div>
+      <a class="paper-title" href="${p.url}" target="_blank" rel="noopener">${p.title}</a>
+      ${metaLine(p)}
+      ${breakdownHTML(p)}
+    </div>
+  </div>`;
+}
+
+function restRowHTML(p) {
+  return `
+  <div class="rest-row">
+    <div class="score-badge" style="background:${scoreColor(p.hot_score)}">${p.hot_score.toFixed(0)}</div>
+    <div>
+      <a class="paper-title small" href="${p.url}" target="_blank" rel="noopener">${p.title}</a>
+      ${metaLine(p)}
+    </div>
+  </div>`;
+}
+
+function journalSectionHTML(journal, impactFactor, indexType, papers, totalFound) {
+  const top = papers[0];
+  const rest = papers.slice(1);
+  const ifText = impactFactor != null ? `IF ${impactFactor.toFixed(1)}` : 'IF 정보 없음';
+  const countText = totalFound && totalFound > papers.length
+    ? `전체 ${totalFound}건 중 상위 ${papers.length}건`
+    : `${papers.length}건`;
+  return `
+  <section class="journal-section">
+    <div class="journal-header">
+      <h2 class="journal-name">${journal || '저널 미상'}</h2>
+      <span class="if-badge">${ifText}</span>
+      <span class="idx-badge ${idxClass(indexType)}">${indexType || '미상'}</span>
+      <span class="journal-count">${countText}</span>
+    </div>
+    ${topPaperHTML(top)}
+    ${rest.length ? `
+    <details class="rest">
+      <summary>이 저널의 다른 논문 ${rest.length}건 보기</summary>
+      ${rest.map(restRowHTML).join('')}
+    </details>` : ''}
+  </section>`;
 }
 
 function paperRowHTML(p) {
-  const badgeColor = scoreColor(p.hot_score);
-  const fieldClass = p.field === 'preventive' ? 'preventive' : 'emergency';
-  const authors = (p.authors || []).join(', ');
-  const altW = Math.max(0.5, p.altmetric_score || 0);
-  const citeW = Math.max(0.5, p.citation_count || 0);
-  const journalW = 8; // 고정 최소 비율(시각적 표현용)
-  const issueW = p.is_current_issue ? 10 : 0.3;
-  const total = altW + citeW + journalW + issueW;
-
   return `
   <div class="paper-row">
-    <div class="score-badge" style="background:${badgeColor}">${p.hot_score.toFixed(0)}</div>
+    <div class="score-badge" style="background:${scoreColor(p.hot_score)}">${p.hot_score.toFixed(0)}</div>
     <div>
       <a class="paper-title" href="${p.url}" target="_blank" rel="noopener">${p.title}</a>
       <div class="paper-meta">
-        <span class="field-tag ${fieldClass}">${p.field_label}</span>
+        <span class="field-tag ${p.field === 'preventive' ? 'preventive' : 'emergency'}">${p.field_label}</span>
         ${p.is_current_issue ? '<span class="issue-tag">현재 호</span>' : ''}
         <span>${p.journal || '저널 미상'}${p.volume ? ` · Vol.${p.volume}` : ''}${p.issue ? `(${p.issue})` : ''}</span>
+        <span class="idx-badge ${idxClass(p.index_type)}">${p.index_type || '미상'}</span>
         <span>${p.pubdate || ''}</span>
-        <span>${authors}${authors ? ' 외' : ''}</span>
       </div>
-      <div class="breakdown">
-        <div style="width:${(altW/total*100).toFixed(1)}%"></div>
-        <div style="width:${(citeW/total*100).toFixed(1)}%"></div>
-        <div style="width:${(journalW/total*100).toFixed(1)}%"></div>
-        <div style="width:${(issueW/total*100).toFixed(1)}%"></div>
-      </div>
-      <div class="breakdown-label">Altmetric ${p.altmetric_score ?? 0} · 인용 ${p.citation_count ?? 0}${p.rcr != null ? ` · RCR ${p.rcr.toFixed(2)}` : ''}${p.is_current_issue ? ' · 최신 호 게재' : ''}</div>
+      ${breakdownHTML(p)}
     </div>
+  </div>`;
+}
+
+function topicsPanelHTML(field) {
+  const topics = field.hot_topics || [];
+  if (!topics.length) return '';
+  const max = Math.max(...topics.map(t => t.score));
+  return `
+  <div class="topics-panel">
+    <h3 class="topics-title">${field.label} — 가장 영향력 있는 주제</h3>
+    ${topics.map(t => `
+      <div class="topic-row">
+        <span class="topic-label">${t.phrase}</span>
+        <div class="topic-track"><div class="topic-fill" style="width:${(t.score / max * 100).toFixed(1)}%"></div></div>
+        <span class="topic-count">${t.paper_count}편</span>
+      </div>`).join('')}
   </div>`;
 }
 
@@ -355,34 +322,56 @@ function emptyStateHTML() {
   </div>`;
 }
 
-let ALL_PAPERS = [];
+let ALL_FIELDS = [];
 let currentField = 'all';
+let currentIndex = 'all';
+
+function flattenPapers(fields) {
+  const out = [];
+  fields.forEach(f => f.journals.forEach(g => out.push(...g.papers)));
+  return out;
+}
+
+function matchesIndex(p) {
+  if (currentIndex === 'all') return true;
+  return (p.index_type || '미상') === currentIndex;
+}
 
 function render() {
   const root = document.getElementById('list-root');
   const q = document.getElementById('search').value.trim().toLowerCase();
 
-  let list = ALL_PAPERS;
-  if (currentField !== 'all') list = list.filter(p => p.field === currentField);
-  if (q) {
-    list = list.filter(p =>
-      (p.title || '').toLowerCase().includes(q) ||
-      (p.journal || '').toLowerCase().includes(q) ||
-      (p.authors || []).join(' ').toLowerCase().includes(q)
-    );
-  }
+  let fields = ALL_FIELDS;
+  if (currentField !== 'all') fields = fields.filter(f => f.key === currentField);
 
-  if (ALL_PAPERS.length === 0) {
+  if (ALL_FIELDS.length === 0) {
     root.innerHTML = emptyStateHTML();
     return;
   }
 
-  if (list.length === 0) {
-    root.innerHTML = '<p style="font-family:var(--font-mono);color:var(--ink-soft);padding:2rem 0;">검색 결과가 없습니다.</p>';
+  if (q) {
+    let list = flattenPapers(fields).filter(matchesIndex).filter(p =>
+      (p.title || '').toLowerCase().includes(q) ||
+      (p.journal || '').toLowerCase().includes(q) ||
+      (p.authors || []).join(' ').toLowerCase().includes(q)
+    );
+    list.sort((a, b) => b.hot_score - a.hot_score);
+    root.innerHTML = list.length
+      ? list.map(paperRowHTML).join('')
+      : '<p style="font-family:var(--font-mono);color:var(--ink-soft);padding:2rem 0;">검색 결과가 없습니다.</p>';
     return;
   }
 
-  root.innerHTML = list.map(paperRowHTML).join('');
+  let html = '';
+  fields.forEach(f => {
+    html += topicsPanelHTML(f);
+    f.journals.forEach(g => {
+      const papers = g.papers.filter(matchesIndex);
+      if (!papers.length) return;
+      html += journalSectionHTML(g.journal, g.impact_factor, g.index_type, papers, g.paper_count);
+    });
+  });
+  root.innerHTML = html || '<p style="font-family:var(--font-mono);color:var(--ink-soft);padding:2rem 0;">해당 조건에 맞는 데이터가 없습니다.</p>';
 }
 
 document.getElementById('field-tabs').addEventListener('click', (e) => {
@@ -393,11 +382,19 @@ document.getElementById('field-tabs').addEventListener('click', (e) => {
   render();
 });
 
+document.getElementById('index-tabs').addEventListener('click', (e) => {
+  const btn = e.target.closest('button');
+  if (!btn) return;
+  currentIndex = btn.dataset.index;
+  document.querySelectorAll('#index-tabs button').forEach(b => b.setAttribute('aria-pressed', b === btn));
+  render();
+});
+
 document.getElementById('search').addEventListener('input', render);
 
 loadData().then(data => {
   renderMeta(data);
-  ALL_PAPERS = (data.papers || []).slice().sort((a, b) => b.hot_score - a.hot_score);
+  ALL_FIELDS = data.fields || [];
   render();
 });
 </script>
