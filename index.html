@@ -3,166 +3,181 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Paper Radar — 예방의학 · 응급의학 핫토픽</title>
+<title>Trend report — 예방의학 · 응급의학</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,400;8..60,600;8..60,700&family=IBM+Plex+Mono:wght@400;500;600&family=IBM+Plex+Sans+KR:wght@400;500;600&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;500;700;900&display=swap" rel="stylesheet">
 <style>
   :root {
-    --paper: #F1F3EF;
-    --paper-raised: #FBFBF9;
-    --ink: #16222C;
-    --ink-soft: #4B5A60;
-    --line: #CBD2C9;
-    --line-strong: #9AA69B;
-    --acuity-1: #B8402A;
-    --acuity-2: #C08A2E;
-    --acuity-3: #4F7A6A;
-    --issue: #5E6B8C;
-    --if-badge: #2E4C3C;
-    --idx-scie: #2E4C3C;
-    --idx-esci: #8A6D2F;
-    --idx-unknown: #7A7A72;
-    --topic-bar: #3A5B6E;
-    --font-serif: 'Source Serif 4', Georgia, 'Noto Serif KR', serif;
-    --font-mono: 'IBM Plex Mono', ui-monospace, 'SFMono-Regular', monospace;
-    --font-sans: 'IBM Plex Sans KR', 'Pretendard', -apple-system, sans-serif;
+    --bg: #EEF1FC;
+    --card: #FFFFFF;
+    --ink: #23253A;
+    --ink-soft: #6B6F8A;
+    --ink-faint: #9599B3;
+    --primary-a: #3B4CC4;
+    --primary-b: #6B32C9;
+    --primary-grad: linear-gradient(135deg, var(--primary-a), var(--primary-b));
+    --pill-track: #F5F6FD;
+    --shadow: 0 6px 20px rgba(58,63,120,0.08);
+    --acuity-1: #E0555A;
+    --acuity-2: #C98A2E;
+    --acuity-3: #2F9C7C;
+    --issue: #6656D6;
   }
-
   * { box-sizing: border-box; }
-  html, body { margin: 0; background: var(--paper); color: var(--ink); font-family: var(--font-sans); }
-  body { padding-bottom: 4rem; }
-  a { color: inherit; }
+  html, body { margin: 0; background: var(--bg); color: var(--ink); }
+  body { padding-bottom: 4rem; font-family: 'Noto Sans KR', sans-serif; }
+  a { color: inherit; text-decoration: none; }
+  a:hover { text-decoration: underline; }
+  h1, h2, h3, .pr-head { font-family: 'Noto Sans KR', sans-serif; font-weight: 700; letter-spacing: -0.01em; }
+  button, input, select { font-family: inherit; }
 
-  header.masthead { border-bottom: 2px solid var(--ink); padding: 2.4rem 1.5rem 1.4rem; max-width: 980px; margin: 0 auto; }
-  .masthead-top { display: flex; justify-content: space-between; align-items: baseline; flex-wrap: wrap; gap: 0.6rem 1.5rem; }
-  h1 { font-family: var(--font-serif); font-weight: 700; font-size: clamp(1.9rem, 4vw, 2.6rem); margin: 0; letter-spacing: -0.01em; }
-  .masthead-meta { font-family: var(--font-mono); font-size: 0.78rem; color: var(--ink-soft); text-align: right; }
-  .masthead-sub { font-family: var(--font-serif); font-style: italic; color: var(--ink-soft); font-size: 1.02rem; margin-top: 0.5rem; }
+  header.masthead { max-width: 1180px; margin: 0 auto; padding: 32px 24px 0; }
+  .hero { position: relative; overflow: hidden; border-radius: 40px; background: var(--primary-grad); padding: 3.2rem 2.6rem 2.4rem; box-shadow: 0 20px 40px rgba(53,50,150,0.3); }
+  .hero::before { content: ''; position: absolute; top: -60px; right: -40px; width: 220px; height: 220px; border-radius: 50%; background: rgba(255,255,255,0.12); }
+  .hero::after { content: ''; position: absolute; bottom: -70px; right: 160px; width: 140px; height: 140px; border-radius: 50%; background: rgba(255,255,255,0.10); }
+  .hero-inner { position: relative; }
+  .hero h1 { margin: 0; font-size: clamp(1.8rem, 4vw, 2.5rem); color: #fff; line-height: 1.35; }
+  .hero p { margin: 0.7rem 0 0; font-size: 1rem; color: rgba(255,255,255,0.86); }
+  .hero-meta { margin-top: 1.1rem; font-size: 0.8rem; color: rgba(255,255,255,0.75); }
 
-  .controls { max-width: 980px; margin: 1.4rem auto 0; padding: 0 1.5rem; display: flex; flex-direction: column; gap: 0.7rem; }
-  .controls-row { display: flex; gap: 0.9rem; flex-wrap: wrap; align-items: center; }
-  .filter-tabs { display: flex; border: 1.5px solid var(--ink); }
-  .filter-tabs.secondary { border-color: var(--line-strong); }
-  .filter-tabs button { font-family: var(--font-mono); font-size: 0.8rem; background: none; border: none; padding: 0.45rem 0.85rem; cursor: pointer; color: var(--ink); border-right: 1.5px solid var(--ink); }
-  .filter-tabs.secondary button { border-right: 1.5px solid var(--line-strong); color: var(--ink-soft); }
-  .filter-tabs button:last-child { border-right: none; }
-  .filter-tabs button[aria-pressed="true"] { background: var(--ink); color: var(--paper); }
-  .filter-tabs.secondary button[aria-pressed="true"] { background: var(--line-strong); color: var(--paper-raised); }
-  .filter-label { font-family: var(--font-mono); font-size: 0.7rem; color: var(--ink-soft); align-self: center; }
+  .controls { max-width: 1180px; margin: 1.5rem auto 0; padding: 0 24px; display: flex; gap: 0.8rem; flex-wrap: wrap; align-items: center; }
+  .field-tabs { display: flex; gap: 4px; background: var(--card); padding: 6px; border-radius: 999px; box-shadow: var(--shadow); }
+  .field-tabs button { font-size: 0.86rem; font-weight: 500; padding: 0.55rem 1.1rem; border: none; border-radius: 999px; background: none; color: var(--ink-soft); cursor: pointer; }
+  .field-tabs button[aria-pressed="true"] { font-weight: 700; background: var(--primary-grad); color: #fff; }
 
-  #search { flex: 1; min-width: 180px; font-family: var(--font-sans); font-size: 0.92rem; padding: 0.5rem 0.8rem; border: 1.5px solid var(--line-strong); background: var(--paper-raised); color: var(--ink); }
-  #search:focus { outline: 2px solid var(--ink); outline-offset: 1px; }
+  #search { flex: 1; min-width: 200px; font-size: 0.92rem; padding: 0.75rem 1.2rem; border: none; border-radius: 999px; background: var(--card); color: var(--ink); box-shadow: var(--shadow); }
+  #search:focus { outline: 2px solid var(--primary-a); outline-offset: 1px; }
 
-  .legend { max-width: 980px; margin: 0.9rem auto 0; padding: 0 1.5rem; font-family: var(--font-mono); font-size: 0.72rem; color: var(--ink-soft); display: flex; gap: 1.2rem; flex-wrap: wrap; }
-  .legend span { display: inline-flex; align-items: center; gap: 0.35rem; }
-  .swatch { width: 0.65rem; height: 0.65rem; display: inline-block; }
+  #sort-select { font-size: 0.85rem; font-weight: 500; padding: 0.7rem 1rem; border: none; border-radius: 999px; background: var(--card); color: var(--ink-soft); box-shadow: var(--shadow); cursor: pointer; }
 
-  main { max-width: 980px; margin: 1.8rem auto 0; padding: 0 1.5rem; }
+  .legend { max-width: 1180px; margin: 0.9rem auto 0; padding: 0 24px; display: flex; gap: 8px; flex-wrap: wrap; }
+  .legend span { font-size: 0.72rem; font-weight: 500; padding: 5px 12px; border-radius: 999px; }
 
-  /* ---------- Topics chart ---------- */
-  .topics-panel { margin-bottom: 2.2rem; border: 1.5px solid var(--ink); background: var(--paper-raised); padding: 1.2rem 1.3rem 1.4rem; }
-  .topics-title { font-family: var(--font-serif); font-weight: 600; font-size: 1.1rem; margin: 0 0 0.9rem; }
-  .topic-row { display: grid; grid-template-columns: 9.5rem 1fr 2.6rem; align-items: center; gap: 0.6rem; margin-bottom: 0.45rem; }
-  .topic-label { font-family: var(--font-mono); font-size: 0.78rem; text-align: right; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
-  .topic-track { background: var(--line); height: 0.85rem; position: relative; }
-  .topic-fill { background: var(--topic-bar); height: 100%; }
-  .topic-count { font-family: var(--font-mono); font-size: 0.68rem; color: var(--ink-soft); }
+  main { max-width: 1180px; margin: 1.5rem auto 0; padding: 0 24px; }
 
-  /* ---------- Journal section (grouped view) ---------- */
-  .journal-section { margin-bottom: 2.4rem; }
-  .journal-header { display: flex; align-items: baseline; gap: 0.6rem; flex-wrap: wrap; border-bottom: 1.5px solid var(--ink); padding-bottom: 0.5rem; margin-bottom: 0.9rem; }
-  .journal-name { font-family: var(--font-serif); font-weight: 600; font-size: 1.25rem; margin: 0; }
-  .if-badge { font-family: var(--font-mono); font-size: 0.74rem; color: var(--paper-raised); background: var(--if-badge); padding: 0.15rem 0.5rem; }
-  .idx-badge { font-family: var(--font-mono); font-size: 0.68rem; padding: 0.13rem 0.45rem; border: 1px solid currentColor; }
-  .idx-badge.SCIE { color: var(--idx-scie); }
-  .idx-badge.ESCI { color: var(--idx-esci); }
-  .idx-badge.unknown { color: var(--idx-unknown); }
-  .journal-count { font-family: var(--font-mono); font-size: 0.74rem; color: var(--ink-soft); margin-left: auto; }
+  /* ---------- Topic bubble cluster ---------- */
+  .topics-panel { background: var(--card); border-radius: 28px; padding: 1.5rem 1.6rem 1.7rem; margin-bottom: 1.4rem; box-shadow: var(--shadow); }
+  .topics-title { font-size: 1.15rem; margin: 0 0 0.3rem; }
+  .topics-hint { font-size: 0.76rem; color: var(--ink-faint); margin: 0 0 1rem; }
+  .bubble-cloud { display: flex; flex-wrap: wrap; align-items: center; gap: 10px; }
 
-  .top-paper { display: grid; grid-template-columns: 3.8rem 1fr; gap: 1rem; padding: 0.9rem 1rem; margin-bottom: 0.7rem; background: var(--paper-raised); border: 1.5px solid var(--ink); }
-  .top-paper-flag { font-family: var(--font-mono); font-size: 0.68rem; color: var(--acuity-1); letter-spacing: 0.02em; margin-bottom: 0.3rem; }
+  /* ---------- Year trend chart ---------- */
+  .trend-panel { background: var(--card); border-radius: 28px; padding: 1.5rem 1.6rem 1.2rem; margin-bottom: 1.4rem; box-shadow: var(--shadow); }
+  .trend-title { font-size: 1.15rem; margin: 0 0 1rem; }
+  .trend-legend { display: flex; gap: 10px; flex-wrap: wrap; margin-top: 0.8rem; }
+  .trend-legend span { display: inline-flex; align-items: center; gap: 6px; font-size: 0.76rem; color: var(--ink-soft); }
+  .trend-legend .dot { width: 10px; height: 10px; border-radius: 50%; display: inline-block; }
+  .bubble {
+    border: none; cursor: pointer; border-radius: 50%; color: #fff; font-weight: 700;
+    display: flex; align-items: center; justify-content: center; text-align: center;
+    padding: 6px; line-height: 1.2; transition: transform 0.15s ease;
+  }
+  .bubble:hover { transform: scale(1.06); }
+  .bubble.active { outline: 3px solid var(--primary-a); outline-offset: 2px; }
+  .bubble .b-count { display: block; font-weight: 500; opacity: 0.85; }
+  .topic-filter-chip { display: inline-flex; align-items: center; gap: 8px; background: var(--pill-track); color: var(--primary-a); font-size: 0.82rem; font-weight: 700; padding: 8px 16px; border-radius: 999px; margin-bottom: 1rem; }
+  .topic-filter-chip button { border: none; background: none; color: var(--primary-a); font-weight: 900; cursor: pointer; font-size: 0.95rem; }
 
-  .score-badge { font-family: var(--font-mono); font-weight: 600; font-size: 1.15rem; height: 3.6rem; display: flex; align-items: center; justify-content: center; color: var(--paper-raised); }
+  /* ---------- Sidebar + detail layout ---------- */
+  .layout { display: grid; grid-template-columns: 270px 1fr; gap: 24px; align-items: start; }
+  .sidebar { background: var(--card); border-radius: 28px; padding: 22px 18px; box-shadow: var(--shadow); position: sticky; top: 1rem; max-height: calc(100vh - 2rem); overflow-y: auto; }
+  .sidebar-title { font-size: 0.72rem; font-weight: 700; color: var(--ink-faint); margin: 0 0 14px; padding: 0 6px; }
+  .month-block { background: var(--pill-track); border-radius: 20px; padding: 14px 14px 16px; margin-bottom: 10px; }
+  .month-block.collapsed { background: none; padding: 10px; margin-bottom: 0; cursor: pointer; }
+  .month-row { font-size: 0.95rem; display: flex; justify-content: space-between; padding: 2px 4px 10px; }
+  .month-block.collapsed .month-row { padding: 0; color: var(--ink-soft); }
+  .m-count { font-size: 0.72rem; color: var(--ink-faint); font-weight: 500; }
+  .grade-list { display: flex; flex-direction: column; gap: 7px; }
+  .grade-btn { display: flex; justify-content: space-between; font-size: 0.8rem; font-weight: 500; background: #fff; border: none; border-radius: 999px; color: var(--ink-soft); padding: 9px 16px; cursor: pointer; }
+  .grade-btn.active { font-weight: 700; background: var(--primary-grad); color: #fff; }
 
-  .paper-title { font-family: var(--font-serif); font-size: 1.1rem; font-weight: 600; line-height: 1.4; margin: 0 0 0.35rem; text-decoration: none; display: block; }
-  .paper-title:hover { text-decoration: underline; }
-  .paper-title.small { font-size: 1rem; }
+  .detail-panel { min-width: 0; }
+  .detail-header { padding: 4px 8px 16px; display: flex; align-items: baseline; gap: 12px; }
+  .detail-title { font-size: 1.3rem; margin: 0; }
+  .detail-count { font-size: 0.8rem; color: var(--ink-faint); }
 
-  .paper-meta { font-family: var(--font-mono); font-size: 0.74rem; color: var(--ink-soft); display: flex; gap: 0.9rem; flex-wrap: wrap; margin-bottom: 0.5rem; }
-  .field-tag { font-family: var(--font-mono); font-size: 0.68rem; padding: 0.1rem 0.4rem; border: 1px solid currentColor; }
-  .field-tag.preventive { color: var(--acuity-3); }
-  .field-tag.emergency { color: var(--acuity-1); }
-  .issue-tag { font-family: var(--font-mono); font-size: 0.68rem; padding: 0.1rem 0.4rem; border: 1px solid var(--issue); color: var(--issue); }
+  /* ---------- Paper card ---------- */
+  .paper-card { display: grid; grid-template-columns: 60px 1fr; gap: 18px; background: var(--card); border-radius: 24px; padding: 22px; margin-bottom: 16px; box-shadow: var(--shadow); }
+  .score-badge { font-weight: 900; font-size: 1.15rem; width: 56px; height: 56px; border-radius: 50%; display: flex; align-items: center; justify-content: center; color: #fff; }
+  .paper-title { font-family: 'Noto Sans KR', sans-serif; font-weight: 700; font-size: 1.05rem; display: block; margin-bottom: 4px; color: var(--ink); }
+  .paper-title-ko { color: var(--ink-soft); font-size: 0.9rem; margin: 0 0 10px; }
+  .paper-meta { font-size: 0.76rem; display: flex; gap: 8px; flex-wrap: wrap; margin-bottom: 10px; align-items: center; }
+  .tag { padding: 4px 12px; border-radius: 999px; font-weight: 500; }
+  .tag.field-preventive { background: #DFF5EE; color: #2F9C7C; }
+  .tag.field-emergency { background: #FDE7E4; color: #C0392B; }
+  .tag.idx { background: #E9E5FC; color: #5B4BC4; }
+  .tag.q1 { background: #FFEFD6; color: #A8660C; }
+  .tag.q1.Q1 { background: linear-gradient(135deg, #F5B942, #E08C1F); color: #fff; }
+  .tag.ifv { background: var(--primary-grad); color: #fff; font-weight: 700; }
+  .tag.issue { background: #E9E5FC; color: var(--issue); }
+  .tag.cite { background: #F1EEFB; color: #46495E; font-weight: 700; }
+  .meta-plain { color: var(--ink-faint); padding: 4px 2px; }
 
-  .breakdown { display: flex; height: 5px; width: 100%; max-width: 260px; border: 1px solid var(--line-strong); overflow: hidden; }
+  .breakdown { display: flex; height: 7px; width: 100%; max-width: 260px; border-radius: 999px; overflow: hidden; background: var(--bg); }
   .breakdown div:nth-child(1) { background: var(--acuity-1); }
   .breakdown div:nth-child(2) { background: var(--acuity-2); }
   .breakdown div:nth-child(3) { background: var(--acuity-3); }
   .breakdown div:nth-child(4) { background: var(--issue); }
-  .breakdown-label { font-family: var(--font-mono); font-size: 0.66rem; color: var(--ink-soft); margin-top: 0.3rem; }
+  .breakdown-label { font-size: 0.72rem; color: var(--ink-faint); margin: 6px 0 10px; }
 
-  details.rest { margin-top: 0.4rem; }
-  details.rest > summary { font-family: var(--font-mono); font-size: 0.76rem; color: var(--ink-soft); cursor: pointer; padding: 0.3rem 0; list-style: none; }
-  details.rest > summary::-webkit-details-marker { display: none; }
-  details.rest > summary::before { content: '▸ '; }
-  details.rest[open] > summary::before { content: '▾ '; }
-  .rest-row { display: grid; grid-template-columns: 2.6rem 1fr; gap: 0.8rem; padding: 0.7rem 0; border-top: 1px solid var(--line); }
-  .rest-row .score-badge { height: 2.4rem; font-size: 0.9rem; }
+  .abstract-toggle { font-size: 0.78rem; font-weight: 700; color: var(--primary-a); background: none; border: none; cursor: pointer; padding: 0; }
+  .abstract-text { font-size: 0.88rem; line-height: 1.75; margin: 10px 0 0; padding: 16px 18px; background: var(--pill-track); border-radius: 16px; color: #46495E; }
+  .no-abstract { font-size: 0.76rem; color: #C7CADC; margin-top: 4px; }
 
-  .paper-row { display: grid; grid-template-columns: 3.6rem 1fr; gap: 1rem; padding: 1.1rem 0; border-bottom: 1px solid var(--line); }
+  .empty-state { max-width: 620px; margin: 3rem auto; padding: 2rem 1.8rem; background: var(--card); border-radius: 28px; box-shadow: var(--shadow); }
+  .empty-state h2 { font-size: 1.3rem; margin-top: 0; }
+  .empty-state code { font-family: ui-monospace, monospace; background: var(--bg); padding: 0.1rem 0.4rem; border-radius: 6px; font-size: 0.85rem; }
+  .empty-state ol { padding-left: 1.2rem; line-height: 1.9; }
+  .empty-bucket { color: var(--ink-faint); padding: 2rem 0; font-size: 0.9rem; }
 
-  .empty-state { max-width: 620px; margin: 3rem auto; padding: 2rem 1.8rem; border: 1.5px dashed var(--line-strong); background: var(--paper-raised); }
-  .empty-state h2 { font-family: var(--font-serif); font-size: 1.3rem; margin-top: 0; }
-  .empty-state code { font-family: var(--font-mono); background: var(--paper); padding: 0.1rem 0.35rem; font-size: 0.85rem; }
-  .empty-state ol { padding-left: 1.2rem; line-height: 1.8; }
-
-  @media (max-width: 520px) {
-    .paper-row, .top-paper { grid-template-columns: 2.8rem 1fr; }
-    .score-badge { font-size: 1rem; height: 2.8rem; }
-    .journal-count { margin-left: 0; }
-    .topic-row { grid-template-columns: 6.2rem 1fr 2.2rem; }
+  @media (max-width: 760px) {
+    .layout { grid-template-columns: 1fr; }
+    .sidebar { position: static; max-height: none; }
+    .paper-card { grid-template-columns: 48px 1fr; padding: 18px; }
+    .score-badge { width: 44px; height: 44px; font-size: 0.95rem; }
   }
 </style>
 </head>
 <body>
 
 <header class="masthead">
-  <div class="masthead-top">
-    <h1>Paper Radar</h1>
-    <div class="masthead-meta" id="meta-line">데이터 없음</div>
+  <div class="hero">
+    <div class="hero-inner">
+      <h1>Trend report</h1>
+      <p>예방의학과 응급의학, 월별 · 등급별로 최근 3년의 주목도를 추적합니다.</p>
+      <div class="hero-meta" id="meta-line">데이터 없음</div>
+    </div>
   </div>
-  <p class="masthead-sub">예방의학과 응급의학, 저널별로 최근 6개월의 주목도를 추적합니다.</p>
 </header>
 
 <div class="controls">
-  <div class="controls-row">
-    <div class="filter-tabs" id="field-tabs">
-      <button data-field="all" aria-pressed="true">전체</button>
-      <button data-field="preventive" aria-pressed="false">예방의학</button>
-      <button data-field="emergency" aria-pressed="false">응급의학</button>
-    </div>
-    <input type="search" id="search" placeholder="제목, 저널, 저자로 검색…">
+  <div class="field-tabs" id="field-tabs">
+    <button data-field="all" aria-pressed="true">전체</button>
+    <button data-field="preventive" aria-pressed="false">예방의학</button>
+    <button data-field="emergency" aria-pressed="false">응급의학</button>
   </div>
-  <div class="controls-row">
-    <span class="filter-label">등급</span>
-    <div class="filter-tabs secondary" id="index-tabs">
-      <button data-index="all" aria-pressed="true">전체</button>
-      <button data-index="SCIE" aria-pressed="false">SCIE</button>
-      <button data-index="ESCI" aria-pressed="false">ESCI</button>
-      <button data-index="미상" aria-pressed="false">미상</button>
-    </div>
-  </div>
+  <input type="search" id="search" placeholder="제목, 저널, 저자로 검색…">
+  <select id="sort-select" aria-label="정렬 기준">
+    <option value="hot">핫점수순</option>
+    <option value="if">IF순</option>
+    <option value="cite">인용수순</option>
+    <option value="recent">최신순</option>
+  </select>
+  <label id="q1-toggle-wrap" style="display:flex; align-items:center; gap:8px; font-size:0.85rem; font-weight:500; color:var(--ink-soft); background:var(--card); padding:0.65rem 1.1rem; border-radius:999px; box-shadow:var(--shadow); cursor:pointer;">
+    <input type="checkbox" id="q1-toggle" style="accent-color:var(--primary-a);">
+    Q1만 보기
+  </label>
 </div>
 
 <div class="legend">
-  <span><span class="swatch" style="background:var(--acuity-1)"></span>주목도(Altmetric)</span>
-  <span><span class="swatch" style="background:var(--acuity-2)"></span>인용 지표</span>
-  <span><span class="swatch" style="background:var(--acuity-3)"></span>Impact Factor</span>
-  <span><span class="swatch" style="background:var(--issue)"></span>현재 호(issue) 가산점</span>
+  <span style="color:#C0392B; background:#FDE7E4;">● 주목도(Altmetric)</span>
+  <span style="color:#B8860B; background:#FFF3D6;">● 인용 지표</span>
+  <span style="color:#2F9C7C; background:#DFF5EE;">● Impact Factor</span>
+  <span style="color:#6656D6; background:#E9E5FC;">● 현재 호 가산점</span>
 </div>
 
-<main id="list-root"></main>
+<main id="root"></main>
 
 <script>
 async function loadData() {
@@ -181,10 +196,22 @@ function scoreColor(score) {
   return 'var(--acuity-3)';
 }
 
-function idxClass(idx) {
-  if (idx === 'SCIE') return 'SCIE';
-  if (idx === 'ESCI') return 'ESCI';
-  return 'unknown';
+function gradeOf(p) {
+  return (p.index_type === 'SCIE' || p.index_type === 'ESCI') ? p.index_type : '미상';
+}
+
+function monthOf(p) {
+  return (p.pubdate || '').slice(0, 7) || '날짜 미상';
+}
+
+function monthLabel(m) {
+  if (m === '날짜 미상') return m;
+  const [y, mo] = m.split('-');
+  return `${y}년 ${parseInt(mo, 10)}월`;
+}
+
+function esc(s) {
+  return (s || '').replace(/[&<>]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;' }[c]));
 }
 
 function renderMeta(data) {
@@ -196,20 +223,25 @@ function renderMeta(data) {
   const d = new Date(data.generated_at);
   const stamp = d.toLocaleString('ko-KR', { year: 'numeric', month: '2-digit', day: '2-digit', hour: '2-digit', minute: '2-digit' });
   const total = (data.fields || []).reduce((s, f) => s + (f.paper_count || 0), 0);
-  el.textContent = `갱신 ${stamp} · 논문 ${total}건 · 최근 ${data.window_days ?? 182}일`;
+  el.textContent = `갱신 ${stamp} · 논문 ${total}건 · 최근 ${data.window_days ?? 1095}일`;
 }
 
-function metaLine(p) {
-  const authors = (p.authors || []).join(', ');
-  return `
-    <div class="paper-meta">
-      <span class="field-tag ${p.field === 'preventive' ? 'preventive' : 'emergency'}">${p.field_label}</span>
-      ${p.is_current_issue ? '<span class="issue-tag">현재 호</span>' : ''}
-      <span>${p.pubdate || ''}</span>
-      <span>${authors}${authors ? ' 외' : ''}</span>
-    </div>`;
+/* ---------- sorting ---------- */
+function sortPapers(list, mode) {
+  const arr = list.slice();
+  if (mode === 'if') {
+    arr.sort((a, b) => (b.impact_factor ?? 0) - (a.impact_factor ?? 0) || b.hot_score - a.hot_score);
+  } else if (mode === 'cite') {
+    arr.sort((a, b) => (b.citation_count ?? 0) - (a.citation_count ?? 0) || b.hot_score - a.hot_score);
+  } else if (mode === 'recent') {
+    arr.sort((a, b) => (b.pubdate || '').localeCompare(a.pubdate || ''));
+  } else {
+    arr.sort((a, b) => b.hot_score - a.hot_score);
+  }
+  return arr;
 }
 
+/* ---------- paper card ---------- */
 function breakdownHTML(p) {
   const altW = Math.max(0.5, p.altmetric_score || 0);
   const citeW = Math.max(0.5, p.citation_count || 0);
@@ -226,85 +258,105 @@ function breakdownHTML(p) {
     <div class="breakdown-label">Altmetric ${p.altmetric_score ?? 0} · 인용 ${p.citation_count ?? 0}${p.rcr != null ? ` · RCR ${p.rcr.toFixed(2)}` : ''}${p.is_current_issue ? ' · 최신 호 게재' : ''}</div>`;
 }
 
-function topPaperHTML(p) {
+function paperCardHTML(p) {
+  const authors = (p.authors || []).join(', ');
+  const abstractBlock = p.abstract
+    ? `<button class="abstract-toggle" data-toggle-abstract="${p.pmid}">초록 보기 ▾</button><div class="abstract-text" id="abs-${p.pmid}" hidden>${esc(p.abstract)}</div>`
+    : `<div class="no-abstract">초록 없음</div>`;
   return `
-  <div class="top-paper">
+  <div class="paper-card">
     <div class="score-badge" style="background:${scoreColor(p.hot_score)}">${p.hot_score.toFixed(0)}</div>
     <div>
-      <div class="top-paper-flag">이 저널에서 가장 핫한 논문</div>
-      <a class="paper-title" href="${p.url}" target="_blank" rel="noopener">${p.title}</a>
-      ${metaLine(p)}
-      ${breakdownHTML(p)}
-    </div>
-  </div>`;
-}
-
-function restRowHTML(p) {
-  return `
-  <div class="rest-row">
-    <div class="score-badge" style="background:${scoreColor(p.hot_score)}">${p.hot_score.toFixed(0)}</div>
-    <div>
-      <a class="paper-title small" href="${p.url}" target="_blank" rel="noopener">${p.title}</a>
-      ${metaLine(p)}
-    </div>
-  </div>`;
-}
-
-function journalSectionHTML(journal, impactFactor, indexType, papers, totalFound) {
-  const top = papers[0];
-  const rest = papers.slice(1);
-  const ifText = impactFactor != null ? `IF ${impactFactor.toFixed(1)}` : 'IF 정보 없음';
-  const countText = totalFound && totalFound > papers.length
-    ? `전체 ${totalFound}건 중 상위 ${papers.length}건`
-    : `${papers.length}건`;
-  return `
-  <section class="journal-section">
-    <div class="journal-header">
-      <h2 class="journal-name">${journal || '저널 미상'}</h2>
-      <span class="if-badge">${ifText}</span>
-      <span class="idx-badge ${idxClass(indexType)}">${indexType || '미상'}</span>
-      <span class="journal-count">${countText}</span>
-    </div>
-    ${topPaperHTML(top)}
-    ${rest.length ? `
-    <details class="rest">
-      <summary>이 저널의 다른 논문 ${rest.length}건 보기</summary>
-      ${rest.map(restRowHTML).join('')}
-    </details>` : ''}
-  </section>`;
-}
-
-function paperRowHTML(p) {
-  return `
-  <div class="paper-row">
-    <div class="score-badge" style="background:${scoreColor(p.hot_score)}">${p.hot_score.toFixed(0)}</div>
-    <div>
-      <a class="paper-title" href="${p.url}" target="_blank" rel="noopener">${p.title}</a>
+      <a class="paper-title" href="${p.url}" target="_blank" rel="noopener">${esc(p.title)}</a>
+      ${p.title_ko ? `<p class="paper-title-ko">${esc(p.title_ko)}</p>` : ''}
       <div class="paper-meta">
-        <span class="field-tag ${p.field === 'preventive' ? 'preventive' : 'emergency'}">${p.field_label}</span>
-        ${p.is_current_issue ? '<span class="issue-tag">현재 호</span>' : ''}
-        <span>${p.journal || '저널 미상'}${p.volume ? ` · Vol.${p.volume}` : ''}${p.issue ? `(${p.issue})` : ''}</span>
-        <span class="idx-badge ${idxClass(p.index_type)}">${p.index_type || '미상'}</span>
-        <span>${p.pubdate || ''}</span>
+        <span class="tag field-${p.field}">${p.field_label}</span>
+        <span class="tag idx">${p.index_type || '미상'}</span>
+        <span class="tag q1 ${p.quartile || ''}">${p.quartile || '미상'}</span>
+        <span class="tag ifv">IF ${p.impact_factor != null ? p.impact_factor.toFixed(1) : '?'}</span>
+        ${p.is_current_issue ? '<span class="tag issue">현재 호</span>' : ''}
+        <span class="tag cite">인용 ${p.citation_count ?? 0}회</span>
+        <span class="meta-plain">${p.journal || '저널 미상'} · ${p.pubdate || ''} · ${authors}${authors ? ' 외' : ''}</span>
       </div>
       ${breakdownHTML(p)}
+      ${abstractBlock}
     </div>
   </div>`;
 }
 
+/* ---------- topics bubble cloud ---------- */
 function topicsPanelHTML(field) {
   const topics = field.hot_topics || [];
   if (!topics.length) return '';
   const max = Math.max(...topics.map(t => t.score));
+  const min = Math.min(...topics.map(t => t.score));
+  const sizeFor = (score) => {
+    if (max === min) return 110;
+    const ratio = (score - min) / (max - min);
+    return Math.round(70 + ratio * 100); // 70px ~ 170px
+  };
   return `
-  <div class="topics-panel">
+  <div class="topics-panel" data-field-key="${field.key}">
     <h3 class="topics-title">${field.label} — 가장 영향력 있는 주제</h3>
-    ${topics.map(t => `
-      <div class="topic-row">
-        <span class="topic-label">${t.phrase}</span>
-        <div class="topic-track"><div class="topic-fill" style="width:${(t.score / max * 100).toFixed(1)}%"></div></div>
-        <span class="topic-count">${t.paper_count}편</span>
-      </div>`).join('')}
+    <p class="topics-hint">원을 클릭하면 그 주제의 논문만 볼 수 있어요.</p>
+    <div class="bubble-cloud">
+      ${topics.map((t, i) => {
+        const size = sizeFor(t.score);
+        const hue = i % 2 === 0 ? 'var(--primary-a)' : 'var(--primary-b)';
+        return `
+        <button class="bubble" data-topic-field="${field.key}" data-topic-phrase="${esc(t.phrase)}"
+          style="width:${size}px; height:${size}px; background:${hue}; font-size:${Math.max(11, size/9)}px;">
+          <span>${esc(t.phrase)}<span class="b-count">${t.paper_count}편</span></span>
+        </button>`;
+      }).join('')}
+    </div>
+  </div>`;
+}
+
+/* ---------- year-by-year trend line chart ---------- */
+const TREND_COLORS = ['#3B4CC4', '#E0555A', '#2F9C7C', '#C98A2E', '#8B5CF6', '#0E9DB5'];
+
+function trendPanelHTML(field) {
+  const trend = field.topic_trends;
+  if (!trend || !trend.years || trend.years.length < 2 || !trend.series || !trend.series.length) return '';
+
+  const years = trend.years;
+  const series = trend.series.filter(s => s.scores.some(v => v > 0));
+  if (!series.length) return '';
+
+  const W = 640, H = 220, padL = 34, padR = 12, padT = 14, padB = 28;
+  const plotW = W - padL - padR, plotH = H - padT - padB;
+  const maxVal = Math.max(1, ...series.flatMap(s => s.scores));
+  const xFor = (i) => padL + (years.length === 1 ? plotW / 2 : (i / (years.length - 1)) * plotW);
+  const yFor = (v) => padT + plotH - (v / maxVal) * plotH;
+
+  const gridLines = [0, 0.5, 1].map(f => {
+    const y = padT + plotH - f * plotH;
+    return `<line x1="${padL}" y1="${y}" x2="${W - padR}" y2="${y}" stroke="#E4E7F5" stroke-width="1"/>`;
+  }).join('');
+
+  const xLabels = years.map((y, i) => `<text x="${xFor(i)}" y="${H - 8}" font-size="11" fill="#9599B3" text-anchor="middle">${y}</text>`).join('');
+
+  const lines = series.map((s, si) => {
+    const color = TREND_COLORS[si % TREND_COLORS.length];
+    const points = s.scores.map((v, i) => `${xFor(i)},${yFor(v)}`).join(' ');
+    const dots = s.scores.map((v, i) => `<circle cx="${xFor(i)}" cy="${yFor(v)}" r="3.5" fill="${color}"/>`).join('');
+    return `<polyline points="${points}" fill="none" stroke="${color}" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>${dots}`;
+  }).join('');
+
+  const legend = series.map((s, si) => `
+    <span><span class="dot" style="background:${TREND_COLORS[si % TREND_COLORS.length]}"></span>${esc(s.phrase)}</span>
+  `).join('');
+
+  return `
+  <div class="trend-panel">
+    <h3 class="trend-title">${field.label} — 연도별 주제 트렌드</h3>
+    <svg viewBox="0 0 ${W} ${H}" style="width:100%; height:auto; max-width:${W}px;">
+      ${gridLines}
+      ${lines}
+      ${xLabels}
+    </svg>
+    <div class="trend-legend">${legend}</div>
   </div>`;
 }
 
@@ -315,82 +367,233 @@ function emptyStateHTML() {
     <p>이 페이지는 <code>data/papers.json</code>을 읽어서 그립니다. 아래 순서로 한 번 채워주세요.</p>
     <ol>
       <li><code>pip install requests</code></li>
-      <li><code>python collect.py</code> 실행 (PubMed·iCite·Altmetric 조회, 몇 분 소요)</li>
+      <li><code>python collect.py</code> 실행 (PubMed·iCite·Altmetric·번역·초록 조회, 시간이 걸립니다)</li>
       <li>생성된 <code>data/papers.json</code>과 함께 이 페이지를 열거나 GitHub Pages에 배포</li>
     </ol>
     <p>매일 자동 갱신하려면 <code>.github/workflows/update.yml</code>을 참고해 GitHub Actions로 스케줄링하세요.</p>
   </div>`;
 }
 
+const GRADE_ORDER = ['SCIE', 'ESCI', '미상'];
+
 let ALL_FIELDS = [];
 let currentField = 'all';
-let currentIndex = 'all';
+let activeMonth = null;
+let activeGrade = null;
+let activeTopic = null; // { fieldKey, phrase, pmids: Set }
+let currentSort = 'hot';
+let q1Only = false;
 
-function flattenPapers(fields) {
-  const out = [];
-  fields.forEach(f => f.journals.forEach(g => out.push(...g.papers)));
-  return out;
+function visibleFields() {
+  return currentField === 'all' ? ALL_FIELDS : ALL_FIELDS.filter(f => f.key === currentField);
 }
 
-function matchesIndex(p) {
-  if (currentIndex === 'all') return true;
-  return (p.index_type || '미상') === currentIndex;
+function currentPapers() {
+  const out = [];
+  visibleFields().forEach(f => f.journals.forEach(g => out.push(...g.papers)));
+  return q1Only ? out.filter(p => p.quartile === 'Q1') : out;
+}
+
+function buildIndex(papers) {
+  const idx = {};
+  papers.forEach(p => {
+    const m = monthOf(p);
+    const g = gradeOf(p);
+    idx[m] = idx[m] || {};
+    idx[m][g] = idx[m][g] || [];
+    idx[m][g].push(p);
+  });
+  return idx;
+}
+
+function sortedMonths(idx) {
+  const months = Object.keys(idx).filter(m => m !== '날짜 미상').sort().reverse();
+  if (idx['날짜 미상']) months.push('날짜 미상');
+  return months;
+}
+
+function renderSidebar(idx) {
+  const months = sortedMonths(idx);
+  if (!months.length) return '<p style="font-size:0.8rem;color:var(--ink-faint);">데이터 없음</p>';
+
+  if (!activeMonth || !idx[activeMonth]) {
+    activeMonth = months[0];
+    activeGrade = null;
+  }
+  const gradesHere = GRADE_ORDER.filter(g => idx[activeMonth][g] && idx[activeMonth][g].length);
+  if (!activeGrade || !idx[activeMonth][activeGrade]) {
+    activeGrade = gradesHere[0] || null;
+  }
+
+  return `
+    <p class="sidebar-title">월 → 등급 선택</p>
+    ${months.map(m => {
+      const total = GRADE_ORDER.reduce((s, g) => s + (idx[m][g] ? idx[m][g].length : 0), 0);
+      const grades = GRADE_ORDER.filter(g => idx[m][g] && idx[m][g].length);
+      if (m !== activeMonth) {
+        return `
+        <div class="month-block collapsed" data-month-select="${m}">
+          <div class="month-row"><span>${monthLabel(m)}</span><span class="m-count">${total}건</span></div>
+        </div>`;
+      }
+      return `
+      <div class="month-block">
+        <div class="month-row pr-head"><span>${monthLabel(m)}</span><span class="m-count">${total}건</span></div>
+        <div class="grade-list">
+          ${grades.map(g => `
+            <button class="grade-btn ${g === activeGrade ? 'active' : ''}" data-month="${m}" data-grade="${g}">
+              <span>${g}</span><span>${idx[m][g].length}</span>
+            </button>`).join('')}
+        </div>
+      </div>`;
+    }).join('')}
+  `;
+}
+
+function renderDetail(idx) {
+  if (!activeMonth || !activeGrade || !idx[activeMonth] || !idx[activeMonth][activeGrade]) {
+    return `<div class="empty-bucket">왼쪽에서 월과 등급을 선택하세요.</div>`;
+  }
+  const papers = sortPapers(idx[activeMonth][activeGrade], currentSort);
+  return `
+    <div class="detail-header">
+      <h2 class="detail-title pr-head">${monthLabel(activeMonth)} · ${activeGrade}</h2>
+      <span class="detail-count">${papers.length}건</span>
+    </div>
+    ${papers.map(paperCardHTML).join('')}
+  `;
 }
 
 function render() {
-  const root = document.getElementById('list-root');
+  const root = document.getElementById('root');
   const q = document.getElementById('search').value.trim().toLowerCase();
-
-  let fields = ALL_FIELDS;
-  if (currentField !== 'all') fields = fields.filter(f => f.key === currentField);
 
   if (ALL_FIELDS.length === 0) {
     root.innerHTML = emptyStateHTML();
     return;
   }
 
+  const fields = visibleFields();
+  const topicsHTML = fields.map(f => trendPanelHTML(f) + topicsPanelHTML(f)).join('');
+
+  // 주제 필터가 지금 보이는 분야 범위를 벗어나면 해제
+  if (activeTopic && !fields.some(f => f.key === activeTopic.fieldKey)) {
+    activeTopic = null;
+  }
+
   if (q) {
-    let list = flattenPapers(fields).filter(matchesIndex).filter(p =>
+    let list = currentPapers().filter(p =>
       (p.title || '').toLowerCase().includes(q) ||
+      (p.title_ko || '').toLowerCase().includes(q) ||
       (p.journal || '').toLowerCase().includes(q) ||
       (p.authors || []).join(' ').toLowerCase().includes(q)
     );
-    list.sort((a, b) => b.hot_score - a.hot_score);
-    root.innerHTML = list.length
-      ? list.map(paperRowHTML).join('')
-      : '<p style="font-family:var(--font-mono);color:var(--ink-soft);padding:2rem 0;">검색 결과가 없습니다.</p>';
+    list = sortPapers(list, currentSort);
+    root.innerHTML = topicsHTML + (list.length
+      ? list.map(paperCardHTML).join('')
+      : '<p class="empty-bucket">검색 결과가 없습니다.</p>');
+    attachHandlers();
     return;
   }
 
-  let html = '';
-  fields.forEach(f => {
-    html += topicsPanelHTML(f);
-    f.journals.forEach(g => {
-      const papers = g.papers.filter(matchesIndex);
-      if (!papers.length) return;
-      html += journalSectionHTML(g.journal, g.impact_factor, g.index_type, papers, g.paper_count);
+  if (activeTopic) {
+    const pool = currentPapers().filter(p => activeTopic.pmids.has(p.pmid));
+    const list = sortPapers(pool, currentSort);
+    root.innerHTML = `
+      ${topicsHTML}
+      <span class="topic-filter-chip">주제: ${esc(activeTopic.phrase)} (${list.length}편)
+        <button data-clear-topic="1" aria-label="주제 필터 해제">✕</button>
+      </span>
+      ${list.length ? list.map(paperCardHTML).join('') : '<p class="empty-bucket">해당 주제의 논문이 없습니다.</p>'}
+    `;
+    attachHandlers();
+    return;
+  }
+
+  const idx = buildIndex(currentPapers());
+  root.innerHTML = `
+    ${topicsHTML}
+    <div class="layout">
+      <aside class="sidebar" id="sidebar">${renderSidebar(idx)}</aside>
+      <section class="detail-panel" id="detail">${renderDetail(idx)}</section>
+    </div>
+  `;
+  attachHandlers();
+}
+
+function attachHandlers() {
+  const sidebar = document.getElementById('sidebar');
+  if (sidebar) {
+    sidebar.addEventListener('click', (e) => {
+      const gradeBtn = e.target.closest('.grade-btn');
+      if (gradeBtn) {
+        activeMonth = gradeBtn.dataset.month;
+        activeGrade = gradeBtn.dataset.grade;
+        render();
+        return;
+      }
+      const monthBtn = e.target.closest('[data-month-select]');
+      if (monthBtn) {
+        activeMonth = monthBtn.dataset.monthSelect;
+        activeGrade = null;
+        render();
+      }
+    });
+  }
+
+  document.querySelectorAll('.bubble').forEach(b => {
+    b.addEventListener('click', () => {
+      const fieldKey = b.dataset.topicField;
+      const phrase = b.dataset.topicPhrase;
+      const field = ALL_FIELDS.find(f => f.key === fieldKey);
+      const topic = field && (field.hot_topics || []).find(t => t.phrase === phrase);
+      if (!topic) return;
+      if (activeTopic && activeTopic.phrase === phrase && activeTopic.fieldKey === fieldKey) {
+        activeTopic = null; // 다시 클릭하면 해제
+      } else {
+        activeTopic = { fieldKey, phrase, pmids: new Set(topic.pmids || []) };
+      }
+      render();
     });
   });
-  root.innerHTML = html || '<p style="font-family:var(--font-mono);color:var(--ink-soft);padding:2rem 0;">해당 조건에 맞는 데이터가 없습니다.</p>';
+
+  document.querySelectorAll('[data-clear-topic]').forEach(b => {
+    b.addEventListener('click', () => { activeTopic = null; render(); });
+  });
+
+  document.querySelectorAll('[data-toggle-abstract]').forEach(b => {
+    b.addEventListener('click', () => {
+      const box = document.getElementById(`abs-${b.dataset.toggleAbstract}`);
+      if (!box) return;
+      const isHidden = box.hasAttribute('hidden');
+      if (isHidden) { box.removeAttribute('hidden'); b.textContent = '초록 접기 ▴'; }
+      else { box.setAttribute('hidden', ''); b.textContent = '초록 보기 ▾'; }
+    });
+  });
 }
 
 document.getElementById('field-tabs').addEventListener('click', (e) => {
   const btn = e.target.closest('button');
   if (!btn) return;
   currentField = btn.dataset.field;
+  activeMonth = null;
+  activeGrade = null;
+  activeTopic = null;
   document.querySelectorAll('#field-tabs button').forEach(b => b.setAttribute('aria-pressed', b === btn));
   render();
 });
 
-document.getElementById('index-tabs').addEventListener('click', (e) => {
-  const btn = e.target.closest('button');
-  if (!btn) return;
-  currentIndex = btn.dataset.index;
-  document.querySelectorAll('#index-tabs button').forEach(b => b.setAttribute('aria-pressed', b === btn));
+document.getElementById('search').addEventListener('input', render);
+document.getElementById('sort-select').addEventListener('change', (e) => {
+  currentSort = e.target.value;
   render();
 });
-
-document.getElementById('search').addEventListener('input', render);
+document.getElementById('q1-toggle').addEventListener('change', (e) => {
+  q1Only = e.target.checked;
+  activeMonth = null;
+  activeGrade = null;
+  render();
+});
 
 loadData().then(data => {
   renderMeta(data);
