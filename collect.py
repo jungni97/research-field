@@ -189,14 +189,14 @@ RELDATE_DAYS = 365 * 3  # 최근 3년
 # 동일). 그래서 전체 기간을 BUCKET_COUNT개 구간으로 쪼개서 구간마다
 # 고르게 수집합니다 — 3년 전 논문도, 최근 논문도 비교 대상에 들어오도록.
 BUCKET_COUNT = 6  # 3년을 6구간(구간당 약 6개월)으로 분할
-MAX_PER_BUCKET = 50  # 구간 하나당 수집할 논문 수 (분야당 최대 BUCKET_COUNT*MAX_PER_BUCKET건)
+MAX_PER_BUCKET = 80  # 구간 하나당 수집할 논문 수 (분야당 최대 BUCKET_COUNT*MAX_PER_BUCKET건)
 
 # --- 화면에 보여줄 범위 (진짜 "핫한 것만" 필터링) ---
 # 위에서 모은 풀 중, 저널당/분야당 상위 몇 개만 실제로
 # data/papers.json에 남길지를 정합니다. 점수 계산은 전체 풀을 기준으로 하되,
 # 최종 출력은 이렇게 추려서 페이지가 "핫한 것만" 보이게 합니다.
-TOP_PAPERS_PER_JOURNAL = 10  # 저널 하나당 최대 몇 편까지 보여줄지
-TOP_JOURNALS_PER_FIELD = 25  # 분야 하나당 최대 몇 개 저널까지 보여줄지
+TOP_PAPERS_PER_JOURNAL = 8  # 저널 하나당 최대 몇 편까지 보여줄지
+TOP_JOURNALS_PER_FIELD = 45  # 분야 하나당 최대 몇 개 저널까지 보여줄지
 
 REQUEST_DELAY = 0.34  # NCBI 무료 한도(초당 3회) 준수용 딜레이
 ALTMETRIC_DELAY = 0.5  # Altmetric 무료 조회 한도 준수용 딜레이 (조금 더 여유있게)
@@ -388,19 +388,51 @@ def normalize(values: list[float]) -> list[float]:
     return [(v - lo) / (hi - lo) for v in values]
 
 
+def parse_loose_pubmed_date(raw: str):
+    """
+    PubMed의 epubdate/pubdate 필드는 형식이 들쭉날쭉합니다
+    ("2026 Sep 14", "2026 Sep", "2026" 등). 되는 데까지 파싱합니다.
+    """
+    raw = (raw or "").strip()
+    if not raw:
+        return None
+    for fmt in ("%Y %b %d", "%Y %b", "%Y"):
+        try:
+            return datetime.strptime(raw, fmt)
+        except ValueError:
+            continue
+    return None
+
+
+def resolve_actual_date(summary_item: dict):
+    """
+    PubMed의 pubdate/sortpubdate는 실제 온라인 공개일이 아니라 저널이
+    매긴 '인쇄판 발행 예정월'(예: 12월호)인 경우가 많아, 실제로는 이번
+    달에 나왔는데도 미래 날짜로 찍히곤 합니다. 그래서 실제 온라인
+    최초 공개일인 epubdate를 최우선으로 쓰고, 없을 때만 sortpubdate/
+    pubdate로 대체합니다.
+    """
+    epub = parse_loose_pubmed_date(summary_item.get("epubdate", ""))
+    if epub:
+        return epub
+
+    raw = summary_item.get("sortpubdate", "")
+    if raw:
+        try:
+            return datetime.strptime(raw[:10], "%Y/%m/%d")
+        except ValueError:
+            pass
+
+    return parse_loose_pubmed_date(summary_item.get("pubdate", ""))
+
+
 def parse_pubdate(summary_item: dict) -> str:
-    raw = summary_item.get("sortpubdate", "") or summary_item.get("pubdate", "")
-    return raw[:10].replace("/", "-") if raw else ""
+    dt = resolve_actual_date(summary_item)
+    return dt.strftime("%Y-%m-%d") if dt else ""
 
 
 def parse_sort_date(summary_item: dict):
-    raw = summary_item.get("sortpubdate", "")
-    if not raw:
-        return None
-    try:
-        return datetime.strptime(raw[:10], "%Y/%m/%d")
-    except ValueError:
-        return None
+    return resolve_actual_date(summary_item)
 
 
 def flag_current_issue(records: list[dict]) -> None:

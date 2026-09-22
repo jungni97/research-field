@@ -56,11 +56,10 @@
 
   main { max-width: 1180px; margin: 1.5rem auto 0; padding: 0 24px; }
 
-  /* ---------- Topic bubble cluster ---------- */
+  /* ---------- Topic bar chart ---------- */
   .topics-panel { background: var(--card); border-radius: 28px; padding: 1.5rem 1.6rem 1.7rem; margin-bottom: 1.4rem; box-shadow: var(--shadow); }
   .topics-title { font-size: 1.15rem; margin: 0 0 0.3rem; }
   .topics-hint { font-size: 0.76rem; color: var(--ink-faint); margin: 0 0 1rem; }
-  .bubble-cloud { display: flex; flex-wrap: wrap; align-items: center; gap: 10px; }
 
   /* ---------- Year trend chart ---------- */
   .trend-panel { background: var(--card); border-radius: 28px; padding: 1.5rem 1.6rem 1.2rem; margin-bottom: 1.4rem; box-shadow: var(--shadow); }
@@ -68,14 +67,15 @@
   .trend-legend { display: flex; gap: 10px; flex-wrap: wrap; margin-top: 0.8rem; }
   .trend-legend span { display: inline-flex; align-items: center; gap: 6px; font-size: 0.76rem; color: var(--ink-soft); }
   .trend-legend .dot { width: 10px; height: 10px; border-radius: 50%; display: inline-block; }
-  .bubble {
-    border: none; cursor: pointer; border-radius: 50%; color: #fff; font-weight: 700;
-    display: flex; align-items: center; justify-content: center; text-align: center;
-    padding: 6px; line-height: 1.2; transition: transform 0.15s ease;
-  }
-  .bubble:hover { transform: scale(1.06); }
-  .bubble.active { outline: 3px solid var(--primary-a); outline-offset: 2px; }
-  .bubble .b-count { display: block; font-weight: 500; opacity: 0.85; }
+
+  .topic-bar-row { display: grid; grid-template-columns: 150px 1fr 42px; align-items: center; gap: 12px; width: 100%; background: none; border: none; cursor: pointer; padding: 6px; border-radius: 14px; margin-bottom: 6px; text-align: left; }
+  .topic-bar-row:hover { background: var(--pill-track); }
+  .topic-bar-row.active { background: var(--pill-track); }
+  .topic-bar-label { font-size: 0.82rem; font-weight: 500; color: var(--ink); text-align: right; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  .topic-bar-row.active .topic-bar-label { font-weight: 700; color: var(--primary-a); }
+  .topic-bar-track { background: var(--bg); height: 16px; border-radius: 999px; overflow: hidden; }
+  .topic-bar-fill { background: var(--primary-grad); height: 100%; border-radius: 999px; }
+  .topic-bar-count { font-size: 0.72rem; color: var(--ink-faint); }
   .topic-filter-chip { display: inline-flex; align-items: center; gap: 8px; background: var(--pill-track); color: var(--primary-a); font-size: 0.82rem; font-weight: 700; padding: 8px 16px; border-radius: 999px; margin-bottom: 1rem; }
   .topic-filter-chip button { border: none; background: none; color: var(--primary-a); font-weight: 900; cursor: pointer; font-size: 0.95rem; }
 
@@ -284,32 +284,22 @@ function paperCardHTML(p) {
   </div>`;
 }
 
-/* ---------- topics bubble cloud ---------- */
+/* ---------- topics bar chart ---------- */
 function topicsPanelHTML(field) {
   const topics = field.hot_topics || [];
   if (!topics.length) return '';
   const max = Math.max(...topics.map(t => t.score));
-  const min = Math.min(...topics.map(t => t.score));
-  const sizeFor = (score) => {
-    if (max === min) return 110;
-    const ratio = (score - min) / (max - min);
-    return Math.round(70 + ratio * 100); // 70px ~ 170px
-  };
+  const isActive = (phrase) => activeTopic && activeTopic.fieldKey === field.key && activeTopic.phrase === phrase;
   return `
   <div class="topics-panel" data-field-key="${field.key}">
     <h3 class="topics-title">${field.label} — 가장 영향력 있는 주제</h3>
-    <p class="topics-hint">원을 클릭하면 그 주제의 논문만 볼 수 있어요.</p>
-    <div class="bubble-cloud">
-      ${topics.map((t, i) => {
-        const size = sizeFor(t.score);
-        const hue = i % 2 === 0 ? 'var(--primary-a)' : 'var(--primary-b)';
-        return `
-        <button class="bubble" data-topic-field="${field.key}" data-topic-phrase="${esc(t.phrase)}"
-          style="width:${size}px; height:${size}px; background:${hue}; font-size:${Math.max(11, size/9)}px;">
-          <span>${esc(t.phrase)}<span class="b-count">${t.paper_count}편</span></span>
-        </button>`;
-      }).join('')}
-    </div>
+    <p class="topics-hint">막대를 클릭하면 그 주제의 논문만 볼 수 있어요.</p>
+    ${topics.map(t => `
+      <button class="topic-bar-row ${isActive(t.phrase) ? 'active' : ''}" data-topic-field="${field.key}" data-topic-phrase="${esc(t.phrase)}">
+        <span class="topic-bar-label">${esc(t.phrase)}</span>
+        <span class="topic-bar-track"><span class="topic-bar-fill" style="width:${(t.score / max * 100).toFixed(1)}%"></span></span>
+        <span class="topic-bar-count">${t.paper_count}편</span>
+      </button>`).join('')}
   </div>`;
 }
 
@@ -541,7 +531,7 @@ function attachHandlers() {
     });
   }
 
-  document.querySelectorAll('.bubble').forEach(b => {
+  document.querySelectorAll('.topic-bar-row').forEach(b => {
     b.addEventListener('click', () => {
       const fieldKey = b.dataset.topicField;
       const phrase = b.dataset.topicPhrase;
