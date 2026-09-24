@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-23T20:21:44.620483Z",
+  "generated_at": "2026-09-24T20:22:16.804705Z",
   "window_days": 1095,
   "fields": [
     {
       "key": "preventive",
       "label": "예방의학",
-      "paper_count": 448,
+      "paper_count": 454,
       "journals": [
         {
           "journal": "The Orthopedic clinics of North America",
@@ -611,7 +611,7 @@
           "impact_factor": 1.5,
           "index_type": "미상",
           "quartile": "미상",
-          "paper_count": 93,
+          "paper_count": 94,
           "top_paper": {
             "pmid": "39949340",
             "title": "Analysis of factors influencing HPV vaccination intention among Chinese college students: structural equation modeling based on health belief theory.",
@@ -5314,15 +5314,6 @@
             ]
           },
           {
-            "phrase": "quality life",
-            "scores": [
-              0.0,
-              40.7,
-              10.0,
-              10.0
-            ]
-          },
-          {
             "phrase": "covid- vaccination",
             "scores": [
               0.0,
@@ -5341,21 +5332,30 @@
             ]
           },
           {
-            "phrase": "vaccination status",
-            "scores": [
-              0.0,
-              10.0,
-              29.4,
-              16.9
-            ]
-          },
-          {
             "phrase": "genetic testing",
             "scores": [
               0.0,
               11.0,
               31.0,
               10.0
+            ]
+          },
+          {
+            "phrase": "breast cancer",
+            "scores": [
+              16.9,
+              0.0,
+              13.8,
+              20.0
+            ]
+          },
+          {
+            "phrase": "quality life",
+            "scores": [
+              0.0,
+              40.7,
+              10.0,
+              0.0
             ]
           }
         ]
@@ -5364,7 +5364,7 @@
     {
       "key": "emergency",
       "label": "응급의학",
-      "paper_count": 451,
+      "paper_count": 452,
       "journals": [
         {
           "journal": "Resuscitation",
@@ -5631,7 +5631,7 @@
           "impact_factor": 1.5,
           "index_type": "미상",
           "quartile": "미상",
-          "paper_count": 53,
+          "paper_count": 54,
           "top_paper": {
             "pmid": "39642139",
             "title": "A machine learning-based risk score for prediction of mechanical ventilation in children with dengue shock syndrome: A retrospective cohort study.",
@@ -7281,127 +7281,6 @@
           ]
         },
         {
-          "journal": "Journal of the American Board of Family Medicine : JABFM",
-          "impact_factor": 1.5,
-          "index_type": "미상",
-          "quartile": "미상",
-          "paper_count": 3,
-          "top_paper": {
-            "pmid": "39455267",
-            "title": "Using Primary Health Care Electronic Medical Records to Predict Hospitalizations, Emergency Department Visits, and Mortality: A Systematic Review.",
-            "journal": "Journal of the American Board of Family Medicine : JABFM",
-            "impact_factor": 1.5,
-            "index_type": "미상",
-            "quartile": "미상",
-            "pubdate": "2024-07-01",
-            "authors": [
-              "Johnson R",
-              "Chang T",
-              "Moineddin R"
-            ],
-            "citation_count": 5,
-            "rcr": 1.4178738021943615,
-            "volume": "37",
-            "issue": "4",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/39455267/",
-            "altmetric_score": 0,
-            "altmetric_news": 0,
-            "altmetric_social": 0,
-            "is_current_issue": false,
-            "hot_score": 17.4,
-            "field": "emergency",
-            "field_label": "응급의학",
-            "abstract": "INTRODUCTION: High-quality primary care can reduce avoidable emergency department visits and emergency hospitalizations. The availability of electronic medical record (EMR) data and capacities for data storage and processing have created opportunities for predictive analytics. This systematic review examines studies which predict emergency department visits, hospitalizations, and mortality using EMR data from primary care. METHODS: Six databases (Ovid MEDLINE, PubMed, Embase, EBM Reviews (Cochrane Database of Systematic Reviews, Database of Abstracts of Reviews of Effects, Cochrane Central Register of Controlled Trials, Cochrane Methodology Register, Health Technology Assessment, NHS Economic Evaluation Database), Scopus, CINAHL) were searched to identify primary peer-reviewed studies in English from inception to February 5, 2020. The search was initially conducted on January 18, 2019, and updated on February 5, 2020. RESULTS: A total of 9456 citations were double-reviewed, and 31 studies met the inclusion criteria. The predictive ability measured by C-statistics (ROC) of the best performing models from each study ranged from 0.57 to 0.95. Less than half of the included studies used artificial intelligence methods and only 7 (23%) were externally validated. Age, medical diagnoses, sex, medication use, and prior health service use were the most common predictor variables. Few studies discussed or examined the clinical utility of models. CONCLUSIONS: This review helps address critical gaps in the literature regarding the potential of primary care EMR data. Despite further work required to address bias and improve the quality and reporting of prediction models, the use of primary care EMR data for predictive analytics holds promise.",
-            "title_ko": ""
-          },
-          "papers": [
-            {
-              "pmid": "39455267",
-              "title": "Using Primary Health Care Electronic Medical Records to Predict Hospitalizations, Emergency Department Visits, and Mortality: A Systematic Review.",
-              "journal": "Journal of the American Board of Family Medicine : JABFM",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2024-07-01",
-              "authors": [
-                "Johnson R",
-                "Chang T",
-                "Moineddin R"
-              ],
-              "citation_count": 5,
-              "rcr": 1.4178738021943615,
-              "volume": "37",
-              "issue": "4",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/39455267/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": false,
-              "hot_score": 17.4,
-              "field": "emergency",
-              "field_label": "응급의학",
-              "abstract": "INTRODUCTION: High-quality primary care can reduce avoidable emergency department visits and emergency hospitalizations. The availability of electronic medical record (EMR) data and capacities for data storage and processing have created opportunities for predictive analytics. This systematic review examines studies which predict emergency department visits, hospitalizations, and mortality using EMR data from primary care. METHODS: Six databases (Ovid MEDLINE, PubMed, Embase, EBM Reviews (Cochrane Database of Systematic Reviews, Database of Abstracts of Reviews of Effects, Cochrane Central Register of Controlled Trials, Cochrane Methodology Register, Health Technology Assessment, NHS Economic Evaluation Database), Scopus, CINAHL) were searched to identify primary peer-reviewed studies in English from inception to February 5, 2020. The search was initially conducted on January 18, 2019, and updated on February 5, 2020. RESULTS: A total of 9456 citations were double-reviewed, and 31 studies met the inclusion criteria. The predictive ability measured by C-statistics (ROC) of the best performing models from each study ranged from 0.57 to 0.95. Less than half of the included studies used artificial intelligence methods and only 7 (23%) were externally validated. Age, medical diagnoses, sex, medication use, and prior health service use were the most common predictor variables. Few studies discussed or examined the clinical utility of models. CONCLUSIONS: This review helps address critical gaps in the literature regarding the potential of primary care EMR data. Despite further work required to address bias and improve the quality and reporting of prediction models, the use of primary care EMR data for predictive analytics holds promise.",
-              "title_ko": ""
-            },
-            {
-              "pmid": "41491567",
-              "title": "Primary Care Physician Continuity Is a Consistent Measure Associated with Lower Costs and Hospitalizations.",
-              "journal": "Journal of the American Board of Family Medicine : JABFM",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2025-09-01",
-              "authors": [
-                "Chung Y",
-                "Petterson S",
-                "Dai M"
-              ],
-              "citation_count": 2,
-              "rcr": null,
-              "volume": "38",
-              "issue": "5",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/41491567/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": false,
-              "hot_score": 10.7,
-              "field": "emergency",
-              "field_label": "응급의학",
-              "abstract": "OBJECTIVE: Continuity of primary care reduces costs and hospitalizations over 1-year periods, but its long-term effects remain unclear, a key concern for value-based payment. We examined associations between physician-level continuity and health care expenditures/utilization across single- and multi-year measurement periods. DESIGN: Retrospective cohort study using 2011 to 2017 Medicare Fee-for-Service (FFS) claims. We constructed physician-level continuity measures over 1- to 5-year lookback periods. Generalized linear models estimated associations with total Medicare Part A & B expenditures, and logit models assessed hospitalization and emergency department (ED) visits, adjusting for patient and physician characteristics. SETTING & PARTICIPANTS: Nationally representative sample of 4,940 primary care practices, including 1.1 to 2.5 million Medicare FFS beneficiaries seen by 6,758-14,949 physicians. RESULTS: Beneficiaries in the highest continuity quintile had 7.4%-10.4% lower total expenditures than those in the lowest quintile, with the greatest difference in the 1-year lookback. Hospitalization and ED visit odds were 5.5%-8.6% and 4.9%-6.3% lower, respectively, for high-continuity physicians. Effects attenuated slightly with longer lookbacks. CONCLUSION: Physician continuity is consistently associated with lower costs, hospitalizations, and ED visits across lookback periods. Given this stability and the complexity of multi-year claims measurement, a 1-year assessment may be sufficient for physician continuity evaluation and value-based payment programs.",
-              "title_ko": ""
-            },
-            {
-              "pmid": "42744571",
-              "title": "Hospital Utilization Among Users of Electronic Nicotine Delivery Systems (ENDS) Compared to Other Tobacco Users.",
-              "journal": "Journal of the American Board of Family Medicine : JABFM",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2026-09-01",
-              "authors": [
-                "Khanna N",
-                "Kwan CS",
-                "Klyushnenkova EN"
-              ],
-              "citation_count": 0,
-              "rcr": null,
-              "volume": "39",
-              "issue": "1",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/42744571/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": true,
-              "hot_score": 10.0,
-              "field": "emergency",
-              "field_label": "응급의학",
-              "abstract": "INTRODUCTION: Use of electronic nicotine delivery systems (ENDS) poses a significant and avoidable risk to respiratory health, yet its effect is not fully understood. This study examines the levels of hospital utilization among those who use ENDS and/or other tobacco and develop respiratory conditions. METHODS: 260,149 adult patients were screened for ENDS use between August 2020 and June 2022 at the University of Maryland Medical System. Multivariable nominal logistic regression modeling was used to assess associations between tobacco/nicotine use and emergency department (ED) or inpatient utilization due to respiratory conditions defined by admission or discharge ICD-10 J codes. Covariates included age, sex, race, Elixhauser comorbidity score, and history of COVID-19. RESULTS: Among ENDS-only users, non-Hispanic White and Other-race patients had statistically significant increased healthcare utilization compared to never users (those who never use ENDS or tobacco). 18-44 year-old patients in these two race groups had 1.9-2.3 times higher odds of utilizing the ED compared to those who never used tobacco; and 65+ year-old non-Hispanic White patients had 2.4 times higher odds of inpatient admission compared to patients who never used tobacco. The odds of increased healthcare utilization among those who used both ENDS and other tobacco ranged from 1.4-2.4 and also varied by age and race. CONCLUSIONS: ENDS and tobacco use were associated with increased hospital utilization, including ED and inpatient, due to respiratory illnesses in an age- and race-dependent manner.",
-              "title_ko": ""
-            }
-          ]
-        },
-        {
           "journal": "Pediatrics international : official journal of the Japan Pediatric Society",
           "impact_factor": 1.5,
           "index_type": "미상",
@@ -8055,99 +7934,6 @@
               "field": "emergency",
               "field_label": "응급의학",
               "abstract": "OBJECTIVE: To provide a conceptual framework for the management of traumatic brain injury (TBI) in pregnant women, integrating pathophysiological foundations, available scientific evidence, and current clinical strategies to support decision-making. MATERIALS AND METHODS: Based on a hypothetical case that practically illustrates the topic, an explanatory document was developed using a structured narrative review. It describes the physiological changes of pregnancy relevant to TBI, the principles of initial resuscitation, the management of intracranial hypertension, the use of neuromonitoring, obstetric care, and the ethical implications associated with maternal death by neurologic criteria. RESULTS: Pregnancy involves anatomical and functional adaptations that alter the maternal response to trauma. These modifications affect the airway, hemodynamics, oxygenation, and cerebral autoregulation, necessitating adjustments in clinical management. Key aspects include initial stabilization, control of intracranial hypertension, neuromonitoring, obstetric care, and ethical considerations in scenarios of maternal death by neurologic criteria. CONCLUSIONS: The management of TBI in pregnant patients is a clinical challenge that requires an understanding of maternal physiology and its impact on acute brain injury. Given the lack of specific guidelines and recommendations, those established for the general population should be applied with careful consideration of the physiological changes of pregnancy.",
-              "title_ko": ""
-            }
-          ]
-        },
-        {
-          "journal": "Igiene e sanita pubblica",
-          "impact_factor": 1.5,
-          "index_type": "미상",
-          "quartile": "미상",
-          "paper_count": 2,
-          "top_paper": {
-            "pmid": "41385469",
-            "title": "Improve the quality of patient care in the Emergency Department. Physical Therapist and Advanced Practice in Emergency Department: A scoping review.",
-            "journal": "Igiene e sanita pubblica",
-            "impact_factor": 1.5,
-            "index_type": "미상",
-            "quartile": "미상",
-            "pubdate": "2025-09-01",
-            "authors": [
-              "Servadio A",
-              "Molinari MR",
-              "Gigli L"
-            ],
-            "citation_count": 1,
-            "rcr": null,
-            "volume": "98",
-            "issue": "5",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/41385469/",
-            "altmetric_score": 0,
-            "altmetric_news": 0,
-            "altmetric_social": 0,
-            "is_current_issue": true,
-            "hot_score": 16.8,
-            "field": "emergency",
-            "field_label": "응급의학",
-            "abstract": "BACKGROUND: Emergency departments (EDs) worldwide are increasingly adopting multidisciplinary models of care in which physiotherapists play an evolving and expanding role. International evidence suggests that physiotherapy-led pathways may improve the management of low-acuity presentations such as musculoskeletal and vestibular conditions, which contribute substantially to ED overcrowding. In Italy, however, physiotherapists are not yet structurally integrated into ED teams, and the potential applicability of advanced physiotherapy roles remains unclear. OBJECTIVE: The objective of this scoping review is to identify, map, and describe current international models of physiotherapy practice within Emergency Departments, including first-contact roles, advanced practice, direct-access models, and multidisciplinary roles, and to explore their impact on the management of non-urgent conditions such as minor injuries, musculoskeletal disorders, and vestibular presentations. METHODS: This review followed the Preferred Reporting Items for Systematic Reviews and Meta-Analyses Extension for Scoping Reviews (PRISMA-ScR). A systematic search of PubMed and Google Scholar was conducted from inception to November 2025, including peer-reviewed studies in English that described, evaluated, or implemented physiotherapy roles in EDs. Eligible populations were ED patients of any age presenting with non-urgent musculoskeletal, traumatic, or vestibular conditions. Data were charted on study design, setting, models of practice, clinical populations, and reported outcomes. RESULTS: The included studies were primarily conducted in Australia, Canada, and the United Kingdom, and comprised service evaluations, retrospective reviews, quality-of-care studies, pilot projects, validation studies of screening tools, and mixed-methods evaluations of pediatric pathways. Physiotherapy practice in Emergency Departments is mainly organized into First Contact Physiotherapy, Advanced Practice, and Direct Access models, often embedded within specialized pathways for musculoskeletal, vestibular, pediatric, or geriatric care. Overall, physiotherapist-led care is associated with reduced waiting times and ED length of stay, earlier administration of analgesia, improved clinical outcomes (including reduced pain and improved vestibular symptoms), high diagnostic agreement with emergency physicians, lower use of imaging and follow-up services, and high satisfaction among patients, parents, and clinicians. No serious adverse events related to physiotherapy interventions were reported. Most studies were observational, with a limited number of randomized or controlled studies, and no studies were conducted in Italy. CONCLUSIONS: International evidence indicates that physiotherapists can make a meaningful contribution to emergency department care, particularly for low-acuity musculoskeletal and vestibular presentations, through primary contact, advanced practice, and direct-access models. These roles appear safe, effective, and well accepted by patients and clinicians. However, the lack of Italian data, combined with a different regulatory framework and limited autonomy for physiotherapists, currently hinders the translation of these models into the Italian context. Pilot implementations and context-specific evaluations are needed to assess the feasibility and impact of integrating physiotherapists into Italian emergency departments.",
-            "title_ko": ""
-          },
-          "papers": [
-            {
-              "pmid": "41385469",
-              "title": "Improve the quality of patient care in the Emergency Department. Physical Therapist and Advanced Practice in Emergency Department: A scoping review.",
-              "journal": "Igiene e sanita pubblica",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2025-09-01",
-              "authors": [
-                "Servadio A",
-                "Molinari MR",
-                "Gigli L"
-              ],
-              "citation_count": 1,
-              "rcr": null,
-              "volume": "98",
-              "issue": "5",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/41385469/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": true,
-              "hot_score": 16.8,
-              "field": "emergency",
-              "field_label": "응급의학",
-              "abstract": "BACKGROUND: Emergency departments (EDs) worldwide are increasingly adopting multidisciplinary models of care in which physiotherapists play an evolving and expanding role. International evidence suggests that physiotherapy-led pathways may improve the management of low-acuity presentations such as musculoskeletal and vestibular conditions, which contribute substantially to ED overcrowding. In Italy, however, physiotherapists are not yet structurally integrated into ED teams, and the potential applicability of advanced physiotherapy roles remains unclear. OBJECTIVE: The objective of this scoping review is to identify, map, and describe current international models of physiotherapy practice within Emergency Departments, including first-contact roles, advanced practice, direct-access models, and multidisciplinary roles, and to explore their impact on the management of non-urgent conditions such as minor injuries, musculoskeletal disorders, and vestibular presentations. METHODS: This review followed the Preferred Reporting Items for Systematic Reviews and Meta-Analyses Extension for Scoping Reviews (PRISMA-ScR). A systematic search of PubMed and Google Scholar was conducted from inception to November 2025, including peer-reviewed studies in English that described, evaluated, or implemented physiotherapy roles in EDs. Eligible populations were ED patients of any age presenting with non-urgent musculoskeletal, traumatic, or vestibular conditions. Data were charted on study design, setting, models of practice, clinical populations, and reported outcomes. RESULTS: The included studies were primarily conducted in Australia, Canada, and the United Kingdom, and comprised service evaluations, retrospective reviews, quality-of-care studies, pilot projects, validation studies of screening tools, and mixed-methods evaluations of pediatric pathways. Physiotherapy practice in Emergency Departments is mainly organized into First Contact Physiotherapy, Advanced Practice, and Direct Access models, often embedded within specialized pathways for musculoskeletal, vestibular, pediatric, or geriatric care. Overall, physiotherapist-led care is associated with reduced waiting times and ED length of stay, earlier administration of analgesia, improved clinical outcomes (including reduced pain and improved vestibular symptoms), high diagnostic agreement with emergency physicians, lower use of imaging and follow-up services, and high satisfaction among patients, parents, and clinicians. No serious adverse events related to physiotherapy interventions were reported. Most studies were observational, with a limited number of randomized or controlled studies, and no studies were conducted in Italy. CONCLUSIONS: International evidence indicates that physiotherapists can make a meaningful contribution to emergency department care, particularly for low-acuity musculoskeletal and vestibular presentations, through primary contact, advanced practice, and direct-access models. These roles appear safe, effective, and well accepted by patients and clinicians. However, the lack of Italian data, combined with a different regulatory framework and limited autonomy for physiotherapists, currently hinders the translation of these models into the Italian context. Pilot implementations and context-specific evaluations are needed to assess the feasibility and impact of integrating physiotherapists into Italian emergency departments.",
-              "title_ko": ""
-            },
-            {
-              "pmid": "41385464",
-              "title": "A challenge to improve the Quality of Care.Rehabilitation outcome measures in the Emergency Department: a scoping review.",
-              "journal": "Igiene e sanita pubblica",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2025-09-01",
-              "authors": [
-                "Galeoto G",
-                "Molinari MR",
-                "Gigli L"
-              ],
-              "citation_count": 0,
-              "rcr": null,
-              "volume": "98",
-              "issue": "5",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/41385464/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": true,
-              "hot_score": 10.0,
-              "field": "emergency",
-              "field_label": "응급의학",
-              "abstract": "BACKGROUND: The integration of physiotherapists within Emergency Departments (EDs) is increasing internationally; however, the outcome measures employed in this setting remain heterogeneous and largely non-standardized. OBJECTIVE: To map and describe clinical, functional, psychological, prognostic, and patient experience outcome measures currently used by physiotherapists working in EDs. METHODS: A scoping review was conducted following PRISMA-ScR guidelines. PubMed and Google Scholar were searched from their inception to November 2025. Studies were included if they involved patients of any age presenting to the ED with musculoskeletal, traumatic, vestibular conditions or concussion, where physiotherapists applied or reported at least one standardized outcome measure. Two reviewers independently screened titles, abstracts, and full texts. RESULTS: Of 9,790 records identified, 27 met eligibility criteria. Most research originated from Australia, Canada, the United Kingdom, Ireland, and the United States, primarily involving low-complexity musculoskeletal conditions, vestibular disorders, and concussion, including pediatric pathways. Pain intensity scales (NPRS, VAS) and pain interference (BPI-PI) were the most commonly used measures. Functional and disability outcomes (NDI, ODI/mODI, LEFS, QuickDASH, PROMIS Physical Function, PSFS) were predominantly applied during post-ED follow-up. Psychological and prognostic instruments (PCS, STarT Back, 5P Rule) supported risk stratification, while PREMs such as PedsQL Healthcare Satisfaction, SAPS, and VSQ-9 assessed patient experience. Considerable heterogeneity in outcome measurement remains, with few randomized trials, limited long-term follow-up, and scarce economic evaluations. No studies were identified from Italy or Southern Europe. CONCLUSIONS: The use of validated outcome measures by physiotherapists in EDs is feasible and clinically valuable; however, a lack of standardization and limited high-quality evidence particularly within the Italian healthcare context highlight the need for further research to establish shared outcome sets and transferable models of care.",
               "title_ko": ""
             }
           ]
@@ -8880,7 +8666,7 @@
           "impact_factor": 1.5,
           "index_type": "미상",
           "quartile": "미상",
-          "paper_count": 5,
+          "paper_count": 6,
           "top_paper": {
             "pmid": "39542038",
             "title": "Consequences of delaying non-urgent surgeries during COVID-19: a population-based retrospective cohort study in Alberta, Canada.",
@@ -8936,6 +8722,62 @@
               "field": "emergency",
               "field_label": "응급의학",
               "abstract": "OBJECTIVES: To ensure sufficient resources to care for patients with COVID-19, healthcare systems delayed non-urgent surgeries to free capacity. This study explores the consequences of delaying non-urgent surgery on surgical care and healthcare resource use. DESIGN: This is a population-based retrospective cohort study. SETTING: This study took place in Alberta, Canada, from December 2018 to December 2021. PARTICIPANTS: Adult patients scheduled for surgery in Alberta during the study period were included. PRIMARY AND SECONDARY OUTCOMES MEASURES: The proportion of surgeries completed and surgery wait time were the primary outcomes. The secondary outcomes were healthcare resource use (hospital length of stay, emergency room visits and physician visits). The association between the primary outcomes and patient and surgery-related variables was explored using regression. RESULTS: There were 202 470 unique patients with 259 677 scheduled surgeries included. Fewer surgeries were completed throughout the pandemic compared with before; in the fourth wave, there was a decrease from 79% pre-COVID-19 to 67%. There was a decrease in wait time for those who had surgery completed during COVID-19 (from 105 to 69 days). Having surgery completed and the wait for surgery were associated with the geographical zone, COVID-19 wave, and the surgery type and priority. There was a decrease in all measures of healthcare resource use and an increase in hospital and all-cause mortality during COVID-19 compared with before COVID-19. CONCLUSIONS: The change in the proportion of scheduled surgeries completed and the wait time for completed surgery was modest and associated with COVID-19 wave and surgery-related variables, which was aligned with policies enacted during COVID-19 for surgery. The decrease in healthcare resource use suggests the effects of the COVID-19 pandemic may be delayed and may result in many patients presenting with advanced disease requiring surgical care.",
+              "title_ko": ""
+            },
+            {
+              "pmid": "42778260",
+              "title": "Vulnerability-related disparities in early childhood healthcare costs in the Northern Territory, Australia: a population-based retrospective cohort study.",
+              "journal": "BMJ open",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2026-09-23",
+              "authors": [
+                "Haile TG",
+                "Norman R",
+                "Chen W"
+              ],
+              "citation_count": 0,
+              "rcr": null,
+              "volume": "16",
+              "issue": "9",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/42778260/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": true,
+              "hot_score": 10.0,
+              "field": "emergency",
+              "field_label": "응급의학",
+              "abstract": "OBJECTIVE: Early childhood health and economic burdens are disproportionately distributed across population groups. We examined the vulnerability-related (First Nations status and remoteness) disparities of early childhood healthcare costs from birth to age 5 years and quantified the contribution of adverse perinatal outcomes, such as preterm birth (PTB), small-for-gestational-age (SGA) and low birthweight, to these disparities in the Northern Territory (NT), Australia. DESIGN AND PARTICIPANTS: We conducted a population-based retrospective cohort study of all singleton live births in the NT, Australia, between 1 July 2000 and 30 June 2016, using the Perinatal Trends dataset. Birth records were linked to hospitalisation, emergency department (ED) and national hospital costing data and followed to age 5. OUTCOMES AND ANALYSIS: Healthcare costs, adjusted to 2024 Australian Dollars (AUD), from a health system perspective, included hospitalisation and ED costs. A generalised linear model with log link and gamma distribution was fitted, and Oaxaca-Blinder decomposition was used to partition cost differences into explained (differences in population characteristics) and unexplained (differential effects/responses) components. RESULTS: The overall median hospitalisation costs per child were AUD 9608 (IQR: 4873 to 20 681) and ED costs AUD 2156 (IQR: 1075 to 4274) in the first 5 years. Among children with PTB and SGA, median hospitalisation costs were AUD 30 527 (IQR: 16 765 to 54 365) for First Nations and AUD 16 098 (IQR: 7577 to 28 048) for non-First Nations children; within this subgroup, costs were AUD 29 614 (IQR: 15 085 to 51 400) in remote areas compared with AUD 19 776 (IQR: 9620 to 33 263) in urban areas. After adjustment, mean hospitalisation costs were 98% higher for First Nations children (AUD 23 223 vs 11 716; difference AUD 11 507, 95% CI 10 798 to 12 215) and 19% higher for children in remote areas (AUD 19 454 vs 16 322; difference AUD 3132, 2479 to 3786); corresponding differences in mean ED costs were 67% (AUD 1866, 95% CI 1750 to 1982) and 17% (AUD 557, 95% CI 460 to 655). Remoteness-related disparities in hospitalisation costs were largely explained by child characteristics (85.7%; βE=-0.549, 95% CI -0.581 to -0.517), while disparities by First Nations status were primarily driven by differential cost responses (71%; βc=-0.606, 95% CI -0.651 to -0.561). For ED costs, characteristics explained 42% of the remoteness-related gap and 3.4% of the gap by First Nations status. CONCLUSIONS: Our findings highlight that vulnerability-related disparities in healthcare costs were substantial, with adjusted costs 67% to 98% higher for First Nations children and 17% to 19% higher for children in remote areas, and driven by distinct mechanisms. Thus, strategies addressing structural disadvantage and inequitable experiences are needed to reduce avoidable healthcare costs.",
+              "title_ko": ""
+            },
+            {
+              "pmid": "42778255",
+              "title": "Intelligent Lung Support in the Intensive Care Unit (IntelliLung): study protocol for an international observational, prospective, multicentre study.",
+              "journal": "BMJ open",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2026-09-23",
+              "authors": [
+                "Theilen R",
+                "Huhle R",
+                "Scharffenberg M"
+              ],
+              "citation_count": 0,
+              "rcr": null,
+              "volume": "16",
+              "issue": "9",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/42778255/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": true,
+              "hot_score": 10.0,
+              "field": "emergency",
+              "field_label": "응급의학",
+              "abstract": "INTRODUCTION: Mechanical ventilation (MV) is lifesaving in the intensive care unit (ICU) but can cause complications if not individualised according to the patient's needs. Artificial intelligence (AI)-driven decision support systems (AI-DSS) may theoretically optimise MV settings. This international observational, prospective, multicentre study aims to validate the IntelliLung AI-DSS in real clinical environments. METHODS AND ANALYSIS: In this study, patients aged ≥18 years requiring invasive MV for >24 hours are included. The primary objective is to evaluate the agreement between IntelliLung AI-DSS MV recommendations and the ventilator settings implemented by healthcare providers. The IntelliLung AI-DSS continuously analyses patient-specific data, including respiratory mechanics and gas exchange, to recommend optimal MV parameters. The primary endpoints are the relative time of matching ventilator settings for each (1) positive end-expiratory pressure, (2) fraction of inspired oxygen, (3) respiratory rate and (4) tidal volume during volume-controlled ventilation or inspiratory pressure (Pinsp) during pressure-controlled ventilation. Secondary endpoints include assessments of ventilator-free days and clinical decision-making practices. Patient-centred outcomes, such as quality of life and psychological stress, are also evaluated. Data collection spans ICU stay and follow-up at 30 and 180 days after enrolment. This trial is the first to validate the IntelliLung AI-DSS in a prospective, real-world clinical setting by comparing recommendations given by the IntelliLung AI-DSS to local standards of care. The results of the trial will serve as a foundation for future interventional studies to assess the IntelliLung AI-DSS impact on patient outcomes and ICU workflows. The study addresses a critical gap in the application of AI to intensive care, advancing personalised and evidence-based MV management. ETHICS AND DISSEMINATION: The TUD Medical Faculty Ethical Committee for clinical research approved the study on 4 November 2024 (File number Mono-EK-27907202). Additionally, the institutional review board at Sabadell, Madrid and Warsaw approved the study. IntelliLung is designed in accordance with the principles of the Declaration of Helsinki. The final main results will be published in a highly ranked, peer-reviewed scientific journal taking into account the recommendations of the International Committee of Medical Journal Editors. TRIAL REGISTRATION NUMBER: NCT06595602.",
               "title_ko": ""
             },
             {
@@ -9020,34 +8862,6 @@
               "field": "emergency",
               "field_label": "응급의학",
               "abstract": "OBJECTIVE: Home-based primary care has been suggested to reduce emergency department visits among vulnerable older adults but how it should be organised to achieve this effect is unclear. This study aimed to increase the understanding of how older adults receiving home-based primary care and their family caregivers' experience care during the period prior to an emergency department visit and to identify components of home-based primary care delivery that could help reduce such visits. DESIGN: Qualitative study using semi-structured interviews with older adults receiving home-based primary care who had recently visited the emergency department, along with their family caregivers. Interviews were analysed using inductive thematic analysis. SETTING: Interviews were conducted in the homes of informants receiving home-based primary care in Region Stockholm, Sweden, 2022-2023. PARTICIPANTS: Fourteen adults aged ≥65 years receiving home-based primary care who had visited an emergency department within the past 3 months were interviewed; seven interviews also included a family member. RESULTS: An overarching theme, Trust as a prerequisite for timely emergency assessments in home-based primary care, describes how patient trust-in home-based primary care in general and in specific individual healthcare professionals-seems important in reducing emergency department visits, especially when patients experience symptoms of uncertain urgency or gradual onset. Four subthemes describe how primary care may build trust: through (1) access to care, (2) medical competence, (3) respect and relationship and (4) coordination and teamwork. CONCLUSION: Trust in both home-based primary care in general and in individual healthcare professionals is crucial in reducing emergency department visits among older adults receiving home-based primary care. Trust may be strengthened by accessible and competent care, familiarity with both general practitioners and the responsible nurse and working as a collaborative team.",
-              "title_ko": ""
-            },
-            {
-              "pmid": "42716688",
-              "title": "Baseline and longitudinal measures of continuity of primary care and COPD-related service utilisation: a cohort study using Korean National Health Insurance Service claims data.",
-              "journal": "BMJ open",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2026-09-09",
-              "authors": [
-                "Jo AJ",
-                "Kim S",
-                "Choo E"
-              ],
-              "citation_count": 0,
-              "rcr": null,
-              "volume": "16",
-              "issue": "9",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/42716688/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": true,
-              "hot_score": 10.0,
-              "field": "emergency",
-              "field_label": "응급의학",
-              "abstract": "OBJECTIVES: To compare baseline, cluster-based and trajectory-based classifications of continuity of primary care (COC) and to examine their associations with chronic obstructive pulmonary disease (COPD)-related hospitalisation and emergency department (ED) visits. DESIGN: Population-based retrospective cohort study. SETTING: National Health Insurance claims data from South Korea (Korean National Health Insurance Service), 2014-2021. PARTICIPANTS: 92 977 patients aged ≥40 years newly diagnosed with COPD between 2015 and 2016, with at least four ambulatory primary care visits during the exposure period. PRIMARY AND SECONDARY OUTCOME MEASURES: The primary outcome was the incidence of COPD-related hospitalisation; the secondary outcome was the incidence of COPD-related ED visits. Continuity of primary care was quantified using the Continuity of Care Index (COCI) and classified using three approaches: (1) a baseline COCI-based method, (2) a cluster-based method using K-means clustering and (3) a trajectory-based method using group-based trajectory modelling. Fine-Gray subdistribution hazard models, accounting for death as a competing risk, were used to estimate adjusted HRs (aHRs). RESULTS: Across all three classification approaches, low continuity of care was consistently associated with an increased risk of COPD-related hospitalisation (aHR 2.43, 95% CI 2.22 to 2.66 for baseline COCI; 2.26, 95% CI 2.06 to 2.47 for cluster-based; 2.73, 95% CI 2.49 to 2.99 for trajectory-based) and ED visits (aHR 2.32, 95% CI 2.04 to 2.63 for baseline COCI; 2.55, 95% CI 2.25 to 2.88 for cluster-based; 3.48, 95% CI 3.05 to 3.96 for trajectory-based). Effect estimates were consistently strongest for the trajectory-based approach and weakest for the baseline COCI approach. Agreement among the three classification methods was substantial (overall 87.2%; Fleiss' kappa 0.78). CONCLUSIONS: Baseline COCI classification offers a pragmatic and robust measure of COC, producing effect estimates directionally consistent with those derived from more complex longitudinal approaches; however, observed transitions between continuity groups over time indicate that reliance on baseline classification alone may attenuate effect estimates when continuity patterns change. Trajectory-based methods may yield additional insight in populations with greater temporal variability in care patterns but entail substantially higher data and modelling requirements.",
               "title_ko": ""
             }
           ]
@@ -9650,6 +9464,99 @@
               "field": "emergency",
               "field_label": "응급의학",
               "abstract": "OBJECTIVE: The Rome classification was introduced to assess the severity of acute exacerbation (AE) of chronic obstructive pulmonary disease (COPD) based on easily measurable variables. However, its validation for global use has not yet reached a sufficient level. This study aims to evaluate the validity of the Rome criteria in determining the severity and prognosis of COPD AE in Turkey. METHODS: This multicenter study, conducted for the first time in Turkey and for the fourth time worldwide, included 750 patients diagnosed with AE-COPD who presented to emergency departments and outpatient clinics. According to the Rome criteria, patients were classified into three groups: mild, moderate, and severe AE-COPD. RESULTS: The study included 99 (13.2%) patients in the mild, 479 (63.9%) in the moderate, and 172 (22.9%) in the severe group. Emergency visits, hospitalizations, and ICU admissions in the past year were more frequent in the moderate and severe groups (p < 0.001 for all comparisons). Regarding outcomes of emergency or outpatient visits, most mild exacerbation cases were discharged (p < 0.001), while most moderate and severe exacerbations required hospitalization (p < 0.001). Compared to the moderate group, the severe exacerbation group had a higher risk of ICU admission (p < 0.001), NIV (p < 0.001), IMV (p < 0.001), in-hospital mortality (p < 0.001), and 30-day mortality (p = 0.015). No significant differences were found in 90-day mortality or 30 and 90-day readmission rates (p = 0.258, p = 0.712, p = 0.681, respectively). Survival analysis revealed no significant difference between the moderate and severe groups (p = 0.764). CONCLUSION: The findings suggest that the Rome criteria can be successfully used to assess exacerbation severity in AE-COPD patients presenting to secondary and tertiary care hospitals in Turkey.",
+              "title_ko": ""
+            }
+          ]
+        },
+        {
+          "journal": "Journal of the American Board of Family Medicine : JABFM",
+          "impact_factor": 1.5,
+          "index_type": "미상",
+          "quartile": "미상",
+          "paper_count": 2,
+          "top_paper": {
+            "pmid": "41491567",
+            "title": "Primary Care Physician Continuity Is a Consistent Measure Associated with Lower Costs and Hospitalizations.",
+            "journal": "Journal of the American Board of Family Medicine : JABFM",
+            "impact_factor": 1.5,
+            "index_type": "미상",
+            "quartile": "미상",
+            "pubdate": "2025-09-01",
+            "authors": [
+              "Chung Y",
+              "Petterson S",
+              "Dai M"
+            ],
+            "citation_count": 2,
+            "rcr": null,
+            "volume": "38",
+            "issue": "5",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/41491567/",
+            "altmetric_score": 0,
+            "altmetric_news": 0,
+            "altmetric_social": 0,
+            "is_current_issue": false,
+            "hot_score": 10.7,
+            "field": "emergency",
+            "field_label": "응급의학",
+            "abstract": "OBJECTIVE: Continuity of primary care reduces costs and hospitalizations over 1-year periods, but its long-term effects remain unclear, a key concern for value-based payment. We examined associations between physician-level continuity and health care expenditures/utilization across single- and multi-year measurement periods. DESIGN: Retrospective cohort study using 2011 to 2017 Medicare Fee-for-Service (FFS) claims. We constructed physician-level continuity measures over 1- to 5-year lookback periods. Generalized linear models estimated associations with total Medicare Part A & B expenditures, and logit models assessed hospitalization and emergency department (ED) visits, adjusting for patient and physician characteristics. SETTING & PARTICIPANTS: Nationally representative sample of 4,940 primary care practices, including 1.1 to 2.5 million Medicare FFS beneficiaries seen by 6,758-14,949 physicians. RESULTS: Beneficiaries in the highest continuity quintile had 7.4%-10.4% lower total expenditures than those in the lowest quintile, with the greatest difference in the 1-year lookback. Hospitalization and ED visit odds were 5.5%-8.6% and 4.9%-6.3% lower, respectively, for high-continuity physicians. Effects attenuated slightly with longer lookbacks. CONCLUSION: Physician continuity is consistently associated with lower costs, hospitalizations, and ED visits across lookback periods. Given this stability and the complexity of multi-year claims measurement, a 1-year assessment may be sufficient for physician continuity evaluation and value-based payment programs.",
+            "title_ko": ""
+          },
+          "papers": [
+            {
+              "pmid": "41491567",
+              "title": "Primary Care Physician Continuity Is a Consistent Measure Associated with Lower Costs and Hospitalizations.",
+              "journal": "Journal of the American Board of Family Medicine : JABFM",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2025-09-01",
+              "authors": [
+                "Chung Y",
+                "Petterson S",
+                "Dai M"
+              ],
+              "citation_count": 2,
+              "rcr": null,
+              "volume": "38",
+              "issue": "5",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/41491567/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 10.7,
+              "field": "emergency",
+              "field_label": "응급의학",
+              "abstract": "OBJECTIVE: Continuity of primary care reduces costs and hospitalizations over 1-year periods, but its long-term effects remain unclear, a key concern for value-based payment. We examined associations between physician-level continuity and health care expenditures/utilization across single- and multi-year measurement periods. DESIGN: Retrospective cohort study using 2011 to 2017 Medicare Fee-for-Service (FFS) claims. We constructed physician-level continuity measures over 1- to 5-year lookback periods. Generalized linear models estimated associations with total Medicare Part A & B expenditures, and logit models assessed hospitalization and emergency department (ED) visits, adjusting for patient and physician characteristics. SETTING & PARTICIPANTS: Nationally representative sample of 4,940 primary care practices, including 1.1 to 2.5 million Medicare FFS beneficiaries seen by 6,758-14,949 physicians. RESULTS: Beneficiaries in the highest continuity quintile had 7.4%-10.4% lower total expenditures than those in the lowest quintile, with the greatest difference in the 1-year lookback. Hospitalization and ED visit odds were 5.5%-8.6% and 4.9%-6.3% lower, respectively, for high-continuity physicians. Effects attenuated slightly with longer lookbacks. CONCLUSION: Physician continuity is consistently associated with lower costs, hospitalizations, and ED visits across lookback periods. Given this stability and the complexity of multi-year claims measurement, a 1-year assessment may be sufficient for physician continuity evaluation and value-based payment programs.",
+              "title_ko": ""
+            },
+            {
+              "pmid": "42744571",
+              "title": "Hospital Utilization Among Users of Electronic Nicotine Delivery Systems (ENDS) Compared to Other Tobacco Users.",
+              "journal": "Journal of the American Board of Family Medicine : JABFM",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2026-09-01",
+              "authors": [
+                "Khanna N",
+                "Kwan CS",
+                "Klyushnenkova EN"
+              ],
+              "citation_count": 0,
+              "rcr": null,
+              "volume": "39",
+              "issue": "1",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/42744571/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": true,
+              "hot_score": 10.0,
+              "field": "emergency",
+              "field_label": "응급의학",
+              "abstract": "INTRODUCTION: Use of electronic nicotine delivery systems (ENDS) poses a significant and avoidable risk to respiratory health, yet its effect is not fully understood. This study examines the levels of hospital utilization among those who use ENDS and/or other tobacco and develop respiratory conditions. METHODS: 260,149 adult patients were screened for ENDS use between August 2020 and June 2022 at the University of Maryland Medical System. Multivariable nominal logistic regression modeling was used to assess associations between tobacco/nicotine use and emergency department (ED) or inpatient utilization due to respiratory conditions defined by admission or discharge ICD-10 J codes. Covariates included age, sex, race, Elixhauser comorbidity score, and history of COVID-19. RESULTS: Among ENDS-only users, non-Hispanic White and Other-race patients had statistically significant increased healthcare utilization compared to never users (those who never use ENDS or tobacco). 18-44 year-old patients in these two race groups had 1.9-2.3 times higher odds of utilizing the ED compared to those who never used tobacco; and 65+ year-old non-Hispanic White patients had 2.4 times higher odds of inpatient admission compared to patients who never used tobacco. The odds of increased healthcare utilization among those who used both ENDS and other tobacco ranged from 1.4-2.4 and also varied by age and race. CONCLUSIONS: ENDS and tobacco use were associated with increased hospital utilization, including ED and inpatient, due to respiratory illnesses in an age- and race-dependent manner.",
               "title_ko": ""
             }
           ]
@@ -10706,6 +10613,71 @@
               "title_ko": ""
             }
           ]
+        },
+        {
+          "journal": "International journal of immunopathology and pharmacology",
+          "impact_factor": 1.5,
+          "index_type": "미상",
+          "quartile": "미상",
+          "paper_count": 1,
+          "top_paper": {
+            "pmid": "39699047",
+            "title": "Use of CRP/lymphocyte ratio as a predictor of treatment selection and mortality in COVID-19 patients in the intensive care unit.",
+            "journal": "International journal of immunopathology and pharmacology",
+            "impact_factor": 1.5,
+            "index_type": "미상",
+            "quartile": "미상",
+            "pubdate": "2024-01-01",
+            "authors": [
+              "Guzel E",
+              "Mete B",
+              "Baydar Toprak O"
+            ],
+            "citation_count": 2,
+            "rcr": 0.4139048019487208,
+            "volume": "38",
+            "issue": "",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/39699047/",
+            "altmetric_score": 0,
+            "altmetric_news": 0,
+            "altmetric_social": 0,
+            "is_current_issue": false,
+            "hot_score": 10.7,
+            "field": "emergency",
+            "field_label": "응급의학",
+            "abstract": "This study primarily aimed to examine the significance of the C-reactive protein to lymphocyte ratio (CLR), a key marker of inflammation, in relation to the disease progression and management of COVID-19 patients admitted to the intensive care unit (ICU). A total of 464 patients aged 18 years or older, diagnosed with COVID-19 and admitted to the ICU between April 1, 2021, and February 1, 2022, were included in the study. Sociodemographic, laboratory, radiological, and clinical data were collected for each patient. The cohort was then divided into two groups-those who survived and those who did not-and analyzed accordingly. Among the patients included in the study, 58.2% were male, and the mean age was 62.39 ± 15.65 years. The mortality rate was 42%. The analysis revealed that the need for high-flow oxygen and mechanical ventilation increased the risk of death by 9.64 times. Furthermore, for each 1-point increase in the SOFA Score, Charlson Comorbidity Index, and Nutric Score, the risk of death increased by 1.27, 1.18, and 1.40 times, respectively. Intravenous immunoglobulin, administered to a select group of patients, reduced the risk of death by 23.8 times. The optimal threshold value for CLR was identified as 103.05, with values above this increasing the risk of death by 1.84 times. Critically ill patients with CLR values exceeding the identified threshold should receive more intensive monitoring and timely adjustments in treatment. Given that CLR is a simple, accessible, and cost-effective marker, it holds particular value in managing aggressive diseases like COVID-19.",
+            "title_ko": ""
+          },
+          "papers": [
+            {
+              "pmid": "39699047",
+              "title": "Use of CRP/lymphocyte ratio as a predictor of treatment selection and mortality in COVID-19 patients in the intensive care unit.",
+              "journal": "International journal of immunopathology and pharmacology",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2024-01-01",
+              "authors": [
+                "Guzel E",
+                "Mete B",
+                "Baydar Toprak O"
+              ],
+              "citation_count": 2,
+              "rcr": 0.4139048019487208,
+              "volume": "38",
+              "issue": "",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/39699047/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 10.7,
+              "field": "emergency",
+              "field_label": "응급의학",
+              "abstract": "This study primarily aimed to examine the significance of the C-reactive protein to lymphocyte ratio (CLR), a key marker of inflammation, in relation to the disease progression and management of COVID-19 patients admitted to the intensive care unit (ICU). A total of 464 patients aged 18 years or older, diagnosed with COVID-19 and admitted to the ICU between April 1, 2021, and February 1, 2022, were included in the study. Sociodemographic, laboratory, radiological, and clinical data were collected for each patient. The cohort was then divided into two groups-those who survived and those who did not-and analyzed accordingly. Among the patients included in the study, 58.2% were male, and the mean age was 62.39 ± 15.65 years. The mortality rate was 42%. The analysis revealed that the need for high-flow oxygen and mechanical ventilation increased the risk of death by 9.64 times. Furthermore, for each 1-point increase in the SOFA Score, Charlson Comorbidity Index, and Nutric Score, the risk of death increased by 1.27, 1.18, and 1.40 times, respectively. Intravenous immunoglobulin, administered to a select group of patients, reduced the risk of death by 23.8 times. The optimal threshold value for CLR was identified as 103.05, with values above this increasing the risk of death by 1.84 times. Critically ill patients with CLR values exceeding the identified threshold should receive more intensive monitoring and timely adjustments in treatment. Given that CLR is a simple, accessible, and cost-effective marker, it holds particular value in managing aggressive diseases like COVID-19.",
+              "title_ko": ""
+            }
+          ]
         }
       ],
       "hot_topics": [
@@ -10843,7 +10815,7 @@
               0.0,
               88.7,
               51.1,
-              50.0
+              60.0
             ]
           },
           {
@@ -10856,21 +10828,21 @@
             ]
           },
           {
-            "phrase": "cardiac arrest",
-            "scores": [
-              0.0,
-              37.5,
-              16.8,
-              40.0
-            ]
-          },
-          {
             "phrase": "critically ill",
             "scores": [
               0.0,
               61.2,
               6.8,
               20.0
+            ]
+          },
+          {
+            "phrase": "cardiac arrest",
+            "scores": [
+              0.0,
+              37.5,
+              16.8,
+              30.0
             ]
           },
           {
