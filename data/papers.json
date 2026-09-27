@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-26T20:20:09.166704Z",
+  "generated_at": "2026-09-27T20:21:49.501599Z",
   "window_days": 1095,
   "fields": [
     {
       "key": "preventive",
       "label": "예방의학",
-      "paper_count": 443,
+      "paper_count": 448,
       "journals": [
         {
           "journal": "The Orthopedic clinics of North America",
@@ -611,7 +611,7 @@
           "impact_factor": 1.5,
           "index_type": "미상",
           "quartile": "미상",
-          "paper_count": 96,
+          "paper_count": 98,
           "top_paper": {
             "pmid": "39949340",
             "title": "Analysis of factors influencing HPV vaccination intention among Chinese college students: structural equation modeling based on health belief theory.",
@@ -1243,7 +1243,7 @@
           "impact_factor": 1.5,
           "index_type": "미상",
           "quartile": "미상",
-          "paper_count": 8,
+          "paper_count": 7,
           "top_paper": {
             "pmid": "39693197",
             "title": "Context matters: How to research vaccine attitudes and uptake after the COVID-19 crisis.",
@@ -1328,34 +1328,6 @@
               "field_label": "예방의학",
               "abstract": "While HPV vaccination is effective in prevention of many HPV-associated cancers, only 61.4% of US adolescents were up to date on their HPV vaccinations in 2023. In the period following the COVID-19 pandemic, a decrease in vaccine uptake was reported, along with a rise in vaccine hesitancy. This study aimed to understand these changes to HPV vaccination and vaccine hesitancy that occurred following the COVID-19 pandemic from providers' perspectives. We conducted 1-hour interviews with 12 participants over video calls that were then de-identified and transcribed. Eleven out of 12 providers noticed changes in their patients' attitudes toward vaccines after the onset of the COVID-19 pandemic. Many providers mentioned COVID vaccine hesitancy impacting the reputation of unrelated vaccinations. Other notable topics included an overwhelming volume of health information, polarization of viewpoints, and lack of trust in authority. Future research would include a larger, more diverse pool of provider participants, as well as incorporate patient interviews. The results of this study emphasize the need to promote health literacy and rebuild trust between patients and the healthcare system to combat vaccine hesitancy.",
               "title_ko": "COVID-19 이후 시대의 HPV 백신 망설임에 대한 제공자의 관점."
-            },
-            {
-              "pmid": "39693186",
-              "title": "Kounis syndrome following COVID-19 vaccination: Clinical manifestations, mechanisms and management.",
-              "journal": "Human vaccines & immunotherapeutics",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2024-06-19",
-              "authors": [
-                "Zhao C",
-                "Lei R",
-                "Liu S"
-              ],
-              "citation_count": 3,
-              "rcr": 0.5309230954673485,
-              "volume": "20",
-              "issue": "1",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/39693186/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": false,
-              "hot_score": 13.8,
-              "field": "preventive",
-              "field_label": "예방의학",
-              "abstract": "Kounis syndrome is an acute coronary syndrome triggered by allergic mediators that induce coronary vasoconstriction and thrombosis, leading to further myocardial damage and anaphylactic shock. Kounis syndrome is also a rare but severe adverse reaction to the COVID-19 vaccine, a phenomenon that underscores the importance of collecting and analyzing similar cases to improve treatment and prognosis. Through comprehensive searches of the Web of Science, Embase, and PubMed databases, this study aimed to gather detailed patient data on patients who developed Kounis syndrome after receiving the COVID-19 vaccine and to further investigate the possible underlying mechanisms using currently available studies. A total of 15 patients (8 females, 7 males) were found. We analyzed comprehensive patient data, including demographics, vaccination details, time of onset of illness after vaccination, clinical manifestations, treatment and outcomes, duration of illness, and relevant examination results. Analysis of these data combined with known allergy-related mechanisms indicated that, regardless of the vaccine type, the first dose of the vaccine was more likely to cause Kounis syndrome than subsequent doses. Therefore, early diagnosis and clinical symptomatic treatment are particularly crucial for managing the severity of Kounis syndrome and preventing further cardiac complications. Additionally, when an unusual and severe allergic reaction occurs within a few hours after vaccination, it is important to closely monitor the development of cardiac-related symptoms and prepare clinically for the potential onset of Kounis syndrome.",
-              "title_ko": "코로나19 백신 접종 후 코우니스 증후군: 임상적 징후, 기전 및 관리."
             },
             {
               "pmid": "42788870",
@@ -1859,6 +1831,99 @@
               "field_label": "예방의학",
               "abstract": "BACKGROUND: Diagnosing type 2 diabetes mellitus (T2DM) in people with sickle cell disease (SCD) is complicated due to hemoglobin A variance in affected individuals. Accurate screening assessments are needed to prevent excessive morbidity and mortality. Primary care physicians need recommendations for screening and diagnosis in this unique population. PURPOSE: To synthesize recommendations regarding medical diagnosis criteria for T2DM in SCD. DATA SOURCES: PubMed, Standards of Medical Care in Diabetes, US Preventative Services Task Force, National Institute of Diabetes and Digestive and Kidney Diseases, searched on December 28, 2022. STUDY SELECTION: One reviewer searched each database to select applicable studies pertaining to \"sickle cell disease,\" \"type 2 diabetes,\" \"HbA1c,\" and \"fructosamine\" from December 28, 2022, to March 15, 2023. DATA EXTRACTION AND QUALITY ASSESSMENT: A comprehensive literature review was done to extract current data/facts and assess certainty of evidence. DATA SYNTHESIS: This review reviews 5 articles that met inclusion criteria to outline outpatient screening and diagnosis of T2DM in SCD. Based on these findings, we recommend fasting plasma glucose as the standard screening starting at age 35 based on USPSTF guidelines. We do not recommend using HbA1c, fructosamine, or glycated albumin for screening or diagnosis of T2DM in individuals with SCD; the latter entities have limited implications in their use. LIMITATIONS: There are limited studies available for diagnosis of T2DM in SCD. CONCLUSIONS: Fasting plasma glucose is the standard screening for T2DM for SCD to ensure early diagnosis and prevent worsening macro and microvascular complications from both comorbid conditions.",
               "title_ko": "겸상적혈구 질환에서 제2형 당뇨병의 선별검사 및 진단."
+            }
+          ]
+        },
+        {
+          "journal": "International review of psychiatry (Abingdon, England)",
+          "impact_factor": 1.5,
+          "index_type": "미상",
+          "quartile": "미상",
+          "paper_count": 2,
+          "top_paper": {
+            "pmid": "40708418",
+            "title": "The Mental Health Clinical Liaison Programme for Schools: developing a new approach in Child and Adolescent Mental Healthcare in Spain.",
+            "journal": "International review of psychiatry (Abingdon, England)",
+            "impact_factor": 1.5,
+            "index_type": "미상",
+            "quartile": "미상",
+            "pubdate": "2024-09-29",
+            "authors": [
+              "Camacho-Rubio J",
+              "Ulloa Á",
+              "Parellada M"
+            ],
+            "citation_count": 2,
+            "rcr": null,
+            "volume": "37",
+            "issue": "3-4",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/40708418/",
+            "altmetric_score": 0,
+            "altmetric_news": 0,
+            "altmetric_social": 0,
+            "is_current_issue": true,
+            "hot_score": 21.0,
+            "field": "preventive",
+            "field_label": "예방의학",
+            "abstract": "Mental health issues among children and adolescents have increased, especially after the COVID-19 pandemic. Despite awareness, less than half get needed care, leading to long-term consequences. The World Health Organization calls for integrated, preventive community interventions. In this paper, we present The Mental Health Clinical Liaison Programme for Schools in the Community of Madrid, Spain, which features school-based activities delivered by multidisciplinary mental health teams, offering early detection, intervention, and prevention strategies for children and adolescents. We describe the activities implemented, present the evidence supporting them, provide preliminary data, and discuss the scope and challenges of the programme. In 2023-2024, the programme intervened in 53 primary and secondary schools, helping identify in 876 cases, evaluating 356, and referring 122 to other services. It supported interventions for 179 patients already in mental healthcare and 34 reintegrations after psychiatric hospitalization. Anti-stigma workshops have been conducted, involving approximately 1620 students. Ongoing research aims to evaluate the effectiveness and cost-effectiveness of these interventions to ensure continuous improvement in mental health services for young people.",
+            "title_ko": "학교를 위한 정신 건강 임상 연락 프로그램: 스페인의 아동 및 청소년 정신 건강 관리에 대한 새로운 접근법 개발."
+          },
+          "papers": [
+            {
+              "pmid": "40708418",
+              "title": "The Mental Health Clinical Liaison Programme for Schools: developing a new approach in Child and Adolescent Mental Healthcare in Spain.",
+              "journal": "International review of psychiatry (Abingdon, England)",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2024-09-29",
+              "authors": [
+                "Camacho-Rubio J",
+                "Ulloa Á",
+                "Parellada M"
+              ],
+              "citation_count": 2,
+              "rcr": null,
+              "volume": "37",
+              "issue": "3-4",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/40708418/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": true,
+              "hot_score": 21.0,
+              "field": "preventive",
+              "field_label": "예방의학",
+              "abstract": "Mental health issues among children and adolescents have increased, especially after the COVID-19 pandemic. Despite awareness, less than half get needed care, leading to long-term consequences. The World Health Organization calls for integrated, preventive community interventions. In this paper, we present The Mental Health Clinical Liaison Programme for Schools in the Community of Madrid, Spain, which features school-based activities delivered by multidisciplinary mental health teams, offering early detection, intervention, and prevention strategies for children and adolescents. We describe the activities implemented, present the evidence supporting them, provide preliminary data, and discuss the scope and challenges of the programme. In 2023-2024, the programme intervened in 53 primary and secondary schools, helping identify in 876 cases, evaluating 356, and referring 122 to other services. It supported interventions for 179 patients already in mental healthcare and 34 reintegrations after psychiatric hospitalization. Anti-stigma workshops have been conducted, involving approximately 1620 students. Ongoing research aims to evaluate the effectiveness and cost-effectiveness of these interventions to ensure continuous improvement in mental health services for young people.",
+              "title_ko": "학교를 위한 정신 건강 임상 연락 프로그램: 스페인의 아동 및 청소년 정신 건강 관리에 대한 새로운 접근법 개발."
+            },
+            {
+              "pmid": "40708416",
+              "title": "Clinicians' perspectives on strategies for suicide prevention in Pakistan: a qualitative inquiry.",
+              "journal": "International review of psychiatry (Abingdon, England)",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2024-09-10",
+              "authors": [
+                "Ali SA",
+                "Saleem T",
+                "Ventriglio A"
+              ],
+              "citation_count": 0,
+              "rcr": null,
+              "volume": "37",
+              "issue": "3-4",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/40708416/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": true,
+              "hot_score": 10.0,
+              "field": "preventive",
+              "field_label": "예방의학",
+              "abstract": "Suicide is a public health concern and represents one of the increasing causes of mortality worldwide. In Pakistan, the severity of suicide is worsened by the lack of a national prevention program and adequate mental health facilities. This study, through 16 in-depth interviews with clinicians, aimed to identify prevention strategies. Two main categories emerged: community-level strategies (eg raising awareness, psychoeducation, restricting access to lethal means) and clinician-level strategies (eg training programs, safety plans, fundraising, tele-counseling). Effective prevention requires comprehensive policies to overcome existing barriers.",
+              "title_ko": "파키스탄의 자살 예방 전략에 대한 임상의의 관점: 질적 조사."
             }
           ]
         },
@@ -3337,7 +3402,7 @@
               "field": "preventive",
               "field_label": "예방의학",
               "abstract": "Recent advancements in the next-generation sequencing have illuminated the occurrence of multiple genetic diagnoses (MGD). While exome sequencing has provided insights, genome sequencing (GS), the most comprehensive diagnostic tool, remains underexplored for studying MGD prevalence. We retrospectively analyzed 1487 pediatric cases from our laboratory, employing GS to investigate the incidence of single definitive genetic diagnosis (SDD) and MGD in children suspected of having a genetic disease. Of these patients, 273 received at least one definitive diagnosis, including 245 with SDD (16.5%) and 28 with MGD (1.9%). Diagnostic yield was consistent across genders and unaffected by previous testing in SDD cases. Notably, prior testing significantly increased the diagnostic yield in MGD cases to 2.7% overall and 14.4% among diagnosed cases, compared to 1.1% for those with GS as a first-tier test. Age was a significant factor in diagnostic outcome for both SDD and MGD cases with neonates showing the highest diagnostic yield of 24.5% in SDD and a notably higher yield in MGD at 4.9%, representing 16.7% of the diagnosed cases. Of the 28 MGD cases, 17 exhibited distinct phenotypes, 9 had overlapping features, and 2 presented a mix, underscoring the genetic and phenotypic heterogeneity within this group. This study is the first to exclusively use GS to assess MGD prevalence. Our findings highlight the complexity of rare diseases and emphasize the importance of comprehensive, genome-level diagnostics. Clinicians must ensure that diagnoses fully account for the observed phenotypes to inform optimal therapeutic strategies and management.",
-              "title_ko": "Beyond Single Diagnosis: Exploring Multidiagnostic Realities in Pediatric Patients through Genome Sequencing."
+              "title_ko": ""
             },
             {
               "pmid": "40225936",
@@ -3365,7 +3430,7 @@
               "field": "preventive",
               "field_label": "예방의학",
               "abstract": "Clinical exome and genome sequencing (ES/GS) have become indispensable diagnostic tools for rare genetic diseases (RGD). However, the interpretation of ES/GS presents a substantial operational challenge in clinical settings. Test interpretation requires the review of hundreds of genetic variants, a task that has become increasingly challenging given the rising use of ES/GS. In response, we present Clinical Assessment of Variants by Likelihood Ratios (CAVaLRi), which employ a modified likelihood ratio (LR) framework to assign diagnostic probabilities to candidate germline disease genes. CAVaLRi models aspects of the clinical variant assessment process, taking into consideration the predicted impact of the variant, the proband and parental genotypes, and the proband's clinical characteristics. It also factors in computational phenotype noise and weighs the relative significance of genotype, phenotype, and variant segregation information. We trained and tested CAVaLRi on variant and phenotype data from an internal cohort of 655 clinical ES cases. For validation, CAVaLRi's performance was benchmarked against four leading gene prioritization algorithms (Exomiser's hiPHIVE and PhenIX prioritizers, LIRICAL, and XRare) using a distinct cohort of 12,832 ES cases. Our findings reveal that CAVaLRi significantly outperforms its counterparts when clinician-curated phenotype sets are used, as evidenced by its superior precision-recall curve (PR AUC: 0.701) and average diagnostic gene rank (1.59). Notably, even when substituting highly focused clinician-curated phenotype sets with large and potentially nonspecific computationally derived phenotypes, CAVaLRi retains its precision (PR AUC: 0.658; diagnostic gene average rank: 1.68) and markedly outperforms other tools. In a large, heterogeneous validation cohort, CAVaLRi stood out as the most precise prioritization algorithm (PR AUC: 0.335; average diagnostic rank: 1.91). In conclusion, CAVaLRi presents a robust solution for prioritizing diagnostic genes, surpassing current methods. It demonstrates resilience to noisy, computationally-derived phenotypes, providing a scalable strategy to help labs focus on the most diagnostically relevant variants, thus addressing the growing demand for ES/GS interpretation.",
-              "title_ko": "CAVaLRi: 진단 생식계열 변이의 신속한 식별을 위한 알고리즘."
+              "title_ko": ""
             },
             {
               "pmid": "40225932",
@@ -3393,7 +3458,7 @@
               "field": "preventive",
               "field_label": "예방의학",
               "abstract": "Pompe disease (PD) is a rare autosomal recessive lysosomal disorder caused by loss-of-function of the α-glucosidase (GAA) gene. The deficient GAA enzyme activity may result in potential life-threatening muscle weakness, thus requiring a rapid diagnosis to initiate therapeutic interventions. In this large retrospective study, we analyzed 30.836 PD suspect samples from 57 countries using a two-step approach utilizing dried blood spots (DBSs): biochemical testing of GAA activity followed by complementary genetic sequencing of GAA in biochemically conspicuous cases. Of these 30.836 samples, 2% (n = 639) were excluded; accordingly, this study consisted of 30.193 cases. Biochemical testing of GAA enzyme activity showed normal values in 28.354 (93.90%) and enzyme activity below the cut-off in 1843 (6.10%) cases. These biochemically suspicious cases were genetically analyzed. We identified 723 Pompe cases with 283 different GAA alterations, and 98 variants have been unpublished so far. The most common variant was the splice variant c.-32-13T>G (IVS1). Looking at the IVS1-genotype, the majority was compound heterozygous (n = 169) and identified in late-onset cases (n = 162). Comparison of early- versus late-onset cases to evaluate whether certain genotypes correlate with the age of onset revealed that homozygosity was predominantly found in infantile (85.65%) and compound heterozygosity in late-onset (76.9%) cases. Analysis of homozygous cases revealed 61% nonsense variants in the early stages and 87% missense variants in the late stages. Mapping of disease-associated (homozygous) missense variants to functional GAA protein domains showed that missense variants were found throughout GAA, but we identified enrichment in the catalytic domain. A strict genotype-phenotype correlation cannot be established; nevertheless, a phenotypic implication of some GAA variants could be drawn (e.g., c.896T>C/p.L299P, c.2015G>A/p.R672Q, and c.-32-13T>G). The combined enzyme activity and genetic testing from DBS cards can reliably identify PD and significantly accelerate diagnosis. We identified new genetic variants that contribute to the spectrum of pathogenic variants of the GAA gene.",
-              "title_ko": "폼페병에 영향을 받은 것으로 의심되는 30.000명 이상의 증후성 환자에서 GAA의 생화학적 및 유전자 검사."
+              "title_ko": ""
             }
           ]
         },
@@ -3429,7 +3494,7 @@
             "field": "preventive",
             "field_label": "예방의학",
             "abstract": "BACKGROUND: Brucellosis is a major worldwide public health problem with economic and zoonotic implications. Despite the importance of vaccines in preventing brucellosis, no previous systematic evaluation of vaccination in sheep has been conducted. MATERIALS AND METHODS: Articles were searched in databases such as PubMed, Science Direct, Cochrane, VIP, Wan Fang, and CNKI by screening the articles, and articles reporting Brucella vaccination in sheep were included in the study. Meta-analysis was performed using random effects models to calculate pooled risk ratios for vaccines and to calculate vaccine effectiveness. RESULTS: A total of 2,605 articles were retrieved, and 17 articles were obtained through screening for analysis. The effectiveness of vaccination was 65% (RR = 0.35, 95% CI: 0.27-0.36; VE = 65%), with the M5 vaccine being significantly more effective at 84% (RR = 0.1587, 95% CI: 0.0256-0.9858; VE = 84%) than the other vaccines, and intramuscular injection could be the best route of immunization. Rev.1 was indicated for female sheep, especially for pregnant ewes (RR = 0.2016, 95% CI: 0.1139-0.3569; VE = 80%), and for reduced abortions (RR = 0.0978, 95% CI: 0.0459-0.2085). CONCLUSION: This meta-analysis was conducted to identify the relevant factors affecting vaccine efficacy. We recommend that sheep be inoculated intramuscularly with Rev.1, different inoculation protocols be adopted for sheep of different ages, and pregnant ewes be inoculated with Rev.1 to prevent abortion.",
-            "title_ko": "양에서 브루셀라 백신의 효능: 체계적인 검토 및 메타 분석."
+            "title_ko": ""
           },
           "papers": [
             {
@@ -3458,7 +3523,7 @@
               "field": "preventive",
               "field_label": "예방의학",
               "abstract": "BACKGROUND: Brucellosis is a major worldwide public health problem with economic and zoonotic implications. Despite the importance of vaccines in preventing brucellosis, no previous systematic evaluation of vaccination in sheep has been conducted. MATERIALS AND METHODS: Articles were searched in databases such as PubMed, Science Direct, Cochrane, VIP, Wan Fang, and CNKI by screening the articles, and articles reporting Brucella vaccination in sheep were included in the study. Meta-analysis was performed using random effects models to calculate pooled risk ratios for vaccines and to calculate vaccine effectiveness. RESULTS: A total of 2,605 articles were retrieved, and 17 articles were obtained through screening for analysis. The effectiveness of vaccination was 65% (RR = 0.35, 95% CI: 0.27-0.36; VE = 65%), with the M5 vaccine being significantly more effective at 84% (RR = 0.1587, 95% CI: 0.0256-0.9858; VE = 84%) than the other vaccines, and intramuscular injection could be the best route of immunization. Rev.1 was indicated for female sheep, especially for pregnant ewes (RR = 0.2016, 95% CI: 0.1139-0.3569; VE = 80%), and for reduced abortions (RR = 0.0978, 95% CI: 0.0459-0.2085). CONCLUSION: This meta-analysis was conducted to identify the relevant factors affecting vaccine efficacy. We recommend that sheep be inoculated intramuscularly with Rev.1, different inoculation protocols be adopted for sheep of different ages, and pregnant ewes be inoculated with Rev.1 to prevent abortion.",
-              "title_ko": "양에서 브루셀라 백신의 효능: 체계적인 검토 및 메타 분석."
+              "title_ko": ""
             },
             {
               "pmid": "40303082",
@@ -3486,7 +3551,7 @@
               "field": "preventive",
               "field_label": "예방의학",
               "abstract": "Wild boar (Sus scrofa) is a common wild ungulate known as the most important reservoir of tuberculosis (TB) in Spain. The severity of TB lesions in this species and the high prevalence of porcine circovirus type 2 (PCV-2) have been related. PCV-2 is ubiquitous in swine populations, being usual for the free-living ones the contact with this agent. Recent studies found a correlation between a decrease of generalised TB prevalence in wild boar populations and the PCV-2-vaccination. The aim of this study was to find out if PCV-2 vaccination modulates the gene expression of cytokines from immune cells after its exposition with mycobacterial antigens using an in vitro methodology. A total of 46 wild boars from a PCV-2 infection endemic area were blood-sampled before and after the PCV-2 vaccination of 22 of them. Peripheral blood mononuclear cells (PBMC) were obtained and isolated from these samples. Aliquots of the cells were in vitro cultured and respectively stimulated with PPDa, PPDb, and a mitogen. A complete analysis of the gene expression of cytokines from the cultured PBMC was carried out. Also, Mycobacterium bovis and PCV-2 contacts were revealed by ELISA and/or qPCR. The results demonstrated that the animals which have had contact with PCV-2 and had been vaccinated, manifested a significant decrease in gene expression of proinflammatory cytokines, like interleukin 1 beta, interleukin 6, and tumour necrosis factor-alpha, possibly related with the severity of TB lesions, and also a significant decrease of interleukin 10, a key cytokine. In conclusion, in case of possible infection or contact events with the virus, PCV-2 vaccination could be an effective measure to reduce the TB severity in wild boar populations, which could decrease the intra and interspecies transmission of TB.",
-              "title_ko": "미코박테리아 항원 자극 후 멧돼지 말초혈액 단핵세포에서 PCV-2 백신 접종이 사이토카인 유전자 발현 프로파일에 미치는 영향."
+              "title_ko": ""
             }
           ]
         },
@@ -3522,7 +3587,7 @@
             "field": "preventive",
             "field_label": "예방의학",
             "abstract": "INTRODUCTION AND OBJECTIVE: Measles is one of the most contagious human viruses and serves as an early indicator of gaps in population immunity. Despite the introduction of measles vaccination 50 years ago, Poland remains one of nine endemic countries in the WHO European Region. The aim of the study is to assess the relationship between socio-economic factors and sufficient coverage (≥95%) with the second dose of vaccination against measles (MMR2) at the poviat level in Poland from 2014 - 2018. MATERIAL AND METHODS: Data on MMR2 coverage was extracted from annual reports collected by sanitary-epidemiological stations in Poland. Socio-economic data was obtained from Statistics Poland. A multivariate logistic regression analysis, adjusted for population size and the number of physicians and nurses, was performed to identify predictors of sufficient MMR2 coverage. RESULTS: Three socio-economic variables were found to be significant independent predictors of sufficient MMR2 coverage across years: the number of households receiving community-based social assistance, families receiving child benefits, and the number of medical consultations in primary health care. Poviats with higher values for these variables had increased odds of achieving sufficient MMR2 coverage. In contrast, no significant association was observed between MMR2 coverage and the average monthly salary, employment rates, or the number of foster families. CONCLUSIONS: MMR2 coverage at the poviat level in Poland is predictable using selected socio-economic variables. The findings suggest that benefitting from social assistance positively influences vaccination uptake. While individual-level data would provide greater insight, poviat-level data can still guide public health interventions to improve MMR2 coverage and reduce the risk of measles outbreaks.",
-            "title_ko": "폴란드에서 2차 접종 홍역 백신 접종 범위의 사회 경제적 결정 요인."
+            "title_ko": ""
           },
           "papers": [
             {
@@ -3551,7 +3616,7 @@
               "field": "preventive",
               "field_label": "예방의학",
               "abstract": "INTRODUCTION AND OBJECTIVE: Measles is one of the most contagious human viruses and serves as an early indicator of gaps in population immunity. Despite the introduction of measles vaccination 50 years ago, Poland remains one of nine endemic countries in the WHO European Region. The aim of the study is to assess the relationship between socio-economic factors and sufficient coverage (≥95%) with the second dose of vaccination against measles (MMR2) at the poviat level in Poland from 2014 - 2018. MATERIAL AND METHODS: Data on MMR2 coverage was extracted from annual reports collected by sanitary-epidemiological stations in Poland. Socio-economic data was obtained from Statistics Poland. A multivariate logistic regression analysis, adjusted for population size and the number of physicians and nurses, was performed to identify predictors of sufficient MMR2 coverage. RESULTS: Three socio-economic variables were found to be significant independent predictors of sufficient MMR2 coverage across years: the number of households receiving community-based social assistance, families receiving child benefits, and the number of medical consultations in primary health care. Poviats with higher values for these variables had increased odds of achieving sufficient MMR2 coverage. In contrast, no significant association was observed between MMR2 coverage and the average monthly salary, employment rates, or the number of foster families. CONCLUSIONS: MMR2 coverage at the poviat level in Poland is predictable using selected socio-economic variables. The findings suggest that benefitting from social assistance positively influences vaccination uptake. While individual-level data would provide greater insight, poviat-level data can still guide public health interventions to improve MMR2 coverage and reduce the risk of measles outbreaks.",
-              "title_ko": "폴란드에서 2차 접종 홍역 백신 접종 범위의 사회 경제적 결정 요인."
+              "title_ko": ""
             },
             {
               "pmid": "42374679",
@@ -3579,7 +3644,7 @@
               "field": "preventive",
               "field_label": "예방의학",
               "abstract": "INTRODUCTION AND OBJECTIVE: The aim of the study was to define mental health profiles according to the Dual Continua Mental Health (DCMH) model and to analyse their associations with socio-demographic characteristics and health literacy (HL). MATERIAL AND METHODS: An online survey was conducted in 2024 among students aged 13-17 in schools in a mid-western region of Poland (n=9,026). Standardised instruments were used to assess well-being, prevalence of psychosomatic complaints, as well as HL. Multinomial logistic regression was applied. RESULTS: The findings showed that 57.1% of students reported frequent psychosomatic complaints, whereas 24.5% met the criteria for low well-being. Six mental health profiles were identified, ranging from the most unfavourable (low wellbeing and frequent complaints - 21.4%) to optimal (high well-being and none or infrequent complaints - 29.1%). HL was associated with profile membership to a significant extent - a low level of HL tripled the risk of adherence to the group with the poorest mental health status (OR=3.06; 95% CI: 2.43-3.85). Living in rural areas protected against being classified into the least favourable group (OR = 0.82; 95% CI: 0.69-0.97). CONCLUSIONS: The DCMH model offers a framework for multidimensional analysis of mental health profiles among adolescents, and its application may incorporate various research tools. Professionals (psychologists, educators, teachers) should not only respond to signs of crisis, but also actively strengthen young people's resources - particularly by fostering health literacy, building psychological resilience, and promoting positive functioning within the school environment.",
-              "title_ko": "일반 건강 리터러시는 이중 연속성 모델을 기반으로 청소년 정신 건강 프로파일을 예측합니까?"
+              "title_ko": ""
             },
             {
               "pmid": "41906517",
@@ -3607,7 +3672,7 @@
               "field": "preventive",
               "field_label": "예방의학",
               "abstract": "INTRODUCTION AND OBJECTIVE: The study examines the vaccination status and attitudes of Ukrainian refugees in Poland, focusing on factors influencing decisions regarding mandatory vaccinations. Given the ongoing migration and geopolitical instability, understanding these determinants is crucial for improving immunization coverage and mitigating public health risks. MATERIAL AND METHODS: Data were collected from 102 Ukrainian refugee participants in the Rzeszów area using a structured survey. The questionnaire included demographic questions and inquiries about vaccination practices, reasons for incomplete immunization, and attitudes toward vaccination. Statistical analysis was conducted to identify significant correlations. RESULTS: The study found that 55.88% of participants reported full vaccination of their children, while 42.16% had partial vaccination, and less than 2% were unvaccinated. The most common barriers to vaccination were limited access to vaccines (40%) and mistrust in vaccine formulations (37.78%). Additionally, statistical analysis revealed a significant correlation between the COVID-19 pandemic and vaccination uptake (p < 0.05). CONCLUSIONS: The findings emphasize the need for targeted interventions to address vaccine hesitancy and logistical challenges among Ukrainian refugees. Strengthening cooperation between Ukraine and Poland is crucial for enhancing immunization coverage. Despite broader vaccine availability in Poland, hesitancy remains an issue, necessitating educational initiatives and policy adjustments.",
-              "title_ko": "필수 예방 접종에 대한 폴란드 우크라이나인의 예방 접종 상태 및 태도."
+              "title_ko": ""
             },
             {
               "pmid": "39743712",
@@ -3635,7 +3700,7 @@
               "field": "preventive",
               "field_label": "예방의학",
               "abstract": "INTRODUCTION AND OBJECTIVE: Considering the complexity of medical discourse, the enormous amount of information, including fake news, it becomes increasingly challenging to develop health literacy among the general population and to ensure efficient communication of scientific findings on the effects of health interventions to various types of recipients. We aimed to gain an in-depth understanding of how the various types of audiences perceive various formats for presenting data from Cochrane systematic reviews (SRs). MATERIAL AND METHODS: We conducted focus group interviews with university employees, students, pharmacists, patients, caregivers, physicians, and nurses. Participants were presented with the following information formats: plain language summary (PLS), an audio record of the PLS, summary of findings table, vlogshot, blogshot, infographic, press release, comic drawing, and scientific abstract. During a moderated discussion, participants were encouraged to share their opinions about usefulness of the formats and their strengths and weaknesses. The interviews were video recorded, transcribed, and coded. To identify the patterns of preferences, the method of constant comparison and visual display techniques were used. RESULTS: The analysis revealed the various preferences regarding the presentation of health information. The following characteristics of the information emerged as the most important: trustworthiness, practical application, comprehensibility, information structure, graphical means used, clarity, individual reactions and interpretations. CONCLUSIONS: Our study revealed several key factors that are considered by recipients when evaluating the various information formats. These include the way the information is presented, the perceived quality of the underlying studies, and individual benefits.",
-              "title_ko": "다양한 유형의 수용자에게 건강 중재의 효과에 대한 증거 기반 정보 전달 - 평신도 및 전문 청중 간의 정보 형식 인식에 대한 질적 연구."
+              "title_ko": ""
             },
             {
               "pmid": "39743711",
@@ -3663,7 +3728,7 @@
               "field": "preventive",
               "field_label": "예방의학",
               "abstract": "INTRODUCTION AND OBJECTIVE: The results of the Health Behaviour in School-aged Children (HBSC) surveys conducted in 2018 and 2022 allow for a comparison of selected health-related indicators from before the COVID-19 pandemic and from its final phase. The aim of the study is to assess the level of health literacy (HL) among Polish students aged 13-17 years. MATERIAL AND METHODS: The surveys were conducted with nationwide samples of students (N2018=5648 and N2022=4994, respectively). Changes in the overall HLSAC-5 index and its five dimensions were examined. RESULTS: The findings indicate a significant decline in the average HLSAC-5 scores from 15.35±2.40 to 14.84±2.80, alongside an increase in the proportion of students with low HL from 9.85% - 23.67%. Concurrently, the percentage of students rating their health as poor rose from 3.5% to 9.1%. An increasing disparity in HL levels across schools was also observed, with the intraclass correlation coefficient (ICC) escalating from 3.4% to 6.1%. General linear model confirmed a significant influence of gender, age, place of living, family affluence, self-rated health, and eight significant 2-way or 3-way interactions between independent variables. Notably, there were five significant 3-way interactions involving the year of the survey and self-rated health, with the third factor, gender, age, family wealth, presence of a chronic disease, and place of residence, respectively. CONCLUSIONS: The study highlights the dynamic nature of HL and its evolving relationship with various socio-demographic and health factors over time. The changes in students' HL may have been influenced by factors related to living and learning during the COVID-19 pandemic.",
-              "title_ko": "2018년 대비 2022년 폴란드 청소년의 주관적 건강 리터러시 - 코로나19 기간 동안 성별, 연령 및 사회 경제적 요인의 영향."
+              "title_ko": ""
             }
           ]
         },
@@ -3699,7 +3764,7 @@
             "field": "preventive",
             "field_label": "예방의학",
             "abstract": "Background Studies have not examined alternate school visual acuity screening methods in Nepal in terms of accuracy and cost. Objective To validate recent evidence from India of the effectiveness and cost of alternate school visual acuity screening models involving all class teachers (ACTs) versus a few selected teachers (STs). Method This was a prospective cluster randomized controlled study. The sample size was 5000 students. Five schools were randomly selected for the all-class teachers or intervention arm and four schools for selected teachers or standard arm. Teachers from both arms were trained to identify children aged 6 years and above with Snellen visual acuity 6/9 or worse in either eye as well as obvious ocular abnormalities and refer them to an ophthalmic team. The screen positive and negative children as well as cost for screening were calculated in STATA software (version 11.0; StataCorp, Texas, USA). Result All class teachers (80 teachers) screened 3713 children and STs (9 teachers) screened 2064 children aged 6 to 15 years. All class teachers had better sensitivity, 95.1% (95% CI: 91.9-98.2) and specificity, 92.8% (95% CI: 92.0-93.6) compared to selected teachers: sensitivity, 73.2% (95% CI: 64.4-82.0) and specificity, 85.3% (95% CI: 83.8- 86.7). The cost of screening per child with refractive error and or other ocular abnormalities was $3.05 for all class teachers and $ 5.29 for selected teachers. Conclusion A school vision screening involving all class teachers in Nepal was more accurate than selected teachers in identifying refractive error and or other ocular abnormalities at approximately 60% of the cost.",
-            "title_ko": "극서부 네팔의 학교 교사의 시력 선별 검사: 대체 선별 검사 모델에 대한 무작위 시험."
+            "title_ko": ""
           },
           "papers": [
             {
@@ -3728,7 +3793,7 @@
               "field": "preventive",
               "field_label": "예방의학",
               "abstract": "Background Studies have not examined alternate school visual acuity screening methods in Nepal in terms of accuracy and cost. Objective To validate recent evidence from India of the effectiveness and cost of alternate school visual acuity screening models involving all class teachers (ACTs) versus a few selected teachers (STs). Method This was a prospective cluster randomized controlled study. The sample size was 5000 students. Five schools were randomly selected for the all-class teachers or intervention arm and four schools for selected teachers or standard arm. Teachers from both arms were trained to identify children aged 6 years and above with Snellen visual acuity 6/9 or worse in either eye as well as obvious ocular abnormalities and refer them to an ophthalmic team. The screen positive and negative children as well as cost for screening were calculated in STATA software (version 11.0; StataCorp, Texas, USA). Result All class teachers (80 teachers) screened 3713 children and STs (9 teachers) screened 2064 children aged 6 to 15 years. All class teachers had better sensitivity, 95.1% (95% CI: 91.9-98.2) and specificity, 92.8% (95% CI: 92.0-93.6) compared to selected teachers: sensitivity, 73.2% (95% CI: 64.4-82.0) and specificity, 85.3% (95% CI: 83.8- 86.7). The cost of screening per child with refractive error and or other ocular abnormalities was $3.05 for all class teachers and $ 5.29 for selected teachers. Conclusion A school vision screening involving all class teachers in Nepal was more accurate than selected teachers in identifying refractive error and or other ocular abnormalities at approximately 60% of the cost.",
-              "title_ko": "극서부 네팔의 학교 교사의 시력 선별 검사: 대체 선별 검사 모델에 대한 무작위 시험."
+              "title_ko": ""
             },
             {
               "pmid": "42028759",
@@ -3755,7 +3820,7 @@
               "field": "preventive",
               "field_label": "예방의학",
               "abstract": "Background Alcohol use disorder is a chronic medical condition with a multifactorial aetiology. Food and drug administration approved treatment options for alcohol dependence syndrome includes: Naltrexone, Acamprosate, and Disulfiram and Topiramate as an off label drug. The lack of data specific to the Nepalese population pose significant challenges. Objective To fill that gap by assessing the effectiveness of Naltrexone, Disulfiram, Topiramate and Acamprosate in relapse prevention Method Hospital based cohort study conducted over a period of two months. The total 128 participants were divided into four groups randomly. Patients in the Naltrexone group were prescribed a 50 mg tablet once daily, patients in Topiramate group was given 25 mg up to 100 mg. Acamprosate group, 333 mg one tablet three times a day was given and Disulfiram group received 250 mg once a day and followed up for four weeks. The association between alcohol consumption and sociodemographic characteristics was assessed using Chi-square test. The Statistical Package for Social Science software (IBM SPSS Statistics 21, Chicago, USA) was used for analysis. Result Out of 128 participants 23.4% relapsed in 12 weeks follow up. Naltrexone, Topiramate, Disulfiram, and Acamprosate all were equally effective in preventing relapse and there was no statistically significant differences identified among these medications regarding relapse prevention in our study. Conclusion This study contributes important new data on the efficacy of Acamprosate in the treatment of alcohol dependence in Nepalese population. The study also support for use of pharmacotherapy for relapse prevention.",
-              "title_ko": "알코올 의존도와 재발률에 미치는 영향에 대한 다양한 항갈망 약물의 비교 연구."
+              "title_ko": ""
             },
             {
               "pmid": "42023566",
@@ -3783,7 +3848,7 @@
               "field": "preventive",
               "field_label": "예방의학",
               "abstract": "Background The needs and determinants of COVID-19 vaccination uptake and coverage among refugees, migrants in regular situations (MIRS), and migrants in irregular situations (MIIS) remain undocumented. This hinders advocacy toward inclusive vaccination policies and ultimately undermines effective vaccine rollout. Objective To estimate vaccination coverage and produce evidence on the barriers and facilitators to COVID-19 vaccination for refugees and migrants in Nepal. Method Mixed-method study was conducted in Koshi, Bagmati and Gandaki provinces of Nepal. In total, 210 household surveys were conducted among the refugees and migrants, and eight key informant interviews were conducted locally among Nepal's major stakeholders of COVID-19 vaccination. Result A total of 210 participants were included in this study: 101 refugees, 66 MIRS, and 43 MIIS. Among them, 52.9% (111/210) were fully vaccinated with two or more COVID-19 doses, 43.3% (91/210) were partially vaccinated with one dose, and 3.8% (8/210) were unvaccinated. Inclusive vaccination policies were an enabling factor for wide access to COVID-19 vaccines among refugees and migrants. The availability of vaccines free of cost, timely information on vaccinations, and multiple vaccination centers facilitated COVID-19 vaccine uptake. However, barriers like requirement of identity documents, safety misconceptions, fear of side effects, and language challenges hindered access. Conclusion This study highlights the overlooked issue of vaccination uptake among refugees and migrants, emphasizing the lack of data on their needs and determinants. This gap hinders inclusive vaccination policies and rollout effectiveness. Tailored strategies are crucial to address their specific needs, alongside ongoing research and advocacy for inclusive policies and targeted interventions to overcome barriers.",
-              "title_ko": "네팔 난민과 이민자를 위한 코로나19 백신의 배포."
+              "title_ko": ""
             },
             {
               "pmid": "40452094",
@@ -3811,7 +3876,7 @@
               "field": "preventive",
               "field_label": "예방의학",
               "abstract": "Background Health care is a significant health concern among monks, who are a special group that is different from the normal population in terms of access to the health care service system. Objective This study aimed to expose the prevalence of quality of life (QOL) and the association between health promotion and the quality of life of monks in the northeast of Thailand. Method This cross-sectional analytical research was conducted among monks in the northeast of Thailand. Of these, 420 samples were selected using the multi-stage random sampling method. The generalized linear mixed model was used to identify the association between health promotion, health literacy, and quality of life in the northeast of Thailand. Result The results found that 55.24% of the monks had health check-ups, and the prevalence of good quality of life was 49.05 (95% CI: 44.27-53.84). Good quality of life was associated with good implementation of the Ottawa Charter of Health Promotion (AOR = 5.35; 95% CI 3.42-8.36; p-value < 0.001) and adequate to excellent health literacy (AOR = 1.77; 95% CI 1.04-3.03; p-value = 0.034). Furthermore, low stress (AOR = 2.36; 95% CI = 1.07-5.20; p-value = 0.032) and low depressive symptoms (AOR = 2.32; 95% CI = 1.06-5.10; p-value = 0.036) have been associated with improved quality of life. Conclusion Almost half of the monks had a good quality of life. The major factors that determined the good quality of life were health promotion in the Ottawa Charter, health literacy, stress, and depression. Therefore, health policymakers could emphasize the principle of the Ottawa Charter, health literacy in monks, which will be attributed to other health promotions.",
-              "title_ko": "태국 승려들 사이에서 오타와 헌장 및 삶의 질과 관련된 요인의 건강 증진."
+              "title_ko": ""
             }
           ]
         },
@@ -3847,7 +3912,7 @@
             "field": "preventive",
             "field_label": "예방의학",
             "abstract": "INTRODUCTION: Patients use online videos to learn about their condition and potential treatments. Operative techniques in Deep Brain Stimulation (DBS) vary significantly between institutions. This poses challenges to ensuring patients are adequately and accurately informed. We performed a comprehensive review of YouTube videos describing Deep Brain Stimulation. METHODS: Text searches for DBS-related search strings were performed on YouTube. The top 25 de-duplicated videos per search were included. Each video was assessed for differences in procedural technique, educational quality using the JAMA benchmark and DISCERN tools, and audio-visual or editing quality. RESULTS: We identified 91 DBS-related YouTube videos with 44% of videos uploaded by academic institutions and 15% by hospitals. Parkinson's disease was the most frequently described condition in 65% of videos. Variations in procedure impacting patient experience and expectations, were discussed in varying proportions: head shaving in 14.3% of videos, potential complications in 23.1%, number of stages in 33.0%, and awake vs asleep surgery in 46.2%. The JAMA benchmark criteria was fulfilled in 12% of videos and the median total DISCERN score was 46, an 'average' quality rating. High-quality images (N = 69, 75.8%), audio/music (N = 73, 80.2%), accessible language (N = 84, 92.3%), and professional production quality (N = 72, 79.1%) were present in most videos. DISCUSSION AND CONCLUSION: YouTube videos describing DBS are visually appealing but lack scientific quality and present potentially misleading content for future DBS recipients and caregivers. They should be viewed with caution as a source of medical communication or information for patients.",
-            "title_ko": "딥 브레인 자극을 설명하기 위한 YouTube 동영상: 포괄적이고 정량적인 검토."
+            "title_ko": ""
           },
           "papers": [
             {
@@ -3876,7 +3941,7 @@
               "field": "preventive",
               "field_label": "예방의학",
               "abstract": "INTRODUCTION: Patients use online videos to learn about their condition and potential treatments. Operative techniques in Deep Brain Stimulation (DBS) vary significantly between institutions. This poses challenges to ensuring patients are adequately and accurately informed. We performed a comprehensive review of YouTube videos describing Deep Brain Stimulation. METHODS: Text searches for DBS-related search strings were performed on YouTube. The top 25 de-duplicated videos per search were included. Each video was assessed for differences in procedural technique, educational quality using the JAMA benchmark and DISCERN tools, and audio-visual or editing quality. RESULTS: We identified 91 DBS-related YouTube videos with 44% of videos uploaded by academic institutions and 15% by hospitals. Parkinson's disease was the most frequently described condition in 65% of videos. Variations in procedure impacting patient experience and expectations, were discussed in varying proportions: head shaving in 14.3% of videos, potential complications in 23.1%, number of stages in 33.0%, and awake vs asleep surgery in 46.2%. The JAMA benchmark criteria was fulfilled in 12% of videos and the median total DISCERN score was 46, an 'average' quality rating. High-quality images (N = 69, 75.8%), audio/music (N = 73, 80.2%), accessible language (N = 84, 92.3%), and professional production quality (N = 72, 79.1%) were present in most videos. DISCUSSION AND CONCLUSION: YouTube videos describing DBS are visually appealing but lack scientific quality and present potentially misleading content for future DBS recipients and caregivers. They should be viewed with caution as a source of medical communication or information for patients.",
-              "title_ko": "딥 브레인 자극을 설명하기 위한 YouTube 동영상: 포괄적이고 정량적인 검토."
+              "title_ko": ""
             }
           ]
         },
@@ -3912,7 +3977,7 @@
             "field": "preventive",
             "field_label": "예방의학",
             "abstract": "OBJECTIVE: This study examined the effects of a 20-minute mindfulness-based intervention (MBI) on preoperative pain, desire for pain medication, and anxiety among adults scheduled for knee or hip arthroplasty, compared with a pain psychoeducation intervention (control condition). DESIGN: A single-site, two-arm, parallel-group, randomized, controlled trial. METHODS: Participants attending a preoperative education program were randomized to either a MBI or pain psychoeducation intervention, which were matched in format (group), duration (20 minutes), and frequency (once). Pain intensity, pain unpleasantness, desire for pain medication, and anxiety symptoms were assessed using 0 to 10 numeric rating scales immediately before and after the intervention. T-tests evaluated within-group change. Intention-to-treat generalized linear mixed modeling evaluated between-group pre-post changes in outcomes. FINDINGS: Among 170 enrolled participants (86 MBI; 84 control), 160 (94%) completed all study procedures. Both MBI and control participants markedly reduced their pain-related and anxiety symptoms postintervention; however, only the MBI group reduced their pain medication desire. Generalized linear mixed modeling revealed that the MBI group, compared with the control group, markedly decreased their pain intensity (P < 0.001; d = 0.85), pain unpleasantness (P < 0.001; d = 0.64), desire for pain medication (P = 0.008; d = 0.41), and anxiety symptoms (P < 0.001; d = 0.55). On average, the MBI decreased pain intensity by over two points, and a higher percentage of participants in the MBI condition reported clinically meaningful reductions in pain intensity (ie, by at least 30%) compared with the control participants (60% versus 26%, respectively, P < 0.001). CONCLUSIONS: These findings suggest the effectiveness of a brief MBI in reducing preoperative pain and anxiety among adults preparing for knee or hip arthroplasty, underscoring the potential of MBIs to safely address pain and anxiety in surgical settings.",
-            "title_ko": "간략한 단일 세션 마음챙김 중재는 수술 전 환자의 통증, 통증 약물의 욕구 및 불안감을 감소시켰습니다: 무작위배정 대조 시험의 결과."
+            "title_ko": ""
           },
           "papers": [
             {
@@ -3941,7 +4006,7 @@
               "field": "preventive",
               "field_label": "예방의학",
               "abstract": "OBJECTIVE: This study examined the effects of a 20-minute mindfulness-based intervention (MBI) on preoperative pain, desire for pain medication, and anxiety among adults scheduled for knee or hip arthroplasty, compared with a pain psychoeducation intervention (control condition). DESIGN: A single-site, two-arm, parallel-group, randomized, controlled trial. METHODS: Participants attending a preoperative education program were randomized to either a MBI or pain psychoeducation intervention, which were matched in format (group), duration (20 minutes), and frequency (once). Pain intensity, pain unpleasantness, desire for pain medication, and anxiety symptoms were assessed using 0 to 10 numeric rating scales immediately before and after the intervention. T-tests evaluated within-group change. Intention-to-treat generalized linear mixed modeling evaluated between-group pre-post changes in outcomes. FINDINGS: Among 170 enrolled participants (86 MBI; 84 control), 160 (94%) completed all study procedures. Both MBI and control participants markedly reduced their pain-related and anxiety symptoms postintervention; however, only the MBI group reduced their pain medication desire. Generalized linear mixed modeling revealed that the MBI group, compared with the control group, markedly decreased their pain intensity (P < 0.001; d = 0.85), pain unpleasantness (P < 0.001; d = 0.64), desire for pain medication (P = 0.008; d = 0.41), and anxiety symptoms (P < 0.001; d = 0.55). On average, the MBI decreased pain intensity by over two points, and a higher percentage of participants in the MBI condition reported clinically meaningful reductions in pain intensity (ie, by at least 30%) compared with the control participants (60% versus 26%, respectively, P < 0.001). CONCLUSIONS: These findings suggest the effectiveness of a brief MBI in reducing preoperative pain and anxiety among adults preparing for knee or hip arthroplasty, underscoring the potential of MBIs to safely address pain and anxiety in surgical settings.",
-              "title_ko": "간략한 단일 세션 마음챙김 중재는 수술 전 환자의 통증, 통증 약물의 욕구 및 불안감을 감소시켰습니다: 무작위배정 대조 시험의 결과."
+              "title_ko": ""
             }
           ]
         },
@@ -3975,7 +4040,7 @@
             "field": "preventive",
             "field_label": "예방의학",
             "abstract": "Health services provided at school benefit the health and wellbeing of students. But when communities are recovering from disaster, those services become vital, especially for mental health. Research suggests that children in Western North Carolina will need mental health supports post-Hurricane Helene. That should be top priority.",
-            "title_ko": "재난 발생 후 아동의 정신 건강을 지원하는 데 있어 학교의 중요한 역할."
+            "title_ko": ""
           },
           "papers": [
             {
@@ -4002,7 +4067,7 @@
               "field": "preventive",
               "field_label": "예방의학",
               "abstract": "Health services provided at school benefit the health and wellbeing of students. But when communities are recovering from disaster, those services become vital, especially for mental health. Research suggests that children in Western North Carolina will need mental health supports post-Hurricane Helene. That should be top priority.",
-              "title_ko": "재난 발생 후 아동의 정신 건강을 지원하는 데 있어 학교의 중요한 역할."
+              "title_ko": ""
             }
           ]
         },
@@ -4036,7 +4101,7 @@
             "field": "preventive",
             "field_label": "예방의학",
             "abstract": "",
-            "title_ko": "Lalonde Report에서부터 건강의 구조적 결정 요인에 이르기까지."
+            "title_ko": ""
           },
           "papers": [
             {
@@ -4063,7 +4128,7 @@
               "field": "preventive",
               "field_label": "예방의학",
               "abstract": "",
-              "title_ko": "Lalonde Report에서부터 건강의 구조적 결정 요인에 이르기까지."
+              "title_ko": ""
             },
             {
               "pmid": "41490957",
@@ -4089,7 +4154,7 @@
               "field": "preventive",
               "field_label": "예방의학",
               "abstract": "The Lalonde report's limited references to Indigenous Peoples primarily address federal responsibilities for healthcare service provision and identify Indigenous Peoples as high-risk populations. However, the report paved the way for robust frameworks to address the social determinants of Indigenous Peoples' health inequities. Colonialism and structural racism, as distinct social determinants, constrain opportunities for Indigenous Peoples to achieve health equity relative to the general Canadian population. Decolonizing relationships that center Indigenous Peoples' self-determination and lands is foundational for achieving health equity. The Kahnawà:ke Schools Diabetes Prevention Program (KSDPP) exemplifies Indigenous health promotion and the Kahnawà:ke community's self-determination to take control over their health determinants. Declining incidence of type 2 diabetes (T2D) may indicate promising impacts. However, the impacts of community-level programs will be limited if Canada fails to advance Indigenous self-determination as the path to health equity.",
-              "title_ko": "토착민의 자결권을 존중하고 건강 불평등을 해결하기 위한 캐나다의 책임: 라롱드 보고서에 대한 고찰."
+              "title_ko": ""
             },
             {
               "pmid": "41490955",
@@ -4115,7 +4180,7 @@
               "field": "preventive",
               "field_label": "예방의학",
               "abstract": "Fifty years after the Lalonde Report, public health must move beyond individual-level determinants to confront the structural forces that shape health. Drawing on 27 years of research on the social and structural determinants of health, this commentary reflects on the persistent health inequities in Canada and argues for a future public health agenda rooted in intersectionality, structural analysis, and community engagement. Framing the Lalonde@50 conference contributions by Frohlich, Watson-Creed, Delormier, and Ndumbe-Eyoh, this piece highlights the urgency of upstream interventions, ontological humility, Indigenous self-determination, and anti-racist practice. By integrating concepts such as the inverse care law and fundamental causes of disease, it argues that inequalities will continue to emerge as long as resources remain unequally distributed. Thus, public health must remain structurally attuned and anticipatory in order not only to respond to inequities but to get ahead of them.",
-              "title_ko": "공평한 건강 증진에 대한 바늘 이동: 구조에 대한 계산."
+              "title_ko": ""
             }
           ]
         },
@@ -4151,7 +4216,7 @@
             "field": "preventive",
             "field_label": "예방의학",
             "abstract": "BACKGROUND: Individuals with lower limb loss (LLL) require self-management education for amputation adaptation. eHealth technologies, like online platforms, widen access to educational resources. We developed an online self-management program for individuals with LLL called Self-Management for Amputee Rehabilitation using Technology (SMART). OBJECTIVE: To assess the feasibility of SMART for improving walking capacity and confidence for adults with recent LLL. STUDY DESIGN: A single-group pre-post intervention design. METHODS: We recruited community-dwelling adults, with unilateral, transtibial, or transfemoral amputation. Self-management for amputee rehabilitation using technology included 6 weekly online educational modules, for example, pain management, diet, and sock management, and 6 weekly online meetings with a peer mentor to discuss goal setting and action planning. Outcomes were assessed at baseline (before SMART) and after 6 weeks using SMART. Feasibility indicators included process (retention rate), resource (duration of training sessions), management (participant processing), and treatment issues (effect size). The primary clinical outcome was walking capacity measured using Timed Up and Go, and secondary outcome was walking confidence measured using the Ambulatory Self-Confidence Questionnaire. RESULTS: Twelve participants were recruited. The median (range) age was 56.0 (26-79) years. The retention rate was 100%. All participants were trained in less than 15 min. Four participants had an enrollment delay of more than 10 days. Two participants reported noninjurious falls because of amputation comorbidities and increased activity. The effect sizes for walking capacity and confidence were 0.51 and 0.86, respectively. CONCLUSIONS: Only small intervention and protocol refinements are required to SMART. These will be incorporated for a future multisite randomized controlled trial. SMART is an eHealth education program for people with LLL. Self-management for amputee rehabilitation using technology with peer support is a feasible intervention. However, adjustments to the study protocol and intervention safety are necessary before proceeding with the evaluation of SMART in a larger study.",
-            "title_ko": "하지 손실이 있는 개인의 걷기 및 자신감 향상을 위한 기술과 동료 지원을 사용하여 절단 재활을 위한 자가 관리의 타당성."
+            "title_ko": ""
           },
           "papers": [
             {
@@ -4180,7 +4245,7 @@
               "field": "preventive",
               "field_label": "예방의학",
               "abstract": "BACKGROUND: Individuals with lower limb loss (LLL) require self-management education for amputation adaptation. eHealth technologies, like online platforms, widen access to educational resources. We developed an online self-management program for individuals with LLL called Self-Management for Amputee Rehabilitation using Technology (SMART). OBJECTIVE: To assess the feasibility of SMART for improving walking capacity and confidence for adults with recent LLL. STUDY DESIGN: A single-group pre-post intervention design. METHODS: We recruited community-dwelling adults, with unilateral, transtibial, or transfemoral amputation. Self-management for amputee rehabilitation using technology included 6 weekly online educational modules, for example, pain management, diet, and sock management, and 6 weekly online meetings with a peer mentor to discuss goal setting and action planning. Outcomes were assessed at baseline (before SMART) and after 6 weeks using SMART. Feasibility indicators included process (retention rate), resource (duration of training sessions), management (participant processing), and treatment issues (effect size). The primary clinical outcome was walking capacity measured using Timed Up and Go, and secondary outcome was walking confidence measured using the Ambulatory Self-Confidence Questionnaire. RESULTS: Twelve participants were recruited. The median (range) age was 56.0 (26-79) years. The retention rate was 100%. All participants were trained in less than 15 min. Four participants had an enrollment delay of more than 10 days. Two participants reported noninjurious falls because of amputation comorbidities and increased activity. The effect sizes for walking capacity and confidence were 0.51 and 0.86, respectively. CONCLUSIONS: Only small intervention and protocol refinements are required to SMART. These will be incorporated for a future multisite randomized controlled trial. SMART is an eHealth education program for people with LLL. Self-management for amputee rehabilitation using technology with peer support is a feasible intervention. However, adjustments to the study protocol and intervention safety are necessary before proceeding with the evaluation of SMART in a larger study.",
-              "title_ko": "하지 손실이 있는 개인의 걷기 및 자신감 향상을 위한 기술과 동료 지원을 사용하여 절단 재활을 위한 자가 관리의 타당성."
+              "title_ko": ""
             }
           ]
         },
@@ -4216,7 +4281,7 @@
             "field": "preventive",
             "field_label": "예방의학",
             "abstract": "This ethnographic study examines the effects of a health-promotion intervention involving orienteering in urban parks for first-year Italian vocational students. Green exercise, known to enhance psychological well-being and foster a sense of kinship with nature and community, was chosen to address risk factors in vocational education and training (VET) institutions. Orienteering offers mental and physical benefits while encouraging participation. This study involved 53 students (mean age 14.51) from a VET institution in Milan, employing interviews with teachers and ethnographic observations. Findings indicate that the intervention promoted group cooperation, reduced conflicts, and helped students develop navigation skills while exploring their city. It also strengthened students' connestion with nature and community spaces, fostering a sense of belonging and engagement.",
-            "title_ko": "이탈리아 수의사 학생들에게 지역 사회와 자연의 연결성을 촉진하는 오리엔티어링. 자연 기반 개입에 대한 민족지학적 연구."
+            "title_ko": ""
           },
           "papers": [
             {
@@ -4245,7 +4310,7 @@
               "field": "preventive",
               "field_label": "예방의학",
               "abstract": "This ethnographic study examines the effects of a health-promotion intervention involving orienteering in urban parks for first-year Italian vocational students. Green exercise, known to enhance psychological well-being and foster a sense of kinship with nature and community, was chosen to address risk factors in vocational education and training (VET) institutions. Orienteering offers mental and physical benefits while encouraging participation. This study involved 53 students (mean age 14.51) from a VET institution in Milan, employing interviews with teachers and ethnographic observations. Findings indicate that the intervention promoted group cooperation, reduced conflicts, and helped students develop navigation skills while exploring their city. It also strengthened students' connestion with nature and community spaces, fostering a sense of belonging and engagement.",
-              "title_ko": "이탈리아 수의사 학생들에게 지역 사회와 자연의 연결성을 촉진하는 오리엔티어링. 자연 기반 개입에 대한 민족지학적 연구."
+              "title_ko": ""
             }
           ]
         },
@@ -4281,7 +4346,7 @@
             "field": "preventive",
             "field_label": "예방의학",
             "abstract": "BACKGROUND: Vaccination adherence among populations is a complex process involving, on the one hand, the expected benefit of a vaccine, and on the other, the perceived risk. To develop an evidence-based communication strategy aimed at improving vaccination coverage in Niger, we conducted a mixed socio-anthropological study of the perceptions among the population on the benefit and the risk of the childhood (Expanded Program on Immunization, EPI) and the Covid-19 vaccines. While the vaccine coverage for some of the EPI vaccines is above 80%, only 33% of the children are fully vaccinated, according to the national vaccination schedule. The first objective of our study was to understand the perceptions that might explain this drop off.The second objective was to identify the drivers of the low adherence to the Covid-19 vaccination, 22% of the illegible population being vaccinated. MATERIALS AND METHODS: In March 2023, we interviewed 509 people for the quantitative study and 40 people through focus groups and individual interviews for the qualitative one, in Niamey (80% of the interviewees) and two villages. RESULTS: 96.9% of the interviewees think that childhood vaccines are \"a good thing,\" even though 30.6% know that they might have negative side effects. While 87.8% think that it is \"easy\" or \"very easy\" to get children vaccinated, 21.4% point out as \"annoying\" the lack of amiability by the health care workers and 16.9% the waiting time. The qualitative study showed that these two complaints drive some women not to complete the vaccination schedule. We might also hypothesize that, given the perceived lack of amiability, some women don't get enough information on the side effects and their management. Surprisingly, 73.3% of the interviewees think that vaccines against the disease are a good thing, and 83% of those who have heard messages promoting the vaccination approve them. This apparent contradiction with the low vaccine uptake is explained by a very low perception of the Covid-19 risks. More than half of the population surveyed believe that the disease is not present in the country, a very large majority believe that only ill people can transmit the disease, while only 12.8% think they know anybody who has ever been sick with Covid-19. According to our results, the circulating rumors on the vaccines don't play a significant role in the low adherence to Covid-19 uptake, nor in the insufficient completeness of the EPI vaccination schedule. CONCLUSION: The communication efforts on EPI vaccination should focus on the explanation of the side effects and their management, as well as improving the organization of the vaccination sessions. The communication on Covid-19 vaccination should focus on the reality of the disease in the country and the groups at risk for severe forms.",
-            "title_ko": "[소아 백신 접종 (EPI) 및 코로나19 예방 접종에 대한 장벽과 거부감: 니제르 설문 조사 결과]."
+            "title_ko": ""
           },
           "papers": [
             {
@@ -4310,7 +4375,7 @@
               "field": "preventive",
               "field_label": "예방의학",
               "abstract": "BACKGROUND: Vaccination adherence among populations is a complex process involving, on the one hand, the expected benefit of a vaccine, and on the other, the perceived risk. To develop an evidence-based communication strategy aimed at improving vaccination coverage in Niger, we conducted a mixed socio-anthropological study of the perceptions among the population on the benefit and the risk of the childhood (Expanded Program on Immunization, EPI) and the Covid-19 vaccines. While the vaccine coverage for some of the EPI vaccines is above 80%, only 33% of the children are fully vaccinated, according to the national vaccination schedule. The first objective of our study was to understand the perceptions that might explain this drop off.The second objective was to identify the drivers of the low adherence to the Covid-19 vaccination, 22% of the illegible population being vaccinated. MATERIALS AND METHODS: In March 2023, we interviewed 509 people for the quantitative study and 40 people through focus groups and individual interviews for the qualitative one, in Niamey (80% of the interviewees) and two villages. RESULTS: 96.9% of the interviewees think that childhood vaccines are \"a good thing,\" even though 30.6% know that they might have negative side effects. While 87.8% think that it is \"easy\" or \"very easy\" to get children vaccinated, 21.4% point out as \"annoying\" the lack of amiability by the health care workers and 16.9% the waiting time. The qualitative study showed that these two complaints drive some women not to complete the vaccination schedule. We might also hypothesize that, given the perceived lack of amiability, some women don't get enough information on the side effects and their management. Surprisingly, 73.3% of the interviewees think that vaccines against the disease are a good thing, and 83% of those who have heard messages promoting the vaccination approve them. This apparent contradiction with the low vaccine uptake is explained by a very low perception of the Covid-19 risks. More than half of the population surveyed believe that the disease is not present in the country, a very large majority believe that only ill people can transmit the disease, while only 12.8% think they know anybody who has ever been sick with Covid-19. According to our results, the circulating rumors on the vaccines don't play a significant role in the low adherence to Covid-19 uptake, nor in the insufficient completeness of the EPI vaccination schedule. CONCLUSION: The communication efforts on EPI vaccination should focus on the explanation of the side effects and their management, as well as improving the organization of the vaccination sessions. The communication on Covid-19 vaccination should focus on the reality of the disease in the country and the groups at risk for severe forms.",
-              "title_ko": "[소아 백신 접종 (EPI) 및 코로나19 예방 접종에 대한 장벽과 거부감: 니제르 설문 조사 결과]."
+              "title_ko": ""
             }
           ]
         },
@@ -4346,7 +4411,7 @@
             "field": "preventive",
             "field_label": "예방의학",
             "abstract": "Several screening methods are used to detect cervical cancer, with Pap smear test is considered as one of the most reliable screening methods to diagnose cervical cancer. The aim of this study was to investigate the factors associated with awareness of undergoing Pap smear tests among Jordanian women. A cross-sectional study was conducted among 525 Jordanian women attending the outpatient maternity hospital consecutively from February to July 2023. Data encompassed demographic characteristics (age, occupation, and education), awareness of Pap smears, beliefs regarding their importance, sources of information, and the history of undergoing Pap smear tests were collected using a structured questionnaire. Of the total 525 Jordanian women, 87.6% were aware of Pap smears. The awareness varied significantly depending on age and education level. Women aged 41-50 (adjusted odds ratio (AOR): 6.0; 95%CI: 2.3-15.3) and with a university education (AOR: 2.6; 95%CI: 1.4-4.8) were associated with increased odds of being aware of Pap smears. Among the women who were aware of Pap smears, the majority (94.1%) expressed belief in the importance of undergoing Pap smear tests and 61.7% reported having undergone the procedure at least once in their lives. In the multivariate analysis, women aged 30-40 years (AOR: 1.7; 95%CI: 1.1-2.8), 41-50 years (AOR: 4.1; 95%CI: 2.3-7.3), and older than 50 years (AOR: 9.8; 95%CI: 4.2-23.0) had a higher likelihood of undergoing Pap smear tests than those of under 30 years old. Being a housewife (AOR: 1.7; 95%CI: 1.1-2.7) and those who believed in the importance of Pap smear testing (AOR: 2.6; 95%CI: 1.1-6.0) were also more likely to have a Pap smear test. Nearly half of the women who had undergone Pap smears reported doing so every 2-3 years, while 25.7% indicated annual screening. Importantly, the overwhelming majority (97.9%) preferred the procedure to be performed by a gynecologist. In conclusion, the majority of women were aware of Pap smears. Two-thirds of women reported having undergone the procedure at least once. Prevention programs targeting cervical cancer and Pap smear tests should be tailored to women with low education, younger than 30 years, and those employed to maximize screening uptake for cervical cancer.",
-            "title_ko": "요르단 여성들 사이에서 팹 도말 검사에 대한 인식과 관련된 요인."
+            "title_ko": ""
           },
           "papers": [
             {
@@ -4375,7 +4440,7 @@
               "field": "preventive",
               "field_label": "예방의학",
               "abstract": "Several screening methods are used to detect cervical cancer, with Pap smear test is considered as one of the most reliable screening methods to diagnose cervical cancer. The aim of this study was to investigate the factors associated with awareness of undergoing Pap smear tests among Jordanian women. A cross-sectional study was conducted among 525 Jordanian women attending the outpatient maternity hospital consecutively from February to July 2023. Data encompassed demographic characteristics (age, occupation, and education), awareness of Pap smears, beliefs regarding their importance, sources of information, and the history of undergoing Pap smear tests were collected using a structured questionnaire. Of the total 525 Jordanian women, 87.6% were aware of Pap smears. The awareness varied significantly depending on age and education level. Women aged 41-50 (adjusted odds ratio (AOR): 6.0; 95%CI: 2.3-15.3) and with a university education (AOR: 2.6; 95%CI: 1.4-4.8) were associated with increased odds of being aware of Pap smears. Among the women who were aware of Pap smears, the majority (94.1%) expressed belief in the importance of undergoing Pap smear tests and 61.7% reported having undergone the procedure at least once in their lives. In the multivariate analysis, women aged 30-40 years (AOR: 1.7; 95%CI: 1.1-2.8), 41-50 years (AOR: 4.1; 95%CI: 2.3-7.3), and older than 50 years (AOR: 9.8; 95%CI: 4.2-23.0) had a higher likelihood of undergoing Pap smear tests than those of under 30 years old. Being a housewife (AOR: 1.7; 95%CI: 1.1-2.7) and those who believed in the importance of Pap smear testing (AOR: 2.6; 95%CI: 1.1-6.0) were also more likely to have a Pap smear test. Nearly half of the women who had undergone Pap smears reported doing so every 2-3 years, while 25.7% indicated annual screening. Importantly, the overwhelming majority (97.9%) preferred the procedure to be performed by a gynecologist. In conclusion, the majority of women were aware of Pap smears. Two-thirds of women reported having undergone the procedure at least once. Prevention programs targeting cervical cancer and Pap smear tests should be tailored to women with low education, younger than 30 years, and those employed to maximize screening uptake for cervical cancer.",
-              "title_ko": "요르단 여성들 사이에서 팹 도말 검사에 대한 인식과 관련된 요인."
+              "title_ko": ""
             }
           ]
         },
@@ -4410,7 +4475,7 @@
             "field": "preventive",
             "field_label": "예방의학",
             "abstract": "BACKGROUND: Women with a family history of breast cancer at an early age (≤50 years) have an increased risk of breast cancer themselves. OBJECTIVE: To evaluate the effectiveness of a Breast Cancer Risk Reduction Program (BrCaRRP) on increasing risk reduction behaviors, developing health beliefs, and screening participation in high-risk women with a family history of breast cancer. METHODS: This is a single-center, single-blind, parallel-group, randomized controlled trial. First-degree biological relatives of breast cancer patients (aged ≤50 years) were divided into intervention (n = 38) and control (n = 39) groups. The intervention (BrCaRRP) group received multiple interventions including education, counseling, case management, and surveillance via face-to-face and telephone interviews throughout a 12-week period, within the framework of the Health Belief Model and Health Promotion Model. The control group was given an information note, and the routine practice of the clinic was performed. Results were measured at baseline and at week 12 when the interventions were finished. RESULTS: The probability of participation in breast cancer screenings in the BrCaRRP group was 5.11 times higher. Health motivation was found to have increased in the intervention group. There was no difference in susceptibility and nutritional behavior between the groups. Health responsibility and physical activity increased in the intervention group. The frequency of consulting genetic counseling increased in the BrCaRRP group. CONCLUSIONS: Breast Cancer Risk Reduction Program increased participation in screening in women and positively affected their health beliefs and behaviors. IMPLICATIONS FOR PRACTICE: Breast Cancer Risk Reduction Program could alter screening and health-promoting behaviors. However, other interventions are still needed to reduce the high level of fear.",
-            "title_ko": "유방암 위험이 높은 여성에게 적용된 유방암 위험 감소 프로그램이 선별심사, 건강 신념 및 행동 참여에 미치는 영향: 무작위 대조 시험."
+            "title_ko": ""
           },
           "papers": [
             {
@@ -4438,7 +4503,7 @@
               "field": "preventive",
               "field_label": "예방의학",
               "abstract": "BACKGROUND: Women with a family history of breast cancer at an early age (≤50 years) have an increased risk of breast cancer themselves. OBJECTIVE: To evaluate the effectiveness of a Breast Cancer Risk Reduction Program (BrCaRRP) on increasing risk reduction behaviors, developing health beliefs, and screening participation in high-risk women with a family history of breast cancer. METHODS: This is a single-center, single-blind, parallel-group, randomized controlled trial. First-degree biological relatives of breast cancer patients (aged ≤50 years) were divided into intervention (n = 38) and control (n = 39) groups. The intervention (BrCaRRP) group received multiple interventions including education, counseling, case management, and surveillance via face-to-face and telephone interviews throughout a 12-week period, within the framework of the Health Belief Model and Health Promotion Model. The control group was given an information note, and the routine practice of the clinic was performed. Results were measured at baseline and at week 12 when the interventions were finished. RESULTS: The probability of participation in breast cancer screenings in the BrCaRRP group was 5.11 times higher. Health motivation was found to have increased in the intervention group. There was no difference in susceptibility and nutritional behavior between the groups. Health responsibility and physical activity increased in the intervention group. The frequency of consulting genetic counseling increased in the BrCaRRP group. CONCLUSIONS: Breast Cancer Risk Reduction Program increased participation in screening in women and positively affected their health beliefs and behaviors. IMPLICATIONS FOR PRACTICE: Breast Cancer Risk Reduction Program could alter screening and health-promoting behaviors. However, other interventions are still needed to reduce the high level of fear.",
-              "title_ko": "유방암 위험이 높은 여성에게 적용된 유방암 위험 감소 프로그램이 선별심사, 건강 신념 및 행동 참여에 미치는 영향: 무작위 대조 시험."
+              "title_ko": ""
             }
           ]
         },
@@ -4473,7 +4538,7 @@
             "field": "preventive",
             "field_label": "예방의학",
             "abstract": "PURPOSE: The purpose of this study was to validate the artificial intelligence-based Screening Corneal Objective Risk of Ectasia (SCORE) for the detection of corneal ectasia/risk of ectasia and to find the mean SCORE value in normal eyes. METHODS: This prospective observational study included 320 eyes of 160 patients undergoing screening for refractive surgery and keratoconus. All were subjected to Anterion (Heidelberg, Germany) corneal tomography. The maps were read by trained cornea specialists masked with respect to system-generated SCORE. The SCORE values were retrieved by another masked observer. The SCORE was labeled true positive if the eye was tomographically positive for ectasia/ risk of ectasia with or without clinical evidence of ectasia (i.e., clinician's diagnosis as ectasia/ risk of ectasia) and SCORE was >/=0. The SCORE test was labeled as true negative if all the maps were normal and SCORE was <0. A false-positive test was where the eye was normal but SCORE was ≥0. A false-negative test was one tomographically there was definite evidence of ectasia/ risk; with or without clinical evidence of ectasia (i.e.,clinician's diagnosis as ectasia/ at risk of ectasia) but SCORE was <0. Sensitivity, specificity, positive predictive value (PPV), and negative predictive value (NPV) were calculated. RESULTS: The mean SCORE in normal eyes was -0.7 ± 0.6. Sensitivity was 83.3% and specificity was 80%. PPV and NPV were 46% and 96% respectively. In the keratoconus subgroup, specificity and PPV were 100%; sensitivity was 79% and NPV was 76.3%. CONCLUSION: SCORE in Anterion has moderate sensitivity and specificity for detection of ectasia/risk of ectasia. It performs best in the detection of corneal ectasia. It needs to be interpreted with caution.",
-            "title_ko": "인공 지능 기반 도구의 검증 - 각막 엑타시아의 선별 각막 목표 위험은 각막 엑타시아의 검출/엑타시아의 위험을 위해 Anterion에 통합되었습니다."
+            "title_ko": ""
           },
           "papers": [
             {
@@ -4501,7 +4566,7 @@
               "field": "preventive",
               "field_label": "예방의학",
               "abstract": "PURPOSE: The purpose of this study was to validate the artificial intelligence-based Screening Corneal Objective Risk of Ectasia (SCORE) for the detection of corneal ectasia/risk of ectasia and to find the mean SCORE value in normal eyes. METHODS: This prospective observational study included 320 eyes of 160 patients undergoing screening for refractive surgery and keratoconus. All were subjected to Anterion (Heidelberg, Germany) corneal tomography. The maps were read by trained cornea specialists masked with respect to system-generated SCORE. The SCORE values were retrieved by another masked observer. The SCORE was labeled true positive if the eye was tomographically positive for ectasia/ risk of ectasia with or without clinical evidence of ectasia (i.e., clinician's diagnosis as ectasia/ risk of ectasia) and SCORE was >/=0. The SCORE test was labeled as true negative if all the maps were normal and SCORE was <0. A false-positive test was where the eye was normal but SCORE was ≥0. A false-negative test was one tomographically there was definite evidence of ectasia/ risk; with or without clinical evidence of ectasia (i.e.,clinician's diagnosis as ectasia/ at risk of ectasia) but SCORE was <0. Sensitivity, specificity, positive predictive value (PPV), and negative predictive value (NPV) were calculated. RESULTS: The mean SCORE in normal eyes was -0.7 ± 0.6. Sensitivity was 83.3% and specificity was 80%. PPV and NPV were 46% and 96% respectively. In the keratoconus subgroup, specificity and PPV were 100%; sensitivity was 79% and NPV was 76.3%. CONCLUSION: SCORE in Anterion has moderate sensitivity and specificity for detection of ectasia/risk of ectasia. It performs best in the detection of corneal ectasia. It needs to be interpreted with caution.",
-              "title_ko": "인공 지능 기반 도구의 검증 - 각막 엑타시아의 선별 각막 목표 위험은 각막 엑타시아의 검출/엑타시아의 위험을 위해 Anterion에 통합되었습니다."
+              "title_ko": ""
             }
           ]
         },
@@ -4537,7 +4602,7 @@
             "field": "preventive",
             "field_label": "예방의학",
             "abstract": "UNLABELLED: Direct oral anticoagulants from the perspective of Czech pharmacists - opinions, attitudes, confidence, and patient education during dispensing in a pharmacy Introduction and Aim: Pharmacists play an important role in the management of anticoagulation therapy, therefore good knowledge and confidence in care of patients treated with anticoagulation are essential. The aim of this study was to analyse the opinions and attitudes of pharmacists in the Czech Republic towards direct oral anticoagulants (DOACs), their perception of the benefits and risks of DOACs, and the position of pharmacists in educating patients about the basic principles of DOAC treatment in the context of dispensing these medicines in pharmacies. METHODS: An online anonymous questionnaire survey conducted in 2021 among pharmacists of three specific District Pharmacists Associations of the Czech Chamber of Pharmacy. The questionnaire included 32 open- and closed-ended questions, and questions for reporting of the level of agreement using a Likert scale. Descriptive statistics, parametric and non-parametric tests were used to evaluate the data. RESULTS: A total of 162 pharmacists participated (14% return rate), 139 of whom dispensed medicines in a pharmacy in the last year. Respondents working in pharmacies located in any health centre and in hospital pharmacies reported dispensing DOACs more frequently (p &lt; 0.001). The majority of respondents (73%) felt completely or rather confident in providing expert information regarding DOACs. Higher confidence was associated with respondents working in hospital pharmacies or pharmacies located in health centres (p &lt; 0.05), working in clinical pharmacy wards (p &lt; 0.05) and being more likely to dispense DOACs in the pharmacy (p &lt; 0.001). Higher confidence was related to the areas pharmacists discussed with patients during DOAC dispensing, e.g., reasons for using DOACs or how to administer. CONCLUSION: The frequency of dispensing DOACs, type of pharmacy, and working as clinical pharmacist influenced respondents' confidence towards DOACs. Confidence may have influenced the course of DOAC dispensing in the pharmacy. Consolidating the pharmacist's position in patient education during DOAC treatment and strengthening pharmacists' confidence in dispensing DOACs should be therefore considered.",
-            "title_ko": "체코 약사의 관점에서 직접 경구 항응고제 - 약국에서 조제하는 동안 의견, 태도, 자신감 및 환자 교육."
+            "title_ko": ""
           },
           "papers": [
             {
@@ -4566,7 +4631,7 @@
               "field": "preventive",
               "field_label": "예방의학",
               "abstract": "UNLABELLED: Direct oral anticoagulants from the perspective of Czech pharmacists - opinions, attitudes, confidence, and patient education during dispensing in a pharmacy Introduction and Aim: Pharmacists play an important role in the management of anticoagulation therapy, therefore good knowledge and confidence in care of patients treated with anticoagulation are essential. The aim of this study was to analyse the opinions and attitudes of pharmacists in the Czech Republic towards direct oral anticoagulants (DOACs), their perception of the benefits and risks of DOACs, and the position of pharmacists in educating patients about the basic principles of DOAC treatment in the context of dispensing these medicines in pharmacies. METHODS: An online anonymous questionnaire survey conducted in 2021 among pharmacists of three specific District Pharmacists Associations of the Czech Chamber of Pharmacy. The questionnaire included 32 open- and closed-ended questions, and questions for reporting of the level of agreement using a Likert scale. Descriptive statistics, parametric and non-parametric tests were used to evaluate the data. RESULTS: A total of 162 pharmacists participated (14% return rate), 139 of whom dispensed medicines in a pharmacy in the last year. Respondents working in pharmacies located in any health centre and in hospital pharmacies reported dispensing DOACs more frequently (p &lt; 0.001). The majority of respondents (73%) felt completely or rather confident in providing expert information regarding DOACs. Higher confidence was associated with respondents working in hospital pharmacies or pharmacies located in health centres (p &lt; 0.05), working in clinical pharmacy wards (p &lt; 0.05) and being more likely to dispense DOACs in the pharmacy (p &lt; 0.001). Higher confidence was related to the areas pharmacists discussed with patients during DOAC dispensing, e.g., reasons for using DOACs or how to administer. CONCLUSION: The frequency of dispensing DOACs, type of pharmacy, and working as clinical pharmacist influenced respondents' confidence towards DOACs. Confidence may have influenced the course of DOAC dispensing in the pharmacy. Consolidating the pharmacist's position in patient education during DOAC treatment and strengthening pharmacists' confidence in dispensing DOACs should be therefore considered.",
-              "title_ko": "체코 약사의 관점에서 직접 경구 항응고제 - 약국에서 조제하는 동안 의견, 태도, 자신감 및 환자 교육."
+              "title_ko": ""
             }
           ]
         },
@@ -4602,7 +4667,7 @@
             "field": "preventive",
             "field_label": "예방의학",
             "abstract": "BACKGROUND: Language discrepancies may create barriers to healthcare, compromise the quality of care and worsen health outcomes. This study explored what European countries currently do to ensure that foreign patients receive sufficient information about their medications if they do not understand the country's national language. METHODS: A questionnaire was distributed to the delegates of two Council of Europe committees. The recipients were asked to provide insights on how their country facilitates access to the necessary product information when patients do not understand the national language. RESULTS: Seventeen out of 39 delegates completed the questionnaire. The majority of the respondents indicated that all healthcare professionals experience difficulties in providing guidance and advice to foreign patients. The results also showed that different methods are used nationally to present the necessary information to foreigners. Finally, the observations from this survey suggested that electronic leaflets in the patient's primary language could be a valuable option to improve access to medication-related information. CONCLUSIONS: Healthcare professionals seem to encounter challenges in providing foreign patients with information associated with medication use. Electronic leaflets can be one of the tools for improving communication between these patients and healthcare professionals to ensure that medicines are used safely and effectively.",
-            "title_ko": "의약품 관련 정보에 대한 접근성 향상을 위한 전자 전단지의 역할."
+            "title_ko": ""
           },
           "papers": [
             {
@@ -4631,7 +4696,7 @@
               "field": "preventive",
               "field_label": "예방의학",
               "abstract": "BACKGROUND: Language discrepancies may create barriers to healthcare, compromise the quality of care and worsen health outcomes. This study explored what European countries currently do to ensure that foreign patients receive sufficient information about their medications if they do not understand the country's national language. METHODS: A questionnaire was distributed to the delegates of two Council of Europe committees. The recipients were asked to provide insights on how their country facilitates access to the necessary product information when patients do not understand the national language. RESULTS: Seventeen out of 39 delegates completed the questionnaire. The majority of the respondents indicated that all healthcare professionals experience difficulties in providing guidance and advice to foreign patients. The results also showed that different methods are used nationally to present the necessary information to foreigners. Finally, the observations from this survey suggested that electronic leaflets in the patient's primary language could be a valuable option to improve access to medication-related information. CONCLUSIONS: Healthcare professionals seem to encounter challenges in providing foreign patients with information associated with medication use. Electronic leaflets can be one of the tools for improving communication between these patients and healthcare professionals to ensure that medicines are used safely and effectively.",
-              "title_ko": "의약품 관련 정보에 대한 접근성 향상을 위한 전자 전단지의 역할."
+              "title_ko": ""
             }
           ]
         },
@@ -4667,7 +4732,7 @@
             "field": "preventive",
             "field_label": "예방의학",
             "abstract": "This study examined the effect of lymphedema self-care patient school education on patient functionality, quality of life, body value, and lymphedema volume in patients with lower extremity lymphedema. The study utilized a single-group quasi-experimental design. The study sample included 21 patients with primary and secondary lower extremity lymphedema. A multidisciplinary team created a face-to-face lymphedema self-care patient education program that lasted three weeks with four hours each week to enhance lymphedema self-care management. Data collected from participants prior to the program and then at third and sixth months via Lower Extremity Functional Scale (LEFS), Lymphedema Functionality, Disability and Quality of Life Scale in Lower Extremity Lymphedema (LYMPH-ICF-LL), Body Value Scale, and extremity volumes. The average age of the patients was 54.85±11.99 years and two-thirds had secondary lymphedema. A statistically significant difference was found in the mean scores of LEFS (p<0.001), LYMPH-ICF-LL total (p= 0.006) in the 3rd and 6th months after the completion of the program, and in the lymphedema volume change (p= 0.031) in the 6th month. It was found that the lymphedema self-care patient school improved functionality and quality of life in patients with lower extremity lymphedema and decreased lymphedema volume. This lymphedema self-care patient education pro-gram is a safe and effective educational method for self-care management in individuals with lower extremity lymphedema.",
-            "title_ko": "림프부종 자가 치료 환자 학교가 하지 림프부종 환자의 기능, 삶의 질, 림프부종 용적 및 신체 가치에 미치는 영향에 대한 조사: 준실험적 연구."
+            "title_ko": ""
           },
           "papers": [
             {
@@ -4696,265 +4761,7 @@
               "field": "preventive",
               "field_label": "예방의학",
               "abstract": "This study examined the effect of lymphedema self-care patient school education on patient functionality, quality of life, body value, and lymphedema volume in patients with lower extremity lymphedema. The study utilized a single-group quasi-experimental design. The study sample included 21 patients with primary and secondary lower extremity lymphedema. A multidisciplinary team created a face-to-face lymphedema self-care patient education program that lasted three weeks with four hours each week to enhance lymphedema self-care management. Data collected from participants prior to the program and then at third and sixth months via Lower Extremity Functional Scale (LEFS), Lymphedema Functionality, Disability and Quality of Life Scale in Lower Extremity Lymphedema (LYMPH-ICF-LL), Body Value Scale, and extremity volumes. The average age of the patients was 54.85±11.99 years and two-thirds had secondary lymphedema. A statistically significant difference was found in the mean scores of LEFS (p<0.001), LYMPH-ICF-LL total (p= 0.006) in the 3rd and 6th months after the completion of the program, and in the lymphedema volume change (p= 0.031) in the 6th month. It was found that the lymphedema self-care patient school improved functionality and quality of life in patients with lower extremity lymphedema and decreased lymphedema volume. This lymphedema self-care patient education pro-gram is a safe and effective educational method for self-care management in individuals with lower extremity lymphedema.",
-              "title_ko": "림프부종 자가 치료 환자 학교가 하지 림프부종 환자의 기능, 삶의 질, 림프부종 용적 및 신체 가치에 미치는 영향에 대한 조사: 준실험적 연구."
-            }
-          ]
-        },
-        {
-          "journal": "Ciencia & saude coletiva",
-          "impact_factor": 1.5,
-          "index_type": "미상",
-          "quartile": "미상",
-          "paper_count": 32,
-          "top_paper": {
-            "pmid": "39879454",
-            "title": "The politicisation of vaccines and its influence on Brazilian caregivers' opinions on childhood routine vaccination.",
-            "journal": "Ciencia & saude coletiva",
-            "impact_factor": 1.5,
-            "index_type": "미상",
-            "quartile": "미상",
-            "pubdate": "2023-10-28",
-            "authors": [
-              "Matos CCSA",
-              "Avelino-Silva VI",
-              "Couto MT"
-            ],
-            "citation_count": 3,
-            "rcr": null,
-            "volume": "30",
-            "issue": "1",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/39879454/",
-            "altmetric_score": 0,
-            "altmetric_news": 0,
-            "altmetric_social": 0,
-            "is_current_issue": false,
-            "hot_score": 13.8,
-            "field": "preventive",
-            "field_label": "예방의학",
-            "abstract": "Progressive declines in vaccination coverage have been recorded in Brazil in recent years. The COVID-19 pandemic has introduced even more challenges to this scenario. Considering the pandemic as an event, the scope of this article was to analyze the politicization of vaccines from the perspective of caregivers of young children. This qualitative research was conducted in two Brazilian state capitals, namely São Luís (Maranhão) and Florianópolis (Santa Catarina). The study included families with children up to 6 years of age who were fully or partially vaccinated, as well as children who had never been vaccinated. Snowball sampling was used and in-depth interviews were conducted between March 2021 and April 2022. Forty-eight caregivers, most of them mothers, were interviewed. The study revealed that, regardless of their previous stance regarding vaccines, the health-political event of the COVID-19 pandemic shook beliefs and attitudes about childhood vaccination. The results also showed that the pandemic led to delays in routine childhood immunization and caused caregivers to seek private health services. Finally, the results reveal the politicization of vaccines as a new phenomenon to be addressed in the Brazilian context.",
-            "title_ko": "백신의 정치화와 소아 정기 예방 접종에 대한 브라질 간병인의 의견에 미치는 영향."
-          },
-          "papers": [
-            {
-              "pmid": "39879454",
-              "title": "The politicisation of vaccines and its influence on Brazilian caregivers' opinions on childhood routine vaccination.",
-              "journal": "Ciencia & saude coletiva",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2023-10-28",
-              "authors": [
-                "Matos CCSA",
-                "Avelino-Silva VI",
-                "Couto MT"
-              ],
-              "citation_count": 3,
-              "rcr": null,
-              "volume": "30",
-              "issue": "1",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/39879454/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": false,
-              "hot_score": 13.8,
-              "field": "preventive",
-              "field_label": "예방의학",
-              "abstract": "Progressive declines in vaccination coverage have been recorded in Brazil in recent years. The COVID-19 pandemic has introduced even more challenges to this scenario. Considering the pandemic as an event, the scope of this article was to analyze the politicization of vaccines from the perspective of caregivers of young children. This qualitative research was conducted in two Brazilian state capitals, namely São Luís (Maranhão) and Florianópolis (Santa Catarina). The study included families with children up to 6 years of age who were fully or partially vaccinated, as well as children who had never been vaccinated. Snowball sampling was used and in-depth interviews were conducted between March 2021 and April 2022. Forty-eight caregivers, most of them mothers, were interviewed. The study revealed that, regardless of their previous stance regarding vaccines, the health-political event of the COVID-19 pandemic shook beliefs and attitudes about childhood vaccination. The results also showed that the pandemic led to delays in routine childhood immunization and caused caregivers to seek private health services. Finally, the results reveal the politicization of vaccines as a new phenomenon to be addressed in the Brazilian context.",
-              "title_ko": "백신의 정치화와 소아 정기 예방 접종에 대한 브라질 간병인의 의견에 미치는 영향."
-            },
-            {
-              "pmid": "42788516",
-              "title": "Impact of a nutrition education program on food consumption and nutritional status of family farmers.",
-              "journal": "Ciencia & saude coletiva",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2026-09-21",
-              "authors": [
-                "Garozi MJO",
-                "Pimenta AV",
-                "Sant'Ana CT"
-              ],
-              "citation_count": 0,
-              "rcr": null,
-              "volume": "31",
-              "issue": "suppl 1",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/42788516/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": true,
-              "hot_score": 10.0,
-              "field": "preventive",
-              "field_label": "예방의학",
-              "abstract": "This study analyzed the impact of a nutrition education program on the food consumption and nutritional status of family farmers in Alegre, Espírito Santo, Brazil. A longitudinal and interventional study, with 81 individuals of both sexes (3 to 74 years old) was carried out. Nutrition education program with 7 activities throughout 8 months period was applied. Food consumption, anthropometric measurements, blood pressure, complete blood count, fasting glucose, total proteins, serum iron, ferritin, C-reactive protein, and lipid profile were evaluated, before and after the intervention. Data was analyzed using the t-test and Wilcoxon test (p<0.05). The Revised Diet Quality Index increased from 49.44 to 58.72 (p=0.001), indicating a significant improvement. There was a significant reduction in energetic and lipid intake, free sugar, sodium, saturated, and trans fatty acids. These changes were associated with decreases in BMI, body fat percentage, waist circumference, plasma cholesterol, and triacylglycerol levels. The nutrition education program had a positive impact on the participants' eating habits and health, contributing to the improvement of public and other intervention health programs.",
-              "title_ko": "가족농의 식량소비와 영양상태에 대한 영양교육 프로그램의 영향."
-            },
-            {
-              "pmid": "42788506",
-              "title": "A global measurement tool to assess population health literacy fits all? A critical paper.",
-              "journal": "Ciencia & saude coletiva",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2026-09-21",
-              "authors": [
-                "Mialhe FL",
-                "Moraes KL",
-                "Vila VDSC"
-              ],
-              "citation_count": 0,
-              "rcr": null,
-              "volume": "31",
-              "issue": "suppl 1",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/42788506/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": true,
-              "hot_score": 10.0,
-              "field": "preventive",
-              "field_label": "예방의학",
-              "abstract": "Health literacy (HL) is considered by the World Health Organization (WHO) as an important determinant of health and several instruments have been elaborated and adapted to measure this construct. In 2022, a group of researchers started a project aimed at developing a HL assessment instrument with global applicability, based on different versions of the European Health Literacy Survey Questionnaire (HLS-EU-Q). This article critically analyses the characteristics of those instruments to help improve health assessment practices and avoiding omitting measurement of locally important information, therefore committing an epistemic injustice. Analysis detected several flaws in the instruments' aforementioned aspects and the conceptual model proposed by WHO which limits their application as global instruments. Countries worldwide should develop specific instruments to measure the general HL of their population based on its sociocultural characteristics and specificities of their health care systems thus avoiding wrong decision-making, which can compromise the effectiveness of policies resulting from these surveys.",
-              "title_ko": "인구 건강 리터러시를 평가하는 글로벌 측정 도구가 모두에게 적합합니까? 중요한 논문."
-            },
-            {
-              "pmid": "42788499",
-              "title": "[Implementation and evaluation of food and nutrition actions in the school environment].",
-              "journal": "Ciencia & saude coletiva",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2026-09-21",
-              "authors": [
-                "Pedraza DF"
-              ],
-              "citation_count": 0,
-              "rcr": null,
-              "volume": "31",
-              "issue": "suppl 1",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/42788499/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": true,
-              "hot_score": 10.0,
-              "field": "preventive",
-              "field_label": "예방의학",
-              "abstract": "The Programa Saúde na Escola and the Programa Nacional de Alimentação Escolar can be integrated through food and nutrition actions in the school environment. The objective of this article is to develop a proposal for the implementation and evaluation of food and nutrition actions in the school environment, verifying their applicability. A methodological study that resulted in the development of a logical model and an implementation and monitoring matrix related to school feeding and nutrition actions, covering parameters of structure, process/actions and results of three components (anthropometric assessment, promotion of healthy eating and school feeding). Health professionals and teachers from 11 municipalities in Paraíba took part. Applicability was verified in a case study with four early childhood education schools. The three components showed deficiencies in both structure and process. In the results, there was low completion of the Child Handbook, high consumption of foods not offered in school meals, especially industrialized, and good acceptance of school meals. The proposal drawn up could help improve health promotion programs in the school environment, with a focus on food and nutrition.",
-              "title_ko": "[학교환경에서의 식품영양행위 실시 및 평가]."
-            },
-            {
-              "pmid": "42788498",
-              "title": "[Fidelity, acceptability, and suitability in the implementation of responsive food cards in Brazil].",
-              "journal": "Ciencia & saude coletiva",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2026-09-21",
-              "authors": [
-                "Sorrentino E",
-                "Buccini G",
-                "Venancio SI"
-              ],
-              "citation_count": 0,
-              "rcr": null,
-              "volume": "31",
-              "issue": "suppl 1",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/42788498/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": true,
-              "hot_score": 10.0,
-              "field": "preventive",
-              "field_label": "예방의학",
-              "abstract": "The goal of responsive feeding (RF) cards is to encourage food autonomy and to boost cognitive, emotional and social development. It is becoming a critical tool to promote child nutrition in primary care. The aim of the present study is to (1) assess the accuracy of RF cards implementation by trained community health agents (CHA), (2) to investigate their acceptability and adequacy from the perspective of caregivers to 0 to 3-year old children in rural-riverside and urban Brazilian regions. Eight-hour training on using culturally appropriate RF cards was made available to 45 CHAs. Observations on how to conduct the sessions were based on using a checklist applied to four group-education sessions. The opinion of caregivers was collected through deductive coding based on recordings that were transcribed by a professional. The aforementioned training ensured accuracy to delivery RF messages. Caregivers highlighted the messages' adequacy and acceptability over the group-education sessions. The study highlights a viable strategy to achieve RF cards use accuracy in primary care, besides stressing the relevance of culturally adapted materials developed for different populations.",
-              "title_ko": "[브라질의 반응형 푸드 카드 구현에 대한 충실도, 수용성 및 적합성]."
-            },
-            {
-              "pmid": "41615110",
-              "title": "[The sinuosities in the line of induction, institutionalisation and implementation of National Health Promotion Policy].",
-              "journal": "Ciencia & saude coletiva",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2024-11-07",
-              "authors": [
-                "Dias MSA",
-                "Silva LCCD",
-                "Vieira-Meyer APGF"
-              ],
-              "citation_count": 1,
-              "rcr": null,
-              "volume": "31",
-              "issue": "1",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/41615110/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": false,
-              "hot_score": 6.9,
-              "field": "preventive",
-              "field_label": "예방의학",
-              "abstract": "Historical, documentary and bibliographical research, adopting the coalition theory as a reference to analyze the sinuosity of the trajectory of the National Health Promotion Policy (PNPS). The time frame covered the period between 1986 and 2023. Among the documents available in official websites and scientific journals, and with the aid of an expert and snowball technique, 31 milestones/events related to the institutionalization, implementation and related movements of the national and international historical context of health promotion were identified. The analysis elucidated PNPS itineraries demarcated into three periods: from 1986 to 2006, the paths of construction of PNPS; from 2006 to 2014, from institutionalization to policy review; and from 2014 to 2023, PNPS implementation movements. The tortuous timeline of the PNPS reveals gaps, slowdowns and advances in the period analyzed. These call for the recognition of the influences of global governance instruments (WHO and UN) and the search for sustainability mechanisms. The counter-hegemonic and complex nature of the PNPS calls for new institutional arrangements to address inequalities. Furthermore, movements are identified to resume coordination with segments and groups of the population.",
-              "title_ko": "[국민건강증진정책의 유도, 제도화, 시행 선에서의 시누오스]."
-            },
-            {
-              "pmid": "40929445",
-              "title": "Physical activity and salutogenesis: a necessary dialogue.",
-              "journal": "Ciencia & saude coletiva",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2024-07-18",
-              "authors": [
-                "Oliveira VJM",
-                "Costa RMD"
-              ],
-              "citation_count": 1,
-              "rcr": null,
-              "volume": "30",
-              "issue": "8",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/40929445/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": false,
-              "hot_score": 6.9,
-              "field": "preventive",
-              "field_label": "예방의학",
-              "abstract": "This essay aims to broaden the dialogue between physical activity (PA) and health by a salutogenesis-oriented concept, which emphasizes the origins of health, as opposed to the pathogenic model, which focuses on the origin of diseases. It presents the foundations of the theory, created by Aaron Antonovsky, whose health promotion model is centered on the sense of coherence (SOC), which consists of significance, comprehensibility, and manageability. Then, it explores the relationships between PA and salutogenesis, demonstrating how this framework can be applied in various life stages and practice settings. Studies indicate that people with a strengthened SOC will likely remain physically active. However, this relationship is not instrumental and depends on contextual, cognitive, and affective factors. This essay concludes by advocating for further research in Brazil and highlighting salutogenesis as a promising perspective to guide a new understanding of PA and health.",
-              "title_ko": "신체 활동 및 인사 생성: 필요한 대화."
-            },
-            {
-              "pmid": "40465920",
-              "title": "[Awareness and participation in public physical activity programs among adults in the Northeast region of Brazil].",
-              "journal": "Ciencia & saude coletiva",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2024-04-13",
-              "authors": [
-                "Santos EMM",
-                "Andrade ACS",
-                "Portela DS"
-              ],
-              "citation_count": 1,
-              "rcr": null,
-              "volume": "30",
-              "issue": "5",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/40465920/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": false,
-              "hot_score": 6.9,
-              "field": "preventive",
-              "field_label": "예방의학",
-              "abstract": "The scope of the study was to investigate the factors associated with awareness and participation of the adult population of the Northeast region of Brazil in public physical activity (PA) programs. It involved a cross-sectional study with data from the Brazilian National Health Survey (2019). The dependent variables were awareness and participation in public PA programs. The independent variables were household, sociodemographic, social support and health characteristics. Prevalence ratios were estimated using Poisson regression with robust variance. The prevalence of awareness was 24.3%, of which 9.7% participated in public PA programs. Higher per capita family income, visits from family health teams, female gender, age over 34, more schooling, paid work, participation in social mobilization groups, being overweight or obese and diagnosed with one or more chronic non-communicable diseases were positively associated with public PA programs. Having a paid job was negatively associated and participation in social mobilization groups was positively associated. Public PA programs need to consider dissemination strategies and the characteristics of the local context.",
-              "title_ko": "[브라질 동북부 지역 성인들의 공공 신체 활동 프로그램에 대한 인식과 참여]."
+              "title_ko": ""
             }
           ]
         },
@@ -4963,7 +4770,7 @@
           "impact_factor": 1.5,
           "index_type": "미상",
           "quartile": "미상",
-          "paper_count": 6,
+          "paper_count": 7,
           "top_paper": {
             "pmid": "39877848",
             "title": "Shifting paradigms in primary aldosteronism: reconsideration of screening strategy via integrating pathophysiological insights.",
@@ -4990,7 +4797,7 @@
             "field": "preventive",
             "field_label": "예방의학",
             "abstract": "Several decades have passed since the description of the first patient with primary aldosteronism (PA). PA was initially classified in two main forms: aldosterone-producing adenoma (APA) and idiopathic hyperaldosteronism (IHA). However, the pathogenesis of PA has now been shown to be far more complex. For this reason, the traditional classification needs to be updated. Given the recent advancements in our understanding of PA pathogenesis, we should reevaluate how frequent PA cases are, beginning with the reconstruction of the screening strategy. Recent studies consistently indicated that PA has been identified in 22% of patients with resistant hypertension and 11% even in normotensives. The frequency is influenced by the screening strategy and should be based on understanding the pathogenesis of PA. Progress has been made to promote our understanding of the pathogenesis of PA by the findings of aldosterone driver mutations, which have been found in normotensives and hypertensives. In addition, much clinical evidence has been accumulated to indicate that there is a spectrum in PA pathogenesis. In this review, we will summarize the recent progress in aldosterone measurement methods based on LC-MS/MS and the current screening strategy. Then, we will discuss the progress of our understanding of PA, focusing on aldosterone driver mutations and the natural history of PA. Finally, we will discuss the optimal strategy to improve screening rate and case detection.",
-            "title_ko": "일차 알도스테론주의의 패러다임 전환: 병태생리학적 통찰력 통합을 통한 스크리닝 전략의 재검토."
+            "title_ko": ""
           },
           "papers": [
             {
@@ -5019,7 +4826,7 @@
               "field": "preventive",
               "field_label": "예방의학",
               "abstract": "Several decades have passed since the description of the first patient with primary aldosteronism (PA). PA was initially classified in two main forms: aldosterone-producing adenoma (APA) and idiopathic hyperaldosteronism (IHA). However, the pathogenesis of PA has now been shown to be far more complex. For this reason, the traditional classification needs to be updated. Given the recent advancements in our understanding of PA pathogenesis, we should reevaluate how frequent PA cases are, beginning with the reconstruction of the screening strategy. Recent studies consistently indicated that PA has been identified in 22% of patients with resistant hypertension and 11% even in normotensives. The frequency is influenced by the screening strategy and should be based on understanding the pathogenesis of PA. Progress has been made to promote our understanding of the pathogenesis of PA by the findings of aldosterone driver mutations, which have been found in normotensives and hypertensives. In addition, much clinical evidence has been accumulated to indicate that there is a spectrum in PA pathogenesis. In this review, we will summarize the recent progress in aldosterone measurement methods based on LC-MS/MS and the current screening strategy. Then, we will discuss the progress of our understanding of PA, focusing on aldosterone driver mutations and the natural history of PA. Finally, we will discuss the optimal strategy to improve screening rate and case detection.",
-              "title_ko": "일차 알도스테론주의의 패러다임 전환: 병태생리학적 통찰력 통합을 통한 스크리닝 전략의 재검토."
+              "title_ko": ""
             },
             {
               "pmid": "41684453",
@@ -5047,7 +4854,7 @@
               "field": "preventive",
               "field_label": "예방의학",
               "abstract": "BACKGROUND: Congenital hypothyroidism (CH) is a preventable cause of growth and neurodevelopmental deficits. In India, lack of universal newborn screening (NBS) delays diagnosis. This study examines how treatment timing influences growth, nutrition, and body proportionality in children with CH. METHODS: This cross-sectional study included 66 children with CH, aged under 5 years, receiving Levothyroxine(LT4) therapy for one year. Age and sex-matched 64 healthy children were also enrolled. Children with CH were stratified into early-treated (<3months) and late-treated (>3months) groups. Anthropometric measurements were converted to Z-scores using WHO standards. Body proportionality was assessed using: height-arm span difference, upper segment-to-lower segment (US: LS) ratio, Manouvrier's Indice Skélique (MIS). MIS classifies skeletal proportions as brachyskelia (short legs, long trunk; score ≤84.9), mesatyskelia (intermediate; 85.0-89.9), and macroskelia (long legs, short trunk; ≥90). RESULTS: Children with CH had significantly lower height-for-age (HAZ -2.31 ± 1.32 vs. -0.41 ± 0.96), weight-for-age (WAZ -1.98 ± 1.41 vs. -0.36 ± 1.02), and head circumference-for-age (HCZ -1.52 ± 1.28 vs. -0.21 ± 0.89) Z-scores compared with healthy controls (all p < 0.001). Stunting (HAZ < -2 SD) was present in 53% of children, while underweight (WAZ < -2 SD) was observed in 36.4%. Late-treated children had a higher prevalence of severe stunting (67.7% vs. 11.4%), severe underweight (29.0% vs. 2.9%), and microcephaly (35.5% vs. 8.6%) compared with early-treated children (p < 0.05). Disproportionate stature was observed in 71.0% of late-treated children compared with 42.9% of early-treated children (p < 0.05). US: LS ratio and Manouvrier's Index further confirmed greater skeletal disproportionality in late-treated children compared with early-treated children (p < 0.05). CONCLUSIONS: Delayed treatment in CH significantly impairs growth, increases skeletal disproportionality, and adversely affects neurocranial development. Early initiation of therapy-ideally within the first 3 months-is essential. These findings highlight the need for newborn screening in India.",
-              "title_ko": "시기적절한 진단과 치료가 선천성 갑상선 기능 저하증 아동의 성장과 신체 비례에 미치는 영향."
+              "title_ko": ""
             },
             {
               "pmid": "41641034",
@@ -5075,7 +4882,35 @@
               "field": "preventive",
               "field_label": "예방의학",
               "abstract": "OBJECTIVE: This study aimed to map and synthesize the available evidence on screening tools for diabetic sarcopenia in patients with type 2 diabetes mellitus (T2DM), highlighting their characteristics, application contexts, and research gaps. METHODS: A comprehensive search was conducted in PubMed, Web of Science, CNKI, and Wanfang Data to identify studies published from 2010 to Deccember 2025. Studies involving adults with T2DM that evaluated screening tools for sarcopenia against established diagnostic criteria (EWGSOP, AWGS, FNIH, or IWGS) were eligible. Two reviewers independently screened studies, extracted data, and assessed methodological quality using the QUADAS-2 tool. Findings were charted and synthesized narratively, with screening tools grouped into functional assessments, anthropometric measures, biomarker-based methods, imaging approaches, and predictive models. RESULTS: A total of 24 studies with 9,469 participants were included. The most common screening tools were functional assessments, anthropometric measures, biomarkers, and muscle ultrasound. SARC-F showed moderate sensitivity (13.33%-62.63%) and high specificity (67.30%-91.67%), while SARC-CalF improved diagnostic performance. Muscle ultrasound demonstrated high accuracy, with sensitivity ranging from 71.05% to 95.00%. Predictive models with multiple variables (Age, BMI, HbA1c) showed AUC values between 0.800 and 0.932. Challenges included inconsistent cut-off values and limited validation across diverse populations. CONCLUSION: Various screening approaches for diabetic sarcopenia have been explored, but no single tool is universally validated for T2DM. Combining functional questionnaires with objective assessments like ultrasound or biomarkers may offer a more practical solution. Future research should focus on standardizing thresholds and testing tools in diverse populations.",
-              "title_ko": "제2형 당뇨병에서 당뇨병성 근감소증에 대한 선별검사 도구의 평가: 범위 검토의 증거."
+              "title_ko": ""
+            },
+            {
+              "pmid": "42798329",
+              "title": "The effectiveness of self-care interventions in working-age adults with type 2 diabetes mellitus: a systematic review and meta-analysis.",
+              "journal": "Frontiers in endocrinology",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2026-09-11",
+              "authors": [
+                "Zhu Q",
+                "Xia M",
+                "Zheng S"
+              ],
+              "citation_count": 0,
+              "rcr": null,
+              "volume": "17",
+              "issue": "",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/42798329/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 0.0,
+              "field": "preventive",
+              "field_label": "예방의학",
+              "abstract": "BACKGROUND: The prevalence of type 2 diabetes mellitus (T2DM) is rapidly increasing among working-age adults. This group faces unique challenges in sustaining effective self-care due to social and occupational demands. We conducted a systematic review and meta-analysis to evaluate the effectiveness of self-care interventions on glycemic control and self-care behaviors among working-age adults with T2DM. METHODS: We searched nine databases (PubMed, Embase, CINAHL, Cochrane Library, Web of Science, CBM, CNKI, CQVIP, and Wan Fang) to identify randomized controlled trials (RCTs) published from January 2020 to April 2025. Eligible studies included 18-60-year-old adults with T2DM receiving self-care interventions. Review Manager 5.4 was employed to calculate pooled mean differences (MD) with 95% confidence intervals (CI). Risk of bias was assessed using the Cochrane RoB2 tool. RESULTS: Forty-seven RCTs with 6,464 participants met the inclusion criteria. Compared to controls, self-care interventions significantly reduced HbA1c (MD -0.26, 95% CI -0.43 to -0.09), total cholesterol (MD -0.15, 95% CI -0.28 to -0.02), body mass index (MD -0.52, 95% CI -1.01 to -0.03), and increased high-density lipoproteins levels (MD 0.19, 95% CI 0.06 to 0.33). Improvements were also observed in self-care behaviors (SMD 0.74, 95% CI 0.62 to 0.86) and self-efficacy (SMD 1.14, 95% CI 0.51 to 1.76). No significant effects were found for fasting blood glucose or 2-hour plasma glucose. Substantial heterogeneity existed across studies. CONCLUSIONS: Self-care interventions improved glycemic control and related outcomes in working-age adults with T2DM, although high heterogeneity and variable study quality limited interpretation and generalizability. Future trials should adopt standardized reporting systems for interventions, robust design, and longer follow-up to better inform clinical practice and public health policy. SYSTEMATIC REVIEW REGISTRATION: https://www.crd.york.ac.uk/PROSPERO/view/CRD420251037017, identifier CRD420251037017.",
+              "title_ko": ""
             },
             {
               "pmid": "42781351",
@@ -5103,7 +4938,7 @@
               "field": "preventive",
               "field_label": "예방의학",
               "abstract": "INTRODUCTION: Pediatric dyslipidemia is common worldwide, especially in Lebanon, and is associated with increased long-term cardiovascular risk. However, international screening recommendations are still controversial. In Lebanon, no study has assessed physicians' knowledge, attitudes, and practices (KAPs) about this screening. METHODS: A cross-sectional online questionnaire-based study was conducted among pediatricians, family medicine physicians, and endocrinologists practicing in Lebanon. The questionnaire assessed knowledge, attitudes, screening practices, and perceived barriers regarding pediatric dyslipidemia. Associations between variables were examined using univariate and multivariable analyses. RESULTS: A total of 245 physicians participated in the study. Performance on the nine selected knowledge items was low (mean score of 53.2 ± 22.1 out of 100, median 55.6), with gaps mainly related to the prevalence of pediatric dyslipidemia in Lebanon and familiarity with international recommendations. Attitudes toward screening were generally favorable (mean score of 77.8 ± 14.2 out of 100, median 80), although 56.3% of participants reported concerns about family anxiety. Screening practices were heterogeneous and primarily relied on targeted screening when risk factors were present. Screening in adolescents was performed (always or most of the time) by 40.3% of endocrinologists, 32.6% of family medicine physicians, and 19.3% of pediatricians, with laboratory test costs and parental consent being the main obstacles (49.8% and 33.9%, respectively). The score based on the nine selected knowledge items showed a weak positive correlation with the attitude score (Spearman's ρ = 0.135, p = 0.035). Attitude scores differed significantly across reported screening-frequency categories (p<0.001). In multivariable analysis, female sex, family medicine practice, and practice in Beirut/Mount Lebanon (BML) were independently associated with higher score on the nine selected knowledge items (p=0.015, p<0.001, and p=0.005, respectively). CONCLUSION: Despite favorable attitudes, insufficient knowledge and contextual barriers limit the systematic implementation of pediatric dyslipidemia screening in Lebanon. Actions that combine training, harmonization of recommendations, and improved access to screening could strengthen pediatric cardiovascular prevention.",
-              "title_ko": "소아 이상지질혈증 선별검사에 대한 레바논 의사의 지식, 태도 및 관행: KAP 단면 연구."
+              "title_ko": ""
             },
             {
               "pmid": "42755727",
@@ -5164,29 +4999,29 @@
           ]
         },
         {
-          "journal": "Nutrition (Burbank, Los Angeles County, Calif.)",
+          "journal": "Ciencia & saude coletiva",
           "impact_factor": 1.5,
           "index_type": "미상",
           "quartile": "미상",
-          "paper_count": 1,
+          "paper_count": 32,
           "top_paper": {
-            "pmid": "42048757",
-            "title": "Mediterranean diet for the primary prevention of cardiometabolic diseases: evidence from a systematic review and meta-analysis featured in the Italian National Guidelines \"La Dieta Mediterranea\".",
-            "journal": "Nutrition (Burbank, Los Angeles County, Calif.)",
+            "pmid": "39879454",
+            "title": "The politicisation of vaccines and its influence on Brazilian caregivers' opinions on childhood routine vaccination.",
+            "journal": "Ciencia & saude coletiva",
             "impact_factor": 1.5,
             "index_type": "미상",
             "quartile": "미상",
-            "pubdate": "2025-08-27",
+            "pubdate": "2023-10-28",
             "authors": [
-              "Muscogiuri G",
-              "Maiorino MI",
-              "Paolini B"
+              "Matos CCSA",
+              "Avelino-Silva VI",
+              "Couto MT"
             ],
             "citation_count": 3,
             "rcr": null,
-            "volume": "148",
-            "issue": "",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/42048757/",
+            "volume": "30",
+            "issue": "1",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/39879454/",
             "altmetric_score": 0,
             "altmetric_news": 0,
             "altmetric_social": 0,
@@ -5194,28 +5029,28 @@
             "hot_score": 13.8,
             "field": "preventive",
             "field_label": "예방의학",
-            "abstract": "OBJECTIVES: The Mediterranean diet (MD) is widely recognized for its potential health benefits, yet the extent and certainty of its association with metabolic outcomes remains incompletely understood. The aim of this systematic review and meta-analysis was to evaluate the relationship between adherence to the MD and the risk or prevalence of cardiometabolic disorders in the general population, with a focus on its role in primordial and primary prevention. METHODS: This review followed PRISMA 2020 and MOOSE guidelines. A systematic search of PubMed/MEDLINE, Scopus, Embase, and the Cochrane Library was conducted through February 28, 2024. Eligible studies examined adherence to the MD in relation to the risk or prevalence of metabolic disorders. Study quality was assessed using the Newcastle-Ottawa Scale, and evidence certainty was rated with the NUTRI-GRADE framework. Pooled effect estimates were calculated using a random-effects model and reported as risk ratios (RR), hazard ratios (HR), or odds ratios (OR), as appropriate. RESULTS: Sixty studies comprising over 1.1 million participants were included. Higher MD adherence was consistently associated with a reduced risk of T2DM (RR: 0.96; 95% CI: 0.95-0.97), supported by moderate to high certainty of evidence. Similar inverse associations were observed for overweight (OR: 0.94; 95% CI: 0.91-0.97) and adult obesity (OR: 0.95; 95% CI: 0.93-0.97). The PREDIMED randomized trial further demonstrated a 20% reduction in diabetes incidence with MD intervention. Evidence for metabolic syndrome (RR: 0.98; 95% CI: 0.98-0.99) and hyperuricemia (OR: 0.43; 95% CI: 0.25-0.75) was suggestive of protective effects, though with lower certainty. Associations with hypercholesterolemia and hypertriglyceridemia were inconsistent and inconclusive. CONCLUSIONS: Adherence to the Mediterranean diet is associated with a lower risk of several metabolic disorders, particularly T2DM and obesity in adults. These findings support the inclusion of the MD in public health strategies for metabolic disease prevention. Further high-quality longitudinal and interventional studies are warranted to clarify its effects on other metabolic outcomes.",
+            "abstract": "Progressive declines in vaccination coverage have been recorded in Brazil in recent years. The COVID-19 pandemic has introduced even more challenges to this scenario. Considering the pandemic as an event, the scope of this article was to analyze the politicization of vaccines from the perspective of caregivers of young children. This qualitative research was conducted in two Brazilian state capitals, namely São Luís (Maranhão) and Florianópolis (Santa Catarina). The study included families with children up to 6 years of age who were fully or partially vaccinated, as well as children who had never been vaccinated. Snowball sampling was used and in-depth interviews were conducted between March 2021 and April 2022. Forty-eight caregivers, most of them mothers, were interviewed. The study revealed that, regardless of their previous stance regarding vaccines, the health-political event of the COVID-19 pandemic shook beliefs and attitudes about childhood vaccination. The results also showed that the pandemic led to delays in routine childhood immunization and caused caregivers to seek private health services. Finally, the results reveal the politicization of vaccines as a new phenomenon to be addressed in the Brazilian context.",
             "title_ko": ""
           },
           "papers": [
             {
-              "pmid": "42048757",
-              "title": "Mediterranean diet for the primary prevention of cardiometabolic diseases: evidence from a systematic review and meta-analysis featured in the Italian National Guidelines \"La Dieta Mediterranea\".",
-              "journal": "Nutrition (Burbank, Los Angeles County, Calif.)",
+              "pmid": "39879454",
+              "title": "The politicisation of vaccines and its influence on Brazilian caregivers' opinions on childhood routine vaccination.",
+              "journal": "Ciencia & saude coletiva",
               "impact_factor": 1.5,
               "index_type": "미상",
               "quartile": "미상",
-              "pubdate": "2025-08-27",
+              "pubdate": "2023-10-28",
               "authors": [
-                "Muscogiuri G",
-                "Maiorino MI",
-                "Paolini B"
+                "Matos CCSA",
+                "Avelino-Silva VI",
+                "Couto MT"
               ],
               "citation_count": 3,
               "rcr": null,
-              "volume": "148",
-              "issue": "",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/42048757/",
+              "volume": "30",
+              "issue": "1",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/39879454/",
               "altmetric_score": 0,
               "altmetric_news": 0,
               "altmetric_social": 0,
@@ -5223,7 +5058,200 @@
               "hot_score": 13.8,
               "field": "preventive",
               "field_label": "예방의학",
-              "abstract": "OBJECTIVES: The Mediterranean diet (MD) is widely recognized for its potential health benefits, yet the extent and certainty of its association with metabolic outcomes remains incompletely understood. The aim of this systematic review and meta-analysis was to evaluate the relationship between adherence to the MD and the risk or prevalence of cardiometabolic disorders in the general population, with a focus on its role in primordial and primary prevention. METHODS: This review followed PRISMA 2020 and MOOSE guidelines. A systematic search of PubMed/MEDLINE, Scopus, Embase, and the Cochrane Library was conducted through February 28, 2024. Eligible studies examined adherence to the MD in relation to the risk or prevalence of metabolic disorders. Study quality was assessed using the Newcastle-Ottawa Scale, and evidence certainty was rated with the NUTRI-GRADE framework. Pooled effect estimates were calculated using a random-effects model and reported as risk ratios (RR), hazard ratios (HR), or odds ratios (OR), as appropriate. RESULTS: Sixty studies comprising over 1.1 million participants were included. Higher MD adherence was consistently associated with a reduced risk of T2DM (RR: 0.96; 95% CI: 0.95-0.97), supported by moderate to high certainty of evidence. Similar inverse associations were observed for overweight (OR: 0.94; 95% CI: 0.91-0.97) and adult obesity (OR: 0.95; 95% CI: 0.93-0.97). The PREDIMED randomized trial further demonstrated a 20% reduction in diabetes incidence with MD intervention. Evidence for metabolic syndrome (RR: 0.98; 95% CI: 0.98-0.99) and hyperuricemia (OR: 0.43; 95% CI: 0.25-0.75) was suggestive of protective effects, though with lower certainty. Associations with hypercholesterolemia and hypertriglyceridemia were inconsistent and inconclusive. CONCLUSIONS: Adherence to the Mediterranean diet is associated with a lower risk of several metabolic disorders, particularly T2DM and obesity in adults. These findings support the inclusion of the MD in public health strategies for metabolic disease prevention. Further high-quality longitudinal and interventional studies are warranted to clarify its effects on other metabolic outcomes.",
+              "abstract": "Progressive declines in vaccination coverage have been recorded in Brazil in recent years. The COVID-19 pandemic has introduced even more challenges to this scenario. Considering the pandemic as an event, the scope of this article was to analyze the politicization of vaccines from the perspective of caregivers of young children. This qualitative research was conducted in two Brazilian state capitals, namely São Luís (Maranhão) and Florianópolis (Santa Catarina). The study included families with children up to 6 years of age who were fully or partially vaccinated, as well as children who had never been vaccinated. Snowball sampling was used and in-depth interviews were conducted between March 2021 and April 2022. Forty-eight caregivers, most of them mothers, were interviewed. The study revealed that, regardless of their previous stance regarding vaccines, the health-political event of the COVID-19 pandemic shook beliefs and attitudes about childhood vaccination. The results also showed that the pandemic led to delays in routine childhood immunization and caused caregivers to seek private health services. Finally, the results reveal the politicization of vaccines as a new phenomenon to be addressed in the Brazilian context.",
+              "title_ko": ""
+            },
+            {
+              "pmid": "42788516",
+              "title": "Impact of a nutrition education program on food consumption and nutritional status of family farmers.",
+              "journal": "Ciencia & saude coletiva",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2026-09-21",
+              "authors": [
+                "Garozi MJO",
+                "Pimenta AV",
+                "Sant'Ana CT"
+              ],
+              "citation_count": 0,
+              "rcr": null,
+              "volume": "31",
+              "issue": "suppl 1",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/42788516/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": true,
+              "hot_score": 10.0,
+              "field": "preventive",
+              "field_label": "예방의학",
+              "abstract": "This study analyzed the impact of a nutrition education program on the food consumption and nutritional status of family farmers in Alegre, Espírito Santo, Brazil. A longitudinal and interventional study, with 81 individuals of both sexes (3 to 74 years old) was carried out. Nutrition education program with 7 activities throughout 8 months period was applied. Food consumption, anthropometric measurements, blood pressure, complete blood count, fasting glucose, total proteins, serum iron, ferritin, C-reactive protein, and lipid profile were evaluated, before and after the intervention. Data was analyzed using the t-test and Wilcoxon test (p<0.05). The Revised Diet Quality Index increased from 49.44 to 58.72 (p=0.001), indicating a significant improvement. There was a significant reduction in energetic and lipid intake, free sugar, sodium, saturated, and trans fatty acids. These changes were associated with decreases in BMI, body fat percentage, waist circumference, plasma cholesterol, and triacylglycerol levels. The nutrition education program had a positive impact on the participants' eating habits and health, contributing to the improvement of public and other intervention health programs.",
+              "title_ko": ""
+            },
+            {
+              "pmid": "42788506",
+              "title": "A global measurement tool to assess population health literacy fits all? A critical paper.",
+              "journal": "Ciencia & saude coletiva",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2026-09-21",
+              "authors": [
+                "Mialhe FL",
+                "Moraes KL",
+                "Vila VDSC"
+              ],
+              "citation_count": 0,
+              "rcr": null,
+              "volume": "31",
+              "issue": "suppl 1",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/42788506/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": true,
+              "hot_score": 10.0,
+              "field": "preventive",
+              "field_label": "예방의학",
+              "abstract": "Health literacy (HL) is considered by the World Health Organization (WHO) as an important determinant of health and several instruments have been elaborated and adapted to measure this construct. In 2022, a group of researchers started a project aimed at developing a HL assessment instrument with global applicability, based on different versions of the European Health Literacy Survey Questionnaire (HLS-EU-Q). This article critically analyses the characteristics of those instruments to help improve health assessment practices and avoiding omitting measurement of locally important information, therefore committing an epistemic injustice. Analysis detected several flaws in the instruments' aforementioned aspects and the conceptual model proposed by WHO which limits their application as global instruments. Countries worldwide should develop specific instruments to measure the general HL of their population based on its sociocultural characteristics and specificities of their health care systems thus avoiding wrong decision-making, which can compromise the effectiveness of policies resulting from these surveys.",
+              "title_ko": ""
+            },
+            {
+              "pmid": "42788499",
+              "title": "[Implementation and evaluation of food and nutrition actions in the school environment].",
+              "journal": "Ciencia & saude coletiva",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2026-09-21",
+              "authors": [
+                "Pedraza DF"
+              ],
+              "citation_count": 0,
+              "rcr": null,
+              "volume": "31",
+              "issue": "suppl 1",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/42788499/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": true,
+              "hot_score": 10.0,
+              "field": "preventive",
+              "field_label": "예방의학",
+              "abstract": "The Programa Saúde na Escola and the Programa Nacional de Alimentação Escolar can be integrated through food and nutrition actions in the school environment. The objective of this article is to develop a proposal for the implementation and evaluation of food and nutrition actions in the school environment, verifying their applicability. A methodological study that resulted in the development of a logical model and an implementation and monitoring matrix related to school feeding and nutrition actions, covering parameters of structure, process/actions and results of three components (anthropometric assessment, promotion of healthy eating and school feeding). Health professionals and teachers from 11 municipalities in Paraíba took part. Applicability was verified in a case study with four early childhood education schools. The three components showed deficiencies in both structure and process. In the results, there was low completion of the Child Handbook, high consumption of foods not offered in school meals, especially industrialized, and good acceptance of school meals. The proposal drawn up could help improve health promotion programs in the school environment, with a focus on food and nutrition.",
+              "title_ko": ""
+            },
+            {
+              "pmid": "42788498",
+              "title": "[Fidelity, acceptability, and suitability in the implementation of responsive food cards in Brazil].",
+              "journal": "Ciencia & saude coletiva",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2026-09-21",
+              "authors": [
+                "Sorrentino E",
+                "Buccini G",
+                "Venancio SI"
+              ],
+              "citation_count": 0,
+              "rcr": null,
+              "volume": "31",
+              "issue": "suppl 1",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/42788498/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": true,
+              "hot_score": 10.0,
+              "field": "preventive",
+              "field_label": "예방의학",
+              "abstract": "The goal of responsive feeding (RF) cards is to encourage food autonomy and to boost cognitive, emotional and social development. It is becoming a critical tool to promote child nutrition in primary care. The aim of the present study is to (1) assess the accuracy of RF cards implementation by trained community health agents (CHA), (2) to investigate their acceptability and adequacy from the perspective of caregivers to 0 to 3-year old children in rural-riverside and urban Brazilian regions. Eight-hour training on using culturally appropriate RF cards was made available to 45 CHAs. Observations on how to conduct the sessions were based on using a checklist applied to four group-education sessions. The opinion of caregivers was collected through deductive coding based on recordings that were transcribed by a professional. The aforementioned training ensured accuracy to delivery RF messages. Caregivers highlighted the messages' adequacy and acceptability over the group-education sessions. The study highlights a viable strategy to achieve RF cards use accuracy in primary care, besides stressing the relevance of culturally adapted materials developed for different populations.",
+              "title_ko": ""
+            },
+            {
+              "pmid": "41615110",
+              "title": "[The sinuosities in the line of induction, institutionalisation and implementation of National Health Promotion Policy].",
+              "journal": "Ciencia & saude coletiva",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2024-11-07",
+              "authors": [
+                "Dias MSA",
+                "Silva LCCD",
+                "Vieira-Meyer APGF"
+              ],
+              "citation_count": 1,
+              "rcr": null,
+              "volume": "31",
+              "issue": "1",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/41615110/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 6.9,
+              "field": "preventive",
+              "field_label": "예방의학",
+              "abstract": "Historical, documentary and bibliographical research, adopting the coalition theory as a reference to analyze the sinuosity of the trajectory of the National Health Promotion Policy (PNPS). The time frame covered the period between 1986 and 2023. Among the documents available in official websites and scientific journals, and with the aid of an expert and snowball technique, 31 milestones/events related to the institutionalization, implementation and related movements of the national and international historical context of health promotion were identified. The analysis elucidated PNPS itineraries demarcated into three periods: from 1986 to 2006, the paths of construction of PNPS; from 2006 to 2014, from institutionalization to policy review; and from 2014 to 2023, PNPS implementation movements. The tortuous timeline of the PNPS reveals gaps, slowdowns and advances in the period analyzed. These call for the recognition of the influences of global governance instruments (WHO and UN) and the search for sustainability mechanisms. The counter-hegemonic and complex nature of the PNPS calls for new institutional arrangements to address inequalities. Furthermore, movements are identified to resume coordination with segments and groups of the population.",
+              "title_ko": ""
+            },
+            {
+              "pmid": "40929445",
+              "title": "Physical activity and salutogenesis: a necessary dialogue.",
+              "journal": "Ciencia & saude coletiva",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2024-07-18",
+              "authors": [
+                "Oliveira VJM",
+                "Costa RMD"
+              ],
+              "citation_count": 1,
+              "rcr": null,
+              "volume": "30",
+              "issue": "8",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/40929445/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 6.9,
+              "field": "preventive",
+              "field_label": "예방의학",
+              "abstract": "This essay aims to broaden the dialogue between physical activity (PA) and health by a salutogenesis-oriented concept, which emphasizes the origins of health, as opposed to the pathogenic model, which focuses on the origin of diseases. It presents the foundations of the theory, created by Aaron Antonovsky, whose health promotion model is centered on the sense of coherence (SOC), which consists of significance, comprehensibility, and manageability. Then, it explores the relationships between PA and salutogenesis, demonstrating how this framework can be applied in various life stages and practice settings. Studies indicate that people with a strengthened SOC will likely remain physically active. However, this relationship is not instrumental and depends on contextual, cognitive, and affective factors. This essay concludes by advocating for further research in Brazil and highlighting salutogenesis as a promising perspective to guide a new understanding of PA and health.",
+              "title_ko": ""
+            },
+            {
+              "pmid": "40465920",
+              "title": "[Awareness and participation in public physical activity programs among adults in the Northeast region of Brazil].",
+              "journal": "Ciencia & saude coletiva",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2024-04-13",
+              "authors": [
+                "Santos EMM",
+                "Andrade ACS",
+                "Portela DS"
+              ],
+              "citation_count": 1,
+              "rcr": null,
+              "volume": "30",
+              "issue": "5",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/40465920/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 6.9,
+              "field": "preventive",
+              "field_label": "예방의학",
+              "abstract": "The scope of the study was to investigate the factors associated with awareness and participation of the adult population of the Northeast region of Brazil in public physical activity (PA) programs. It involved a cross-sectional study with data from the Brazilian National Health Survey (2019). The dependent variables were awareness and participation in public PA programs. The independent variables were household, sociodemographic, social support and health characteristics. Prevalence ratios were estimated using Poisson regression with robust variance. The prevalence of awareness was 24.3%, of which 9.7% participated in public PA programs. Higher per capita family income, visits from family health teams, female gender, age over 34, more schooling, paid work, participation in social mobilization groups, being overweight or obese and diagnosed with one or more chronic non-communicable diseases were positively associated with public PA programs. Having a paid job was negatively associated and participation in social mobilization groups was positively associated. Public PA programs need to consider dissemination strategies and the characteristics of the local context.",
               "title_ko": ""
             }
           ]
@@ -5233,24 +5261,15 @@
         {
           "phrase": "type diabetes",
           "score": 72.4,
-          "paper_count": 6,
+          "paper_count": 7,
           "pmids": [
             "40302946",
             "40302974",
             "40302970",
             "39978849",
             "40655936",
-            "41641034"
-          ]
-        },
-        {
-          "phrase": "covid- vaccination",
-          "score": 47.0,
-          "paper_count": 3,
-          "pmids": [
-            "39693186",
-            "39845965",
-            "40028449"
+            "41641034",
+            "42798329"
           ]
         },
         {
@@ -5275,14 +5294,24 @@
           ]
         },
         {
+          "phrase": "covid- vaccination",
+          "score": 33.2,
+          "paper_count": 2,
+          "pmids": [
+            "39845965",
+            "40028449"
+          ]
+        },
+        {
           "phrase": "diabetes mellitus",
           "score": 31.7,
-          "paper_count": 4,
+          "paper_count": 5,
           "pmids": [
             "40302970",
             "40707091",
             "40655936",
-            "41641034"
+            "41641034",
+            "42798329"
           ]
         },
         {
@@ -5293,6 +5322,15 @@
             "41435727",
             "41690212",
             "40024009"
+          ]
+        },
+        {
+          "phrase": "adolescent mental",
+          "score": 31.0,
+          "paper_count": 2,
+          "pmids": [
+            "40708418",
+            "42374679"
           ]
         },
         {
@@ -5339,15 +5377,6 @@
             "42788243",
             "40469994"
           ]
-        },
-        {
-          "phrase": "screening tools",
-          "score": 23.8,
-          "paper_count": 2,
-          "pmids": [
-            "41491555",
-            "41641034"
-          ]
         }
       ],
       "topic_trends": {
@@ -5364,16 +5393,7 @@
               0.0,
               64.5,
               11.0,
-              16.9
-            ]
-          },
-          {
-            "phrase": "breast cancer",
-            "scores": [
-              16.9,
-              0.0,
-              13.8,
-              40.0
+              26.9
             ]
           },
           {
@@ -5386,12 +5406,12 @@
             ]
           },
           {
-            "phrase": "covid- vaccination",
+            "phrase": "breast cancer",
             "scores": [
+              16.9,
               0.0,
-              24.8,
-              33.2,
-              0.0
+              13.8,
+              30.0
             ]
           },
           {
@@ -5404,12 +5424,21 @@
             ]
           },
           {
-            "phrase": "quality life",
+            "phrase": "covid- vaccination",
             "scores": [
               0.0,
-              40.7,
-              10.0,
-              0.0
+              11.0,
+              33.2,
+              10.0
+            ]
+          },
+          {
+            "phrase": "diabetes mellitus",
+            "scores": [
+              0.0,
+              23.8,
+              11.0,
+              16.9
             ]
           }
         ]
@@ -5418,7 +5447,7 @@
     {
       "key": "emergency",
       "label": "응급의학",
-      "paper_count": 451,
+      "paper_count": 453,
       "journals": [
         {
           "journal": "Resuscitation",
@@ -5685,7 +5714,7 @@
           "impact_factor": 1.5,
           "index_type": "미상",
           "quartile": "미상",
-          "paper_count": 54,
+          "paper_count": 53,
           "top_paper": {
             "pmid": "39642139",
             "title": "A machine learning-based risk score for prediction of mechanical ventilation in children with dengue shock syndrome: A retrospective cohort study.",
@@ -6764,7 +6793,7 @@
           "impact_factor": 1.5,
           "index_type": "미상",
           "quartile": "미상",
-          "paper_count": 42,
+          "paper_count": 49,
           "top_paper": {
             "pmid": "39694769",
             "title": "A Review of Pediatric Appendicitis Imaging Trends from 2006-2020 Using the Nationwide Emergency Department Sample.",
@@ -10915,7 +10944,7 @@
               0.0,
               61.2,
               6.8,
-              20.0
+              10.0
             ]
           },
           {
