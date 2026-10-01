@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-30T20:20:33.709316Z",
+  "generated_at": "2026-10-01T20:20:13.998736Z",
   "window_days": 1095,
   "fields": [
     {
       "key": "preventive",
       "label": "예방의학",
-      "paper_count": 447,
+      "paper_count": 449,
       "journals": [
         {
           "journal": "The Orthopedic clinics of North America",
@@ -462,7 +462,7 @@
           "impact_factor": 1.5,
           "index_type": "미상",
           "quartile": "미상",
-          "paper_count": 97,
+          "paper_count": 96,
           "top_paper": {
             "pmid": "39949340",
             "title": "Analysis of factors influencing HPV vaccination intention among Chinese college students: structural equation modeling based on health belief theory.",
@@ -3591,6 +3591,127 @@
           ]
         },
         {
+          "journal": "Annals of agricultural and environmental medicine : AAEM",
+          "impact_factor": 1.5,
+          "index_type": "미상",
+          "quartile": "미상",
+          "paper_count": 3,
+          "top_paper": {
+            "pmid": "41906511",
+            "title": "Socio-economic determinants of the second-dose measles vaccination coverage in Poland.",
+            "journal": "Annals of agricultural and environmental medicine : AAEM",
+            "impact_factor": 1.5,
+            "index_type": "미상",
+            "quartile": "미상",
+            "pubdate": "2025-07-18",
+            "authors": [
+              "Nowicka PM",
+              "Lewandowski Z",
+              "Gujski M"
+            ],
+            "citation_count": 1,
+            "rcr": null,
+            "volume": "33",
+            "issue": "1",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/41906511/",
+            "altmetric_score": 0,
+            "altmetric_news": 0,
+            "altmetric_social": 0,
+            "is_current_issue": true,
+            "hot_score": 16.9,
+            "field": "preventive",
+            "field_label": "예방의학",
+            "abstract": "INTRODUCTION AND OBJECTIVE: Measles is one of the most contagious human viruses and serves as an early indicator of gaps in population immunity. Despite the introduction of measles vaccination 50 years ago, Poland remains one of nine endemic countries in the WHO European Region. The aim of the study is to assess the relationship between socio-economic factors and sufficient coverage (≥95%) with the second dose of vaccination against measles (MMR2) at the poviat level in Poland from 2014 - 2018. MATERIAL AND METHODS: Data on MMR2 coverage was extracted from annual reports collected by sanitary-epidemiological stations in Poland. Socio-economic data was obtained from Statistics Poland. A multivariate logistic regression analysis, adjusted for population size and the number of physicians and nurses, was performed to identify predictors of sufficient MMR2 coverage. RESULTS: Three socio-economic variables were found to be significant independent predictors of sufficient MMR2 coverage across years: the number of households receiving community-based social assistance, families receiving child benefits, and the number of medical consultations in primary health care. Poviats with higher values for these variables had increased odds of achieving sufficient MMR2 coverage. In contrast, no significant association was observed between MMR2 coverage and the average monthly salary, employment rates, or the number of foster families. CONCLUSIONS: MMR2 coverage at the poviat level in Poland is predictable using selected socio-economic variables. The findings suggest that benefitting from social assistance positively influences vaccination uptake. While individual-level data would provide greater insight, poviat-level data can still guide public health interventions to improve MMR2 coverage and reduce the risk of measles outbreaks.",
+            "title_ko": "폴란드에서 2차 접종 홍역 백신 접종 범위의 사회 경제적 결정 요인."
+          },
+          "papers": [
+            {
+              "pmid": "41906511",
+              "title": "Socio-economic determinants of the second-dose measles vaccination coverage in Poland.",
+              "journal": "Annals of agricultural and environmental medicine : AAEM",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2025-07-18",
+              "authors": [
+                "Nowicka PM",
+                "Lewandowski Z",
+                "Gujski M"
+              ],
+              "citation_count": 1,
+              "rcr": null,
+              "volume": "33",
+              "issue": "1",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/41906511/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": true,
+              "hot_score": 16.9,
+              "field": "preventive",
+              "field_label": "예방의학",
+              "abstract": "INTRODUCTION AND OBJECTIVE: Measles is one of the most contagious human viruses and serves as an early indicator of gaps in population immunity. Despite the introduction of measles vaccination 50 years ago, Poland remains one of nine endemic countries in the WHO European Region. The aim of the study is to assess the relationship between socio-economic factors and sufficient coverage (≥95%) with the second dose of vaccination against measles (MMR2) at the poviat level in Poland from 2014 - 2018. MATERIAL AND METHODS: Data on MMR2 coverage was extracted from annual reports collected by sanitary-epidemiological stations in Poland. Socio-economic data was obtained from Statistics Poland. A multivariate logistic regression analysis, adjusted for population size and the number of physicians and nurses, was performed to identify predictors of sufficient MMR2 coverage. RESULTS: Three socio-economic variables were found to be significant independent predictors of sufficient MMR2 coverage across years: the number of households receiving community-based social assistance, families receiving child benefits, and the number of medical consultations in primary health care. Poviats with higher values for these variables had increased odds of achieving sufficient MMR2 coverage. In contrast, no significant association was observed between MMR2 coverage and the average monthly salary, employment rates, or the number of foster families. CONCLUSIONS: MMR2 coverage at the poviat level in Poland is predictable using selected socio-economic variables. The findings suggest that benefitting from social assistance positively influences vaccination uptake. While individual-level data would provide greater insight, poviat-level data can still guide public health interventions to improve MMR2 coverage and reduce the risk of measles outbreaks.",
+              "title_ko": "폴란드에서 2차 접종 홍역 백신 접종 범위의 사회 경제적 결정 요인."
+            },
+            {
+              "pmid": "42374679",
+              "title": "Does general health literacy predict adolescent mental health profiles based on the dual continua model?",
+              "journal": "Annals of agricultural and environmental medicine : AAEM",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2025-08-12",
+              "authors": [
+                "Mazur J",
+                "Kozakiewicz A",
+                "Kleszczewska DW"
+              ],
+              "citation_count": 0,
+              "rcr": null,
+              "volume": "33",
+              "issue": "2",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/42374679/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": true,
+              "hot_score": 10.0,
+              "field": "preventive",
+              "field_label": "예방의학",
+              "abstract": "INTRODUCTION AND OBJECTIVE: The aim of the study was to define mental health profiles according to the Dual Continua Mental Health (DCMH) model and to analyse their associations with socio-demographic characteristics and health literacy (HL). MATERIAL AND METHODS: An online survey was conducted in 2024 among students aged 13-17 in schools in a mid-western region of Poland (n=9,026). Standardised instruments were used to assess well-being, prevalence of psychosomatic complaints, as well as HL. Multinomial logistic regression was applied. RESULTS: The findings showed that 57.1% of students reported frequent psychosomatic complaints, whereas 24.5% met the criteria for low well-being. Six mental health profiles were identified, ranging from the most unfavourable (low wellbeing and frequent complaints - 21.4%) to optimal (high well-being and none or infrequent complaints - 29.1%). HL was associated with profile membership to a significant extent - a low level of HL tripled the risk of adherence to the group with the poorest mental health status (OR=3.06; 95% CI: 2.43-3.85). Living in rural areas protected against being classified into the least favourable group (OR = 0.82; 95% CI: 0.69-0.97). CONCLUSIONS: The DCMH model offers a framework for multidimensional analysis of mental health profiles among adolescents, and its application may incorporate various research tools. Professionals (psychologists, educators, teachers) should not only respond to signs of crisis, but also actively strengthen young people's resources - particularly by fostering health literacy, building psychological resilience, and promoting positive functioning within the school environment.",
+              "title_ko": "일반 건강 리터러시는 이중 연속성 모델을 기반으로 청소년 정신 건강 프로파일을 예측합니까?"
+            },
+            {
+              "pmid": "41906517",
+              "title": "Vaccination status and attitudes of Ukrainians in Poland towards mandatory vaccinations.",
+              "journal": "Annals of agricultural and environmental medicine : AAEM",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2025-07-11",
+              "authors": [
+                "Sajdak P",
+                "Kwiatkowski O",
+                "Czajka H"
+              ],
+              "citation_count": 0,
+              "rcr": null,
+              "volume": "33",
+              "issue": "1",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/41906517/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": true,
+              "hot_score": 10.0,
+              "field": "preventive",
+              "field_label": "예방의학",
+              "abstract": "INTRODUCTION AND OBJECTIVE: The study examines the vaccination status and attitudes of Ukrainian refugees in Poland, focusing on factors influencing decisions regarding mandatory vaccinations. Given the ongoing migration and geopolitical instability, understanding these determinants is crucial for improving immunization coverage and mitigating public health risks. MATERIAL AND METHODS: Data were collected from 102 Ukrainian refugee participants in the Rzeszów area using a structured survey. The questionnaire included demographic questions and inquiries about vaccination practices, reasons for incomplete immunization, and attitudes toward vaccination. Statistical analysis was conducted to identify significant correlations. RESULTS: The study found that 55.88% of participants reported full vaccination of their children, while 42.16% had partial vaccination, and less than 2% were unvaccinated. The most common barriers to vaccination were limited access to vaccines (40%) and mistrust in vaccine formulations (37.78%). Additionally, statistical analysis revealed a significant correlation between the COVID-19 pandemic and vaccination uptake (p < 0.05). CONCLUSIONS: The findings emphasize the need for targeted interventions to address vaccine hesitancy and logistical challenges among Ukrainian refugees. Strengthening cooperation between Ukraine and Poland is crucial for enhancing immunization coverage. Despite broader vaccine availability in Poland, hesitancy remains an issue, necessitating educational initiatives and policy adjustments.",
+              "title_ko": "필수 예방 접종에 대한 폴란드 우크라이나인의 예방 접종 상태 및 태도."
+            }
+          ]
+        },
+        {
           "journal": "British journal of neurosurgery",
           "impact_factor": 1.5,
           "index_type": "미상",
@@ -4235,69 +4356,6 @@
           ]
         },
         {
-          "journal": "Middle East African journal of ophthalmology",
-          "impact_factor": 1.5,
-          "index_type": "미상",
-          "quartile": "미상",
-          "paper_count": 1,
-          "top_paper": {
-            "pmid": "39959600",
-            "title": "Validation of an Artificial Intelligence-based Tool - The Screening Corneal Objective Risk of Ectasia Integrated into Anterion for Detection of Corneal Ectasia/Risk of Ectasia.",
-            "journal": "Middle East African journal of ophthalmology",
-            "impact_factor": 1.5,
-            "index_type": "미상",
-            "quartile": "미상",
-            "pubdate": "2024-12-02",
-            "authors": [
-              "Raju RS",
-              "Raju CVG"
-            ],
-            "citation_count": 1,
-            "rcr": 0.45709762972382884,
-            "volume": "30",
-            "issue": "4",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/39959600/",
-            "altmetric_score": 0,
-            "altmetric_news": 0,
-            "altmetric_social": 0,
-            "is_current_issue": true,
-            "hot_score": 16.9,
-            "field": "preventive",
-            "field_label": "예방의학",
-            "abstract": "PURPOSE: The purpose of this study was to validate the artificial intelligence-based Screening Corneal Objective Risk of Ectasia (SCORE) for the detection of corneal ectasia/risk of ectasia and to find the mean SCORE value in normal eyes. METHODS: This prospective observational study included 320 eyes of 160 patients undergoing screening for refractive surgery and keratoconus. All were subjected to Anterion (Heidelberg, Germany) corneal tomography. The maps were read by trained cornea specialists masked with respect to system-generated SCORE. The SCORE values were retrieved by another masked observer. The SCORE was labeled true positive if the eye was tomographically positive for ectasia/ risk of ectasia with or without clinical evidence of ectasia (i.e., clinician's diagnosis as ectasia/ risk of ectasia) and SCORE was >/=0. The SCORE test was labeled as true negative if all the maps were normal and SCORE was <0. A false-positive test was where the eye was normal but SCORE was ≥0. A false-negative test was one tomographically there was definite evidence of ectasia/ risk; with or without clinical evidence of ectasia (i.e.,clinician's diagnosis as ectasia/ at risk of ectasia) but SCORE was <0. Sensitivity, specificity, positive predictive value (PPV), and negative predictive value (NPV) were calculated. RESULTS: The mean SCORE in normal eyes was -0.7 ± 0.6. Sensitivity was 83.3% and specificity was 80%. PPV and NPV were 46% and 96% respectively. In the keratoconus subgroup, specificity and PPV were 100%; sensitivity was 79% and NPV was 76.3%. CONCLUSION: SCORE in Anterion has moderate sensitivity and specificity for detection of ectasia/risk of ectasia. It performs best in the detection of corneal ectasia. It needs to be interpreted with caution.",
-            "title_ko": "인공 지능 기반 도구의 검증 - 각막 엑타시아의 선별 각막 목표 위험은 각막 엑타시아의 검출/엑타시아의 위험을 위해 Anterion에 통합되었습니다."
-          },
-          "papers": [
-            {
-              "pmid": "39959600",
-              "title": "Validation of an Artificial Intelligence-based Tool - The Screening Corneal Objective Risk of Ectasia Integrated into Anterion for Detection of Corneal Ectasia/Risk of Ectasia.",
-              "journal": "Middle East African journal of ophthalmology",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2024-12-02",
-              "authors": [
-                "Raju RS",
-                "Raju CVG"
-              ],
-              "citation_count": 1,
-              "rcr": 0.45709762972382884,
-              "volume": "30",
-              "issue": "4",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/39959600/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": true,
-              "hot_score": 16.9,
-              "field": "preventive",
-              "field_label": "예방의학",
-              "abstract": "PURPOSE: The purpose of this study was to validate the artificial intelligence-based Screening Corneal Objective Risk of Ectasia (SCORE) for the detection of corneal ectasia/risk of ectasia and to find the mean SCORE value in normal eyes. METHODS: This prospective observational study included 320 eyes of 160 patients undergoing screening for refractive surgery and keratoconus. All were subjected to Anterion (Heidelberg, Germany) corneal tomography. The maps were read by trained cornea specialists masked with respect to system-generated SCORE. The SCORE values were retrieved by another masked observer. The SCORE was labeled true positive if the eye was tomographically positive for ectasia/ risk of ectasia with or without clinical evidence of ectasia (i.e., clinician's diagnosis as ectasia/ risk of ectasia) and SCORE was >/=0. The SCORE test was labeled as true negative if all the maps were normal and SCORE was <0. A false-positive test was where the eye was normal but SCORE was ≥0. A false-negative test was one tomographically there was definite evidence of ectasia/ risk; with or without clinical evidence of ectasia (i.e.,clinician's diagnosis as ectasia/ at risk of ectasia) but SCORE was <0. Sensitivity, specificity, positive predictive value (PPV), and negative predictive value (NPV) were calculated. RESULTS: The mean SCORE in normal eyes was -0.7 ± 0.6. Sensitivity was 83.3% and specificity was 80%. PPV and NPV were 46% and 96% respectively. In the keratoconus subgroup, specificity and PPV were 100%; sensitivity was 79% and NPV was 76.3%. CONCLUSION: SCORE in Anterion has moderate sensitivity and specificity for detection of ectasia/risk of ectasia. It performs best in the detection of corneal ectasia. It needs to be interpreted with caution.",
-              "title_ko": "인공 지능 기반 도구의 검증 - 각막 엑타시아의 선별 각막 목표 위험은 각막 엑타시아의 검출/엑타시아의 위험을 위해 Anterion에 통합되었습니다."
-            }
-          ]
-        },
-        {
           "journal": "Ceska a Slovenska farmacie : casopis Ceske farmaceuticke spolecnosti a Slovenske farmaceuticke spolecnosti",
           "impact_factor": 1.5,
           "index_type": "미상",
@@ -4674,7 +4732,7 @@
           "impact_factor": 1.5,
           "index_type": "미상",
           "quartile": "미상",
-          "paper_count": 5,
+          "paper_count": 4,
           "top_paper": {
             "pmid": "41503766",
             "title": "Provider perspectives on HPV vaccine hesitancy in the post-COVID-19 era.",
@@ -4733,23 +4791,23 @@
               "title_ko": "COVID-19 이후 시대의 HPV 백신 망설임에 대한 제공자의 관점."
             },
             {
-              "pmid": "42804491",
-              "title": "Brief report: Effectiveness and safety of recombinant zoster vaccine in inflammatory bowel disease patients aged 18 years and older: A matched cohort and self-controlled case series study.",
+              "pmid": "42814974",
+              "title": "The intrinsic, instrumental, and symbolic values of sustaining childhood vaccination in conflict settings.",
               "journal": "Human vaccines & immunotherapeutics",
               "impact_factor": 1.5,
               "index_type": "미상",
               "quartile": "미상",
-              "pubdate": "2026-09-28",
+              "pubdate": "2026-09-30",
               "authors": [
-                "Humayun M",
-                "Sy LS",
-                "Rayens E"
+                "Sabahelzain MM",
+                "Razum O",
+                "Leask J"
               ],
               "citation_count": 0,
               "rcr": null,
               "volume": "22",
               "issue": "1",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/42804491/",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/42814974/",
               "altmetric_score": 0,
               "altmetric_news": 0,
               "altmetric_social": 0,
@@ -4757,36 +4815,8 @@
               "hot_score": 10.0,
               "field": "preventive",
               "field_label": "예방의학",
-              "abstract": "Individuals with inflammatory bowel disease (IBD) are at increased risk of herpes zoster (HZ). Using a matched cohort design, we evaluated the vaccine effectiveness (VE) of recombinant zoster vaccine (RZV) against HZ among IBD patients aged ≥18 years. Within the Kaiser Permanente Southern California population, individuals who received 2 RZV doses were matched up to 1:3 to RZV-unvaccinated individuals. Individuals were followed from 31 days after the receipt of the 2nd RZV dose until the occurrence of a censoring event. VE was calculated using Cox proportional hazards regression. A self-controlled case series analysis was used to compare the rate of flares in the 30‑day risk window following vaccination with the comparison window among RZV recipients using conditional Poisson regression. The adjusted VE of 2 RZV doses (≥4 weeks apart) against HZ was 65.4% (95% confidence interval [CI]: 40.6%-79.9%) in all IBD patients, 62.7% (17.2%-83.2%) in ulcerative colitis patients, and 70.2% (34.5%-86.4%) in Crohn's disease patients. The VE of 2 doses administered 4 weeks-6 months apart in IBD patients was 62.9% (34.3%-79.1%). The rate ratio for IBD flares was 0.80 (95% CI: 0.58-1.12). In conclusion, RZV provided protection against HZ in IBD patients with no increased risk of IBD flares observed.",
-              "title_ko": "Brief report: Effectiveness and safety of recombinant zoster vaccine in inflammatory bowel disease patients aged 18 and older: A matched cohort and self-controlled case series study."
-            },
-            {
-              "pmid": "42802652",
-              "title": "Knowledge and attitudes of medical students about human papillomavirus (HPV) and HPV vaccine: A cross-sectional survey in Inner Mongolia, China.",
-              "journal": "Human vaccines & immunotherapeutics",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2026-09-27",
-              "authors": [
-                "Zhou X",
-                "Yao D",
-                "Li T"
-              ],
-              "citation_count": 0,
-              "rcr": null,
-              "volume": "22",
-              "issue": "1",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/42802652/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": true,
-              "hot_score": 10.0,
-              "field": "preventive",
-              "field_label": "예방의학",
-              "abstract": "China approved human papillomavirus (HPV) vaccines for women and men in 2016 and 2025 respectively. We aimed to online survey the knowledge of HPV and HPV vaccines, as well as the vaccine uptake, among medical college students in Inner Mongolia, during April 1-21, 2026. Of 5,846 eligible students, 660 (11.3%) participated in the survey. Fourteen respondents were excluded because of their incomplete questionnaires. Of 646 respondents aged 20.5 (±1.5) years with 65.5% (423) females, 93.6% and 87.6% were aware of HPV and HPV vaccines respectively. However, only 74.8% of them knew HPV as the main cause of cervical cancer and 73.5% knew the preventive effect of HPV vaccines against cervical cancer. Fewer respondents knew the association of HPV with other cancers. The males had less knowledge than females. Only 115 (27.2%) females had received HPV vaccination, and none of the males did due to transient availability of the vaccine for males. Family income, paternal education, and HPV vaccine knowledge were the main factors associated with the vaccination. The vaccination barriers included vaccine cost, perceived lack of necessity, doubts about effectiveness, concerns about adverse events, and unawareness of where to get vaccinated. Among the unvaccinated respondents, 61.4% (137/223) of the males and 86.4% (266/308) of the females intended to get vaccinated. The survey revealed gaps in HPV and HPV vaccine knowledge, as well as low vaccination coverage among medical students. The results indicate that enhancing education about HPV and HPV vaccines appears valuable for increasing HPV vaccine uptake.",
-              "title_ko": "인유두종 바이러스 (HPV) 및 HPV 백신에 대한 의대생의 지식과 태도: 중국 내몽골의 단면 조사."
+              "abstract": "The World Health Organization's Decision Framework for Vaccination in Acute Humanitarian Emergencies remains the principal global guide for vaccination prioritization and decision-making in crisis settings. However, it gives insufficient attention to sustaining vaccination as a matter of justice, as a means of upholding established human rights norms and the values that vaccines provide in these contexts. We argue that, if children living in conflict settings are to enjoy the same fundamental rights to life and health as children elsewhere, vaccination must be recognized as more than an emergency‑response intervention. We therefore propose a broader perspective to support guiding decisions to sustaining vaccination services that enhance the medium- and long-term resilience of health systems, and justice in conflict settings. We categorize the benefits and values of vaccination in conflict settings into three types: intrinsic, instrumental, and symbolic. We contend that vaccines are valuable in all three ways during humanitarian emergencies, and that this overlapping value means global health actors should prioritize sustaining vaccine delivery for children during conflicts.",
+              "title_ko": "갈등 상황에서 아동 예방 접종을 유지하는 본질적, 도구적, 상징적 가치."
             },
             {
               "pmid": "41503773",
@@ -4912,6 +4942,24 @@
           ]
         },
         {
+          "phrase": "adolescent mental",
+          "score": 31.0,
+          "paper_count": 2,
+          "pmids": [
+            "40708418",
+            "42374679"
+          ]
+        },
+        {
+          "phrase": "vaccination status",
+          "score": 30.7,
+          "paper_count": 2,
+          "pmids": [
+            "40028449",
+            "41906517"
+          ]
+        },
+        {
           "phrase": "screening cervical",
           "score": 30.7,
           "paper_count": 2,
@@ -4927,24 +4975,6 @@
           "pmids": [
             "41491555",
             "41641034"
-          ]
-        },
-        {
-          "phrase": "human papillomavirus",
-          "score": 23.8,
-          "paper_count": 2,
-          "pmids": [
-            "40469994",
-            "42802652"
-          ]
-        },
-        {
-          "phrase": "hpv vaccine",
-          "score": 23.8,
-          "paper_count": 2,
-          "pmids": [
-            "41503766",
-            "42802652"
           ]
         },
         {
@@ -4985,21 +5015,30 @@
             ]
           },
           {
+            "phrase": "post-exposure prophylaxis",
+            "scores": [
+              0.0,
+              0.0,
+              43.0,
+              16.9
+            ]
+          },
+          {
+            "phrase": "vaccination status",
+            "scores": [
+              0.0,
+              10.0,
+              30.7,
+              16.9
+            ]
+          },
+          {
             "phrase": "diabetes mellitus",
             "scores": [
               0.0,
               34.8,
               11.0,
-              21.0
-            ]
-          },
-          {
-            "phrase": "human papillomavirus",
-            "scores": [
-              0.0,
-              0.0,
-              33.8,
-              20.0
+              11.0
             ]
           },
           {
@@ -5019,15 +5058,6 @@
               30.7,
               10.0
             ]
-          },
-          {
-            "phrase": "quality life",
-            "scores": [
-              0.0,
-              40.7,
-              10.0,
-              0.0
-            ]
           }
         ]
       }
@@ -5035,8 +5065,100 @@
     {
       "key": "emergency",
       "label": "응급의학",
-      "paper_count": 453,
+      "paper_count": 455,
       "journals": [
+        {
+          "journal": "European respiratory review : an official journal of the European Respiratory Society",
+          "impact_factor": 1.5,
+          "index_type": "미상",
+          "quartile": "미상",
+          "paper_count": 2,
+          "top_paper": {
+            "pmid": "39631928",
+            "title": "Respiratory muscle dysfunction in acute and chronic respiratory failure: how to diagnose and how to treat?",
+            "journal": "European respiratory review : an official journal of the European Respiratory Society",
+            "impact_factor": 1.5,
+            "index_type": "미상",
+            "quartile": "미상",
+            "pubdate": "2024-12-04",
+            "authors": [
+              "Poddighe D",
+              "Van Hollebeke M",
+              "Rodrigues A"
+            ],
+            "citation_count": 24,
+            "rcr": 5.821943409744178,
+            "volume": "33",
+            "issue": "174",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/39631928/",
+            "altmetric_score": 0,
+            "altmetric_news": 0,
+            "altmetric_social": 0,
+            "is_current_issue": true,
+            "hot_score": 37.0,
+            "field": "emergency",
+            "field_label": "응급의학",
+            "abstract": "Assessing and treating respiratory muscle dysfunction is crucial for patients with both acute and chronic respiratory failure. Respiratory muscle dysfunction can contribute to the onset of respiratory failure and may also worsen due to interventions aimed at treatment. Evaluating respiratory muscle function is particularly valuable for diagnosing, phenotyping and assessing treatment efficacy in these patients. This review outlines established methods, such as measuring respiratory pressures, and explores novel techniques, including respiratory muscle neurophysiology assessments using electromyography and imaging with ultrasound.Additionally, we review various treatment strategies designed to support and alleviate the burden on overworked respiratory muscles or to enhance their capacity through training interventions. These strategies range from invasive and noninvasive mechanical ventilation approaches to specialised respiratory muscle training programmes. By summarising both established techniques and recent methodological advancements, this review aims to provide a comprehensive overview of the tools available in clinical practice for evaluating and treating respiratory muscle dysfunction. Our goal is to present a clear understanding of the current capabilities and limitations of these diagnostic and therapeutic approaches. Integrating advanced diagnostic methods and innovative treatment strategies should help improve patient management and outcomes. This comprehensive review serves as a resource for clinicians, equipping them with the necessary knowledge to effectively diagnose and treat respiratory muscle dysfunction in both acute and chronic respiratory failure scenarios.",
+            "title_ko": "급성 및 만성 호흡 부전의 호흡기 근육 기능 장애: 진단 방법 및 치료 방법?"
+          },
+          "papers": [
+            {
+              "pmid": "39631928",
+              "title": "Respiratory muscle dysfunction in acute and chronic respiratory failure: how to diagnose and how to treat?",
+              "journal": "European respiratory review : an official journal of the European Respiratory Society",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2024-12-04",
+              "authors": [
+                "Poddighe D",
+                "Van Hollebeke M",
+                "Rodrigues A"
+              ],
+              "citation_count": 24,
+              "rcr": 5.821943409744178,
+              "volume": "33",
+              "issue": "174",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/39631928/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": true,
+              "hot_score": 37.0,
+              "field": "emergency",
+              "field_label": "응급의학",
+              "abstract": "Assessing and treating respiratory muscle dysfunction is crucial for patients with both acute and chronic respiratory failure. Respiratory muscle dysfunction can contribute to the onset of respiratory failure and may also worsen due to interventions aimed at treatment. Evaluating respiratory muscle function is particularly valuable for diagnosing, phenotyping and assessing treatment efficacy in these patients. This review outlines established methods, such as measuring respiratory pressures, and explores novel techniques, including respiratory muscle neurophysiology assessments using electromyography and imaging with ultrasound.Additionally, we review various treatment strategies designed to support and alleviate the burden on overworked respiratory muscles or to enhance their capacity through training interventions. These strategies range from invasive and noninvasive mechanical ventilation approaches to specialised respiratory muscle training programmes. By summarising both established techniques and recent methodological advancements, this review aims to provide a comprehensive overview of the tools available in clinical practice for evaluating and treating respiratory muscle dysfunction. Our goal is to present a clear understanding of the current capabilities and limitations of these diagnostic and therapeutic approaches. Integrating advanced diagnostic methods and innovative treatment strategies should help improve patient management and outcomes. This comprehensive review serves as a resource for clinicians, equipping them with the necessary knowledge to effectively diagnose and treat respiratory muscle dysfunction in both acute and chronic respiratory failure scenarios.",
+              "title_ko": "급성 및 만성 호흡 부전의 호흡기 근육 기능 장애: 진단 방법 및 치료 방법?"
+            },
+            {
+              "pmid": "39694585",
+              "title": "Home mechanical ventilation in children: evolving indications in an era of new treatment options.",
+              "journal": "European respiratory review : an official journal of the European Respiratory Society",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2024-12-18",
+              "authors": [
+                "Tan HL",
+                "Chawla J"
+              ],
+              "citation_count": 7,
+              "rcr": 2.5810219617126786,
+              "volume": "33",
+              "issue": "174",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/39694585/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": true,
+              "hot_score": 27.4,
+              "field": "emergency",
+              "field_label": "응급의학",
+              "abstract": "Worldwide, there has been a dramatic increase in the use of paediatric home mechanical ventilation (HMV). In this review, we examine this rapid evolution in clinical practice through the prism of two distinct groups of children: those with neurodisability/medical complexity and patients with neuromuscular disease. We illustrate the changes in service provision for these two groups that are driven by a recognition that early intervention with HMV can enhance quality of life for these children and may complement the beneficial effects of novel disease-modifying medications to improve survival. Alongside this, we highlight the importance of balancing patient expectations with clinical need and discuss the ethical challenges that may be encountered when delivering HMV to this increasing population of children.",
+              "title_ko": "어린이의 가정 기계 환기: 새로운 치료 옵션의 시대에 진화하는 적응증."
+            }
+          ]
+        },
         {
           "journal": "Resuscitation",
           "impact_factor": 5.4,
@@ -5164,126 +5286,6 @@
               "field_label": "응급의학",
               "abstract": "INTRODUCTION: In 2022, Alzheimer disease was the seventh leading cause of death in the United States and affected an estimated 6.5 million adults age 65 and older. Adults with Alzheimer disease have been shown to rely on emergency departments (EDs) as a source for care. This report describes ED visits by adults age 65 and older with Alzheimer disease according to selected patient and visit characteristics and compares them with visits by adults without Alzheimer disease. METHODS: Data in this report are from the National Hospital Ambulatory Medical Care Survey, a nationally representative annual survey of nonfederal general and short-stay hospitals. Results are presented by combining data for 2020, 2021, and 2022 for more detailed subgroup analyses. Estimates and their corresponding variances were calculated using SAS-callable SUDAAN software and were based on 3-year annual averages. Differences between rates and percentages were evaluated using two-sided significance  t  tests at the 0.05 level. KEY FINDINGS: During 2020-2022, the annual ED visit rate by adults age 65 and older with Alzheimer's disease was 36.1 visits per 1,000 adults and increased with age. ED visit rates were highest among Black non-Hispanic people. Ambulance arrival was more frequent for ED visits by adults with Alzheimer's disease (61.0%) compared with visits by those without Alzheimer's disease (34.9%). About one-third (29.6%) of ED visits by adults with Alzheimer's disease were made by nursing home residents, higher than the corresponding percentage of visits by adults without Alzheimer's disease (5.9%). Approximately 37.2% of ED visits made by adults with Alzheimer's disease resulted in hospital admission, which was higher than the corresponding percentage of visits by those without Alzheimer's disease (28.6%).",
               "title_ko": "65세 이상 알츠하이머 질환을 가진 성인의 응급실 방문: 미국, 2020-2022."
-            }
-          ]
-        },
-        {
-          "journal": "European respiratory review : an official journal of the European Respiratory Society",
-          "impact_factor": 1.5,
-          "index_type": "미상",
-          "quartile": "미상",
-          "paper_count": 3,
-          "top_paper": {
-            "pmid": "39631928",
-            "title": "Respiratory muscle dysfunction in acute and chronic respiratory failure: how to diagnose and how to treat?",
-            "journal": "European respiratory review : an official journal of the European Respiratory Society",
-            "impact_factor": 1.5,
-            "index_type": "미상",
-            "quartile": "미상",
-            "pubdate": "2024-12-04",
-            "authors": [
-              "Poddighe D",
-              "Van Hollebeke M",
-              "Rodrigues A"
-            ],
-            "citation_count": 24,
-            "rcr": 5.821943409744178,
-            "volume": "33",
-            "issue": "174",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/39631928/",
-            "altmetric_score": 0,
-            "altmetric_news": 0,
-            "altmetric_social": 0,
-            "is_current_issue": false,
-            "hot_score": 27.0,
-            "field": "emergency",
-            "field_label": "응급의학",
-            "abstract": "Assessing and treating respiratory muscle dysfunction is crucial for patients with both acute and chronic respiratory failure. Respiratory muscle dysfunction can contribute to the onset of respiratory failure and may also worsen due to interventions aimed at treatment. Evaluating respiratory muscle function is particularly valuable for diagnosing, phenotyping and assessing treatment efficacy in these patients. This review outlines established methods, such as measuring respiratory pressures, and explores novel techniques, including respiratory muscle neurophysiology assessments using electromyography and imaging with ultrasound.Additionally, we review various treatment strategies designed to support and alleviate the burden on overworked respiratory muscles or to enhance their capacity through training interventions. These strategies range from invasive and noninvasive mechanical ventilation approaches to specialised respiratory muscle training programmes. By summarising both established techniques and recent methodological advancements, this review aims to provide a comprehensive overview of the tools available in clinical practice for evaluating and treating respiratory muscle dysfunction. Our goal is to present a clear understanding of the current capabilities and limitations of these diagnostic and therapeutic approaches. Integrating advanced diagnostic methods and innovative treatment strategies should help improve patient management and outcomes. This comprehensive review serves as a resource for clinicians, equipping them with the necessary knowledge to effectively diagnose and treat respiratory muscle dysfunction in both acute and chronic respiratory failure scenarios.",
-            "title_ko": "급성 및 만성 호흡 부전의 호흡기 근육 기능 장애: 진단 방법 및 치료 방법?"
-          },
-          "papers": [
-            {
-              "pmid": "39631928",
-              "title": "Respiratory muscle dysfunction in acute and chronic respiratory failure: how to diagnose and how to treat?",
-              "journal": "European respiratory review : an official journal of the European Respiratory Society",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2024-12-04",
-              "authors": [
-                "Poddighe D",
-                "Van Hollebeke M",
-                "Rodrigues A"
-              ],
-              "citation_count": 24,
-              "rcr": 5.821943409744178,
-              "volume": "33",
-              "issue": "174",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/39631928/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": false,
-              "hot_score": 27.0,
-              "field": "emergency",
-              "field_label": "응급의학",
-              "abstract": "Assessing and treating respiratory muscle dysfunction is crucial for patients with both acute and chronic respiratory failure. Respiratory muscle dysfunction can contribute to the onset of respiratory failure and may also worsen due to interventions aimed at treatment. Evaluating respiratory muscle function is particularly valuable for diagnosing, phenotyping and assessing treatment efficacy in these patients. This review outlines established methods, such as measuring respiratory pressures, and explores novel techniques, including respiratory muscle neurophysiology assessments using electromyography and imaging with ultrasound.Additionally, we review various treatment strategies designed to support and alleviate the burden on overworked respiratory muscles or to enhance their capacity through training interventions. These strategies range from invasive and noninvasive mechanical ventilation approaches to specialised respiratory muscle training programmes. By summarising both established techniques and recent methodological advancements, this review aims to provide a comprehensive overview of the tools available in clinical practice for evaluating and treating respiratory muscle dysfunction. Our goal is to present a clear understanding of the current capabilities and limitations of these diagnostic and therapeutic approaches. Integrating advanced diagnostic methods and innovative treatment strategies should help improve patient management and outcomes. This comprehensive review serves as a resource for clinicians, equipping them with the necessary knowledge to effectively diagnose and treat respiratory muscle dysfunction in both acute and chronic respiratory failure scenarios.",
-              "title_ko": "급성 및 만성 호흡 부전의 호흡기 근육 기능 장애: 진단 방법 및 치료 방법?"
-            },
-            {
-              "pmid": "39694585",
-              "title": "Home mechanical ventilation in children: evolving indications in an era of new treatment options.",
-              "journal": "European respiratory review : an official journal of the European Respiratory Society",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2024-12-18",
-              "authors": [
-                "Tan HL",
-                "Chawla J"
-              ],
-              "citation_count": 7,
-              "rcr": 2.5810219617126786,
-              "volume": "33",
-              "issue": "174",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/39694585/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": false,
-              "hot_score": 17.4,
-              "field": "emergency",
-              "field_label": "응급의학",
-              "abstract": "Worldwide, there has been a dramatic increase in the use of paediatric home mechanical ventilation (HMV). In this review, we examine this rapid evolution in clinical practice through the prism of two distinct groups of children: those with neurodisability/medical complexity and patients with neuromuscular disease. We illustrate the changes in service provision for these two groups that are driven by a recognition that early intervention with HMV can enhance quality of life for these children and may complement the beneficial effects of novel disease-modifying medications to improve survival. Alongside this, we highlight the importance of balancing patient expectations with clinical need and discuss the ethical challenges that may be encountered when delivering HMV to this increasing population of children.",
-              "title_ko": "어린이의 가정 기계 환기: 새로운 치료 옵션의 시대에 진화하는 적응증."
-            },
-            {
-              "pmid": "42778203",
-              "title": "Right ventricular-protective ventilation in acute respiratory distress syndrome: phenotypes, monitoring and ventilatory management.",
-              "journal": "European respiratory review : an official journal of the European Respiratory Society",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2026-09-23",
-              "authors": [
-                "Peng C",
-                "Yang L",
-                "Wu Y"
-              ],
-              "citation_count": 0,
-              "rcr": null,
-              "volume": "35",
-              "issue": "181",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/42778203/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": true,
-              "hot_score": 10.0,
-              "field": "emergency",
-              "field_label": "응급의학",
-              "abstract": "Despite the widespread implementation of lung-protective ventilation, mortality in acute respiratory distress syndrome (ARDS) remains substantial, underscoring the importance of extrapulmonary determinants of outcome. Right ventricular (RV) dysfunction is recognised as a frequent and clinically meaningful complication of ARDS, affecting a sizeable proportion of patients and consistently associated with adverse outcomes. ARDS-related pulmonary vascular injury, including hypoxic pulmonary vasoconstriction, hypercapnia and acidosis, microangiopathy, and an imbalance in vasoconstrictor/vasodilator signalling, reduces the functional pulmonary vascular bed and increases pulmonary vascular resistance, thereby imposing an acute afterload challenge on the thin-walled right ventricle. Mechanical ventilation may further exacerbate RV stress through alveolar overdistension, increased intrathoracic pressure and decreased venous return, promoting RV dilation, RV-pulmonary arterial uncoupling and circulatory collapse in severe cases. In this review, we summarise the pathophysiological basis of RV injury in ARDS and propose a physiology-informed clinical framework integrating RV phenotyping with multimodal monitoring. This includes echocardiography as the bedside cornerstone, selected invasive haemodynamic assessments and emerging noninvasive techniques such as electrical impedance tomography, as well as advanced cardiac imaging modalities and serological biomarkers for complementary assessment. We further discuss key components of RV-protective ventilation, including limitation of tidal volume and airway pressures, haemodynamics and recruitability-guided positive end-expiratory pressure titration, cautious use of permissive hypercapnia, avoidance of excessive mean airway pressure, prone positioning, appropriate application of spontaneous breathing and extracorporeal support to facilitate ultra-protective lung ventilation. Finally, we highlight unresolved clinical questions and emphasise the need for prospective studies incorporating standardised RV phenotypes and RV-centred end-points.",
-              "title_ko": "급성 호흡 곤란 증후군에서의 우심실 보호 환기: 표현형, 모니터링 및 환기 관리."
             }
           ]
         },
@@ -5476,7 +5478,7 @@
             "field": "emergency",
             "field_label": "응급의학",
             "abstract": "PURPOSE: This study aimed to assess the levels and sources of noise in the emergency intensive care unit (EICU) of an emergency department and investigate their effects on the sleep quality of conscious patients. METHODS: A study was conducted on patients admitted to the EICU from December 2020 to December 2023. They were categorised according to their sleep quality with the Pittsburgh Sleep Quality Index. Environmental noise levels were measured using precision sound level metres and environmental noise automatic monitoring instruments. Data analysis was performed using SPSS version 25.0, and Chi-square test, Fisher's exact probability and t-tests were conducted when applicable. The significance threshold was set at P < 0.05. Regression analysis was carried out for indicators with significant differences. RESULTS: A total of 200 patients were included in the study. Of them 96 in the ideal sleep group and 104 in the non-ideal sleep group. Patients with non-ideal sleep experienced significantly higher noise levels across various measures (P < 0.05). Additionally, patients with non-ideal sleep reported significantly higher occurrences of noise-related awakening, difficulty in falling asleep, nightmares or vivid dreams and sleepwalking episodes (P < 0.05). Significant differences in staff activities, including staff conversations, equipment noise exposure, cleaning activities, patient interventions and overhead pages, were observed between the groups (P < 0.05). Multivariate logistic regression analysis indicating that the average noise level, conversational speech, equipment alarms, ambient noise, peak noise levels, staff conversations, cleaning activities, patient interventions and overhead pages were significant contributors to poor sleep. CONCLUSION: The study suggested that high noise levels and staff-related activities affected the sleep quality of conscious patients in the EICU. Targeted measures could improve the prognoses of patients.",
-            "title_ko": ""
+            "title_ko": "응급 중환자실의 의식 환자의 수면 질에 대한 소음의 수준과 원천의 영향."
           },
           "papers": [
             {
@@ -5504,7 +5506,7 @@
               "field": "emergency",
               "field_label": "응급의학",
               "abstract": "PURPOSE: This study aimed to assess the levels and sources of noise in the emergency intensive care unit (EICU) of an emergency department and investigate their effects on the sleep quality of conscious patients. METHODS: A study was conducted on patients admitted to the EICU from December 2020 to December 2023. They were categorised according to their sleep quality with the Pittsburgh Sleep Quality Index. Environmental noise levels were measured using precision sound level metres and environmental noise automatic monitoring instruments. Data analysis was performed using SPSS version 25.0, and Chi-square test, Fisher's exact probability and t-tests were conducted when applicable. The significance threshold was set at P < 0.05. Regression analysis was carried out for indicators with significant differences. RESULTS: A total of 200 patients were included in the study. Of them 96 in the ideal sleep group and 104 in the non-ideal sleep group. Patients with non-ideal sleep experienced significantly higher noise levels across various measures (P < 0.05). Additionally, patients with non-ideal sleep reported significantly higher occurrences of noise-related awakening, difficulty in falling asleep, nightmares or vivid dreams and sleepwalking episodes (P < 0.05). Significant differences in staff activities, including staff conversations, equipment noise exposure, cleaning activities, patient interventions and overhead pages, were observed between the groups (P < 0.05). Multivariate logistic regression analysis indicating that the average noise level, conversational speech, equipment alarms, ambient noise, peak noise levels, staff conversations, cleaning activities, patient interventions and overhead pages were significant contributors to poor sleep. CONCLUSION: The study suggested that high noise levels and staff-related activities affected the sleep quality of conscious patients in the EICU. Targeted measures could improve the prognoses of patients.",
-              "title_ko": ""
+              "title_ko": "응급 중환자실의 의식 환자의 수면 질에 대한 소음의 수준과 원천의 영향."
             }
           ]
         },
@@ -5540,7 +5542,7 @@
             "field": "emergency",
             "field_label": "응급의학",
             "abstract": "AIM: To characterise key features of young people presenting to the emergency department (ED) with a mental health complaint when comparing children (aged 7 to 12 years) and teenagers (13 years and greater). METHODS: Retrospective review of all ED mental health presentations in children aged 7-17 years presenting over a 12-month period in 2018 to a tertiary children's hospital in Victoria, Australia. Univariate analyses were carried out to examine the relationship between children and teenagers and a number of key presentation variables. Odds Ratios (ORs) and 95% Confidence Intervals (CIs) were calculated for ED management outcomes. RESULTS: There were 1691 ED mental health presentations in 2018. Of these presentations, 407 (24%) were children aged 12 years or less. The remaining 76% (1284) were teenagers. The younger aged cohort were more likely to be male (OR 2.43, CI 1.92-3.08) and have a past history of autism spectrum disorder (OR 1.92, CI 1.45-1.84). They were more likely to have a presenting complaint of acute behavioural disturbance (OR 2.03, CI 1.59-2.60), be physically restrained (OR 2.01, CI 1.18-3.37) and have sedative medication provided (OR 2.87, CI 1.63-5.04). The older aged cohort were more likely to have a past history of depression (OR 0.19, CI 0.12-0.29) and a presenting complaint of intentional self-poisoning (OR 0.33, CI 0.15-0.65). CONCLUSIONS: Children aged 12 years or less represent one-quarter of all young people presenting to the ED with a mental health concern. They experience high rates of acute behavioural disturbance and are more likely to require restrictive interventions during their presentation.",
-            "title_ko": ""
+            "title_ko": "유아의 응급실 정신 건강 프레젠테이션: 회고 도표 검토."
           },
           "papers": [
             {
@@ -5569,7 +5571,7 @@
               "field": "emergency",
               "field_label": "응급의학",
               "abstract": "AIM: To characterise key features of young people presenting to the emergency department (ED) with a mental health complaint when comparing children (aged 7 to 12 years) and teenagers (13 years and greater). METHODS: Retrospective review of all ED mental health presentations in children aged 7-17 years presenting over a 12-month period in 2018 to a tertiary children's hospital in Victoria, Australia. Univariate analyses were carried out to examine the relationship between children and teenagers and a number of key presentation variables. Odds Ratios (ORs) and 95% Confidence Intervals (CIs) were calculated for ED management outcomes. RESULTS: There were 1691 ED mental health presentations in 2018. Of these presentations, 407 (24%) were children aged 12 years or less. The remaining 76% (1284) were teenagers. The younger aged cohort were more likely to be male (OR 2.43, CI 1.92-3.08) and have a past history of autism spectrum disorder (OR 1.92, CI 1.45-1.84). They were more likely to have a presenting complaint of acute behavioural disturbance (OR 2.03, CI 1.59-2.60), be physically restrained (OR 2.01, CI 1.18-3.37) and have sedative medication provided (OR 2.87, CI 1.63-5.04). The older aged cohort were more likely to have a past history of depression (OR 0.19, CI 0.12-0.29) and a presenting complaint of intentional self-poisoning (OR 0.33, CI 0.15-0.65). CONCLUSIONS: Children aged 12 years or less represent one-quarter of all young people presenting to the ED with a mental health concern. They experience high rates of acute behavioural disturbance and are more likely to require restrictive interventions during their presentation.",
-              "title_ko": ""
+              "title_ko": "유아의 응급실 정신 건강 프레젠테이션: 회고 도표 검토."
             }
           ]
         },
@@ -6898,7 +6900,7 @@
           "impact_factor": 1.5,
           "index_type": "미상",
           "quartile": "미상",
-          "paper_count": 30,
+          "paper_count": 29,
           "top_paper": {
             "pmid": "39694769",
             "title": "A Review of Pediatric Appendicitis Imaging Trends from 2006-2020 Using the Nationwide Emergency Department Sample.",
@@ -7697,6 +7699,99 @@
               "field": "emergency",
               "field_label": "응급의학",
               "abstract": "OBJECTIVE: To provide a conceptual framework for the management of traumatic brain injury (TBI) in pregnant women, integrating pathophysiological foundations, available scientific evidence, and current clinical strategies to support decision-making. MATERIALS AND METHODS: Based on a hypothetical case that practically illustrates the topic, an explanatory document was developed using a structured narrative review. It describes the physiological changes of pregnancy relevant to TBI, the principles of initial resuscitation, the management of intracranial hypertension, the use of neuromonitoring, obstetric care, and the ethical implications associated with maternal death by neurologic criteria. RESULTS: Pregnancy involves anatomical and functional adaptations that alter the maternal response to trauma. These modifications affect the airway, hemodynamics, oxygenation, and cerebral autoregulation, necessitating adjustments in clinical management. Key aspects include initial stabilization, control of intracranial hypertension, neuromonitoring, obstetric care, and ethical considerations in scenarios of maternal death by neurologic criteria. CONCLUSIONS: The management of TBI in pregnant patients is a clinical challenge that requires an understanding of maternal physiology and its impact on acute brain injury. Given the lack of specific guidelines and recommendations, those established for the general population should be applied with careful consideration of the physiological changes of pregnancy.",
+              "title_ko": ""
+            }
+          ]
+        },
+        {
+          "journal": "Igiene e sanita pubblica",
+          "impact_factor": 1.5,
+          "index_type": "미상",
+          "quartile": "미상",
+          "paper_count": 2,
+          "top_paper": {
+            "pmid": "41385469",
+            "title": "Improve the quality of patient care in the Emergency Department. Physical Therapist and Advanced Practice in Emergency Department: A scoping review.",
+            "journal": "Igiene e sanita pubblica",
+            "impact_factor": 1.5,
+            "index_type": "미상",
+            "quartile": "미상",
+            "pubdate": "2025-09-01",
+            "authors": [
+              "Servadio A",
+              "Molinari MR",
+              "Gigli L"
+            ],
+            "citation_count": 1,
+            "rcr": null,
+            "volume": "98",
+            "issue": "5",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/41385469/",
+            "altmetric_score": 0,
+            "altmetric_news": 0,
+            "altmetric_social": 0,
+            "is_current_issue": true,
+            "hot_score": 15.8,
+            "field": "emergency",
+            "field_label": "응급의학",
+            "abstract": "BACKGROUND: Emergency departments (EDs) worldwide are increasingly adopting multidisciplinary models of care in which physiotherapists play an evolving and expanding role. International evidence suggests that physiotherapy-led pathways may improve the management of low-acuity presentations such as musculoskeletal and vestibular conditions, which contribute substantially to ED overcrowding. In Italy, however, physiotherapists are not yet structurally integrated into ED teams, and the potential applicability of advanced physiotherapy roles remains unclear. OBJECTIVE: The objective of this scoping review is to identify, map, and describe current international models of physiotherapy practice within Emergency Departments, including first-contact roles, advanced practice, direct-access models, and multidisciplinary roles, and to explore their impact on the management of non-urgent conditions such as minor injuries, musculoskeletal disorders, and vestibular presentations. METHODS: This review followed the Preferred Reporting Items for Systematic Reviews and Meta-Analyses Extension for Scoping Reviews (PRISMA-ScR). A systematic search of PubMed and Google Scholar was conducted from inception to November 2025, including peer-reviewed studies in English that described, evaluated, or implemented physiotherapy roles in EDs. Eligible populations were ED patients of any age presenting with non-urgent musculoskeletal, traumatic, or vestibular conditions. Data were charted on study design, setting, models of practice, clinical populations, and reported outcomes. RESULTS: The included studies were primarily conducted in Australia, Canada, and the United Kingdom, and comprised service evaluations, retrospective reviews, quality-of-care studies, pilot projects, validation studies of screening tools, and mixed-methods evaluations of pediatric pathways. Physiotherapy practice in Emergency Departments is mainly organized into First Contact Physiotherapy, Advanced Practice, and Direct Access models, often embedded within specialized pathways for musculoskeletal, vestibular, pediatric, or geriatric care. Overall, physiotherapist-led care is associated with reduced waiting times and ED length of stay, earlier administration of analgesia, improved clinical outcomes (including reduced pain and improved vestibular symptoms), high diagnostic agreement with emergency physicians, lower use of imaging and follow-up services, and high satisfaction among patients, parents, and clinicians. No serious adverse events related to physiotherapy interventions were reported. Most studies were observational, with a limited number of randomized or controlled studies, and no studies were conducted in Italy. CONCLUSIONS: International evidence indicates that physiotherapists can make a meaningful contribution to emergency department care, particularly for low-acuity musculoskeletal and vestibular presentations, through primary contact, advanced practice, and direct-access models. These roles appear safe, effective, and well accepted by patients and clinicians. However, the lack of Italian data, combined with a different regulatory framework and limited autonomy for physiotherapists, currently hinders the translation of these models into the Italian context. Pilot implementations and context-specific evaluations are needed to assess the feasibility and impact of integrating physiotherapists into Italian emergency departments.",
+            "title_ko": ""
+          },
+          "papers": [
+            {
+              "pmid": "41385469",
+              "title": "Improve the quality of patient care in the Emergency Department. Physical Therapist and Advanced Practice in Emergency Department: A scoping review.",
+              "journal": "Igiene e sanita pubblica",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2025-09-01",
+              "authors": [
+                "Servadio A",
+                "Molinari MR",
+                "Gigli L"
+              ],
+              "citation_count": 1,
+              "rcr": null,
+              "volume": "98",
+              "issue": "5",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/41385469/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": true,
+              "hot_score": 15.8,
+              "field": "emergency",
+              "field_label": "응급의학",
+              "abstract": "BACKGROUND: Emergency departments (EDs) worldwide are increasingly adopting multidisciplinary models of care in which physiotherapists play an evolving and expanding role. International evidence suggests that physiotherapy-led pathways may improve the management of low-acuity presentations such as musculoskeletal and vestibular conditions, which contribute substantially to ED overcrowding. In Italy, however, physiotherapists are not yet structurally integrated into ED teams, and the potential applicability of advanced physiotherapy roles remains unclear. OBJECTIVE: The objective of this scoping review is to identify, map, and describe current international models of physiotherapy practice within Emergency Departments, including first-contact roles, advanced practice, direct-access models, and multidisciplinary roles, and to explore their impact on the management of non-urgent conditions such as minor injuries, musculoskeletal disorders, and vestibular presentations. METHODS: This review followed the Preferred Reporting Items for Systematic Reviews and Meta-Analyses Extension for Scoping Reviews (PRISMA-ScR). A systematic search of PubMed and Google Scholar was conducted from inception to November 2025, including peer-reviewed studies in English that described, evaluated, or implemented physiotherapy roles in EDs. Eligible populations were ED patients of any age presenting with non-urgent musculoskeletal, traumatic, or vestibular conditions. Data were charted on study design, setting, models of practice, clinical populations, and reported outcomes. RESULTS: The included studies were primarily conducted in Australia, Canada, and the United Kingdom, and comprised service evaluations, retrospective reviews, quality-of-care studies, pilot projects, validation studies of screening tools, and mixed-methods evaluations of pediatric pathways. Physiotherapy practice in Emergency Departments is mainly organized into First Contact Physiotherapy, Advanced Practice, and Direct Access models, often embedded within specialized pathways for musculoskeletal, vestibular, pediatric, or geriatric care. Overall, physiotherapist-led care is associated with reduced waiting times and ED length of stay, earlier administration of analgesia, improved clinical outcomes (including reduced pain and improved vestibular symptoms), high diagnostic agreement with emergency physicians, lower use of imaging and follow-up services, and high satisfaction among patients, parents, and clinicians. No serious adverse events related to physiotherapy interventions were reported. Most studies were observational, with a limited number of randomized or controlled studies, and no studies were conducted in Italy. CONCLUSIONS: International evidence indicates that physiotherapists can make a meaningful contribution to emergency department care, particularly for low-acuity musculoskeletal and vestibular presentations, through primary contact, advanced practice, and direct-access models. These roles appear safe, effective, and well accepted by patients and clinicians. However, the lack of Italian data, combined with a different regulatory framework and limited autonomy for physiotherapists, currently hinders the translation of these models into the Italian context. Pilot implementations and context-specific evaluations are needed to assess the feasibility and impact of integrating physiotherapists into Italian emergency departments.",
+              "title_ko": ""
+            },
+            {
+              "pmid": "41385464",
+              "title": "A challenge to improve the Quality of Care.Rehabilitation outcome measures in the Emergency Department: a scoping review.",
+              "journal": "Igiene e sanita pubblica",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2025-09-01",
+              "authors": [
+                "Galeoto G",
+                "Molinari MR",
+                "Gigli L"
+              ],
+              "citation_count": 0,
+              "rcr": null,
+              "volume": "98",
+              "issue": "5",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/41385464/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": true,
+              "hot_score": 10.0,
+              "field": "emergency",
+              "field_label": "응급의학",
+              "abstract": "BACKGROUND: The integration of physiotherapists within Emergency Departments (EDs) is increasing internationally; however, the outcome measures employed in this setting remain heterogeneous and largely non-standardized. OBJECTIVE: To map and describe clinical, functional, psychological, prognostic, and patient experience outcome measures currently used by physiotherapists working in EDs. METHODS: A scoping review was conducted following PRISMA-ScR guidelines. PubMed and Google Scholar were searched from their inception to November 2025. Studies were included if they involved patients of any age presenting to the ED with musculoskeletal, traumatic, vestibular conditions or concussion, where physiotherapists applied or reported at least one standardized outcome measure. Two reviewers independently screened titles, abstracts, and full texts. RESULTS: Of 9,790 records identified, 27 met eligibility criteria. Most research originated from Australia, Canada, the United Kingdom, Ireland, and the United States, primarily involving low-complexity musculoskeletal conditions, vestibular disorders, and concussion, including pediatric pathways. Pain intensity scales (NPRS, VAS) and pain interference (BPI-PI) were the most commonly used measures. Functional and disability outcomes (NDI, ODI/mODI, LEFS, QuickDASH, PROMIS Physical Function, PSFS) were predominantly applied during post-ED follow-up. Psychological and prognostic instruments (PCS, STarT Back, 5P Rule) supported risk stratification, while PREMs such as PedsQL Healthcare Satisfaction, SAPS, and VSQ-9 assessed patient experience. Considerable heterogeneity in outcome measurement remains, with few randomized trials, limited long-term follow-up, and scarce economic evaluations. No studies were identified from Italy or Southern Europe. CONCLUSIONS: The use of validated outcome measures by physiotherapists in EDs is feasible and clinically valuable; however, a lack of standardization and limited high-quality evidence particularly within the Italian healthcare context highlight the need for further research to establish shared outcome sets and transferable models of care.",
               "title_ko": ""
             }
           ]
@@ -9582,75 +9677,12 @@
               "title_ko": ""
             }
           ]
-        },
-        {
-          "journal": "Applied nursing research : ANR",
-          "impact_factor": 1.5,
-          "index_type": "미상",
-          "quartile": "미상",
-          "paper_count": 1,
-          "top_paper": {
-            "pmid": "39617606",
-            "title": "Emergency department nurses' reflective thinking and patient safety competency: The mediating effect of patient safety culture.",
-            "journal": "Applied nursing research : ANR",
-            "impact_factor": 1.5,
-            "index_type": "미상",
-            "quartile": "미상",
-            "pubdate": "2024-09-24",
-            "authors": [
-              "Park MN",
-              "Roh YS"
-            ],
-            "citation_count": 4,
-            "rcr": 2.427905989085186,
-            "volume": "80",
-            "issue": "",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/39617606/",
-            "altmetric_score": 0,
-            "altmetric_news": 0,
-            "altmetric_social": 0,
-            "is_current_issue": false,
-            "hot_score": 13.5,
-            "field": "emergency",
-            "field_label": "응급의학",
-            "abstract": "AIM: This study aimed to identify the mediating effect of patient safety culture on the relationship between reflective thinking and patient safety competency in emergency department nurses. BACKGROUND: Given the complexity and the need for timely assessments and interventions in the emergency department, the patient safety competency of nurses is crucial for preventing safety incidents. METHODS: This study utilized a cross-sectional descriptive correlational design with a convenience sample of 200 emergency department nurses. Participants completed a web-based, self-administered questionnaire that assessed reflective thinking, patient safety culture, and patient safety competency. The percentile bootstrap method for mediation analysis was performed to ascertain the mediating role of patient safety culture in the relationship between reflective thinking and patient safety competency. RESULTS: Both reflective thinking and patient safety culture were significant predictors of patient safety competency. Furthermore, patient safety culture was found to mediate the relationship between reflective thinking and patient safety competency among emergency department nurses. CONCLUSIONS: The findings suggest that emergency department nurses could benefit from a competency enhancement program or quality improvement projects that focus on reflective thinking and patient safety culture, which are significant predictors of patient safety competency.",
-            "title_ko": ""
-          },
-          "papers": [
-            {
-              "pmid": "39617606",
-              "title": "Emergency department nurses' reflective thinking and patient safety competency: The mediating effect of patient safety culture.",
-              "journal": "Applied nursing research : ANR",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2024-09-24",
-              "authors": [
-                "Park MN",
-                "Roh YS"
-              ],
-              "citation_count": 4,
-              "rcr": 2.427905989085186,
-              "volume": "80",
-              "issue": "",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/39617606/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": false,
-              "hot_score": 13.5,
-              "field": "emergency",
-              "field_label": "응급의학",
-              "abstract": "AIM: This study aimed to identify the mediating effect of patient safety culture on the relationship between reflective thinking and patient safety competency in emergency department nurses. BACKGROUND: Given the complexity and the need for timely assessments and interventions in the emergency department, the patient safety competency of nurses is crucial for preventing safety incidents. METHODS: This study utilized a cross-sectional descriptive correlational design with a convenience sample of 200 emergency department nurses. Participants completed a web-based, self-administered questionnaire that assessed reflective thinking, patient safety culture, and patient safety competency. The percentile bootstrap method for mediation analysis was performed to ascertain the mediating role of patient safety culture in the relationship between reflective thinking and patient safety competency. RESULTS: Both reflective thinking and patient safety culture were significant predictors of patient safety competency. Furthermore, patient safety culture was found to mediate the relationship between reflective thinking and patient safety competency among emergency department nurses. CONCLUSIONS: The findings suggest that emergency department nurses could benefit from a competency enhancement program or quality improvement projects that focus on reflective thinking and patient safety culture, which are significant predictors of patient safety competency.",
-              "title_ko": ""
-            }
-          ]
         }
       ],
       "hot_topics": [
         {
           "phrase": "mechanical ventilation",
-          "score": 85.7,
+          "score": 95.7,
           "paper_count": 5,
           "pmids": [
             "39694585",
@@ -9720,6 +9752,15 @@
           ]
         },
         {
+          "phrase": "home mechanical",
+          "score": 37.4,
+          "paper_count": 2,
+          "pmids": [
+            "39694585",
+            "42658053"
+          ]
+        },
+        {
           "phrase": "ventilator-associated pneumonia",
           "score": 33.4,
           "paper_count": 2,
@@ -9747,15 +9788,6 @@
           ]
         },
         {
-          "phrase": "home mechanical",
-          "score": 27.4,
-          "paper_count": 2,
-          "pmids": [
-            "39694585",
-            "42658053"
-          ]
-        },
-        {
           "phrase": "covid- triage",
           "score": 27.4,
           "paper_count": 2,
@@ -9777,9 +9809,9 @@
             "phrase": "mechanical ventilation",
             "scores": [
               0.0,
-              71.5,
+              81.5,
               62.4,
-              70.0
+              60.0
             ]
           },
           {
@@ -9810,21 +9842,21 @@
             ]
           },
           {
+            "phrase": "respiratory failure",
+            "scores": [
+              0.0,
+              37.0,
+              9.2,
+              20.0
+            ]
+          },
+          {
             "phrase": "first aid",
             "scores": [
               0.0,
               38.5,
               25.8,
               0.0
-            ]
-          },
-          {
-            "phrase": "trauma center",
-            "scores": [
-              0.0,
-              31.6,
-              0.0,
-              30.0
             ]
           }
         ]
