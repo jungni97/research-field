@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-01T20:20:13.998736Z",
+  "generated_at": "2026-10-02T20:19:24.827705Z",
   "window_days": 1095,
   "fields": [
     {
       "key": "preventive",
       "label": "예방의학",
-      "paper_count": 449,
+      "paper_count": 441,
       "journals": [
         {
           "journal": "The Orthopedic clinics of North America",
@@ -462,7 +462,7 @@
           "impact_factor": 1.5,
           "index_type": "미상",
           "quartile": "미상",
-          "paper_count": 96,
+          "paper_count": 99,
           "top_paper": {
             "pmid": "39949340",
             "title": "Analysis of factors influencing HPV vaccination intention among Chinese college students: structural equation modeling based on health belief theory.",
@@ -809,23 +809,23 @@
               "title_ko": "임산부의 Tdap 백신 단독 사용에 대한 위험 신호 평가: 업데이트된 약물 역학적 연구."
             },
             {
-              "pmid": "42774241",
-              "title": "Post-marketing safety surveillance of tetanus, diphtheria, and acellular pertussis (Tdap) vaccine: a disproportionality analysis of the vaccine adverse event reporting system (2015-2025).",
+              "pmid": "42824104",
+              "title": "Immunization with a multisubunit vaccine induces immunological memory and cross-protective immunity against heterologous Chlamydia serovars.",
               "journal": "Frontiers in cellular and infection microbiology",
               "impact_factor": 1.5,
               "index_type": "미상",
               "quartile": "미상",
-              "pubdate": "2026-09-08",
+              "pubdate": "2026-09-17",
               "authors": [
-                "Song W",
-                "Chen H",
-                "Wang M"
+                "Medhavi F",
+                "Richardson S",
+                "Pais R"
               ],
               "citation_count": 0,
               "rcr": null,
               "volume": "16",
               "issue": "",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/42774241/",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/42824104/",
               "altmetric_score": 0,
               "altmetric_news": 0,
               "altmetric_social": 0,
@@ -833,8 +833,8 @@
               "hot_score": 0.0,
               "field": "preventive",
               "field_label": "예방의학",
-              "abstract": "BACKGROUND: The tetanus, diphtheria, and acellular pertussis (Tdap) vaccine is routinely recommended for adolescents, adults, and pregnant individuals. Ongoing post-marketing surveillance is critical to monitor its safety profile and detect rare or unexpected adverse events (AEs) following immunization. This study aims to comprehensively analyze Tdap-related AEs reported to the Vaccine Adverse Event Reporting System (VAERS) over the past decade, with a focus on safety profiles in specific subpopulations. METHODS: We retrospectively analyzed US AE reports related to Tdap vaccination from VAERS for the period 2015 to May 2025. Data mining was conducted using four disproportionality algorithms: Reporting Odds Ratio (ROR), Proportional Reporting Ratio (PRR), Bayesian Confidence Propagation Neural Network (BCPNN), and Multi-Item Gamma Poisson Shrinkage (MGPS). The False Discovery Rate (FDR) was controlled at 5% to minimize false positives. Subgroup analyses focused on adolescents (aged 10-18 years), older adults (aged ≥65 years), pregnant individuals, and sex-based subgroups (males vs. non-pregnant females). Time of onset was characterized using Weibull distribution analysis. RESULTS: A total of 20,128 AE reports were identified, with 95.80% classified as non-serious. Injection site erythema, injection site swelling, and erythema were the most frequently reported positive signals. The majority of AEs (70.31%) occurred within one day of vaccination, showing an \"early failure\" pattern in Weibull analysis. Tdap did not exhibit any disproportionate accumulation of unexpected AEs among older adults. Among 744 pregnancy-related reports, no new or unexpected safety signals related to maternal or fetal outcomes were detected. Notably, the adolescent subgroup showed a significant signal for opisthotonus (ROR = 8.55). In non-pregnant females, bursal fluid accumulation (ROR = 21.22) and radiculitis brachial (ROR = 14.42) were disproportionately elevated, whereas no such signals were found in males. CONCLUSIONS: This 10-year surveillance study revealed no unexpected signals for Tdap in the overall population, older adults, males, or pregnant women. While most reports were non-serious, the signals of radiculitis brachial in non-pregnant females generate hypotheses that require formal testing in active surveillance systems. Our findings are generally consistent with the current Tdap vaccination recommendations and highlight the importance of ongoing post-marketing surveillance.",
-              "title_ko": "파상풍, 디프테리아 및 비세포 백일해 (Tdap) 백신의 시판 후 안전성 감시: 백신 부작용 보고 시스템의 불균형 분석 (2015-2025)."
+              "abstract": "We previously reported that intramuscular (IM) and intranasal (IN) immunization with a recombinant Vibrio cholerae (rVCG)-based multiepitope subunit vaccine (rVCG-MECA) elicited robust long-lasting, cellular, and humoral immune effectors that protected mice against transcervical (TC) challenge infection with the homologous C. trachomatis (CT) serovar D. In this study, we evaluated the ability of this vaccine to confer cross-protection against primary and secondary infection with the heterologous CT serovars F and J and induce cross-reactive immunological memory following reinfection. Thus, groups of female C57BL/6 mice were immunized and boosted twice IM or IN 2 weeks apart with rVCG-MECA or PBS or unimmunized (naïve) controls. Vaccine immunization elicited serum immunoglobulin G (IgG) antibodies with moderate to high avidity. Four weeks postimmunization, mice were challenged transcervically with 1 × 106 IFU of CT serovar F or J and rechallenged 10 weeks after initial challenge. The humoral and cell-mediated immune responses elicited at weeks 1 and 4 following rechallenge were evaluated. Irrespective of route of immunization, all immunized mice had significantly (p < 0.0001) reduced genital bacterial burden beginning as early as day 3 following primary challenge infection with the heterologous serovars F and J and completely the infection by day 21. However, PBS control mice still shed high numbers of Chlamydia at this time point. Also, mice rechallenged with serovars F and J 70 days after the primary challenge completely cleared the secondary infection by day 15. Furthermore, rechallenge of mice with serovars F and J resulted in the elicitation of high levels of chlamydial-specific IgG2a and IgA antibodies in sera and vaginal secretions as well as the production of high concentrations of the T helper-1 (Th1) cytokines, interferon-γ (IFN-γ) and interleukin-12 (IL-12), and low levels of the Th2 cytokine, IL-4, in the spleen and draining lymph nodes. These findings demonstrate that rVCG-MECA induces durable, cross-protective immunity against multiple CT serovars, indicating its potential as a promising universal vaccine candidate for the prevention of genital chlamydial infections.",
+              "title_ko": "다중 서브유닛 백신으로 예방 접종은 이종 클라미디아 혈청에 대한 면역학적 기억과 교차 보호 면역을 유도합니다."
             },
             {
               "pmid": "41635716",
@@ -3032,11 +3032,188 @@
           ]
         },
         {
+          "journal": "Human mutation",
+          "impact_factor": 1.5,
+          "index_type": "미상",
+          "quartile": "미상",
+          "paper_count": 5,
+          "top_paper": {
+            "pmid": "40225928",
+            "title": "Specifications of the ACMG/AMP Variant Curation Guidelines for Hereditary Hemorrhagic Telangiectasia Genes-ENG and ACVRL1.",
+            "journal": "Human mutation",
+            "impact_factor": 1.5,
+            "index_type": "미상",
+            "quartile": "미상",
+            "pubdate": "2024-05-18",
+            "authors": [
+              "DeMille D",
+              "McDonald J",
+              "Bernabeu C"
+            ],
+            "citation_count": 6,
+            "rcr": 0.9256854500178968,
+            "volume": "2024",
+            "issue": "",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/40225928/",
+            "altmetric_score": 0,
+            "altmetric_news": 0,
+            "altmetric_social": 0,
+            "is_current_issue": false,
+            "hot_score": 19.4,
+            "field": "preventive",
+            "field_label": "예방의학",
+            "abstract": "The 2015 ACMG/AMP standards and guidelines for interpretation of sequence variants are widely used by laboratories, including for variant curation of the hereditary hemorrhagic telangiectasia (HHT) genes. However, the need for gene- and disease-specific modifications and specifications of these general guidelines to optimize and standardize variant classification was recognized at the time of publication. With this goal, the ClinGen HHT variant curation expert panel was formed. Here, we describe our recommended HHT-specific variant classification criteria and the outcomes from pilot testing of 30 variants of the ENG and ACVRL1 genes. Eight of the original ACMG/AMP rules were determined to not be applicable for ENG- or ACVRL1-related HHT or were previously recommended by ClinGen for removal, two rules were unmodified, and the remaining 18 rules were modified according to HHT specifications or previous ClinGen general recommendations. This study demonstrates the importance of HHT-specific criteria in the optimization and standardization of HHT variant classification and conflicting classification resolution.",
+            "title_ko": "Hereditary Hemorrhagic Telangiectasia Genes-ENG and ACVRL1에 대한 ACMG/AMP Variant Curation Guidelines의 사양."
+          },
+          "papers": [
+            {
+              "pmid": "40225928",
+              "title": "Specifications of the ACMG/AMP Variant Curation Guidelines for Hereditary Hemorrhagic Telangiectasia Genes-ENG and ACVRL1.",
+              "journal": "Human mutation",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2024-05-18",
+              "authors": [
+                "DeMille D",
+                "McDonald J",
+                "Bernabeu C"
+              ],
+              "citation_count": 6,
+              "rcr": 0.9256854500178968,
+              "volume": "2024",
+              "issue": "",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/40225928/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 19.4,
+              "field": "preventive",
+              "field_label": "예방의학",
+              "abstract": "The 2015 ACMG/AMP standards and guidelines for interpretation of sequence variants are widely used by laboratories, including for variant curation of the hereditary hemorrhagic telangiectasia (HHT) genes. However, the need for gene- and disease-specific modifications and specifications of these general guidelines to optimize and standardize variant classification was recognized at the time of publication. With this goal, the ClinGen HHT variant curation expert panel was formed. Here, we describe our recommended HHT-specific variant classification criteria and the outcomes from pilot testing of 30 variants of the ENG and ACVRL1 genes. Eight of the original ACMG/AMP rules were determined to not be applicable for ENG- or ACVRL1-related HHT or were previously recommended by ClinGen for removal, two rules were unmodified, and the remaining 18 rules were modified according to HHT specifications or previous ClinGen general recommendations. This study demonstrates the importance of HHT-specific criteria in the optimization and standardization of HHT variant classification and conflicting classification resolution.",
+              "title_ko": "Hereditary Hemorrhagic Telangiectasia Genes-ENG and ACVRL1에 대한 ACMG/AMP Variant Curation Guidelines의 사양."
+            },
+            {
+              "pmid": "40225944",
+              "title": "Beyond Single Diagnosis: Exploring Multidiagnostic Realities in Pediatric Patients through Genome Sequencing.",
+              "journal": "Human mutation",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2024-04-23",
+              "authors": [
+                "Guo F",
+                "Liu R",
+                "Pan Y"
+              ],
+              "citation_count": 2,
+              "rcr": 0.4142634481704163,
+              "volume": "2024",
+              "issue": "",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/40225944/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 11.0,
+              "field": "preventive",
+              "field_label": "예방의학",
+              "abstract": "Recent advancements in the next-generation sequencing have illuminated the occurrence of multiple genetic diagnoses (MGD). While exome sequencing has provided insights, genome sequencing (GS), the most comprehensive diagnostic tool, remains underexplored for studying MGD prevalence. We retrospectively analyzed 1487 pediatric cases from our laboratory, employing GS to investigate the incidence of single definitive genetic diagnosis (SDD) and MGD in children suspected of having a genetic disease. Of these patients, 273 received at least one definitive diagnosis, including 245 with SDD (16.5%) and 28 with MGD (1.9%). Diagnostic yield was consistent across genders and unaffected by previous testing in SDD cases. Notably, prior testing significantly increased the diagnostic yield in MGD cases to 2.7% overall and 14.4% among diagnosed cases, compared to 1.1% for those with GS as a first-tier test. Age was a significant factor in diagnostic outcome for both SDD and MGD cases with neonates showing the highest diagnostic yield of 24.5% in SDD and a notably higher yield in MGD at 4.9%, representing 16.7% of the diagnosed cases. Of the 28 MGD cases, 17 exhibited distinct phenotypes, 9 had overlapping features, and 2 presented a mix, underscoring the genetic and phenotypic heterogeneity within this group. This study is the first to exclusively use GS to assess MGD prevalence. Our findings highlight the complexity of rare diseases and emphasize the importance of comprehensive, genome-level diagnostics. Clinicians must ensure that diagnoses fully account for the observed phenotypes to inform optimal therapeutic strategies and management.",
+              "title_ko": "Beyond Single Diagnosis: Exploring Multidiagnostic Realities in Pediatric Patients through Genome Sequencing."
+            },
+            {
+              "pmid": "40225936",
+              "title": "CAVaLRi: An Algorithm for Rapid Identification of Diagnostic Germline Variation.",
+              "journal": "Human mutation",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2024-04-29",
+              "authors": [
+                "Schuetz RJ",
+                "Antoniou AA",
+                "Lammi GE"
+              ],
+              "citation_count": 2,
+              "rcr": 0.17208820522881593,
+              "volume": "2024",
+              "issue": "",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/40225936/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 11.0,
+              "field": "preventive",
+              "field_label": "예방의학",
+              "abstract": "Clinical exome and genome sequencing (ES/GS) have become indispensable diagnostic tools for rare genetic diseases (RGD). However, the interpretation of ES/GS presents a substantial operational challenge in clinical settings. Test interpretation requires the review of hundreds of genetic variants, a task that has become increasingly challenging given the rising use of ES/GS. In response, we present Clinical Assessment of Variants by Likelihood Ratios (CAVaLRi), which employ a modified likelihood ratio (LR) framework to assign diagnostic probabilities to candidate germline disease genes. CAVaLRi models aspects of the clinical variant assessment process, taking into consideration the predicted impact of the variant, the proband and parental genotypes, and the proband's clinical characteristics. It also factors in computational phenotype noise and weighs the relative significance of genotype, phenotype, and variant segregation information. We trained and tested CAVaLRi on variant and phenotype data from an internal cohort of 655 clinical ES cases. For validation, CAVaLRi's performance was benchmarked against four leading gene prioritization algorithms (Exomiser's hiPHIVE and PhenIX prioritizers, LIRICAL, and XRare) using a distinct cohort of 12,832 ES cases. Our findings reveal that CAVaLRi significantly outperforms its counterparts when clinician-curated phenotype sets are used, as evidenced by its superior precision-recall curve (PR AUC: 0.701) and average diagnostic gene rank (1.59). Notably, even when substituting highly focused clinician-curated phenotype sets with large and potentially nonspecific computationally derived phenotypes, CAVaLRi retains its precision (PR AUC: 0.658; diagnostic gene average rank: 1.68) and markedly outperforms other tools. In a large, heterogeneous validation cohort, CAVaLRi stood out as the most precise prioritization algorithm (PR AUC: 0.335; average diagnostic rank: 1.91). In conclusion, CAVaLRi presents a robust solution for prioritizing diagnostic genes, surpassing current methods. It demonstrates resilience to noisy, computationally-derived phenotypes, providing a scalable strategy to help labs focus on the most diagnostically relevant variants, thus addressing the growing demand for ES/GS interpretation.",
+              "title_ko": "CAVaLRi: 진단 생식계열 변이의 신속한 식별을 위한 알고리즘."
+            },
+            {
+              "pmid": "40225932",
+              "title": "Biochemical and Genetic Testing of GAA in Over 30.000 Symptomatic Patients Suspected to Be Affected With Pompe Disease.",
+              "journal": "Human mutation",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2024-10-22",
+              "authors": [
+                "Balendran-Braun S",
+                "Vinatzer U",
+                "Liebmann-Reindl S"
+              ],
+              "citation_count": 2,
+              "rcr": 0.6856464445857433,
+              "volume": "2024",
+              "issue": "",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/40225932/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 11.0,
+              "field": "preventive",
+              "field_label": "예방의학",
+              "abstract": "Pompe disease (PD) is a rare autosomal recessive lysosomal disorder caused by loss-of-function of the α-glucosidase (GAA) gene. The deficient GAA enzyme activity may result in potential life-threatening muscle weakness, thus requiring a rapid diagnosis to initiate therapeutic interventions. In this large retrospective study, we analyzed 30.836 PD suspect samples from 57 countries using a two-step approach utilizing dried blood spots (DBSs): biochemical testing of GAA activity followed by complementary genetic sequencing of GAA in biochemically conspicuous cases. Of these 30.836 samples, 2% (n = 639) were excluded; accordingly, this study consisted of 30.193 cases. Biochemical testing of GAA enzyme activity showed normal values in 28.354 (93.90%) and enzyme activity below the cut-off in 1843 (6.10%) cases. These biochemically suspicious cases were genetically analyzed. We identified 723 Pompe cases with 283 different GAA alterations, and 98 variants have been unpublished so far. The most common variant was the splice variant c.-32-13T>G (IVS1). Looking at the IVS1-genotype, the majority was compound heterozygous (n = 169) and identified in late-onset cases (n = 162). Comparison of early- versus late-onset cases to evaluate whether certain genotypes correlate with the age of onset revealed that homozygosity was predominantly found in infantile (85.65%) and compound heterozygosity in late-onset (76.9%) cases. Analysis of homozygous cases revealed 61% nonsense variants in the early stages and 87% missense variants in the late stages. Mapping of disease-associated (homozygous) missense variants to functional GAA protein domains showed that missense variants were found throughout GAA, but we identified enrichment in the catalytic domain. A strict genotype-phenotype correlation cannot be established; nevertheless, a phenotypic implication of some GAA variants could be drawn (e.g., c.896T>C/p.L299P, c.2015G>A/p.R672Q, and c.-32-13T>G). The combined enzyme activity and genetic testing from DBS cards can reliably identify PD and significantly accelerate diagnosis. We identified new genetic variants that contribute to the spectrum of pathogenic variants of the GAA gene.",
+              "title_ko": "폼페병에 영향을 받은 것으로 의심되는 30.000명 이상의 증후성 환자에서 GAA의 생화학적 및 유전자 검사."
+            },
+            {
+              "pmid": "42820057",
+              "title": "Genetic Analysis and Reproductive Intervention in a Duchenne Muscular Dystrophy Family With Cryptic Complex Chromosomal Rearrangement Identified by Structural Variation Sequencing.",
+              "journal": "Human mutation",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2026-09-30",
+              "authors": [
+                "Qin S",
+                "Wang X",
+                "Wang J"
+              ],
+              "citation_count": 0,
+              "rcr": null,
+              "volume": "2026",
+              "issue": "",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/42820057/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 0.0,
+              "field": "preventive",
+              "field_label": "예방의학",
+              "abstract": "Duchenne/Becker muscular dystrophy (DMD/BMD) is caused by variants in the X-linked DMD gene-most commonly deletions, duplications, or point mutations, and only rarely by complex chromosomal rearrangements (CCRs). In this study, structural variant sequencing (SVseq) was applied to a 14-year-old male patient with DMD. Although the patient exhibited typical symptoms, conventional tests-including karyotype analysis, gene panel, whole-exome sequencing (WES), and multiplex ligation-dependent probe amplification (MLPA)-were all negative. SVseq identified a novel complex rearrangement on the X chromosome, comprising a 974,456 bp inversion spanning the 5 ' UTR and Exons 1-2 of the DMD gene, flanked by two microdeletions of 7285 and 6468 bp (NC_000023.11:g.[32865334_32872619del;32872619_33847075inv33847075_33853543del]). This rearrangement disrupts the DMD coding sequence and is classified as a pathogenic variant. Short tandem repeat (STR) analysis confirmed the familial relationship, whereas PCR and Sanger sequencing precisely mapped the breakpoints, establishing that the mutation arose de novo in his mother and was maternally inherited. Reproductive interventions-including preimplantation genetic testing for monogenic disorders (PGT-M) and second-trimester prenatal diagnosis-enabled the successful birth of a healthy male child. SVseq demonstrated clear advantages over standard methods for detecting CCRs, highlighting its value in genetically elusive cases. We recommend SVseq as a complementary diagnostic tool for unresolved DMD cases where conventional testing does not explain the findings. This approach can enhance diagnostic yield and support informed family planning.",
+              "title_ko": "구조적 변이 염기서열 분석으로 확인된 암호 복합체 염색체 재배열을 가진 듀첸성 근이영양증 가족의 유전자 분석 및 생식 중재."
+            }
+          ]
+        },
+        {
           "journal": "Frontiers in immunology",
           "impact_factor": 1.5,
           "index_type": "미상",
           "quartile": "미상",
-          "paper_count": 14,
+          "paper_count": 13,
           "top_paper": {
             "pmid": "39981298",
             "title": "Staphylococcus aureus-specific TIGIT(+) Treg are present in the blood of healthy subjects - a hurdle for vaccination?",
@@ -3289,155 +3466,6 @@
               "field_label": "예방의학",
               "abstract": "Shigella, a leading cause of bacillary dysentery, represents a significant global health challenge, particularly in low- and middle-income countries. Shigellosis predominantly affects children under the age of five and is associated with high morbidity and mortality rates. To address this burden, a generalized modules for membrane antigens (GMMA)-based vaccine, altSonflex1-2-3, incorporating S. sonnei and S. flexneri 1b, 2a, and 3a O-antigens, has been developed. This study aimed to evaluate and compare the immunogenicity of the altSonflex1-2-3 vaccine in mice, rats, and rabbits. Significant increase in O-antigen specific IgG response was observed in all animal models after one single injection, that further increased post-second vaccination in mice and rats for all antigens at all tested doses. In rabbits, booster effects were observed for all antigens, except for S. flexneri O-antigen at the highest dose and S. sonnei O-antigen at intermediate and high dose. This study showed how each species exhibited its own unique dose-response pattern against S. flexneri 1b and 3a. Instead, S. flexneri 2a consistently showed a positive dose-response in every model examined. A hook effect was observed for S. sonnei IgG across all models, with responses peaking at medium doses and decreasing at higher doses. This trend was most pronounced in mice and less evident in rats. Across all antigens, mice and rabbits exhibited more homogeneous immune responses to the 4 antigens, while rats showed numerically higher response to S. sonnei and S. flexneri 2a compared to S. flexneri 1b and 3a. Interestingly, this pattern in rats aligns more closely with responses recently observed in European adults. The vaccine has now advanced to Phase 2 clinical trials in the target population of 9-month-old infants, where different doses of the vaccine are being tested. Immune data collected will allow to further evaluate which preclinical model can better predict humoral response elicited in different age group populations. Expanding studies of this kind across different platforms and pathogens could provide valuable insights into the optimal animal models for supporting rapid vaccine design and development prior to clinical trials.",
               "title_ko": "생쥐, 쥐 및 토끼에 대한 altSonflex1-2-3 Shigella 백신의 면역원성 평가로 인간의 번역 통찰력을 알립니다."
-            }
-          ]
-        },
-        {
-          "journal": "Human mutation",
-          "impact_factor": 1.5,
-          "index_type": "미상",
-          "quartile": "미상",
-          "paper_count": 4,
-          "top_paper": {
-            "pmid": "40225928",
-            "title": "Specifications of the ACMG/AMP Variant Curation Guidelines for Hereditary Hemorrhagic Telangiectasia Genes-ENG and ACVRL1.",
-            "journal": "Human mutation",
-            "impact_factor": 1.5,
-            "index_type": "미상",
-            "quartile": "미상",
-            "pubdate": "2024-05-18",
-            "authors": [
-              "DeMille D",
-              "McDonald J",
-              "Bernabeu C"
-            ],
-            "citation_count": 6,
-            "rcr": 0.9256854500178968,
-            "volume": "2024",
-            "issue": "",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/40225928/",
-            "altmetric_score": 0,
-            "altmetric_news": 0,
-            "altmetric_social": 0,
-            "is_current_issue": false,
-            "hot_score": 19.4,
-            "field": "preventive",
-            "field_label": "예방의학",
-            "abstract": "The 2015 ACMG/AMP standards and guidelines for interpretation of sequence variants are widely used by laboratories, including for variant curation of the hereditary hemorrhagic telangiectasia (HHT) genes. However, the need for gene- and disease-specific modifications and specifications of these general guidelines to optimize and standardize variant classification was recognized at the time of publication. With this goal, the ClinGen HHT variant curation expert panel was formed. Here, we describe our recommended HHT-specific variant classification criteria and the outcomes from pilot testing of 30 variants of the ENG and ACVRL1 genes. Eight of the original ACMG/AMP rules were determined to not be applicable for ENG- or ACVRL1-related HHT or were previously recommended by ClinGen for removal, two rules were unmodified, and the remaining 18 rules were modified according to HHT specifications or previous ClinGen general recommendations. This study demonstrates the importance of HHT-specific criteria in the optimization and standardization of HHT variant classification and conflicting classification resolution.",
-            "title_ko": "Hereditary Hemorrhagic Telangiectasia Genes-ENG and ACVRL1에 대한 ACMG/AMP Variant Curation Guidelines의 사양."
-          },
-          "papers": [
-            {
-              "pmid": "40225928",
-              "title": "Specifications of the ACMG/AMP Variant Curation Guidelines for Hereditary Hemorrhagic Telangiectasia Genes-ENG and ACVRL1.",
-              "journal": "Human mutation",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2024-05-18",
-              "authors": [
-                "DeMille D",
-                "McDonald J",
-                "Bernabeu C"
-              ],
-              "citation_count": 6,
-              "rcr": 0.9256854500178968,
-              "volume": "2024",
-              "issue": "",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/40225928/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": false,
-              "hot_score": 19.4,
-              "field": "preventive",
-              "field_label": "예방의학",
-              "abstract": "The 2015 ACMG/AMP standards and guidelines for interpretation of sequence variants are widely used by laboratories, including for variant curation of the hereditary hemorrhagic telangiectasia (HHT) genes. However, the need for gene- and disease-specific modifications and specifications of these general guidelines to optimize and standardize variant classification was recognized at the time of publication. With this goal, the ClinGen HHT variant curation expert panel was formed. Here, we describe our recommended HHT-specific variant classification criteria and the outcomes from pilot testing of 30 variants of the ENG and ACVRL1 genes. Eight of the original ACMG/AMP rules were determined to not be applicable for ENG- or ACVRL1-related HHT or were previously recommended by ClinGen for removal, two rules were unmodified, and the remaining 18 rules were modified according to HHT specifications or previous ClinGen general recommendations. This study demonstrates the importance of HHT-specific criteria in the optimization and standardization of HHT variant classification and conflicting classification resolution.",
-              "title_ko": "Hereditary Hemorrhagic Telangiectasia Genes-ENG and ACVRL1에 대한 ACMG/AMP Variant Curation Guidelines의 사양."
-            },
-            {
-              "pmid": "40225944",
-              "title": "Beyond Single Diagnosis: Exploring Multidiagnostic Realities in Pediatric Patients through Genome Sequencing.",
-              "journal": "Human mutation",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2024-04-23",
-              "authors": [
-                "Guo F",
-                "Liu R",
-                "Pan Y"
-              ],
-              "citation_count": 2,
-              "rcr": 0.4142634481704163,
-              "volume": "2024",
-              "issue": "",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/40225944/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": false,
-              "hot_score": 11.0,
-              "field": "preventive",
-              "field_label": "예방의학",
-              "abstract": "Recent advancements in the next-generation sequencing have illuminated the occurrence of multiple genetic diagnoses (MGD). While exome sequencing has provided insights, genome sequencing (GS), the most comprehensive diagnostic tool, remains underexplored for studying MGD prevalence. We retrospectively analyzed 1487 pediatric cases from our laboratory, employing GS to investigate the incidence of single definitive genetic diagnosis (SDD) and MGD in children suspected of having a genetic disease. Of these patients, 273 received at least one definitive diagnosis, including 245 with SDD (16.5%) and 28 with MGD (1.9%). Diagnostic yield was consistent across genders and unaffected by previous testing in SDD cases. Notably, prior testing significantly increased the diagnostic yield in MGD cases to 2.7% overall and 14.4% among diagnosed cases, compared to 1.1% for those with GS as a first-tier test. Age was a significant factor in diagnostic outcome for both SDD and MGD cases with neonates showing the highest diagnostic yield of 24.5% in SDD and a notably higher yield in MGD at 4.9%, representing 16.7% of the diagnosed cases. Of the 28 MGD cases, 17 exhibited distinct phenotypes, 9 had overlapping features, and 2 presented a mix, underscoring the genetic and phenotypic heterogeneity within this group. This study is the first to exclusively use GS to assess MGD prevalence. Our findings highlight the complexity of rare diseases and emphasize the importance of comprehensive, genome-level diagnostics. Clinicians must ensure that diagnoses fully account for the observed phenotypes to inform optimal therapeutic strategies and management.",
-              "title_ko": "Beyond Single Diagnosis: Exploring Multidiagnostic Realities in Pediatric Patients through Genome Sequencing."
-            },
-            {
-              "pmid": "40225936",
-              "title": "CAVaLRi: An Algorithm for Rapid Identification of Diagnostic Germline Variation.",
-              "journal": "Human mutation",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2024-04-29",
-              "authors": [
-                "Schuetz RJ",
-                "Antoniou AA",
-                "Lammi GE"
-              ],
-              "citation_count": 2,
-              "rcr": 0.17208820522881593,
-              "volume": "2024",
-              "issue": "",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/40225936/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": false,
-              "hot_score": 11.0,
-              "field": "preventive",
-              "field_label": "예방의학",
-              "abstract": "Clinical exome and genome sequencing (ES/GS) have become indispensable diagnostic tools for rare genetic diseases (RGD). However, the interpretation of ES/GS presents a substantial operational challenge in clinical settings. Test interpretation requires the review of hundreds of genetic variants, a task that has become increasingly challenging given the rising use of ES/GS. In response, we present Clinical Assessment of Variants by Likelihood Ratios (CAVaLRi), which employ a modified likelihood ratio (LR) framework to assign diagnostic probabilities to candidate germline disease genes. CAVaLRi models aspects of the clinical variant assessment process, taking into consideration the predicted impact of the variant, the proband and parental genotypes, and the proband's clinical characteristics. It also factors in computational phenotype noise and weighs the relative significance of genotype, phenotype, and variant segregation information. We trained and tested CAVaLRi on variant and phenotype data from an internal cohort of 655 clinical ES cases. For validation, CAVaLRi's performance was benchmarked against four leading gene prioritization algorithms (Exomiser's hiPHIVE and PhenIX prioritizers, LIRICAL, and XRare) using a distinct cohort of 12,832 ES cases. Our findings reveal that CAVaLRi significantly outperforms its counterparts when clinician-curated phenotype sets are used, as evidenced by its superior precision-recall curve (PR AUC: 0.701) and average diagnostic gene rank (1.59). Notably, even when substituting highly focused clinician-curated phenotype sets with large and potentially nonspecific computationally derived phenotypes, CAVaLRi retains its precision (PR AUC: 0.658; diagnostic gene average rank: 1.68) and markedly outperforms other tools. In a large, heterogeneous validation cohort, CAVaLRi stood out as the most precise prioritization algorithm (PR AUC: 0.335; average diagnostic rank: 1.91). In conclusion, CAVaLRi presents a robust solution for prioritizing diagnostic genes, surpassing current methods. It demonstrates resilience to noisy, computationally-derived phenotypes, providing a scalable strategy to help labs focus on the most diagnostically relevant variants, thus addressing the growing demand for ES/GS interpretation.",
-              "title_ko": "CAVaLRi: 진단 생식계열 변이의 신속한 식별을 위한 알고리즘."
-            },
-            {
-              "pmid": "40225932",
-              "title": "Biochemical and Genetic Testing of GAA in Over 30.000 Symptomatic Patients Suspected to Be Affected With Pompe Disease.",
-              "journal": "Human mutation",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2024-10-22",
-              "authors": [
-                "Balendran-Braun S",
-                "Vinatzer U",
-                "Liebmann-Reindl S"
-              ],
-              "citation_count": 2,
-              "rcr": 0.6856464445857433,
-              "volume": "2024",
-              "issue": "",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/40225932/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": false,
-              "hot_score": 11.0,
-              "field": "preventive",
-              "field_label": "예방의학",
-              "abstract": "Pompe disease (PD) is a rare autosomal recessive lysosomal disorder caused by loss-of-function of the α-glucosidase (GAA) gene. The deficient GAA enzyme activity may result in potential life-threatening muscle weakness, thus requiring a rapid diagnosis to initiate therapeutic interventions. In this large retrospective study, we analyzed 30.836 PD suspect samples from 57 countries using a two-step approach utilizing dried blood spots (DBSs): biochemical testing of GAA activity followed by complementary genetic sequencing of GAA in biochemically conspicuous cases. Of these 30.836 samples, 2% (n = 639) were excluded; accordingly, this study consisted of 30.193 cases. Biochemical testing of GAA enzyme activity showed normal values in 28.354 (93.90%) and enzyme activity below the cut-off in 1843 (6.10%) cases. These biochemically suspicious cases were genetically analyzed. We identified 723 Pompe cases with 283 different GAA alterations, and 98 variants have been unpublished so far. The most common variant was the splice variant c.-32-13T>G (IVS1). Looking at the IVS1-genotype, the majority was compound heterozygous (n = 169) and identified in late-onset cases (n = 162). Comparison of early- versus late-onset cases to evaluate whether certain genotypes correlate with the age of onset revealed that homozygosity was predominantly found in infantile (85.65%) and compound heterozygosity in late-onset (76.9%) cases. Analysis of homozygous cases revealed 61% nonsense variants in the early stages and 87% missense variants in the late stages. Mapping of disease-associated (homozygous) missense variants to functional GAA protein domains showed that missense variants were found throughout GAA, but we identified enrichment in the catalytic domain. A strict genotype-phenotype correlation cannot be established; nevertheless, a phenotypic implication of some GAA variants could be drawn (e.g., c.896T>C/p.L299P, c.2015G>A/p.R672Q, and c.-32-13T>G). The combined enzyme activity and genetic testing from DBS cards can reliably identify PD and significantly accelerate diagnosis. We identified new genetic variants that contribute to the spectrum of pathogenic variants of the GAA gene.",
-              "title_ko": "폼페병에 영향을 받은 것으로 의심되는 30.000명 이상의 증후성 환자에서 GAA의 생화학적 및 유전자 검사."
             }
           ]
         },
@@ -4555,7 +4583,7 @@
           "impact_factor": 1.5,
           "index_type": "미상",
           "quartile": "미상",
-          "paper_count": 5,
+          "paper_count": 6,
           "top_paper": {
             "pmid": "39877848",
             "title": "Shifting paradigms in primary aldosteronism: reconsideration of screening strategy via integrating pathophysiological insights.",
@@ -4668,6 +4696,34 @@
               "field_label": "예방의학",
               "abstract": "BACKGROUND: Congenital hypothyroidism (CH) is a preventable cause of growth and neurodevelopmental deficits. In India, lack of universal newborn screening (NBS) delays diagnosis. This study examines how treatment timing influences growth, nutrition, and body proportionality in children with CH. METHODS: This cross-sectional study included 66 children with CH, aged under 5 years, receiving Levothyroxine(LT4) therapy for one year. Age and sex-matched 64 healthy children were also enrolled. Children with CH were stratified into early-treated (<3months) and late-treated (>3months) groups. Anthropometric measurements were converted to Z-scores using WHO standards. Body proportionality was assessed using: height-arm span difference, upper segment-to-lower segment (US: LS) ratio, Manouvrier's Indice Skélique (MIS). MIS classifies skeletal proportions as brachyskelia (short legs, long trunk; score ≤84.9), mesatyskelia (intermediate; 85.0-89.9), and macroskelia (long legs, short trunk; ≥90). RESULTS: Children with CH had significantly lower height-for-age (HAZ -2.31 ± 1.32 vs. -0.41 ± 0.96), weight-for-age (WAZ -1.98 ± 1.41 vs. -0.36 ± 1.02), and head circumference-for-age (HCZ -1.52 ± 1.28 vs. -0.21 ± 0.89) Z-scores compared with healthy controls (all p < 0.001). Stunting (HAZ < -2 SD) was present in 53% of children, while underweight (WAZ < -2 SD) was observed in 36.4%. Late-treated children had a higher prevalence of severe stunting (67.7% vs. 11.4%), severe underweight (29.0% vs. 2.9%), and microcephaly (35.5% vs. 8.6%) compared with early-treated children (p < 0.05). Disproportionate stature was observed in 71.0% of late-treated children compared with 42.9% of early-treated children (p < 0.05). US: LS ratio and Manouvrier's Index further confirmed greater skeletal disproportionality in late-treated children compared with early-treated children (p < 0.05). CONCLUSIONS: Delayed treatment in CH significantly impairs growth, increases skeletal disproportionality, and adversely affects neurocranial development. Early initiation of therapy-ideally within the first 3 months-is essential. These findings highlight the need for newborn screening in India.",
               "title_ko": "시기적절한 진단과 치료가 선천성 갑상선 기능 저하증 아동의 성장과 신체 비례에 미치는 영향."
+            },
+            {
+              "pmid": "42824384",
+              "title": "Cumulative live birth following preimplantation genetic testing for aneuploidy versus conventional IVF/ICSI in unexplained recurrent pregnancy loss: a retrospective cohort study with intention-to-treat and per-protocol analyses.",
+              "journal": "Frontiers in endocrinology",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2026-09-30",
+              "authors": [
+                "Han D",
+                "Xu Z",
+                "Shen W"
+              ],
+              "citation_count": 0,
+              "rcr": null,
+              "volume": "17",
+              "issue": "",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/42824384/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 0.0,
+              "field": "preventive",
+              "field_label": "예방의학",
+              "abstract": "OBJECTIVE: To compare cumulative live birth rates (CLBR) between preimplantation genetic testing for aneuploidy (PGT-A) and conventional IVF/ICSI in women with unexplained recurrent pregnancy loss (uRPL) using intention-to-treat (ITT) and per-protocol (PP) analyses, and to assess effect modification by maternal age and prior miscarriage number. METHODS: This single-center retrospective cohort (2018-2024) included women with uRPL undergoing their first oocyte retrieval with planned single-blastocyst transfer. The ITT population included 589 patients (342 PGT-A vs 247 IVF/ICSI); after excluding patients who never underwent transfer and 47 patients (16 PGT-A, 31 IVF/ICSI) with remaining cryopreserved embryos and no live birth at the follow-up cutoff, the PP population included 389 patients (221 vs 168) who completed at least one transfer. Stabilized inverse probability of treatment weighting with doubly robust adjustment and robust variance estimation was applied. The primary outcome was CLBR per oocyte retrieval. RESULTS: In the ITT population, unadjusted CLBR was comparable (48.5% vs 47.4%, P = 0.779) and remained non-significant after adjustment (aOR 0.862, 95% CI 0.591-1.255, P = 0.437). In the PP population, neither first-transfer live birth (63.8% vs 58.3%, P = 0.272; aOR 0.942, P = 0.814) nor CLBR (75.1% vs 69.6%, P = 0.230; aOR 0.858, P = 0.595) differed significantly. Age and prior miscarriage number did not significantly modify the treatment-CLBR association (age: ITT P = 0.871, PP P = 0.071; miscarriage number: ITT P = 0.695, PP P = 0.289; both miscarriage-number tests were exploratory owing to limited propensity-score overlap in the >2-miscarriage stratum). Among women aged ≥35 years, ITT CLBR did not differ (33.6% vs 29.7%, P = 0.534; aOR 0.846, 95% CI 0.447-1.603, P = 0.608). Unadjusted PP outcomes favored PGT-A among women aged ≥35 years and those with exactly two prior miscarriages, but no adjusted differences remained significant after Bonferroni correction, except first-transfer clinical pregnancy in the ≥35-year stratum, which requires cautious interpretation. Miscarriage rates did not differ significantly between groups; no statistically significant perinatal differences were observed in this sample (166 vs 117 deliveries). CONCLUSIONS: PGT-A did not improve CLBR per oocyte retrieval in women with uRPL and should not be routinely recommended. Unadjusted PP subgroup advantages are more plausibly attributable to embryo attrition and residual confounding than true benefit and require prospective confirmation.",
+              "title_ko": "설명되지 않은 재발성 임신 손실에서 기존의 IVF/ICSI 대비 이수성에 대한 이식 전 유전자 검사 후 누적 출산: 치료 의향 및 임상시험계획서별 분석을 통한 후향적 코호트 연구."
             },
             {
               "pmid": "42798329",
@@ -4980,11 +5036,12 @@
         {
           "phrase": "genetic testing",
           "score": 21.0,
-          "paper_count": 3,
+          "paper_count": 4,
           "pmids": [
             "41690212",
             "40024009",
-            "40225932"
+            "40225932",
+            "42824384"
           ]
         },
         {
@@ -5011,7 +5068,43 @@
               0.0,
               71.4,
               11.0,
-              21.0
+              11.0
+            ]
+          },
+          {
+            "phrase": "cancer screening",
+            "scores": [
+              0.0,
+              0.0,
+              10.0,
+              66.9
+            ]
+          },
+          {
+            "phrase": "vaccination status",
+            "scores": [
+              0.0,
+              10.0,
+              30.7,
+              26.9
+            ]
+          },
+          {
+            "phrase": "colorectal cancer",
+            "scores": [
+              0.0,
+              0.0,
+              13.8,
+              50.0
+            ]
+          },
+          {
+            "phrase": "breast cancer",
+            "scores": [
+              16.9,
+              0.0,
+              16.9,
+              30.0
             ]
           },
           {
@@ -5022,42 +5115,6 @@
               43.0,
               16.9
             ]
-          },
-          {
-            "phrase": "vaccination status",
-            "scores": [
-              0.0,
-              10.0,
-              30.7,
-              16.9
-            ]
-          },
-          {
-            "phrase": "diabetes mellitus",
-            "scores": [
-              0.0,
-              34.8,
-              11.0,
-              11.0
-            ]
-          },
-          {
-            "phrase": "breast cancer",
-            "scores": [
-              16.9,
-              0.0,
-              16.9,
-              20.0
-            ]
-          },
-          {
-            "phrase": "covid- vaccination",
-            "scores": [
-              0.0,
-              11.0,
-              30.7,
-              10.0
-            ]
           }
         ]
       }
@@ -5065,7 +5122,7 @@
     {
       "key": "emergency",
       "label": "응급의학",
-      "paper_count": 455,
+      "paper_count": 453,
       "journals": [
         {
           "journal": "European respiratory review : an official journal of the European Respiratory Society",
@@ -5443,7 +5500,7 @@
               "field": "emergency",
               "field_label": "응급의학",
               "abstract": "BACKGROUND: The innate immune response is activated by tissue injury and may quickly become dysregulated in the setting of major trauma. Cytokines are a key component of this response and function to activate and mobilize neutrophils, macrophages, and natural killer cells. The purpose of this study was to understand how the kinetics of blood-based resuscitation may impact the cytokine response. Specifically, we hypothesize that transfusion kinetics make a fundamental contribution to the inflammatory response, beyond the volume of transfusion and injury severity. METHODS: The Pragmatic, Randomized Optimal Platelet and Plasma Ratio data set was used in this retrospective analysis. Transfusion kinetics were quantified by calculating the total critical administration threshold episodes in three time periods, 1 to 2 hours following injury, 3 to 4 hours, and 5 to 6 hours following injury. The longitudinal response of key cytokines over 72 hours was assessed with a multivariable linear growth model, using critical administration threshold status as a time-varying covariate. RESULTS: A total of 522 patients were included in this analysis. Pro-inflammatory cytokines interleukin (IL)-6 (p = 0.0354) and IL-8 (p < 0.0001) were significantly increased. Anti-inflammatory cytokines IL-1ra (p = 0.0001) and IL-10 (p < 0.0001) were significantly increased. Chemokines interferon-γ-inducible protein 10 (p = 0.0433), monocyte chemoattractant protein-1 (p = 0.0064), and macrophage inflammatory protein 1β (p = 0.0003) were significantly increased, while regulated up activation, normal T-cell expressed and secreted chemokine (p = 0.0216) was significantly decreased. Growth factors showed no significant response. CONCLUSION: The kinetics of packed red blood cell transfusion demonstrate a potential association with the expression of cytokines following injury, beyond the total transfusion requirement or the severity of injury. Because cytokines activate and mobilize neutrophils, macrophages, and natural killer cells, these alterations may have a profound effect on degree and coordination of the immune response. As the contribution of various components of major resuscitation to inflammatory activation is clarified, such as types of blood product, tempo of transfusion, and operative care, targets for intervention should become more apparent. LEVEL OF EVIDENCE: Therapeutic/Care Management; Level III.",
-              "title_ko": "주요 손상 후 수혈 동역학이 염증 반응에 미치는 영향."
+              "title_ko": ""
             }
           ]
         },
@@ -5478,7 +5535,7 @@
             "field": "emergency",
             "field_label": "응급의학",
             "abstract": "PURPOSE: This study aimed to assess the levels and sources of noise in the emergency intensive care unit (EICU) of an emergency department and investigate their effects on the sleep quality of conscious patients. METHODS: A study was conducted on patients admitted to the EICU from December 2020 to December 2023. They were categorised according to their sleep quality with the Pittsburgh Sleep Quality Index. Environmental noise levels were measured using precision sound level metres and environmental noise automatic monitoring instruments. Data analysis was performed using SPSS version 25.0, and Chi-square test, Fisher's exact probability and t-tests were conducted when applicable. The significance threshold was set at P < 0.05. Regression analysis was carried out for indicators with significant differences. RESULTS: A total of 200 patients were included in the study. Of them 96 in the ideal sleep group and 104 in the non-ideal sleep group. Patients with non-ideal sleep experienced significantly higher noise levels across various measures (P < 0.05). Additionally, patients with non-ideal sleep reported significantly higher occurrences of noise-related awakening, difficulty in falling asleep, nightmares or vivid dreams and sleepwalking episodes (P < 0.05). Significant differences in staff activities, including staff conversations, equipment noise exposure, cleaning activities, patient interventions and overhead pages, were observed between the groups (P < 0.05). Multivariate logistic regression analysis indicating that the average noise level, conversational speech, equipment alarms, ambient noise, peak noise levels, staff conversations, cleaning activities, patient interventions and overhead pages were significant contributors to poor sleep. CONCLUSION: The study suggested that high noise levels and staff-related activities affected the sleep quality of conscious patients in the EICU. Targeted measures could improve the prognoses of patients.",
-            "title_ko": "응급 중환자실의 의식 환자의 수면 질에 대한 소음의 수준과 원천의 영향."
+            "title_ko": ""
           },
           "papers": [
             {
@@ -5506,7 +5563,7 @@
               "field": "emergency",
               "field_label": "응급의학",
               "abstract": "PURPOSE: This study aimed to assess the levels and sources of noise in the emergency intensive care unit (EICU) of an emergency department and investigate their effects on the sleep quality of conscious patients. METHODS: A study was conducted on patients admitted to the EICU from December 2020 to December 2023. They were categorised according to their sleep quality with the Pittsburgh Sleep Quality Index. Environmental noise levels were measured using precision sound level metres and environmental noise automatic monitoring instruments. Data analysis was performed using SPSS version 25.0, and Chi-square test, Fisher's exact probability and t-tests were conducted when applicable. The significance threshold was set at P < 0.05. Regression analysis was carried out for indicators with significant differences. RESULTS: A total of 200 patients were included in the study. Of them 96 in the ideal sleep group and 104 in the non-ideal sleep group. Patients with non-ideal sleep experienced significantly higher noise levels across various measures (P < 0.05). Additionally, patients with non-ideal sleep reported significantly higher occurrences of noise-related awakening, difficulty in falling asleep, nightmares or vivid dreams and sleepwalking episodes (P < 0.05). Significant differences in staff activities, including staff conversations, equipment noise exposure, cleaning activities, patient interventions and overhead pages, were observed between the groups (P < 0.05). Multivariate logistic regression analysis indicating that the average noise level, conversational speech, equipment alarms, ambient noise, peak noise levels, staff conversations, cleaning activities, patient interventions and overhead pages were significant contributors to poor sleep. CONCLUSION: The study suggested that high noise levels and staff-related activities affected the sleep quality of conscious patients in the EICU. Targeted measures could improve the prognoses of patients.",
-              "title_ko": "응급 중환자실의 의식 환자의 수면 질에 대한 소음의 수준과 원천의 영향."
+              "title_ko": ""
             }
           ]
         },
@@ -5542,7 +5599,7 @@
             "field": "emergency",
             "field_label": "응급의학",
             "abstract": "AIM: To characterise key features of young people presenting to the emergency department (ED) with a mental health complaint when comparing children (aged 7 to 12 years) and teenagers (13 years and greater). METHODS: Retrospective review of all ED mental health presentations in children aged 7-17 years presenting over a 12-month period in 2018 to a tertiary children's hospital in Victoria, Australia. Univariate analyses were carried out to examine the relationship between children and teenagers and a number of key presentation variables. Odds Ratios (ORs) and 95% Confidence Intervals (CIs) were calculated for ED management outcomes. RESULTS: There were 1691 ED mental health presentations in 2018. Of these presentations, 407 (24%) were children aged 12 years or less. The remaining 76% (1284) were teenagers. The younger aged cohort were more likely to be male (OR 2.43, CI 1.92-3.08) and have a past history of autism spectrum disorder (OR 1.92, CI 1.45-1.84). They were more likely to have a presenting complaint of acute behavioural disturbance (OR 2.03, CI 1.59-2.60), be physically restrained (OR 2.01, CI 1.18-3.37) and have sedative medication provided (OR 2.87, CI 1.63-5.04). The older aged cohort were more likely to have a past history of depression (OR 0.19, CI 0.12-0.29) and a presenting complaint of intentional self-poisoning (OR 0.33, CI 0.15-0.65). CONCLUSIONS: Children aged 12 years or less represent one-quarter of all young people presenting to the ED with a mental health concern. They experience high rates of acute behavioural disturbance and are more likely to require restrictive interventions during their presentation.",
-            "title_ko": "유아의 응급실 정신 건강 프레젠테이션: 회고 도표 검토."
+            "title_ko": ""
           },
           "papers": [
             {
@@ -5571,7 +5628,7 @@
               "field": "emergency",
               "field_label": "응급의학",
               "abstract": "AIM: To characterise key features of young people presenting to the emergency department (ED) with a mental health complaint when comparing children (aged 7 to 12 years) and teenagers (13 years and greater). METHODS: Retrospective review of all ED mental health presentations in children aged 7-17 years presenting over a 12-month period in 2018 to a tertiary children's hospital in Victoria, Australia. Univariate analyses were carried out to examine the relationship between children and teenagers and a number of key presentation variables. Odds Ratios (ORs) and 95% Confidence Intervals (CIs) were calculated for ED management outcomes. RESULTS: There were 1691 ED mental health presentations in 2018. Of these presentations, 407 (24%) were children aged 12 years or less. The remaining 76% (1284) were teenagers. The younger aged cohort were more likely to be male (OR 2.43, CI 1.92-3.08) and have a past history of autism spectrum disorder (OR 1.92, CI 1.45-1.84). They were more likely to have a presenting complaint of acute behavioural disturbance (OR 2.03, CI 1.59-2.60), be physically restrained (OR 2.01, CI 1.18-3.37) and have sedative medication provided (OR 2.87, CI 1.63-5.04). The older aged cohort were more likely to have a past history of depression (OR 0.19, CI 0.12-0.29) and a presenting complaint of intentional self-poisoning (OR 0.33, CI 0.15-0.65). CONCLUSIONS: Children aged 12 years or less represent one-quarter of all young people presenting to the ED with a mental health concern. They experience high rates of acute behavioural disturbance and are more likely to require restrictive interventions during their presentation.",
-              "title_ko": "유아의 응급실 정신 건강 프레젠테이션: 회고 도표 검토."
+              "title_ko": ""
             }
           ]
         },
@@ -7797,233 +7854,6 @@
           ]
         },
         {
-          "journal": "Emergency medicine clinics of North America",
-          "impact_factor": 1.5,
-          "index_type": "미상",
-          "quartile": "미상",
-          "paper_count": 7,
-          "top_paper": {
-            "pmid": "41260849",
-            "title": "Diagnosing Serious \"Cannot Miss\" Causes of Non-traumatic Headache-Thunderclap Headache and Beyond.",
-            "journal": "Emergency medicine clinics of North America",
-            "impact_factor": 1.5,
-            "index_type": "미상",
-            "quartile": "미상",
-            "pubdate": "2025-09-13",
-            "authors": [
-              "Dubosh NM",
-              "Edlow J"
-            ],
-            "citation_count": 1,
-            "rcr": null,
-            "volume": "44",
-            "issue": "1",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/41260849/",
-            "altmetric_score": 0,
-            "altmetric_news": 0,
-            "altmetric_social": 0,
-            "is_current_issue": true,
-            "hot_score": 15.8,
-            "field": "emergency",
-            "field_label": "응급의학",
-            "abstract": "Headache accounts for 2% to 3% of emergency department visits annually. While the vast majority of these patients have a primary, non-serious cause, a small proportion of these patients have a \"cannot miss\" secondary cause that if misdiagnosed or have a delay in diagnosis, result in poor patient outcomes. The majority of serious diagnoses include subarachnoid hemorrhage, other types of intracranial hemorrhage including subdural hematoma, strokes, meningitis, and other non-neurologic etiologies. It is important for emergency physicians to identify through a careful history, physical examination, and consideration of epidemiologic factors which patients require extensive testing.",
-            "title_ko": ""
-          },
-          "papers": [
-            {
-              "pmid": "41260849",
-              "title": "Diagnosing Serious \"Cannot Miss\" Causes of Non-traumatic Headache-Thunderclap Headache and Beyond.",
-              "journal": "Emergency medicine clinics of North America",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2025-09-13",
-              "authors": [
-                "Dubosh NM",
-                "Edlow J"
-              ],
-              "citation_count": 1,
-              "rcr": null,
-              "volume": "44",
-              "issue": "1",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/41260849/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": true,
-              "hot_score": 15.8,
-              "field": "emergency",
-              "field_label": "응급의학",
-              "abstract": "Headache accounts for 2% to 3% of emergency department visits annually. While the vast majority of these patients have a primary, non-serious cause, a small proportion of these patients have a \"cannot miss\" secondary cause that if misdiagnosed or have a delay in diagnosis, result in poor patient outcomes. The majority of serious diagnoses include subarachnoid hemorrhage, other types of intracranial hemorrhage including subdural hematoma, strokes, meningitis, and other non-neurologic etiologies. It is important for emergency physicians to identify through a careful history, physical examination, and consideration of epidemiologic factors which patients require extensive testing.",
-              "title_ko": ""
-            },
-            {
-              "pmid": "41260850",
-              "title": "Primary Headache.",
-              "journal": "Emergency medicine clinics of North America",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2025-09-13",
-              "authors": [
-                "Freeman B",
-                "Swaminathan A"
-              ],
-              "citation_count": 0,
-              "rcr": null,
-              "volume": "44",
-              "issue": "1",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/41260850/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": true,
-              "hot_score": 10.0,
-              "field": "emergency",
-              "field_label": "응급의학",
-              "abstract": "Most patients presenting with headaches to the emergency department (ED) are experiencing benign exacerbations of chronic conditions. The ED focus is on identifying dangerous secondary causes of headaches and providing pain relief. Given the high recurrence rate, emergency physicians must optimize acute treatment, address unmet needs, and ensure appropriate outpatient follow-up.",
-              "title_ko": ""
-            },
-            {
-              "pmid": "41260848",
-              "title": "Blood Pressure Management in Neurologic Emergencies.",
-              "journal": "Emergency medicine clinics of North America",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2025-09-13",
-              "authors": [
-                "Wagstaff H",
-                "Ledyard HK"
-              ],
-              "citation_count": 0,
-              "rcr": null,
-              "volume": "44",
-              "issue": "1",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/41260848/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": true,
-              "hot_score": 10.0,
-              "field": "emergency",
-              "field_label": "응급의학",
-              "abstract": "The article Blood Pressure Management in Neurologic Emergencies emphasizes the importance of timely and effective blood pressure management in neurologic emergencies. It highlights that elevated blood pressure is a significant prognostic factor in conditions such as stroke, traumatic brain injury, posterior reversible encephalopathy syndrome (PRES) and preeclampsia. The review provides a detailed examination of current recommendations and controversies, offering a practical resource for emergency physicians. This article aims to equip clinicians with the knowledge to balance rapid intervention with long-term risk mitigation, ultimately improving patient outcomes.",
-              "title_ko": ""
-            },
-            {
-              "pmid": "40210340",
-              "title": "Evaluation of Older Adults in the Emergency Department Following a Fall.",
-              "journal": "Emergency medicine clinics of North America",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2024-09-17",
-              "authors": [
-                "Shih R",
-                "Shenvi C"
-              ],
-              "citation_count": 2,
-              "rcr": null,
-              "volume": "43",
-              "issue": "2",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/40210340/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": false,
-              "hot_score": 9.2,
-              "field": "emergency",
-              "field_label": "응급의학",
-              "abstract": "Falls are an important source of morbidity and mortality for older adults. The emergency department (ED) evaluation of an older patient who presents after a fall should include an assessment of events contributing to the acute fall, injuries sustained from it, as well as an underlying falls syndrome. ED measures and referrals to appropriate outpatient services on discharge can help ensure patients receive care and services that can help reduce future falls.",
-              "title_ko": ""
-            },
-            {
-              "pmid": "40210347",
-              "title": "The Importance of Addressing Social Drivers of Health and Unmet Social Needs in Optimizing Geriatric Emergency Care.",
-              "journal": "Emergency medicine clinics of North America",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2024-09-14",
-              "authors": [
-                "Shenvi C",
-                "Gottesman E",
-                "Rosen T"
-              ],
-              "citation_count": 1,
-              "rcr": null,
-              "volume": "43",
-              "issue": "2",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/40210347/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": false,
-              "hot_score": 5.8,
-              "field": "emergency",
-              "field_label": "응급의학",
-              "abstract": "Social factors and determinants have an immense impact on health. These \"social drivers of health\" have been broadly defined as economic and social conditions that influence the health of people and communities. Unmet social needs contribute to poor health outcomes, particularly for patients with poor access to outpatient care. Emergency departments (EDs) play a critical role in providing health care to vulnerable populations with these needs, and delivering this care is a central component of emergency medicine's public health mission. Here, the authors describe the major unmet social needs that may impact geriatric patients' care in the ED and provide some ways to address them.",
-              "title_ko": ""
-            },
-            {
-              "pmid": "40210341",
-              "title": "Frailty-aware Care in the Emergency Department.",
-              "journal": "Emergency medicine clinics of North America",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2024-09-27",
-              "authors": [
-                "Boreskie PE",
-                "Boreskie KF"
-              ],
-              "citation_count": 1,
-              "rcr": null,
-              "volume": "43",
-              "issue": "2",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/40210341/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": false,
-              "hot_score": 5.8,
-              "field": "emergency",
-              "field_label": "응급의학",
-              "abstract": "Older adults living with frailty are a growing population that will increasingly present to the emergency department (ED). This is a population that is at increased risk of adverse health outcomes and most EDs are not designed with their needs in mind. Instead of characterizing patients based on chronologic age or existing triage tools, frailty assessment offers an accurate, feasible, and patient-centered approach to improving care, and should be performed in the ED.",
-              "title_ko": ""
-            },
-            {
-              "pmid": "40210339",
-              "title": "Strategies for Improving Clinical Care of Older Adults in the Emergency Department.",
-              "journal": "Emergency medicine clinics of North America",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2024-09-25",
-              "authors": [
-                "Brousseau AA",
-                "Schonnop R",
-                "Melady D"
-              ],
-              "citation_count": 0,
-              "rcr": null,
-              "volume": "43",
-              "issue": "2",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/40210339/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": false,
-              "hot_score": 0.0,
-              "field": "emergency",
-              "field_label": "응급의학",
-              "abstract": "In the evolving landscape of emergency departments (EDs), the increasing number of older patients necessitates a paradigm shift. It is important for clinicians to have a working knowledge of geriatric syndromes, goals of care discussions, the importance of gathering collateral history, involving caregivers, assessing medication use, conducting a thorough physical examination, integrating an interdisciplinary team, ensuring basic equipment availability, and coordinating seamless transitions of care. Though nuanced, these strategies promise to enhance the quality of care for older adults in EDs.",
-              "title_ko": ""
-            }
-          ]
-        },
-        {
           "journal": "Hospital pediatrics",
           "impact_factor": 1.5,
           "index_type": "미상",
@@ -9677,6 +9507,69 @@
               "title_ko": ""
             }
           ]
+        },
+        {
+          "journal": "Applied nursing research : ANR",
+          "impact_factor": 1.5,
+          "index_type": "미상",
+          "quartile": "미상",
+          "paper_count": 1,
+          "top_paper": {
+            "pmid": "39617606",
+            "title": "Emergency department nurses' reflective thinking and patient safety competency: The mediating effect of patient safety culture.",
+            "journal": "Applied nursing research : ANR",
+            "impact_factor": 1.5,
+            "index_type": "미상",
+            "quartile": "미상",
+            "pubdate": "2024-09-24",
+            "authors": [
+              "Park MN",
+              "Roh YS"
+            ],
+            "citation_count": 4,
+            "rcr": 2.427905989085186,
+            "volume": "80",
+            "issue": "",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/39617606/",
+            "altmetric_score": 0,
+            "altmetric_news": 0,
+            "altmetric_social": 0,
+            "is_current_issue": false,
+            "hot_score": 13.5,
+            "field": "emergency",
+            "field_label": "응급의학",
+            "abstract": "AIM: This study aimed to identify the mediating effect of patient safety culture on the relationship between reflective thinking and patient safety competency in emergency department nurses. BACKGROUND: Given the complexity and the need for timely assessments and interventions in the emergency department, the patient safety competency of nurses is crucial for preventing safety incidents. METHODS: This study utilized a cross-sectional descriptive correlational design with a convenience sample of 200 emergency department nurses. Participants completed a web-based, self-administered questionnaire that assessed reflective thinking, patient safety culture, and patient safety competency. The percentile bootstrap method for mediation analysis was performed to ascertain the mediating role of patient safety culture in the relationship between reflective thinking and patient safety competency. RESULTS: Both reflective thinking and patient safety culture were significant predictors of patient safety competency. Furthermore, patient safety culture was found to mediate the relationship between reflective thinking and patient safety competency among emergency department nurses. CONCLUSIONS: The findings suggest that emergency department nurses could benefit from a competency enhancement program or quality improvement projects that focus on reflective thinking and patient safety culture, which are significant predictors of patient safety competency.",
+            "title_ko": ""
+          },
+          "papers": [
+            {
+              "pmid": "39617606",
+              "title": "Emergency department nurses' reflective thinking and patient safety competency: The mediating effect of patient safety culture.",
+              "journal": "Applied nursing research : ANR",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2024-09-24",
+              "authors": [
+                "Park MN",
+                "Roh YS"
+              ],
+              "citation_count": 4,
+              "rcr": 2.427905989085186,
+              "volume": "80",
+              "issue": "",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/39617606/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 13.5,
+              "field": "emergency",
+              "field_label": "응급의학",
+              "abstract": "AIM: This study aimed to identify the mediating effect of patient safety culture on the relationship between reflective thinking and patient safety competency in emergency department nurses. BACKGROUND: Given the complexity and the need for timely assessments and interventions in the emergency department, the patient safety competency of nurses is crucial for preventing safety incidents. METHODS: This study utilized a cross-sectional descriptive correlational design with a convenience sample of 200 emergency department nurses. Participants completed a web-based, self-administered questionnaire that assessed reflective thinking, patient safety culture, and patient safety competency. The percentile bootstrap method for mediation analysis was performed to ascertain the mediating role of patient safety culture in the relationship between reflective thinking and patient safety competency. RESULTS: Both reflective thinking and patient safety culture were significant predictors of patient safety competency. Furthermore, patient safety culture was found to mediate the relationship between reflective thinking and patient safety competency among emergency department nurses. CONCLUSIONS: The findings suggest that emergency department nurses could benefit from a competency enhancement program or quality improvement projects that focus on reflective thinking and patient safety culture, which are significant predictors of patient safety competency.",
+              "title_ko": ""
+            }
+          ]
         }
       ],
       "hot_topics": [
@@ -9811,14 +9704,14 @@
               0.0,
               81.5,
               62.4,
-              60.0
+              50.0
             ]
           },
           {
             "phrase": "cardiopulmonary resuscitation",
             "scores": [
               0.0,
-              57.4,
+              67.4,
               42.4,
               10.0
             ]
@@ -9829,7 +9722,16 @@
               0.0,
               35.0,
               46.6,
-              10.0
+              20.0
+            ]
+          },
+          {
+            "phrase": "first aid",
+            "scores": [
+              0.0,
+              48.5,
+              25.8,
+              0.0
             ]
           },
           {
@@ -9838,7 +9740,7 @@
               0.0,
               41.9,
               21.6,
-              20.0
+              10.0
             ]
           },
           {
@@ -9848,15 +9750,6 @@
               37.0,
               9.2,
               20.0
-            ]
-          },
-          {
-            "phrase": "first aid",
-            "scores": [
-              0.0,
-              38.5,
-              25.8,
-              0.0
             ]
           }
         ]
