@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-02T20:19:24.827705Z",
+  "generated_at": "2026-10-04T02:50:27.822996Z",
   "window_days": 1095,
   "fields": [
     {
       "key": "preventive",
       "label": "예방의학",
-      "paper_count": 441,
+      "paper_count": 446,
       "journals": [
         {
           "journal": "The Orthopedic clinics of North America",
@@ -462,7 +462,7 @@
           "impact_factor": 1.5,
           "index_type": "미상",
           "quartile": "미상",
-          "paper_count": 99,
+          "paper_count": 97,
           "top_paper": {
             "pmid": "39949340",
             "title": "Analysis of factors influencing HPV vaccination intention among Chinese college students: structural equation modeling based on health belief theory.",
@@ -4788,7 +4788,7 @@
           "impact_factor": 1.5,
           "index_type": "미상",
           "quartile": "미상",
-          "paper_count": 4,
+          "paper_count": 5,
           "top_paper": {
             "pmid": "41503766",
             "title": "Provider perspectives on HPV vaccine hesitancy in the post-COVID-19 era.",
@@ -4845,6 +4845,34 @@
               "field_label": "예방의학",
               "abstract": "While HPV vaccination is effective in prevention of many HPV-associated cancers, only 61.4% of US adolescents were up to date on their HPV vaccinations in 2023. In the period following the COVID-19 pandemic, a decrease in vaccine uptake was reported, along with a rise in vaccine hesitancy. This study aimed to understand these changes to HPV vaccination and vaccine hesitancy that occurred following the COVID-19 pandemic from providers' perspectives. We conducted 1-hour interviews with 12 participants over video calls that were then de-identified and transcribed. Eleven out of 12 providers noticed changes in their patients' attitudes toward vaccines after the onset of the COVID-19 pandemic. Many providers mentioned COVID vaccine hesitancy impacting the reputation of unrelated vaccinations. Other notable topics included an overwhelming volume of health information, polarization of viewpoints, and lack of trust in authority. Future research would include a larger, more diverse pool of provider participants, as well as incorporate patient interviews. The results of this study emphasize the need to promote health literacy and rebuild trust between patients and the healthcare system to combat vaccine hesitancy.",
               "title_ko": "COVID-19 이후 시대의 HPV 백신 망설임에 대한 제공자의 관점."
+            },
+            {
+              "pmid": "42826175",
+              "title": "Adult vaccination coverage and missed preventive care opportunities among Filipino adults with diabetes: A cross-sectional study.",
+              "journal": "Human vaccines & immunotherapeutics",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2026-10-02",
+              "authors": [
+                "Jacobo RJB",
+                "Villa ML",
+                "Isidro MJC"
+              ],
+              "citation_count": 0,
+              "rcr": null,
+              "volume": "22",
+              "issue": "1",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/42826175/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": true,
+              "hot_score": 10.0,
+              "field": "preventive",
+              "field_label": "예방의학",
+              "abstract": "Adults with diabetes mellitus are at increased risk of vaccine-preventable infections and complications. Despite recommendations for adult immunization, uptake remains suboptimal in many low- and middle-income countries, including the Philippines, where data remain limited. This cross-sectional study assessed adult immunization coverage and associated clinical and sociodemographic factors among Filipino adults with diabetes recruited from inpatient, outpatient, and community outreach settings at a tertiary hospital. Uptake of influenza, pneumococcal, herpes zoster, hepatitis B, tetanus-diphtheria-pertussis (Td/Tdap), and COVID-19 vaccines was evaluated using prespecified operational definitions. Crude associations and parsimonious multivariable logistic regression models were examined; COVID-19 vaccination was not modeled because only six participants were unvaccinated. Among 284 participants (mean age 61.5 ± 12.7 y, 55.6% females), uptake was 44.4% for influenza, 49.6% for pneumococcal, 18.1% for herpes zoster, 15.5% for hepatitis B, 23.2% for Td/Tdap, and 97.9% for the primary COVID-19 series. Males had lower adjusted odds of influenza and pneumococcal vaccination, while increasing age was associated with pneumococcal uptake. Middle and high household income and diabetes duration of 5-10 y were associated with influenza vaccination. Among adults aged ≥50 y, male sex and high income were associated with herpes zoster vaccination. High income was also associated with hepatitis B and Td/Tdap uptake. Provider recommendation was associated with all outcomes, while lack of provider recommendation, failure to prioritize vaccination, and financial constraints were common reasons for non-vaccination. Uptake was uneven and low for most recommended adult vaccines. Integrating vaccine assessment and counseling into diabetes care while addressing financial and access barriers may improve uptake.",
+              "title_ko": "당뇨병을 가진 필리핀 성인들 사이에서 성인 예방 접종 보장 및 놓친 예방 치료 기회: 단면 연구."
             },
             {
               "pmid": "42814974",
@@ -5034,6 +5062,15 @@
           ]
         },
         {
+          "phrase": "vaccination coverage",
+          "score": 26.9,
+          "paper_count": 2,
+          "pmids": [
+            "41906511",
+            "42826175"
+          ]
+        },
+        {
           "phrase": "genetic testing",
           "score": 21.0,
           "paper_count": 4,
@@ -5042,15 +5079,6 @@
             "40024009",
             "40225932",
             "42824384"
-          ]
-        },
-        {
-          "phrase": "challenges solutions",
-          "score": 20.7,
-          "paper_count": 2,
-          "pmids": [
-            "39890380",
-            "42457288"
           ]
         }
       ],
@@ -5122,7 +5150,7 @@
     {
       "key": "emergency",
       "label": "응급의학",
-      "paper_count": 453,
+      "paper_count": 456,
       "journals": [
         {
           "journal": "European respiratory review : an official journal of the European Respiratory Society",
@@ -5443,7 +5471,7 @@
             "field": "emergency",
             "field_label": "응급의학",
             "abstract": "BACKGROUND: The benefit of transfusion of fresh frozen plasma (FFP) and platelets in a 1:1 ratio with packed red blood cells (PRBCs) is well established; however, the benefit of a particular ratio of cryoprecipitate to PRBC is not. The Joint Trauma System updated its 2019 Damage Control Resuscitation Guideline by recommending empiric 1:1 cryoprecipitate/PRBCs. We hypothesized that patients receiving product within the cryoprecipitate/PRBC guideline range (high ratio) would have an associated reduction in mortality. METHODS: We included adult patients in the Trauma Quality Improvement Program data registry (2013-2021) who received at least 5 U of PRBCs and 1 U of FFP within 4 hours. Death within 30 minutes, nonsurvivable injury patterns, preexisting coagulopathy, advanced directives, transfers, and burns were excluded. Patients were partitioned into high (≥1:1), medium (≥1:2 to <1:1), and low (<1:2) cryoprecipitate/PRBC ratios. Treatment effects were estimated with propensity score-weighted risk adjustment models, clustering by center. The primary outcome was 6-hour mortality. Secondary outcomes included 24-hour and inpatient mortality. Adjusting for FFP, platelets, and whole blood was included as a sensitivity analysis. RESULTS: A total of 49,301 patients (high, 5,284; medium, 3,630; low, 40,387) were included. The mean age was 39, 79% were male, 58% suffered blunt trauma, and the mean Injury Severity Score was 29. Unadjusted 6-hour mortality was 11.8%, 18.8%, and 21.3% for high, medium, and low ratios. High ratio was protective as compared with low at 6 hour (adjusted odds ratio [aOR], 0.52; 95% confidence interval [CI], 0.45-0.58) and 24 hours (aOR, 0.74; 95% CI, 0.67-0.82), and medium ratio was protective as compared with low ratio at 6 hours (aOR, 0.78; 95% CI, 0.70-0.87). Blood product sensitivity analysis demonstrated that high and medium ratios were protective of 6-hour, 24-hour, and inpatient mortality. CONCLUSION: High cryoprecipitate ratios were independently associated with decreased mortality in massively transfused civilian trauma patients during the first 24 hours. Future prospective multicenter randomized trials are warranted. LEVEL OF EVIDENCE: Prognostic and Epidemiological; Level III.",
-            "title_ko": "냉동침전 (cryoprecipitate) 을 잊지 마십시오: 2019년 관절 외상 시스템 손상 통제 소생술 임상 진료 지침이 사망률에 미치는 영향."
+            "title_ko": ""
           },
           "papers": [
             {
@@ -5472,7 +5500,7 @@
               "field": "emergency",
               "field_label": "응급의학",
               "abstract": "BACKGROUND: The benefit of transfusion of fresh frozen plasma (FFP) and platelets in a 1:1 ratio with packed red blood cells (PRBCs) is well established; however, the benefit of a particular ratio of cryoprecipitate to PRBC is not. The Joint Trauma System updated its 2019 Damage Control Resuscitation Guideline by recommending empiric 1:1 cryoprecipitate/PRBCs. We hypothesized that patients receiving product within the cryoprecipitate/PRBC guideline range (high ratio) would have an associated reduction in mortality. METHODS: We included adult patients in the Trauma Quality Improvement Program data registry (2013-2021) who received at least 5 U of PRBCs and 1 U of FFP within 4 hours. Death within 30 minutes, nonsurvivable injury patterns, preexisting coagulopathy, advanced directives, transfers, and burns were excluded. Patients were partitioned into high (≥1:1), medium (≥1:2 to <1:1), and low (<1:2) cryoprecipitate/PRBC ratios. Treatment effects were estimated with propensity score-weighted risk adjustment models, clustering by center. The primary outcome was 6-hour mortality. Secondary outcomes included 24-hour and inpatient mortality. Adjusting for FFP, platelets, and whole blood was included as a sensitivity analysis. RESULTS: A total of 49,301 patients (high, 5,284; medium, 3,630; low, 40,387) were included. The mean age was 39, 79% were male, 58% suffered blunt trauma, and the mean Injury Severity Score was 29. Unadjusted 6-hour mortality was 11.8%, 18.8%, and 21.3% for high, medium, and low ratios. High ratio was protective as compared with low at 6 hour (adjusted odds ratio [aOR], 0.52; 95% confidence interval [CI], 0.45-0.58) and 24 hours (aOR, 0.74; 95% CI, 0.67-0.82), and medium ratio was protective as compared with low ratio at 6 hours (aOR, 0.78; 95% CI, 0.70-0.87). Blood product sensitivity analysis demonstrated that high and medium ratios were protective of 6-hour, 24-hour, and inpatient mortality. CONCLUSION: High cryoprecipitate ratios were independently associated with decreased mortality in massively transfused civilian trauma patients during the first 24 hours. Future prospective multicenter randomized trials are warranted. LEVEL OF EVIDENCE: Prognostic and Epidemiological; Level III.",
-              "title_ko": "냉동침전 (cryoprecipitate) 을 잊지 마십시오: 2019년 관절 외상 시스템 손상 통제 소생술 임상 진료 지침이 사망률에 미치는 영향."
+              "title_ko": ""
             },
             {
               "pmid": "40608534",
@@ -6177,6 +6205,71 @@
               "field": "emergency",
               "field_label": "응급의학",
               "abstract": "OBJECTIVE: To investigate whether direct admission to geriatric inpatient care from the emergency department (EMD) was associated with lower length of stay (LOS) and cost compared to patients admitted through an acute medical unit (AMU). METHODS: Retrospective single-centre cohort study conducted using hospital database on older patients ≥ 75 years discharged from geriatric inpatient service in a tertiary academic centre from March 2021 to September 2021 who were admitted through AMU or direct from EMD. INTERVENTION: Traditional AMU run by internists followed by geriatrician led-care compared with geriatrician led-care. MEASURE: We evaluated the difference in median length of stay (LOS), and cost using quantile regression adjusted for primary discharge diagnoses, hospital frailty risk score (HFRS) and Age-adjusted Charlson Comorbidity Index (ACCI). RESULTS: Among 574 older patients, 140 (24.4%) were admitted from AMU. Mean age was 84.0 ± 6.3 years and 83.8% were categorized as high or intermediate frailty risk based on HFRS. 46% of patients admitted through EMD were discharged within three days. After adjusting for primary diagnoses, HFRS, and ACCI, patients admitted through AMU had a longer median LOS of 1.6 days (95% confidence interval (CI): 0.86-2.4, p<0.001), higher total cost $1386.0 (95% CI 733-2038, p<0.001), laboratory cost $226.0 (95% CI 131-322, p<0.001), medication cost $65.0 (95% CI 15-115, p<0.010), physiotherapy cost $45.0 (95% CI 16-75, p=0.002) and occupational therapy cost $35.0 (95% CI 12-58, p=0.003). CONCLUSION: Older adults admitted through AMU had significantly longer median LOS, higher total cost, physiotherapy and occupational therapy costs, medication, and laboratory costs.",
+              "title_ko": ""
+            }
+          ]
+        },
+        {
+          "journal": "The American journal of emergency medicine",
+          "impact_factor": 2.7,
+          "index_type": "미상",
+          "quartile": "미상",
+          "paper_count": 1,
+          "top_paper": {
+            "pmid": "39880787",
+            "title": "Predicting falls with ultrasound, physical parameters or fall-risk questions among older adults: A prospective cohort study.",
+            "journal": "The American journal of emergency medicine",
+            "impact_factor": 2.7,
+            "index_type": "미상",
+            "quartile": "미상",
+            "pubdate": "2024-10-05",
+            "authors": [
+              "Liu SW",
+              "Thatphet P",
+              "Wongtangman T"
+            ],
+            "citation_count": 4,
+            "rcr": null,
+            "volume": "91",
+            "issue": "",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/39880787/",
+            "altmetric_score": 0,
+            "altmetric_news": 0,
+            "altmetric_social": 0,
+            "is_current_issue": false,
+            "hot_score": 21.0,
+            "field": "emergency",
+            "field_label": "응급의학",
+            "abstract": "BACKGROUND: Falls are a significant issue among older adults, leading to morbidity and mortality. Screening for fall risk in the ED is crucial but challenging due to time limitations and patient conditions. Sarcopenia, characterized by muscle loss, is associated with increased fall risk, and ultrasound has been proposed as a non-invasive tool to measure muscle mass in this context. METHODS: This prospective cohort study enrolled 174 older adults from an urban teaching hospital's EDOU, assessing muscle mass via POCUS, grip strength, Timed Up and Go (TUG) test, and fall risk using the STEADI toolkit. The patients were followed up over six months to assess if they had fallen or not. RESULTS: Follow-up identified 37 participants (21 %) as patients who fell. There was no significant association between POCUS-measured muscle mass, grip strength, or TUG test performance with future falls. In contrast, STEADI questionnaire responses demonstrated significant differences between patients who fell and did not fall, suggesting its potential utility in predicting fall risk in this population. CONCLUSION: The simpler tool, the STEADI questionnaire, may offer more practicality in screening fall risk compared to complex ultrasound measurements or physical performance tests among the older in ED.",
+            "title_ko": ""
+          },
+          "papers": [
+            {
+              "pmid": "39880787",
+              "title": "Predicting falls with ultrasound, physical parameters or fall-risk questions among older adults: A prospective cohort study.",
+              "journal": "The American journal of emergency medicine",
+              "impact_factor": 2.7,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2024-10-05",
+              "authors": [
+                "Liu SW",
+                "Thatphet P",
+                "Wongtangman T"
+              ],
+              "citation_count": 4,
+              "rcr": null,
+              "volume": "91",
+              "issue": "",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/39880787/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 21.0,
+              "field": "emergency",
+              "field_label": "응급의학",
+              "abstract": "BACKGROUND: Falls are a significant issue among older adults, leading to morbidity and mortality. Screening for fall risk in the ED is crucial but challenging due to time limitations and patient conditions. Sarcopenia, characterized by muscle loss, is associated with increased fall risk, and ultrasound has been proposed as a non-invasive tool to measure muscle mass in this context. METHODS: This prospective cohort study enrolled 174 older adults from an urban teaching hospital's EDOU, assessing muscle mass via POCUS, grip strength, Timed Up and Go (TUG) test, and fall risk using the STEADI toolkit. The patients were followed up over six months to assess if they had fallen or not. RESULTS: Follow-up identified 37 participants (21 %) as patients who fell. There was no significant association between POCUS-measured muscle mass, grip strength, or TUG test performance with future falls. In contrast, STEADI questionnaire responses demonstrated significant differences between patients who fell and did not fall, suggesting its potential utility in predicting fall risk in this population. CONCLUSION: The simpler tool, the STEADI questionnaire, may offer more practicality in screening fall risk compared to complex ultrasound measurements or physical performance tests among the older in ED.",
               "title_ko": ""
             }
           ]
@@ -7217,25 +7310,25 @@
           "impact_factor": 1.5,
           "index_type": "미상",
           "quartile": "미상",
-          "paper_count": 43,
+          "paper_count": 42,
           "top_paper": {
-            "pmid": "41323619",
-            "title": "Assessing the magnitude of burnout among emergency nurses in Portugal.",
+            "pmid": "39872099",
+            "title": "Addressing the overuse of hospital emergency departments in the Portuguese NHS: a new paradigm.",
             "journal": "Frontiers in public health",
             "impact_factor": 1.5,
             "index_type": "미상",
             "quartile": "미상",
-            "pubdate": "2025-11-13",
+            "pubdate": "2025-01-13",
             "authors": [
-              "Fernandes JB",
-              "Antunes R",
-              "Ivanel M"
+              "Goiana-da-Silva F",
+              "Costa S",
+              "Malcata F"
             ],
             "citation_count": 6,
-            "rcr": 2.5262831609681387,
-            "volume": "13",
+            "rcr": 2.381451048446359,
+            "volume": "12",
             "issue": "",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/41323619/",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/39872099/",
             "altmetric_score": 0,
             "altmetric_news": 0,
             "altmetric_social": 0,
@@ -7243,38 +7336,10 @@
             "hot_score": 16.3,
             "field": "emergency",
             "field_label": "응급의학",
-            "abstract": "BACKGROUND: Burnout is a health condition associated with chronic work-related stress. Nurses working in hospital emergency rooms are particularly susceptible to experiencing burnout. It is crucial to understand the phenomena of burnout among emergency room nurses, particularly in light of the COVID-19 pandemic that healthcare professionals have confronted. This study aims to evaluate burnout among nurses working in emergency rooms while examining the relationship between burnout and sociodemographic and occupational variables. METHODS: This descriptive, observational, and cross-sectional study utilized a web-based survey administered to 112 nurses from eight hospital emergency rooms in the Lisbon metropolitan area between November 2022 and February 2023. Burnout was measured using the Portuguese version of the Maslach Burnout Inventory (MBI), which assessed three subscales: Emotional Exhaustion (EE), Depersonalization (DP), and Personal Accomplishment (PA). The relationship between burnout and sociodemographic and professional characteristics of nurses in emergency rooms was analyzed using Chi-square tests and one-way ANOVA. RESULTS: The prevalence of burnout was 56.6%, with 27.4% experiencing severe burnout. The three subscales of the MBI showed high prevalence rates: 49.1% for EE, 44.6% for DP, and 38.4% for low PA. Severe burnout and high EE were associated with younger age, being single, not having children, having less professional experience, less graduate training, and having more precarious employment contracts. CONCLUSIONS: Three years after the onset of the COVID-19 pandemic, the results highlight the ongoing critical situation arising from the cumulative effects of the crisis on the Portuguese healthcare system, leading to high rates of burnout and EE among emergency room nurses.",
+            "abstract": "The escalating trend of inappropriate visits to Emergency Departments (ED) has led to significant concerns, including resource misallocation, compromised patient care, and an increased burden on healthcare workers. Portugal faces a notable challenge, reporting one of the highest per capita ED visit rates, with an annual average of approximately 6 million ED visits from 2013 to 2023. In response, the \"Call First, Save Lives\" pilot project was launched by the Portuguese NHS Executive Board, in 2023, at the Local Health Unit (LHU) of Póvoa de Varzim/Vila do Conde. This project leverages the SNS 24 telephone triage system to direct patients to the most appropriate care settings, alleviating pressure on ED, and optimizing healthcare resources. The project introduced several strategic enhancements, including optimizations of the SNS 24 system and inter-institutional initiatives to promote interoperability, hospital follow-ups for chronic conditions, and a \"reverse referral\" system directing non-urgent ED cases to Primary Care Services (PCS). In PCS, the project expanded acute care consultations and introduced complementary health services. The initiative also emphasized communication to improve health literacy and appropriate utilization of the NHS, supported by legal framework development. Since the beginning of the project, the number of calls received by SNS 24 showed an upward trend, both at the local, 27.6%, and national level, 44.5%, having already expanded to other LHU. Nonetheless, challenges such as the \"reverse referral\" process complexity, healthcare information systems integration, and procedural standardization need addressing, with future plans including satisfaction surveys and patient triage protocol refinements to improve service delivery and patient adherence.",
             "title_ko": ""
           },
           "papers": [
-            {
-              "pmid": "41323619",
-              "title": "Assessing the magnitude of burnout among emergency nurses in Portugal.",
-              "journal": "Frontiers in public health",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2025-11-13",
-              "authors": [
-                "Fernandes JB",
-                "Antunes R",
-                "Ivanel M"
-              ],
-              "citation_count": 6,
-              "rcr": 2.5262831609681387,
-              "volume": "13",
-              "issue": "",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/41323619/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": false,
-              "hot_score": 16.3,
-              "field": "emergency",
-              "field_label": "응급의학",
-              "abstract": "BACKGROUND: Burnout is a health condition associated with chronic work-related stress. Nurses working in hospital emergency rooms are particularly susceptible to experiencing burnout. It is crucial to understand the phenomena of burnout among emergency room nurses, particularly in light of the COVID-19 pandemic that healthcare professionals have confronted. This study aims to evaluate burnout among nurses working in emergency rooms while examining the relationship between burnout and sociodemographic and occupational variables. METHODS: This descriptive, observational, and cross-sectional study utilized a web-based survey administered to 112 nurses from eight hospital emergency rooms in the Lisbon metropolitan area between November 2022 and February 2023. Burnout was measured using the Portuguese version of the Maslach Burnout Inventory (MBI), which assessed three subscales: Emotional Exhaustion (EE), Depersonalization (DP), and Personal Accomplishment (PA). The relationship between burnout and sociodemographic and professional characteristics of nurses in emergency rooms was analyzed using Chi-square tests and one-way ANOVA. RESULTS: The prevalence of burnout was 56.6%, with 27.4% experiencing severe burnout. The three subscales of the MBI showed high prevalence rates: 49.1% for EE, 44.6% for DP, and 38.4% for low PA. Severe burnout and high EE were associated with younger age, being single, not having children, having less professional experience, less graduate training, and having more precarious employment contracts. CONCLUSIONS: Three years after the onset of the COVID-19 pandemic, the results highlight the ongoing critical situation arising from the cumulative effects of the crisis on the Portuguese healthcare system, leading to high rates of burnout and EE among emergency room nurses.",
-              "title_ko": ""
-            },
             {
               "pmid": "39872099",
               "title": "Addressing the overuse of hospital emergency departments in the Portuguese NHS: a new paradigm.",
@@ -7468,6 +7533,34 @@
               "field": "emergency",
               "field_label": "응급의학",
               "abstract": "OBJECTIVE: Schools are high-risk environments for children's accidents, and teachers, as first responders, play a crucial role in providing timely assistance. Given the low incidence of bystander cardiopulmonary resuscitation (CPR) in China, this study aims to evaluate the CPR knowledge and intention to perform CPR among school staff and identify influencing factors. METHODS: A cross-sectional online survey was conducted from April to June 2022 among 639 kindergarten staff in Changsha, China. The questionnaire evaluated demographics, prior CPR training, knowledge levels, and factors influencing the intention to perform CPR using the Theory of Planned Behavior (TPB). RESULTS: Among participants, 77.6% reported prior CPR training, predominantly workplace-organized (64.4%) and combining theoretical-practical instruction (72.3%). Knowledge levels averaged 4.7/10, with pronounced deficiencies in AED application (18.8% accuracy). Willingness to perform CPR on strangers was expressed by 71.7% of respondents. Multivariate analysis identified stronger CPR intention among staff aged 35-44 years, those with familial cardiac risk factors, and individuals with superior knowledge (p < 0.05). Structural equation modeling revealed that perceived behavioral control (β = 0.371, p < 0.001), subjective norms (β = 0.368, p < 0.001), and attitudes (β = 0.078, p = 0.031) significantly predicted CPR intention (total R 2 = 49.9%), while perceived risk had no significant effect (β = -0.007, p = 0.840). CONCLUSIONS: Changsha's kindergarten staff exhibit substantial CPR knowledge, strongly linked to prior training. The findings underscore the necessity for standardized, recurrent CPR education programs and enhanced legal protections to optimize bystander intervention rates in school settings.",
+              "title_ko": ""
+            },
+            {
+              "pmid": "41487617",
+              "title": "Early mortality prediction after severe trauma using ensemble machine learning: a single-center retrospective study.",
+              "journal": "Frontiers in public health",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2025-12-18",
+              "authors": [
+                "Ling L",
+                "Ma J",
+                "Xia X"
+              ],
+              "citation_count": 2,
+              "rcr": null,
+              "volume": "13",
+              "issue": "",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/41487617/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 9.2,
+              "field": "emergency",
+              "field_label": "응급의학",
+              "abstract": "Early identification of trauma patients at risk of in-hospital death is essential for guiding time-critical resuscitation and operative strategies. We developed and evaluated a multi-model machine learning framework that integrates vital signs, and routine laboratory and blood-gas metrics indices obtained within 30 min of emergency department arrival to predict in-hospital mortality. This single-center retrospective study included 408 critically injured trauma patients treated at the Emergency Department of the Affiliated Kunshan Hospital of Jiangsu University (January 2020-December 2021). We implemented multiple machine learning models [logistic regression, Random Forest, Gradient Boosting, XGBoost, LightGBM, and multilayer perceptron (MLP)], and constructed stacking and soft-voting ensembles. On the test set, single-model AUROC ranged from 0.743 to 0.927, with corresponding AUPRC spanning 0.438 to 0.904. The stacking ensemble achieved AUROC 0.9462 and AUPRC 0.8679; the voting ensemble achieved AUROC 0.9506 and AUPRC 0.8715. Permutation importance in the stacking model prioritized Injury Severity Score (ISS) (mean AUROC decrease 0.0360), base excess (BE) (0.0258), Glasgow Coma Scale (GCS) (0.0247), and pH (0.0153). In conclusion, an ensemble machine learning approach integrating early vital signs and laboratory data provides excellent discrimination and calibration for in-hospital mortality after severe trauma, with dominant contributions from ISS, GCS, and acid-base variables. These findings support the feasibility of interpretable ensemble learning for early mortality risk stratification in severe trauma.",
               "title_ko": ""
             }
           ]
@@ -9507,69 +9600,6 @@
               "title_ko": ""
             }
           ]
-        },
-        {
-          "journal": "Applied nursing research : ANR",
-          "impact_factor": 1.5,
-          "index_type": "미상",
-          "quartile": "미상",
-          "paper_count": 1,
-          "top_paper": {
-            "pmid": "39617606",
-            "title": "Emergency department nurses' reflective thinking and patient safety competency: The mediating effect of patient safety culture.",
-            "journal": "Applied nursing research : ANR",
-            "impact_factor": 1.5,
-            "index_type": "미상",
-            "quartile": "미상",
-            "pubdate": "2024-09-24",
-            "authors": [
-              "Park MN",
-              "Roh YS"
-            ],
-            "citation_count": 4,
-            "rcr": 2.427905989085186,
-            "volume": "80",
-            "issue": "",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/39617606/",
-            "altmetric_score": 0,
-            "altmetric_news": 0,
-            "altmetric_social": 0,
-            "is_current_issue": false,
-            "hot_score": 13.5,
-            "field": "emergency",
-            "field_label": "응급의학",
-            "abstract": "AIM: This study aimed to identify the mediating effect of patient safety culture on the relationship between reflective thinking and patient safety competency in emergency department nurses. BACKGROUND: Given the complexity and the need for timely assessments and interventions in the emergency department, the patient safety competency of nurses is crucial for preventing safety incidents. METHODS: This study utilized a cross-sectional descriptive correlational design with a convenience sample of 200 emergency department nurses. Participants completed a web-based, self-administered questionnaire that assessed reflective thinking, patient safety culture, and patient safety competency. The percentile bootstrap method for mediation analysis was performed to ascertain the mediating role of patient safety culture in the relationship between reflective thinking and patient safety competency. RESULTS: Both reflective thinking and patient safety culture were significant predictors of patient safety competency. Furthermore, patient safety culture was found to mediate the relationship between reflective thinking and patient safety competency among emergency department nurses. CONCLUSIONS: The findings suggest that emergency department nurses could benefit from a competency enhancement program or quality improvement projects that focus on reflective thinking and patient safety culture, which are significant predictors of patient safety competency.",
-            "title_ko": ""
-          },
-          "papers": [
-            {
-              "pmid": "39617606",
-              "title": "Emergency department nurses' reflective thinking and patient safety competency: The mediating effect of patient safety culture.",
-              "journal": "Applied nursing research : ANR",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2024-09-24",
-              "authors": [
-                "Park MN",
-                "Roh YS"
-              ],
-              "citation_count": 4,
-              "rcr": 2.427905989085186,
-              "volume": "80",
-              "issue": "",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/39617606/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": false,
-              "hot_score": 13.5,
-              "field": "emergency",
-              "field_label": "응급의학",
-              "abstract": "AIM: This study aimed to identify the mediating effect of patient safety culture on the relationship between reflective thinking and patient safety competency in emergency department nurses. BACKGROUND: Given the complexity and the need for timely assessments and interventions in the emergency department, the patient safety competency of nurses is crucial for preventing safety incidents. METHODS: This study utilized a cross-sectional descriptive correlational design with a convenience sample of 200 emergency department nurses. Participants completed a web-based, self-administered questionnaire that assessed reflective thinking, patient safety culture, and patient safety competency. The percentile bootstrap method for mediation analysis was performed to ascertain the mediating role of patient safety culture in the relationship between reflective thinking and patient safety competency. RESULTS: Both reflective thinking and patient safety culture were significant predictors of patient safety competency. Furthermore, patient safety culture was found to mediate the relationship between reflective thinking and patient safety competency among emergency department nurses. CONCLUSIONS: The findings suggest that emergency department nurses could benefit from a competency enhancement program or quality improvement projects that focus on reflective thinking and patient safety culture, which are significant predictors of patient safety competency.",
-              "title_ko": ""
-            }
-          ]
         }
       ],
       "hot_topics": [
@@ -9735,21 +9765,21 @@
             ]
           },
           {
-            "phrase": "intensive unit",
-            "scores": [
-              0.0,
-              41.9,
-              21.6,
-              10.0
-            ]
-          },
-          {
             "phrase": "respiratory failure",
             "scores": [
               0.0,
               37.0,
               9.2,
               20.0
+            ]
+          },
+          {
+            "phrase": "intensive unit",
+            "scores": [
+              0.0,
+              32.7,
+              21.6,
+              10.0
             ]
           }
         ]
