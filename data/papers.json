@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-06T20:20:35.763764Z",
+  "generated_at": "2026-10-07T20:22:01.126044Z",
   "window_days": 1095,
   "fields": [
     {
       "key": "preventive",
       "label": "예방의학",
-      "paper_count": 439,
+      "paper_count": 443,
       "journals": [
         {
           "journal": "The Orthopedic clinics of North America",
@@ -462,7 +462,7 @@
           "impact_factor": 1.5,
           "index_type": "미상",
           "quartile": "미상",
-          "paper_count": 98,
+          "paper_count": 96,
           "top_paper": {
             "pmid": "39949340",
             "title": "Analysis of factors influencing HPV vaccination intention among Chinese college students: structural equation modeling based on health belief theory.",
@@ -3101,7 +3101,7 @@
           "impact_factor": 1.5,
           "index_type": "미상",
           "quartile": "미상",
-          "paper_count": 17,
+          "paper_count": 19,
           "top_paper": {
             "pmid": "39981298",
             "title": "Staphylococcus aureus-specific TIGIT(+) Treg are present in the blood of healthy subjects - a hurdle for vaccination?",
@@ -4676,7 +4676,7 @@
           "impact_factor": 1.5,
           "index_type": "미상",
           "quartile": "미상",
-          "paper_count": 5,
+          "paper_count": 4,
           "top_paper": {
             "pmid": "39877848",
             "title": "Shifting paradigms in primary aldosteronism: reconsideration of screening strategy via integrating pathophysiological insights.",
@@ -4817,34 +4817,6 @@
               "field_label": "예방의학",
               "abstract": "OBJECTIVE: To compare cumulative live birth rates (CLBR) between preimplantation genetic testing for aneuploidy (PGT-A) and conventional IVF/ICSI in women with unexplained recurrent pregnancy loss (uRPL) using intention-to-treat (ITT) and per-protocol (PP) analyses, and to assess effect modification by maternal age and prior miscarriage number. METHODS: This single-center retrospective cohort (2018-2024) included women with uRPL undergoing their first oocyte retrieval with planned single-blastocyst transfer. The ITT population included 589 patients (342 PGT-A vs 247 IVF/ICSI); after excluding patients who never underwent transfer and 47 patients (16 PGT-A, 31 IVF/ICSI) with remaining cryopreserved embryos and no live birth at the follow-up cutoff, the PP population included 389 patients (221 vs 168) who completed at least one transfer. Stabilized inverse probability of treatment weighting with doubly robust adjustment and robust variance estimation was applied. The primary outcome was CLBR per oocyte retrieval. RESULTS: In the ITT population, unadjusted CLBR was comparable (48.5% vs 47.4%, P = 0.779) and remained non-significant after adjustment (aOR 0.862, 95% CI 0.591-1.255, P = 0.437). In the PP population, neither first-transfer live birth (63.8% vs 58.3%, P = 0.272; aOR 0.942, P = 0.814) nor CLBR (75.1% vs 69.6%, P = 0.230; aOR 0.858, P = 0.595) differed significantly. Age and prior miscarriage number did not significantly modify the treatment-CLBR association (age: ITT P = 0.871, PP P = 0.071; miscarriage number: ITT P = 0.695, PP P = 0.289; both miscarriage-number tests were exploratory owing to limited propensity-score overlap in the >2-miscarriage stratum). Among women aged ≥35 years, ITT CLBR did not differ (33.6% vs 29.7%, P = 0.534; aOR 0.846, 95% CI 0.447-1.603, P = 0.608). Unadjusted PP outcomes favored PGT-A among women aged ≥35 years and those with exactly two prior miscarriages, but no adjusted differences remained significant after Bonferroni correction, except first-transfer clinical pregnancy in the ≥35-year stratum, which requires cautious interpretation. Miscarriage rates did not differ significantly between groups; no statistically significant perinatal differences were observed in this sample (166 vs 117 deliveries). CONCLUSIONS: PGT-A did not improve CLBR per oocyte retrieval in women with uRPL and should not be routinely recommended. Unadjusted PP subgroup advantages are more plausibly attributable to embryo attrition and residual confounding than true benefit and require prospective confirmation.",
               "title_ko": "설명되지 않은 재발성 임신 손실에서 기존의 IVF/ICSI 대비 이수성에 대한 이식 전 유전자 검사 후 누적 출산: 치료 의향 및 임상시험계획서별 분석을 통한 후향적 코호트 연구."
-            },
-            {
-              "pmid": "42798329",
-              "title": "The effectiveness of self-care interventions in working-age adults with type 2 diabetes mellitus: a systematic review and meta-analysis.",
-              "journal": "Frontiers in endocrinology",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2026-09-11",
-              "authors": [
-                "Zhu Q",
-                "Xia M",
-                "Zheng S"
-              ],
-              "citation_count": 0,
-              "rcr": null,
-              "volume": "17",
-              "issue": "",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/42798329/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": false,
-              "hot_score": 0.0,
-              "field": "preventive",
-              "field_label": "예방의학",
-              "abstract": "BACKGROUND: The prevalence of type 2 diabetes mellitus (T2DM) is rapidly increasing among working-age adults. This group faces unique challenges in sustaining effective self-care due to social and occupational demands. We conducted a systematic review and meta-analysis to evaluate the effectiveness of self-care interventions on glycemic control and self-care behaviors among working-age adults with T2DM. METHODS: We searched nine databases (PubMed, Embase, CINAHL, Cochrane Library, Web of Science, CBM, CNKI, CQVIP, and Wan Fang) to identify randomized controlled trials (RCTs) published from January 2020 to April 2025. Eligible studies included 18-60-year-old adults with T2DM receiving self-care interventions. Review Manager 5.4 was employed to calculate pooled mean differences (MD) with 95% confidence intervals (CI). Risk of bias was assessed using the Cochrane RoB2 tool. RESULTS: Forty-seven RCTs with 6,464 participants met the inclusion criteria. Compared to controls, self-care interventions significantly reduced HbA1c (MD -0.26, 95% CI -0.43 to -0.09), total cholesterol (MD -0.15, 95% CI -0.28 to -0.02), body mass index (MD -0.52, 95% CI -1.01 to -0.03), and increased high-density lipoproteins levels (MD 0.19, 95% CI 0.06 to 0.33). Improvements were also observed in self-care behaviors (SMD 0.74, 95% CI 0.62 to 0.86) and self-efficacy (SMD 1.14, 95% CI 0.51 to 1.76). No significant effects were found for fasting blood glucose or 2-hour plasma glucose. Substantial heterogeneity existed across studies. CONCLUSIONS: Self-care interventions improved glycemic control and related outcomes in working-age adults with T2DM, although high heterogeneity and variable study quality limited interpretation and generalizability. Future trials should adopt standardized reporting systems for interventions, robust design, and longer follow-up to better inform clinical practice and public health policy. SYSTEMATIC REVIEW REGISTRATION: https://www.crd.york.ac.uk/PROSPERO/view/CRD420251037017, identifier CRD420251037017.",
-              "title_ko": "제2형 당뇨병을 가진 생산가능 성인을 대상으로 한 자가간호 중재의 효과: 체계적인 검토와 메타분석."
             }
           ]
         }
@@ -4853,7 +4825,7 @@
         {
           "phrase": "type diabetes",
           "score": 83.4,
-          "paper_count": 8,
+          "paper_count": 7,
           "pmids": [
             "40302946",
             "40302970",
@@ -4861,8 +4833,7 @@
             "42812137",
             "39978849",
             "40655936",
-            "41641034",
-            "42798329"
+            "41641034"
           ]
         },
         {
@@ -4886,13 +4857,12 @@
         {
           "phrase": "diabetes mellitus",
           "score": 39.9,
-          "paper_count": 5,
+          "paper_count": 4,
           "pmids": [
             "40302970",
             "40707091",
             "40655936",
-            "41641034",
-            "42798329"
+            "41641034"
           ]
         },
         {
@@ -4984,7 +4954,7 @@
               0.0,
               71.4,
               11.0,
-              21.0
+              31.0
             ]
           },
           {
@@ -4997,21 +4967,21 @@
             ]
           },
           {
-            "phrase": "cervical cancer",
-            "scores": [
-              0.0,
-              6.9,
-              13.8,
-              40.0
-            ]
-          },
-          {
             "phrase": "cancer screening",
             "scores": [
               0.0,
               0.0,
               0.0,
-              56.9
+              66.9
+            ]
+          },
+          {
+            "phrase": "quality life",
+            "scores": [
+              0.0,
+              40.7,
+              10.0,
+              10.0
             ]
           },
           {
@@ -5516,7 +5486,7 @@
             "field": "emergency",
             "field_label": "응급의학",
             "abstract": "PURPOSE: This study aimed to assess the levels and sources of noise in the emergency intensive care unit (EICU) of an emergency department and investigate their effects on the sleep quality of conscious patients. METHODS: A study was conducted on patients admitted to the EICU from December 2020 to December 2023. They were categorised according to their sleep quality with the Pittsburgh Sleep Quality Index. Environmental noise levels were measured using precision sound level metres and environmental noise automatic monitoring instruments. Data analysis was performed using SPSS version 25.0, and Chi-square test, Fisher's exact probability and t-tests were conducted when applicable. The significance threshold was set at P < 0.05. Regression analysis was carried out for indicators with significant differences. RESULTS: A total of 200 patients were included in the study. Of them 96 in the ideal sleep group and 104 in the non-ideal sleep group. Patients with non-ideal sleep experienced significantly higher noise levels across various measures (P < 0.05). Additionally, patients with non-ideal sleep reported significantly higher occurrences of noise-related awakening, difficulty in falling asleep, nightmares or vivid dreams and sleepwalking episodes (P < 0.05). Significant differences in staff activities, including staff conversations, equipment noise exposure, cleaning activities, patient interventions and overhead pages, were observed between the groups (P < 0.05). Multivariate logistic regression analysis indicating that the average noise level, conversational speech, equipment alarms, ambient noise, peak noise levels, staff conversations, cleaning activities, patient interventions and overhead pages were significant contributors to poor sleep. CONCLUSION: The study suggested that high noise levels and staff-related activities affected the sleep quality of conscious patients in the EICU. Targeted measures could improve the prognoses of patients.",
-            "title_ko": ""
+            "title_ko": "응급 중환자실의 의식 환자의 수면 질에 대한 소음의 수준과 원천의 영향."
           },
           "papers": [
             {
@@ -5544,7 +5514,7 @@
               "field": "emergency",
               "field_label": "응급의학",
               "abstract": "PURPOSE: This study aimed to assess the levels and sources of noise in the emergency intensive care unit (EICU) of an emergency department and investigate their effects on the sleep quality of conscious patients. METHODS: A study was conducted on patients admitted to the EICU from December 2020 to December 2023. They were categorised according to their sleep quality with the Pittsburgh Sleep Quality Index. Environmental noise levels were measured using precision sound level metres and environmental noise automatic monitoring instruments. Data analysis was performed using SPSS version 25.0, and Chi-square test, Fisher's exact probability and t-tests were conducted when applicable. The significance threshold was set at P < 0.05. Regression analysis was carried out for indicators with significant differences. RESULTS: A total of 200 patients were included in the study. Of them 96 in the ideal sleep group and 104 in the non-ideal sleep group. Patients with non-ideal sleep experienced significantly higher noise levels across various measures (P < 0.05). Additionally, patients with non-ideal sleep reported significantly higher occurrences of noise-related awakening, difficulty in falling asleep, nightmares or vivid dreams and sleepwalking episodes (P < 0.05). Significant differences in staff activities, including staff conversations, equipment noise exposure, cleaning activities, patient interventions and overhead pages, were observed between the groups (P < 0.05). Multivariate logistic regression analysis indicating that the average noise level, conversational speech, equipment alarms, ambient noise, peak noise levels, staff conversations, cleaning activities, patient interventions and overhead pages were significant contributors to poor sleep. CONCLUSION: The study suggested that high noise levels and staff-related activities affected the sleep quality of conscious patients in the EICU. Targeted measures could improve the prognoses of patients.",
-              "title_ko": ""
+              "title_ko": "응급 중환자실의 의식 환자의 수면 질에 대한 소음의 수준과 원천의 영향."
             }
           ]
         },
@@ -5580,7 +5550,7 @@
             "field": "emergency",
             "field_label": "응급의학",
             "abstract": "AIM: To characterise key features of young people presenting to the emergency department (ED) with a mental health complaint when comparing children (aged 7 to 12 years) and teenagers (13 years and greater). METHODS: Retrospective review of all ED mental health presentations in children aged 7-17 years presenting over a 12-month period in 2018 to a tertiary children's hospital in Victoria, Australia. Univariate analyses were carried out to examine the relationship between children and teenagers and a number of key presentation variables. Odds Ratios (ORs) and 95% Confidence Intervals (CIs) were calculated for ED management outcomes. RESULTS: There were 1691 ED mental health presentations in 2018. Of these presentations, 407 (24%) were children aged 12 years or less. The remaining 76% (1284) were teenagers. The younger aged cohort were more likely to be male (OR 2.43, CI 1.92-3.08) and have a past history of autism spectrum disorder (OR 1.92, CI 1.45-1.84). They were more likely to have a presenting complaint of acute behavioural disturbance (OR 2.03, CI 1.59-2.60), be physically restrained (OR 2.01, CI 1.18-3.37) and have sedative medication provided (OR 2.87, CI 1.63-5.04). The older aged cohort were more likely to have a past history of depression (OR 0.19, CI 0.12-0.29) and a presenting complaint of intentional self-poisoning (OR 0.33, CI 0.15-0.65). CONCLUSIONS: Children aged 12 years or less represent one-quarter of all young people presenting to the ED with a mental health concern. They experience high rates of acute behavioural disturbance and are more likely to require restrictive interventions during their presentation.",
-            "title_ko": ""
+            "title_ko": "유아의 응급실 정신 건강 프레젠테이션: 회고 도표 검토."
           },
           "papers": [
             {
@@ -5609,7 +5579,7 @@
               "field": "emergency",
               "field_label": "응급의학",
               "abstract": "AIM: To characterise key features of young people presenting to the emergency department (ED) with a mental health complaint when comparing children (aged 7 to 12 years) and teenagers (13 years and greater). METHODS: Retrospective review of all ED mental health presentations in children aged 7-17 years presenting over a 12-month period in 2018 to a tertiary children's hospital in Victoria, Australia. Univariate analyses were carried out to examine the relationship between children and teenagers and a number of key presentation variables. Odds Ratios (ORs) and 95% Confidence Intervals (CIs) were calculated for ED management outcomes. RESULTS: There were 1691 ED mental health presentations in 2018. Of these presentations, 407 (24%) were children aged 12 years or less. The remaining 76% (1284) were teenagers. The younger aged cohort were more likely to be male (OR 2.43, CI 1.92-3.08) and have a past history of autism spectrum disorder (OR 1.92, CI 1.45-1.84). They were more likely to have a presenting complaint of acute behavioural disturbance (OR 2.03, CI 1.59-2.60), be physically restrained (OR 2.01, CI 1.18-3.37) and have sedative medication provided (OR 2.87, CI 1.63-5.04). The older aged cohort were more likely to have a past history of depression (OR 0.19, CI 0.12-0.29) and a presenting complaint of intentional self-poisoning (OR 0.33, CI 0.15-0.65). CONCLUSIONS: Children aged 12 years or less represent one-quarter of all young people presenting to the ED with a mental health concern. They experience high rates of acute behavioural disturbance and are more likely to require restrictive interventions during their presentation.",
-              "title_ko": ""
+              "title_ko": "유아의 응급실 정신 건강 프레젠테이션: 회고 도표 검토."
             }
           ]
         },
@@ -5683,7 +5653,7 @@
           "impact_factor": 1.5,
           "index_type": "미상",
           "quartile": "미상",
-          "paper_count": 53,
+          "paper_count": 54,
           "top_paper": {
             "pmid": "39642139",
             "title": "A machine learning-based risk score for prediction of mechanical ventilation in children with dengue shock syndrome: A retrospective cohort study.",
@@ -6228,6 +6198,266 @@
           ]
         },
         {
+          "journal": "The Journal of emergency medicine",
+          "impact_factor": 1.5,
+          "index_type": "미상",
+          "quartile": "미상",
+          "paper_count": 33,
+          "top_paper": {
+            "pmid": "39947973",
+            "title": "Promethazine: A Review of Therapeutic Uses and Toxicity.",
+            "journal": "The Journal of emergency medicine",
+            "impact_factor": 1.5,
+            "index_type": "미상",
+            "quartile": "미상",
+            "pubdate": "2024-10-09",
+            "authors": [
+              "Le CK",
+              "Stevens CA",
+              "Park JH"
+            ],
+            "citation_count": 10,
+            "rcr": 3.941347729848764,
+            "volume": "70",
+            "issue": "",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/39947973/",
+            "altmetric_score": 0,
+            "altmetric_news": 0,
+            "altmetric_social": 0,
+            "is_current_issue": false,
+            "hot_score": 20.1,
+            "field": "emergency",
+            "field_label": "응급의학",
+            "abstract": "BACKGROUND: Promethazine was first approved in 1951 and has since been used as a treatment option for a variety of indications. A histamine H1 receptor competitive antagonist with antihistaminic, sedative, anti-kinetotic, antiemetic, and antimuscarinic effects, promethazine is utilized for the treatment of nausea and vomiting, a common reason for emergency department (ED) visits. OBJECTIVE: This review of promethazine explores its pharmacology and history of toxicities, and discusses current recommendations from patient safety organizations, which implicate its role in therapy. DISCUSSION: Injectable promethazine utilization should take into consideration patient-specific factors, institutional policies, medication shortages of alternative agents, and the efficacy and toxicities of injectable promethazine itself. For decades, injectable promethazine has been associated with rare but serious limb-threatening adverse effects after extravasation or inadvertent intra-arterial injection. Patient safety organizations have called for hospitals to remove injectable promethazine from formularies, and the U.S. Food and Drug Administration acted in December of 2023 to change the product labeling, adding dilution and administration recommendations for intravenous administration and stating a preference for intramuscular administration. CONCLUSION: Promethazine offers a suitable alternative antiemetic for use in the ED due to its distinct mechanism of action. Injectable promethazine, however, must be used with caution to minimize risk of serious patient harm in the event of intra-arterial or perivascular extravasation when given parenterally.",
+            "title_ko": ""
+          },
+          "papers": [
+            {
+              "pmid": "39947973",
+              "title": "Promethazine: A Review of Therapeutic Uses and Toxicity.",
+              "journal": "The Journal of emergency medicine",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2024-10-09",
+              "authors": [
+                "Le CK",
+                "Stevens CA",
+                "Park JH"
+              ],
+              "citation_count": 10,
+              "rcr": 3.941347729848764,
+              "volume": "70",
+              "issue": "",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/39947973/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 20.1,
+              "field": "emergency",
+              "field_label": "응급의학",
+              "abstract": "BACKGROUND: Promethazine was first approved in 1951 and has since been used as a treatment option for a variety of indications. A histamine H1 receptor competitive antagonist with antihistaminic, sedative, anti-kinetotic, antiemetic, and antimuscarinic effects, promethazine is utilized for the treatment of nausea and vomiting, a common reason for emergency department (ED) visits. OBJECTIVE: This review of promethazine explores its pharmacology and history of toxicities, and discusses current recommendations from patient safety organizations, which implicate its role in therapy. DISCUSSION: Injectable promethazine utilization should take into consideration patient-specific factors, institutional policies, medication shortages of alternative agents, and the efficacy and toxicities of injectable promethazine itself. For decades, injectable promethazine has been associated with rare but serious limb-threatening adverse effects after extravasation or inadvertent intra-arterial injection. Patient safety organizations have called for hospitals to remove injectable promethazine from formularies, and the U.S. Food and Drug Administration acted in December of 2023 to change the product labeling, adding dilution and administration recommendations for intravenous administration and stating a preference for intramuscular administration. CONCLUSION: Promethazine offers a suitable alternative antiemetic for use in the ED due to its distinct mechanism of action. Injectable promethazine, however, must be used with caution to minimize risk of serious patient harm in the event of intra-arterial or perivascular extravasation when given parenterally.",
+              "title_ko": ""
+            },
+            {
+              "pmid": "39694769",
+              "title": "A Review of Pediatric Appendicitis Imaging Trends from 2006-2020 Using the Nationwide Emergency Department Sample.",
+              "journal": "The Journal of emergency medicine",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2024-08-14",
+              "authors": [
+                "End B",
+                "Quedado K",
+                "Anderson G"
+              ],
+              "citation_count": 7,
+              "rcr": 2.629206378192835,
+              "volume": "68",
+              "issue": "",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/39694769/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 17.4,
+              "field": "emergency",
+              "field_label": "응급의학",
+              "abstract": "BACKGROUND: Appendicitis is a common surgical emergency in the pediatric population, affecting over 70,000 children per year in the United States alone. While historically practitioners predominately used computed tomography (CT) as the main diagnostic imaging modality, multiple professional societies have released guidelines recommending an ultrasound (US) first strategy when using imaging to confirm suspected appendicitis in pediatric populations. To date, no studies have quantified the change in imaging trends for pediatric appendicitis across the spectrum of healthcare facilities in the United States utilizing the Nationwide Emergency Department Sample (NEDS). OBJECTIVES: We aimed to evaluate the imaging trends for pediatric appendicitis across the nation, stratified by age and gender. Specifically, we wanted to delineate the use of CT alone versus US alone or US first imaging strategies. METHODS: This retrospective cross-sectional study utilized data from the NEDS spanning from 2006 through 2020. We examined and analyzed the total number of patients, the number of patients with available imaging data, sex, age, and included imaging modalities utilizing descriptive statistics and regression analyses. Similarly, regression analysis was employed to discern differences in imaging rates in time intervals following societal imaging recommendations. RESULTS: From 2006 to 2020 the database recorded 160,828 encounters for pediatric appendicitis. Imaging data was available for 101,248 encounters, accounting for 63% of the total sample. Over the study period, both rates of \"US only\" and \"US first\" imaging modalities increased (from 5.5% to 38.9% and 8.9% to 55.6%, respectively), while rates of CT utilization in isolation declined (from 91.1% to 44%). CONCLUSION: While there is an increasing trend towards US being used as the first imaging modality to diagnose pediatric appendicitis across the spectrum of facilities included in the NEDS, continued utilization of CT to diagnose appendicitis remains unacceptably high in the pediatric population within the limits of this retrospective study.",
+              "title_ko": ""
+            },
+            {
+              "pmid": "39643509",
+              "title": "Rescue Sedation after 5 mg or 10 mg of Droperidol as the Initial Treatment for Acute Agitation in the Emergency Department.",
+              "journal": "The Journal of emergency medicine",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2024-08-03",
+              "authors": [
+                "Cole JB",
+                "Glass KA",
+                "Stevens QT"
+              ],
+              "citation_count": 6,
+              "rcr": 2.535980261618635,
+              "volume": "68",
+              "issue": "",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/39643509/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 16.3,
+              "field": "emergency",
+              "field_label": "응급의학",
+              "abstract": "BACKGROUND: Droperidol is used commonly to treat agitation in the emergency department (ED), however, data comparing doses are lacking. OBJECTIVE: The aim of this study was to compare the effectiveness of 5 mg vs. 10 mg as initial droperidol dose for acute agitation in the ED. METHODS: This single-center, retrospective study examined adult ED patients receiving either 5 mg or 10 mg droperidol as the first agent to treat agitation from 2010 to 2023. The primary outcome was need for additional (rescue) sedation within 1 h of initial droperidol dose. RESULTS: The authors identified 11,568 patients who received droperidol as their first medication (n = 8603 [74%] via intramuscular route); 10,293 received 5 mg and 1275 received 10 mg. Median age was 39 years (interquartile range 28-50 years); 8372 (72%) were male. Rescue sedation within 1 h was administered to 987 patients (9.6%) in the 5-mg group and 189 patients (14.8%) in the 10-mg group (difference 5.2%; 95% CI 3.2-7.3%). Additional sedation at any time was administered to 1776 patients (17.3%) in the 5-mg group and 318 (24.9%) in the 10-mg group (difference 7.7%; 95% CI 5.2-10.2%). Median length of stay was 471 min (interquartile range 347-611 min) in the 5 mg group and 487 min (interquartile range 364-641 min) in the 10-mg group (median difference 24 min; 95% CI 11-37 min). CONCLUSIONS: In this large cohort, patients deemed appropriately treated with 5 mg of droperidol required less rescue sedation than patients determined to need 10 mg.",
+              "title_ko": ""
+            },
+            {
+              "pmid": "39632227",
+              "title": "Differentiating Vestibular Migraine and Posterior Circulation Transient Ischemic Attack in the Emergency Department: An Expert Practice Review.",
+              "journal": "The Journal of emergency medicine",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2024-08-06",
+              "authors": [
+                "Sharif S",
+                "Kotwal S",
+                "Edlow JA"
+              ],
+              "citation_count": 5,
+              "rcr": 1.895554825999004,
+              "volume": "68",
+              "issue": "",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/39632227/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 15.0,
+              "field": "emergency",
+              "field_label": "응급의학",
+              "abstract": "BACKGROUND: Vestibular migraine (VM) is a subset of migraine and, as its name suggests, presents with both migrainous and vestibular symptoms. However, a more worrisome diagnosis that can present with similar features is posterior circulation transient ischemic attack (pc-TIA) presenting as episodes of isolated dizziness. OBJECTIVES: The purpose of this article is to introduce emergency physicians to the diagnostic features of VM focusing on epidemiological context, timing and quality of symptoms that help differentiate vestibular migraine from pc-TIA. DISCUSSION: Our comprehensive search of epidemiologic data of VM patients found that they are more likely to be younger and female than patients with pc-TIA. Traditional vascular risk factors and a recent history of head or neck trauma are more common in pc-TIA patients. The onset of dizziness is sudden in pc-TIA with symptoms often lasting less than one hour. Moreover, symptoms tend to be positive in VM versus negative in pc-TIA. CONCLUSIONS: Medical decision making should be individualized. A new nontriggered episode of isolated dizziness or those with new transient neurological findings should be evaluated for pc-TIA. VM should be considered in younger patients who have had multiple episodes over a greater time period with other migraine-related symptoms.",
+              "title_ko": ""
+            },
+            {
+              "pmid": "41274025",
+              "title": "Ultrasound Guided Erector Spinae Plane Block for Pain Management in the Emergency Department: A Scoping Review.",
+              "journal": "The Journal of emergency medicine",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2025-09-17",
+              "authors": [
+                "Gawel RJ",
+                "Zhou Z",
+                "Urban C"
+              ],
+              "citation_count": 4,
+              "rcr": null,
+              "volume": "80",
+              "issue": "",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/41274025/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 13.5,
+              "field": "emergency",
+              "field_label": "응급의학",
+              "abstract": "BACKGROUND: The ultrasound-guided erector spinae plane block (ESPB) is a relatively new regional anesthesia technique increasingly used in the emergency department (ED) for multimodal analgesia. OBJECTIVES: To summarize the existing literature on ESPBs performed by emergency physicians (EPs). METHODS: Following PRISMA-ScR guidelines, we searched five databases (PubMed/MEDLINE, Embase, Web of Science, Scopus, and CINAHL) from inception to June 10, 2025. Records were screened in duplicate, and data were extracted for quantitative and qualitative synthesis in accordance with best practices. RESULTS: Of 157 unique records, 42 articles met inclusion criteria, reporting 341 ESPBs performed on 279 patients. Most studies were case reports (25 articles, 60%) or small case series (8 articles, 19%), with only six randomized clinical trials (14%). Common indications included visceral abdominal pain (18 articles, 43%), rib fractures (8 articles, 19%), and low back pain (4 articles, 9.5%). Technical approaches varied widely in terms of block laterality, patient positioning, and transducer type. Adverse events were infrequent (9 cases, 3.2%), with only one suspected case of local anesthetic systemic toxicity (0.4%). CONCLUSIONS: Emergency physician-performed ESPBs are increasingly described for diverse indications, but the current evidence base is limited and heterogeneous. Further research should focus on standardizing techniques, enhancing safety monitoring, and conducting high-quality studies to support broader implementation in emergency medicine.",
+              "title_ko": ""
+            },
+            {
+              "pmid": "39904638",
+              "title": "Managing Auricular Hematoma: An Emergency Medicine Narrative Review.",
+              "journal": "The Journal of emergency medicine",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2024-09-03",
+              "authors": [
+                "Long B",
+                "Mason J",
+                "Bridwell RE"
+              ],
+              "citation_count": 4,
+              "rcr": null,
+              "volume": "69",
+              "issue": "",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/39904638/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 13.5,
+              "field": "emergency",
+              "field_label": "응급의학",
+              "abstract": "BACKGROUND: Auricular hematoma is a condition commonly seen in the emergency department among patients presenting with trauma to the ear. It may result in several complications such as perichondritis and cauliflower ear if not managed appropriately. OBJECTIVE: This narrative review provides an evidence-based summary of the evaluation and management of auricular hematoma. DISCUSSION: Auricular hematoma is most commonly associated with shearing or blunt trauma to the ear, resulting in formation of a hematoma within the subperichondrial space. This hematoma obstructs the nutrient supply from the perichondrium to the avascular cartilage. Without a nutrient supply, the ear is at risk for infection, necrosis, and fibrocartilaginous deposition causing cauliflower ear. If a fluctuant hematoma is present within the cartilaginous auricle within 7 days of injury, evacuation should be offered. Prior to the procedure, analgesia should be performed using an auricular block. The hematoma can then be evacuated via needle aspiration or incision and drainage followed by a bolster compression dressing to prevent reaccumulation of blood within this potential space. Despite limited data, 7-10 days of antibiotics are currently recommended with coverage for Pseudomonas aeruginosa (eg, fluoroquinolones in adults, amoxicillin-clavulanate in children). This may mitigate the risk of perichondritis. Patients should be reevaluated at 24-48 hours and abstain from contact sports for at least 2 weeks. CONCLUSION: Emergency clinicians must be knowledgeable regarding the evaluation and management of auricular hematoma, including the various drainage techniques.",
+              "title_ko": ""
+            },
+            {
+              "pmid": "39890576",
+              "title": "Ultrasound-Guided Erector Spinae Plane Nerve Block for Relief of Acute Cholecystitis Pain.",
+              "journal": "The Journal of emergency medicine",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2024-08-21",
+              "authors": [
+                "Bowling JM",
+                "Ray R",
+                "Stenberg R"
+              ],
+              "citation_count": 4,
+              "rcr": null,
+              "volume": "69",
+              "issue": "",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/39890576/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 13.5,
+              "field": "emergency",
+              "field_label": "응급의학",
+              "abstract": "BACKGROUND: Acute cholecystitis is a common surgical emergency and a painful condition that often requires frequent intravenous opioid analgesia. Sometimes, pain control of patients with acute cholecystitis is challenging. In this case, we present a potential alternative to managing acute cholecystitis pain. CASE REPORT: A 40-year-old female presented to the emergency department (ED) with right upper quadrant pain. While awaiting testing and ultrasound, she received multiple doses of opioid analgesia. A point-of-care ultrasound of the right upper quadrant was performed and demonstrated findings of acute cholecystitis. Given that her pain was challenging to manage, even with intravenous opioids, an ultrasound-guided erector spinae plane (ESP) nerve block was discussed and subsequently performed at the T7 level. Thirty minutes after the procedure, the patient reported significant relief of her pain and did not require any opioid analgesia until ten hours later on the inpatient floor. WHY SHOULD AN EMERGENCY PHYSICIAN BE AWARE OF THIS?: ESP nerve blocks can potentially offer an alternative analgesic in the management of acute cholecystitis, subsequently reducing the use of opioids in the ED. ESP nerve blocks can potentially offer patients longer-lasting analgesia. ESP nerve blocks can potentially manage visceral pain in the ED.",
+              "title_ko": ""
+            },
+            {
+              "pmid": "39894703",
+              "title": "Qualitative Study of Dynamics, Camaraderie, and Belonging Among Emergency Physicians and Nurses.",
+              "journal": "The Journal of emergency medicine",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2024-09-05",
+              "authors": [
+                "Phillips J",
+                "Jones D"
+              ],
+              "citation_count": 3,
+              "rcr": null,
+              "volume": "69",
+              "issue": "",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/39894703/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 11.6,
+              "field": "emergency",
+              "field_label": "응급의학",
+              "abstract": "BACKGROUND: Emergency departments (ED) must perform patient care at a safe and efficient pace, which requires an effective care team. Communication and workplace practices that foster identification as part of an emergency healthcare team have not been previously demonstrated. OBJECTIVES: To explore the critical role of communication within ED healthcare teams and its impact on team belonging. This study investigates how communication practices between physicians and nurses in the ED influence team dynamics and the sense of belonging to the healthcare team. METHODS: A qualitative approach involving focus groups with 38 participants from nine EDs in Oregon. RESULTS: This study identifies positive influences on team belonging, such as proactivity, openness, less formal name conventions, and relationships outside of work. Conversely, negative influences include resistance to communication, obstacles to communication, and interactions leading to alienation. CONCLUSION: The findings emphasize the importance of fostering positive communication practices to enhance team dynamics, cohesiveness, and overall well-being within ED healthcare teams. Future research may delve into specific aspects like naming conventions and the role of friendships in healthcare communication.",
+              "title_ko": ""
+            }
+          ]
+        },
+        {
           "journal": "Journal of the American Board of Family Medicine : JABFM",
           "impact_factor": 1.5,
           "index_type": "미상",
@@ -6353,71 +6583,6 @@
               "field": "emergency",
               "field_label": "응급의학",
               "abstract": "&lt;b&gt;Introduction:&lt;/b&gt; Injuries are among the three most common causes of sudden death in Poland, and patients particularly at risk of fatal outcomes of trauma are elderly. Geriatric age is associated with pathological changes that determine a worse response to trauma. In order to improve treatment outcomes of elderly trauma patients, it is essential for them to have access to specialized healthcare units i.e. Trauma Centers (TC). In Poland, admission criteria for TC are determined in the Regulation of the Ministry of Health published in 2010. Those criteria do not include age. According to recent research, such admission criteria lead to undertriage i.e., underestimation of injuries of elderly trauma patients and referred to a healthcare unit of lower reference level.&lt;b&gt;Aim:&lt;/b&gt; Analyze the current national admission criteria of elderly trauma patients admitted to TCs.&lt;b&gt;Materials and methods:&lt;/b&gt; TC admission criteria were subject to analysis in referral to available scientific publications in the field of medical segregation of elderly trauma patients, available in PubMed, Medline-EBSCO.&lt;b&gt;Results:&lt;/b&gt; TC admission criteria in current form are fulfilled only by elderly patients with minimal survival chance. As a result, majority of elderly trauma patients are referred to healthcare units of lower reference level. Those patients are deprived of professional trauma care in TC. Such discrepancies in medical segregation often stem from lack of anatomical changes or shifts in physiological parameters typically observed in trauma patients.&lt;b&gt;Conclusions:&lt;/b&gt; It is essential to develop national research to find the optimal system of triage for elderly trauma patient and an adequate tool for appropriate admitted them to TC.",
-              "title_ko": ""
-            }
-          ]
-        },
-        {
-          "journal": "Health informatics journal",
-          "impact_factor": 1.5,
-          "index_type": "미상",
-          "quartile": "미상",
-          "paper_count": 1,
-          "top_paper": {
-            "pmid": "39612272",
-            "title": "Emergency department nurses' learning and evolving perspectives in interacting with patients who self-harm. An explorative interview study of the use of a mobile application.",
-            "journal": "Health informatics journal",
-            "impact_factor": 1.5,
-            "index_type": "미상",
-            "quartile": "미상",
-            "pubdate": "2024-10-01",
-            "authors": [
-              "Berring LL",
-              "Andersen IC",
-              "Østergaard LB"
-            ],
-            "citation_count": 2,
-            "rcr": 0.9201834380029917,
-            "volume": "30",
-            "issue": "4",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/39612272/",
-            "altmetric_score": 0,
-            "altmetric_news": 0,
-            "altmetric_social": 0,
-            "is_current_issue": true,
-            "hot_score": 19.2,
-            "field": "emergency",
-            "field_label": "응급의학",
-            "abstract": "SAFE is a mobile application co-created for and by people who have experienced self-harm, either themselves or as next of kin. This study intended to integrate SAFE into an Emergency Department (ED) to help patients share experiences of self-harm and to support professionals in conducting treatment as usual (TAU). Objective: This study was a part of a Co-operative Inquiry in which a learning intervention was implemented, followed by an interview study exploring ED nurses' reflections and learnings while integrating SAFE into their practice. Methods: Thirteen semi-structured interviews were analysed using reflexive thematic analysis. Results: The nurses imagined that SAFE could be a positive game changer. However, they were hesitant due to uncertainty about the ED context, the value of the app and their skills. Conclusions: Supplying TAU with technology is challenging and future digital solutions must be created in partnership to ensure the solutions are customised to the target group.",
-            "title_ko": ""
-          },
-          "papers": [
-            {
-              "pmid": "39612272",
-              "title": "Emergency department nurses' learning and evolving perspectives in interacting with patients who self-harm. An explorative interview study of the use of a mobile application.",
-              "journal": "Health informatics journal",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2024-10-01",
-              "authors": [
-                "Berring LL",
-                "Andersen IC",
-                "Østergaard LB"
-              ],
-              "citation_count": 2,
-              "rcr": 0.9201834380029917,
-              "volume": "30",
-              "issue": "4",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/39612272/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": true,
-              "hot_score": 19.2,
-              "field": "emergency",
-              "field_label": "응급의학",
-              "abstract": "SAFE is a mobile application co-created for and by people who have experienced self-harm, either themselves or as next of kin. This study intended to integrate SAFE into an Emergency Department (ED) to help patients share experiences of self-harm and to support professionals in conducting treatment as usual (TAU). Objective: This study was a part of a Co-operative Inquiry in which a learning intervention was implemented, followed by an interview study exploring ED nurses' reflections and learnings while integrating SAFE into their practice. Methods: Thirteen semi-structured interviews were analysed using reflexive thematic analysis. Results: The nurses imagined that SAFE could be a positive game changer. However, they were hesitant due to uncertainty about the ED context, the value of the app and their skills. Conclusions: Supplying TAU with technology is challenging and future digital solutions must be created in partnership to ensure the solutions are customised to the target group.",
               "title_ko": ""
             }
           ]
@@ -6873,266 +7038,6 @@
               "field": "emergency",
               "field_label": "응급의학",
               "abstract": "OBJECTIVE: The aim of this study was to compare the diagnostic accuracy and initial diagnostic test selection capabilities of large language models with an experienced emergency medicine specialist in simulated emergency department scenarios. METHODS: A series of brief case presentations were created by an expert committee to reflect real-world emergency conditions. Each brief case presentation included clinical history and physical examination findings but excluded laboratory and imaging data. The study compared the diagnostic accuracy and initial test selection performance of an emergency medicine specialist with three different large language model versions: ChatGPT-4, ChatGPT-4o, and ChatGPT-3.5-mini. The accuracy of responses was assessed based on predefined correct diagnoses and appropriate first-line tests. Statistical comparisons were conducted using the Cochran-Q test and McNemar test. RESULTS: The diagnostic accuracy rates were 92% for the human expert, 97% for ChatGPT-4, and 99% for both ChatGPT-4o and ChatGPT-3.5-mini (p=0.039 for ChatGPT-4o and ChatGPT-3.5-mini vs. human expert). The accuracy of initial diagnostic test selection was 88% for the human expert, 80% for ChatGPT-4, 87% for ChatGPT-4o, and 89% for ChatGPT-3.5-mini (p>0.05 for all comparisons). The most frequent diagnostic errors were related to cardiovascular (7/13) and gastrointestinal (4/13) cases. CONCLUSIONS: Large language models demonstrated acceptable diagnostic accuracy, outperforming the human expert in diagnosis while performing comparably in selecting initial diagnostic tests. These findings suggest that artificial intelligence models could serve as valuable decision-support tools in emergency medicine. However, further research is needed to evaluate their performance in real-world clinical settings.",
-              "title_ko": ""
-            }
-          ]
-        },
-        {
-          "journal": "The Journal of emergency medicine",
-          "impact_factor": 1.5,
-          "index_type": "미상",
-          "quartile": "미상",
-          "paper_count": 29,
-          "top_paper": {
-            "pmid": "39694769",
-            "title": "A Review of Pediatric Appendicitis Imaging Trends from 2006-2020 Using the Nationwide Emergency Department Sample.",
-            "journal": "The Journal of emergency medicine",
-            "impact_factor": 1.5,
-            "index_type": "미상",
-            "quartile": "미상",
-            "pubdate": "2024-08-14",
-            "authors": [
-              "End B",
-              "Quedado K",
-              "Anderson G"
-            ],
-            "citation_count": 7,
-            "rcr": 2.629206378192835,
-            "volume": "68",
-            "issue": "",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/39694769/",
-            "altmetric_score": 0,
-            "altmetric_news": 0,
-            "altmetric_social": 0,
-            "is_current_issue": false,
-            "hot_score": 17.4,
-            "field": "emergency",
-            "field_label": "응급의학",
-            "abstract": "BACKGROUND: Appendicitis is a common surgical emergency in the pediatric population, affecting over 70,000 children per year in the United States alone. While historically practitioners predominately used computed tomography (CT) as the main diagnostic imaging modality, multiple professional societies have released guidelines recommending an ultrasound (US) first strategy when using imaging to confirm suspected appendicitis in pediatric populations. To date, no studies have quantified the change in imaging trends for pediatric appendicitis across the spectrum of healthcare facilities in the United States utilizing the Nationwide Emergency Department Sample (NEDS). OBJECTIVES: We aimed to evaluate the imaging trends for pediatric appendicitis across the nation, stratified by age and gender. Specifically, we wanted to delineate the use of CT alone versus US alone or US first imaging strategies. METHODS: This retrospective cross-sectional study utilized data from the NEDS spanning from 2006 through 2020. We examined and analyzed the total number of patients, the number of patients with available imaging data, sex, age, and included imaging modalities utilizing descriptive statistics and regression analyses. Similarly, regression analysis was employed to discern differences in imaging rates in time intervals following societal imaging recommendations. RESULTS: From 2006 to 2020 the database recorded 160,828 encounters for pediatric appendicitis. Imaging data was available for 101,248 encounters, accounting for 63% of the total sample. Over the study period, both rates of \"US only\" and \"US first\" imaging modalities increased (from 5.5% to 38.9% and 8.9% to 55.6%, respectively), while rates of CT utilization in isolation declined (from 91.1% to 44%). CONCLUSION: While there is an increasing trend towards US being used as the first imaging modality to diagnose pediatric appendicitis across the spectrum of facilities included in the NEDS, continued utilization of CT to diagnose appendicitis remains unacceptably high in the pediatric population within the limits of this retrospective study.",
-            "title_ko": ""
-          },
-          "papers": [
-            {
-              "pmid": "39694769",
-              "title": "A Review of Pediatric Appendicitis Imaging Trends from 2006-2020 Using the Nationwide Emergency Department Sample.",
-              "journal": "The Journal of emergency medicine",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2024-08-14",
-              "authors": [
-                "End B",
-                "Quedado K",
-                "Anderson G"
-              ],
-              "citation_count": 7,
-              "rcr": 2.629206378192835,
-              "volume": "68",
-              "issue": "",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/39694769/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": false,
-              "hot_score": 17.4,
-              "field": "emergency",
-              "field_label": "응급의학",
-              "abstract": "BACKGROUND: Appendicitis is a common surgical emergency in the pediatric population, affecting over 70,000 children per year in the United States alone. While historically practitioners predominately used computed tomography (CT) as the main diagnostic imaging modality, multiple professional societies have released guidelines recommending an ultrasound (US) first strategy when using imaging to confirm suspected appendicitis in pediatric populations. To date, no studies have quantified the change in imaging trends for pediatric appendicitis across the spectrum of healthcare facilities in the United States utilizing the Nationwide Emergency Department Sample (NEDS). OBJECTIVES: We aimed to evaluate the imaging trends for pediatric appendicitis across the nation, stratified by age and gender. Specifically, we wanted to delineate the use of CT alone versus US alone or US first imaging strategies. METHODS: This retrospective cross-sectional study utilized data from the NEDS spanning from 2006 through 2020. We examined and analyzed the total number of patients, the number of patients with available imaging data, sex, age, and included imaging modalities utilizing descriptive statistics and regression analyses. Similarly, regression analysis was employed to discern differences in imaging rates in time intervals following societal imaging recommendations. RESULTS: From 2006 to 2020 the database recorded 160,828 encounters for pediatric appendicitis. Imaging data was available for 101,248 encounters, accounting for 63% of the total sample. Over the study period, both rates of \"US only\" and \"US first\" imaging modalities increased (from 5.5% to 38.9% and 8.9% to 55.6%, respectively), while rates of CT utilization in isolation declined (from 91.1% to 44%). CONCLUSION: While there is an increasing trend towards US being used as the first imaging modality to diagnose pediatric appendicitis across the spectrum of facilities included in the NEDS, continued utilization of CT to diagnose appendicitis remains unacceptably high in the pediatric population within the limits of this retrospective study.",
-              "title_ko": ""
-            },
-            {
-              "pmid": "39643509",
-              "title": "Rescue Sedation after 5 mg or 10 mg of Droperidol as the Initial Treatment for Acute Agitation in the Emergency Department.",
-              "journal": "The Journal of emergency medicine",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2024-08-03",
-              "authors": [
-                "Cole JB",
-                "Glass KA",
-                "Stevens QT"
-              ],
-              "citation_count": 6,
-              "rcr": 2.535980261618635,
-              "volume": "68",
-              "issue": "",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/39643509/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": false,
-              "hot_score": 16.3,
-              "field": "emergency",
-              "field_label": "응급의학",
-              "abstract": "BACKGROUND: Droperidol is used commonly to treat agitation in the emergency department (ED), however, data comparing doses are lacking. OBJECTIVE: The aim of this study was to compare the effectiveness of 5 mg vs. 10 mg as initial droperidol dose for acute agitation in the ED. METHODS: This single-center, retrospective study examined adult ED patients receiving either 5 mg or 10 mg droperidol as the first agent to treat agitation from 2010 to 2023. The primary outcome was need for additional (rescue) sedation within 1 h of initial droperidol dose. RESULTS: The authors identified 11,568 patients who received droperidol as their first medication (n = 8603 [74%] via intramuscular route); 10,293 received 5 mg and 1275 received 10 mg. Median age was 39 years (interquartile range 28-50 years); 8372 (72%) were male. Rescue sedation within 1 h was administered to 987 patients (9.6%) in the 5-mg group and 189 patients (14.8%) in the 10-mg group (difference 5.2%; 95% CI 3.2-7.3%). Additional sedation at any time was administered to 1776 patients (17.3%) in the 5-mg group and 318 (24.9%) in the 10-mg group (difference 7.7%; 95% CI 5.2-10.2%). Median length of stay was 471 min (interquartile range 347-611 min) in the 5 mg group and 487 min (interquartile range 364-641 min) in the 10-mg group (median difference 24 min; 95% CI 11-37 min). CONCLUSIONS: In this large cohort, patients deemed appropriately treated with 5 mg of droperidol required less rescue sedation than patients determined to need 10 mg.",
-              "title_ko": ""
-            },
-            {
-              "pmid": "39632227",
-              "title": "Differentiating Vestibular Migraine and Posterior Circulation Transient Ischemic Attack in the Emergency Department: An Expert Practice Review.",
-              "journal": "The Journal of emergency medicine",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2024-08-06",
-              "authors": [
-                "Sharif S",
-                "Kotwal S",
-                "Edlow JA"
-              ],
-              "citation_count": 5,
-              "rcr": 1.895554825999004,
-              "volume": "68",
-              "issue": "",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/39632227/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": false,
-              "hot_score": 15.0,
-              "field": "emergency",
-              "field_label": "응급의학",
-              "abstract": "BACKGROUND: Vestibular migraine (VM) is a subset of migraine and, as its name suggests, presents with both migrainous and vestibular symptoms. However, a more worrisome diagnosis that can present with similar features is posterior circulation transient ischemic attack (pc-TIA) presenting as episodes of isolated dizziness. OBJECTIVES: The purpose of this article is to introduce emergency physicians to the diagnostic features of VM focusing on epidemiological context, timing and quality of symptoms that help differentiate vestibular migraine from pc-TIA. DISCUSSION: Our comprehensive search of epidemiologic data of VM patients found that they are more likely to be younger and female than patients with pc-TIA. Traditional vascular risk factors and a recent history of head or neck trauma are more common in pc-TIA patients. The onset of dizziness is sudden in pc-TIA with symptoms often lasting less than one hour. Moreover, symptoms tend to be positive in VM versus negative in pc-TIA. CONCLUSIONS: Medical decision making should be individualized. A new nontriggered episode of isolated dizziness or those with new transient neurological findings should be evaluated for pc-TIA. VM should be considered in younger patients who have had multiple episodes over a greater time period with other migraine-related symptoms.",
-              "title_ko": ""
-            },
-            {
-              "pmid": "41274025",
-              "title": "Ultrasound Guided Erector Spinae Plane Block for Pain Management in the Emergency Department: A Scoping Review.",
-              "journal": "The Journal of emergency medicine",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2025-09-17",
-              "authors": [
-                "Gawel RJ",
-                "Zhou Z",
-                "Urban C"
-              ],
-              "citation_count": 4,
-              "rcr": null,
-              "volume": "80",
-              "issue": "",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/41274025/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": false,
-              "hot_score": 13.5,
-              "field": "emergency",
-              "field_label": "응급의학",
-              "abstract": "BACKGROUND: The ultrasound-guided erector spinae plane block (ESPB) is a relatively new regional anesthesia technique increasingly used in the emergency department (ED) for multimodal analgesia. OBJECTIVES: To summarize the existing literature on ESPBs performed by emergency physicians (EPs). METHODS: Following PRISMA-ScR guidelines, we searched five databases (PubMed/MEDLINE, Embase, Web of Science, Scopus, and CINAHL) from inception to June 10, 2025. Records were screened in duplicate, and data were extracted for quantitative and qualitative synthesis in accordance with best practices. RESULTS: Of 157 unique records, 42 articles met inclusion criteria, reporting 341 ESPBs performed on 279 patients. Most studies were case reports (25 articles, 60%) or small case series (8 articles, 19%), with only six randomized clinical trials (14%). Common indications included visceral abdominal pain (18 articles, 43%), rib fractures (8 articles, 19%), and low back pain (4 articles, 9.5%). Technical approaches varied widely in terms of block laterality, patient positioning, and transducer type. Adverse events were infrequent (9 cases, 3.2%), with only one suspected case of local anesthetic systemic toxicity (0.4%). CONCLUSIONS: Emergency physician-performed ESPBs are increasingly described for diverse indications, but the current evidence base is limited and heterogeneous. Further research should focus on standardizing techniques, enhancing safety monitoring, and conducting high-quality studies to support broader implementation in emergency medicine.",
-              "title_ko": ""
-            },
-            {
-              "pmid": "39904638",
-              "title": "Managing Auricular Hematoma: An Emergency Medicine Narrative Review.",
-              "journal": "The Journal of emergency medicine",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2024-09-03",
-              "authors": [
-                "Long B",
-                "Mason J",
-                "Bridwell RE"
-              ],
-              "citation_count": 4,
-              "rcr": null,
-              "volume": "69",
-              "issue": "",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/39904638/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": false,
-              "hot_score": 13.5,
-              "field": "emergency",
-              "field_label": "응급의학",
-              "abstract": "BACKGROUND: Auricular hematoma is a condition commonly seen in the emergency department among patients presenting with trauma to the ear. It may result in several complications such as perichondritis and cauliflower ear if not managed appropriately. OBJECTIVE: This narrative review provides an evidence-based summary of the evaluation and management of auricular hematoma. DISCUSSION: Auricular hematoma is most commonly associated with shearing or blunt trauma to the ear, resulting in formation of a hematoma within the subperichondrial space. This hematoma obstructs the nutrient supply from the perichondrium to the avascular cartilage. Without a nutrient supply, the ear is at risk for infection, necrosis, and fibrocartilaginous deposition causing cauliflower ear. If a fluctuant hematoma is present within the cartilaginous auricle within 7 days of injury, evacuation should be offered. Prior to the procedure, analgesia should be performed using an auricular block. The hematoma can then be evacuated via needle aspiration or incision and drainage followed by a bolster compression dressing to prevent reaccumulation of blood within this potential space. Despite limited data, 7-10 days of antibiotics are currently recommended with coverage for Pseudomonas aeruginosa (eg, fluoroquinolones in adults, amoxicillin-clavulanate in children). This may mitigate the risk of perichondritis. Patients should be reevaluated at 24-48 hours and abstain from contact sports for at least 2 weeks. CONCLUSION: Emergency clinicians must be knowledgeable regarding the evaluation and management of auricular hematoma, including the various drainage techniques.",
-              "title_ko": ""
-            },
-            {
-              "pmid": "39890576",
-              "title": "Ultrasound-Guided Erector Spinae Plane Nerve Block for Relief of Acute Cholecystitis Pain.",
-              "journal": "The Journal of emergency medicine",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2024-08-21",
-              "authors": [
-                "Bowling JM",
-                "Ray R",
-                "Stenberg R"
-              ],
-              "citation_count": 4,
-              "rcr": null,
-              "volume": "69",
-              "issue": "",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/39890576/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": false,
-              "hot_score": 13.5,
-              "field": "emergency",
-              "field_label": "응급의학",
-              "abstract": "BACKGROUND: Acute cholecystitis is a common surgical emergency and a painful condition that often requires frequent intravenous opioid analgesia. Sometimes, pain control of patients with acute cholecystitis is challenging. In this case, we present a potential alternative to managing acute cholecystitis pain. CASE REPORT: A 40-year-old female presented to the emergency department (ED) with right upper quadrant pain. While awaiting testing and ultrasound, she received multiple doses of opioid analgesia. A point-of-care ultrasound of the right upper quadrant was performed and demonstrated findings of acute cholecystitis. Given that her pain was challenging to manage, even with intravenous opioids, an ultrasound-guided erector spinae plane (ESP) nerve block was discussed and subsequently performed at the T7 level. Thirty minutes after the procedure, the patient reported significant relief of her pain and did not require any opioid analgesia until ten hours later on the inpatient floor. WHY SHOULD AN EMERGENCY PHYSICIAN BE AWARE OF THIS?: ESP nerve blocks can potentially offer an alternative analgesic in the management of acute cholecystitis, subsequently reducing the use of opioids in the ED. ESP nerve blocks can potentially offer patients longer-lasting analgesia. ESP nerve blocks can potentially manage visceral pain in the ED.",
-              "title_ko": ""
-            },
-            {
-              "pmid": "39894703",
-              "title": "Qualitative Study of Dynamics, Camaraderie, and Belonging Among Emergency Physicians and Nurses.",
-              "journal": "The Journal of emergency medicine",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2024-09-05",
-              "authors": [
-                "Phillips J",
-                "Jones D"
-              ],
-              "citation_count": 3,
-              "rcr": null,
-              "volume": "69",
-              "issue": "",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/39894703/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": false,
-              "hot_score": 11.6,
-              "field": "emergency",
-              "field_label": "응급의학",
-              "abstract": "BACKGROUND: Emergency departments (ED) must perform patient care at a safe and efficient pace, which requires an effective care team. Communication and workplace practices that foster identification as part of an emergency healthcare team have not been previously demonstrated. OBJECTIVES: To explore the critical role of communication within ED healthcare teams and its impact on team belonging. This study investigates how communication practices between physicians and nurses in the ED influence team dynamics and the sense of belonging to the healthcare team. METHODS: A qualitative approach involving focus groups with 38 participants from nine EDs in Oregon. RESULTS: This study identifies positive influences on team belonging, such as proactivity, openness, less formal name conventions, and relationships outside of work. Conversely, negative influences include resistance to communication, obstacles to communication, and interactions leading to alienation. CONCLUSION: The findings emphasize the importance of fostering positive communication practices to enhance team dynamics, cohesiveness, and overall well-being within ED healthcare teams. Future research may delve into specific aspects like naming conventions and the role of friendships in healthcare communication.",
-              "title_ko": ""
-            },
-            {
-              "pmid": "39809646",
-              "title": "Ultrasound-guided thoracic nerve blocks for emergency department patients with rib fractures: A review.",
-              "journal": "The Journal of emergency medicine",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2024-08-14",
-              "authors": [
-                "Hussein B",
-                "Mercader D",
-                "Theophanous RG"
-              ],
-              "citation_count": 3,
-              "rcr": null,
-              "volume": "68",
-              "issue": "",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/39809646/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": false,
-              "hot_score": 11.6,
-              "field": "emergency",
-              "field_label": "응급의학",
-              "abstract": "BACKGROUND: Rib fractures are frequently diagnosed and treated in the emergency department (ED). Thoracic trauma has serious morbidity and mortality, particularly in older adults, with complications including pulmonary contusions, hemorrhage, pneumonia, or death. Bedside ED-performed ultrasound-guided anesthesia is gaining in popularity, and early and adequate pain control has shown improved patient outcomes with rare complications. OBJECTIVE OF THE REVIEW: We describe thoracic nerve block options that can be used clinically for rib fractures or other thoracic pain or trauma. We identify the pros and cons of each type of block, describe their risk profile and advantages, and summarize the steps on how each is performed. DISCUSSION: Thoracic epidural and paravertebral blocks are more invasive, targeting the nerves closer to the spinal cord, thus they are primarily used in the operating room or by anesthesiology for surgical cases. However, newer blocks are gaining in popularity, particularly the erector spinae block (ESP), serratus anterior plane nerve block (SANB), and intercostal nerve block (ICNB). These blocks provide adequate anesthesia and can be performed in an ED setting. CONCLUSIONS: Thoracic nerve blocks (e.g., ESP, SANB, ICNB) can be performed safely by appropriately trained emergency physicians, provide excellent anesthesia for rib fractures and thoracic trauma, and should be strongly considered for improved patient-centered outcomes. Furthermore, performing regional nerve blocks in the emergency department can reduce complications including adverse effects from opioids or other delirium-inducing medications.",
               "title_ko": ""
             }
           ]
@@ -7616,6 +7521,209 @@
               "field": "emergency",
               "field_label": "응급의학",
               "abstract": "BACKGROUND: Cellulitis is a common cause of hospitalization imposing significant burden on healthcare systems. Treatment disposition is dependent on extent and severity of infection with a range of possibilities from ambulatory to inpatient management. Limited evidence is available, aside from expert opinion, to guide the use of long-acting lipoglycopeptides (LaLGPs) to reduce hospitalizations. OBJECTIVE: Identify patient-specific risk factors associated with short-stay hospitalizations (<72 hours) for cellulitis to guide development of an emergency department (ED) LaLGP decision algorithm. METHODS: Adult patients with cellulitis treated with antibiotic monotherapy were screened. Three cohorts were identified based on length of hospitalization (ED discharge, <72 hours, ≥72 hours). The primary outcome was to identify risk factors associated with short-stay hospitalization. Patients were excluded if they required surgical intervention in the operating room, received polymicrobial therapy, required intensive care unit admission, received cellulitis treatment in the past 30 days, or were treated for multiple infections. RESULTS: A total of 161 patients were analyzed (ED discharge, n = 75; Short-stay, n = 46; and Long-stay, n = 40). Need for incision and drainage (odds ratio [OR] 1.8; 95% confidence interval [CI]: 0.76-2.36), advancing age (OR 1.02; 95% CI 1.00-1.05), or presenting with fever (OR 32.7; 95% CI 5.89-616.5) were associated with short-stay hospitalization compared to ED discharge. Diabetes (OR 3.02, 95% CI 1.31-7.11), presence of purulence (OR 3.86, 95% 1.09-13.79), and history of methicillin-resistant Staphylococcus aureus (MRSA) (OR 4.31, 95% CI 1.08-17.96) were independently associated with long-stay hospitalizations. CONCLUSION AND RELEVANCE: Fever was the only factor independently associated with short-stay hospitalization, compared to patients discharged directly from the ED. Diabetes, purulence, and history of MRSA were associated with longer hospitalizations. Inclusion of these factors in a decision algorithm may help guide use of LaLGPs for cellulitis in the ED, potentially reducing cellulitis hospitalization rates.",
+              "title_ko": ""
+            }
+          ]
+        },
+        {
+          "journal": "Air medical journal",
+          "impact_factor": 1.5,
+          "index_type": "미상",
+          "quartile": "미상",
+          "paper_count": 6,
+          "top_paper": {
+            "pmid": "41534959",
+            "title": "External Ventricular Devices in Air Medical Retrievals.",
+            "journal": "Air medical journal",
+            "impact_factor": 1.5,
+            "index_type": "미상",
+            "quartile": "미상",
+            "pubdate": "2025-09-24",
+            "authors": [
+              "Wall A",
+              "Gibbs C",
+              "Quick L"
+            ],
+            "citation_count": 1,
+            "rcr": null,
+            "volume": "45",
+            "issue": "1",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/41534959/",
+            "altmetric_score": 0,
+            "altmetric_news": 0,
+            "altmetric_social": 0,
+            "is_current_issue": true,
+            "hot_score": 15.8,
+            "field": "emergency",
+            "field_label": "응급의학",
+            "abstract": "OBJECTIVE: Describe the clinical characteristics of patients with an external ventricular drain (EVD) air medically retrieved. METHODS: A retrospective chart audit of adults with an EVD air medically retrieved between January 2018 and June 2022 was conducted using the Retrieval Services Queensland database. Patients with a diagnosis of subarachnoid hemorrhage were identified, and then a manual review was conducted to identify EVD cases. RESULTS: A total of 60 patients met the review criteria. However, 34 patients did not have an EVD in situ, 1 was not transported, and 2 charts were non-retrievable, leaving 21 patients in this review. Of the patients, 76% were mechanically ventilated and 10% had no EVD drainage (suspected to be blocked). Blood pressure fluctuations occurred in 67% of the cases (79% during flight). Separate analgesia/anesthetic infusions were administered in 75% of the patients, with 83% requiring rate increases and 100% requiring boluses for increases in blood pressure. Hypertension in 3 patients occurred post-EVD being turned off and resolved when EVD was turned back on, and bolus sedation/analgesia was provided. CONCLUSION: The air medical transport of patients with an EVD is a low-frequency transfer. Therefore, the use of clinical practice guidelines will enable best practice assessment and management.",
+            "title_ko": ""
+          },
+          "papers": [
+            {
+              "pmid": "41534959",
+              "title": "External Ventricular Devices in Air Medical Retrievals.",
+              "journal": "Air medical journal",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2025-09-24",
+              "authors": [
+                "Wall A",
+                "Gibbs C",
+                "Quick L"
+              ],
+              "citation_count": 1,
+              "rcr": null,
+              "volume": "45",
+              "issue": "1",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/41534959/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": true,
+              "hot_score": 15.8,
+              "field": "emergency",
+              "field_label": "응급의학",
+              "abstract": "OBJECTIVE: Describe the clinical characteristics of patients with an external ventricular drain (EVD) air medically retrieved. METHODS: A retrospective chart audit of adults with an EVD air medically retrieved between January 2018 and June 2022 was conducted using the Retrieval Services Queensland database. Patients with a diagnosis of subarachnoid hemorrhage were identified, and then a manual review was conducted to identify EVD cases. RESULTS: A total of 60 patients met the review criteria. However, 34 patients did not have an EVD in situ, 1 was not transported, and 2 charts were non-retrievable, leaving 21 patients in this review. Of the patients, 76% were mechanically ventilated and 10% had no EVD drainage (suspected to be blocked). Blood pressure fluctuations occurred in 67% of the cases (79% during flight). Separate analgesia/anesthetic infusions were administered in 75% of the patients, with 83% requiring rate increases and 100% requiring boluses for increases in blood pressure. Hypertension in 3 patients occurred post-EVD being turned off and resolved when EVD was turned back on, and bolus sedation/analgesia was provided. CONCLUSION: The air medical transport of patients with an EVD is a low-frequency transfer. Therefore, the use of clinical practice guidelines will enable best practice assessment and management.",
+              "title_ko": ""
+            },
+            {
+              "pmid": "41534961",
+              "title": "Boosting Confidence Through Interagency Air Medical Simulation: A Quality Assurance Exercise of a Critical Care Helicopter Landing at a Tertiary Trauma Hospital.",
+              "journal": "Air medical journal",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2025-10-05",
+              "authors": [
+                "Iliff J",
+                "Spring B",
+                "Kumaradevan S"
+              ],
+              "citation_count": 0,
+              "rcr": null,
+              "volume": "45",
+              "issue": "1",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/41534961/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": true,
+              "hot_score": 10.0,
+              "field": "emergency",
+              "field_label": "응급의학",
+              "abstract": "OBJECTIVE: Emergency preparedness training in health care improves patient outcomes. For critically unwell patients outside the hospital setting, air medical helicopter hospital landings expedite emergency health care access. However, little is known of interagency staff experiences during this multifaceted health care provision. We captured staff experiences during the first interagency air medical helicopter landing simulation exercise between the Royal Flying Doctor Service of Australia and Royal Perth Hospital in Western Australia as a quality assurance exercise. METHODS: The simulation exercise yielded 21 participants (hospital and air medical clinicians, logisticians, and pilots) and 8 simulation facilitators who consented to provide data between June and October 2023. Data were collected by phone interviews and surveys and analyzed descriptively and qualitatively. RESULTS: Facilitators reported that conducting successful interagency helicopter retrieval simulations requires extensive planning and preparation. After the simulation, participants reported increased clinical confidence in their specific role, with a desire for greater exposure to diverse simulation training to optimize their future performances for real scenarios. Simulation debriefs allow for further participant clarification surrounding the overall process. They provide a medium for valuable feedback to health service providers in process refinement in the management of the critically unwell, enhancing a culture of safety. CONCLUSION: This study highlighted that interagency simulations are a valuable exercise when multiple health service providers are involved in the management of individual patients who are critically unwell. The significant effort to organize and coordinate to create high-fidelity scenarios by facilitators is rewarded with significant benefit found by the participants in their ability to be prepared for the real-life scenario. Such findings have important implications for ongoing interagency collaboration and ongoing health care and educational strategy.",
+              "title_ko": ""
+            },
+            {
+              "pmid": "39632027",
+              "title": "Sedation Management in the Intubated Pediatric Patient as a Method to Reduce Neuromuscular Blockade Utilization Rate During Transport: A Quality Improvement Project.",
+              "journal": "Air medical journal",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2024-09-05",
+              "authors": [
+                "Lyons L",
+                "Minehart J",
+                "Perebzak C"
+              ],
+              "citation_count": 1,
+              "rcr": 0.6366223785579611,
+              "volume": "43",
+              "issue": "6",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/39632027/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 5.8,
+              "field": "emergency",
+              "field_label": "응급의학",
+              "abstract": "OBJECTIVE: Models recommending continuous sedation combined with specific tools to assess sedation depth during pediatric transport do not exist. Published studies demonstrate that nurse-driven sedation protocols yield more consistent levels of appropriate sedation. METHODS: A retrospective review in 2020 of mechanically ventilated pediatric transport patients at this institution demonstrated that 60.7% received neuromuscular blockade. This higher than anticipated neuromuscular blockade usage indicated an opportunity to improve sedation management. The primary aim of this quality improvement project is to decrease neuromuscular blockade use to < 30% of intubated pediatric patients cared for by our critical care transport team. To achieve this, we aimed to improve patient sedation by increasing the use of continuous sedation medication infusions to > 75% of patients by the first quarter of 2022. The initiative took place with a hospital-based pediatric/neonatal critical care transport team. RESULTS: Continuous sedation infusions increased using protocolized sedation from 10.7% at baseline to a sustained rate of 88% with dexmedetomidine (76.3%) and propofol (13.6%) as primary medications. The percentage of patients receiving neuromuscular blockade decreased in stepwise fashion from the initial 60.7% to 8.3%. CONCLUSION: This project demonstrated sustained improvement in continuous sedation and decrease in neuromuscular blockade use through the initiation of a continuous sedation protocol in transport.",
+              "title_ko": ""
+            },
+            {
+              "pmid": "41534957",
+              "title": "One Mission, One Team: Celebrating 40 Years of Duke Life Flight.",
+              "journal": "Air medical journal",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2025-07-04",
+              "authors": [
+                "Sapp A"
+              ],
+              "citation_count": 0,
+              "rcr": null,
+              "volume": "45",
+              "issue": "1",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/41534957/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 0.0,
+              "field": "emergency",
+              "field_label": "응급의학",
+              "abstract": "BACKGROUND: Duke LifeFlight, established in 1985, has provided four decades of exceptional critical care transport to patients across the Southeast. As one of the first hospital-based air medical programs in North Carolina, it has set the standard for safety, innovation, and clinical excellence. OBJECTIVE: To commemorate the 40-year anniversary, celebrated last year, of Duke LifeFlight by highlighting its historical milestones, evolving capabilities, and lasting impact on patient outcomes and prehospital care. METHODS/APPROACH: A retrospective review of archival data, program development timelines, and patient care advancements. Key performance indicators and patient transport volumes were analyzed to illustrate growth and effectiveness. RESULTS: Since inception, Duke LifeFlight has completed thousands of transports, expanded to include rotor- and fixed-wing aircraft capabilities as well as critical care ground teams, and maintained accreditation from the Commission on Accreditation of Medical Transport Systems (CAMTS). Innovations in training, telemedicine, and trauma care have further elevated its regional and national standing. CONCLUSION: Over 40 years, Duke LifeFlight has exemplified resilience, clinical excellence, and leadership in critical care transport. As it enters a new era, the program remains dedicated to advancing prehospital medicine and continuing its mission of delivering lifesaving care when seconds matter most.",
+              "title_ko": ""
+            },
+            {
+              "pmid": "39632038",
+              "title": "Maternal Cardiac Arrest for Critical Care Transport Providers: A Review.",
+              "journal": "Air medical journal",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2024-09-19",
+              "authors": [
+                "Barrows C",
+                "Lauria MJ",
+                "Abbasi F"
+              ],
+              "citation_count": 0,
+              "rcr": 0.0,
+              "volume": "43",
+              "issue": "6",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/39632038/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 0.0,
+              "field": "emergency",
+              "field_label": "응급의학",
+              "abstract": "Cardiac arrest in pregnancy is a rare but serious complication, occurring at a rate of 1 in every 9,000 patients hospitalized for delivery. This review article provides a comprehensive overview of maternal cardiac arrest for critical care transport providers. This article discusses the pertinent physiologic changes in pregnancy, common contributing factors, and special circumstances that can develop during a maternal cardiac arrest. We also provide current approaches to managing this population and special considerations for transport providers.",
+              "title_ko": ""
+            },
+            {
+              "pmid": "39632030",
+              "title": "Reducing Deep Sedation and Benzodiazepine Use in Mechanically Ventilated Patients During Critical Care Transport: A Quality Improvement Initiative.",
+              "journal": "Air medical journal",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2024-09-16",
+              "authors": [
+                "Anton ME",
+                "Altomare AL",
+                "Blais AR"
+              ],
+              "citation_count": 0,
+              "rcr": 0.0,
+              "volume": "43",
+              "issue": "6",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/39632030/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 0.0,
+              "field": "emergency",
+              "field_label": "응급의학",
+              "abstract": "OBJECTIVE: Deep sedation of mechanically ventilated patients is associated with poorer outcomes, including longer hospital length of stay and more ventilator days. In contrast, light sedation is associated with decreased hospital and intensive care unit length of stay, lower ventilator days, and decreased mortality. This study sought to decrease the use of unindicated deep sedation and benzodiazepine use in mechanically ventilated patients during critical care transport. Previous work identified > 90% of intubated, nonparalyzed patients were deeply sedated in this critical care transport system. METHODS: This study was conducted at a critical care transport service affiliated with a rural academic medical center. Chart review of all mechanically ventilated adults transported between January and November 2023 with no indication for deep sedation was performed. Improvement initiatives were implemented using Plan-Do-Study-Act cycles and included transport crew education, guideline revision, and enhanced performance feedback. RESULTS: A 25% reduction in the proportion of deeply sedated patients was achieved. CONCLUSION: Deep sedation is not universally indicated in critical care transport of mechanically ventilated patients. This quality improvement initiative achieved its main aim of reducing the proportion of deeply sedated patients by 25% with the implementation of 3 Plan-Do-Study-Act cycles.",
               "title_ko": ""
             }
           ]
@@ -8563,71 +8671,6 @@
           ]
         },
         {
-          "journal": "Inhalation toxicology",
-          "impact_factor": 1.5,
-          "index_type": "미상",
-          "quartile": "미상",
-          "paper_count": 1,
-          "top_paper": {
-            "pmid": "39620371",
-            "title": "Temporal evaluation of lung injury following chlorine Inhalation in a ventilated pig model.",
-            "journal": "Inhalation toxicology",
-            "impact_factor": 1.5,
-            "index_type": "미상",
-            "quartile": "미상",
-            "pubdate": "2024-12-02",
-            "authors": [
-              "Neal M",
-              "Harvilchuck J",
-              "Pressburger D"
-            ],
-            "citation_count": 1,
-            "rcr": 0.1778745137614112,
-            "volume": "36",
-            "issue": "9-10",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/39620371/",
-            "altmetric_score": 0,
-            "altmetric_news": 0,
-            "altmetric_social": 0,
-            "is_current_issue": true,
-            "hot_score": 15.8,
-            "field": "emergency",
-            "field_label": "응급의학",
-            "abstract": "OBJECTIVE: Chlorine (Cl2) is a widely used industrial chemical and toxic human exposures have occurred from Cl2 releases. No approved medical countermeasures (MCMs) exist for Cl2-induced lung injuries. The objective of this study was to develop and characterize swine Cl2 inhalation injuries to understand lung injury and histopathological sequalae. MATERIALS AND METHODS: Male swine (approximately 14 weeks old) were anesthetized, paralyzed, intubated, and exposed to clean air or Cl2 while connected to a ventilator. The exposed LD50/24 hr of 1.8 mg/kg was delivered within a 15-20-minute timeframe. Scheduled terminal timepoints were 6 h, 7- and 30-days post-exposure. RESULTS: Following Cl2 exposure, 46% of the animals succumbed with an average time to death of 1.42 h. Dynamic lung compliance at 6 h post-exposure was reduced 45%. Clinical observations demonstrated respiratory abnormalities similar to Cl2 exposed humans. Compared to air shams, Cl2-exposed animals had decreased SpO2, arterial blood pH, pO2, sO2, increased blood lactate levels and deoxyhemoglobin levels at early timepoints. Increased neutrophils 6 h post- exposure occurred concurrent with increased inflammatory cytokines, bronchiolar epithelial necrosis with alveolar edema, cellular infiltrates, and lobular atelectasis. DISCUSSION/CONCLUSIONS: Potentially relevant biomarkers involved in the progression and recovery from acute Cl2 lung injury in this model include lung compliance, select cytokines/chemokines, arterial blood gas parameters, and histopathological evaluation. Normal lung histopathological observations beyond 7- days indicates that histopathological evaluations should occur earlier. This animal model delivers accurate and consistent Cl2 exposures resulting in a human-relevant lung injury for evaluating MCM efficacy against Cl2-mediated acute lung injury.",
-            "title_ko": ""
-          },
-          "papers": [
-            {
-              "pmid": "39620371",
-              "title": "Temporal evaluation of lung injury following chlorine Inhalation in a ventilated pig model.",
-              "journal": "Inhalation toxicology",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2024-12-02",
-              "authors": [
-                "Neal M",
-                "Harvilchuck J",
-                "Pressburger D"
-              ],
-              "citation_count": 1,
-              "rcr": 0.1778745137614112,
-              "volume": "36",
-              "issue": "9-10",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/39620371/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": true,
-              "hot_score": 15.8,
-              "field": "emergency",
-              "field_label": "응급의학",
-              "abstract": "OBJECTIVE: Chlorine (Cl2) is a widely used industrial chemical and toxic human exposures have occurred from Cl2 releases. No approved medical countermeasures (MCMs) exist for Cl2-induced lung injuries. The objective of this study was to develop and characterize swine Cl2 inhalation injuries to understand lung injury and histopathological sequalae. MATERIALS AND METHODS: Male swine (approximately 14 weeks old) were anesthetized, paralyzed, intubated, and exposed to clean air or Cl2 while connected to a ventilator. The exposed LD50/24 hr of 1.8 mg/kg was delivered within a 15-20-minute timeframe. Scheduled terminal timepoints were 6 h, 7- and 30-days post-exposure. RESULTS: Following Cl2 exposure, 46% of the animals succumbed with an average time to death of 1.42 h. Dynamic lung compliance at 6 h post-exposure was reduced 45%. Clinical observations demonstrated respiratory abnormalities similar to Cl2 exposed humans. Compared to air shams, Cl2-exposed animals had decreased SpO2, arterial blood pH, pO2, sO2, increased blood lactate levels and deoxyhemoglobin levels at early timepoints. Increased neutrophils 6 h post- exposure occurred concurrent with increased inflammatory cytokines, bronchiolar epithelial necrosis with alveolar edema, cellular infiltrates, and lobular atelectasis. DISCUSSION/CONCLUSIONS: Potentially relevant biomarkers involved in the progression and recovery from acute Cl2 lung injury in this model include lung compliance, select cytokines/chemokines, arterial blood gas parameters, and histopathological evaluation. Normal lung histopathological observations beyond 7- days indicates that histopathological evaluations should occur earlier. This animal model delivers accurate and consistent Cl2 exposures resulting in a human-relevant lung injury for evaluating MCM efficacy against Cl2-mediated acute lung injury.",
-              "title_ko": ""
-            }
-          ]
-        },
-        {
           "journal": "Ulusal travma ve acil cerrahi dergisi = Turkish journal of trauma & emergency surgery : TJTES",
           "impact_factor": 1.5,
           "index_type": "미상",
@@ -9404,6 +9447,183 @@
               "title_ko": ""
             }
           ]
+        },
+        {
+          "journal": "Frontiers in cellular and infection microbiology",
+          "impact_factor": 1.5,
+          "index_type": "미상",
+          "quartile": "미상",
+          "paper_count": 5,
+          "top_paper": {
+            "pmid": "39867344",
+            "title": "The independent predictive value of admission serum ferritin concentration for prognosis in elderly patients with community-acquired pneumonia in the emergency department.",
+            "journal": "Frontiers in cellular and infection microbiology",
+            "impact_factor": 1.5,
+            "index_type": "미상",
+            "quartile": "미상",
+            "pubdate": "2025-01-10",
+            "authors": [
+              "Zhang X",
+              "Shang N",
+              "Zhang D"
+            ],
+            "citation_count": 3,
+            "rcr": null,
+            "volume": "14",
+            "issue": "",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/39867344/",
+            "altmetric_score": 0,
+            "altmetric_news": 0,
+            "altmetric_social": 0,
+            "is_current_issue": false,
+            "hot_score": 11.6,
+            "field": "emergency",
+            "field_label": "응급의학",
+            "abstract": "BACKGROUND: Community-acquired pneumonia (CAP) poses a significant health threat to the elderly population, leading to high morbidity and mortality rates. Serum ferritin, a critical indicator of iron metabolism, plays a pivotal role in inflammation and immune regulation. Nevertheless, its specific prognostic relevance in elderly patients with CAP remains unclear. This study aimed to evaluate the predictive capacity of serum ferritin in determining the prognosis of elderly patients with CAP and to investigate its effectiveness when combined with the sequential organ failure assessment (SOFA) or CURB-65 (confusion, uremia, respiratory rate, blood pressure, aged ≥65 years) scores. METHODS: This retrospective cohort study included 451 elderly patients (aged ≥65 years) diagnosed with CAP according to established criteria. Serum ferritin concentrations were measured upon admission and various prognostic indicators such as 28-day mortality, mechanical ventilation requirement, and vasopressor administration were analyzed in conjunction with white blood count (WBC), C-reactive protein (CRP), procalcitonin (PCT), lactate (Lac), SOFA scores, and CURB-65 scores. The independent predictive value of ferritin was assessed through receiver operating characteristic (ROC) curve analysis and multivariate logistic regression. RESULTS: Among the 451 patients, 99 (22%) died within 28 days. The area under the curve (AUC) of serum ferritin for predicting 28-day mortality was 0.75 (95%CI: 0.695-0.805). Ferritin outperformed WBC, CRP, and PCT in predictive performance, and its performance was comparable to Lac. When combined with SOFA or CURB-65 scores, the AUC of ferritin for predicting 28-day mortality increased to 0.84 and 0.847, respectively (P<0.001). Moreover, the AUC of ferritin for predicting vasopressor administration was 0.707, which increased to 0.864 and 0.822 when combined with SOFA or CURB-65 scores, respectively (P<0.001). Ferritin could predict mechanical ventilation requirement with an AUC of 0.618, but it was not an independent risk factor, and its predictive ability was not significantly different from other indicators. CONCLUSION: Admission serum ferritin is an independent predictor for the prognosis of elderly patients with CAP, and it exhibits a strong ability to predict the 28-day mortality and vasopressor administration. The combination of ferritin with SOFA and CURB-65 scores significantly improves the prognostic predictive potency.",
+            "title_ko": ""
+          },
+          "papers": [
+            {
+              "pmid": "39867344",
+              "title": "The independent predictive value of admission serum ferritin concentration for prognosis in elderly patients with community-acquired pneumonia in the emergency department.",
+              "journal": "Frontiers in cellular and infection microbiology",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2025-01-10",
+              "authors": [
+                "Zhang X",
+                "Shang N",
+                "Zhang D"
+              ],
+              "citation_count": 3,
+              "rcr": null,
+              "volume": "14",
+              "issue": "",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/39867344/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 11.6,
+              "field": "emergency",
+              "field_label": "응급의학",
+              "abstract": "BACKGROUND: Community-acquired pneumonia (CAP) poses a significant health threat to the elderly population, leading to high morbidity and mortality rates. Serum ferritin, a critical indicator of iron metabolism, plays a pivotal role in inflammation and immune regulation. Nevertheless, its specific prognostic relevance in elderly patients with CAP remains unclear. This study aimed to evaluate the predictive capacity of serum ferritin in determining the prognosis of elderly patients with CAP and to investigate its effectiveness when combined with the sequential organ failure assessment (SOFA) or CURB-65 (confusion, uremia, respiratory rate, blood pressure, aged ≥65 years) scores. METHODS: This retrospective cohort study included 451 elderly patients (aged ≥65 years) diagnosed with CAP according to established criteria. Serum ferritin concentrations were measured upon admission and various prognostic indicators such as 28-day mortality, mechanical ventilation requirement, and vasopressor administration were analyzed in conjunction with white blood count (WBC), C-reactive protein (CRP), procalcitonin (PCT), lactate (Lac), SOFA scores, and CURB-65 scores. The independent predictive value of ferritin was assessed through receiver operating characteristic (ROC) curve analysis and multivariate logistic regression. RESULTS: Among the 451 patients, 99 (22%) died within 28 days. The area under the curve (AUC) of serum ferritin for predicting 28-day mortality was 0.75 (95%CI: 0.695-0.805). Ferritin outperformed WBC, CRP, and PCT in predictive performance, and its performance was comparable to Lac. When combined with SOFA or CURB-65 scores, the AUC of ferritin for predicting 28-day mortality increased to 0.84 and 0.847, respectively (P<0.001). Moreover, the AUC of ferritin for predicting vasopressor administration was 0.707, which increased to 0.864 and 0.822 when combined with SOFA or CURB-65 scores, respectively (P<0.001). Ferritin could predict mechanical ventilation requirement with an AUC of 0.618, but it was not an independent risk factor, and its predictive ability was not significantly different from other indicators. CONCLUSION: Admission serum ferritin is an independent predictor for the prognosis of elderly patients with CAP, and it exhibits a strong ability to predict the 28-day mortality and vasopressor administration. The combination of ferritin with SOFA and CURB-65 scores significantly improves the prognostic predictive potency.",
+              "title_ko": ""
+            },
+            {
+              "pmid": "39844842",
+              "title": "Dynamics of coagulation proteins upon ICU admission and after one year of recovery from COVID-19: a preliminary study.",
+              "journal": "Frontiers in cellular and infection microbiology",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2025-01-08",
+              "authors": [
+                "Behar-Lagares R",
+                "Virseda-Berdices A",
+                "Martínez-González Ó"
+              ],
+              "citation_count": 1,
+              "rcr": null,
+              "volume": "14",
+              "issue": "",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/39844842/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 5.8,
+              "field": "emergency",
+              "field_label": "응급의학",
+              "abstract": "OBJECTIVES: This study aimed to investigate the association of baseline coagulation proteins with hospitalization variables in COVID-19 patients admitted to ICU, as well as coagulation system changes after one-year post-discharge, taking into account gender-specific bias in the coagulation profile. METHODS: We conducted a prospective longitudinal study on 49 ICU-admitted COVID-19 patients. Proteins were measured using a Luminex 200™. The association between coagulation protein levels and hospitalization variables was carried out by generalized linear models adjusted by the most relevant covariates. RESULTS: At ICU admission, lower factor XII, antithrombin, and protein C levels were linked to the need for invasive mechanical ventilation (IMV) or its duration (p=0.028; p=0.047 and p=0.015, respectively). Likewise, lower factor XII, antithrombin, and prothrombin levels were associated with longer ICU length of stay (ICU LOS) (p=0.045; p=0.022; p=0.036, respectively). From baseline to the end of the follow-up, factor XII, antithrombin, prothrombin, and protein C levels notably increased in patients with longer ICU LOS. One-year post-discharge, differences were found for factor IX, aPTT, and INR. Gender-stratified analysis showed sustained alterations in males. CONCLUSIONS: Depleted specific coagulation factors on ICU admission are associated with increased severity in critically ill COVID-19 patients. Most coagulation alterations recover one-year post-discharge, except for factor IX, aPTT and INR, which remain reduced.",
+              "title_ko": ""
+            },
+            {
+              "pmid": "39583157",
+              "title": "Early mNGS testing for diagnose and prognostic prediction of early onset pneumonia among in-hospital cardiac arrest patients undergoing extracorporeal cardiopulmonary resuscitation.",
+              "journal": "Frontiers in cellular and infection microbiology",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2024-11-08",
+              "authors": [
+                "Guo RM",
+                "Li XX",
+                "Zhou YH"
+              ],
+              "citation_count": 1,
+              "rcr": 0.31584612635925824,
+              "volume": "14",
+              "issue": "",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/39583157/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 5.8,
+              "field": "emergency",
+              "field_label": "응급의학",
+              "abstract": "OBJECTIVES: Metagenomic next-generation sequencing (mNGS) is emerging as a novel diagnostic technology for various infectious diseases; however, limited studies have investigated its application in etiological diagnosis of early onset pneumonia (EOP) among patients undergoing extracorporeal cardiopulmonary resuscitation (ECPR) following in-hospital cardiac arrest (IHCA), The clinical significance of early mNGS in predicting short-term prognosis of IHCA patients after ECPR remains unclear. METHODS: This retrospective study included 76 patients with IHCA who underwent ECPR at the First Affiliated Hospital of Zhengzhou University from January 2018 to December 2022. Baseline characteristics and etiological data of all patients during their hospitalization were collected and statistically analyzed. The primary outcome of this study was the diagnosis of EOP, while the secondary outcomes included successful extracorporeal membrane oxygenation (ECMO) weaning and survival at discharge. Additionally, the characteristics of bronchoalveolar lavage fluid (BALF) flora in these patients were compared by analyzing both mNGS results and culture results. RESULTS: Multivariate logistic regression were employed to analyze the predictors of ECMO weaning failure, mortality at discharge, and the incidence of EOP. Ultimately, patients with lower SOFA scores on admission [OR (95%CI): 1.447 (1.107-1.890), p=0.007] and those who underwent early mNGS testing within 48 hours after ECPR [OR (95%CI): 0.273 (0.086-0.865), p=0.027] demonstrated a higher probability of successful weaning from ECMO. Patients with higher SOFA scores on admission [OR (95%CI): 2.404 (1.422-4.064), p=0.001], and elevated lactate levels [OR (95%CI): 1.176 (1.017-1.361), p=0.029] exhibited an increased likelihood of mortality at discharge. Furthermore, early mNGS detection [OR (95%CI): 0.186 (0.035-0.979), p=0.047], and lower CRP levels (48h-7d after ECMO) [OR (95%CI):1.011 (1.003-1.019), p=0.006] were associated with a reduced incidence of EOP. In addition, the pathogens detected by mNGS within 48 hours after ECPR were mainly oral colonizing bacteria and viruses, and viruses were in the majority, while all BALF cultures were negative. In contrast, between 48 hours and 7 days after ECPR, BALF cultures were positive in all EOP patients. CONCLUSIONS: Early mNGS testing to identify microbial flora facilitates timely adjustment of antibiotic regimens, thereby reducing the incidence of EOP and improving short-term prognosis in patients undergoing ECPR following IHCA.",
+              "title_ko": ""
+            },
+            {
+              "pmid": "42769025",
+              "title": "Development and validation of a prognostic nomogram model for 28-day mortality based on IP-10 and clinical parameters in septic patients in the emergency department.",
+              "journal": "Frontiers in cellular and infection microbiology",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2026-09-07",
+              "authors": [
+                "Yang L",
+                "Lin Y",
+                "Zhang X"
+              ],
+              "citation_count": 0,
+              "rcr": null,
+              "volume": "16",
+              "issue": "",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/42769025/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 0.0,
+              "field": "emergency",
+              "field_label": "응급의학",
+              "abstract": "BACKGROUND: Early identification and precise prognosis of sepsis are of great significance. Traditional biomarkers, such as procalcitonin (PCT) and lactate (Lac), do not reflect the immune dysregulation at the center of sepsis pathophysiology. Interferon - γ -induced protein 10 (IP-10) is an important chemokine for septic immune dysregulation responses and may have good predictive value. Our research aims to establish and validate a clinically applicable nomogram that combines IP-10 and conventional clinical parameters to predict the 28-day mortality in septic patients in the emergency department (ED). METHODS: This study recruited 655 patients who met the criteria of sepsis 3.0 from the ED of Beijing Chao-Yang Hospital from November 2023 to May 2025. A total of 580 patients were analyzed and randomly divided into the training group and the validation group in a 7:3 ratio. The variable selection in this study was conducted using the Least Absolute Shrinkage and Selection Operator (LASSO) regression, and our research employed multivariate logistic regression to determine independent predictors of 28-day mortality. The study scientifically evaluated nomogram using receiver operating characteristic (ROC) curves, calibration plots, Decision Curve Analysis (DCA), and Clinical Impact Curves (CIC). RESULTS: Among the 580 patients, the 28-day mortality rate was 12.9% (75 non-survivors). Multivariate analysis identified five independent risk factors: IP-10 (OR = 1.978, 95% CI: 1.964-1.992), Sequential Organ Failure Assessment (SOFA) score (OR = 1.526, 95% CI: 1.365-1.758), Lac (OR = 1.447, 95% CI: 1.281-1.711), PCT (OR = 1.562, 95% CI: 1.341-1.924), and Acute Physiology and Chronic Health Evaluation II (APACHE II) score (OR = 1.658, 95% CI: 1.515-1.840). The nomogram showed excellent discriminatory ability. The area under the curve (AUC) of the training set and validation set was 0.952 (95% CI: 0.930-0.974) and 0.946 (95% CI: 0.911-0.981), respectively. Calibration was satisfactory, and DCA/CIC analyses confirmed that within the risk threshold range, the clinical net benefit was significant. CONCLUSION: It is the first time to develop and validate a prognostic nomogram model for 28-day mortality based on IP-10 and clinical parameters in septic patients in the ED. This tool may assist clinicians in early risk stratification and clinical decision-making.",
+              "title_ko": ""
+            },
+            {
+              "pmid": "41668730",
+              "title": "Exploring the association between dexmedetomidine and all-cause mortality in mechanically ventilated patients with sepsis through propensity score matching analysis and machine learning algorithms: a MIMIC-IV retrospective study.",
+              "journal": "Frontiers in cellular and infection microbiology",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2026-01-26",
+              "authors": [
+                "Wei Y",
+                "Li M",
+                "Wang P"
+              ],
+              "citation_count": 0,
+              "rcr": null,
+              "volume": "15",
+              "issue": "",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/41668730/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 0.0,
+              "field": "emergency",
+              "field_label": "응급의학",
+              "abstract": "BACKGROUND: Sepsis carries high ICU mortality globally, often requiring sedated mechanical ventilation. While some studies suggest dexmedetomidine improves survival in these patients, others contradict this finding. This study evaluates dexmedetomidine's survival benefit and sedation value for ventilated sepsis cases. METHODS: This retrospective cohort study utilized the MIMIC-IV database and eICU-CRD to analyze mechanically ventilated septic patients. Propensity score matching was employed to balance covariates. Machine learning algorithms were applied to validate dexmedetomidine's role in predicting mortality. RESULTS: A propensity score matching analysis was performed for 5176 pairs of patients. The use of dexmedetomidine was associated with a reduced risk of 28-day mortality (13.39% vs. 19.84%, HR: 0.595, P < 0.001) and of 180-day all-cause mortality (17.45% vs. 23.18%, HR: 0.632, P < 0.001). However, dexmedetomidine use was also associated with longer hospital (median 15.08 days vs. 10.2 days, P < 0.001) and ICU stays (median 6.81 days vs. 4.0 days, P < 0.001). Moreover, the duration of mechanical ventilation was significantly longer in the dexmedetomidine group (median 78 h vs. 51.00 h, P < 0.001). Dexmedetomidine was included among the significant features identified with the Boruta algorithm, and of the five machine learning models built using the 20 most important features (including dexmedetomidine), the model constructed on the basis of the Random Forest algorithm performed the best (training set: AUC = 0.781; test set: AUC = 0.811; eICU-CRD set: AUC = 0.820). SHapley Additive exPlanations (SHAP) revealed that comorbid acute kidney injury (AKI) was the most important predictor of mortality among mechanically ventilated septic patients. This was followed by the use of opioids, PaO2, and the SOFA score, with the use of dexmedetomidine relatively closely behind. CONCLUSIONS: Dexmedetomidine use significantly reduces short-term mortality in mechanically ventilated patients with sepsis but prolongs the hospital and ICU length of stay (LOS) and duration of mechanical ventilation. Administering dexmedetomidine within 48 hours and maintaining an infusion rate at or below 0.6 μg/kg/h appears to be more beneficial. Moreover, dexmedetomidine use strongly influences mortality in these patients.",
+              "title_ko": ""
+            }
+          ]
         }
       ],
       "hot_topics": [
@@ -9421,24 +9641,27 @@
         },
         {
           "phrase": "cardiac arrest",
-          "score": 66.5,
-          "paper_count": 3,
+          "score": 72.3,
+          "paper_count": 5,
           "pmids": [
             "39637269",
             "39699331",
-            "41260713"
+            "39632038",
+            "41260713",
+            "39583157"
           ]
         },
         {
           "phrase": "cardiopulmonary resuscitation",
-          "score": 60.8,
-          "paper_count": 5,
+          "score": 66.6,
+          "paper_count": 6,
           "pmids": [
             "41343612",
             "39689069",
             "39699331",
             "41487620",
-            "40224792"
+            "40224792",
+            "39583157"
           ]
         },
         {
@@ -9580,7 +9803,7 @@
             "phrase": "first aid",
             "scores": [
               0.0,
-              38.5,
+              32.7,
               25.8,
               0.0
             ]
