@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-07T20:22:01.126044Z",
+  "generated_at": "2026-10-08T20:23:47.849415Z",
   "window_days": 1095,
   "fields": [
     {
       "key": "preventive",
       "label": "예방의학",
-      "paper_count": 443,
+      "paper_count": 451,
       "journals": [
         {
           "journal": "The Orthopedic clinics of North America",
@@ -462,7 +462,7 @@
           "impact_factor": 1.5,
           "index_type": "미상",
           "quartile": "미상",
-          "paper_count": 96,
+          "paper_count": 98,
           "top_paper": {
             "pmid": "39949340",
             "title": "Analysis of factors influencing HPV vaccination intention among Chinese college students: structural equation modeling based on health belief theory.",
@@ -1587,7 +1587,7 @@
           "impact_factor": 1.5,
           "index_type": "미상",
           "quartile": "미상",
-          "paper_count": 3,
+          "paper_count": 2,
           "top_paper": {
             "pmid": "41491559",
             "title": "Screening for Firearm Violence Exposure in Adolescents and Young Adults.",
@@ -1644,34 +1644,6 @@
               "field_label": "예방의학",
               "abstract": "INTRODUCTION: Firearm violence now accounts for more than 45,000 deaths annually in America, making it the leading cause of death in the pediatric population. Despite this, primary care clinicians (PCCs) lack screening tools to assess a patient's future risk of gun violence, hampering the ability to allocate resources that could prevent morbidity and mortality. METHODS: Longitudinal quantitative study designed to evaluate whether the Serious fighting, Friend weapon carrying, community Environment, and firearm Threats (SaFETy) score and other measures could predict gun violence exposure over 6 months in a nonurban primary care (PC) based adolescent-young adult population. RESULTS: Eighty-eight patients between the ages of 14 to 24 completed the baseline questionnaire and 62 completed the 6-month questionnaire. 45% of participants had a SaFETy score >0. Any score >0 indicates an increased risk of future firearm violence. A strong correlation was found between the SaFETy score and gun violence exposure, and Adverse Childhood Events (ACEs). CONCLUSIONS: This was among the first studies attempting to assess the viability of screening for firearm violence and other associated risk factors in a nonurban PC setting. Our findings suggest that adolescent and young adult PC patients are willing to disclose in a survey topics related to violence and firearms with their PCC. If validated in the PC setting, the SaFETy score could become a crucial tool for PCCs given the ease with which it can be implemented into a routine visit and the nonthreatening, and nonconfrontational question design. Tools such as the SaFETy score can provide PCPs with vital insight into their patients' past gun violence exposures and future violence risks.",
               "title_ko": "청소년 및 청소년의 총기 폭력 노출 선별 검사."
-            },
-            {
-              "pmid": "41491555",
-              "title": "Comparison of the Performance of Three Health Related Social Needs Screening Tools.",
-              "journal": "Journal of the American Board of Family Medicine : JABFM",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2025-09-01",
-              "authors": [
-                "Fennelly KM",
-                "Calvo-Friedman A",
-                "Clapp J"
-              ],
-              "citation_count": 1,
-              "rcr": null,
-              "volume": "38",
-              "issue": "5",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/41491555/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": true,
-              "hot_score": 16.9,
-              "field": "preventive",
-              "field_label": "예방의학",
-              "abstract": "OBJECTIVES: This study compared the performance of and patient preference for New York City Health and Hospital's (NYC H + H) social needs screener to 2 widely used screeners, a version of the Accountable Health Communities screener and the WellRx screener, that include the same core domains of social needs. METHODS: Two NYC H + H primary care clinics provided data for analysis. A convenience sample completed 1 of the 2 other screeners during May-June 2024, in addition to the NYC H + H screener. Analyses compared rates of needs detected and number of needs identified as well as patient preference. RESULTS: The H + H screener performed similarly to both alternate screeners in identifying patients with social needs, (κ = 0.7, P < .001 and κ = 0.6, P < .001). The number of positive items identified by each screener was virtually identical. Patients preferred the H + H screener to the alternates, but differences were not statistically significant. CONCLUSIONS: Despite differences in question phrasing and response options, all 3 screeners performed similarly.",
-              "title_ko": "세 가지 건강 관련 사회적 요구 스크리닝 도구의 성능 비교."
             },
             {
               "pmid": "39978849",
@@ -3833,6 +3805,71 @@
           ]
         },
         {
+          "journal": "JBI evidence implementation",
+          "impact_factor": 1.5,
+          "index_type": "미상",
+          "quartile": "미상",
+          "paper_count": 1,
+          "top_paper": {
+            "pmid": "41995275",
+            "title": "Optimizing cystic fibrosis-related diabetes screening in adults using the oral glucose tolerance test (OGTT): a single center mixed methods study.",
+            "journal": "JBI evidence implementation",
+            "impact_factor": 1.5,
+            "index_type": "미상",
+            "quartile": "미상",
+            "pubdate": "2025-10-09",
+            "authors": [
+              "Matson AG",
+              "Smith D",
+              "Loel F"
+            ],
+            "citation_count": 1,
+            "rcr": null,
+            "volume": "24",
+            "issue": "2",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/41995275/",
+            "altmetric_score": 0,
+            "altmetric_news": 0,
+            "altmetric_social": 0,
+            "is_current_issue": true,
+            "hot_score": 16.9,
+            "field": "preventive",
+            "field_label": "예방의학",
+            "abstract": "BACKGROUND: Early diabetes detection can enhance metabolic outcomes, reducing future risks and complications. Effective diabetes screening remains crucial in the post cystic fibrosis (CF) modulator therapy era whereby treatment with Elexacaftor/Tezacaftor/Ivacaftor (ETI) will lead to an aging CF population. Therefore, adults living with CF will be at increased risk of metabolic complications, specifically diabetes. The oral glucose tolerance test (OGTT) remains a key validated diagnostic tool for diabetes in this population; however, uptake has been historically low. AIM: This study aimed to evaluate and address barriers to the uptake of OGTT screening for CF-related diabetes from a clinician and service perspective. METHOD: This single center mixed methods study comprised a survey, solution mapping workshops, and database-driven analytics, incorporating both qualitative and quantitative analyses. The study was conducted in a hospital in Brisbane, Australia from 2017 to 2023. We hybridized the Theoretical Domains Framework and the Capability, Opportunity, Motivation, and Behaviour (COM-B) change model to identify clinician- and service-level barriers to OGTT uptake. OGTT uptake was assessed at three time-points: T0 (2018-2019) Baseline/Pre-implementation, T1 (2020-2021) Post-implementation, and T2 (2022-2023) Post-implementation and ETI. RESULTS: Three barriers to OGTT uptake were identified: (1) clinician capacity, (2) systematic processes, and (3) consumer engagement. Provider knowledge gaps on diabetes diagnostic criteria were addressed through education. A CF-related diabetes clinical pathway was developed and integrated into service procedures and clinical databases. Consumer engagement initiatives were implemented. In our cohort, OGTT screening significantly increased from 12.7% at T0 to 38.5% at T1 (p < 0.001), stabilizing at 33.5% at T2 (p < 0.001). CONCLUSIONS: OGTT screening significantly improved following the implementation of behavior-based solutions. Our findings indicate that addressing key barriers at a service level using a multifaceted interventional approach can change end-user perspectives and behavior. SPANISH ABSTRACT: http://links.lww.com/IJEBH/A405.",
+            "title_ko": "경구 내당능 검사 (OGTT) 를 이용한 성인의 낭포성 섬유증 관련 당뇨병 선별검사 최적화: 단일 센터 혼합 방법 연구."
+          },
+          "papers": [
+            {
+              "pmid": "41995275",
+              "title": "Optimizing cystic fibrosis-related diabetes screening in adults using the oral glucose tolerance test (OGTT): a single center mixed methods study.",
+              "journal": "JBI evidence implementation",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2025-10-09",
+              "authors": [
+                "Matson AG",
+                "Smith D",
+                "Loel F"
+              ],
+              "citation_count": 1,
+              "rcr": null,
+              "volume": "24",
+              "issue": "2",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/41995275/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": true,
+              "hot_score": 16.9,
+              "field": "preventive",
+              "field_label": "예방의학",
+              "abstract": "BACKGROUND: Early diabetes detection can enhance metabolic outcomes, reducing future risks and complications. Effective diabetes screening remains crucial in the post cystic fibrosis (CF) modulator therapy era whereby treatment with Elexacaftor/Tezacaftor/Ivacaftor (ETI) will lead to an aging CF population. Therefore, adults living with CF will be at increased risk of metabolic complications, specifically diabetes. The oral glucose tolerance test (OGTT) remains a key validated diagnostic tool for diabetes in this population; however, uptake has been historically low. AIM: This study aimed to evaluate and address barriers to the uptake of OGTT screening for CF-related diabetes from a clinician and service perspective. METHOD: This single center mixed methods study comprised a survey, solution mapping workshops, and database-driven analytics, incorporating both qualitative and quantitative analyses. The study was conducted in a hospital in Brisbane, Australia from 2017 to 2023. We hybridized the Theoretical Domains Framework and the Capability, Opportunity, Motivation, and Behaviour (COM-B) change model to identify clinician- and service-level barriers to OGTT uptake. OGTT uptake was assessed at three time-points: T0 (2018-2019) Baseline/Pre-implementation, T1 (2020-2021) Post-implementation, and T2 (2022-2023) Post-implementation and ETI. RESULTS: Three barriers to OGTT uptake were identified: (1) clinician capacity, (2) systematic processes, and (3) consumer engagement. Provider knowledge gaps on diabetes diagnostic criteria were addressed through education. A CF-related diabetes clinical pathway was developed and integrated into service procedures and clinical databases. Consumer engagement initiatives were implemented. In our cohort, OGTT screening significantly increased from 12.7% at T0 to 38.5% at T1 (p < 0.001), stabilizing at 33.5% at T2 (p < 0.001). CONCLUSIONS: OGTT screening significantly improved following the implementation of behavior-based solutions. Our findings indicate that addressing key barriers at a service level using a multifaceted interventional approach can change end-user perspectives and behavior. SPANISH ABSTRACT: http://links.lww.com/IJEBH/A405.",
+              "title_ko": "경구 내당능 검사 (OGTT) 를 이용한 성인의 낭포성 섬유증 관련 당뇨병 선별검사 최적화: 단일 센터 혼합 방법 연구."
+            }
+          ]
+        },
+        {
           "journal": "British journal of neurosurgery",
           "impact_factor": 1.5,
           "index_type": "미상",
@@ -4670,170 +4707,20 @@
               "title_ko": "림프부종 자가 치료 환자 학교가 하지 림프부종 환자의 기능, 삶의 질, 림프부종 용적 및 신체 가치에 미치는 영향에 대한 조사: 준실험적 연구."
             }
           ]
-        },
-        {
-          "journal": "Frontiers in endocrinology",
-          "impact_factor": 1.5,
-          "index_type": "미상",
-          "quartile": "미상",
-          "paper_count": 4,
-          "top_paper": {
-            "pmid": "39877848",
-            "title": "Shifting paradigms in primary aldosteronism: reconsideration of screening strategy via integrating pathophysiological insights.",
-            "journal": "Frontiers in endocrinology",
-            "impact_factor": 1.5,
-            "index_type": "미상",
-            "quartile": "미상",
-            "pubdate": "2025-01-14",
-            "authors": [
-              "Kitamoto T",
-              "Ruike Y",
-              "Koide H"
-            ],
-            "citation_count": 4,
-            "rcr": null,
-            "volume": "15",
-            "issue": "",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/39877848/",
-            "altmetric_score": 0,
-            "altmetric_news": 0,
-            "altmetric_social": 0,
-            "is_current_issue": false,
-            "hot_score": 16.0,
-            "field": "preventive",
-            "field_label": "예방의학",
-            "abstract": "Several decades have passed since the description of the first patient with primary aldosteronism (PA). PA was initially classified in two main forms: aldosterone-producing adenoma (APA) and idiopathic hyperaldosteronism (IHA). However, the pathogenesis of PA has now been shown to be far more complex. For this reason, the traditional classification needs to be updated. Given the recent advancements in our understanding of PA pathogenesis, we should reevaluate how frequent PA cases are, beginning with the reconstruction of the screening strategy. Recent studies consistently indicated that PA has been identified in 22% of patients with resistant hypertension and 11% even in normotensives. The frequency is influenced by the screening strategy and should be based on understanding the pathogenesis of PA. Progress has been made to promote our understanding of the pathogenesis of PA by the findings of aldosterone driver mutations, which have been found in normotensives and hypertensives. In addition, much clinical evidence has been accumulated to indicate that there is a spectrum in PA pathogenesis. In this review, we will summarize the recent progress in aldosterone measurement methods based on LC-MS/MS and the current screening strategy. Then, we will discuss the progress of our understanding of PA, focusing on aldosterone driver mutations and the natural history of PA. Finally, we will discuss the optimal strategy to improve screening rate and case detection.",
-            "title_ko": "일차 알도스테론주의의 패러다임 전환: 병태생리학적 통찰력 통합을 통한 스크리닝 전략의 재검토."
-          },
-          "papers": [
-            {
-              "pmid": "39877848",
-              "title": "Shifting paradigms in primary aldosteronism: reconsideration of screening strategy via integrating pathophysiological insights.",
-              "journal": "Frontiers in endocrinology",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2025-01-14",
-              "authors": [
-                "Kitamoto T",
-                "Ruike Y",
-                "Koide H"
-              ],
-              "citation_count": 4,
-              "rcr": null,
-              "volume": "15",
-              "issue": "",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/39877848/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": false,
-              "hot_score": 16.0,
-              "field": "preventive",
-              "field_label": "예방의학",
-              "abstract": "Several decades have passed since the description of the first patient with primary aldosteronism (PA). PA was initially classified in two main forms: aldosterone-producing adenoma (APA) and idiopathic hyperaldosteronism (IHA). However, the pathogenesis of PA has now been shown to be far more complex. For this reason, the traditional classification needs to be updated. Given the recent advancements in our understanding of PA pathogenesis, we should reevaluate how frequent PA cases are, beginning with the reconstruction of the screening strategy. Recent studies consistently indicated that PA has been identified in 22% of patients with resistant hypertension and 11% even in normotensives. The frequency is influenced by the screening strategy and should be based on understanding the pathogenesis of PA. Progress has been made to promote our understanding of the pathogenesis of PA by the findings of aldosterone driver mutations, which have been found in normotensives and hypertensives. In addition, much clinical evidence has been accumulated to indicate that there is a spectrum in PA pathogenesis. In this review, we will summarize the recent progress in aldosterone measurement methods based on LC-MS/MS and the current screening strategy. Then, we will discuss the progress of our understanding of PA, focusing on aldosterone driver mutations and the natural history of PA. Finally, we will discuss the optimal strategy to improve screening rate and case detection.",
-              "title_ko": "일차 알도스테론주의의 패러다임 전환: 병태생리학적 통찰력 통합을 통한 스크리닝 전략의 재검토."
-            },
-            {
-              "pmid": "41641034",
-              "title": "Assessment of screening tools for diabetic sarcopenia in type 2 diabetes mellitus: evidence from a scoping review.",
-              "journal": "Frontiers in endocrinology",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2026-01-20",
-              "authors": [
-                "Yin J",
-                "Zhang X",
-                "Cai J"
-              ],
-              "citation_count": 2,
-              "rcr": null,
-              "volume": "16",
-              "issue": "",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/41641034/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": false,
-              "hot_score": 11.0,
-              "field": "preventive",
-              "field_label": "예방의학",
-              "abstract": "OBJECTIVE: This study aimed to map and synthesize the available evidence on screening tools for diabetic sarcopenia in patients with type 2 diabetes mellitus (T2DM), highlighting their characteristics, application contexts, and research gaps. METHODS: A comprehensive search was conducted in PubMed, Web of Science, CNKI, and Wanfang Data to identify studies published from 2010 to Deccember 2025. Studies involving adults with T2DM that evaluated screening tools for sarcopenia against established diagnostic criteria (EWGSOP, AWGS, FNIH, or IWGS) were eligible. Two reviewers independently screened studies, extracted data, and assessed methodological quality using the QUADAS-2 tool. Findings were charted and synthesized narratively, with screening tools grouped into functional assessments, anthropometric measures, biomarker-based methods, imaging approaches, and predictive models. RESULTS: A total of 24 studies with 9,469 participants were included. The most common screening tools were functional assessments, anthropometric measures, biomarkers, and muscle ultrasound. SARC-F showed moderate sensitivity (13.33%-62.63%) and high specificity (67.30%-91.67%), while SARC-CalF improved diagnostic performance. Muscle ultrasound demonstrated high accuracy, with sensitivity ranging from 71.05% to 95.00%. Predictive models with multiple variables (Age, BMI, HbA1c) showed AUC values between 0.800 and 0.932. Challenges included inconsistent cut-off values and limited validation across diverse populations. CONCLUSION: Various screening approaches for diabetic sarcopenia have been explored, but no single tool is universally validated for T2DM. Combining functional questionnaires with objective assessments like ultrasound or biomarkers may offer a more practical solution. Future research should focus on standardizing thresholds and testing tools in diverse populations.",
-              "title_ko": "제2형 당뇨병에서 당뇨병성 근감소증에 대한 선별검사 도구의 평가: 범위 검토의 증거."
-            },
-            {
-              "pmid": "41684453",
-              "title": "Effect of timely diagnosis and treatment on growth and body proportionality of children with congenital hypothyroidism.",
-              "journal": "Frontiers in endocrinology",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2026-01-28",
-              "authors": [
-                "Kochar A",
-                "Kaur H",
-                "Dayal D"
-              ],
-              "citation_count": 1,
-              "rcr": null,
-              "volume": "16",
-              "issue": "",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/41684453/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": false,
-              "hot_score": 6.9,
-              "field": "preventive",
-              "field_label": "예방의학",
-              "abstract": "BACKGROUND: Congenital hypothyroidism (CH) is a preventable cause of growth and neurodevelopmental deficits. In India, lack of universal newborn screening (NBS) delays diagnosis. This study examines how treatment timing influences growth, nutrition, and body proportionality in children with CH. METHODS: This cross-sectional study included 66 children with CH, aged under 5 years, receiving Levothyroxine(LT4) therapy for one year. Age and sex-matched 64 healthy children were also enrolled. Children with CH were stratified into early-treated (<3months) and late-treated (>3months) groups. Anthropometric measurements were converted to Z-scores using WHO standards. Body proportionality was assessed using: height-arm span difference, upper segment-to-lower segment (US: LS) ratio, Manouvrier's Indice Skélique (MIS). MIS classifies skeletal proportions as brachyskelia (short legs, long trunk; score ≤84.9), mesatyskelia (intermediate; 85.0-89.9), and macroskelia (long legs, short trunk; ≥90). RESULTS: Children with CH had significantly lower height-for-age (HAZ -2.31 ± 1.32 vs. -0.41 ± 0.96), weight-for-age (WAZ -1.98 ± 1.41 vs. -0.36 ± 1.02), and head circumference-for-age (HCZ -1.52 ± 1.28 vs. -0.21 ± 0.89) Z-scores compared with healthy controls (all p < 0.001). Stunting (HAZ < -2 SD) was present in 53% of children, while underweight (WAZ < -2 SD) was observed in 36.4%. Late-treated children had a higher prevalence of severe stunting (67.7% vs. 11.4%), severe underweight (29.0% vs. 2.9%), and microcephaly (35.5% vs. 8.6%) compared with early-treated children (p < 0.05). Disproportionate stature was observed in 71.0% of late-treated children compared with 42.9% of early-treated children (p < 0.05). US: LS ratio and Manouvrier's Index further confirmed greater skeletal disproportionality in late-treated children compared with early-treated children (p < 0.05). CONCLUSIONS: Delayed treatment in CH significantly impairs growth, increases skeletal disproportionality, and adversely affects neurocranial development. Early initiation of therapy-ideally within the first 3 months-is essential. These findings highlight the need for newborn screening in India.",
-              "title_ko": "시기적절한 진단과 치료가 선천성 갑상선 기능 저하증 아동의 성장과 신체 비례에 미치는 영향."
-            },
-            {
-              "pmid": "42824384",
-              "title": "Cumulative live birth following preimplantation genetic testing for aneuploidy versus conventional IVF/ICSI in unexplained recurrent pregnancy loss: a retrospective cohort study with intention-to-treat and per-protocol analyses.",
-              "journal": "Frontiers in endocrinology",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2026-09-30",
-              "authors": [
-                "Han D",
-                "Xu Z",
-                "Shen W"
-              ],
-              "citation_count": 0,
-              "rcr": null,
-              "volume": "17",
-              "issue": "",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/42824384/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": false,
-              "hot_score": 0.0,
-              "field": "preventive",
-              "field_label": "예방의학",
-              "abstract": "OBJECTIVE: To compare cumulative live birth rates (CLBR) between preimplantation genetic testing for aneuploidy (PGT-A) and conventional IVF/ICSI in women with unexplained recurrent pregnancy loss (uRPL) using intention-to-treat (ITT) and per-protocol (PP) analyses, and to assess effect modification by maternal age and prior miscarriage number. METHODS: This single-center retrospective cohort (2018-2024) included women with uRPL undergoing their first oocyte retrieval with planned single-blastocyst transfer. The ITT population included 589 patients (342 PGT-A vs 247 IVF/ICSI); after excluding patients who never underwent transfer and 47 patients (16 PGT-A, 31 IVF/ICSI) with remaining cryopreserved embryos and no live birth at the follow-up cutoff, the PP population included 389 patients (221 vs 168) who completed at least one transfer. Stabilized inverse probability of treatment weighting with doubly robust adjustment and robust variance estimation was applied. The primary outcome was CLBR per oocyte retrieval. RESULTS: In the ITT population, unadjusted CLBR was comparable (48.5% vs 47.4%, P = 0.779) and remained non-significant after adjustment (aOR 0.862, 95% CI 0.591-1.255, P = 0.437). In the PP population, neither first-transfer live birth (63.8% vs 58.3%, P = 0.272; aOR 0.942, P = 0.814) nor CLBR (75.1% vs 69.6%, P = 0.230; aOR 0.858, P = 0.595) differed significantly. Age and prior miscarriage number did not significantly modify the treatment-CLBR association (age: ITT P = 0.871, PP P = 0.071; miscarriage number: ITT P = 0.695, PP P = 0.289; both miscarriage-number tests were exploratory owing to limited propensity-score overlap in the >2-miscarriage stratum). Among women aged ≥35 years, ITT CLBR did not differ (33.6% vs 29.7%, P = 0.534; aOR 0.846, 95% CI 0.447-1.603, P = 0.608). Unadjusted PP outcomes favored PGT-A among women aged ≥35 years and those with exactly two prior miscarriages, but no adjusted differences remained significant after Bonferroni correction, except first-transfer clinical pregnancy in the ≥35-year stratum, which requires cautious interpretation. Miscarriage rates did not differ significantly between groups; no statistically significant perinatal differences were observed in this sample (166 vs 117 deliveries). CONCLUSIONS: PGT-A did not improve CLBR per oocyte retrieval in women with uRPL and should not be routinely recommended. Unadjusted PP subgroup advantages are more plausibly attributable to embryo attrition and residual confounding than true benefit and require prospective confirmation.",
-              "title_ko": "설명되지 않은 재발성 임신 손실에서 기존의 IVF/ICSI 대비 이수성에 대한 이식 전 유전자 검사 후 누적 출산: 치료 의향 및 임상시험계획서별 분석을 통한 후향적 코호트 연구."
-            }
-          ]
         }
       ],
       "hot_topics": [
         {
           "phrase": "type diabetes",
-          "score": 83.4,
-          "paper_count": 7,
+          "score": 72.4,
+          "paper_count": 6,
           "pmids": [
             "40302946",
             "40302970",
             "40302974",
             "42812137",
             "39978849",
-            "40655936",
-            "41641034"
+            "40655936"
           ]
         },
         {
@@ -4852,17 +4739,6 @@
           "pmids": [
             "39959334",
             "39874052"
-          ]
-        },
-        {
-          "phrase": "diabetes mellitus",
-          "score": 39.9,
-          "paper_count": 4,
-          "pmids": [
-            "40302970",
-            "40707091",
-            "40655936",
-            "41641034"
           ]
         },
         {
@@ -4911,23 +4787,23 @@
           ]
         },
         {
-          "phrase": "screening tools",
-          "score": 27.9,
-          "paper_count": 2,
+          "phrase": "diabetes mellitus",
+          "score": 28.9,
+          "paper_count": 3,
           "pmids": [
-            "41491555",
-            "41641034"
+            "40302970",
+            "40707091",
+            "40655936"
           ]
         },
         {
           "phrase": "genetic testing",
           "score": 21.0,
-          "paper_count": 4,
+          "paper_count": 3,
           "pmids": [
             "41690212",
             "40024009",
-            "40225932",
-            "42824384"
+            "40225932"
           ]
         },
         {
@@ -4937,6 +4813,15 @@
           "pmids": [
             "39890380",
             "42457288"
+          ]
+        },
+        {
+          "phrase": "south india",
+          "score": 20.0,
+          "paper_count": 2,
+          "pmids": [
+            "39798109",
+            "42031454"
           ]
         }
       ],
@@ -4971,8 +4856,17 @@
             "scores": [
               0.0,
               0.0,
-              0.0,
+              10.0,
               66.9
+            ]
+          },
+          {
+            "phrase": "cervical cancer",
+            "scores": [
+              0.0,
+              6.9,
+              23.8,
+              40.0
             ]
           },
           {
@@ -4992,15 +4886,6 @@
               11.0,
               11.0
             ]
-          },
-          {
-            "phrase": "breast cancer",
-            "scores": [
-              16.9,
-              0.0,
-              16.9,
-              20.0
-            ]
           }
         ]
       }
@@ -5008,7 +4893,7 @@
     {
       "key": "emergency",
       "label": "응급의학",
-      "paper_count": 451,
+      "paper_count": 454,
       "journals": [
         {
           "journal": "European respiratory review : an official journal of the European Respiratory Society",
@@ -5615,7 +5500,7 @@
             "field": "emergency",
             "field_label": "응급의학",
             "abstract": "INTRODUCTION: In this study, we aimed to compare the performance of a convolutional neural network (CNN)-based deep learning model that was trained on a dataset of normal and abnormal paediatric elbow radiographs with that of paediatric emergency department (ED) physicians on a binomial classification task. METHODS: A total of 1,314 paediatric elbow lateral radiographs (patient mean age 8.2 years) were retrospectively retrieved and classified based on annotation as normal or abnormal (with pathology). They were then randomly partitioned to a development set (993 images); first and second tuning (validation) sets (109 and 100 images, respectively); and a test set (112 images). An artificial intelligence (AI) model was trained on the development set using the EfficientNet B1 network architecture. Its performance on the test set was compared to that of five physicians (inter-rater agreement: fair). Performance of the AI model and the physician group was tested using McNemar test. RESULTS: The accuracy of the AI model on the test set was 80.4% (95% confidence interval [CI] 71.8%-87.3%), and the area under the receiver operating characteristic curve (AUROC) was 0.872 (95% CI 0.831-0.947). The performance of the AI model vs. the physician group on the test set was: sensitivity 79.0% (95% CI: 68.4%-89.5%) vs. 64.9% (95% CI: 52.5%-77.3%; P = 0.088); and specificity 81.8% (95% CI: 71.6%-92.0%) vs. 87.3% (95% CI: 78.5%-96.1%; P = 0.439). CONCLUSION: The AI model showed good AUROC values and higher sensitivity, with the P-value at nominal significance when compared to the clinician group.",
-            "title_ko": ""
+            "title_ko": "소아 팔꿈치 방사선 이항 분류를 위한 딥 러닝 모델의 사용: 초기 경험, 성과 및 교훈."
           },
           "papers": [
             {
@@ -5644,7 +5529,7 @@
               "field": "emergency",
               "field_label": "응급의학",
               "abstract": "INTRODUCTION: In this study, we aimed to compare the performance of a convolutional neural network (CNN)-based deep learning model that was trained on a dataset of normal and abnormal paediatric elbow radiographs with that of paediatric emergency department (ED) physicians on a binomial classification task. METHODS: A total of 1,314 paediatric elbow lateral radiographs (patient mean age 8.2 years) were retrospectively retrieved and classified based on annotation as normal or abnormal (with pathology). They were then randomly partitioned to a development set (993 images); first and second tuning (validation) sets (109 and 100 images, respectively); and a test set (112 images). An artificial intelligence (AI) model was trained on the development set using the EfficientNet B1 network architecture. Its performance on the test set was compared to that of five physicians (inter-rater agreement: fair). Performance of the AI model and the physician group was tested using McNemar test. RESULTS: The accuracy of the AI model on the test set was 80.4% (95% confidence interval [CI] 71.8%-87.3%), and the area under the receiver operating characteristic curve (AUROC) was 0.872 (95% CI 0.831-0.947). The performance of the AI model vs. the physician group on the test set was: sensitivity 79.0% (95% CI: 68.4%-89.5%) vs. 64.9% (95% CI: 52.5%-77.3%; P = 0.088); and specificity 81.8% (95% CI: 71.6%-92.0%) vs. 87.3% (95% CI: 78.5%-96.1%; P = 0.439). CONCLUSION: The AI model showed good AUROC values and higher sensitivity, with the P-value at nominal significance when compared to the clinician group.",
-              "title_ko": ""
+              "title_ko": "소아 팔꿈치 방사선 이항 분류를 위한 딥 러닝 모델의 사용: 초기 경험, 성과 및 교훈."
             }
           ]
         },
@@ -5680,7 +5565,7 @@
             "field": "emergency",
             "field_label": "응급의학",
             "abstract": "BACKGROUND: Patients with severe dengue who develop severe respiratory failure requiring mechanical ventilation (MV) support have significantly increased mortality rates. This study aimed to develop a robust machine learning-based risk score to predict the need for MV in children with dengue shock syndrome (DSS) who developed acute respiratory failure. METHODS: This single-institution retrospective study was conducted at a tertiary pediatric hospital in Vietnam between 2013 and 2022. The primary outcome was severe respiratory failure requiring MV in the children with DSS. Key covariables were predetermined by the LASSO method, literature review, and clinical expertise, including age (< 5 years), female patients, early onset day of DSS (≤ day 4), large cumulative fluid infusion, higher colloid-to-crystalloid fluid infusion ratio, severe bleeding, severe transaminitis, low platelet counts (< 20 x 109/L), elevated hematocrit, and high vasoactive-inotropic score. These covariables were analyzed using supervised models, including Logistic Regression (LR), Random Forest (RF), Support Vector Machine (SVM), k-Nearest Neighbor (KNN), and eXtreme Gradient Boosting (XGBoost). Shapley Additive Explanations (SHAP) analysis was used to assess feature contribution. RESULTS: A total of 1,278 patients were included, with a median patient age of 8.1 years (IQR: 5.4-10.7). Among them, 170 patients (13.3%) with DSS required mechanical ventilation. A significantly higher fatality rate was observed in the MV group than that in the non-MV group (22.4% vs. 0.1%). The RF and SVM models showed the highest model discrimination. The SHAP model explained the significant predictors. Internal validation of the predictive model showed high consistency between the predicted and observed data, with a good slope calibration in training (test) sets 1.0 (0.934), and a low Brier score of 0.04. Complete-case analysis was used to construct the risk score. CONCLUSIONS: We developed a robust machine learning-based risk score to estimate the need for MV in hospitalized children with DSS.",
-            "title_ko": ""
+            "title_ko": "뎅기 쇼크 증후군 아동의 기계 환기 예측을 위한 기계 학습 기반 위험 점수: 후향적 코호트 연구."
           },
           "papers": [
             {
@@ -5709,7 +5594,7 @@
               "field": "emergency",
               "field_label": "응급의학",
               "abstract": "BACKGROUND: Patients with severe dengue who develop severe respiratory failure requiring mechanical ventilation (MV) support have significantly increased mortality rates. This study aimed to develop a robust machine learning-based risk score to predict the need for MV in children with dengue shock syndrome (DSS) who developed acute respiratory failure. METHODS: This single-institution retrospective study was conducted at a tertiary pediatric hospital in Vietnam between 2013 and 2022. The primary outcome was severe respiratory failure requiring MV in the children with DSS. Key covariables were predetermined by the LASSO method, literature review, and clinical expertise, including age (< 5 years), female patients, early onset day of DSS (≤ day 4), large cumulative fluid infusion, higher colloid-to-crystalloid fluid infusion ratio, severe bleeding, severe transaminitis, low platelet counts (< 20 x 109/L), elevated hematocrit, and high vasoactive-inotropic score. These covariables were analyzed using supervised models, including Logistic Regression (LR), Random Forest (RF), Support Vector Machine (SVM), k-Nearest Neighbor (KNN), and eXtreme Gradient Boosting (XGBoost). Shapley Additive Explanations (SHAP) analysis was used to assess feature contribution. RESULTS: A total of 1,278 patients were included, with a median patient age of 8.1 years (IQR: 5.4-10.7). Among them, 170 patients (13.3%) with DSS required mechanical ventilation. A significantly higher fatality rate was observed in the MV group than that in the non-MV group (22.4% vs. 0.1%). The RF and SVM models showed the highest model discrimination. The SHAP model explained the significant predictors. Internal validation of the predictive model showed high consistency between the predicted and observed data, with a good slope calibration in training (test) sets 1.0 (0.934), and a low Brier score of 0.04. Complete-case analysis was used to construct the risk score. CONCLUSIONS: We developed a robust machine learning-based risk score to estimate the need for MV in hospitalized children with DSS.",
-              "title_ko": ""
+              "title_ko": "뎅기 쇼크 증후군 아동의 기계 환기 예측을 위한 기계 학습 기반 위험 점수: 후향적 코호트 연구."
             },
             {
               "pmid": "39671440",
@@ -5737,7 +5622,7 @@
               "field": "emergency",
               "field_label": "응급의학",
               "abstract": "Oral hygiene care is important for ventilator-associated pneumonia prevention. However, the optimal oral hygiene care approach remains unclear. A network meta-analysis was conducted to compare the efficacy of various oral hygiene care methods for ventilator-associated pneumonia prevention in critically ill patients, and the methods were ranked. A literature search of three representative databases was conducted. We only analyzed parallel randomized controlled trials conducted to analyze the use antiseptics or toothbrushes in oral hygiene care for adult patients undergoing invasive mechanical ventilation in the intensive care unit. The outcome measure was the incidence of ventilator-associated pneumonia. Bias risk was assessed using the Cochrane Risk of Bias 2 tool, and the confidence in the evidence was evaluated using the CINeMA approach. Statistical analyses were performed using R 4.2.0., GeMTC package, and JAGS 4.3.1. The review protocol was registered in PROSPERO (registration number: CRD42022333270). Thirteen randomized controlled trials were included in the qualitative synthesis and twelve randomized controlled trials (2395 participants) were included in the network meta-analysis. Over 50% of the included studies were conducted in medical-surgical intensive care units. Ten treatments were analyzed and 12 pairwise comparisons were conducted in the 12 included studies. Analysis using surface under the cumulative ranking curves revealed that brushing combined with chlorhexidine 0.12% was most likely the optimal intervention for preventing ventilator-associated pneumonia (88.4%), followed by the use of chlorhexidine 0.12% alone (76.1%), and brushing alone (73.2%). Oral hygiene care methods that included brushing had high rankings. In conclusion, brushing combined with chlorhexidine 0.12% may be an effective intervention for preventing ventilator-associated pneumonia in critically ill patients. Furthermore, brushing may be the optimal oral hygiene care method for preventing ventilator-associated pneumonia in the intensive care unit. Further research is needed to verify these findings as the CINeMA confidence rate was low for each comparison.",
-              "title_ko": ""
+              "title_ko": "중증환자의 인공호흡기 관련 폐렴 예방을 위한 다양한 구강위생관리 방법의 비교 효능: 체계적 검토 및 네트워크 메타분석."
             },
             {
               "pmid": "39729465",
@@ -6202,7 +6087,7 @@
           "impact_factor": 1.5,
           "index_type": "미상",
           "quartile": "미상",
-          "paper_count": 33,
+          "paper_count": 36,
           "top_paper": {
             "pmid": "39947973",
             "title": "Promethazine: A Review of Therapeutic Uses and Toxicity.",
@@ -7887,71 +7772,6 @@
           ]
         },
         {
-          "journal": "Critical care clinics",
-          "impact_factor": 1.5,
-          "index_type": "미상",
-          "quartile": "미상",
-          "paper_count": 1,
-          "top_paper": {
-            "pmid": "41260713",
-            "title": "Multimodal Neuroprognostication Following Cardiac Arrest: Practical Considerations.",
-            "journal": "Critical care clinics",
-            "impact_factor": 1.5,
-            "index_type": "미상",
-            "quartile": "미상",
-            "pubdate": "2025-09-29",
-            "authors": [
-              "Ahmad B",
-              "Hernandez SF",
-              "Maciel CB"
-            ],
-            "citation_count": 1,
-            "rcr": null,
-            "volume": "42",
-            "issue": "1",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/41260713/",
-            "altmetric_score": 0,
-            "altmetric_news": 0,
-            "altmetric_social": 0,
-            "is_current_issue": true,
-            "hot_score": 15.8,
-            "field": "emergency",
-            "field_label": "응급의학",
-            "abstract": "Neuroprognostication characterizes the potential for functional recovery in patients who remain unconscious after cardiac arrest. Prognostic impressions heavily influence goals-of-care decisions: Patients deemed to have a favorable recovery potential are often supported through their convalescence journey whereas patients with unfavorable prognosis are transitioned to a comfortable, dignified end-of-life, whenever aligned with their values. No single prognostic test modality is reliable predicting outcomes as subjective and/or unaccounted factors challenge the prediction performance of prognostic tools; hence, multimodal approaches to neuroprognostication are essential to mitigate inaccuracies. Furthermore, understanding meaningful recovery from a patient-centered perspective is critical for personalized decision-making.",
-            "title_ko": ""
-          },
-          "papers": [
-            {
-              "pmid": "41260713",
-              "title": "Multimodal Neuroprognostication Following Cardiac Arrest: Practical Considerations.",
-              "journal": "Critical care clinics",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2025-09-29",
-              "authors": [
-                "Ahmad B",
-                "Hernandez SF",
-                "Maciel CB"
-              ],
-              "citation_count": 1,
-              "rcr": null,
-              "volume": "42",
-              "issue": "1",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/41260713/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": true,
-              "hot_score": 15.8,
-              "field": "emergency",
-              "field_label": "응급의학",
-              "abstract": "Neuroprognostication characterizes the potential for functional recovery in patients who remain unconscious after cardiac arrest. Prognostic impressions heavily influence goals-of-care decisions: Patients deemed to have a favorable recovery potential are often supported through their convalescence journey whereas patients with unfavorable prognosis are transitioned to a comfortable, dignified end-of-life, whenever aligned with their values. No single prognostic test modality is reliable predicting outcomes as subjective and/or unaccounted factors challenge the prediction performance of prognostic tools; hence, multimodal approaches to neuroprognostication are essential to mitigate inaccuracies. Furthermore, understanding meaningful recovery from a patient-centered perspective is critical for personalized decision-making.",
-              "title_ko": ""
-            }
-          ]
-        },
-        {
           "journal": "Hospital pediatrics",
           "impact_factor": 1.5,
           "index_type": "미상",
@@ -8196,71 +8016,6 @@
               "field": "emergency",
               "field_label": "응급의학",
               "abstract": "The use of inflammatory markers (IMs) in the pediatric emergency department (PED) is broad and non-specific. This retrospective, cross-sectional study of children aged 3 months to 18 years evaluated the use of IMs in the PED. The reasons for IM use were provider practice (38%), ruling out a differential diagnosis (36%), and presence of comorbidities (18%). IMs are commonly used for gastroenterology, infectious diseases, and orthopedic diseases. A third had IMs without an indication. Forty-six percent of IM testing was indicated based on medical documentation, of which only 21% had abnormal IMs. Compared to the abnormal IM values by the on-site laboratory, the IM assessment using a receiver operating characteristic (ROC) curve threshold criterion had improved specificity and negative predictive value (NPV) based on the reason for IM use. This study suggests that the rate of abnormal IMs is low and does not affect patient outcomes in the PED.",
-              "title_ko": ""
-            }
-          ]
-        },
-        {
-          "journal": "The Cochrane database of systematic reviews",
-          "impact_factor": 1.5,
-          "index_type": "미상",
-          "quartile": "미상",
-          "paper_count": 1,
-          "top_paper": {
-            "pmid": "39908073",
-            "title": "Parenteral medication for the management of acute severe behavioural disturbance (ASBD) in the emergency department.",
-            "journal": "The Cochrane database of systematic reviews",
-            "impact_factor": 1.5,
-            "index_type": "미상",
-            "quartile": "미상",
-            "pubdate": "2024-05-29",
-            "authors": [
-              "Bourke E",
-              "Klein K",
-              "Knott J"
-            ],
-            "citation_count": 1,
-            "rcr": 0.47837005063038623,
-            "volume": "5",
-            "issue": "5",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/39908073/",
-            "altmetric_score": 0,
-            "altmetric_news": 0,
-            "altmetric_social": 0,
-            "is_current_issue": true,
-            "hot_score": 15.8,
-            "field": "emergency",
-            "field_label": "응급의학",
-            "abstract": "This is a protocol for a Cochrane Review (intervention). The objectives are as follows: To assess the effectiveness and safety profiles of different parenteral medications for the management of acute severe behavioural disturbance in the emergency department setting. These medications are required following the failure of less restrictive means of controlling the patient's behavioural disturbance.",
-            "title_ko": ""
-          },
-          "papers": [
-            {
-              "pmid": "39908073",
-              "title": "Parenteral medication for the management of acute severe behavioural disturbance (ASBD) in the emergency department.",
-              "journal": "The Cochrane database of systematic reviews",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2024-05-29",
-              "authors": [
-                "Bourke E",
-                "Klein K",
-                "Knott J"
-              ],
-              "citation_count": 1,
-              "rcr": 0.47837005063038623,
-              "volume": "5",
-              "issue": "5",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/39908073/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": true,
-              "hot_score": 15.8,
-              "field": "emergency",
-              "field_label": "응급의학",
-              "abstract": "This is a protocol for a Cochrane Review (intervention). The objectives are as follows: To assess the effectiveness and safety profiles of different parenteral medications for the management of acute severe behavioural disturbance in the emergency department setting. These medications are required following the failure of less restrictive means of controlling the patient's behavioural disturbance.",
               "title_ko": ""
             }
           ]
@@ -8605,132 +8360,6 @@
               "field": "emergency",
               "field_label": "응급의학",
               "abstract": "UNLABELLED: . Social-work service in the emergency department to improve care for the vulnerable older patient: a local experience in Italy. INTRODUCTION: The needs of older and frail people are increasing, and specific pathways in healthcare settings are needed. AIM: To describe the services and discharge destinations of people >65 years old with vulnerabilities followed by a new social care service in the emergency department (ED). METHODS: All patients referred to the social care service in the ED of a hospital over an eleven-month period were included. The service consisted of a social worker available from 9 am to 3 pm in the ED to assess the post-discharge health and social care needs of users identified by the ED doctor. Interventions carried out, post-discharge destinations and services activated were assessed. RESULTS: Between January and November 2022, 145 patients (median age 84 years) accessing the ED were referred to the social care service. The reasons for accessing the ED were medical conditions (93, 64.1%) and injury-related issues (52, 35.9%), particularly falls. The services provided included initiating procedures for long-term care placement (56.1%), consultations, referrals to municipal social services, activation of procedures for legal guardianship, and notification to the general practitioner. Overall, 46.6% of patients were admitted to a long-term care facility, 37.9% were discharged home, and 10.9% to a temporary post-acute care facility. Patients accessing the ED for injury-related issues and admitted to the hospital were more frequently institutionalized. CONCLUSIONS: Ninety-two patients (63%) referred to social workers did not require hospital admission. Social workers provided valuable services to vulnerable elderly patients in the ED to ensure the most appropriate support after discharge.",
-              "title_ko": ""
-            }
-          ]
-        },
-        {
-          "journal": "The Nigerian postgraduate medical journal",
-          "impact_factor": 1.5,
-          "index_type": "미상",
-          "quartile": "미상",
-          "paper_count": 1,
-          "top_paper": {
-            "pmid": "39628338",
-            "title": "Emergency Medicine as a Medical Speciality in Nigeria: Challenges and Prospects.",
-            "journal": "The Nigerian postgraduate medical journal",
-            "impact_factor": 1.5,
-            "index_type": "미상",
-            "quartile": "미상",
-            "pubdate": "2024-12-04",
-            "authors": [
-              "Yinusa W"
-            ],
-            "citation_count": 1,
-            "rcr": 0.31341894988004726,
-            "volume": "31",
-            "issue": "4",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/39628338/",
-            "altmetric_score": 0,
-            "altmetric_news": 0,
-            "altmetric_social": 0,
-            "is_current_issue": true,
-            "hot_score": 15.8,
-            "field": "emergency",
-            "field_label": "응급의학",
-            "abstract": "Emergency medicine (EM) globally is a new medical speciality when compared with traditional medical specialities such as surgery, obstetrics, gynaecology and internal medicine. It is a medical speciality that deals with the management of acute illnesses and injuries in a timely and result-oriented manner. The International Federation of EM defines it as a field of practice based on the knowledge and care required for the prevention, diagnosis and management of acute and urgent aspects of illness and injury, affecting patients of all age groups with a full spectrum of episodic, undifferentiated physical and behavioural disorders. Two types of EM are recognised: the out-of-hospital emergency medical services (OHEMS) and the in-hospital emergency medical services (IHEMS). OHEMS was introduced into the country in 1998 by the Lagos state government. IHEMS had been in place for much longer, but it was practised in a heterogeneous and substandard manner. The result of the latter is a casualty department with an overwhelming burden of patients and a high mortality rate. The World Health Assembly (WHA) resolution 60.22 of 2007 mandated every member state government to establish and monitor integrated EM care systems; it is therefore expected that the emergency medical services (EMS) in the country would wear a new look. However, anecdotal reports suggest that both OHEMS and IHEMS in the country are rudimentary and there is no strong evidence to show that EM is embraced by all as a medical speciality. The objective of this study is to examine the challenges and prospects of EM as a medical speciality in Nigeria. A review of the past literature searched in Google, Google Scholar, PubMed and African Journal online was conducted. A total of 40 relevant publications in addition to the authors knowledge and exposure in EM supported the information presented in this manuscript. Our study revealed that inadequate funding and ambulance services, nonavailability of trained bystanders, limited infrastructure and skilled manpower, inadequate and inequitable distribution of health resources, lack of standard emergency department, high out-of-pocket expenses and substandard implementation of EMS policies, are factors militating against a functional EMS in the country. In line with the philosophy of WHA resolution72.16 of 2019, it is recommended that the central government should put in place a mechanism for full and sustainable implementation of the NHIA Act (2022), National Emergency Medical Services and Ambulance System (NEMSAS) and the patient's bill of rights and direct the adoption of EM as a medical speciality in all federal and state hospitals. In addition, the central government should create public awareness, improve road networks, provide funding, and establish collaboration with local and international organisations.",
-            "title_ko": ""
-          },
-          "papers": [
-            {
-              "pmid": "39628338",
-              "title": "Emergency Medicine as a Medical Speciality in Nigeria: Challenges and Prospects.",
-              "journal": "The Nigerian postgraduate medical journal",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2024-12-04",
-              "authors": [
-                "Yinusa W"
-              ],
-              "citation_count": 1,
-              "rcr": 0.31341894988004726,
-              "volume": "31",
-              "issue": "4",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/39628338/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": true,
-              "hot_score": 15.8,
-              "field": "emergency",
-              "field_label": "응급의학",
-              "abstract": "Emergency medicine (EM) globally is a new medical speciality when compared with traditional medical specialities such as surgery, obstetrics, gynaecology and internal medicine. It is a medical speciality that deals with the management of acute illnesses and injuries in a timely and result-oriented manner. The International Federation of EM defines it as a field of practice based on the knowledge and care required for the prevention, diagnosis and management of acute and urgent aspects of illness and injury, affecting patients of all age groups with a full spectrum of episodic, undifferentiated physical and behavioural disorders. Two types of EM are recognised: the out-of-hospital emergency medical services (OHEMS) and the in-hospital emergency medical services (IHEMS). OHEMS was introduced into the country in 1998 by the Lagos state government. IHEMS had been in place for much longer, but it was practised in a heterogeneous and substandard manner. The result of the latter is a casualty department with an overwhelming burden of patients and a high mortality rate. The World Health Assembly (WHA) resolution 60.22 of 2007 mandated every member state government to establish and monitor integrated EM care systems; it is therefore expected that the emergency medical services (EMS) in the country would wear a new look. However, anecdotal reports suggest that both OHEMS and IHEMS in the country are rudimentary and there is no strong evidence to show that EM is embraced by all as a medical speciality. The objective of this study is to examine the challenges and prospects of EM as a medical speciality in Nigeria. A review of the past literature searched in Google, Google Scholar, PubMed and African Journal online was conducted. A total of 40 relevant publications in addition to the authors knowledge and exposure in EM supported the information presented in this manuscript. Our study revealed that inadequate funding and ambulance services, nonavailability of trained bystanders, limited infrastructure and skilled manpower, inadequate and inequitable distribution of health resources, lack of standard emergency department, high out-of-pocket expenses and substandard implementation of EMS policies, are factors militating against a functional EMS in the country. In line with the philosophy of WHA resolution72.16 of 2019, it is recommended that the central government should put in place a mechanism for full and sustainable implementation of the NHIA Act (2022), National Emergency Medical Services and Ambulance System (NEMSAS) and the patient's bill of rights and direct the adoption of EM as a medical speciality in all federal and state hospitals. In addition, the central government should create public awareness, improve road networks, provide funding, and establish collaboration with local and international organisations.",
-              "title_ko": ""
-            }
-          ]
-        },
-        {
-          "journal": "Ulusal travma ve acil cerrahi dergisi = Turkish journal of trauma & emergency surgery : TJTES",
-          "impact_factor": 1.5,
-          "index_type": "미상",
-          "quartile": "미상",
-          "paper_count": 1,
-          "top_paper": {
-            "pmid": "39668536",
-            "title": "Orthopaedic injuries and the use of protective equipment in commercial motorcycle couriers during the Coronavirus Disease 2019 (COVID-19) pandemic: A single level 1 trauma center experience.",
-            "journal": "Ulusal travma ve acil cerrahi dergisi = Turkish journal of trauma & emergency surgery : TJTES",
-            "impact_factor": 1.5,
-            "index_type": "미상",
-            "quartile": "미상",
-            "pubdate": "2024-01-01",
-            "authors": [
-              "Ekinci M",
-              "Günen E",
-              "Ataoglu C"
-            ],
-            "citation_count": 1,
-            "rcr": 0.8209948336468251,
-            "volume": "30",
-            "issue": "12",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/39668536/",
-            "altmetric_score": 0,
-            "altmetric_news": 0,
-            "altmetric_social": 0,
-            "is_current_issue": true,
-            "hot_score": 15.8,
-            "field": "emergency",
-            "field_label": "응급의학",
-            "abstract": "BACKGROUND: The aim of our study is to analyze the orthopedic injuries and the use of protective equipment among commercial motorcycle couriers during the Coronavirus Disease 2019 (COVID-19) pandemic in a level 1 trauma center in Istanbul, to provide epidemiological data, and to serve as a baseline for future studies. METHODS: Commercial motorcycle couriers involved in traffic accidents while working, and who were brought to the emergency department between April 2020 and April 2022, were included in our study. The protective equipment worn at the time of the accidents, including helmets, jackets, pants, gloves, and boots, were recorded. The orthopedic injuries and the applied treatments (both conservative and surgical) were documented, and injuries to other body regions and injury types were recorded in consultation with other medical departments. Additional data, including the duration of the driving license, the engine displacement of the motorcycle, any motorcyclist training, weather conditions, the estimated speed during the accident, and the time of the accident, were also noted. RESULTS: A total of 255 commercial motorcycle couriers were included in the study. Most of the injuries (56.9%) involved major trauma, with the foot and ankle region being the most commonly affected body area (31.8%). Helmets were the most commonly used protective equipment (n=197, 77.3%), while motorcycle boots were the least used (n=54, 21.2%). Fifty participants (19.6%) did not use any protective equipment, including helmets, while 22.7% of commercial motorcycle couriers wore only helmets. Only 27 couriers wore full protective gear for motorcycle riding. There were 157 fractures, of which seven were open fractures (4.5%). CONCLUSION: As wearing a helmet is mandatory when riding a motorcycle, the use of protective equipment other than helmets was relatively low, leading to a high prevalence of extremity injuries. Our study emphasizes the necessity of advanced motorcycle riding training for these professionals, raising awareness among motorcycle couriers about the importance of protective gear, and enhancing inspections through the implementation of legal regulations on this issue.",
-            "title_ko": ""
-          },
-          "papers": [
-            {
-              "pmid": "39668536",
-              "title": "Orthopaedic injuries and the use of protective equipment in commercial motorcycle couriers during the Coronavirus Disease 2019 (COVID-19) pandemic: A single level 1 trauma center experience.",
-              "journal": "Ulusal travma ve acil cerrahi dergisi = Turkish journal of trauma & emergency surgery : TJTES",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2024-01-01",
-              "authors": [
-                "Ekinci M",
-                "Günen E",
-                "Ataoglu C"
-              ],
-              "citation_count": 1,
-              "rcr": 0.8209948336468251,
-              "volume": "30",
-              "issue": "12",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/39668536/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": true,
-              "hot_score": 15.8,
-              "field": "emergency",
-              "field_label": "응급의학",
-              "abstract": "BACKGROUND: The aim of our study is to analyze the orthopedic injuries and the use of protective equipment among commercial motorcycle couriers during the Coronavirus Disease 2019 (COVID-19) pandemic in a level 1 trauma center in Istanbul, to provide epidemiological data, and to serve as a baseline for future studies. METHODS: Commercial motorcycle couriers involved in traffic accidents while working, and who were brought to the emergency department between April 2020 and April 2022, were included in our study. The protective equipment worn at the time of the accidents, including helmets, jackets, pants, gloves, and boots, were recorded. The orthopedic injuries and the applied treatments (both conservative and surgical) were documented, and injuries to other body regions and injury types were recorded in consultation with other medical departments. Additional data, including the duration of the driving license, the engine displacement of the motorcycle, any motorcyclist training, weather conditions, the estimated speed during the accident, and the time of the accident, were also noted. RESULTS: A total of 255 commercial motorcycle couriers were included in the study. Most of the injuries (56.9%) involved major trauma, with the foot and ankle region being the most commonly affected body area (31.8%). Helmets were the most commonly used protective equipment (n=197, 77.3%), while motorcycle boots were the least used (n=54, 21.2%). Fifty participants (19.6%) did not use any protective equipment, including helmets, while 22.7% of commercial motorcycle couriers wore only helmets. Only 27 couriers wore full protective gear for motorcycle riding. There were 157 fractures, of which seven were open fractures (4.5%). CONCLUSION: As wearing a helmet is mandatory when riding a motorcycle, the use of protective equipment other than helmets was relatively low, leading to a high prevalence of extremity injuries. Our study emphasizes the necessity of advanced motorcycle riding training for these professionals, raising awareness among motorcycle couriers about the importance of protective gear, and enhancing inspections through the implementation of legal regulations on this issue.",
               "title_ko": ""
             }
           ]
@@ -9624,6 +9253,488 @@
               "title_ko": ""
             }
           ]
+        },
+        {
+          "journal": "AMIA ... Annual Symposium proceedings. AMIA Symposium",
+          "impact_factor": 1.5,
+          "index_type": "미상",
+          "quartile": "미상",
+          "paper_count": 12,
+          "top_paper": {
+            "pmid": "41726397",
+            "title": "A Multi-Phase Analysis of Blood Culture Stewardship: Machine Learning Prediction, Expert Recommendation Assessment, and LLM Automation.",
+            "journal": "AMIA ... Annual Symposium proceedings. AMIA Symposium",
+            "impact_factor": 1.5,
+            "index_type": "미상",
+            "quartile": "미상",
+            "pubdate": "2025-05-22",
+            "authors": [
+              "Amrollahi F",
+              "Marshall N",
+              "Haredasht FN"
+            ],
+            "citation_count": 3,
+            "rcr": null,
+            "volume": "2024",
+            "issue": "",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/41726397/",
+            "altmetric_score": 0,
+            "altmetric_news": 0,
+            "altmetric_social": 0,
+            "is_current_issue": false,
+            "hot_score": 11.6,
+            "field": "emergency",
+            "field_label": "응급의학",
+            "abstract": "Blood cultures are often overordered without clear justification, straining healthcare resources and contributing to inappropriate antibiotic use-pressures worsened by the global shortage. In the study of 135,483 emergency department (ED) blood culture orders, we developed machine learning (ML) models to predict the risk of bacteremia using structured electronic health record (EHR) data and provider notes via a large language model (LLM). The structured model's AUC improved from 0.76 to 0.79 with note embeddings and reached 0.81 with added diagnosis codes. Compared to an expert recommendation framework applied by human reviewers and an LLM-based pipeline, our ML approach offers higher specificity without compromising sensitivity. The recommendation framework achieved sensitivity 86%, specificity 57%, while the LLM maintained high sensitivity (96%) but overclassified negatives, reducing specificity (16%). These findings demonstrate that ML models integrating structured and unstructured data can outperform consensus recommendations, enhancing diagnostic stewardship beyond existing standards of care.",
+            "title_ko": ""
+          },
+          "papers": [
+            {
+              "pmid": "41726397",
+              "title": "A Multi-Phase Analysis of Blood Culture Stewardship: Machine Learning Prediction, Expert Recommendation Assessment, and LLM Automation.",
+              "journal": "AMIA ... Annual Symposium proceedings. AMIA Symposium",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2025-05-22",
+              "authors": [
+                "Amrollahi F",
+                "Marshall N",
+                "Haredasht FN"
+              ],
+              "citation_count": 3,
+              "rcr": null,
+              "volume": "2024",
+              "issue": "",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/41726397/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 11.6,
+              "field": "emergency",
+              "field_label": "응급의학",
+              "abstract": "Blood cultures are often overordered without clear justification, straining healthcare resources and contributing to inappropriate antibiotic use-pressures worsened by the global shortage. In the study of 135,483 emergency department (ED) blood culture orders, we developed machine learning (ML) models to predict the risk of bacteremia using structured electronic health record (EHR) data and provider notes via a large language model (LLM). The structured model's AUC improved from 0.76 to 0.79 with note embeddings and reached 0.81 with added diagnosis codes. Compared to an expert recommendation framework applied by human reviewers and an LLM-based pipeline, our ML approach offers higher specificity without compromising sensitivity. The recommendation framework achieved sensitivity 86%, specificity 57%, while the LLM maintained high sensitivity (96%) but overclassified negatives, reducing specificity (16%). These findings demonstrate that ML models integrating structured and unstructured data can outperform consensus recommendations, enhancing diagnostic stewardship beyond existing standards of care.",
+              "title_ko": ""
+            },
+            {
+              "pmid": "40417468",
+              "title": "Improving Emergency Department Visit Risk Prediction: Exploring the Operational Utility of Applied Patient Portal Messages.",
+              "journal": "AMIA ... Annual Symposium proceedings. AMIA Symposium",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2025-05-22",
+              "authors": [
+                "Kiani H",
+                "Hassan S",
+                "Genkins JZ"
+              ],
+              "citation_count": 3,
+              "rcr": null,
+              "volume": "2024",
+              "issue": "",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/40417468/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 11.6,
+              "field": "emergency",
+              "field_label": "응급의학",
+              "abstract": "Patient portal messages represent a unique source of clinical data due to how they represent the voice of the patient, provide a glimpse into care delivery between episodic synchronous appointments, and capture variations in patient behavior and health literacy. There is little understanding of how to best apply modern natural language processing (NLP) approaches, such as large, pre-trained language models (LLMs), to patient messages. In this study, we aim to explore different approaches in incorporating patient messages into an existing Emergency Departments (ED) visit risk prediction model currently deployed at Stanford Health Care. With the addition of patient message frequencies to the baseline we were able to achieve an improved AUC of .77 and a jump in the F1 score. In future work, we aim to build upon these findings and further test combination models to incorporate features around patient message content, in addition to message frequencies.",
+              "title_ko": ""
+            },
+            {
+              "pmid": "41726418",
+              "title": "Identifying Latent Patterns of Intimate Partner Violence Using Electronic Health Records and Association Rule Mining.",
+              "journal": "AMIA ... Annual Symposium proceedings. AMIA Symposium",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2025-05-22",
+              "authors": [
+                "Tabaie A",
+                "Wyand SA",
+                "Cao F"
+              ],
+              "citation_count": 1,
+              "rcr": null,
+              "volume": "2024",
+              "issue": "",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/41726418/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 5.8,
+              "field": "emergency",
+              "field_label": "응급의학",
+              "abstract": "Intimate partner violence (IPV) remains a significant public health concern, yet its identification in emergency department (ED) settings is often challenging, as IPV-related ICD-10 are infrequently and inconsistently used. This study employs electronic health record (EHR) data and association rule mining to identify latent patterns indicative of IPV among female patients in ED. We applied the Apriori algorithm to identify associations between co-occurring health conditions in confirmed IPV survivors and non-IPV patients. The analysis revealed distinct patterns in both groups, with IPV survivors showing stronger links between physical injuries, mental health conditions (e.g., depression, suicidal ideation), and socioeconomic stressors. Non-IPV cases were primarily associated with anxiety disorders and family-related stressors. These findings highlight the potential of informatics-driven approaches to improve IPV detection by revealing subtle clinical signals that may notbe overtly disclosed. Our work paves the way for developing data-driven tools to enhance IPV screening and clinical decision-making in ED.",
+              "title_ko": ""
+            },
+            {
+              "pmid": "40417519",
+              "title": "Integrating Remote Patient Monitoring Data into Machine Learning Models for Predicting Emergency Department Utilization.",
+              "journal": "AMIA ... Annual Symposium proceedings. AMIA Symposium",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2025-05-22",
+              "authors": [
+                "Farzana A",
+                "Kalepalli S",
+                "DeLong G"
+              ],
+              "citation_count": 1,
+              "rcr": null,
+              "volume": "2024",
+              "issue": "",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/40417519/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 5.8,
+              "field": "emergency",
+              "field_label": "응급의학",
+              "abstract": "The integration of Remote Patient Monitoring (RPM) data into risk stratification models has emerged as a promising approach for improving healthcare delivery and patient outcomes. In this work, we explore the integration of RPM features - including at home monitoring of body weight, blood pressure, and blood oxygen - into a machine learning model that uses EHR data to predict the likelihood of emergency department (ED) visits or unplanned inpatient admissions within the next 30 days. Through exploratory data analysis, feature engineering, model training, and evaluation of a dataset with 913 patients, we found that RPM data has signal to predict unplanned utilization, and combining RPM data with EHR data improves the predictive power of the model, compared with either data source alone. We discuss the transformative potential of RPM data to augment predictive analytics capabilities in care management settings.",
+              "title_ko": ""
+            },
+            {
+              "pmid": "40417513",
+              "title": "Designing for Better Pre-hospital Communication: Participatory Design of a Telemedicine Application for Emergency Departments.",
+              "journal": "AMIA ... Annual Symposium proceedings. AMIA Symposium",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2025-05-22",
+              "authors": [
+                "Bai E",
+                "Zhang Z",
+                "Xu Y"
+              ],
+              "citation_count": 1,
+              "rcr": null,
+              "volume": "2024",
+              "issue": "",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/40417513/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 5.8,
+              "field": "emergency",
+              "field_label": "응급의학",
+              "abstract": "Pre-hospital communication, which usually refers to the communication process between pre-hospital and hospital providers, is crucial for the effective management of critically injured or ill patients. Despite its importance, persistent challenges such as miscommunication have been significant barriers. Telemedicine systems have been proposed to overcome these challenges, yet existing research primarily focuses on using off-the-shelf systems to evaluate their feasibility and effectiveness of implementation without investigating users' needs and perceptions. To bridge this research gap, our study employed a user-centered design approach to co-create an integrated telemedicine system with emergency care providers to ensure that the system meets the specific needs of care providers and aligns with existing clinical workflows. We present the system design process, the features desired by users to address challenges in pre-hospital communication, and the socio-technical considerations for implementing telemedicine in the dynamic emergency care setting. We conclude the paper by discussing the design implications.",
+              "title_ko": ""
+            },
+            {
+              "pmid": "41726525",
+              "title": "CDR-Agent: Intelligent Selection and Execution of Clinical Decision Rules Using Large Language Model Agents.",
+              "journal": "AMIA ... Annual Symposium proceedings. AMIA Symposium",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2025-05-22",
+              "authors": [
+                "Xiang Z",
+                "Hsu AR",
+                "Zane AV"
+              ],
+              "citation_count": 0,
+              "rcr": null,
+              "volume": "2024",
+              "issue": "",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/41726525/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 0.0,
+              "field": "emergency",
+              "field_label": "응급의학",
+              "abstract": "Clinical decision-making is inherently complex and fast-paced, particularly in emergency departments (EDs) where rapid and high-stakes decisions are made. Clinical Decision Rules (CDRs) are standardized evidence-based tools that combine signs, symptoms, and clinical variables into decision trees to make consistent and accurate diagnoses. CDR usage is often hindered by the clinician's cognitive load, limiting their ability to quickly recall and apply the appropriate rules. We introduce CDR-Agent, a novel LLM-based system designed to enhance ED decision-making by autonomously identifying and applying the most appropriate CDRs based on unstructured clinical notes. To validate CDR-Agent, we curated two novel ED datasets: synthetic and CDR-Bench, although CDR-Agent is applicable to non ED clinics. CDR-Agent achieves a 56.3% (synthetic) and 8.7% (CDR-Bench) accuracy gain relative to the standalone LLM baseline in CDR selection, with overall prediction accuracy improvements of 134.0% (synthetic) and 20.4% (CDR-Bench). Moreover, CDR-Agent significantly reduces computational overhead.",
+              "title_ko": ""
+            },
+            {
+              "pmid": "41726508",
+              "title": "STop Clock for Automated Tracking (STAT) during Time-Critical Medical Work: Evaluating the Accuracy and Usability of an AI-Driven Automated Stop Clock.",
+              "journal": "AMIA ... Annual Symposium proceedings. AMIA Symposium",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2025-05-22",
+              "authors": [
+                "Zellner KA",
+                "Yuan S",
+                "Ernst ER"
+              ],
+              "citation_count": 0,
+              "rcr": null,
+              "volume": "2024",
+              "issue": "",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/41726508/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 0.0,
+              "field": "emergency",
+              "field_label": "응급의학",
+              "abstract": "Delays and process inefficiencies during trauma resuscitation can contribute to adverse patient outcomes. While tracking elapsed time may improve the trauma team's temporal awareness and reduce delays, reliance on manual activation of stop clocks can introduce variability. To address this limitation, we implemented a computer vision-powered automatic stop clock designed to activate upon patient arrival without requiring manual input. We conducted a retrospective video review of 50 trauma resuscitations to assess how the clock was used in practice, followed by semi-structured interviews with nine trauma team members to elicit their feedback and perceptions. This study contributes to the broader discussion on AI-assisted clinical tools, highlighting the role of automation in supporting trauma teams, reducing variability in time tracking, and improving process efficiency.",
+              "title_ko": ""
+            },
+            {
+              "pmid": "41726455",
+              "title": "Understanding Primary and Secondary Concerns from Patient Portal Messages through Clinical Data Annotation, Analysis, and Modeling.",
+              "journal": "AMIA ... Annual Symposium proceedings. AMIA Symposium",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2025-05-22",
+              "authors": [
+                "Wu Y",
+                "Ren Y",
+                "Jia H"
+              ],
+              "citation_count": 0,
+              "rcr": null,
+              "volume": "2024",
+              "issue": "",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/41726455/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 0.0,
+              "field": "emergency",
+              "field_label": "응급의학",
+              "abstract": "Efficient triage and response to patient portal messages (PPMs) are critical for enhancing patient-centered care. To improve the understanding of primary and secondary concerns expressed by patients, this study annotated and analyzed a set of 2,239 PPMs. We also automated the patient concern identification and analysis by leveraging pretrained language models with binary classification to discern all patient concerns and with multi-class classification to identify primary patient concerns. These multi-class classifications were further enhanced by integrating convolutional neural networks that utilize embeddings from the binary classification. This approach demonstrated significant potential of AI in managing the growing volume of PPMs and promptly addressing the healthcare needs of patients, thereby facilitating more effective and timely medical interventions.",
+              "title_ko": ""
+            }
+          ]
+        },
+        {
+          "journal": "International journal of chronic obstructive pulmonary disease",
+          "impact_factor": 1.5,
+          "index_type": "미상",
+          "quartile": "미상",
+          "paper_count": 1,
+          "top_paper": {
+            "pmid": "41399649",
+            "title": "Validation Study of Rome Criteria for Assessing COPD Exacerbation Severity and Predicting Clinical Outcomes: Turkish Thoracic Society COPD Assembly.",
+            "journal": "International journal of chronic obstructive pulmonary disease",
+            "impact_factor": 1.5,
+            "index_type": "미상",
+            "quartile": "미상",
+            "pubdate": "2025-12-10",
+            "authors": [
+              "Baha A",
+              "Baysan C",
+              "Nayci SA"
+            ],
+            "citation_count": 3,
+            "rcr": null,
+            "volume": "20",
+            "issue": "",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/41399649/",
+            "altmetric_score": 0,
+            "altmetric_news": 0,
+            "altmetric_social": 0,
+            "is_current_issue": false,
+            "hot_score": 11.6,
+            "field": "emergency",
+            "field_label": "응급의학",
+            "abstract": "OBJECTIVE: The Rome classification was introduced to assess the severity of acute exacerbation (AE) of chronic obstructive pulmonary disease (COPD) based on easily measurable variables. However, its validation for global use has not yet reached a sufficient level. This study aims to evaluate the validity of the Rome criteria in determining the severity and prognosis of COPD AE in Turkey. METHODS: This multicenter study, conducted for the first time in Turkey and for the fourth time worldwide, included 750 patients diagnosed with AE-COPD who presented to emergency departments and outpatient clinics. According to the Rome criteria, patients were classified into three groups: mild, moderate, and severe AE-COPD. RESULTS: The study included 99 (13.2%) patients in the mild, 479 (63.9%) in the moderate, and 172 (22.9%) in the severe group. Emergency visits, hospitalizations, and ICU admissions in the past year were more frequent in the moderate and severe groups (p < 0.001 for all comparisons). Regarding outcomes of emergency or outpatient visits, most mild exacerbation cases were discharged (p < 0.001), while most moderate and severe exacerbations required hospitalization (p < 0.001). Compared to the moderate group, the severe exacerbation group had a higher risk of ICU admission (p < 0.001), NIV (p < 0.001), IMV (p < 0.001), in-hospital mortality (p < 0.001), and 30-day mortality (p = 0.015). No significant differences were found in 90-day mortality or 30 and 90-day readmission rates (p = 0.258, p = 0.712, p = 0.681, respectively). Survival analysis revealed no significant difference between the moderate and severe groups (p = 0.764). CONCLUSION: The findings suggest that the Rome criteria can be successfully used to assess exacerbation severity in AE-COPD patients presenting to secondary and tertiary care hospitals in Turkey.",
+            "title_ko": ""
+          },
+          "papers": [
+            {
+              "pmid": "41399649",
+              "title": "Validation Study of Rome Criteria for Assessing COPD Exacerbation Severity and Predicting Clinical Outcomes: Turkish Thoracic Society COPD Assembly.",
+              "journal": "International journal of chronic obstructive pulmonary disease",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2025-12-10",
+              "authors": [
+                "Baha A",
+                "Baysan C",
+                "Nayci SA"
+              ],
+              "citation_count": 3,
+              "rcr": null,
+              "volume": "20",
+              "issue": "",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/41399649/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 11.6,
+              "field": "emergency",
+              "field_label": "응급의학",
+              "abstract": "OBJECTIVE: The Rome classification was introduced to assess the severity of acute exacerbation (AE) of chronic obstructive pulmonary disease (COPD) based on easily measurable variables. However, its validation for global use has not yet reached a sufficient level. This study aims to evaluate the validity of the Rome criteria in determining the severity and prognosis of COPD AE in Turkey. METHODS: This multicenter study, conducted for the first time in Turkey and for the fourth time worldwide, included 750 patients diagnosed with AE-COPD who presented to emergency departments and outpatient clinics. According to the Rome criteria, patients were classified into three groups: mild, moderate, and severe AE-COPD. RESULTS: The study included 99 (13.2%) patients in the mild, 479 (63.9%) in the moderate, and 172 (22.9%) in the severe group. Emergency visits, hospitalizations, and ICU admissions in the past year were more frequent in the moderate and severe groups (p < 0.001 for all comparisons). Regarding outcomes of emergency or outpatient visits, most mild exacerbation cases were discharged (p < 0.001), while most moderate and severe exacerbations required hospitalization (p < 0.001). Compared to the moderate group, the severe exacerbation group had a higher risk of ICU admission (p < 0.001), NIV (p < 0.001), IMV (p < 0.001), in-hospital mortality (p < 0.001), and 30-day mortality (p = 0.015). No significant differences were found in 90-day mortality or 30 and 90-day readmission rates (p = 0.258, p = 0.712, p = 0.681, respectively). Survival analysis revealed no significant difference between the moderate and severe groups (p = 0.764). CONCLUSION: The findings suggest that the Rome criteria can be successfully used to assess exacerbation severity in AE-COPD patients presenting to secondary and tertiary care hospitals in Turkey.",
+              "title_ko": ""
+            }
+          ]
+        },
+        {
+          "journal": "Brazilian dental journal",
+          "impact_factor": 1.5,
+          "index_type": "미상",
+          "quartile": "미상",
+          "paper_count": 1,
+          "top_paper": {
+            "pmid": "41370468",
+            "title": "Comparison of Blue®m and chlorhexidine mouthwash on oral health of intubated patients in intensive care unit.",
+            "journal": "Brazilian dental journal",
+            "impact_factor": 1.5,
+            "index_type": "미상",
+            "quartile": "미상",
+            "pubdate": "2025-12-08",
+            "authors": [
+              "Teixeira TC",
+              "Ribeiro RAG",
+              "Mascella V"
+            ],
+            "citation_count": 3,
+            "rcr": null,
+            "volume": "36",
+            "issue": "",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/41370468/",
+            "altmetric_score": 0,
+            "altmetric_news": 0,
+            "altmetric_social": 0,
+            "is_current_issue": false,
+            "hot_score": 11.6,
+            "field": "emergency",
+            "field_label": "응급의학",
+            "abstract": "This research aims to evaluate whether blue®m mouthwash can be used as a suitable alternative to chlorhexidine mouthwash for improving the oral health of intubated patients in ICUs. This is a randomized clinical study. The sample comprised 50 mechanically ventilated adults randomly allocated in a block of 10 to the 0.12% chlorhexidine digluconate (CHX) and the blue®m group. The patients' oral and tracheal secretions were collected in four different periods: T1 - 24h after intubation (without sanitation); T2 - 24h after intubation (with sanitation); T3 - 48h after intubation (without sanitation); T4 - 48h after intubation (with sanitation). Bacterial and fungal identification was performed. The presence of bacteria was graded as abundant, moderate, and scarce. Descriptive and inferential statistics were performed. Fifty patients with a mean age of 62.7 ± 13.3 years (20 to 86 years) were treated, 24 in the CHX group and 26 in the blue®m group. The most frequent pathogens in the patient's oral environment were Acinetobacter baumanii, Pseudomonas aeruginosa, and Klebsiella pneumonia. Analysis of the effectiveness of both antiseptics indicated statistically significant differences in the median values of the microbial population between collection periods in the CHX (χ2=13.2, p=0.004) and blue®m (χ2=9.49, p=0.023) group. No significant statistical difference in microbial population was found between the groups (T1- p=0.375; T2 - p=0.955; T3 - p=0.765; T4 - p=0.898). Blue®m mouthwash effectively reduces the oral microbial population and does not differ from chlorhexidine in terms of reduction. Blue®m mouthwash can be used as an alternative to chlorhexidine for mechanical ventilator patients in the ICU.",
+            "title_ko": ""
+          },
+          "papers": [
+            {
+              "pmid": "41370468",
+              "title": "Comparison of Blue®m and chlorhexidine mouthwash on oral health of intubated patients in intensive care unit.",
+              "journal": "Brazilian dental journal",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2025-12-08",
+              "authors": [
+                "Teixeira TC",
+                "Ribeiro RAG",
+                "Mascella V"
+              ],
+              "citation_count": 3,
+              "rcr": null,
+              "volume": "36",
+              "issue": "",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/41370468/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 11.6,
+              "field": "emergency",
+              "field_label": "응급의학",
+              "abstract": "This research aims to evaluate whether blue®m mouthwash can be used as a suitable alternative to chlorhexidine mouthwash for improving the oral health of intubated patients in ICUs. This is a randomized clinical study. The sample comprised 50 mechanically ventilated adults randomly allocated in a block of 10 to the 0.12% chlorhexidine digluconate (CHX) and the blue®m group. The patients' oral and tracheal secretions were collected in four different periods: T1 - 24h after intubation (without sanitation); T2 - 24h after intubation (with sanitation); T3 - 48h after intubation (without sanitation); T4 - 48h after intubation (with sanitation). Bacterial and fungal identification was performed. The presence of bacteria was graded as abundant, moderate, and scarce. Descriptive and inferential statistics were performed. Fifty patients with a mean age of 62.7 ± 13.3 years (20 to 86 years) were treated, 24 in the CHX group and 26 in the blue®m group. The most frequent pathogens in the patient's oral environment were Acinetobacter baumanii, Pseudomonas aeruginosa, and Klebsiella pneumonia. Analysis of the effectiveness of both antiseptics indicated statistically significant differences in the median values of the microbial population between collection periods in the CHX (χ2=13.2, p=0.004) and blue®m (χ2=9.49, p=0.023) group. No significant statistical difference in microbial population was found between the groups (T1- p=0.375; T2 - p=0.955; T3 - p=0.765; T4 - p=0.898). Blue®m mouthwash effectively reduces the oral microbial population and does not differ from chlorhexidine in terms of reduction. Blue®m mouthwash can be used as an alternative to chlorhexidine for mechanical ventilator patients in the ICU.",
+              "title_ko": ""
+            }
+          ]
+        },
+        {
+          "journal": "Acta medica Indonesiana",
+          "impact_factor": 1.5,
+          "index_type": "미상",
+          "quartile": "미상",
+          "paper_count": 2,
+          "top_paper": {
+            "pmid": "42845066",
+            "title": "Acute Respiratory Distress Syndrome and Corticosteroids: Reconciling Conflicting Evidence.",
+            "journal": "Acta medica Indonesiana",
+            "impact_factor": 1.5,
+            "index_type": "미상",
+            "quartile": "미상",
+            "pubdate": "2026-07-01",
+            "authors": [
+              "Tadesse TM",
+              "Wakjira OG"
+            ],
+            "citation_count": 0,
+            "rcr": null,
+            "volume": "58",
+            "issue": "3",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42845066/",
+            "altmetric_score": 0,
+            "altmetric_news": 0,
+            "altmetric_social": 0,
+            "is_current_issue": true,
+            "hot_score": 10.0,
+            "field": "emergency",
+            "field_label": "응급의학",
+            "abstract": "Acute respiratory distress syndrome (ARDS) is a life-threatening form of acute inflammatory lung injury in which loss of alveolar-capillary membrane integrity produces protein-rich pulmonary edema, refractory hypoxemia, and reduced lung compliance, typically within 6-72 hours of a precipitating insult. The 2012 Berlin criteria defined ARDS by acute onset within one week of a known insult, bilateral opacities not fully explained by effusion, atelectasis, or cardiac failure, and a PaO₂/FiO₂ ratio of 300 mmHg or less with a minimum PEEP of 5 cmH₂O. The 2023 global definition expands this framework by accepting SpO₂/FiO₂ of 315 or less when SpO₂ is 97% or below, including patients supported with high-flow nasal oxygen at 30 L/min or more, permitting thoracic ultrasonography as an alternative imaging modality, and waiving the PEEP requirement in resource-limited settings. These revisions are particularly relevant to practice in low- and middle-income countries, where arterial blood gas analysis and mechanical ventilation may be unavailable. Management remains anchored in lung-protective ventilation, conservative fluid strategy, and prone positioning. Glucocorticoids remain the most contested pharmacological intervention: evidence from dexamethasone trials in ARDS and in COVID-19 suggests benefit in selected populations, yet questions persist regarding optimal agent, dose, timing relative to symptom onset, duration, the influence of ARDS subphenotypes, and the risk of secondary infection and neuromuscular weakness. This narrative review summarizes the pathophysiology, evolving diagnostic criteria, imaging findings, and current evidence on corticosteroid therapy, and considers how hyperinflammatory and hypoinflammatory subphenotypes may guide future trial design and individualized treatment.",
+            "title_ko": ""
+          },
+          "papers": [
+            {
+              "pmid": "42845066",
+              "title": "Acute Respiratory Distress Syndrome and Corticosteroids: Reconciling Conflicting Evidence.",
+              "journal": "Acta medica Indonesiana",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2026-07-01",
+              "authors": [
+                "Tadesse TM",
+                "Wakjira OG"
+              ],
+              "citation_count": 0,
+              "rcr": null,
+              "volume": "58",
+              "issue": "3",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/42845066/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": true,
+              "hot_score": 10.0,
+              "field": "emergency",
+              "field_label": "응급의학",
+              "abstract": "Acute respiratory distress syndrome (ARDS) is a life-threatening form of acute inflammatory lung injury in which loss of alveolar-capillary membrane integrity produces protein-rich pulmonary edema, refractory hypoxemia, and reduced lung compliance, typically within 6-72 hours of a precipitating insult. The 2012 Berlin criteria defined ARDS by acute onset within one week of a known insult, bilateral opacities not fully explained by effusion, atelectasis, or cardiac failure, and a PaO₂/FiO₂ ratio of 300 mmHg or less with a minimum PEEP of 5 cmH₂O. The 2023 global definition expands this framework by accepting SpO₂/FiO₂ of 315 or less when SpO₂ is 97% or below, including patients supported with high-flow nasal oxygen at 30 L/min or more, permitting thoracic ultrasonography as an alternative imaging modality, and waiving the PEEP requirement in resource-limited settings. These revisions are particularly relevant to practice in low- and middle-income countries, where arterial blood gas analysis and mechanical ventilation may be unavailable. Management remains anchored in lung-protective ventilation, conservative fluid strategy, and prone positioning. Glucocorticoids remain the most contested pharmacological intervention: evidence from dexamethasone trials in ARDS and in COVID-19 suggests benefit in selected populations, yet questions persist regarding optimal agent, dose, timing relative to symptom onset, duration, the influence of ARDS subphenotypes, and the risk of secondary infection and neuromuscular weakness. This narrative review summarizes the pathophysiology, evolving diagnostic criteria, imaging findings, and current evidence on corticosteroid therapy, and considers how hyperinflammatory and hypoinflammatory subphenotypes may guide future trial design and individualized treatment.",
+              "title_ko": ""
+            },
+            {
+              "pmid": "39865050",
+              "title": "Outcome Prediction in Infectious Disease.",
+              "journal": "Acta medica Indonesiana",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2024-10-01",
+              "authors": [
+                "Lie KC",
+                "Yonggara Y",
+                "Pasaribu A"
+              ],
+              "citation_count": 0,
+              "rcr": 0.0,
+              "volume": "56",
+              "issue": "4",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/39865050/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 0.0,
+              "field": "emergency",
+              "field_label": "응급의학",
+              "abstract": "Sepsis is a critical, life-threatening condition that demands precise prediction to mitigate adverse outcomes. The heterogeneity of sepsis leads to variable prognoses, making early and accurate identification increasingly difficult. Despite ongoing advancements, no single gold standard has emerged for sepsis prediction. Current research explores a range of prognostic tools, from traditional scoring systems and biomarkers to cutting-edge omics technologies and artificial intelligence. These tools can differ significantly across patient populations and clinical settings, such as the emergency department (ED) and intensive care unit (ICU). This review aims to critically evaluate the development and application of outcome prediction modalities in sepsis and other infectious diseases, highlighting the progress made and identifying areas for further research.",
+              "title_ko": ""
+            }
+          ]
         }
       ],
       "hot_topics": [
@@ -9640,18 +9751,6 @@
           ]
         },
         {
-          "phrase": "cardiac arrest",
-          "score": 72.3,
-          "paper_count": 5,
-          "pmids": [
-            "39637269",
-            "39699331",
-            "39632038",
-            "41260713",
-            "39583157"
-          ]
-        },
-        {
           "phrase": "cardiopulmonary resuscitation",
           "score": 66.6,
           "paper_count": 6,
@@ -9661,6 +9760,17 @@
             "39699331",
             "41487620",
             "40224792",
+            "39583157"
+          ]
+        },
+        {
+          "phrase": "cardiac arrest",
+          "score": 56.5,
+          "paper_count": 4,
+          "pmids": [
+            "39637269",
+            "39699331",
+            "39632038",
             "39583157"
           ]
         },
@@ -9710,6 +9820,15 @@
           ]
         },
         {
+          "phrase": "intensive unit",
+          "score": 35.1,
+          "paper_count": 2,
+          "pmids": [
+            "39787549",
+            "41370468"
+          ]
+        },
+        {
           "phrase": "ventilator-associated pneumonia",
           "score": 33.4,
           "paper_count": 2,
@@ -9725,15 +9844,6 @@
           "pmids": [
             "39699333",
             "40224798"
-          ]
-        },
-        {
-          "phrase": "trauma center",
-          "score": 31.6,
-          "paper_count": 2,
-          "pmids": [
-            "39668536",
-            "39648775"
           ]
         },
         {
@@ -9760,7 +9870,7 @@
               0.0,
               81.5,
               62.4,
-              30.0
+              50.0
             ]
           },
           {
@@ -9768,16 +9878,25 @@
             "scores": [
               0.0,
               66.5,
-              40.8,
-              20.0
+              25.0,
+              30.0
             ]
           },
           {
             "phrase": "cardiopulmonary resuscitation",
             "scores": [
               0.0,
-              67.4,
+              57.4,
               26.6,
+              10.0
+            ]
+          },
+          {
+            "phrase": "intensive unit",
+            "scores": [
+              0.0,
+              32.7,
+              21.6,
               20.0
             ]
           },
@@ -9788,15 +9907,6 @@
               37.0,
               9.2,
               20.0
-            ]
-          },
-          {
-            "phrase": "intensive unit",
-            "scores": [
-              0.0,
-              32.7,
-              21.6,
-              10.0
             ]
           },
           {
