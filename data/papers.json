@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-09T20:19:41.536434Z",
+  "generated_at": "2026-10-10T20:19:49.662506Z",
   "window_days": 1095,
   "fields": [
     {
       "key": "preventive",
       "label": "예방의학",
-      "paper_count": 441,
+      "paper_count": 440,
       "journals": [
         {
           "journal": "The Orthopedic clinics of North America",
@@ -462,7 +462,7 @@
           "impact_factor": 1.5,
           "index_type": "미상",
           "quartile": "미상",
-          "paper_count": 85,
+          "paper_count": 82,
           "top_paper": {
             "pmid": "39949340",
             "title": "Analysis of factors influencing HPV vaccination intention among Chinese college students: structural equation modeling based on health belief theory.",
@@ -895,99 +895,6 @@
           ]
         },
         {
-          "journal": "The Pediatric infectious disease journal",
-          "impact_factor": 1.5,
-          "index_type": "미상",
-          "quartile": "미상",
-          "paper_count": 2,
-          "top_paper": {
-            "pmid": "39774938",
-            "title": "Enhanced D614G and Omicron Variants Antibody Persistence in Infants at 2 Months of Age Following Maternal mRNA Booster Vaccination During Pregnancy or Postpartum.",
-            "journal": "The Pediatric infectious disease journal",
-            "impact_factor": 1.5,
-            "index_type": "미상",
-            "quartile": "미상",
-            "pubdate": "2024-08-13",
-            "authors": [
-              "Munoz FM",
-              "Beigi R",
-              "Posavad CM"
-            ],
-            "citation_count": 4,
-            "rcr": 0.7164369139062817,
-            "volume": "43",
-            "issue": "11",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/39774938/",
-            "altmetric_score": 0,
-            "altmetric_news": 0,
-            "altmetric_social": 0,
-            "is_current_issue": true,
-            "hot_score": 26.0,
-            "field": "preventive",
-            "field_label": "예방의학",
-            "abstract": "BACKGROUND: Following maternal COVID-19 vaccination, the persistence of antibodies in sera and breast milk for mothers and infants is not well characterized. We sought to describe the persistence of antibodies through 2 months after delivery in maternal and infant serum and breast milk following maternal COVID-19 mRNA vaccination and to examine differences by receipt of booster dose during pregnancy or postpartum. METHODS: This is a prospective cohort study with enrollment from July 2021 to January 2022 at 9 US academic sites. Pregnant or postpartum participants and their infants were enrolled after COVID-19 mRNA monovalent vaccination during pregnancy (primary 2-dose series) with booster (third dose) vaccination during pregnancy or within 2 months post-partum. SARS-CoV-2-binding and functional antibody responses at delivery and 2 months after delivery in mothers and infants were measured by spike and receptor-binding domain immunoglobulin (Ig) G, pseudovirus and live neutralizing antibody (nAb) titers to ancestral and Omicron BA.1 and BA.5 strains. Breast milk spike and receptor-binding domain IgG and IgA titers were also measured. RESULTS: A total of 237 maternal/infant dyads were included (110 primary series during pregnancy, 99 pregnancy booster and 28 postpartum booster). A pregnancy booster resulted in 2.2-4.7-fold higher IgG and nAb at delivery and 2 months for both mothers and infants compared to the primary series alone (P < 0.001 for all comparisons). While infant IgG and nAb titers decreased by 2 months of age, the proportion of infants with detectable nAb at 2 months was greater in infants of mothers boosted during pregnancy compared with primary series for all variants (D614G: 99% vs. 56%; BA.1: 56% vs. 4% and BA.5: 57% vs. 9%; P < 0.001 for all comparisons). Breast milk spike IgA and IgG were present in 64%-100% and 100% of participants, respectively, and those boosted during pregnancy or postpartum had 3.1-4.6-fold higher levels of breast milk antibodies at 2 months compared to primary series during pregnancy (P < 0.001). CONCLUSIONS: mRNA COVID-19 monovalent booster vaccination during pregnancy results in significantly higher maternal and infant serum-binding IgG and nAb titers compared to a primary 2-dose series, including against Omicron variants, through 2 months of age. Breast milk antibodies following maternal vaccination during pregnancy or postpartum may provide additional protection during early infancy.",
-            "title_ko": "임신 또는 산후 중 모성 mRNA 부스터 백신 접종 후 2개월령의 유아에서 향상된 D614G 및 오미크론 변이체 항체 지속성."
-          },
-          "papers": [
-            {
-              "pmid": "39774938",
-              "title": "Enhanced D614G and Omicron Variants Antibody Persistence in Infants at 2 Months of Age Following Maternal mRNA Booster Vaccination During Pregnancy or Postpartum.",
-              "journal": "The Pediatric infectious disease journal",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2024-08-13",
-              "authors": [
-                "Munoz FM",
-                "Beigi R",
-                "Posavad CM"
-              ],
-              "citation_count": 4,
-              "rcr": 0.7164369139062817,
-              "volume": "43",
-              "issue": "11",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/39774938/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": true,
-              "hot_score": 26.0,
-              "field": "preventive",
-              "field_label": "예방의학",
-              "abstract": "BACKGROUND: Following maternal COVID-19 vaccination, the persistence of antibodies in sera and breast milk for mothers and infants is not well characterized. We sought to describe the persistence of antibodies through 2 months after delivery in maternal and infant serum and breast milk following maternal COVID-19 mRNA vaccination and to examine differences by receipt of booster dose during pregnancy or postpartum. METHODS: This is a prospective cohort study with enrollment from July 2021 to January 2022 at 9 US academic sites. Pregnant or postpartum participants and their infants were enrolled after COVID-19 mRNA monovalent vaccination during pregnancy (primary 2-dose series) with booster (third dose) vaccination during pregnancy or within 2 months post-partum. SARS-CoV-2-binding and functional antibody responses at delivery and 2 months after delivery in mothers and infants were measured by spike and receptor-binding domain immunoglobulin (Ig) G, pseudovirus and live neutralizing antibody (nAb) titers to ancestral and Omicron BA.1 and BA.5 strains. Breast milk spike and receptor-binding domain IgG and IgA titers were also measured. RESULTS: A total of 237 maternal/infant dyads were included (110 primary series during pregnancy, 99 pregnancy booster and 28 postpartum booster). A pregnancy booster resulted in 2.2-4.7-fold higher IgG and nAb at delivery and 2 months for both mothers and infants compared to the primary series alone (P < 0.001 for all comparisons). While infant IgG and nAb titers decreased by 2 months of age, the proportion of infants with detectable nAb at 2 months was greater in infants of mothers boosted during pregnancy compared with primary series for all variants (D614G: 99% vs. 56%; BA.1: 56% vs. 4% and BA.5: 57% vs. 9%; P < 0.001 for all comparisons). Breast milk spike IgA and IgG were present in 64%-100% and 100% of participants, respectively, and those boosted during pregnancy or postpartum had 3.1-4.6-fold higher levels of breast milk antibodies at 2 months compared to primary series during pregnancy (P < 0.001). CONCLUSIONS: mRNA COVID-19 monovalent booster vaccination during pregnancy results in significantly higher maternal and infant serum-binding IgG and nAb titers compared to a primary 2-dose series, including against Omicron variants, through 2 months of age. Breast milk antibodies following maternal vaccination during pregnancy or postpartum may provide additional protection during early infancy.",
-              "title_ko": "임신 또는 산후 중 모성 mRNA 부스터 백신 접종 후 2개월령의 유아에서 향상된 D614G 및 오미크론 변이체 항체 지속성."
-            },
-            {
-              "pmid": "40516573",
-              "title": "Brain Abnormalities, Neurodevelopmental Milestones, and Long-term Follow-up in Newborns With Congenital Cytomegalovirus Identified Through a Neonatal Screening Program.",
-              "journal": "The Pediatric infectious disease journal",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2024-08-27",
-              "authors": [
-                "Vila-Bedmar S",
-                "Martinez de Aragon Calvo A",
-                "Liebana-Rojas C"
-              ],
-              "citation_count": 0,
-              "rcr": 0.0,
-              "volume": "43",
-              "issue": "12",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/40516573/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": true,
-              "hot_score": 10.0,
-              "field": "preventive",
-              "field_label": "예방의학",
-              "abstract": "OBJECTIVE: To investigate the spectrum and frequency of abnormalities on brain magnetic resonance imaging (MRI) in a cohort of newborns diagnosed with congenital cytomegalovirus (cCMV) through a screening program and evaluate the risk of sensorineural hearing loss, neurodevelopmental disorders, chorioretinitis and epilepsy. METHODS: A prospective screening for cCMV by CMV viral load in saliva in newborns was performed in 2017-2018 in a tertiary center in Madrid. Neonatal brain MRI was performed without sedation in all newborns with cCMV and evaluated by 2 experienced neuroradiologists. The degree of agreement between the 2 radiologists was analyzed using Cohen's Kappa coefficient. All infected children were followed up for 6 years and evaluated every 6 months for neurodevelopment, behavioral issues and sensorineural hearing loss by auditory brainstem response. RESULTS: Of 3190 newborns evaluated, 15 had cCMV (prevalence 0.47%, 95% CI: 0.29-0.77%) and were included in the study. Cranial ultrasound (US) and neonatal brain MRI were performed. Brain abnormalities were found in 4 US and 10 MRI, being white matter abnormalities (WMAs) the most common finding. Two children were diagnosed with psychomotor delay, and the other 2 with attention-deficit hyperactivity disorder, and all of them presented WMA in the neonatal brain MRI. Children with a normal MRI (5/15) developed normally without long-term sequelae in the follow-up. CONCLUSIONS: Children with isolated WMA without other clinical symptoms showed overall good outcomes, although more studies with a larger sample and a control group should be performed. Interobserver agreement about the presence of abnormalities in MRI was good.",
-              "title_ko": "신생아 선별 검진 프로그램을 통해 확인된 선천성 거대세포바이러스가 있는 신생아의 뇌 이상, 신경 발달 이정표 및 장기 추적 검사."
-            }
-          ]
-        },
-        {
           "journal": "Romanian journal of ophthalmology",
           "impact_factor": 1.5,
           "index_type": "미상",
@@ -1397,71 +1304,6 @@
           ]
         },
         {
-          "journal": "Journal of the American Board of Family Medicine : JABFM",
-          "impact_factor": 1.5,
-          "index_type": "미상",
-          "quartile": "미상",
-          "paper_count": 1,
-          "top_paper": {
-            "pmid": "39978849",
-            "title": "Screening and Diagnosis of Type 2 Diabetes in Sickle Cell Disease.",
-            "journal": "Journal of the American Board of Family Medicine : JABFM",
-            "impact_factor": 1.5,
-            "index_type": "미상",
-            "quartile": "미상",
-            "pubdate": "2024-09-01",
-            "authors": [
-              "Carrithers B",
-              "Klein R",
-              "Ovalle F"
-            ],
-            "citation_count": 3,
-            "rcr": 0.8705522449961743,
-            "volume": "37",
-            "issue": "5",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/39978849/",
-            "altmetric_score": 0,
-            "altmetric_news": 0,
-            "altmetric_social": 0,
-            "is_current_issue": true,
-            "hot_score": 23.8,
-            "field": "preventive",
-            "field_label": "예방의학",
-            "abstract": "BACKGROUND: Diagnosing type 2 diabetes mellitus (T2DM) in people with sickle cell disease (SCD) is complicated due to hemoglobin A variance in affected individuals. Accurate screening assessments are needed to prevent excessive morbidity and mortality. Primary care physicians need recommendations for screening and diagnosis in this unique population. PURPOSE: To synthesize recommendations regarding medical diagnosis criteria for T2DM in SCD. DATA SOURCES: PubMed, Standards of Medical Care in Diabetes, US Preventative Services Task Force, National Institute of Diabetes and Digestive and Kidney Diseases, searched on December 28, 2022. STUDY SELECTION: One reviewer searched each database to select applicable studies pertaining to \"sickle cell disease,\" \"type 2 diabetes,\" \"HbA1c,\" and \"fructosamine\" from December 28, 2022, to March 15, 2023. DATA EXTRACTION AND QUALITY ASSESSMENT: A comprehensive literature review was done to extract current data/facts and assess certainty of evidence. DATA SYNTHESIS: This review reviews 5 articles that met inclusion criteria to outline outpatient screening and diagnosis of T2DM in SCD. Based on these findings, we recommend fasting plasma glucose as the standard screening starting at age 35 based on USPSTF guidelines. We do not recommend using HbA1c, fructosamine, or glycated albumin for screening or diagnosis of T2DM in individuals with SCD; the latter entities have limited implications in their use. LIMITATIONS: There are limited studies available for diagnosis of T2DM in SCD. CONCLUSIONS: Fasting plasma glucose is the standard screening for T2DM for SCD to ensure early diagnosis and prevent worsening macro and microvascular complications from both comorbid conditions.",
-            "title_ko": "겸상적혈구 질환에서 제2형 당뇨병의 선별검사 및 진단."
-          },
-          "papers": [
-            {
-              "pmid": "39978849",
-              "title": "Screening and Diagnosis of Type 2 Diabetes in Sickle Cell Disease.",
-              "journal": "Journal of the American Board of Family Medicine : JABFM",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2024-09-01",
-              "authors": [
-                "Carrithers B",
-                "Klein R",
-                "Ovalle F"
-              ],
-              "citation_count": 3,
-              "rcr": 0.8705522449961743,
-              "volume": "37",
-              "issue": "5",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/39978849/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": true,
-              "hot_score": 23.8,
-              "field": "preventive",
-              "field_label": "예방의학",
-              "abstract": "BACKGROUND: Diagnosing type 2 diabetes mellitus (T2DM) in people with sickle cell disease (SCD) is complicated due to hemoglobin A variance in affected individuals. Accurate screening assessments are needed to prevent excessive morbidity and mortality. Primary care physicians need recommendations for screening and diagnosis in this unique population. PURPOSE: To synthesize recommendations regarding medical diagnosis criteria for T2DM in SCD. DATA SOURCES: PubMed, Standards of Medical Care in Diabetes, US Preventative Services Task Force, National Institute of Diabetes and Digestive and Kidney Diseases, searched on December 28, 2022. STUDY SELECTION: One reviewer searched each database to select applicable studies pertaining to \"sickle cell disease,\" \"type 2 diabetes,\" \"HbA1c,\" and \"fructosamine\" from December 28, 2022, to March 15, 2023. DATA EXTRACTION AND QUALITY ASSESSMENT: A comprehensive literature review was done to extract current data/facts and assess certainty of evidence. DATA SYNTHESIS: This review reviews 5 articles that met inclusion criteria to outline outpatient screening and diagnosis of T2DM in SCD. Based on these findings, we recommend fasting plasma glucose as the standard screening starting at age 35 based on USPSTF guidelines. We do not recommend using HbA1c, fructosamine, or glycated albumin for screening or diagnosis of T2DM in individuals with SCD; the latter entities have limited implications in their use. LIMITATIONS: There are limited studies available for diagnosis of T2DM in SCD. CONCLUSIONS: Fasting plasma glucose is the standard screening for T2DM for SCD to ensure early diagnosis and prevent worsening macro and microvascular complications from both comorbid conditions.",
-              "title_ko": "겸상적혈구 질환에서 제2형 당뇨병의 선별검사 및 진단."
-            }
-          ]
-        },
-        {
           "journal": "Acta clinica Croatica",
           "impact_factor": 1.5,
           "index_type": "미상",
@@ -1644,6 +1486,99 @@
               "field_label": "예방의학",
               "abstract": "This study aimed to examine the relationship between medication literacy and the degree to which patients are considered capable of medication self-management, the factors influencing the strength of this relationship and the factors influencing a patient's capability for medication self-management. Between January and April 2022, a cross-sectional survey was conducted on hospitalised patients (65+) with polypharmacy. Medication literacy was evaluated using the MEDication Literacy Assessment of Geriatric patients and informal caregivers (MED-fLAG). The SelfMED assessment determined a patient's capability for medication self-management. The relationship between MED-fLAG and SelfMED was explored with Pearson's r. Moderation analysis was used to explore the factors influencing the strength of the relationship between both. Linear regression explored the factors influencing SelfMED scores. In total, 169 patients participated in the study. Patients considered themselves more capable of in-hospital medication self-management (8/10 rating) compared to nurses' and physicians' opinions (6/10 rating). Interactive medication literacy scored higher (mean = 3.0) than functional (mean = 2.9) and critical medication literacy (mean = 2.8). The more medication literacy skills, the more patients were considered able for medication self-management by healthcare providers (r = 0.630, p < 0.001). Moderation analysis could not reveal any factors that significantly affected the strength of the relationship between both. Age, managing medication independently at home, the number of chronic conditions and medication literacy were significant predictors of a patient's capability for in-hospital medication self-management. This study demonstrated a rather strong correlation between the results of the MED-fLAG and the SelfMED assessment. Hence, SelfMED can be used as a stand-alone first screening instrument to determine a patient's capability for in-hospital medication self-management, without first assessing medication literacy. MED-fLAG can provide valuable insights into the medication literacy of patients considered less capable of managing their medication, allowing medication information and interventions to be tailored to the patient.",
               "title_ko": "약물 리터러시 및 약물 자기 관리: 다약제를 사용하는 입원 환자 (65세 이상) 를 대상으로 한 단면 연구."
+            }
+          ]
+        },
+        {
+          "journal": "Journal of the American Board of Family Medicine : JABFM",
+          "impact_factor": 1.5,
+          "index_type": "미상",
+          "quartile": "미상",
+          "paper_count": 2,
+          "top_paper": {
+            "pmid": "41491559",
+            "title": "Screening for Firearm Violence Exposure in Adolescents and Young Adults.",
+            "journal": "Journal of the American Board of Family Medicine : JABFM",
+            "impact_factor": 1.5,
+            "index_type": "미상",
+            "quartile": "미상",
+            "pubdate": "2025-09-01",
+            "authors": [
+              "Batish S",
+              "Gilbert A",
+              "Lutgen CB"
+            ],
+            "citation_count": 2,
+            "rcr": null,
+            "volume": "38",
+            "issue": "5",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/41491559/",
+            "altmetric_score": 0,
+            "altmetric_news": 0,
+            "altmetric_social": 0,
+            "is_current_issue": true,
+            "hot_score": 21.0,
+            "field": "preventive",
+            "field_label": "예방의학",
+            "abstract": "INTRODUCTION: Firearm violence now accounts for more than 45,000 deaths annually in America, making it the leading cause of death in the pediatric population. Despite this, primary care clinicians (PCCs) lack screening tools to assess a patient's future risk of gun violence, hampering the ability to allocate resources that could prevent morbidity and mortality. METHODS: Longitudinal quantitative study designed to evaluate whether the Serious fighting, Friend weapon carrying, community Environment, and firearm Threats (SaFETy) score and other measures could predict gun violence exposure over 6 months in a nonurban primary care (PC) based adolescent-young adult population. RESULTS: Eighty-eight patients between the ages of 14 to 24 completed the baseline questionnaire and 62 completed the 6-month questionnaire. 45% of participants had a SaFETy score >0. Any score >0 indicates an increased risk of future firearm violence. A strong correlation was found between the SaFETy score and gun violence exposure, and Adverse Childhood Events (ACEs). CONCLUSIONS: This was among the first studies attempting to assess the viability of screening for firearm violence and other associated risk factors in a nonurban PC setting. Our findings suggest that adolescent and young adult PC patients are willing to disclose in a survey topics related to violence and firearms with their PCC. If validated in the PC setting, the SaFETy score could become a crucial tool for PCCs given the ease with which it can be implemented into a routine visit and the nonthreatening, and nonconfrontational question design. Tools such as the SaFETy score can provide PCPs with vital insight into their patients' past gun violence exposures and future violence risks.",
+            "title_ko": "청소년 및 청소년의 총기 폭력 노출 선별 검사."
+          },
+          "papers": [
+            {
+              "pmid": "41491559",
+              "title": "Screening for Firearm Violence Exposure in Adolescents and Young Adults.",
+              "journal": "Journal of the American Board of Family Medicine : JABFM",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2025-09-01",
+              "authors": [
+                "Batish S",
+                "Gilbert A",
+                "Lutgen CB"
+              ],
+              "citation_count": 2,
+              "rcr": null,
+              "volume": "38",
+              "issue": "5",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/41491559/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": true,
+              "hot_score": 21.0,
+              "field": "preventive",
+              "field_label": "예방의학",
+              "abstract": "INTRODUCTION: Firearm violence now accounts for more than 45,000 deaths annually in America, making it the leading cause of death in the pediatric population. Despite this, primary care clinicians (PCCs) lack screening tools to assess a patient's future risk of gun violence, hampering the ability to allocate resources that could prevent morbidity and mortality. METHODS: Longitudinal quantitative study designed to evaluate whether the Serious fighting, Friend weapon carrying, community Environment, and firearm Threats (SaFETy) score and other measures could predict gun violence exposure over 6 months in a nonurban primary care (PC) based adolescent-young adult population. RESULTS: Eighty-eight patients between the ages of 14 to 24 completed the baseline questionnaire and 62 completed the 6-month questionnaire. 45% of participants had a SaFETy score >0. Any score >0 indicates an increased risk of future firearm violence. A strong correlation was found between the SaFETy score and gun violence exposure, and Adverse Childhood Events (ACEs). CONCLUSIONS: This was among the first studies attempting to assess the viability of screening for firearm violence and other associated risk factors in a nonurban PC setting. Our findings suggest that adolescent and young adult PC patients are willing to disclose in a survey topics related to violence and firearms with their PCC. If validated in the PC setting, the SaFETy score could become a crucial tool for PCCs given the ease with which it can be implemented into a routine visit and the nonthreatening, and nonconfrontational question design. Tools such as the SaFETy score can provide PCPs with vital insight into their patients' past gun violence exposures and future violence risks.",
+              "title_ko": "청소년 및 청소년의 총기 폭력 노출 선별 검사."
+            },
+            {
+              "pmid": "39978849",
+              "title": "Screening and Diagnosis of Type 2 Diabetes in Sickle Cell Disease.",
+              "journal": "Journal of the American Board of Family Medicine : JABFM",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2024-09-01",
+              "authors": [
+                "Carrithers B",
+                "Klein R",
+                "Ovalle F"
+              ],
+              "citation_count": 3,
+              "rcr": 0.8705522449961743,
+              "volume": "37",
+              "issue": "5",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/39978849/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 13.8,
+              "field": "preventive",
+              "field_label": "예방의학",
+              "abstract": "BACKGROUND: Diagnosing type 2 diabetes mellitus (T2DM) in people with sickle cell disease (SCD) is complicated due to hemoglobin A variance in affected individuals. Accurate screening assessments are needed to prevent excessive morbidity and mortality. Primary care physicians need recommendations for screening and diagnosis in this unique population. PURPOSE: To synthesize recommendations regarding medical diagnosis criteria for T2DM in SCD. DATA SOURCES: PubMed, Standards of Medical Care in Diabetes, US Preventative Services Task Force, National Institute of Diabetes and Digestive and Kidney Diseases, searched on December 28, 2022. STUDY SELECTION: One reviewer searched each database to select applicable studies pertaining to \"sickle cell disease,\" \"type 2 diabetes,\" \"HbA1c,\" and \"fructosamine\" from December 28, 2022, to March 15, 2023. DATA EXTRACTION AND QUALITY ASSESSMENT: A comprehensive literature review was done to extract current data/facts and assess certainty of evidence. DATA SYNTHESIS: This review reviews 5 articles that met inclusion criteria to outline outpatient screening and diagnosis of T2DM in SCD. Based on these findings, we recommend fasting plasma glucose as the standard screening starting at age 35 based on USPSTF guidelines. We do not recommend using HbA1c, fructosamine, or glycated albumin for screening or diagnosis of T2DM in individuals with SCD; the latter entities have limited implications in their use. LIMITATIONS: There are limited studies available for diagnosis of T2DM in SCD. CONCLUSIONS: Fasting plasma glucose is the standard screening for T2DM for SCD to ensure early diagnosis and prevent worsening macro and microvascular complications from both comorbid conditions.",
+              "title_ko": "겸상적혈구 질환에서 제2형 당뇨병의 선별검사 및 진단."
             }
           ]
         },
@@ -2374,7 +2309,7 @@
           "impact_factor": 1.5,
           "index_type": "미상",
           "quartile": "미상",
-          "paper_count": 11,
+          "paper_count": 12,
           "top_paper": {
             "pmid": "39890380",
             "title": "Enforcement of COTPA in India- current status, challenges and solutions.",
@@ -4595,19 +4530,141 @@
               "title_ko": "림프부종 자가 치료 환자 학교가 하지 림프부종 환자의 기능, 삶의 질, 림프부종 용적 및 신체 가치에 미치는 영향에 대한 조사: 준실험적 연구."
             }
           ]
+        },
+        {
+          "journal": "Frontiers in endocrinology",
+          "impact_factor": 1.5,
+          "index_type": "미상",
+          "quartile": "미상",
+          "paper_count": 3,
+          "top_paper": {
+            "pmid": "39877848",
+            "title": "Shifting paradigms in primary aldosteronism: reconsideration of screening strategy via integrating pathophysiological insights.",
+            "journal": "Frontiers in endocrinology",
+            "impact_factor": 1.5,
+            "index_type": "미상",
+            "quartile": "미상",
+            "pubdate": "2025-01-14",
+            "authors": [
+              "Kitamoto T",
+              "Ruike Y",
+              "Koide H"
+            ],
+            "citation_count": 4,
+            "rcr": null,
+            "volume": "15",
+            "issue": "",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/39877848/",
+            "altmetric_score": 0,
+            "altmetric_news": 0,
+            "altmetric_social": 0,
+            "is_current_issue": false,
+            "hot_score": 16.0,
+            "field": "preventive",
+            "field_label": "예방의학",
+            "abstract": "Several decades have passed since the description of the first patient with primary aldosteronism (PA). PA was initially classified in two main forms: aldosterone-producing adenoma (APA) and idiopathic hyperaldosteronism (IHA). However, the pathogenesis of PA has now been shown to be far more complex. For this reason, the traditional classification needs to be updated. Given the recent advancements in our understanding of PA pathogenesis, we should reevaluate how frequent PA cases are, beginning with the reconstruction of the screening strategy. Recent studies consistently indicated that PA has been identified in 22% of patients with resistant hypertension and 11% even in normotensives. The frequency is influenced by the screening strategy and should be based on understanding the pathogenesis of PA. Progress has been made to promote our understanding of the pathogenesis of PA by the findings of aldosterone driver mutations, which have been found in normotensives and hypertensives. In addition, much clinical evidence has been accumulated to indicate that there is a spectrum in PA pathogenesis. In this review, we will summarize the recent progress in aldosterone measurement methods based on LC-MS/MS and the current screening strategy. Then, we will discuss the progress of our understanding of PA, focusing on aldosterone driver mutations and the natural history of PA. Finally, we will discuss the optimal strategy to improve screening rate and case detection.",
+            "title_ko": "일차 알도스테론주의의 패러다임 전환: 병태생리학적 통찰력 통합을 통한 스크리닝 전략의 재검토."
+          },
+          "papers": [
+            {
+              "pmid": "39877848",
+              "title": "Shifting paradigms in primary aldosteronism: reconsideration of screening strategy via integrating pathophysiological insights.",
+              "journal": "Frontiers in endocrinology",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2025-01-14",
+              "authors": [
+                "Kitamoto T",
+                "Ruike Y",
+                "Koide H"
+              ],
+              "citation_count": 4,
+              "rcr": null,
+              "volume": "15",
+              "issue": "",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/39877848/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 16.0,
+              "field": "preventive",
+              "field_label": "예방의학",
+              "abstract": "Several decades have passed since the description of the first patient with primary aldosteronism (PA). PA was initially classified in two main forms: aldosterone-producing adenoma (APA) and idiopathic hyperaldosteronism (IHA). However, the pathogenesis of PA has now been shown to be far more complex. For this reason, the traditional classification needs to be updated. Given the recent advancements in our understanding of PA pathogenesis, we should reevaluate how frequent PA cases are, beginning with the reconstruction of the screening strategy. Recent studies consistently indicated that PA has been identified in 22% of patients with resistant hypertension and 11% even in normotensives. The frequency is influenced by the screening strategy and should be based on understanding the pathogenesis of PA. Progress has been made to promote our understanding of the pathogenesis of PA by the findings of aldosterone driver mutations, which have been found in normotensives and hypertensives. In addition, much clinical evidence has been accumulated to indicate that there is a spectrum in PA pathogenesis. In this review, we will summarize the recent progress in aldosterone measurement methods based on LC-MS/MS and the current screening strategy. Then, we will discuss the progress of our understanding of PA, focusing on aldosterone driver mutations and the natural history of PA. Finally, we will discuss the optimal strategy to improve screening rate and case detection.",
+              "title_ko": "일차 알도스테론주의의 패러다임 전환: 병태생리학적 통찰력 통합을 통한 스크리닝 전략의 재검토."
+            },
+            {
+              "pmid": "41641034",
+              "title": "Assessment of screening tools for diabetic sarcopenia in type 2 diabetes mellitus: evidence from a scoping review.",
+              "journal": "Frontiers in endocrinology",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2026-01-20",
+              "authors": [
+                "Yin J",
+                "Zhang X",
+                "Cai J"
+              ],
+              "citation_count": 2,
+              "rcr": null,
+              "volume": "16",
+              "issue": "",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/41641034/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 11.0,
+              "field": "preventive",
+              "field_label": "예방의학",
+              "abstract": "OBJECTIVE: This study aimed to map and synthesize the available evidence on screening tools for diabetic sarcopenia in patients with type 2 diabetes mellitus (T2DM), highlighting their characteristics, application contexts, and research gaps. METHODS: A comprehensive search was conducted in PubMed, Web of Science, CNKI, and Wanfang Data to identify studies published from 2010 to Deccember 2025. Studies involving adults with T2DM that evaluated screening tools for sarcopenia against established diagnostic criteria (EWGSOP, AWGS, FNIH, or IWGS) were eligible. Two reviewers independently screened studies, extracted data, and assessed methodological quality using the QUADAS-2 tool. Findings were charted and synthesized narratively, with screening tools grouped into functional assessments, anthropometric measures, biomarker-based methods, imaging approaches, and predictive models. RESULTS: A total of 24 studies with 9,469 participants were included. The most common screening tools were functional assessments, anthropometric measures, biomarkers, and muscle ultrasound. SARC-F showed moderate sensitivity (13.33%-62.63%) and high specificity (67.30%-91.67%), while SARC-CalF improved diagnostic performance. Muscle ultrasound demonstrated high accuracy, with sensitivity ranging from 71.05% to 95.00%. Predictive models with multiple variables (Age, BMI, HbA1c) showed AUC values between 0.800 and 0.932. Challenges included inconsistent cut-off values and limited validation across diverse populations. CONCLUSION: Various screening approaches for diabetic sarcopenia have been explored, but no single tool is universally validated for T2DM. Combining functional questionnaires with objective assessments like ultrasound or biomarkers may offer a more practical solution. Future research should focus on standardizing thresholds and testing tools in diverse populations.",
+              "title_ko": "제2형 당뇨병에서 당뇨병성 근감소증에 대한 선별검사 도구의 평가: 범위 검토의 증거."
+            },
+            {
+              "pmid": "41684453",
+              "title": "Effect of timely diagnosis and treatment on growth and body proportionality of children with congenital hypothyroidism.",
+              "journal": "Frontiers in endocrinology",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2026-01-28",
+              "authors": [
+                "Kochar A",
+                "Kaur H",
+                "Dayal D"
+              ],
+              "citation_count": 1,
+              "rcr": null,
+              "volume": "16",
+              "issue": "",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/41684453/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 6.9,
+              "field": "preventive",
+              "field_label": "예방의학",
+              "abstract": "BACKGROUND: Congenital hypothyroidism (CH) is a preventable cause of growth and neurodevelopmental deficits. In India, lack of universal newborn screening (NBS) delays diagnosis. This study examines how treatment timing influences growth, nutrition, and body proportionality in children with CH. METHODS: This cross-sectional study included 66 children with CH, aged under 5 years, receiving Levothyroxine(LT4) therapy for one year. Age and sex-matched 64 healthy children were also enrolled. Children with CH were stratified into early-treated (<3months) and late-treated (>3months) groups. Anthropometric measurements were converted to Z-scores using WHO standards. Body proportionality was assessed using: height-arm span difference, upper segment-to-lower segment (US: LS) ratio, Manouvrier's Indice Skélique (MIS). MIS classifies skeletal proportions as brachyskelia (short legs, long trunk; score ≤84.9), mesatyskelia (intermediate; 85.0-89.9), and macroskelia (long legs, short trunk; ≥90). RESULTS: Children with CH had significantly lower height-for-age (HAZ -2.31 ± 1.32 vs. -0.41 ± 0.96), weight-for-age (WAZ -1.98 ± 1.41 vs. -0.36 ± 1.02), and head circumference-for-age (HCZ -1.52 ± 1.28 vs. -0.21 ± 0.89) Z-scores compared with healthy controls (all p < 0.001). Stunting (HAZ < -2 SD) was present in 53% of children, while underweight (WAZ < -2 SD) was observed in 36.4%. Late-treated children had a higher prevalence of severe stunting (67.7% vs. 11.4%), severe underweight (29.0% vs. 2.9%), and microcephaly (35.5% vs. 8.6%) compared with early-treated children (p < 0.05). Disproportionate stature was observed in 71.0% of late-treated children compared with 42.9% of early-treated children (p < 0.05). US: LS ratio and Manouvrier's Index further confirmed greater skeletal disproportionality in late-treated children compared with early-treated children (p < 0.05). CONCLUSIONS: Delayed treatment in CH significantly impairs growth, increases skeletal disproportionality, and adversely affects neurocranial development. Early initiation of therapy-ideally within the first 3 months-is essential. These findings highlight the need for newborn screening in India.",
+              "title_ko": "시기적절한 진단과 치료가 선천성 갑상선 기능 저하증 아동의 성장과 신체 비례에 미치는 영향."
+            }
+          ]
         }
       ],
       "hot_topics": [
         {
           "phrase": "type diabetes",
-          "score": 82.4,
-          "paper_count": 5,
+          "score": 83.4,
+          "paper_count": 6,
           "pmids": [
             "40302946",
             "40302970",
             "40302974",
             "39978849",
-            "40655936"
+            "40655936",
+            "41641034"
           ]
         },
         {
@@ -4626,6 +4683,17 @@
           "pmids": [
             "39959334",
             "39874052"
+          ]
+        },
+        {
+          "phrase": "diabetes mellitus",
+          "score": 39.9,
+          "paper_count": 4,
+          "pmids": [
+            "40302970",
+            "40707091",
+            "40655936",
+            "41641034"
           ]
         },
         {
@@ -4674,16 +4742,6 @@
           ]
         },
         {
-          "phrase": "diabetes mellitus",
-          "score": 28.9,
-          "paper_count": 3,
-          "pmids": [
-            "40302970",
-            "40707091",
-            "40655936"
-          ]
-        },
-        {
           "phrase": "genetic testing",
           "score": 21.0,
           "paper_count": 3,
@@ -4724,7 +4782,7 @@
             "phrase": "type diabetes",
             "scores": [
               0.0,
-              81.4,
+              71.4,
               11.0,
               21.0
             ]
@@ -4780,7 +4838,7 @@
     {
       "key": "emergency",
       "label": "응급의학",
-      "paper_count": 452,
+      "paper_count": 453,
       "journals": [
         {
           "journal": "Resuscitation",
@@ -5110,7 +5168,7 @@
           "impact_factor": 1.5,
           "index_type": "미상",
           "quartile": "미상",
-          "paper_count": 54,
+          "paper_count": 55,
           "top_paper": {
             "pmid": "39642139",
             "title": "A machine learning-based risk score for prediction of mechanical ventilation in children with dengue shock syndrome: A retrospective cohort study.",
@@ -5554,7 +5612,7 @@
             "field": "emergency",
             "field_label": "응급의학",
             "abstract": "AIM: To characterise key features of young people presenting to the emergency department (ED) with a mental health complaint when comparing children (aged 7 to 12 years) and teenagers (13 years and greater). METHODS: Retrospective review of all ED mental health presentations in children aged 7-17 years presenting over a 12-month period in 2018 to a tertiary children's hospital in Victoria, Australia. Univariate analyses were carried out to examine the relationship between children and teenagers and a number of key presentation variables. Odds Ratios (ORs) and 95% Confidence Intervals (CIs) were calculated for ED management outcomes. RESULTS: There were 1691 ED mental health presentations in 2018. Of these presentations, 407 (24%) were children aged 12 years or less. The remaining 76% (1284) were teenagers. The younger aged cohort were more likely to be male (OR 2.43, CI 1.92-3.08) and have a past history of autism spectrum disorder (OR 1.92, CI 1.45-1.84). They were more likely to have a presenting complaint of acute behavioural disturbance (OR 2.03, CI 1.59-2.60), be physically restrained (OR 2.01, CI 1.18-3.37) and have sedative medication provided (OR 2.87, CI 1.63-5.04). The older aged cohort were more likely to have a past history of depression (OR 0.19, CI 0.12-0.29) and a presenting complaint of intentional self-poisoning (OR 0.33, CI 0.15-0.65). CONCLUSIONS: Children aged 12 years or less represent one-quarter of all young people presenting to the ED with a mental health concern. They experience high rates of acute behavioural disturbance and are more likely to require restrictive interventions during their presentation.",
-            "title_ko": "유아의 응급실 정신 건강 프레젠테이션: 회고 도표 검토."
+            "title_ko": ""
           },
           "papers": [
             {
@@ -5583,7 +5641,7 @@
               "field": "emergency",
               "field_label": "응급의학",
               "abstract": "AIM: To characterise key features of young people presenting to the emergency department (ED) with a mental health complaint when comparing children (aged 7 to 12 years) and teenagers (13 years and greater). METHODS: Retrospective review of all ED mental health presentations in children aged 7-17 years presenting over a 12-month period in 2018 to a tertiary children's hospital in Victoria, Australia. Univariate analyses were carried out to examine the relationship between children and teenagers and a number of key presentation variables. Odds Ratios (ORs) and 95% Confidence Intervals (CIs) were calculated for ED management outcomes. RESULTS: There were 1691 ED mental health presentations in 2018. Of these presentations, 407 (24%) were children aged 12 years or less. The remaining 76% (1284) were teenagers. The younger aged cohort were more likely to be male (OR 2.43, CI 1.92-3.08) and have a past history of autism spectrum disorder (OR 1.92, CI 1.45-1.84). They were more likely to have a presenting complaint of acute behavioural disturbance (OR 2.03, CI 1.59-2.60), be physically restrained (OR 2.01, CI 1.18-3.37) and have sedative medication provided (OR 2.87, CI 1.63-5.04). The older aged cohort were more likely to have a past history of depression (OR 0.19, CI 0.12-0.29) and a presenting complaint of intentional self-poisoning (OR 0.33, CI 0.15-0.65). CONCLUSIONS: Children aged 12 years or less represent one-quarter of all young people presenting to the ED with a mental health concern. They experience high rates of acute behavioural disturbance and are more likely to require restrictive interventions during their presentation.",
-              "title_ko": "유아의 응급실 정신 건강 프레젠테이션: 회고 도표 검토."
+              "title_ko": ""
             }
           ]
         },
@@ -5880,7 +5938,7 @@
           "impact_factor": 1.5,
           "index_type": "미상",
           "quartile": "미상",
-          "paper_count": 43,
+          "paper_count": 44,
           "top_paper": {
             "pmid": "39947973",
             "title": "Promethazine: A Review of Therapeutic Uses and Toxicity.",
@@ -7661,7 +7719,7 @@
           "impact_factor": 1.5,
           "index_type": "미상",
           "quartile": "미상",
-          "paper_count": 4,
+          "paper_count": 3,
           "top_paper": {
             "pmid": "41534959",
             "title": "External Ventricular Devices in Air Medical Retrievals.",
@@ -7771,34 +7829,6 @@
               "field": "emergency",
               "field_label": "응급의학",
               "abstract": "BACKGROUND: Duke LifeFlight, established in 1985, has provided four decades of exceptional critical care transport to patients across the Southeast. As one of the first hospital-based air medical programs in North Carolina, it has set the standard for safety, innovation, and clinical excellence. OBJECTIVE: To commemorate the 40-year anniversary, celebrated last year, of Duke LifeFlight by highlighting its historical milestones, evolving capabilities, and lasting impact on patient outcomes and prehospital care. METHODS/APPROACH: A retrospective review of archival data, program development timelines, and patient care advancements. Key performance indicators and patient transport volumes were analyzed to illustrate growth and effectiveness. RESULTS: Since inception, Duke LifeFlight has completed thousands of transports, expanded to include rotor- and fixed-wing aircraft capabilities as well as critical care ground teams, and maintained accreditation from the Commission on Accreditation of Medical Transport Systems (CAMTS). Innovations in training, telemedicine, and trauma care have further elevated its regional and national standing. CONCLUSION: Over 40 years, Duke LifeFlight has exemplified resilience, clinical excellence, and leadership in critical care transport. As it enters a new era, the program remains dedicated to advancing prehospital medicine and continuing its mission of delivering lifesaving care when seconds matter most.",
-              "title_ko": ""
-            },
-            {
-              "pmid": "39632038",
-              "title": "Maternal Cardiac Arrest for Critical Care Transport Providers: A Review.",
-              "journal": "Air medical journal",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2024-09-19",
-              "authors": [
-                "Barrows C",
-                "Lauria MJ",
-                "Abbasi F"
-              ],
-              "citation_count": 0,
-              "rcr": 0.0,
-              "volume": "43",
-              "issue": "6",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/39632038/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": false,
-              "hot_score": 0.0,
-              "field": "emergency",
-              "field_label": "응급의학",
-              "abstract": "Cardiac arrest in pregnancy is a rare but serious complication, occurring at a rate of 1 in every 9,000 patients hospitalized for delivery. This review article provides a comprehensive overview of maternal cardiac arrest for critical care transport providers. This article discusses the pertinent physiologic changes in pregnancy, common contributing factors, and special circumstances that can develop during a maternal cardiac arrest. We also provide current approaches to managing this population and special considerations for transport providers.",
               "title_ko": ""
             }
           ]
@@ -9508,7 +9538,7 @@
           "impact_factor": 1.5,
           "index_type": "미상",
           "quartile": "미상",
-          "paper_count": 15,
+          "paper_count": 13,
           "top_paper": {
             "pmid": "40210340",
             "title": "Evaluation of Older Adults in the Emergency Department Following a Fall.",
@@ -9787,11 +9817,10 @@
         {
           "phrase": "cardiac arrest",
           "score": 62.5,
-          "paper_count": 4,
+          "paper_count": 3,
           "pmids": [
             "39637269",
             "39699331",
-            "39632038",
             "39583157"
           ]
         },
@@ -9894,7 +9923,7 @@
               0.0,
               91.5,
               67.9,
-              50.0
+              60.0
             ]
           },
           {
@@ -9921,6 +9950,15 @@
               0.0,
               36.4,
               23.5,
+              40.0
+            ]
+          },
+          {
+            "phrase": "critically ill",
+            "scores": [
+              0.0,
+              35.0,
+              6.8,
               30.0
             ]
           },
@@ -9931,15 +9969,6 @@
               35.0,
               24.3,
               10.0
-            ]
-          },
-          {
-            "phrase": "first aid",
-            "scores": [
-              0.0,
-              36.4,
-              26.8,
-              0.0
             ]
           }
         ]
