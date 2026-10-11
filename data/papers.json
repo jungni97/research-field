@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-10T20:19:49.662506Z",
+  "generated_at": "2026-10-11T20:19:56.479112Z",
   "window_days": 1095,
   "fields": [
     {
       "key": "preventive",
       "label": "예방의학",
-      "paper_count": 440,
+      "paper_count": 439,
       "journals": [
         {
           "journal": "The Orthopedic clinics of North America",
@@ -462,7 +462,7 @@
           "impact_factor": 1.5,
           "index_type": "미상",
           "quartile": "미상",
-          "paper_count": 82,
+          "paper_count": 81,
           "top_paper": {
             "pmid": "39949340",
             "title": "Analysis of factors influencing HPV vaccination intention among Chinese college students: structural equation modeling based on health belief theory.",
@@ -891,6 +891,99 @@
               "field_label": "예방의학",
               "abstract": "OBJECTIVE: To investigate the influencing factors associated with the risk of latent tuberculosis infection (LTBI) among people living with HIV/AIDS (PLWHA). METHODS: A cross-sectional study was conducted from July 2023 to July 2024, recruiting PLWHA from Wuxi City and Yangzhou City, Jiangsu Province, China. Data were collected through on-site questionnaire surveys and review of patient disease management records. QuantiFERON-TB Gold In-Tube (QFT) was used to detect LTBI. Multivariate logistic regression analysis was performed to identify factors associated with LTBI among PLWHA. Restricted cubic splines (RCS) models were employed to analyze the dose-response relationships between CD4+ cell count, CD8+ cell count, and CD4/CD8 ratio with LTBI risk. RESULTS: A total of 1184 PLWHA were enrolled, with 8.4% having concomitant LTBI. Multivariate logistic regression revealed that age group 45-<60 years (OR = 2.158, 95% CI: 1.339-3.478, P = 0.002) and CD4/CD8 ratio ≥1 (OR = 3.562, 95% CI: 1.627-7.800, P = 0.001) were independent factors associated with LTBI. RCS model fitting results demonstrated a gradually increasing nonlinear dose-response relationship between continuous changes in CD4/CD8 ratio and LTBI. The dose-response relationship between CD4+ cell count and LTBI risk exhibited an \"initial increase followed by a decrease trend. The dose-response relationship between CD8+ cell count and LTBI risk showed a gradual declining trend. CONCLUSION: This study identified that middle-aged PLWHA (45-<60 years) might represent a subgroup with relatively higher LTBI prevalence, indicating that screening in this age group may hold greater potential value. Additionally, the CD4/CD8 ratio, in conjunction with QFT findings, could serve as a supplementary reference for LTBI risk assessment. These observations support a more tailored approach to LTBI screening in PLWHA, though their implementation should be validated in prospective studies.",
               "title_ko": "HIV/AIDS 환자에서 QuantiFERON-TB Gold In-Tube를 이용한 잠복결핵감염 선별검사에 영향을 미치는 요인 분석."
+            }
+          ]
+        },
+        {
+          "journal": "The Pediatric infectious disease journal",
+          "impact_factor": 1.5,
+          "index_type": "미상",
+          "quartile": "미상",
+          "paper_count": 2,
+          "top_paper": {
+            "pmid": "39774938",
+            "title": "Enhanced D614G and Omicron Variants Antibody Persistence in Infants at 2 Months of Age Following Maternal mRNA Booster Vaccination During Pregnancy or Postpartum.",
+            "journal": "The Pediatric infectious disease journal",
+            "impact_factor": 1.5,
+            "index_type": "미상",
+            "quartile": "미상",
+            "pubdate": "2024-08-13",
+            "authors": [
+              "Munoz FM",
+              "Beigi R",
+              "Posavad CM"
+            ],
+            "citation_count": 4,
+            "rcr": 0.7164369139062817,
+            "volume": "43",
+            "issue": "11",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/39774938/",
+            "altmetric_score": 0,
+            "altmetric_news": 0,
+            "altmetric_social": 0,
+            "is_current_issue": true,
+            "hot_score": 26.0,
+            "field": "preventive",
+            "field_label": "예방의학",
+            "abstract": "BACKGROUND: Following maternal COVID-19 vaccination, the persistence of antibodies in sera and breast milk for mothers and infants is not well characterized. We sought to describe the persistence of antibodies through 2 months after delivery in maternal and infant serum and breast milk following maternal COVID-19 mRNA vaccination and to examine differences by receipt of booster dose during pregnancy or postpartum. METHODS: This is a prospective cohort study with enrollment from July 2021 to January 2022 at 9 US academic sites. Pregnant or postpartum participants and their infants were enrolled after COVID-19 mRNA monovalent vaccination during pregnancy (primary 2-dose series) with booster (third dose) vaccination during pregnancy or within 2 months post-partum. SARS-CoV-2-binding and functional antibody responses at delivery and 2 months after delivery in mothers and infants were measured by spike and receptor-binding domain immunoglobulin (Ig) G, pseudovirus and live neutralizing antibody (nAb) titers to ancestral and Omicron BA.1 and BA.5 strains. Breast milk spike and receptor-binding domain IgG and IgA titers were also measured. RESULTS: A total of 237 maternal/infant dyads were included (110 primary series during pregnancy, 99 pregnancy booster and 28 postpartum booster). A pregnancy booster resulted in 2.2-4.7-fold higher IgG and nAb at delivery and 2 months for both mothers and infants compared to the primary series alone (P < 0.001 for all comparisons). While infant IgG and nAb titers decreased by 2 months of age, the proportion of infants with detectable nAb at 2 months was greater in infants of mothers boosted during pregnancy compared with primary series for all variants (D614G: 99% vs. 56%; BA.1: 56% vs. 4% and BA.5: 57% vs. 9%; P < 0.001 for all comparisons). Breast milk spike IgA and IgG were present in 64%-100% and 100% of participants, respectively, and those boosted during pregnancy or postpartum had 3.1-4.6-fold higher levels of breast milk antibodies at 2 months compared to primary series during pregnancy (P < 0.001). CONCLUSIONS: mRNA COVID-19 monovalent booster vaccination during pregnancy results in significantly higher maternal and infant serum-binding IgG and nAb titers compared to a primary 2-dose series, including against Omicron variants, through 2 months of age. Breast milk antibodies following maternal vaccination during pregnancy or postpartum may provide additional protection during early infancy.",
+            "title_ko": "임신 또는 산후 중 모성 mRNA 부스터 백신 접종 후 2개월령의 유아에서 향상된 D614G 및 오미크론 변이체 항체 지속성."
+          },
+          "papers": [
+            {
+              "pmid": "39774938",
+              "title": "Enhanced D614G and Omicron Variants Antibody Persistence in Infants at 2 Months of Age Following Maternal mRNA Booster Vaccination During Pregnancy or Postpartum.",
+              "journal": "The Pediatric infectious disease journal",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2024-08-13",
+              "authors": [
+                "Munoz FM",
+                "Beigi R",
+                "Posavad CM"
+              ],
+              "citation_count": 4,
+              "rcr": 0.7164369139062817,
+              "volume": "43",
+              "issue": "11",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/39774938/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": true,
+              "hot_score": 26.0,
+              "field": "preventive",
+              "field_label": "예방의학",
+              "abstract": "BACKGROUND: Following maternal COVID-19 vaccination, the persistence of antibodies in sera and breast milk for mothers and infants is not well characterized. We sought to describe the persistence of antibodies through 2 months after delivery in maternal and infant serum and breast milk following maternal COVID-19 mRNA vaccination and to examine differences by receipt of booster dose during pregnancy or postpartum. METHODS: This is a prospective cohort study with enrollment from July 2021 to January 2022 at 9 US academic sites. Pregnant or postpartum participants and their infants were enrolled after COVID-19 mRNA monovalent vaccination during pregnancy (primary 2-dose series) with booster (third dose) vaccination during pregnancy or within 2 months post-partum. SARS-CoV-2-binding and functional antibody responses at delivery and 2 months after delivery in mothers and infants were measured by spike and receptor-binding domain immunoglobulin (Ig) G, pseudovirus and live neutralizing antibody (nAb) titers to ancestral and Omicron BA.1 and BA.5 strains. Breast milk spike and receptor-binding domain IgG and IgA titers were also measured. RESULTS: A total of 237 maternal/infant dyads were included (110 primary series during pregnancy, 99 pregnancy booster and 28 postpartum booster). A pregnancy booster resulted in 2.2-4.7-fold higher IgG and nAb at delivery and 2 months for both mothers and infants compared to the primary series alone (P < 0.001 for all comparisons). While infant IgG and nAb titers decreased by 2 months of age, the proportion of infants with detectable nAb at 2 months was greater in infants of mothers boosted during pregnancy compared with primary series for all variants (D614G: 99% vs. 56%; BA.1: 56% vs. 4% and BA.5: 57% vs. 9%; P < 0.001 for all comparisons). Breast milk spike IgA and IgG were present in 64%-100% and 100% of participants, respectively, and those boosted during pregnancy or postpartum had 3.1-4.6-fold higher levels of breast milk antibodies at 2 months compared to primary series during pregnancy (P < 0.001). CONCLUSIONS: mRNA COVID-19 monovalent booster vaccination during pregnancy results in significantly higher maternal and infant serum-binding IgG and nAb titers compared to a primary 2-dose series, including against Omicron variants, through 2 months of age. Breast milk antibodies following maternal vaccination during pregnancy or postpartum may provide additional protection during early infancy.",
+              "title_ko": "임신 또는 산후 중 모성 mRNA 부스터 백신 접종 후 2개월령의 유아에서 향상된 D614G 및 오미크론 변이체 항체 지속성."
+            },
+            {
+              "pmid": "40516573",
+              "title": "Brain Abnormalities, Neurodevelopmental Milestones, and Long-term Follow-up in Newborns With Congenital Cytomegalovirus Identified Through a Neonatal Screening Program.",
+              "journal": "The Pediatric infectious disease journal",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2024-08-27",
+              "authors": [
+                "Vila-Bedmar S",
+                "Martinez de Aragon Calvo A",
+                "Liebana-Rojas C"
+              ],
+              "citation_count": 0,
+              "rcr": 0.0,
+              "volume": "43",
+              "issue": "12",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/40516573/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": true,
+              "hot_score": 10.0,
+              "field": "preventive",
+              "field_label": "예방의학",
+              "abstract": "OBJECTIVE: To investigate the spectrum and frequency of abnormalities on brain magnetic resonance imaging (MRI) in a cohort of newborns diagnosed with congenital cytomegalovirus (cCMV) through a screening program and evaluate the risk of sensorineural hearing loss, neurodevelopmental disorders, chorioretinitis and epilepsy. METHODS: A prospective screening for cCMV by CMV viral load in saliva in newborns was performed in 2017-2018 in a tertiary center in Madrid. Neonatal brain MRI was performed without sedation in all newborns with cCMV and evaluated by 2 experienced neuroradiologists. The degree of agreement between the 2 radiologists was analyzed using Cohen's Kappa coefficient. All infected children were followed up for 6 years and evaluated every 6 months for neurodevelopment, behavioral issues and sensorineural hearing loss by auditory brainstem response. RESULTS: Of 3190 newborns evaluated, 15 had cCMV (prevalence 0.47%, 95% CI: 0.29-0.77%) and were included in the study. Cranial ultrasound (US) and neonatal brain MRI were performed. Brain abnormalities were found in 4 US and 10 MRI, being white matter abnormalities (WMAs) the most common finding. Two children were diagnosed with psychomotor delay, and the other 2 with attention-deficit hyperactivity disorder, and all of them presented WMA in the neonatal brain MRI. Children with a normal MRI (5/15) developed normally without long-term sequelae in the follow-up. CONCLUSIONS: Children with isolated WMA without other clinical symptoms showed overall good outcomes, although more studies with a larger sample and a control group should be performed. Interobserver agreement about the presence of abnormalities in MRI was good.",
+              "title_ko": "신생아 선별 검진 프로그램을 통해 확인된 선천성 거대세포바이러스가 있는 신생아의 뇌 이상, 신경 발달 이정표 및 장기 추적 검사."
             }
           ]
         },
@@ -2980,7 +3073,7 @@
           "impact_factor": 1.5,
           "index_type": "미상",
           "quartile": "미상",
-          "paper_count": 20,
+          "paper_count": 17,
           "top_paper": {
             "pmid": "39981298",
             "title": "Staphylococcus aureus-specific TIGIT(+) Treg are present in the blood of healthy subjects - a hurdle for vaccination?",
@@ -4530,141 +4623,19 @@
               "title_ko": "림프부종 자가 치료 환자 학교가 하지 림프부종 환자의 기능, 삶의 질, 림프부종 용적 및 신체 가치에 미치는 영향에 대한 조사: 준실험적 연구."
             }
           ]
-        },
-        {
-          "journal": "Frontiers in endocrinology",
-          "impact_factor": 1.5,
-          "index_type": "미상",
-          "quartile": "미상",
-          "paper_count": 3,
-          "top_paper": {
-            "pmid": "39877848",
-            "title": "Shifting paradigms in primary aldosteronism: reconsideration of screening strategy via integrating pathophysiological insights.",
-            "journal": "Frontiers in endocrinology",
-            "impact_factor": 1.5,
-            "index_type": "미상",
-            "quartile": "미상",
-            "pubdate": "2025-01-14",
-            "authors": [
-              "Kitamoto T",
-              "Ruike Y",
-              "Koide H"
-            ],
-            "citation_count": 4,
-            "rcr": null,
-            "volume": "15",
-            "issue": "",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/39877848/",
-            "altmetric_score": 0,
-            "altmetric_news": 0,
-            "altmetric_social": 0,
-            "is_current_issue": false,
-            "hot_score": 16.0,
-            "field": "preventive",
-            "field_label": "예방의학",
-            "abstract": "Several decades have passed since the description of the first patient with primary aldosteronism (PA). PA was initially classified in two main forms: aldosterone-producing adenoma (APA) and idiopathic hyperaldosteronism (IHA). However, the pathogenesis of PA has now been shown to be far more complex. For this reason, the traditional classification needs to be updated. Given the recent advancements in our understanding of PA pathogenesis, we should reevaluate how frequent PA cases are, beginning with the reconstruction of the screening strategy. Recent studies consistently indicated that PA has been identified in 22% of patients with resistant hypertension and 11% even in normotensives. The frequency is influenced by the screening strategy and should be based on understanding the pathogenesis of PA. Progress has been made to promote our understanding of the pathogenesis of PA by the findings of aldosterone driver mutations, which have been found in normotensives and hypertensives. In addition, much clinical evidence has been accumulated to indicate that there is a spectrum in PA pathogenesis. In this review, we will summarize the recent progress in aldosterone measurement methods based on LC-MS/MS and the current screening strategy. Then, we will discuss the progress of our understanding of PA, focusing on aldosterone driver mutations and the natural history of PA. Finally, we will discuss the optimal strategy to improve screening rate and case detection.",
-            "title_ko": "일차 알도스테론주의의 패러다임 전환: 병태생리학적 통찰력 통합을 통한 스크리닝 전략의 재검토."
-          },
-          "papers": [
-            {
-              "pmid": "39877848",
-              "title": "Shifting paradigms in primary aldosteronism: reconsideration of screening strategy via integrating pathophysiological insights.",
-              "journal": "Frontiers in endocrinology",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2025-01-14",
-              "authors": [
-                "Kitamoto T",
-                "Ruike Y",
-                "Koide H"
-              ],
-              "citation_count": 4,
-              "rcr": null,
-              "volume": "15",
-              "issue": "",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/39877848/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": false,
-              "hot_score": 16.0,
-              "field": "preventive",
-              "field_label": "예방의학",
-              "abstract": "Several decades have passed since the description of the first patient with primary aldosteronism (PA). PA was initially classified in two main forms: aldosterone-producing adenoma (APA) and idiopathic hyperaldosteronism (IHA). However, the pathogenesis of PA has now been shown to be far more complex. For this reason, the traditional classification needs to be updated. Given the recent advancements in our understanding of PA pathogenesis, we should reevaluate how frequent PA cases are, beginning with the reconstruction of the screening strategy. Recent studies consistently indicated that PA has been identified in 22% of patients with resistant hypertension and 11% even in normotensives. The frequency is influenced by the screening strategy and should be based on understanding the pathogenesis of PA. Progress has been made to promote our understanding of the pathogenesis of PA by the findings of aldosterone driver mutations, which have been found in normotensives and hypertensives. In addition, much clinical evidence has been accumulated to indicate that there is a spectrum in PA pathogenesis. In this review, we will summarize the recent progress in aldosterone measurement methods based on LC-MS/MS and the current screening strategy. Then, we will discuss the progress of our understanding of PA, focusing on aldosterone driver mutations and the natural history of PA. Finally, we will discuss the optimal strategy to improve screening rate and case detection.",
-              "title_ko": "일차 알도스테론주의의 패러다임 전환: 병태생리학적 통찰력 통합을 통한 스크리닝 전략의 재검토."
-            },
-            {
-              "pmid": "41641034",
-              "title": "Assessment of screening tools for diabetic sarcopenia in type 2 diabetes mellitus: evidence from a scoping review.",
-              "journal": "Frontiers in endocrinology",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2026-01-20",
-              "authors": [
-                "Yin J",
-                "Zhang X",
-                "Cai J"
-              ],
-              "citation_count": 2,
-              "rcr": null,
-              "volume": "16",
-              "issue": "",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/41641034/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": false,
-              "hot_score": 11.0,
-              "field": "preventive",
-              "field_label": "예방의학",
-              "abstract": "OBJECTIVE: This study aimed to map and synthesize the available evidence on screening tools for diabetic sarcopenia in patients with type 2 diabetes mellitus (T2DM), highlighting their characteristics, application contexts, and research gaps. METHODS: A comprehensive search was conducted in PubMed, Web of Science, CNKI, and Wanfang Data to identify studies published from 2010 to Deccember 2025. Studies involving adults with T2DM that evaluated screening tools for sarcopenia against established diagnostic criteria (EWGSOP, AWGS, FNIH, or IWGS) were eligible. Two reviewers independently screened studies, extracted data, and assessed methodological quality using the QUADAS-2 tool. Findings were charted and synthesized narratively, with screening tools grouped into functional assessments, anthropometric measures, biomarker-based methods, imaging approaches, and predictive models. RESULTS: A total of 24 studies with 9,469 participants were included. The most common screening tools were functional assessments, anthropometric measures, biomarkers, and muscle ultrasound. SARC-F showed moderate sensitivity (13.33%-62.63%) and high specificity (67.30%-91.67%), while SARC-CalF improved diagnostic performance. Muscle ultrasound demonstrated high accuracy, with sensitivity ranging from 71.05% to 95.00%. Predictive models with multiple variables (Age, BMI, HbA1c) showed AUC values between 0.800 and 0.932. Challenges included inconsistent cut-off values and limited validation across diverse populations. CONCLUSION: Various screening approaches for diabetic sarcopenia have been explored, but no single tool is universally validated for T2DM. Combining functional questionnaires with objective assessments like ultrasound or biomarkers may offer a more practical solution. Future research should focus on standardizing thresholds and testing tools in diverse populations.",
-              "title_ko": "제2형 당뇨병에서 당뇨병성 근감소증에 대한 선별검사 도구의 평가: 범위 검토의 증거."
-            },
-            {
-              "pmid": "41684453",
-              "title": "Effect of timely diagnosis and treatment on growth and body proportionality of children with congenital hypothyroidism.",
-              "journal": "Frontiers in endocrinology",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2026-01-28",
-              "authors": [
-                "Kochar A",
-                "Kaur H",
-                "Dayal D"
-              ],
-              "citation_count": 1,
-              "rcr": null,
-              "volume": "16",
-              "issue": "",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/41684453/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": false,
-              "hot_score": 6.9,
-              "field": "preventive",
-              "field_label": "예방의학",
-              "abstract": "BACKGROUND: Congenital hypothyroidism (CH) is a preventable cause of growth and neurodevelopmental deficits. In India, lack of universal newborn screening (NBS) delays diagnosis. This study examines how treatment timing influences growth, nutrition, and body proportionality in children with CH. METHODS: This cross-sectional study included 66 children with CH, aged under 5 years, receiving Levothyroxine(LT4) therapy for one year. Age and sex-matched 64 healthy children were also enrolled. Children with CH were stratified into early-treated (<3months) and late-treated (>3months) groups. Anthropometric measurements were converted to Z-scores using WHO standards. Body proportionality was assessed using: height-arm span difference, upper segment-to-lower segment (US: LS) ratio, Manouvrier's Indice Skélique (MIS). MIS classifies skeletal proportions as brachyskelia (short legs, long trunk; score ≤84.9), mesatyskelia (intermediate; 85.0-89.9), and macroskelia (long legs, short trunk; ≥90). RESULTS: Children with CH had significantly lower height-for-age (HAZ -2.31 ± 1.32 vs. -0.41 ± 0.96), weight-for-age (WAZ -1.98 ± 1.41 vs. -0.36 ± 1.02), and head circumference-for-age (HCZ -1.52 ± 1.28 vs. -0.21 ± 0.89) Z-scores compared with healthy controls (all p < 0.001). Stunting (HAZ < -2 SD) was present in 53% of children, while underweight (WAZ < -2 SD) was observed in 36.4%. Late-treated children had a higher prevalence of severe stunting (67.7% vs. 11.4%), severe underweight (29.0% vs. 2.9%), and microcephaly (35.5% vs. 8.6%) compared with early-treated children (p < 0.05). Disproportionate stature was observed in 71.0% of late-treated children compared with 42.9% of early-treated children (p < 0.05). US: LS ratio and Manouvrier's Index further confirmed greater skeletal disproportionality in late-treated children compared with early-treated children (p < 0.05). CONCLUSIONS: Delayed treatment in CH significantly impairs growth, increases skeletal disproportionality, and adversely affects neurocranial development. Early initiation of therapy-ideally within the first 3 months-is essential. These findings highlight the need for newborn screening in India.",
-              "title_ko": "시기적절한 진단과 치료가 선천성 갑상선 기능 저하증 아동의 성장과 신체 비례에 미치는 영향."
-            }
-          ]
         }
       ],
       "hot_topics": [
         {
           "phrase": "type diabetes",
-          "score": 83.4,
-          "paper_count": 6,
+          "score": 72.4,
+          "paper_count": 5,
           "pmids": [
             "40302946",
             "40302970",
             "40302974",
             "39978849",
-            "40655936",
-            "41641034"
+            "40655936"
           ]
         },
         {
@@ -4683,17 +4654,6 @@
           "pmids": [
             "39959334",
             "39874052"
-          ]
-        },
-        {
-          "phrase": "diabetes mellitus",
-          "score": 39.9,
-          "paper_count": 4,
-          "pmids": [
-            "40302970",
-            "40707091",
-            "40655936",
-            "41641034"
           ]
         },
         {
@@ -4739,6 +4699,16 @@
           "pmids": [
             "40469994",
             "39960711"
+          ]
+        },
+        {
+          "phrase": "diabetes mellitus",
+          "score": 28.9,
+          "paper_count": 3,
+          "pmids": [
+            "40302970",
+            "40707091",
+            "40655936"
           ]
         },
         {
@@ -4788,6 +4758,24 @@
             ]
           },
           {
+            "phrase": "breast cancer",
+            "scores": [
+              16.9,
+              0.0,
+              16.9,
+              40.0
+            ]
+          },
+          {
+            "phrase": "quality life",
+            "scores": [
+              0.0,
+              40.7,
+              10.0,
+              20.0
+            ]
+          },
+          {
             "phrase": "cancer screening",
             "scores": [
               0.0,
@@ -4797,30 +4785,12 @@
             ]
           },
           {
-            "phrase": "breast cancer",
-            "scores": [
-              16.9,
-              0.0,
-              16.9,
-              30.0
-            ]
-          },
-          {
             "phrase": "physical activity",
             "scores": [
               0.0,
               13.8,
               0.0,
               50.0
-            ]
-          },
-          {
-            "phrase": "quality life",
-            "scores": [
-              0.0,
-              40.7,
-              10.0,
-              10.0
             ]
           },
           {
@@ -5612,7 +5582,7 @@
             "field": "emergency",
             "field_label": "응급의학",
             "abstract": "AIM: To characterise key features of young people presenting to the emergency department (ED) with a mental health complaint when comparing children (aged 7 to 12 years) and teenagers (13 years and greater). METHODS: Retrospective review of all ED mental health presentations in children aged 7-17 years presenting over a 12-month period in 2018 to a tertiary children's hospital in Victoria, Australia. Univariate analyses were carried out to examine the relationship between children and teenagers and a number of key presentation variables. Odds Ratios (ORs) and 95% Confidence Intervals (CIs) were calculated for ED management outcomes. RESULTS: There were 1691 ED mental health presentations in 2018. Of these presentations, 407 (24%) were children aged 12 years or less. The remaining 76% (1284) were teenagers. The younger aged cohort were more likely to be male (OR 2.43, CI 1.92-3.08) and have a past history of autism spectrum disorder (OR 1.92, CI 1.45-1.84). They were more likely to have a presenting complaint of acute behavioural disturbance (OR 2.03, CI 1.59-2.60), be physically restrained (OR 2.01, CI 1.18-3.37) and have sedative medication provided (OR 2.87, CI 1.63-5.04). The older aged cohort were more likely to have a past history of depression (OR 0.19, CI 0.12-0.29) and a presenting complaint of intentional self-poisoning (OR 0.33, CI 0.15-0.65). CONCLUSIONS: Children aged 12 years or less represent one-quarter of all young people presenting to the ED with a mental health concern. They experience high rates of acute behavioural disturbance and are more likely to require restrictive interventions during their presentation.",
-            "title_ko": ""
+            "title_ko": "유아의 응급실 정신 건강 프레젠테이션: 회고 도표 검토."
           },
           "papers": [
             {
@@ -5641,7 +5611,7 @@
               "field": "emergency",
               "field_label": "응급의학",
               "abstract": "AIM: To characterise key features of young people presenting to the emergency department (ED) with a mental health complaint when comparing children (aged 7 to 12 years) and teenagers (13 years and greater). METHODS: Retrospective review of all ED mental health presentations in children aged 7-17 years presenting over a 12-month period in 2018 to a tertiary children's hospital in Victoria, Australia. Univariate analyses were carried out to examine the relationship between children and teenagers and a number of key presentation variables. Odds Ratios (ORs) and 95% Confidence Intervals (CIs) were calculated for ED management outcomes. RESULTS: There were 1691 ED mental health presentations in 2018. Of these presentations, 407 (24%) were children aged 12 years or less. The remaining 76% (1284) were teenagers. The younger aged cohort were more likely to be male (OR 2.43, CI 1.92-3.08) and have a past history of autism spectrum disorder (OR 1.92, CI 1.45-1.84). They were more likely to have a presenting complaint of acute behavioural disturbance (OR 2.03, CI 1.59-2.60), be physically restrained (OR 2.01, CI 1.18-3.37) and have sedative medication provided (OR 2.87, CI 1.63-5.04). The older aged cohort were more likely to have a past history of depression (OR 0.19, CI 0.12-0.29) and a presenting complaint of intentional self-poisoning (OR 0.33, CI 0.15-0.65). CONCLUSIONS: Children aged 12 years or less represent one-quarter of all young people presenting to the ED with a mental health concern. They experience high rates of acute behavioural disturbance and are more likely to require restrictive interventions during their presentation.",
-              "title_ko": ""
+              "title_ko": "유아의 응급실 정신 건강 프레젠테이션: 회고 도표 검토."
             }
           ]
         },
@@ -5938,7 +5908,7 @@
           "impact_factor": 1.5,
           "index_type": "미상",
           "quartile": "미상",
-          "paper_count": 44,
+          "paper_count": 43,
           "top_paper": {
             "pmid": "39947973",
             "title": "Promethazine: A Review of Therapeutic Uses and Toxicity.",
@@ -7719,25 +7689,25 @@
           "impact_factor": 1.5,
           "index_type": "미상",
           "quartile": "미상",
-          "paper_count": 3,
+          "paper_count": 4,
           "top_paper": {
-            "pmid": "41534959",
-            "title": "External Ventricular Devices in Air Medical Retrievals.",
+            "pmid": "41534962",
+            "title": "Prospective Development and Validation of a Weight Prediction Tool for Patients With Obesity Undergoing Critical Care Transport Using Width and Arm Circumference.",
             "journal": "Air medical journal",
             "impact_factor": 1.5,
             "index_type": "미상",
             "quartile": "미상",
-            "pubdate": "2025-09-24",
+            "pubdate": "2025-10-12",
             "authors": [
-              "Wall A",
-              "Gibbs C",
-              "Quick L"
+              "Williams K",
+              "Peddle M",
+              "Smith J"
             ],
             "citation_count": 1,
             "rcr": null,
             "volume": "45",
             "issue": "1",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/41534959/",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/41534962/",
             "altmetric_score": 0,
             "altmetric_news": 0,
             "altmetric_social": 0,
@@ -7745,10 +7715,38 @@
             "hot_score": 16.8,
             "field": "emergency",
             "field_label": "응급의학",
-            "abstract": "OBJECTIVE: Describe the clinical characteristics of patients with an external ventricular drain (EVD) air medically retrieved. METHODS: A retrospective chart audit of adults with an EVD air medically retrieved between January 2018 and June 2022 was conducted using the Retrieval Services Queensland database. Patients with a diagnosis of subarachnoid hemorrhage were identified, and then a manual review was conducted to identify EVD cases. RESULTS: A total of 60 patients met the review criteria. However, 34 patients did not have an EVD in situ, 1 was not transported, and 2 charts were non-retrievable, leaving 21 patients in this review. Of the patients, 76% were mechanically ventilated and 10% had no EVD drainage (suspected to be blocked). Blood pressure fluctuations occurred in 67% of the cases (79% during flight). Separate analgesia/anesthetic infusions were administered in 75% of the patients, with 83% requiring rate increases and 100% requiring boluses for increases in blood pressure. Hypertension in 3 patients occurred post-EVD being turned off and resolved when EVD was turned back on, and bolus sedation/analgesia was provided. CONCLUSION: The air medical transport of patients with an EVD is a low-frequency transfer. Therefore, the use of clinical practice guidelines will enable best practice assessment and management.",
+            "abstract": "OBJECTIVE: Obesity rates are rising, affecting health care systems and causing potential delays in critical care transfers. Accurate weights are important for critical care transport to ensure the appropriate transport asset is selected and dispatched in a timely fashion. Inaccurate weight measurements can lead to various unnecessary delays, including not sending appropriate nonbariatric assets, delays due to secondary dispatch, and delays due to systemic overuse of these bariatric capable assets. The primary objective of this study was to develop and validate a weight prediction tool for patients with obesity undergoing critical care transport. The secondary objective was to compare the performance of this model to the Crandall weight prediction tool. METHODS: A prospective observational study was conducted, collecting data from patients transported by Ornge air ambulance between May 2022 and April 2023. Adults weighing >100 kg undergoing interfacility transfers were included. Four predictive models, using height, arm circumference, width, and girth measurements, were evaluated against actual patient weights and analyzed separately for males and females. Model performance was evaluated by mean squared error, mean absolute error (MAE), mean absolute percentage error, R2, and F-statistic. RESULTS: The Ornge model using arm circumference and width demonstrated the highest accuracy and stability in predicting patient weight for both males and females. This model exhibited the lowest MAE of 12.2 kg, was within a margin of 20% error 91.2% of the time, and had an overall false negative error of 6.9%, outperforming all other models. CONCLUSION: The Ornge arm circumference and width-based model offers a reliable method for predicting patient weight in air ambulance settings. Implementing this tool could improve the efficiency and safety of patient transfers by reducing delays caused by inaccurate weight estimations, thereby expediting access to critical care. Further research is recommended to validate these findings in larger and more diverse populations.",
             "title_ko": ""
           },
           "papers": [
+            {
+              "pmid": "41534962",
+              "title": "Prospective Development and Validation of a Weight Prediction Tool for Patients With Obesity Undergoing Critical Care Transport Using Width and Arm Circumference.",
+              "journal": "Air medical journal",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2025-10-12",
+              "authors": [
+                "Williams K",
+                "Peddle M",
+                "Smith J"
+              ],
+              "citation_count": 1,
+              "rcr": null,
+              "volume": "45",
+              "issue": "1",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/41534962/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": true,
+              "hot_score": 16.8,
+              "field": "emergency",
+              "field_label": "응급의학",
+              "abstract": "OBJECTIVE: Obesity rates are rising, affecting health care systems and causing potential delays in critical care transfers. Accurate weights are important for critical care transport to ensure the appropriate transport asset is selected and dispatched in a timely fashion. Inaccurate weight measurements can lead to various unnecessary delays, including not sending appropriate nonbariatric assets, delays due to secondary dispatch, and delays due to systemic overuse of these bariatric capable assets. The primary objective of this study was to develop and validate a weight prediction tool for patients with obesity undergoing critical care transport. The secondary objective was to compare the performance of this model to the Crandall weight prediction tool. METHODS: A prospective observational study was conducted, collecting data from patients transported by Ornge air ambulance between May 2022 and April 2023. Adults weighing >100 kg undergoing interfacility transfers were included. Four predictive models, using height, arm circumference, width, and girth measurements, were evaluated against actual patient weights and analyzed separately for males and females. Model performance was evaluated by mean squared error, mean absolute error (MAE), mean absolute percentage error, R2, and F-statistic. RESULTS: The Ornge model using arm circumference and width demonstrated the highest accuracy and stability in predicting patient weight for both males and females. This model exhibited the lowest MAE of 12.2 kg, was within a margin of 20% error 91.2% of the time, and had an overall false negative error of 6.9%, outperforming all other models. CONCLUSION: The Ornge arm circumference and width-based model offers a reliable method for predicting patient weight in air ambulance settings. Implementing this tool could improve the efficiency and safety of patient transfers by reducing delays caused by inaccurate weight estimations, thereby expediting access to critical care. Further research is recommended to validate these findings in larger and more diverse populations.",
+              "title_ko": ""
+            },
             {
               "pmid": "41534959",
               "title": "External Ventricular Devices in Air Medical Retrievals.",
@@ -9538,7 +9536,7 @@
           "impact_factor": 1.5,
           "index_type": "미상",
           "quartile": "미상",
-          "paper_count": 13,
+          "paper_count": 10,
           "top_paper": {
             "pmid": "40210340",
             "title": "Evaluation of Older Adults in the Emergency Department Following a Fall.",
@@ -9595,22 +9593,23 @@
               "title_ko": ""
             },
             {
-              "pmid": "42823013",
-              "title": "When No ICU Bed is Available: Critical Care Services in the Emergency Department.",
+              "pmid": "42823016",
+              "title": "The Non-invasive Hemodynamic Profile: A Modern Approach to the Evaluation and Management of Acute Decompensated Heart Failure-Related Cardiogenic Shock with Point-of-Care Ultrasound.",
               "journal": "Emergency medicine clinics of North America",
               "impact_factor": 1.5,
               "index_type": "미상",
               "quartile": "미상",
-              "pubdate": "2026-07-29",
+              "pubdate": "2026-05-15",
               "authors": [
-                "Gupta PB",
-                "Wilson JG"
+                "Choudhary MJ",
+                "Kramer JA",
+                "Greenwood JC"
               ],
               "citation_count": 0,
               "rcr": null,
               "volume": "44",
               "issue": "4",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/42823013/",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/42823016/",
               "altmetric_score": 0,
               "altmetric_news": 0,
               "altmetric_social": 0,
@@ -9618,7 +9617,61 @@
               "hot_score": 10.0,
               "field": "emergency",
               "field_label": "응급의학",
-              "abstract": "This review article, focused on the care of the critically ill adult when no intensive care unit (ICU) bed is available, describes current models addressing critical care services in the emergency department (ED), reviews available evidence on the impact of different approaches, and explores best practices in implementation of ED-ICU models. Based on these findings, the article explores potential benefits of leveraging the ED-ICU concept in the regional organization of critical care services.",
+              "abstract": "Emergency department presentations of acute decompensated heart failure-related cardiogenic shock (ADHF-CS) are increasing and are associated with high short-term mortality. Early diagnosis is challenging due to variable clinical presentation, compensatory physiology, and limited availability of invasive hemodynamic monitoring. Point-of-care ultrasound enables quick, noninvasive assessment of cardiac output, right atrial pressure, and systemic vascular resistance. This review outlines a practical bedside echocardiographic approach to generate a rapid hemodynamic profile in suspected ADHF-CS, facilitating accurate phenotyping and targeted resuscitation strategies in the emergency setting.",
+              "title_ko": ""
+            },
+            {
+              "pmid": "42823015",
+              "title": "Managing the Critically Ill Postpartum Patient in the Emergency Department.",
+              "journal": "Emergency medicine clinics of North America",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2026-05-18",
+              "authors": [
+                "Tasillo A",
+                "Healy M"
+              ],
+              "citation_count": 0,
+              "rcr": null,
+              "volume": "44",
+              "issue": "4",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/42823015/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": true,
+              "hot_score": 10.0,
+              "field": "emergency",
+              "field_label": "응급의학",
+              "abstract": "This review article prepares emergency physicians to recognize and manage critical illness in postpartum patients, a population at heightened risk of preventable morbidity and mortality in North America amid persistent racial/geographic disparities and shrinking obstetric access. It highlights key physiologic changes after delivery that complicate patient management. The article focuses on 3 immediate postpartum emergencies (postpartum hemorrhage, postpartum preeclampsia, and amniotic fluid embolism) and 3 subacute (pulmonary embolism, peripartum cardiomyopathy, and spontaneous coronary artery dissection). It concludes with system-level strategies to improve safety and outcomes.",
+              "title_ko": ""
+            },
+            {
+              "pmid": "42823014",
+              "title": "Refractory Shock in the Post-Cardiac Arrest Patient.",
+              "journal": "Emergency medicine clinics of North America",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2026-05-19",
+              "authors": [
+                "Walker AC",
+                "Johnson NJ"
+              ],
+              "citation_count": 0,
+              "rcr": null,
+              "volume": "44",
+              "issue": "4",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/42823014/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": true,
+              "hot_score": 10.0,
+              "field": "emergency",
+              "field_label": "응급의학",
+              "abstract": "Mixed shock is common after cardiac arrest (CA), with dominant shock physiology sometimes changing over the course of hours. This article focuses on identifying dominant shock physiology in patients with refractory shock after CA and targeted strategies for resuscitation. The authors discuss approach to cardiogenic shock, including pharmacologic and mechanical support, as well as advanced pharmacologic therapies relevant to distributive shock.",
               "title_ko": ""
             },
             {
@@ -9677,23 +9730,22 @@
               "title_ko": ""
             },
             {
-              "pmid": "42823016",
-              "title": "The Non-invasive Hemodynamic Profile: A Modern Approach to the Evaluation and Management of Acute Decompensated Heart Failure-Related Cardiogenic Shock with Point-of-Care Ultrasound.",
+              "pmid": "42823012",
+              "title": "Titrating and Discontinuing Noninvasive Respiratory Support in the Emergency Department.",
               "journal": "Emergency medicine clinics of North America",
               "impact_factor": 1.5,
               "index_type": "미상",
               "quartile": "미상",
-              "pubdate": "2026-05-15",
+              "pubdate": "2026-02-26",
               "authors": [
-                "Choudhary MJ",
-                "Kramer JA",
-                "Greenwood JC"
+                "Gebreili D",
+                "Mosier JM"
               ],
               "citation_count": 0,
               "rcr": null,
               "volume": "44",
               "issue": "4",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/42823016/",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/42823012/",
               "altmetric_score": 0,
               "altmetric_news": 0,
               "altmetric_social": 0,
@@ -9701,26 +9753,26 @@
               "hot_score": 0.0,
               "field": "emergency",
               "field_label": "응급의학",
-              "abstract": "Emergency department presentations of acute decompensated heart failure-related cardiogenic shock (ADHF-CS) are increasing and are associated with high short-term mortality. Early diagnosis is challenging due to variable clinical presentation, compensatory physiology, and limited availability of invasive hemodynamic monitoring. Point-of-care ultrasound enables quick, noninvasive assessment of cardiac output, right atrial pressure, and systemic vascular resistance. This review outlines a practical bedside echocardiographic approach to generate a rapid hemodynamic profile in suspected ADHF-CS, facilitating accurate phenotyping and targeted resuscitation strategies in the emergency setting.",
+              "abstract": "Acute respiratory failure is common in the emergency department (ED), often requiring noninvasive respiratory support (NIRS). NIRS has become a cornerstone in the initial management of acute respiratory failure. Despite its growing use, significant variability in practice remains, and evidence-based guidance specific to the ED setting is limited. This article aims to provide emergency physicians with a practical, evidence-informed framework for initiating and managing NIRS in adults with acute respiratory failure, with a focus on initial settings, titration, monitoring for failure, and guidance on weaning and liberation.",
               "title_ko": ""
             },
             {
-              "pmid": "42823015",
-              "title": "Managing the Critically Ill Postpartum Patient in the Emergency Department.",
+              "pmid": "42823006",
+              "title": "Modern Approach to Vascular Access in the Critically Ill Patient.",
               "journal": "Emergency medicine clinics of North America",
               "impact_factor": 1.5,
               "index_type": "미상",
               "quartile": "미상",
-              "pubdate": "2026-05-18",
+              "pubdate": "2026-03-23",
               "authors": [
-                "Tasillo A",
-                "Healy M"
+                "Jaffery SR",
+                "Qasim Z"
               ],
               "citation_count": 0,
               "rcr": null,
               "volume": "44",
               "issue": "4",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/42823015/",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/42823006/",
               "altmetric_score": 0,
               "altmetric_news": 0,
               "altmetric_social": 0,
@@ -9728,61 +9780,7 @@
               "hot_score": 0.0,
               "field": "emergency",
               "field_label": "응급의학",
-              "abstract": "This review article prepares emergency physicians to recognize and manage critical illness in postpartum patients, a population at heightened risk of preventable morbidity and mortality in North America amid persistent racial/geographic disparities and shrinking obstetric access. It highlights key physiologic changes after delivery that complicate patient management. The article focuses on 3 immediate postpartum emergencies (postpartum hemorrhage, postpartum preeclampsia, and amniotic fluid embolism) and 3 subacute (pulmonary embolism, peripartum cardiomyopathy, and spontaneous coronary artery dissection). It concludes with system-level strategies to improve safety and outcomes.",
-              "title_ko": ""
-            },
-            {
-              "pmid": "42823014",
-              "title": "Refractory Shock in the Post-Cardiac Arrest Patient.",
-              "journal": "Emergency medicine clinics of North America",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2026-05-19",
-              "authors": [
-                "Walker AC",
-                "Johnson NJ"
-              ],
-              "citation_count": 0,
-              "rcr": null,
-              "volume": "44",
-              "issue": "4",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/42823014/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": false,
-              "hot_score": 0.0,
-              "field": "emergency",
-              "field_label": "응급의학",
-              "abstract": "Mixed shock is common after cardiac arrest (CA), with dominant shock physiology sometimes changing over the course of hours. This article focuses on identifying dominant shock physiology in patients with refractory shock after CA and targeted strategies for resuscitation. The authors discuss approach to cardiogenic shock, including pharmacologic and mechanical support, as well as advanced pharmacologic therapies relevant to distributive shock.",
-              "title_ko": ""
-            },
-            {
-              "pmid": "42823010",
-              "title": "Strategies to Manage Refractory Hypoxemia in the Intubated Patient.",
-              "journal": "Emergency medicine clinics of North America",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2026-06-05",
-              "authors": [
-                "Davis ML",
-                "Klemisch R"
-              ],
-              "citation_count": 0,
-              "rcr": null,
-              "volume": "44",
-              "issue": "4",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/42823010/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": false,
-              "hot_score": 0.0,
-              "field": "emergency",
-              "field_label": "응급의학",
-              "abstract": "Persistent hypoxemia after intubation is associated with high mortality and demands a systematic approach focused on the underlying pathophysiology. This article emphasizes developing a focused differential diagnosis that includes both mechanical and patient factors to guide management. The authors review key therapeutic strategies, including careful use of positive end expiratory pressure, positioning techniques, medications such as inhaled pulmonary vasodilators, sedation, and neuromuscular blockade, and, when conventional therapies fail, consideration of extracorporeal membrane oxygenation.",
+              "abstract": "Vascular access is a key intervention in the management of critically ill emergency department patients. This can include peripheral or central venous access and intraosseous access. In combination with arterial catheterization, central venous access can provide key information to guide volume and vasoactive medication titration in isolation as well as in combination with dynamic measures of fluid responsiveness. This article will review the indications and contraindications as well as decision-making for the use of these modalities in light of the current evidence.",
               "title_ko": ""
             }
           ]
@@ -9822,6 +9820,15 @@
             "39637269",
             "39699331",
             "39583157"
+          ]
+        },
+        {
+          "phrase": "post-cardiac arrest",
+          "score": 48.2,
+          "paper_count": 2,
+          "pmids": [
+            "39840934",
+            "42823014"
           ]
         },
         {
@@ -9898,15 +9905,6 @@
             "39671440",
             "41938541"
           ]
-        },
-        {
-          "phrase": "post-cardiac arrest",
-          "score": 38.2,
-          "paper_count": 2,
-          "pmids": [
-            "39840934",
-            "42823014"
-          ]
         }
       ],
       "topic_trends": {
@@ -9959,7 +9957,7 @@
               0.0,
               35.0,
               6.8,
-              30.0
+              40.0
             ]
           },
           {
