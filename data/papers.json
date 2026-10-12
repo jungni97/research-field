@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-11T20:19:56.479112Z",
+  "generated_at": "2026-10-12T20:21:39.879002Z",
   "window_days": 1095,
   "fields": [
     {
       "key": "preventive",
       "label": "예방의학",
-      "paper_count": 439,
+      "paper_count": 444,
       "journals": [
         {
           "journal": "The Orthopedic clinics of North America",
@@ -462,7 +462,7 @@
           "impact_factor": 1.5,
           "index_type": "미상",
           "quartile": "미상",
-          "paper_count": 81,
+          "paper_count": 80,
           "top_paper": {
             "pmid": "39949340",
             "title": "Analysis of factors influencing HPV vaccination intention among Chinese college students: structural equation modeling based on health belief theory.",
@@ -1494,7 +1494,7 @@
           "impact_factor": 1.5,
           "index_type": "미상",
           "quartile": "미상",
-          "paper_count": 2,
+          "paper_count": 3,
           "top_paper": {
             "pmid": "40224869",
             "title": "Nurse Leaders' Motivational Forces in Developing a Health-Promoting Work Environment: A Hermeneutic Study.",
@@ -1579,6 +1579,34 @@
               "field_label": "예방의학",
               "abstract": "This study aimed to examine the relationship between medication literacy and the degree to which patients are considered capable of medication self-management, the factors influencing the strength of this relationship and the factors influencing a patient's capability for medication self-management. Between January and April 2022, a cross-sectional survey was conducted on hospitalised patients (65+) with polypharmacy. Medication literacy was evaluated using the MEDication Literacy Assessment of Geriatric patients and informal caregivers (MED-fLAG). The SelfMED assessment determined a patient's capability for medication self-management. The relationship between MED-fLAG and SelfMED was explored with Pearson's r. Moderation analysis was used to explore the factors influencing the strength of the relationship between both. Linear regression explored the factors influencing SelfMED scores. In total, 169 patients participated in the study. Patients considered themselves more capable of in-hospital medication self-management (8/10 rating) compared to nurses' and physicians' opinions (6/10 rating). Interactive medication literacy scored higher (mean = 3.0) than functional (mean = 2.9) and critical medication literacy (mean = 2.8). The more medication literacy skills, the more patients were considered able for medication self-management by healthcare providers (r = 0.630, p < 0.001). Moderation analysis could not reveal any factors that significantly affected the strength of the relationship between both. Age, managing medication independently at home, the number of chronic conditions and medication literacy were significant predictors of a patient's capability for in-hospital medication self-management. This study demonstrated a rather strong correlation between the results of the MED-fLAG and the SelfMED assessment. Hence, SelfMED can be used as a stand-alone first screening instrument to determine a patient's capability for in-hospital medication self-management, without first assessing medication literacy. MED-fLAG can provide valuable insights into the medication literacy of patients considered less capable of managing their medication, allowing medication information and interventions to be tailored to the patient.",
               "title_ko": "약물 리터러시 및 약물 자기 관리: 다약제를 사용하는 입원 환자 (65세 이상) 를 대상으로 한 단면 연구."
+            },
+            {
+              "pmid": "42860772",
+              "title": "Health Literacy, Social Support, and Kidney-Specific Quality of Life Among Hemodialysis Patients in Saudi Arabia: Implications for Nurse Managers Organizing Patient and Family Education.",
+              "journal": "Journal of nursing management",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2026-01-01",
+              "authors": [
+                "Mostoles RJ",
+                "Cabansag D",
+                "Lagura GAL"
+              ],
+              "citation_count": 0,
+              "rcr": null,
+              "volume": "2026",
+              "issue": "1",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/42860772/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": true,
+              "hot_score": 10.0,
+              "field": "preventive",
+              "field_label": "예방의학",
+              "abstract": "INTRODUCTION: Limited health literacy and strong family involvement are both common among hemodialysis patients in Saudi Arabia, yet how each relates to kidney-specific quality of life (KDCS), and what this implies for how dialysis units organize patient and family education, has not been examined. Decisions about education protocols, staff competencies, materials, timing, family inclusion, and quality monitoring are made by unit nurse managers, who currently lack local evidence to guide them. AIM: To examine the associations of health literacy and perceived social support with KDCS among hemodialysis patients in Hail, Saudi Arabia, and to identify what these associations imply for how nurse managers organize patient and family education in dialysis units. METHODS: A cross-sectional correlational design was employed with 215 patients recruited from two dialysis centers in Hail, Saudi Arabia. Health literacy, social support, and quality of life were measured using three validated Arabic-language tools: the HLS-EU-Q47 (health literacy), the MSPSS (multidimensional social support), and the KDQOL-SF 1.3 (KDCS). Questionnaires were administered in a mixed mode: 81.9% (176/215) were interviewer-administered following a standardized verbal protocol, and 18.1% were self-completed with a researcher present. Descriptive statistics were calculated for all variables. Pearson correlations examined bivariate associations among the continuous scores. The primary inferential analysis was a multiple linear regression with continuous KDCS as the dependent variable and health literacy and social support as predictors, controlling for age and education. As a secondary, exploratory analysis, a chi-square test examined the association between HLS-EU-Q47 health literacy categories and KDCS dichotomized at the sample mean. RESULTS: We observed a pattern we descriptively term the \"Support Paradox\": perceived family support was at the ceiling (M = 6.99/7.0, SD = 0.06), yet showed no association with KDCS (r = -0.09, p = 0.188; β = -0.08, p = 0.202). This null association may be explained by near-ceiling family support scores and the resulting restricted variance, interviewer-assisted administration (81.9% of surveys), and potential social desirability bias, and should be regarded as an observed pattern rather than evidence that family support is unrelated to quality of life. In the primary multiple linear regression model, health literacy was the only significant predictor (β = 0.19, p = 0.012), but the model explained less than 7% of KDCS variance (R2 = 0.068, adjusted R2 = 0.050), indicating a statistically significant but clinically modest association; 93.2% of KDCS variance remained unexplained by the model. In the exploratory categorical analysis, 91.7% of participants had limited health literacy, and sufficient health literacy was associated with \"Good\" KDCS (X2 = 22.12, p < 0.001, Cramér's V = 0.32). At the unit level, limited health literacy was near-universal (91.7%), and most participants (81.9%), although literate, opted for verbal administration because completing written material during dialysis was impractical. CONCLUSION: Health literacy was a statistically significant but small contributor to KDCS, and perceived family support, although at the ceiling, was unrelated to it. Nearly all patients (91.7%) had limited health literacy, and most (81.9%) opted for verbal rather than written administration during dialysis, indicating that the response lies at the level of how the unit organizes education rather than with individual patients. IMPLICATIONS FOR NURSING MANAGEMENT: The findings define three responsibilities for nurse managers in dialysis units: organizing health literacy interventions, supporting culturally responsive patient and family education, and improving the quality of education. Because limited health literacy was near-universal, managers should adopt a universal-precautions approach in which plain-language, verbal, and visual education with teach-back is the default for every patient, supported by staff training and a standardized unit education protocol. Because families are consistently present and highly involved, managers should build culturally responsive, family-inclusive education workflows that use Arabic-language, visually based materials reflecting local food, religious, and family practices, and that direct teach-back to the patient first to preserve patient autonomy and self-management. Managers should monitor education quality through documented teach-back, comprehension audits, caregiver attendance, and periodic reassessment of health literacy and QoL. Given the small effect size observed, these measures are necessary foundations whose impact on QoL must be evaluated prospectively.",
+              "title_ko": "사우디 아라비아의 혈액 투석 환자의 건강 리터러시, 사회적 지원 및 신장 특유의 삶의 질: 환자 및 가족 교육을 조직하는 간호사 관리자에게 미치는 영향."
             }
           ]
         },
@@ -1587,7 +1615,7 @@
           "impact_factor": 1.5,
           "index_type": "미상",
           "quartile": "미상",
-          "paper_count": 2,
+          "paper_count": 3,
           "top_paper": {
             "pmid": "41491559",
             "title": "Screening for Firearm Violence Exposure in Adolescents and Young Adults.",
@@ -1644,6 +1672,34 @@
               "field_label": "예방의학",
               "abstract": "INTRODUCTION: Firearm violence now accounts for more than 45,000 deaths annually in America, making it the leading cause of death in the pediatric population. Despite this, primary care clinicians (PCCs) lack screening tools to assess a patient's future risk of gun violence, hampering the ability to allocate resources that could prevent morbidity and mortality. METHODS: Longitudinal quantitative study designed to evaluate whether the Serious fighting, Friend weapon carrying, community Environment, and firearm Threats (SaFETy) score and other measures could predict gun violence exposure over 6 months in a nonurban primary care (PC) based adolescent-young adult population. RESULTS: Eighty-eight patients between the ages of 14 to 24 completed the baseline questionnaire and 62 completed the 6-month questionnaire. 45% of participants had a SaFETy score >0. Any score >0 indicates an increased risk of future firearm violence. A strong correlation was found between the SaFETy score and gun violence exposure, and Adverse Childhood Events (ACEs). CONCLUSIONS: This was among the first studies attempting to assess the viability of screening for firearm violence and other associated risk factors in a nonurban PC setting. Our findings suggest that adolescent and young adult PC patients are willing to disclose in a survey topics related to violence and firearms with their PCC. If validated in the PC setting, the SaFETy score could become a crucial tool for PCCs given the ease with which it can be implemented into a routine visit and the nonthreatening, and nonconfrontational question design. Tools such as the SaFETy score can provide PCPs with vital insight into their patients' past gun violence exposures and future violence risks.",
               "title_ko": "청소년 및 청소년의 총기 폭력 노출 선별 검사."
+            },
+            {
+              "pmid": "41491555",
+              "title": "Comparison of the Performance of Three Health Related Social Needs Screening Tools.",
+              "journal": "Journal of the American Board of Family Medicine : JABFM",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2025-09-01",
+              "authors": [
+                "Fennelly KM",
+                "Calvo-Friedman A",
+                "Clapp J"
+              ],
+              "citation_count": 1,
+              "rcr": null,
+              "volume": "38",
+              "issue": "5",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/41491555/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": true,
+              "hot_score": 16.9,
+              "field": "preventive",
+              "field_label": "예방의학",
+              "abstract": "OBJECTIVES: This study compared the performance of and patient preference for New York City Health and Hospital's (NYC H + H) social needs screener to 2 widely used screeners, a version of the Accountable Health Communities screener and the WellRx screener, that include the same core domains of social needs. METHODS: Two NYC H + H primary care clinics provided data for analysis. A convenience sample completed 1 of the 2 other screeners during May-June 2024, in addition to the NYC H + H screener. Analyses compared rates of needs detected and number of needs identified as well as patient preference. RESULTS: The H + H screener performed similarly to both alternate screeners in identifying patients with social needs, (κ = 0.7, P < .001 and κ = 0.6, P < .001). The number of positive items identified by each screener was virtually identical. Patients preferred the H + H screener to the alternates, but differences were not statistically significant. CONCLUSIONS: Despite differences in question phrasing and response options, all 3 screeners performed similarly.",
+              "title_ko": "세 가지 건강 관련 사회적 요구 스크리닝 도구의 성능 비교."
             },
             {
               "pmid": "39978849",
@@ -4639,21 +4695,22 @@
           ]
         },
         {
+          "phrase": "quality life",
+          "score": 50.7,
+          "paper_count": 3,
+          "pmids": [
+            "39959334",
+            "42860772",
+            "39874052"
+          ]
+        },
+        {
           "phrase": "oral hygiene",
           "score": 42.0,
           "paper_count": 2,
           "pmids": [
             "39798110",
             "39791412"
-          ]
-        },
-        {
-          "phrase": "quality life",
-          "score": 40.7,
-          "paper_count": 2,
-          "pmids": [
-            "39959334",
-            "39874052"
           ]
         },
         {
@@ -4758,21 +4815,21 @@
             ]
           },
           {
+            "phrase": "quality life",
+            "scores": [
+              0.0,
+              40.7,
+              10.0,
+              30.0
+            ]
+          },
+          {
             "phrase": "breast cancer",
             "scores": [
               16.9,
               0.0,
               16.9,
               40.0
-            ]
-          },
-          {
-            "phrase": "quality life",
-            "scores": [
-              0.0,
-              40.7,
-              10.0,
-              20.0
             ]
           },
           {
@@ -5483,7 +5540,7 @@
               "field": "emergency",
               "field_label": "응급의학",
               "abstract": "BACKGROUND: The innate immune response is activated by tissue injury and may quickly become dysregulated in the setting of major trauma. Cytokines are a key component of this response and function to activate and mobilize neutrophils, macrophages, and natural killer cells. The purpose of this study was to understand how the kinetics of blood-based resuscitation may impact the cytokine response. Specifically, we hypothesize that transfusion kinetics make a fundamental contribution to the inflammatory response, beyond the volume of transfusion and injury severity. METHODS: The Pragmatic, Randomized Optimal Platelet and Plasma Ratio data set was used in this retrospective analysis. Transfusion kinetics were quantified by calculating the total critical administration threshold episodes in three time periods, 1 to 2 hours following injury, 3 to 4 hours, and 5 to 6 hours following injury. The longitudinal response of key cytokines over 72 hours was assessed with a multivariable linear growth model, using critical administration threshold status as a time-varying covariate. RESULTS: A total of 522 patients were included in this analysis. Pro-inflammatory cytokines interleukin (IL)-6 (p = 0.0354) and IL-8 (p < 0.0001) were significantly increased. Anti-inflammatory cytokines IL-1ra (p = 0.0001) and IL-10 (p < 0.0001) were significantly increased. Chemokines interferon-γ-inducible protein 10 (p = 0.0433), monocyte chemoattractant protein-1 (p = 0.0064), and macrophage inflammatory protein 1β (p = 0.0003) were significantly increased, while regulated up activation, normal T-cell expressed and secreted chemokine (p = 0.0216) was significantly decreased. Growth factors showed no significant response. CONCLUSION: The kinetics of packed red blood cell transfusion demonstrate a potential association with the expression of cytokines following injury, beyond the total transfusion requirement or the severity of injury. Because cytokines activate and mobilize neutrophils, macrophages, and natural killer cells, these alterations may have a profound effect on degree and coordination of the immune response. As the contribution of various components of major resuscitation to inflammatory activation is clarified, such as types of blood product, tempo of transfusion, and operative care, targets for intervention should become more apparent. LEVEL OF EVIDENCE: Therapeutic/Care Management; Level III.",
-              "title_ko": "주요 손상 후 수혈 동역학이 염증 반응에 미치는 영향."
+              "title_ko": ""
             }
           ]
         },
@@ -5518,7 +5575,7 @@
             "field": "emergency",
             "field_label": "응급의학",
             "abstract": "PURPOSE: This study aimed to assess the levels and sources of noise in the emergency intensive care unit (EICU) of an emergency department and investigate their effects on the sleep quality of conscious patients. METHODS: A study was conducted on patients admitted to the EICU from December 2020 to December 2023. They were categorised according to their sleep quality with the Pittsburgh Sleep Quality Index. Environmental noise levels were measured using precision sound level metres and environmental noise automatic monitoring instruments. Data analysis was performed using SPSS version 25.0, and Chi-square test, Fisher's exact probability and t-tests were conducted when applicable. The significance threshold was set at P < 0.05. Regression analysis was carried out for indicators with significant differences. RESULTS: A total of 200 patients were included in the study. Of them 96 in the ideal sleep group and 104 in the non-ideal sleep group. Patients with non-ideal sleep experienced significantly higher noise levels across various measures (P < 0.05). Additionally, patients with non-ideal sleep reported significantly higher occurrences of noise-related awakening, difficulty in falling asleep, nightmares or vivid dreams and sleepwalking episodes (P < 0.05). Significant differences in staff activities, including staff conversations, equipment noise exposure, cleaning activities, patient interventions and overhead pages, were observed between the groups (P < 0.05). Multivariate logistic regression analysis indicating that the average noise level, conversational speech, equipment alarms, ambient noise, peak noise levels, staff conversations, cleaning activities, patient interventions and overhead pages were significant contributors to poor sleep. CONCLUSION: The study suggested that high noise levels and staff-related activities affected the sleep quality of conscious patients in the EICU. Targeted measures could improve the prognoses of patients.",
-            "title_ko": "응급 중환자실의 의식 환자의 수면 질에 대한 소음의 수준과 원천의 영향."
+            "title_ko": ""
           },
           "papers": [
             {
@@ -5546,7 +5603,7 @@
               "field": "emergency",
               "field_label": "응급의학",
               "abstract": "PURPOSE: This study aimed to assess the levels and sources of noise in the emergency intensive care unit (EICU) of an emergency department and investigate their effects on the sleep quality of conscious patients. METHODS: A study was conducted on patients admitted to the EICU from December 2020 to December 2023. They were categorised according to their sleep quality with the Pittsburgh Sleep Quality Index. Environmental noise levels were measured using precision sound level metres and environmental noise automatic monitoring instruments. Data analysis was performed using SPSS version 25.0, and Chi-square test, Fisher's exact probability and t-tests were conducted when applicable. The significance threshold was set at P < 0.05. Regression analysis was carried out for indicators with significant differences. RESULTS: A total of 200 patients were included in the study. Of them 96 in the ideal sleep group and 104 in the non-ideal sleep group. Patients with non-ideal sleep experienced significantly higher noise levels across various measures (P < 0.05). Additionally, patients with non-ideal sleep reported significantly higher occurrences of noise-related awakening, difficulty in falling asleep, nightmares or vivid dreams and sleepwalking episodes (P < 0.05). Significant differences in staff activities, including staff conversations, equipment noise exposure, cleaning activities, patient interventions and overhead pages, were observed between the groups (P < 0.05). Multivariate logistic regression analysis indicating that the average noise level, conversational speech, equipment alarms, ambient noise, peak noise levels, staff conversations, cleaning activities, patient interventions and overhead pages were significant contributors to poor sleep. CONCLUSION: The study suggested that high noise levels and staff-related activities affected the sleep quality of conscious patients in the EICU. Targeted measures could improve the prognoses of patients.",
-              "title_ko": "응급 중환자실의 의식 환자의 수면 질에 대한 소음의 수준과 원천의 영향."
+              "title_ko": ""
             }
           ]
         },
@@ -5582,7 +5639,7 @@
             "field": "emergency",
             "field_label": "응급의학",
             "abstract": "AIM: To characterise key features of young people presenting to the emergency department (ED) with a mental health complaint when comparing children (aged 7 to 12 years) and teenagers (13 years and greater). METHODS: Retrospective review of all ED mental health presentations in children aged 7-17 years presenting over a 12-month period in 2018 to a tertiary children's hospital in Victoria, Australia. Univariate analyses were carried out to examine the relationship between children and teenagers and a number of key presentation variables. Odds Ratios (ORs) and 95% Confidence Intervals (CIs) were calculated for ED management outcomes. RESULTS: There were 1691 ED mental health presentations in 2018. Of these presentations, 407 (24%) were children aged 12 years or less. The remaining 76% (1284) were teenagers. The younger aged cohort were more likely to be male (OR 2.43, CI 1.92-3.08) and have a past history of autism spectrum disorder (OR 1.92, CI 1.45-1.84). They were more likely to have a presenting complaint of acute behavioural disturbance (OR 2.03, CI 1.59-2.60), be physically restrained (OR 2.01, CI 1.18-3.37) and have sedative medication provided (OR 2.87, CI 1.63-5.04). The older aged cohort were more likely to have a past history of depression (OR 0.19, CI 0.12-0.29) and a presenting complaint of intentional self-poisoning (OR 0.33, CI 0.15-0.65). CONCLUSIONS: Children aged 12 years or less represent one-quarter of all young people presenting to the ED with a mental health concern. They experience high rates of acute behavioural disturbance and are more likely to require restrictive interventions during their presentation.",
-            "title_ko": "유아의 응급실 정신 건강 프레젠테이션: 회고 도표 검토."
+            "title_ko": ""
           },
           "papers": [
             {
@@ -5611,7 +5668,7 @@
               "field": "emergency",
               "field_label": "응급의학",
               "abstract": "AIM: To characterise key features of young people presenting to the emergency department (ED) with a mental health complaint when comparing children (aged 7 to 12 years) and teenagers (13 years and greater). METHODS: Retrospective review of all ED mental health presentations in children aged 7-17 years presenting over a 12-month period in 2018 to a tertiary children's hospital in Victoria, Australia. Univariate analyses were carried out to examine the relationship between children and teenagers and a number of key presentation variables. Odds Ratios (ORs) and 95% Confidence Intervals (CIs) were calculated for ED management outcomes. RESULTS: There were 1691 ED mental health presentations in 2018. Of these presentations, 407 (24%) were children aged 12 years or less. The remaining 76% (1284) were teenagers. The younger aged cohort were more likely to be male (OR 2.43, CI 1.92-3.08) and have a past history of autism spectrum disorder (OR 1.92, CI 1.45-1.84). They were more likely to have a presenting complaint of acute behavioural disturbance (OR 2.03, CI 1.59-2.60), be physically restrained (OR 2.01, CI 1.18-3.37) and have sedative medication provided (OR 2.87, CI 1.63-5.04). The older aged cohort were more likely to have a past history of depression (OR 0.19, CI 0.12-0.29) and a presenting complaint of intentional self-poisoning (OR 0.33, CI 0.15-0.65). CONCLUSIONS: Children aged 12 years or less represent one-quarter of all young people presenting to the ED with a mental health concern. They experience high rates of acute behavioural disturbance and are more likely to require restrictive interventions during their presentation.",
-              "title_ko": "유아의 응급실 정신 건강 프레젠테이션: 회고 도표 검토."
+              "title_ko": ""
             }
           ]
         },
@@ -6224,6 +6281,181 @@
               "field": "emergency",
               "field_label": "응급의학",
               "abstract": "BACKGROUND: Falls are a significant issue among older adults, leading to morbidity and mortality. Screening for fall risk in the ED is crucial but challenging due to time limitations and patient conditions. Sarcopenia, characterized by muscle loss, is associated with increased fall risk, and ultrasound has been proposed as a non-invasive tool to measure muscle mass in this context. METHODS: This prospective cohort study enrolled 174 older adults from an urban teaching hospital's EDOU, assessing muscle mass via POCUS, grip strength, Timed Up and Go (TUG) test, and fall risk using the STEADI toolkit. The patients were followed up over six months to assess if they had fallen or not. RESULTS: Follow-up identified 37 participants (21 %) as patients who fell. There was no significant association between POCUS-measured muscle mass, grip strength, or TUG test performance with future falls. In contrast, STEADI questionnaire responses demonstrated significant differences between patients who fell and did not fall, suggesting its potential utility in predicting fall risk in this population. CONCLUSION: The simpler tool, the STEADI questionnaire, may offer more practicality in screening fall risk compared to complex ultrasound measurements or physical performance tests among the older in ED.",
+              "title_ko": ""
+            }
+          ]
+        },
+        {
+          "journal": "Air medical journal",
+          "impact_factor": 1.5,
+          "index_type": "미상",
+          "quartile": "미상",
+          "paper_count": 5,
+          "top_paper": {
+            "pmid": "41534963",
+            "title": "Effects of Transport Team Composition on Neonatal Intubation Success.",
+            "journal": "Air medical journal",
+            "impact_factor": 1.5,
+            "index_type": "미상",
+            "quartile": "미상",
+            "pubdate": "2025-10-13",
+            "authors": [
+              "Averhoff AJ",
+              "Lee J",
+              "Sawyer R"
+            ],
+            "citation_count": 2,
+            "rcr": null,
+            "volume": "45",
+            "issue": "1",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/41534963/",
+            "altmetric_score": 0,
+            "altmetric_news": 0,
+            "altmetric_social": 0,
+            "is_current_issue": true,
+            "hot_score": 20.7,
+            "field": "emergency",
+            "field_label": "응급의학",
+            "abstract": "OBJECTIVE: Neonatal transport is necessary to move the smallest and sickest patients. Transport team configuration can vary among institutions. One major concern with varied team composition is the ability to intubate neonates. This study investigates team composition effects on neonatal intubation success when performed by a neonatal nurse practitioner (NNP) or critical care transport (CCT) registered nurses (RNs) and paramedics. METHODS: Neonates <4 weeks of age who were intubated on transport between 2016 and 2023 were analyzed by retrospective chart review. Intubation success and number of attempts were compared between NNP and CCT, while controlling for confounding factors such as birth weight, age, and use of premedication or video laryngoscope. RESULTS: A total of 111 neonates were included in the study with 119 intubation procedures by transport team members. There was no difference in the overall intubation success rate between the NNP and CCT with an average of 84% (P = .68). An increase in first-attempt success rate with the CCT was found, which was not significant after controlling for the use of premedication and video laryngoscope. CONCLUSION: During the study period, neonatal intubation success on transport did not differ when comparing NNP with CCT. This result supports staffing neonatal transport teams based on staffing availability.",
+            "title_ko": ""
+          },
+          "papers": [
+            {
+              "pmid": "41534963",
+              "title": "Effects of Transport Team Composition on Neonatal Intubation Success.",
+              "journal": "Air medical journal",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2025-10-13",
+              "authors": [
+                "Averhoff AJ",
+                "Lee J",
+                "Sawyer R"
+              ],
+              "citation_count": 2,
+              "rcr": null,
+              "volume": "45",
+              "issue": "1",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/41534963/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": true,
+              "hot_score": 20.7,
+              "field": "emergency",
+              "field_label": "응급의학",
+              "abstract": "OBJECTIVE: Neonatal transport is necessary to move the smallest and sickest patients. Transport team configuration can vary among institutions. One major concern with varied team composition is the ability to intubate neonates. This study investigates team composition effects on neonatal intubation success when performed by a neonatal nurse practitioner (NNP) or critical care transport (CCT) registered nurses (RNs) and paramedics. METHODS: Neonates <4 weeks of age who were intubated on transport between 2016 and 2023 were analyzed by retrospective chart review. Intubation success and number of attempts were compared between NNP and CCT, while controlling for confounding factors such as birth weight, age, and use of premedication or video laryngoscope. RESULTS: A total of 111 neonates were included in the study with 119 intubation procedures by transport team members. There was no difference in the overall intubation success rate between the NNP and CCT with an average of 84% (P = .68). An increase in first-attempt success rate with the CCT was found, which was not significant after controlling for the use of premedication and video laryngoscope. CONCLUSION: During the study period, neonatal intubation success on transport did not differ when comparing NNP with CCT. This result supports staffing neonatal transport teams based on staffing availability.",
+              "title_ko": ""
+            },
+            {
+              "pmid": "41534962",
+              "title": "Prospective Development and Validation of a Weight Prediction Tool for Patients With Obesity Undergoing Critical Care Transport Using Width and Arm Circumference.",
+              "journal": "Air medical journal",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2025-10-12",
+              "authors": [
+                "Williams K",
+                "Peddle M",
+                "Smith J"
+              ],
+              "citation_count": 1,
+              "rcr": null,
+              "volume": "45",
+              "issue": "1",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/41534962/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": true,
+              "hot_score": 16.8,
+              "field": "emergency",
+              "field_label": "응급의학",
+              "abstract": "OBJECTIVE: Obesity rates are rising, affecting health care systems and causing potential delays in critical care transfers. Accurate weights are important for critical care transport to ensure the appropriate transport asset is selected and dispatched in a timely fashion. Inaccurate weight measurements can lead to various unnecessary delays, including not sending appropriate nonbariatric assets, delays due to secondary dispatch, and delays due to systemic overuse of these bariatric capable assets. The primary objective of this study was to develop and validate a weight prediction tool for patients with obesity undergoing critical care transport. The secondary objective was to compare the performance of this model to the Crandall weight prediction tool. METHODS: A prospective observational study was conducted, collecting data from patients transported by Ornge air ambulance between May 2022 and April 2023. Adults weighing >100 kg undergoing interfacility transfers were included. Four predictive models, using height, arm circumference, width, and girth measurements, were evaluated against actual patient weights and analyzed separately for males and females. Model performance was evaluated by mean squared error, mean absolute error (MAE), mean absolute percentage error, R2, and F-statistic. RESULTS: The Ornge model using arm circumference and width demonstrated the highest accuracy and stability in predicting patient weight for both males and females. This model exhibited the lowest MAE of 12.2 kg, was within a margin of 20% error 91.2% of the time, and had an overall false negative error of 6.9%, outperforming all other models. CONCLUSION: The Ornge arm circumference and width-based model offers a reliable method for predicting patient weight in air ambulance settings. Implementing this tool could improve the efficiency and safety of patient transfers by reducing delays caused by inaccurate weight estimations, thereby expediting access to critical care. Further research is recommended to validate these findings in larger and more diverse populations.",
+              "title_ko": ""
+            },
+            {
+              "pmid": "41534959",
+              "title": "External Ventricular Devices in Air Medical Retrievals.",
+              "journal": "Air medical journal",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2025-09-24",
+              "authors": [
+                "Wall A",
+                "Gibbs C",
+                "Quick L"
+              ],
+              "citation_count": 1,
+              "rcr": null,
+              "volume": "45",
+              "issue": "1",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/41534959/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": true,
+              "hot_score": 16.8,
+              "field": "emergency",
+              "field_label": "응급의학",
+              "abstract": "OBJECTIVE: Describe the clinical characteristics of patients with an external ventricular drain (EVD) air medically retrieved. METHODS: A retrospective chart audit of adults with an EVD air medically retrieved between January 2018 and June 2022 was conducted using the Retrieval Services Queensland database. Patients with a diagnosis of subarachnoid hemorrhage were identified, and then a manual review was conducted to identify EVD cases. RESULTS: A total of 60 patients met the review criteria. However, 34 patients did not have an EVD in situ, 1 was not transported, and 2 charts were non-retrievable, leaving 21 patients in this review. Of the patients, 76% were mechanically ventilated and 10% had no EVD drainage (suspected to be blocked). Blood pressure fluctuations occurred in 67% of the cases (79% during flight). Separate analgesia/anesthetic infusions were administered in 75% of the patients, with 83% requiring rate increases and 100% requiring boluses for increases in blood pressure. Hypertension in 3 patients occurred post-EVD being turned off and resolved when EVD was turned back on, and bolus sedation/analgesia was provided. CONCLUSION: The air medical transport of patients with an EVD is a low-frequency transfer. Therefore, the use of clinical practice guidelines will enable best practice assessment and management.",
+              "title_ko": ""
+            },
+            {
+              "pmid": "41534961",
+              "title": "Boosting Confidence Through Interagency Air Medical Simulation: A Quality Assurance Exercise of a Critical Care Helicopter Landing at a Tertiary Trauma Hospital.",
+              "journal": "Air medical journal",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2025-10-05",
+              "authors": [
+                "Iliff J",
+                "Spring B",
+                "Kumaradevan S"
+              ],
+              "citation_count": 0,
+              "rcr": null,
+              "volume": "45",
+              "issue": "1",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/41534961/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": true,
+              "hot_score": 10.0,
+              "field": "emergency",
+              "field_label": "응급의학",
+              "abstract": "OBJECTIVE: Emergency preparedness training in health care improves patient outcomes. For critically unwell patients outside the hospital setting, air medical helicopter hospital landings expedite emergency health care access. However, little is known of interagency staff experiences during this multifaceted health care provision. We captured staff experiences during the first interagency air medical helicopter landing simulation exercise between the Royal Flying Doctor Service of Australia and Royal Perth Hospital in Western Australia as a quality assurance exercise. METHODS: The simulation exercise yielded 21 participants (hospital and air medical clinicians, logisticians, and pilots) and 8 simulation facilitators who consented to provide data between June and October 2023. Data were collected by phone interviews and surveys and analyzed descriptively and qualitatively. RESULTS: Facilitators reported that conducting successful interagency helicopter retrieval simulations requires extensive planning and preparation. After the simulation, participants reported increased clinical confidence in their specific role, with a desire for greater exposure to diverse simulation training to optimize their future performances for real scenarios. Simulation debriefs allow for further participant clarification surrounding the overall process. They provide a medium for valuable feedback to health service providers in process refinement in the management of the critically unwell, enhancing a culture of safety. CONCLUSION: This study highlighted that interagency simulations are a valuable exercise when multiple health service providers are involved in the management of individual patients who are critically unwell. The significant effort to organize and coordinate to create high-fidelity scenarios by facilitators is rewarded with significant benefit found by the participants in their ability to be prepared for the real-life scenario. Such findings have important implications for ongoing interagency collaboration and ongoing health care and educational strategy.",
+              "title_ko": ""
+            },
+            {
+              "pmid": "41534957",
+              "title": "One Mission, One Team: Celebrating 40 Years of Duke Life Flight.",
+              "journal": "Air medical journal",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2025-07-04",
+              "authors": [
+                "Sapp A"
+              ],
+              "citation_count": 0,
+              "rcr": null,
+              "volume": "45",
+              "issue": "1",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/41534957/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 0.0,
+              "field": "emergency",
+              "field_label": "응급의학",
+              "abstract": "BACKGROUND: Duke LifeFlight, established in 1985, has provided four decades of exceptional critical care transport to patients across the Southeast. As one of the first hospital-based air medical programs in North Carolina, it has set the standard for safety, innovation, and clinical excellence. OBJECTIVE: To commemorate the 40-year anniversary, celebrated last year, of Duke LifeFlight by highlighting its historical milestones, evolving capabilities, and lasting impact on patient outcomes and prehospital care. METHODS/APPROACH: A retrospective review of archival data, program development timelines, and patient care advancements. Key performance indicators and patient transport volumes were analyzed to illustrate growth and effectiveness. RESULTS: Since inception, Duke LifeFlight has completed thousands of transports, expanded to include rotor- and fixed-wing aircraft capabilities as well as critical care ground teams, and maintained accreditation from the Commission on Accreditation of Medical Transport Systems (CAMTS). Innovations in training, telemedicine, and trauma care have further elevated its regional and national standing. CONCLUSION: Over 40 years, Duke LifeFlight has exemplified resilience, clinical excellence, and leadership in critical care transport. As it enters a new era, the program remains dedicated to advancing prehospital medicine and continuing its mission of delivering lifesaving care when seconds matter most.",
               "title_ko": ""
             }
           ]
@@ -7680,153 +7912,6 @@
               "field": "emergency",
               "field_label": "응급의학",
               "abstract": "BACKGROUND: Cellulitis is a common cause of hospitalization imposing significant burden on healthcare systems. Treatment disposition is dependent on extent and severity of infection with a range of possibilities from ambulatory to inpatient management. Limited evidence is available, aside from expert opinion, to guide the use of long-acting lipoglycopeptides (LaLGPs) to reduce hospitalizations. OBJECTIVE: Identify patient-specific risk factors associated with short-stay hospitalizations (<72 hours) for cellulitis to guide development of an emergency department (ED) LaLGP decision algorithm. METHODS: Adult patients with cellulitis treated with antibiotic monotherapy were screened. Three cohorts were identified based on length of hospitalization (ED discharge, <72 hours, ≥72 hours). The primary outcome was to identify risk factors associated with short-stay hospitalization. Patients were excluded if they required surgical intervention in the operating room, received polymicrobial therapy, required intensive care unit admission, received cellulitis treatment in the past 30 days, or were treated for multiple infections. RESULTS: A total of 161 patients were analyzed (ED discharge, n = 75; Short-stay, n = 46; and Long-stay, n = 40). Need for incision and drainage (odds ratio [OR] 1.8; 95% confidence interval [CI]: 0.76-2.36), advancing age (OR 1.02; 95% CI 1.00-1.05), or presenting with fever (OR 32.7; 95% CI 5.89-616.5) were associated with short-stay hospitalization compared to ED discharge. Diabetes (OR 3.02, 95% CI 1.31-7.11), presence of purulence (OR 3.86, 95% 1.09-13.79), and history of methicillin-resistant Staphylococcus aureus (MRSA) (OR 4.31, 95% CI 1.08-17.96) were independently associated with long-stay hospitalizations. CONCLUSION AND RELEVANCE: Fever was the only factor independently associated with short-stay hospitalization, compared to patients discharged directly from the ED. Diabetes, purulence, and history of MRSA were associated with longer hospitalizations. Inclusion of these factors in a decision algorithm may help guide use of LaLGPs for cellulitis in the ED, potentially reducing cellulitis hospitalization rates.",
-              "title_ko": ""
-            }
-          ]
-        },
-        {
-          "journal": "Air medical journal",
-          "impact_factor": 1.5,
-          "index_type": "미상",
-          "quartile": "미상",
-          "paper_count": 4,
-          "top_paper": {
-            "pmid": "41534962",
-            "title": "Prospective Development and Validation of a Weight Prediction Tool for Patients With Obesity Undergoing Critical Care Transport Using Width and Arm Circumference.",
-            "journal": "Air medical journal",
-            "impact_factor": 1.5,
-            "index_type": "미상",
-            "quartile": "미상",
-            "pubdate": "2025-10-12",
-            "authors": [
-              "Williams K",
-              "Peddle M",
-              "Smith J"
-            ],
-            "citation_count": 1,
-            "rcr": null,
-            "volume": "45",
-            "issue": "1",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/41534962/",
-            "altmetric_score": 0,
-            "altmetric_news": 0,
-            "altmetric_social": 0,
-            "is_current_issue": true,
-            "hot_score": 16.8,
-            "field": "emergency",
-            "field_label": "응급의학",
-            "abstract": "OBJECTIVE: Obesity rates are rising, affecting health care systems and causing potential delays in critical care transfers. Accurate weights are important for critical care transport to ensure the appropriate transport asset is selected and dispatched in a timely fashion. Inaccurate weight measurements can lead to various unnecessary delays, including not sending appropriate nonbariatric assets, delays due to secondary dispatch, and delays due to systemic overuse of these bariatric capable assets. The primary objective of this study was to develop and validate a weight prediction tool for patients with obesity undergoing critical care transport. The secondary objective was to compare the performance of this model to the Crandall weight prediction tool. METHODS: A prospective observational study was conducted, collecting data from patients transported by Ornge air ambulance between May 2022 and April 2023. Adults weighing >100 kg undergoing interfacility transfers were included. Four predictive models, using height, arm circumference, width, and girth measurements, were evaluated against actual patient weights and analyzed separately for males and females. Model performance was evaluated by mean squared error, mean absolute error (MAE), mean absolute percentage error, R2, and F-statistic. RESULTS: The Ornge model using arm circumference and width demonstrated the highest accuracy and stability in predicting patient weight for both males and females. This model exhibited the lowest MAE of 12.2 kg, was within a margin of 20% error 91.2% of the time, and had an overall false negative error of 6.9%, outperforming all other models. CONCLUSION: The Ornge arm circumference and width-based model offers a reliable method for predicting patient weight in air ambulance settings. Implementing this tool could improve the efficiency and safety of patient transfers by reducing delays caused by inaccurate weight estimations, thereby expediting access to critical care. Further research is recommended to validate these findings in larger and more diverse populations.",
-            "title_ko": ""
-          },
-          "papers": [
-            {
-              "pmid": "41534962",
-              "title": "Prospective Development and Validation of a Weight Prediction Tool for Patients With Obesity Undergoing Critical Care Transport Using Width and Arm Circumference.",
-              "journal": "Air medical journal",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2025-10-12",
-              "authors": [
-                "Williams K",
-                "Peddle M",
-                "Smith J"
-              ],
-              "citation_count": 1,
-              "rcr": null,
-              "volume": "45",
-              "issue": "1",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/41534962/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": true,
-              "hot_score": 16.8,
-              "field": "emergency",
-              "field_label": "응급의학",
-              "abstract": "OBJECTIVE: Obesity rates are rising, affecting health care systems and causing potential delays in critical care transfers. Accurate weights are important for critical care transport to ensure the appropriate transport asset is selected and dispatched in a timely fashion. Inaccurate weight measurements can lead to various unnecessary delays, including not sending appropriate nonbariatric assets, delays due to secondary dispatch, and delays due to systemic overuse of these bariatric capable assets. The primary objective of this study was to develop and validate a weight prediction tool for patients with obesity undergoing critical care transport. The secondary objective was to compare the performance of this model to the Crandall weight prediction tool. METHODS: A prospective observational study was conducted, collecting data from patients transported by Ornge air ambulance between May 2022 and April 2023. Adults weighing >100 kg undergoing interfacility transfers were included. Four predictive models, using height, arm circumference, width, and girth measurements, were evaluated against actual patient weights and analyzed separately for males and females. Model performance was evaluated by mean squared error, mean absolute error (MAE), mean absolute percentage error, R2, and F-statistic. RESULTS: The Ornge model using arm circumference and width demonstrated the highest accuracy and stability in predicting patient weight for both males and females. This model exhibited the lowest MAE of 12.2 kg, was within a margin of 20% error 91.2% of the time, and had an overall false negative error of 6.9%, outperforming all other models. CONCLUSION: The Ornge arm circumference and width-based model offers a reliable method for predicting patient weight in air ambulance settings. Implementing this tool could improve the efficiency and safety of patient transfers by reducing delays caused by inaccurate weight estimations, thereby expediting access to critical care. Further research is recommended to validate these findings in larger and more diverse populations.",
-              "title_ko": ""
-            },
-            {
-              "pmid": "41534959",
-              "title": "External Ventricular Devices in Air Medical Retrievals.",
-              "journal": "Air medical journal",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2025-09-24",
-              "authors": [
-                "Wall A",
-                "Gibbs C",
-                "Quick L"
-              ],
-              "citation_count": 1,
-              "rcr": null,
-              "volume": "45",
-              "issue": "1",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/41534959/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": true,
-              "hot_score": 16.8,
-              "field": "emergency",
-              "field_label": "응급의학",
-              "abstract": "OBJECTIVE: Describe the clinical characteristics of patients with an external ventricular drain (EVD) air medically retrieved. METHODS: A retrospective chart audit of adults with an EVD air medically retrieved between January 2018 and June 2022 was conducted using the Retrieval Services Queensland database. Patients with a diagnosis of subarachnoid hemorrhage were identified, and then a manual review was conducted to identify EVD cases. RESULTS: A total of 60 patients met the review criteria. However, 34 patients did not have an EVD in situ, 1 was not transported, and 2 charts were non-retrievable, leaving 21 patients in this review. Of the patients, 76% were mechanically ventilated and 10% had no EVD drainage (suspected to be blocked). Blood pressure fluctuations occurred in 67% of the cases (79% during flight). Separate analgesia/anesthetic infusions were administered in 75% of the patients, with 83% requiring rate increases and 100% requiring boluses for increases in blood pressure. Hypertension in 3 patients occurred post-EVD being turned off and resolved when EVD was turned back on, and bolus sedation/analgesia was provided. CONCLUSION: The air medical transport of patients with an EVD is a low-frequency transfer. Therefore, the use of clinical practice guidelines will enable best practice assessment and management.",
-              "title_ko": ""
-            },
-            {
-              "pmid": "41534961",
-              "title": "Boosting Confidence Through Interagency Air Medical Simulation: A Quality Assurance Exercise of a Critical Care Helicopter Landing at a Tertiary Trauma Hospital.",
-              "journal": "Air medical journal",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2025-10-05",
-              "authors": [
-                "Iliff J",
-                "Spring B",
-                "Kumaradevan S"
-              ],
-              "citation_count": 0,
-              "rcr": null,
-              "volume": "45",
-              "issue": "1",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/41534961/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": true,
-              "hot_score": 10.0,
-              "field": "emergency",
-              "field_label": "응급의학",
-              "abstract": "OBJECTIVE: Emergency preparedness training in health care improves patient outcomes. For critically unwell patients outside the hospital setting, air medical helicopter hospital landings expedite emergency health care access. However, little is known of interagency staff experiences during this multifaceted health care provision. We captured staff experiences during the first interagency air medical helicopter landing simulation exercise between the Royal Flying Doctor Service of Australia and Royal Perth Hospital in Western Australia as a quality assurance exercise. METHODS: The simulation exercise yielded 21 participants (hospital and air medical clinicians, logisticians, and pilots) and 8 simulation facilitators who consented to provide data between June and October 2023. Data were collected by phone interviews and surveys and analyzed descriptively and qualitatively. RESULTS: Facilitators reported that conducting successful interagency helicopter retrieval simulations requires extensive planning and preparation. After the simulation, participants reported increased clinical confidence in their specific role, with a desire for greater exposure to diverse simulation training to optimize their future performances for real scenarios. Simulation debriefs allow for further participant clarification surrounding the overall process. They provide a medium for valuable feedback to health service providers in process refinement in the management of the critically unwell, enhancing a culture of safety. CONCLUSION: This study highlighted that interagency simulations are a valuable exercise when multiple health service providers are involved in the management of individual patients who are critically unwell. The significant effort to organize and coordinate to create high-fidelity scenarios by facilitators is rewarded with significant benefit found by the participants in their ability to be prepared for the real-life scenario. Such findings have important implications for ongoing interagency collaboration and ongoing health care and educational strategy.",
-              "title_ko": ""
-            },
-            {
-              "pmid": "41534957",
-              "title": "One Mission, One Team: Celebrating 40 Years of Duke Life Flight.",
-              "journal": "Air medical journal",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2025-07-04",
-              "authors": [
-                "Sapp A"
-              ],
-              "citation_count": 0,
-              "rcr": null,
-              "volume": "45",
-              "issue": "1",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/41534957/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": false,
-              "hot_score": 0.0,
-              "field": "emergency",
-              "field_label": "응급의학",
-              "abstract": "BACKGROUND: Duke LifeFlight, established in 1985, has provided four decades of exceptional critical care transport to patients across the Southeast. As one of the first hospital-based air medical programs in North Carolina, it has set the standard for safety, innovation, and clinical excellence. OBJECTIVE: To commemorate the 40-year anniversary, celebrated last year, of Duke LifeFlight by highlighting its historical milestones, evolving capabilities, and lasting impact on patient outcomes and prehospital care. METHODS/APPROACH: A retrospective review of archival data, program development timelines, and patient care advancements. Key performance indicators and patient transport volumes were analyzed to illustrate growth and effectiveness. RESULTS: Since inception, Duke LifeFlight has completed thousands of transports, expanded to include rotor- and fixed-wing aircraft capabilities as well as critical care ground teams, and maintained accreditation from the Commission on Accreditation of Medical Transport Systems (CAMTS). Innovations in training, telemedicine, and trauma care have further elevated its regional and national standing. CONCLUSION: Over 40 years, Duke LifeFlight has exemplified resilience, clinical excellence, and leadership in critical care transport. As it enters a new era, the program remains dedicated to advancing prehospital medicine and continuing its mission of delivering lifesaving care when seconds matter most.",
               "title_ko": ""
             }
           ]
@@ -9536,7 +9621,7 @@
           "impact_factor": 1.5,
           "index_type": "미상",
           "quartile": "미상",
-          "paper_count": 10,
+          "paper_count": 7,
           "top_paper": {
             "pmid": "40210340",
             "title": "Evaluation of Older Adults in the Emergency Department Following a Fall.",
@@ -9593,23 +9678,22 @@
               "title_ko": ""
             },
             {
-              "pmid": "42823016",
-              "title": "The Non-invasive Hemodynamic Profile: A Modern Approach to the Evaluation and Management of Acute Decompensated Heart Failure-Related Cardiogenic Shock with Point-of-Care Ultrasound.",
+              "pmid": "42823012",
+              "title": "Titrating and Discontinuing Noninvasive Respiratory Support in the Emergency Department.",
               "journal": "Emergency medicine clinics of North America",
               "impact_factor": 1.5,
               "index_type": "미상",
               "quartile": "미상",
-              "pubdate": "2026-05-15",
+              "pubdate": "2026-02-26",
               "authors": [
-                "Choudhary MJ",
-                "Kramer JA",
-                "Greenwood JC"
+                "Gebreili D",
+                "Mosier JM"
               ],
               "citation_count": 0,
               "rcr": null,
               "volume": "44",
               "issue": "4",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/42823016/",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/42823012/",
               "altmetric_score": 0,
               "altmetric_news": 0,
               "altmetric_social": 0,
@@ -9617,26 +9701,26 @@
               "hot_score": 10.0,
               "field": "emergency",
               "field_label": "응급의학",
-              "abstract": "Emergency department presentations of acute decompensated heart failure-related cardiogenic shock (ADHF-CS) are increasing and are associated with high short-term mortality. Early diagnosis is challenging due to variable clinical presentation, compensatory physiology, and limited availability of invasive hemodynamic monitoring. Point-of-care ultrasound enables quick, noninvasive assessment of cardiac output, right atrial pressure, and systemic vascular resistance. This review outlines a practical bedside echocardiographic approach to generate a rapid hemodynamic profile in suspected ADHF-CS, facilitating accurate phenotyping and targeted resuscitation strategies in the emergency setting.",
+              "abstract": "Acute respiratory failure is common in the emergency department (ED), often requiring noninvasive respiratory support (NIRS). NIRS has become a cornerstone in the initial management of acute respiratory failure. Despite its growing use, significant variability in practice remains, and evidence-based guidance specific to the ED setting is limited. This article aims to provide emergency physicians with a practical, evidence-informed framework for initiating and managing NIRS in adults with acute respiratory failure, with a focus on initial settings, titration, monitoring for failure, and guidance on weaning and liberation.",
               "title_ko": ""
             },
             {
-              "pmid": "42823015",
-              "title": "Managing the Critically Ill Postpartum Patient in the Emergency Department.",
+              "pmid": "42823006",
+              "title": "Modern Approach to Vascular Access in the Critically Ill Patient.",
               "journal": "Emergency medicine clinics of North America",
               "impact_factor": 1.5,
               "index_type": "미상",
               "quartile": "미상",
-              "pubdate": "2026-05-18",
+              "pubdate": "2026-03-23",
               "authors": [
-                "Tasillo A",
-                "Healy M"
+                "Jaffery SR",
+                "Qasim Z"
               ],
               "citation_count": 0,
               "rcr": null,
               "volume": "44",
               "issue": "4",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/42823015/",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/42823006/",
               "altmetric_score": 0,
               "altmetric_news": 0,
               "altmetric_social": 0,
@@ -9644,26 +9728,26 @@
               "hot_score": 10.0,
               "field": "emergency",
               "field_label": "응급의학",
-              "abstract": "This review article prepares emergency physicians to recognize and manage critical illness in postpartum patients, a population at heightened risk of preventable morbidity and mortality in North America amid persistent racial/geographic disparities and shrinking obstetric access. It highlights key physiologic changes after delivery that complicate patient management. The article focuses on 3 immediate postpartum emergencies (postpartum hemorrhage, postpartum preeclampsia, and amniotic fluid embolism) and 3 subacute (pulmonary embolism, peripartum cardiomyopathy, and spontaneous coronary artery dissection). It concludes with system-level strategies to improve safety and outcomes.",
+              "abstract": "Vascular access is a key intervention in the management of critically ill emergency department patients. This can include peripheral or central venous access and intraosseous access. In combination with arterial catheterization, central venous access can provide key information to guide volume and vasoactive medication titration in isolation as well as in combination with dynamic measures of fluid responsiveness. This article will review the indications and contraindications as well as decision-making for the use of these modalities in light of the current evidence.",
               "title_ko": ""
             },
             {
-              "pmid": "42823014",
-              "title": "Refractory Shock in the Post-Cardiac Arrest Patient.",
+              "pmid": "42823004",
+              "title": "Post-intubation Sedation and Analgesia in the Emergency Department: The Basics and Beyond.",
               "journal": "Emergency medicine clinics of North America",
               "impact_factor": 1.5,
               "index_type": "미상",
               "quartile": "미상",
-              "pubdate": "2026-05-19",
+              "pubdate": "2026-03-19",
               "authors": [
-                "Walker AC",
-                "Johnson NJ"
+                "Baumgartner K",
+                "Fuller BM"
               ],
               "citation_count": 0,
               "rcr": null,
               "volume": "44",
               "issue": "4",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/42823014/",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/42823004/",
               "altmetric_score": 0,
               "altmetric_news": 0,
               "altmetric_social": 0,
@@ -9671,7 +9755,7 @@
               "hot_score": 10.0,
               "field": "emergency",
               "field_label": "응급의학",
-              "abstract": "Mixed shock is common after cardiac arrest (CA), with dominant shock physiology sometimes changing over the course of hours. This article focuses on identifying dominant shock physiology in patients with refractory shock after CA and targeted strategies for resuscitation. The authors discuss approach to cardiogenic shock, including pharmacologic and mechanical support, as well as advanced pharmacologic therapies relevant to distributive shock.",
+              "abstract": "Provision of postintubation sedation and analgesia is critical in emergency management of mechanically ventilated patients. Pain and sedation should be monitored using a validated scoring system, and medications titrated to a target sedation level, which should usually be light. Usually, fentanyl is the first-line analgesic and propofol is the first-line sedative. Dexmedetomidine and ketamine may be helpful in select populations, but further research is needed to define their role in the emergency department. Benzodiazepines should generally be avoided. Physicians should plan for postintubation sedation and analgesia in advance and consider using succinylcholine for intubation to avoid awareness with paralysis.",
               "title_ko": ""
             },
             {
@@ -9730,22 +9814,23 @@
               "title_ko": ""
             },
             {
-              "pmid": "42823012",
-              "title": "Titrating and Discontinuing Noninvasive Respiratory Support in the Emergency Department.",
+              "pmid": "40210339",
+              "title": "Strategies for Improving Clinical Care of Older Adults in the Emergency Department.",
               "journal": "Emergency medicine clinics of North America",
               "impact_factor": 1.5,
               "index_type": "미상",
               "quartile": "미상",
-              "pubdate": "2026-02-26",
+              "pubdate": "2024-09-25",
               "authors": [
-                "Gebreili D",
-                "Mosier JM"
+                "Brousseau AA",
+                "Schonnop R",
+                "Melady D"
               ],
               "citation_count": 0,
               "rcr": null,
-              "volume": "44",
-              "issue": "4",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/42823012/",
+              "volume": "43",
+              "issue": "2",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/40210339/",
               "altmetric_score": 0,
               "altmetric_news": 0,
               "altmetric_social": 0,
@@ -9753,34 +9838,7 @@
               "hot_score": 0.0,
               "field": "emergency",
               "field_label": "응급의학",
-              "abstract": "Acute respiratory failure is common in the emergency department (ED), often requiring noninvasive respiratory support (NIRS). NIRS has become a cornerstone in the initial management of acute respiratory failure. Despite its growing use, significant variability in practice remains, and evidence-based guidance specific to the ED setting is limited. This article aims to provide emergency physicians with a practical, evidence-informed framework for initiating and managing NIRS in adults with acute respiratory failure, with a focus on initial settings, titration, monitoring for failure, and guidance on weaning and liberation.",
-              "title_ko": ""
-            },
-            {
-              "pmid": "42823006",
-              "title": "Modern Approach to Vascular Access in the Critically Ill Patient.",
-              "journal": "Emergency medicine clinics of North America",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2026-03-23",
-              "authors": [
-                "Jaffery SR",
-                "Qasim Z"
-              ],
-              "citation_count": 0,
-              "rcr": null,
-              "volume": "44",
-              "issue": "4",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/42823006/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": false,
-              "hot_score": 0.0,
-              "field": "emergency",
-              "field_label": "응급의학",
-              "abstract": "Vascular access is a key intervention in the management of critically ill emergency department patients. This can include peripheral or central venous access and intraosseous access. In combination with arterial catheterization, central venous access can provide key information to guide volume and vasoactive medication titration in isolation as well as in combination with dynamic measures of fluid responsiveness. This article will review the indications and contraindications as well as decision-making for the use of these modalities in light of the current evidence.",
+              "abstract": "In the evolving landscape of emergency departments (EDs), the increasing number of older patients necessitates a paradigm shift. It is important for clinicians to have a working knowledge of geriatric syndromes, goals of care discussions, the importance of gathering collateral history, involving caregivers, assessing medication use, conducting a thorough physical examination, integrating an interdisciplinary team, ensuring basic equipment availability, and coordinating seamless transitions of care. Though nuanced, these strategies promise to enhance the quality of care for older adults in EDs.",
               "title_ko": ""
             }
           ]
@@ -9820,15 +9878,6 @@
             "39637269",
             "39699331",
             "39583157"
-          ]
-        },
-        {
-          "phrase": "post-cardiac arrest",
-          "score": 48.2,
-          "paper_count": 2,
-          "pmids": [
-            "39840934",
-            "42823014"
           ]
         },
         {
@@ -9904,6 +9953,16 @@
           "pmids": [
             "39671440",
             "41938541"
+          ]
+        },
+        {
+          "phrase": "critically ill",
+          "score": 38.2,
+          "paper_count": 3,
+          "pmids": [
+            "39671440",
+            "39699429",
+            "42823006"
           ]
         }
       ],
