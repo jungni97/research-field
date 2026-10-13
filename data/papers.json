@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-12T20:21:39.879002Z",
+  "generated_at": "2026-10-13T20:32:28.003252Z",
   "window_days": 1095,
   "fields": [
     {
       "key": "preventive",
       "label": "예방의학",
-      "paper_count": 444,
+      "paper_count": 448,
       "journals": [
         {
           "journal": "The Orthopedic clinics of North America",
@@ -722,7 +722,7 @@
           "impact_factor": 1.5,
           "index_type": "미상",
           "quartile": "미상",
-          "paper_count": 5,
+          "paper_count": 6,
           "top_paper": {
             "pmid": "39963235",
             "title": "Evaluating passive immunity in piglets from sows vaccinated with a PEDV S protein subunit vaccine.",
@@ -807,6 +807,34 @@
               "field_label": "예방의학",
               "abstract": "BACKGROUND: Despite global recommendations for maternal tetanus-diphtheria-acellular pertussis (Tdap) vaccination to protect neonates, safety concerns persist regarding pregnancy-specific adverse events (AEs). We conducted a 20-year analysis of U.S. Vaccine Adverse Event Reporting System (VAERS) data (2005-2024) to characterize Tdap-associated AEs during pregnancy, with emphasis on understudied outcomes like chorioamnionitis. METHODS: We analyzed 870 pregnancy-related reports (128 serious) from 20,358 Tdap submissions using disproportionality analysis (Reporting Odds Ratio, ROR). Cases were identified via MedDRA-coded terms and free-text mining. Outcomes were stratified by System Organ Class (SOC), trimester, and AE seriousness. Novel signals were evaluated against product labeling and prior studies. RESULTS: 71.9% of AEs occurred within 30 days post-vaccination. No AEs of maternal death were found. Strong safety signals stillbirth (ROR 285.77, IC 8.01), preterm delivery (ROR 196.8, IC 7.51), and fetal death (ROR 140.83, IC 7.06) were found via disproportionality from a passive surveillance system, which required further validation in active surveillance studies. Pregnancy-specific AEs represented 22.3% of significant PTs, including 6 chorioamnionitis cases with most cases having documented obstetric risk factors. Novel signals fetal hypokinesia and urinary tract infection emerged as unlabeled risks. CONCLUSION: This analysis affirms Tdap's favorable safety profile while detecting statistically significant signals that merit additional research. The low absolute risk supports continued maternal immunization, but warrants enhanced monitoring in high-risk pregnancies. The findings highlight the importance of ongoing post-marketing surveillance for evaluating vaccine safety in pregnant populations and contribute to evidence-based decision-making in clinical practice and public health policy.",
               "title_ko": "임산부의 Tdap 백신 단독 사용에 대한 위험 신호 평가: 업데이트된 약물 역학적 연구."
+            },
+            {
+              "pmid": "42865425",
+              "title": "A multi-centre study on cervical cancer screening reveals population-related impact on cervical intraepithelial neoplasia rate.",
+              "journal": "Frontiers in cellular and infection microbiology",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2026-09-28",
+              "authors": [
+                "Zhao Y",
+                "Wang X",
+                "Yin R"
+              ],
+              "citation_count": 0,
+              "rcr": null,
+              "volume": "16",
+              "issue": "",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/42865425/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 0.0,
+              "field": "preventive",
+              "field_label": "예방의학",
+              "abstract": "OBJECTIVE: To conduct a three-year cervical cancer screen in Zhejiang, Sichuan, Beijing, and Inner Mongolia and analyse clinical and population data to identify possible improvements to the screening protocol. METHODS: A standard protocol including human papillomavirus (HPV) detection, cytology test, colposcopy, and histopathology inspection was adapted for the screening. Additional HPV genotyping was performed for participants in Sichuan, Beijing, and Inner Mongolia. RESULTS: 12,086 women were included in this study, and 178 cases of cervical intraepithelial neoplasia (CIN) grade 2 or worse (CIN2+) were identified. Detailed analyses on features of age, region, ethnicity, and origin showed a notable correlation between age strata and high-grade CIN rates. Moreover, apart from HPV16/18, other HPV types such as HPV33, HPV52, and HPV58 were found to be enriched in high-grade CIN cases, as was repeat positivity. CONCLUSIONS: Our results suggest that age, HPV16, and ThinPrep cytologic test (TCT) are prominent exploratory predictors for CIN2+ detection, and HPV33, 52, and 58 may pose higher risks than other non-HPV16/18 types. Future studies incorporating prospective effectiveness and health-economic evaluation are required to validate the clinical utility of these predictors.",
+              "title_ko": "자궁경부암 선별검사에 대한 다기관 연구는 자궁경부 상피내 신생물 비율에 대한 인구 관련 영향을 보여줍니다."
             },
             {
               "pmid": "42851524",
@@ -1397,6 +1425,71 @@
           ]
         },
         {
+          "journal": "Journal of the American Board of Family Medicine : JABFM",
+          "impact_factor": 1.5,
+          "index_type": "미상",
+          "quartile": "미상",
+          "paper_count": 1,
+          "top_paper": {
+            "pmid": "39978849",
+            "title": "Screening and Diagnosis of Type 2 Diabetes in Sickle Cell Disease.",
+            "journal": "Journal of the American Board of Family Medicine : JABFM",
+            "impact_factor": 1.5,
+            "index_type": "미상",
+            "quartile": "미상",
+            "pubdate": "2024-09-01",
+            "authors": [
+              "Carrithers B",
+              "Klein R",
+              "Ovalle F"
+            ],
+            "citation_count": 3,
+            "rcr": 0.8705522449961743,
+            "volume": "37",
+            "issue": "5",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/39978849/",
+            "altmetric_score": 0,
+            "altmetric_news": 0,
+            "altmetric_social": 0,
+            "is_current_issue": true,
+            "hot_score": 23.8,
+            "field": "preventive",
+            "field_label": "예방의학",
+            "abstract": "BACKGROUND: Diagnosing type 2 diabetes mellitus (T2DM) in people with sickle cell disease (SCD) is complicated due to hemoglobin A variance in affected individuals. Accurate screening assessments are needed to prevent excessive morbidity and mortality. Primary care physicians need recommendations for screening and diagnosis in this unique population. PURPOSE: To synthesize recommendations regarding medical diagnosis criteria for T2DM in SCD. DATA SOURCES: PubMed, Standards of Medical Care in Diabetes, US Preventative Services Task Force, National Institute of Diabetes and Digestive and Kidney Diseases, searched on December 28, 2022. STUDY SELECTION: One reviewer searched each database to select applicable studies pertaining to \"sickle cell disease,\" \"type 2 diabetes,\" \"HbA1c,\" and \"fructosamine\" from December 28, 2022, to March 15, 2023. DATA EXTRACTION AND QUALITY ASSESSMENT: A comprehensive literature review was done to extract current data/facts and assess certainty of evidence. DATA SYNTHESIS: This review reviews 5 articles that met inclusion criteria to outline outpatient screening and diagnosis of T2DM in SCD. Based on these findings, we recommend fasting plasma glucose as the standard screening starting at age 35 based on USPSTF guidelines. We do not recommend using HbA1c, fructosamine, or glycated albumin for screening or diagnosis of T2DM in individuals with SCD; the latter entities have limited implications in their use. LIMITATIONS: There are limited studies available for diagnosis of T2DM in SCD. CONCLUSIONS: Fasting plasma glucose is the standard screening for T2DM for SCD to ensure early diagnosis and prevent worsening macro and microvascular complications from both comorbid conditions.",
+            "title_ko": "겸상적혈구 질환에서 제2형 당뇨병의 선별검사 및 진단."
+          },
+          "papers": [
+            {
+              "pmid": "39978849",
+              "title": "Screening and Diagnosis of Type 2 Diabetes in Sickle Cell Disease.",
+              "journal": "Journal of the American Board of Family Medicine : JABFM",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2024-09-01",
+              "authors": [
+                "Carrithers B",
+                "Klein R",
+                "Ovalle F"
+              ],
+              "citation_count": 3,
+              "rcr": 0.8705522449961743,
+              "volume": "37",
+              "issue": "5",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/39978849/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": true,
+              "hot_score": 23.8,
+              "field": "preventive",
+              "field_label": "예방의학",
+              "abstract": "BACKGROUND: Diagnosing type 2 diabetes mellitus (T2DM) in people with sickle cell disease (SCD) is complicated due to hemoglobin A variance in affected individuals. Accurate screening assessments are needed to prevent excessive morbidity and mortality. Primary care physicians need recommendations for screening and diagnosis in this unique population. PURPOSE: To synthesize recommendations regarding medical diagnosis criteria for T2DM in SCD. DATA SOURCES: PubMed, Standards of Medical Care in Diabetes, US Preventative Services Task Force, National Institute of Diabetes and Digestive and Kidney Diseases, searched on December 28, 2022. STUDY SELECTION: One reviewer searched each database to select applicable studies pertaining to \"sickle cell disease,\" \"type 2 diabetes,\" \"HbA1c,\" and \"fructosamine\" from December 28, 2022, to March 15, 2023. DATA EXTRACTION AND QUALITY ASSESSMENT: A comprehensive literature review was done to extract current data/facts and assess certainty of evidence. DATA SYNTHESIS: This review reviews 5 articles that met inclusion criteria to outline outpatient screening and diagnosis of T2DM in SCD. Based on these findings, we recommend fasting plasma glucose as the standard screening starting at age 35 based on USPSTF guidelines. We do not recommend using HbA1c, fructosamine, or glycated albumin for screening or diagnosis of T2DM in individuals with SCD; the latter entities have limited implications in their use. LIMITATIONS: There are limited studies available for diagnosis of T2DM in SCD. CONCLUSIONS: Fasting plasma glucose is the standard screening for T2DM for SCD to ensure early diagnosis and prevent worsening macro and microvascular complications from both comorbid conditions.",
+              "title_ko": "겸상적혈구 질환에서 제2형 당뇨병의 선별검사 및 진단."
+            }
+          ]
+        },
+        {
           "journal": "Acta clinica Croatica",
           "impact_factor": 1.5,
           "index_type": "미상",
@@ -1607,127 +1700,6 @@
               "field_label": "예방의학",
               "abstract": "INTRODUCTION: Limited health literacy and strong family involvement are both common among hemodialysis patients in Saudi Arabia, yet how each relates to kidney-specific quality of life (KDCS), and what this implies for how dialysis units organize patient and family education, has not been examined. Decisions about education protocols, staff competencies, materials, timing, family inclusion, and quality monitoring are made by unit nurse managers, who currently lack local evidence to guide them. AIM: To examine the associations of health literacy and perceived social support with KDCS among hemodialysis patients in Hail, Saudi Arabia, and to identify what these associations imply for how nurse managers organize patient and family education in dialysis units. METHODS: A cross-sectional correlational design was employed with 215 patients recruited from two dialysis centers in Hail, Saudi Arabia. Health literacy, social support, and quality of life were measured using three validated Arabic-language tools: the HLS-EU-Q47 (health literacy), the MSPSS (multidimensional social support), and the KDQOL-SF 1.3 (KDCS). Questionnaires were administered in a mixed mode: 81.9% (176/215) were interviewer-administered following a standardized verbal protocol, and 18.1% were self-completed with a researcher present. Descriptive statistics were calculated for all variables. Pearson correlations examined bivariate associations among the continuous scores. The primary inferential analysis was a multiple linear regression with continuous KDCS as the dependent variable and health literacy and social support as predictors, controlling for age and education. As a secondary, exploratory analysis, a chi-square test examined the association between HLS-EU-Q47 health literacy categories and KDCS dichotomized at the sample mean. RESULTS: We observed a pattern we descriptively term the \"Support Paradox\": perceived family support was at the ceiling (M = 6.99/7.0, SD = 0.06), yet showed no association with KDCS (r = -0.09, p = 0.188; β = -0.08, p = 0.202). This null association may be explained by near-ceiling family support scores and the resulting restricted variance, interviewer-assisted administration (81.9% of surveys), and potential social desirability bias, and should be regarded as an observed pattern rather than evidence that family support is unrelated to quality of life. In the primary multiple linear regression model, health literacy was the only significant predictor (β = 0.19, p = 0.012), but the model explained less than 7% of KDCS variance (R2 = 0.068, adjusted R2 = 0.050), indicating a statistically significant but clinically modest association; 93.2% of KDCS variance remained unexplained by the model. In the exploratory categorical analysis, 91.7% of participants had limited health literacy, and sufficient health literacy was associated with \"Good\" KDCS (X2 = 22.12, p < 0.001, Cramér's V = 0.32). At the unit level, limited health literacy was near-universal (91.7%), and most participants (81.9%), although literate, opted for verbal administration because completing written material during dialysis was impractical. CONCLUSION: Health literacy was a statistically significant but small contributor to KDCS, and perceived family support, although at the ceiling, was unrelated to it. Nearly all patients (91.7%) had limited health literacy, and most (81.9%) opted for verbal rather than written administration during dialysis, indicating that the response lies at the level of how the unit organizes education rather than with individual patients. IMPLICATIONS FOR NURSING MANAGEMENT: The findings define three responsibilities for nurse managers in dialysis units: organizing health literacy interventions, supporting culturally responsive patient and family education, and improving the quality of education. Because limited health literacy was near-universal, managers should adopt a universal-precautions approach in which plain-language, verbal, and visual education with teach-back is the default for every patient, supported by staff training and a standardized unit education protocol. Because families are consistently present and highly involved, managers should build culturally responsive, family-inclusive education workflows that use Arabic-language, visually based materials reflecting local food, religious, and family practices, and that direct teach-back to the patient first to preserve patient autonomy and self-management. Managers should monitor education quality through documented teach-back, comprehension audits, caregiver attendance, and periodic reassessment of health literacy and QoL. Given the small effect size observed, these measures are necessary foundations whose impact on QoL must be evaluated prospectively.",
               "title_ko": "사우디 아라비아의 혈액 투석 환자의 건강 리터러시, 사회적 지원 및 신장 특유의 삶의 질: 환자 및 가족 교육을 조직하는 간호사 관리자에게 미치는 영향."
-            }
-          ]
-        },
-        {
-          "journal": "Journal of the American Board of Family Medicine : JABFM",
-          "impact_factor": 1.5,
-          "index_type": "미상",
-          "quartile": "미상",
-          "paper_count": 3,
-          "top_paper": {
-            "pmid": "41491559",
-            "title": "Screening for Firearm Violence Exposure in Adolescents and Young Adults.",
-            "journal": "Journal of the American Board of Family Medicine : JABFM",
-            "impact_factor": 1.5,
-            "index_type": "미상",
-            "quartile": "미상",
-            "pubdate": "2025-09-01",
-            "authors": [
-              "Batish S",
-              "Gilbert A",
-              "Lutgen CB"
-            ],
-            "citation_count": 2,
-            "rcr": null,
-            "volume": "38",
-            "issue": "5",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/41491559/",
-            "altmetric_score": 0,
-            "altmetric_news": 0,
-            "altmetric_social": 0,
-            "is_current_issue": true,
-            "hot_score": 21.0,
-            "field": "preventive",
-            "field_label": "예방의학",
-            "abstract": "INTRODUCTION: Firearm violence now accounts for more than 45,000 deaths annually in America, making it the leading cause of death in the pediatric population. Despite this, primary care clinicians (PCCs) lack screening tools to assess a patient's future risk of gun violence, hampering the ability to allocate resources that could prevent morbidity and mortality. METHODS: Longitudinal quantitative study designed to evaluate whether the Serious fighting, Friend weapon carrying, community Environment, and firearm Threats (SaFETy) score and other measures could predict gun violence exposure over 6 months in a nonurban primary care (PC) based adolescent-young adult population. RESULTS: Eighty-eight patients between the ages of 14 to 24 completed the baseline questionnaire and 62 completed the 6-month questionnaire. 45% of participants had a SaFETy score >0. Any score >0 indicates an increased risk of future firearm violence. A strong correlation was found between the SaFETy score and gun violence exposure, and Adverse Childhood Events (ACEs). CONCLUSIONS: This was among the first studies attempting to assess the viability of screening for firearm violence and other associated risk factors in a nonurban PC setting. Our findings suggest that adolescent and young adult PC patients are willing to disclose in a survey topics related to violence and firearms with their PCC. If validated in the PC setting, the SaFETy score could become a crucial tool for PCCs given the ease with which it can be implemented into a routine visit and the nonthreatening, and nonconfrontational question design. Tools such as the SaFETy score can provide PCPs with vital insight into their patients' past gun violence exposures and future violence risks.",
-            "title_ko": "청소년 및 청소년의 총기 폭력 노출 선별 검사."
-          },
-          "papers": [
-            {
-              "pmid": "41491559",
-              "title": "Screening for Firearm Violence Exposure in Adolescents and Young Adults.",
-              "journal": "Journal of the American Board of Family Medicine : JABFM",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2025-09-01",
-              "authors": [
-                "Batish S",
-                "Gilbert A",
-                "Lutgen CB"
-              ],
-              "citation_count": 2,
-              "rcr": null,
-              "volume": "38",
-              "issue": "5",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/41491559/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": true,
-              "hot_score": 21.0,
-              "field": "preventive",
-              "field_label": "예방의학",
-              "abstract": "INTRODUCTION: Firearm violence now accounts for more than 45,000 deaths annually in America, making it the leading cause of death in the pediatric population. Despite this, primary care clinicians (PCCs) lack screening tools to assess a patient's future risk of gun violence, hampering the ability to allocate resources that could prevent morbidity and mortality. METHODS: Longitudinal quantitative study designed to evaluate whether the Serious fighting, Friend weapon carrying, community Environment, and firearm Threats (SaFETy) score and other measures could predict gun violence exposure over 6 months in a nonurban primary care (PC) based adolescent-young adult population. RESULTS: Eighty-eight patients between the ages of 14 to 24 completed the baseline questionnaire and 62 completed the 6-month questionnaire. 45% of participants had a SaFETy score >0. Any score >0 indicates an increased risk of future firearm violence. A strong correlation was found between the SaFETy score and gun violence exposure, and Adverse Childhood Events (ACEs). CONCLUSIONS: This was among the first studies attempting to assess the viability of screening for firearm violence and other associated risk factors in a nonurban PC setting. Our findings suggest that adolescent and young adult PC patients are willing to disclose in a survey topics related to violence and firearms with their PCC. If validated in the PC setting, the SaFETy score could become a crucial tool for PCCs given the ease with which it can be implemented into a routine visit and the nonthreatening, and nonconfrontational question design. Tools such as the SaFETy score can provide PCPs with vital insight into their patients' past gun violence exposures and future violence risks.",
-              "title_ko": "청소년 및 청소년의 총기 폭력 노출 선별 검사."
-            },
-            {
-              "pmid": "41491555",
-              "title": "Comparison of the Performance of Three Health Related Social Needs Screening Tools.",
-              "journal": "Journal of the American Board of Family Medicine : JABFM",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2025-09-01",
-              "authors": [
-                "Fennelly KM",
-                "Calvo-Friedman A",
-                "Clapp J"
-              ],
-              "citation_count": 1,
-              "rcr": null,
-              "volume": "38",
-              "issue": "5",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/41491555/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": true,
-              "hot_score": 16.9,
-              "field": "preventive",
-              "field_label": "예방의학",
-              "abstract": "OBJECTIVES: This study compared the performance of and patient preference for New York City Health and Hospital's (NYC H + H) social needs screener to 2 widely used screeners, a version of the Accountable Health Communities screener and the WellRx screener, that include the same core domains of social needs. METHODS: Two NYC H + H primary care clinics provided data for analysis. A convenience sample completed 1 of the 2 other screeners during May-June 2024, in addition to the NYC H + H screener. Analyses compared rates of needs detected and number of needs identified as well as patient preference. RESULTS: The H + H screener performed similarly to both alternate screeners in identifying patients with social needs, (κ = 0.7, P < .001 and κ = 0.6, P < .001). The number of positive items identified by each screener was virtually identical. Patients preferred the H + H screener to the alternates, but differences were not statistically significant. CONCLUSIONS: Despite differences in question phrasing and response options, all 3 screeners performed similarly.",
-              "title_ko": "세 가지 건강 관련 사회적 요구 스크리닝 도구의 성능 비교."
-            },
-            {
-              "pmid": "39978849",
-              "title": "Screening and Diagnosis of Type 2 Diabetes in Sickle Cell Disease.",
-              "journal": "Journal of the American Board of Family Medicine : JABFM",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2024-09-01",
-              "authors": [
-                "Carrithers B",
-                "Klein R",
-                "Ovalle F"
-              ],
-              "citation_count": 3,
-              "rcr": 0.8705522449961743,
-              "volume": "37",
-              "issue": "5",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/39978849/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": false,
-              "hot_score": 13.8,
-              "field": "preventive",
-              "field_label": "예방의학",
-              "abstract": "BACKGROUND: Diagnosing type 2 diabetes mellitus (T2DM) in people with sickle cell disease (SCD) is complicated due to hemoglobin A variance in affected individuals. Accurate screening assessments are needed to prevent excessive morbidity and mortality. Primary care physicians need recommendations for screening and diagnosis in this unique population. PURPOSE: To synthesize recommendations regarding medical diagnosis criteria for T2DM in SCD. DATA SOURCES: PubMed, Standards of Medical Care in Diabetes, US Preventative Services Task Force, National Institute of Diabetes and Digestive and Kidney Diseases, searched on December 28, 2022. STUDY SELECTION: One reviewer searched each database to select applicable studies pertaining to \"sickle cell disease,\" \"type 2 diabetes,\" \"HbA1c,\" and \"fructosamine\" from December 28, 2022, to March 15, 2023. DATA EXTRACTION AND QUALITY ASSESSMENT: A comprehensive literature review was done to extract current data/facts and assess certainty of evidence. DATA SYNTHESIS: This review reviews 5 articles that met inclusion criteria to outline outpatient screening and diagnosis of T2DM in SCD. Based on these findings, we recommend fasting plasma glucose as the standard screening starting at age 35 based on USPSTF guidelines. We do not recommend using HbA1c, fructosamine, or glycated albumin for screening or diagnosis of T2DM in individuals with SCD; the latter entities have limited implications in their use. LIMITATIONS: There are limited studies available for diagnosis of T2DM in SCD. CONCLUSIONS: Fasting plasma glucose is the standard screening for T2DM for SCD to ensure early diagnosis and prevent worsening macro and microvascular complications from both comorbid conditions.",
-              "title_ko": "겸상적혈구 질환에서 제2형 당뇨병의 선별검사 및 진단."
             }
           ]
         },
@@ -3129,7 +3101,7 @@
           "impact_factor": 1.5,
           "index_type": "미상",
           "quartile": "미상",
-          "paper_count": 17,
+          "paper_count": 16,
           "top_paper": {
             "pmid": "39981298",
             "title": "Staphylococcus aureus-specific TIGIT(+) Treg are present in the blood of healthy subjects - a hurdle for vaccination?",
@@ -3390,7 +3362,7 @@
           "impact_factor": 1.5,
           "index_type": "미상",
           "quartile": "미상",
-          "paper_count": 5,
+          "paper_count": 4,
           "top_paper": {
             "pmid": "40225928",
             "title": "Specifications of the ACMG/AMP Variant Curation Guidelines for Hereditary Hemorrhagic Telangiectasia Genes-ENG and ACVRL1.",
@@ -3531,34 +3503,6 @@
               "field_label": "예방의학",
               "abstract": "Pompe disease (PD) is a rare autosomal recessive lysosomal disorder caused by loss-of-function of the α-glucosidase (GAA) gene. The deficient GAA enzyme activity may result in potential life-threatening muscle weakness, thus requiring a rapid diagnosis to initiate therapeutic interventions. In this large retrospective study, we analyzed 30.836 PD suspect samples from 57 countries using a two-step approach utilizing dried blood spots (DBSs): biochemical testing of GAA activity followed by complementary genetic sequencing of GAA in biochemically conspicuous cases. Of these 30.836 samples, 2% (n = 639) were excluded; accordingly, this study consisted of 30.193 cases. Biochemical testing of GAA enzyme activity showed normal values in 28.354 (93.90%) and enzyme activity below the cut-off in 1843 (6.10%) cases. These biochemically suspicious cases were genetically analyzed. We identified 723 Pompe cases with 283 different GAA alterations, and 98 variants have been unpublished so far. The most common variant was the splice variant c.-32-13T>G (IVS1). Looking at the IVS1-genotype, the majority was compound heterozygous (n = 169) and identified in late-onset cases (n = 162). Comparison of early- versus late-onset cases to evaluate whether certain genotypes correlate with the age of onset revealed that homozygosity was predominantly found in infantile (85.65%) and compound heterozygosity in late-onset (76.9%) cases. Analysis of homozygous cases revealed 61% nonsense variants in the early stages and 87% missense variants in the late stages. Mapping of disease-associated (homozygous) missense variants to functional GAA protein domains showed that missense variants were found throughout GAA, but we identified enrichment in the catalytic domain. A strict genotype-phenotype correlation cannot be established; nevertheless, a phenotypic implication of some GAA variants could be drawn (e.g., c.896T>C/p.L299P, c.2015G>A/p.R672Q, and c.-32-13T>G). The combined enzyme activity and genetic testing from DBS cards can reliably identify PD and significantly accelerate diagnosis. We identified new genetic variants that contribute to the spectrum of pathogenic variants of the GAA gene.",
               "title_ko": "폼페병에 영향을 받은 것으로 의심되는 30.000명 이상의 증후성 환자에서 GAA의 생화학적 및 유전자 검사."
-            },
-            {
-              "pmid": "42829553",
-              "title": "Integrated Approach to Diagnosing Limb-Girdle Muscular Dystrophies in Resource-Limited Settings.",
-              "journal": "Human mutation",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2026-10-02",
-              "authors": [
-                "Yousaf H",
-                "Khalid LB",
-                "Ahmed A"
-              ],
-              "citation_count": 0,
-              "rcr": null,
-              "volume": "2026",
-              "issue": "",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/42829553/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": false,
-              "hot_score": 0.0,
-              "field": "preventive",
-              "field_label": "예방의학",
-              "abstract": "Limb-girdle muscular dystrophies (LGMD) are a genetically heterogeneous group of neuromuscular disorders characterized by overlapping clinical features, including progressive muscle weakness and wasting, elevated creatine kinase (CK) levels, and motor and skeletal abnormalities. Due to phenotypic overlap and variable severity, clinical diagnosis alone is often unreliable. Incorporation of genetic investigations to aid diagnosis/differential diagnosis has accelerated the diagnostic process but remains largely limited to developed countries. Here, we employed genetic testing as a first-tier approach to simplify the diagnostic journey in a resource-limited setting, combined with preliminary functional analyses to identify the underlying genetic cause. Our cohort included 46 affected individuals (31 males, 15 females) from 29 families with a mean age of 23.59 ± 11.87 years and a mean age at onset of 14.8 ± 9.2 years. All individuals presented with progressive muscle weakness, elevated CK levels, movement difficulties, and gait abnormalities. Genetic testing identified pathogenic/likely pathogenic variants in CAPN3 (8 families), DYSF (15 families), LAMA2 (4 families), and SGCA (1 family), whereas a variant of uncertain significance was identified in COL12A1 (1 family). Preliminary functional investigations in patient-derived fibroblasts demonstrated that the COL12A1: p.(Val1051Leu) identified in Family 1 results in reduced mRNA and protein abundance. Overall, 25 unique variants were identified, including 17 novel variants. This study highlights the utility of integrating genetic and functional approaches to facilitate accurate diagnosis in low- and middle-income settings.",
-              "title_ko": "리소스 제한 설정에서 사지-거들 근이영양증 진단에 대한 통합된 접근법."
             }
           ]
         },
@@ -4293,6 +4237,71 @@
           ]
         },
         {
+          "journal": "Acta medica Indonesiana",
+          "impact_factor": 1.5,
+          "index_type": "미상",
+          "quartile": "미상",
+          "paper_count": 1,
+          "top_paper": {
+            "pmid": "39865054",
+            "title": "Potential Use and Limitation of Artificial Intelligence to Screen Diabetes Mellitus in Clinical Practice: A Literature Review.",
+            "journal": "Acta medica Indonesiana",
+            "impact_factor": 1.5,
+            "index_type": "미상",
+            "quartile": "미상",
+            "pubdate": "2024-10-01",
+            "authors": [
+              "Nur A",
+              "Yumnanisha D",
+              "Tjandra S"
+            ],
+            "citation_count": 1,
+            "rcr": 0.15580185382823297,
+            "volume": "56",
+            "issue": "4",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/39865054/",
+            "altmetric_score": 0,
+            "altmetric_news": 0,
+            "altmetric_social": 0,
+            "is_current_issue": true,
+            "hot_score": 16.9,
+            "field": "preventive",
+            "field_label": "예방의학",
+            "abstract": "The burden of undiagnosed diabetes mellitus (DM) is substantial, with approximately 240 million individuals globally unaware of their condition, disproportionately affecting low- and middle-income countries (LMICs), including Indonesia. Without screening, DM and its complications will impose significant pressure on healthcare systems. Current clinical practices for screening and diagnosing DM primarily involve blood or laboratory-based testing which possess limitations on access and cost. To address these challenges, researchers have developed risk-scoring tools to identify high-risk populations. However, considering generalizability, artificial intelligence (AI) technologies offer a promising approach, leveraging diverse data sources for improved accuracy. AI models (i.e., machine learning and deep learning) have yielded prediction performances of up to 98% in various diseases. This article underscores the potential of AI-driven approaches in reducing the burden of DM through accurate prediction of undiagnosed diabetes while highlighting the need for continued innovation and collaboration in healthcare delivery.",
+            "title_ko": "임상 실습에서 당뇨병을 선별하기 위한 인공 지능의 잠재적 사용 및 제한: 문헌 검토."
+          },
+          "papers": [
+            {
+              "pmid": "39865054",
+              "title": "Potential Use and Limitation of Artificial Intelligence to Screen Diabetes Mellitus in Clinical Practice: A Literature Review.",
+              "journal": "Acta medica Indonesiana",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2024-10-01",
+              "authors": [
+                "Nur A",
+                "Yumnanisha D",
+                "Tjandra S"
+              ],
+              "citation_count": 1,
+              "rcr": 0.15580185382823297,
+              "volume": "56",
+              "issue": "4",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/39865054/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": true,
+              "hot_score": 16.9,
+              "field": "preventive",
+              "field_label": "예방의학",
+              "abstract": "The burden of undiagnosed diabetes mellitus (DM) is substantial, with approximately 240 million individuals globally unaware of their condition, disproportionately affecting low- and middle-income countries (LMICs), including Indonesia. Without screening, DM and its complications will impose significant pressure on healthcare systems. Current clinical practices for screening and diagnosing DM primarily involve blood or laboratory-based testing which possess limitations on access and cost. To address these challenges, researchers have developed risk-scoring tools to identify high-risk populations. However, considering generalizability, artificial intelligence (AI) technologies offer a promising approach, leveraging diverse data sources for improved accuracy. AI models (i.e., machine learning and deep learning) have yielded prediction performances of up to 98% in various diseases. This article underscores the potential of AI-driven approaches in reducing the burden of DM through accurate prediction of undiagnosed diabetes while highlighting the need for continued innovation and collaboration in healthcare delivery.",
+              "title_ko": "임상 실습에서 당뇨병을 선별하기 위한 인공 지능의 잠재적 사용 및 제한: 문헌 검토."
+            }
+          ]
+        },
+        {
           "journal": "Noise & health",
           "impact_factor": 1.5,
           "index_type": "미상",
@@ -4614,77 +4623,12 @@
               "title_ko": "의약품 관련 정보에 대한 접근성 향상을 위한 전자 전단지의 역할."
             }
           ]
-        },
-        {
-          "journal": "Lymphology",
-          "impact_factor": 1.5,
-          "index_type": "미상",
-          "quartile": "미상",
-          "paper_count": 1,
-          "top_paper": {
-            "pmid": "39874052",
-            "title": "Investigation of the Effect of Lymphedema Self-Care Patient School on Functionality, Quality of Life, Lymphedema Volume, and Body Value in Patients with Lower Extremity Lymphedema: A Quasi-Experimental Study.",
-            "journal": "Lymphology",
-            "impact_factor": 1.5,
-            "index_type": "미상",
-            "quartile": "미상",
-            "pubdate": "2024-01-01",
-            "authors": [
-              "Eyigor S",
-              "Deveci Kocbilek Z",
-              "Ozgur Inbat M"
-            ],
-            "citation_count": 1,
-            "rcr": 0.589432188259259,
-            "volume": "57",
-            "issue": "3",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/39874052/",
-            "altmetric_score": 0,
-            "altmetric_news": 0,
-            "altmetric_social": 0,
-            "is_current_issue": true,
-            "hot_score": 16.9,
-            "field": "preventive",
-            "field_label": "예방의학",
-            "abstract": "This study examined the effect of lymphedema self-care patient school education on patient functionality, quality of life, body value, and lymphedema volume in patients with lower extremity lymphedema. The study utilized a single-group quasi-experimental design. The study sample included 21 patients with primary and secondary lower extremity lymphedema. A multidisciplinary team created a face-to-face lymphedema self-care patient education program that lasted three weeks with four hours each week to enhance lymphedema self-care management. Data collected from participants prior to the program and then at third and sixth months via Lower Extremity Functional Scale (LEFS), Lymphedema Functionality, Disability and Quality of Life Scale in Lower Extremity Lymphedema (LYMPH-ICF-LL), Body Value Scale, and extremity volumes. The average age of the patients was 54.85±11.99 years and two-thirds had secondary lymphedema. A statistically significant difference was found in the mean scores of LEFS (p<0.001), LYMPH-ICF-LL total (p= 0.006) in the 3rd and 6th months after the completion of the program, and in the lymphedema volume change (p= 0.031) in the 6th month. It was found that the lymphedema self-care patient school improved functionality and quality of life in patients with lower extremity lymphedema and decreased lymphedema volume. This lymphedema self-care patient education pro-gram is a safe and effective educational method for self-care management in individuals with lower extremity lymphedema.",
-            "title_ko": "림프부종 자가 치료 환자 학교가 하지 림프부종 환자의 기능, 삶의 질, 림프부종 용적 및 신체 가치에 미치는 영향에 대한 조사: 준실험적 연구."
-          },
-          "papers": [
-            {
-              "pmid": "39874052",
-              "title": "Investigation of the Effect of Lymphedema Self-Care Patient School on Functionality, Quality of Life, Lymphedema Volume, and Body Value in Patients with Lower Extremity Lymphedema: A Quasi-Experimental Study.",
-              "journal": "Lymphology",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2024-01-01",
-              "authors": [
-                "Eyigor S",
-                "Deveci Kocbilek Z",
-                "Ozgur Inbat M"
-              ],
-              "citation_count": 1,
-              "rcr": 0.589432188259259,
-              "volume": "57",
-              "issue": "3",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/39874052/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": true,
-              "hot_score": 16.9,
-              "field": "preventive",
-              "field_label": "예방의학",
-              "abstract": "This study examined the effect of lymphedema self-care patient school education on patient functionality, quality of life, body value, and lymphedema volume in patients with lower extremity lymphedema. The study utilized a single-group quasi-experimental design. The study sample included 21 patients with primary and secondary lower extremity lymphedema. A multidisciplinary team created a face-to-face lymphedema self-care patient education program that lasted three weeks with four hours each week to enhance lymphedema self-care management. Data collected from participants prior to the program and then at third and sixth months via Lower Extremity Functional Scale (LEFS), Lymphedema Functionality, Disability and Quality of Life Scale in Lower Extremity Lymphedema (LYMPH-ICF-LL), Body Value Scale, and extremity volumes. The average age of the patients was 54.85±11.99 years and two-thirds had secondary lymphedema. A statistically significant difference was found in the mean scores of LEFS (p<0.001), LYMPH-ICF-LL total (p= 0.006) in the 3rd and 6th months after the completion of the program, and in the lymphedema volume change (p= 0.031) in the 6th month. It was found that the lymphedema self-care patient school improved functionality and quality of life in patients with lower extremity lymphedema and decreased lymphedema volume. This lymphedema self-care patient education pro-gram is a safe and effective educational method for self-care management in individuals with lower extremity lymphedema.",
-              "title_ko": "림프부종 자가 치료 환자 학교가 하지 림프부종 환자의 기능, 삶의 질, 림프부종 용적 및 신체 가치에 미치는 영향에 대한 조사: 준실험적 연구."
-            }
-          ]
         }
       ],
       "hot_topics": [
         {
           "phrase": "type diabetes",
-          "score": 72.4,
+          "score": 82.4,
           "paper_count": 5,
           "pmids": [
             "40302946",
@@ -4695,13 +4639,14 @@
           ]
         },
         {
-          "phrase": "quality life",
-          "score": 50.7,
-          "paper_count": 3,
+          "phrase": "diabetes mellitus",
+          "score": 45.8,
+          "paper_count": 4,
           "pmids": [
-            "39959334",
-            "42860772",
-            "39874052"
+            "40302970",
+            "40707091",
+            "40655936",
+            "39865054"
           ]
         },
         {
@@ -4711,6 +4656,15 @@
           "pmids": [
             "39798110",
             "39791412"
+          ]
+        },
+        {
+          "phrase": "quality life",
+          "score": 33.8,
+          "paper_count": 2,
+          "pmids": [
+            "39959334",
+            "42860772"
           ]
         },
         {
@@ -4759,16 +4713,6 @@
           ]
         },
         {
-          "phrase": "diabetes mellitus",
-          "score": 28.9,
-          "paper_count": 3,
-          "pmids": [
-            "40302970",
-            "40707091",
-            "40655936"
-          ]
-        },
-        {
           "phrase": "genetic testing",
           "score": 21.0,
           "paper_count": 3,
@@ -4809,7 +4753,7 @@
             "phrase": "type diabetes",
             "scores": [
               0.0,
-              71.4,
+              81.4,
               11.0,
               21.0
             ]
@@ -4824,12 +4768,12 @@
             ]
           },
           {
-            "phrase": "breast cancer",
+            "phrase": "diabetes mellitus",
             "scores": [
-              16.9,
               0.0,
-              16.9,
-              40.0
+              44.8,
+              11.0,
+              21.0
             ]
           },
           {
@@ -4842,21 +4786,21 @@
             ]
           },
           {
+            "phrase": "breast cancer",
+            "scores": [
+              16.9,
+              0.0,
+              16.9,
+              30.0
+            ]
+          },
+          {
             "phrase": "physical activity",
             "scores": [
               0.0,
               13.8,
               0.0,
               50.0
-            ]
-          },
-          {
-            "phrase": "diabetes mellitus",
-            "scores": [
-              0.0,
-              34.8,
-              11.0,
-              11.0
             ]
           }
         ]
@@ -4929,71 +4873,6 @@
               "field_label": "응급의학",
               "abstract": "AIM: Adherence to post-cardiac arrest care (PCAC) recommendations is associated with improved outcomes for adults. We aimed to describe the survival impact of meeting American Heart Association (AHA) PCAC guidelines in children after cardiac arrest. METHODS: We conducted a retrospective study using Get With The Guidelines® Resuscitation's (GWTG®-R) registry to describe the PCAC of patients ≤ 18 years old who suffered an in-hospital or out-of-hospital cardiac arrest (IHCA or OHCA). We evaluated the association between the absence of hypotension and fever in the initial 24 h following return of circulation (ROC) with survival to hospital discharge. We reviewed the utilization of monitoring/evaluation tools recommended in pediatric PCAC guidelines: electrocardiogram (ECG), electroencephalogram (EEG), and neuro-imaging. RESULTS: We found 385 pediatric patients who suffered an IHCA or OHCA from 2015 through 2019 and survived at least 6 h post-ROC. Sixty-six percent of patients survived to hospital discharge. Following ROC, 56% of patients had EEG monitoring, 80% had an ECG performed, 47% had a head CT, and 26% had a cerebral MRI. In the initial 24 h post-ROC, 92% of patients did not have hypotension and 79% were afebrile. Patients without hypotension in the initial 24 h post-ROC had higher odds of survival to hospital discharge than those with hypotension (aOR 4.96; 95% CI 2.07, 11.90; p = 0.0003), adjusting for age and cardiac arrest location. Patients without hypotension and without fever in the initial 24 h post-ROC had higher odds of survival to hospital discharge compared to patients who had either hypotension or fever or both (aOR 1.98; 95% CI 1.06,3.71; p = 0.034). CONCLUSION: In this retrospective multicenter registry study, absence of both post-cardiac arrest hypotension and fever were associated with increased odds of survival to hospital discharge. Further research is needed to understand the full impact of PCAC recommendation compliance on survival outcomes.",
               "title_ko": "소아 심정지 후 치료가 생존에 미치는 영향: AHA의 다기관 검토 Guidelines ® -resuscitation post-cardiac arrest care registry."
-            }
-          ]
-        },
-        {
-          "journal": "Critical care medicine",
-          "impact_factor": 1.5,
-          "index_type": "미상",
-          "quartile": "미상",
-          "paper_count": 1,
-          "top_paper": {
-            "pmid": "39637269",
-            "title": "Epidemiology, Process of Care, and Associated Outcomes of Pediatric Out-of-Hospital Cardiac Arrest in China: Results From a Prospective, Multicenter, Population-Based Registry.",
-            "journal": "Critical care medicine",
-            "impact_factor": 1.5,
-            "index_type": "미상",
-            "quartile": "미상",
-            "pubdate": "2024-10-07",
-            "authors": [
-              "Zhao X",
-              "Zheng W",
-              "Ma Y"
-            ],
-            "citation_count": 12,
-            "rcr": 2.2161823730343744,
-            "volume": "52",
-            "issue": "12",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/39637269/",
-            "altmetric_score": 0,
-            "altmetric_news": 0,
-            "altmetric_social": 0,
-            "is_current_issue": true,
-            "hot_score": 35.0,
-            "field": "emergency",
-            "field_label": "응급의학",
-            "abstract": "OBJECTIVES: To comprehensively describe the incidence, process of care, outcomes, and variation among different age groups of pediatric out-of-hospital cardiac arrest (OHCA) in China. DESIGN: The Baseline Investigation of Out-of-Hospital Cardiac Arrest (BASIC-OHCA) is a prospective, multicenter, population-based registry of emergency medical services (EMS)-assessed OHCA in China. SETTING: A total of 25 monitoring sites of all seven geographical regions were included, covering a pediatric population (age ≤ 19) of around 22.3 million in China. PATIENTS: Pediatric patients enrolled in BASIC-OHCA from August 2019 to December 2020 were included. INTERVENTIONS: None. MEASUREMENTS AND MAIN RESULTS: A total of 1493 pediatric patients with EMS-assessed OHCA were enrolled, and resuscitation was attempted in 651 cases (43.6%). The crude incidence of EMS-assessed and EMS-treated OHCA was 5.5 (95% CI, 5.2-5.9) and 2.4 (95% CI, 2.2-2.6) per 100,000 pediatric population. Among 651 EMS-treated OHCA cases, 434 patients (66.7%) were male, and 353 (54.2%) had nonmedical causes (trauma, asphyxia, and drowning being the most common). There were 396 patients (60.8%) who collapsed at home, and the proportion of cases that occurred in public places such as streets and schools increased with age. There were 26 patients (4.0%) who had an initial shockable rhythm. For 626 non-EMS-witnessed patients, 152 patients (24.3%) received bystander cardiopulmonary resuscitation (CPR), 68 (10.9%) received dispatcher-assisted CPR, and 3 (0.5%) had automated external defibrillator applied. The survival to discharge or 30 days was 3.5% (23/651), and the favorable neurologic prognosis was 3.1% (20/651), with no differences among age groups. CONCLUSIONS: This study provides the first national exploration of pediatric OHCA in China. The high proportion of nonmedical causes underscores the importance of preventing accidents in children. Gaps in the chain of survival and patient outcomes provide a focus for improving the treatment of pediatric OHCA in China and other developing countries.",
-            "title_ko": "중국에서의 소아과 병원 외 심장 발작의 역학, 치료 과정 및 관련 결과: 전향적, 다기관, 인구 기반 레지스트리의 결과."
-          },
-          "papers": [
-            {
-              "pmid": "39637269",
-              "title": "Epidemiology, Process of Care, and Associated Outcomes of Pediatric Out-of-Hospital Cardiac Arrest in China: Results From a Prospective, Multicenter, Population-Based Registry.",
-              "journal": "Critical care medicine",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2024-10-07",
-              "authors": [
-                "Zhao X",
-                "Zheng W",
-                "Ma Y"
-              ],
-              "citation_count": 12,
-              "rcr": 2.2161823730343744,
-              "volume": "52",
-              "issue": "12",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/39637269/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": true,
-              "hot_score": 35.0,
-              "field": "emergency",
-              "field_label": "응급의학",
-              "abstract": "OBJECTIVES: To comprehensively describe the incidence, process of care, outcomes, and variation among different age groups of pediatric out-of-hospital cardiac arrest (OHCA) in China. DESIGN: The Baseline Investigation of Out-of-Hospital Cardiac Arrest (BASIC-OHCA) is a prospective, multicenter, population-based registry of emergency medical services (EMS)-assessed OHCA in China. SETTING: A total of 25 monitoring sites of all seven geographical regions were included, covering a pediatric population (age ≤ 19) of around 22.3 million in China. PATIENTS: Pediatric patients enrolled in BASIC-OHCA from August 2019 to December 2020 were included. INTERVENTIONS: None. MEASUREMENTS AND MAIN RESULTS: A total of 1493 pediatric patients with EMS-assessed OHCA were enrolled, and resuscitation was attempted in 651 cases (43.6%). The crude incidence of EMS-assessed and EMS-treated OHCA was 5.5 (95% CI, 5.2-5.9) and 2.4 (95% CI, 2.2-2.6) per 100,000 pediatric population. Among 651 EMS-treated OHCA cases, 434 patients (66.7%) were male, and 353 (54.2%) had nonmedical causes (trauma, asphyxia, and drowning being the most common). There were 396 patients (60.8%) who collapsed at home, and the proportion of cases that occurred in public places such as streets and schools increased with age. There were 26 patients (4.0%) who had an initial shockable rhythm. For 626 non-EMS-witnessed patients, 152 patients (24.3%) received bystander cardiopulmonary resuscitation (CPR), 68 (10.9%) received dispatcher-assisted CPR, and 3 (0.5%) had automated external defibrillator applied. The survival to discharge or 30 days was 3.5% (23/651), and the favorable neurologic prognosis was 3.1% (20/651), with no differences among age groups. CONCLUSIONS: This study provides the first national exploration of pediatric OHCA in China. The high proportion of nonmedical causes underscores the importance of preventing accidents in children. Gaps in the chain of survival and patient outcomes provide a focus for improving the treatment of pediatric OHCA in China and other developing countries.",
-              "title_ko": "중국에서의 소아과 병원 외 심장 발작의 역학, 치료 과정 및 관련 결과: 전향적, 다기관, 인구 기반 레지스트리의 결과."
             }
           ]
         },
@@ -5195,7 +5074,7 @@
           "impact_factor": 1.5,
           "index_type": "미상",
           "quartile": "미상",
-          "paper_count": 55,
+          "paper_count": 56,
           "top_paper": {
             "pmid": "39642139",
             "title": "A machine learning-based risk score for prediction of mechanical ventilation in children with dengue shock syndrome: A retrospective cohort study.",
@@ -5456,7 +5335,7 @@
           "impact_factor": 1.5,
           "index_type": "미상",
           "quartile": "미상",
-          "paper_count": 2,
+          "paper_count": 3,
           "top_paper": {
             "pmid": "41589734",
             "title": "Do not forget the cryoprecipitate: The impact of the 2019 Joint Trauma System Damage Control Resuscitation Clinical Practice Guideline on mortality.",
@@ -5540,7 +5419,35 @@
               "field": "emergency",
               "field_label": "응급의학",
               "abstract": "BACKGROUND: The innate immune response is activated by tissue injury and may quickly become dysregulated in the setting of major trauma. Cytokines are a key component of this response and function to activate and mobilize neutrophils, macrophages, and natural killer cells. The purpose of this study was to understand how the kinetics of blood-based resuscitation may impact the cytokine response. Specifically, we hypothesize that transfusion kinetics make a fundamental contribution to the inflammatory response, beyond the volume of transfusion and injury severity. METHODS: The Pragmatic, Randomized Optimal Platelet and Plasma Ratio data set was used in this retrospective analysis. Transfusion kinetics were quantified by calculating the total critical administration threshold episodes in three time periods, 1 to 2 hours following injury, 3 to 4 hours, and 5 to 6 hours following injury. The longitudinal response of key cytokines over 72 hours was assessed with a multivariable linear growth model, using critical administration threshold status as a time-varying covariate. RESULTS: A total of 522 patients were included in this analysis. Pro-inflammatory cytokines interleukin (IL)-6 (p = 0.0354) and IL-8 (p < 0.0001) were significantly increased. Anti-inflammatory cytokines IL-1ra (p = 0.0001) and IL-10 (p < 0.0001) were significantly increased. Chemokines interferon-γ-inducible protein 10 (p = 0.0433), monocyte chemoattractant protein-1 (p = 0.0064), and macrophage inflammatory protein 1β (p = 0.0003) were significantly increased, while regulated up activation, normal T-cell expressed and secreted chemokine (p = 0.0216) was significantly decreased. Growth factors showed no significant response. CONCLUSION: The kinetics of packed red blood cell transfusion demonstrate a potential association with the expression of cytokines following injury, beyond the total transfusion requirement or the severity of injury. Because cytokines activate and mobilize neutrophils, macrophages, and natural killer cells, these alterations may have a profound effect on degree and coordination of the immune response. As the contribution of various components of major resuscitation to inflammatory activation is clarified, such as types of blood product, tempo of transfusion, and operative care, targets for intervention should become more apparent. LEVEL OF EVIDENCE: Therapeutic/Care Management; Level III.",
-              "title_ko": ""
+              "title_ko": "주요 손상 후 수혈 동역학이 염증 반응에 미치는 영향."
+            },
+            {
+              "pmid": "39733294",
+              "title": "Plasma treatment is associated with decreased brain lesion and resuscitation requirements after traumatic brain injury in a swine model of prolonged damage-control resuscitation.",
+              "journal": "The journal of trauma and acute care surgery",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2024-10-15",
+              "authors": [
+                "Jin G",
+                "Liggett MR",
+                "Ho JW"
+              ],
+              "citation_count": 3,
+              "rcr": 0.9921517476977065,
+              "volume": "97",
+              "issue": "6",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/39733294/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 13.5,
+              "field": "emergency",
+              "field_label": "응급의학",
+              "abstract": "BACKGROUND: Hemorrhage and traumatic brain injury (TBI) are the leading causes of death in trauma. Future military conflicts are likely to be in austere environments, where prolonged damage-control resuscitation (p-DCR) may be required for 72 hours before evacuation. Previous studies showed that early administration of fresh frozen plasma (FFP) during p-DCR can significantly decrease the volume of resuscitation required in models of hemorrhagic shock and also provide neuroprotection after TBI. In the current study, we hypothesized that the addition of FFP to p-DCR would decrease the resuscitation requirements and improve neurological outcomes in a large animal model of combined hemorrhagic shock and TBI. METHODS: Yorkshire swine (40-45 kg; n = 10) were subjected to TBI (controlled cortical impact) and 40% blood volume hemorrhage. After 2 hours of shock, they were randomized to either: (1) p-DCR-normal saline or (2) p-DCR-FFP (250 mL). Prolonged damage-control resuscitation targeted a systolic blood pressure of 90% of baseline, in line with Tactical Combat Casualty Care principles. At 72 hours, animals were transfused 1 U of packed red blood cells, simulating evacuation to higher echelons of care. Brain lesion size, physiologic parameters, resuscitation fluid requirements, and neurological severity score were used to compare the clinical outcomes. RESULTS: The p-DCR-FFP group required significantly less total volume (4,540.0 ± 151.7 mL vs. 974.0 ± 167.0 mL, p < 0.01) of resuscitation to maintain the target systolic blood pressure. Fresh frozen plasma-treated animals had significantly reduced brain lesion size (4,517.0 ± 180.0 mm 3 vs. 2,477.0 ± 1,191.0 mm 3 , p < 0.01) and showed significantly decreased functional neurologic impairment. CONCLUSION: In this exploratory study, treatment with FFP decreased resuscitation requirements, reduced brain lesion size, and improved neurological outcomes when added to prolonged DCR in a porcine model of combined hemorrhagic shock and TBI.",
+              "title_ko": "장기간 손상-대조군 소생의 돼지 모델에서 혈장 치료는 외상성 뇌 손상 후 뇌 병변 및 소생 요건 감소와 관련이 있다."
             }
           ]
         },
@@ -5575,7 +5482,7 @@
             "field": "emergency",
             "field_label": "응급의학",
             "abstract": "PURPOSE: This study aimed to assess the levels and sources of noise in the emergency intensive care unit (EICU) of an emergency department and investigate their effects on the sleep quality of conscious patients. METHODS: A study was conducted on patients admitted to the EICU from December 2020 to December 2023. They were categorised according to their sleep quality with the Pittsburgh Sleep Quality Index. Environmental noise levels were measured using precision sound level metres and environmental noise automatic monitoring instruments. Data analysis was performed using SPSS version 25.0, and Chi-square test, Fisher's exact probability and t-tests were conducted when applicable. The significance threshold was set at P < 0.05. Regression analysis was carried out for indicators with significant differences. RESULTS: A total of 200 patients were included in the study. Of them 96 in the ideal sleep group and 104 in the non-ideal sleep group. Patients with non-ideal sleep experienced significantly higher noise levels across various measures (P < 0.05). Additionally, patients with non-ideal sleep reported significantly higher occurrences of noise-related awakening, difficulty in falling asleep, nightmares or vivid dreams and sleepwalking episodes (P < 0.05). Significant differences in staff activities, including staff conversations, equipment noise exposure, cleaning activities, patient interventions and overhead pages, were observed between the groups (P < 0.05). Multivariate logistic regression analysis indicating that the average noise level, conversational speech, equipment alarms, ambient noise, peak noise levels, staff conversations, cleaning activities, patient interventions and overhead pages were significant contributors to poor sleep. CONCLUSION: The study suggested that high noise levels and staff-related activities affected the sleep quality of conscious patients in the EICU. Targeted measures could improve the prognoses of patients.",
-            "title_ko": ""
+            "title_ko": "응급 중환자실의 의식 환자의 수면 질에 대한 소음의 수준과 원천의 영향."
           },
           "papers": [
             {
@@ -5603,7 +5510,7 @@
               "field": "emergency",
               "field_label": "응급의학",
               "abstract": "PURPOSE: This study aimed to assess the levels and sources of noise in the emergency intensive care unit (EICU) of an emergency department and investigate their effects on the sleep quality of conscious patients. METHODS: A study was conducted on patients admitted to the EICU from December 2020 to December 2023. They were categorised according to their sleep quality with the Pittsburgh Sleep Quality Index. Environmental noise levels were measured using precision sound level metres and environmental noise automatic monitoring instruments. Data analysis was performed using SPSS version 25.0, and Chi-square test, Fisher's exact probability and t-tests were conducted when applicable. The significance threshold was set at P < 0.05. Regression analysis was carried out for indicators with significant differences. RESULTS: A total of 200 patients were included in the study. Of them 96 in the ideal sleep group and 104 in the non-ideal sleep group. Patients with non-ideal sleep experienced significantly higher noise levels across various measures (P < 0.05). Additionally, patients with non-ideal sleep reported significantly higher occurrences of noise-related awakening, difficulty in falling asleep, nightmares or vivid dreams and sleepwalking episodes (P < 0.05). Significant differences in staff activities, including staff conversations, equipment noise exposure, cleaning activities, patient interventions and overhead pages, were observed between the groups (P < 0.05). Multivariate logistic regression analysis indicating that the average noise level, conversational speech, equipment alarms, ambient noise, peak noise levels, staff conversations, cleaning activities, patient interventions and overhead pages were significant contributors to poor sleep. CONCLUSION: The study suggested that high noise levels and staff-related activities affected the sleep quality of conscious patients in the EICU. Targeted measures could improve the prognoses of patients.",
-              "title_ko": ""
+              "title_ko": "응급 중환자실의 의식 환자의 수면 질에 대한 소음의 수준과 원천의 영향."
             }
           ]
         },
@@ -5965,7 +5872,7 @@
           "impact_factor": 1.5,
           "index_type": "미상",
           "quartile": "미상",
-          "paper_count": 43,
+          "paper_count": 41,
           "top_paper": {
             "pmid": "39947973",
             "title": "Promethazine: A Review of Therapeutic Uses and Toxicity.",
@@ -6080,34 +5987,6 @@
               "title_ko": ""
             },
             {
-              "pmid": "39632227",
-              "title": "Differentiating Vestibular Migraine and Posterior Circulation Transient Ischemic Attack in the Emergency Department: An Expert Practice Review.",
-              "journal": "The Journal of emergency medicine",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2024-08-06",
-              "authors": [
-                "Sharif S",
-                "Kotwal S",
-                "Edlow JA"
-              ],
-              "citation_count": 5,
-              "rcr": 1.895554825999004,
-              "volume": "68",
-              "issue": "",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/39632227/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": false,
-              "hot_score": 17.4,
-              "field": "emergency",
-              "field_label": "응급의학",
-              "abstract": "BACKGROUND: Vestibular migraine (VM) is a subset of migraine and, as its name suggests, presents with both migrainous and vestibular symptoms. However, a more worrisome diagnosis that can present with similar features is posterior circulation transient ischemic attack (pc-TIA) presenting as episodes of isolated dizziness. OBJECTIVES: The purpose of this article is to introduce emergency physicians to the diagnostic features of VM focusing on epidemiological context, timing and quality of symptoms that help differentiate vestibular migraine from pc-TIA. DISCUSSION: Our comprehensive search of epidemiologic data of VM patients found that they are more likely to be younger and female than patients with pc-TIA. Traditional vascular risk factors and a recent history of head or neck trauma are more common in pc-TIA patients. The onset of dizziness is sudden in pc-TIA with symptoms often lasting less than one hour. Moreover, symptoms tend to be positive in VM versus negative in pc-TIA. CONCLUSIONS: Medical decision making should be individualized. A new nontriggered episode of isolated dizziness or those with new transient neurological findings should be evaluated for pc-TIA. VM should be considered in younger patients who have had multiple episodes over a greater time period with other migraine-related symptoms.",
-              "title_ko": ""
-            },
-            {
               "pmid": "41274025",
               "title": "Ultrasound Guided Erector Spinae Plane Block for Pain Management in the Emergency Department: A Scoping Review.",
               "journal": "The Journal of emergency medicine",
@@ -6216,6 +6095,34 @@
               "field": "emergency",
               "field_label": "응급의학",
               "abstract": "BACKGROUND: Emergency departments (ED) must perform patient care at a safe and efficient pace, which requires an effective care team. Communication and workplace practices that foster identification as part of an emergency healthcare team have not been previously demonstrated. OBJECTIVES: To explore the critical role of communication within ED healthcare teams and its impact on team belonging. This study investigates how communication practices between physicians and nurses in the ED influence team dynamics and the sense of belonging to the healthcare team. METHODS: A qualitative approach involving focus groups with 38 participants from nine EDs in Oregon. RESULTS: This study identifies positive influences on team belonging, such as proactivity, openness, less formal name conventions, and relationships outside of work. Conversely, negative influences include resistance to communication, obstacles to communication, and interactions leading to alienation. CONCLUSION: The findings emphasize the importance of fostering positive communication practices to enhance team dynamics, cohesiveness, and overall well-being within ED healthcare teams. Future research may delve into specific aspects like naming conventions and the role of friendships in healthcare communication.",
+              "title_ko": ""
+            },
+            {
+              "pmid": "39809646",
+              "title": "Ultrasound-guided thoracic nerve blocks for emergency department patients with rib fractures: A review.",
+              "journal": "The Journal of emergency medicine",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2024-08-14",
+              "authors": [
+                "Hussein B",
+                "Mercader D",
+                "Theophanous RG"
+              ],
+              "citation_count": 3,
+              "rcr": null,
+              "volume": "68",
+              "issue": "",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/39809646/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 13.5,
+              "field": "emergency",
+              "field_label": "응급의학",
+              "abstract": "BACKGROUND: Rib fractures are frequently diagnosed and treated in the emergency department (ED). Thoracic trauma has serious morbidity and mortality, particularly in older adults, with complications including pulmonary contusions, hemorrhage, pneumonia, or death. Bedside ED-performed ultrasound-guided anesthesia is gaining in popularity, and early and adequate pain control has shown improved patient outcomes with rare complications. OBJECTIVE OF THE REVIEW: We describe thoracic nerve block options that can be used clinically for rib fractures or other thoracic pain or trauma. We identify the pros and cons of each type of block, describe their risk profile and advantages, and summarize the steps on how each is performed. DISCUSSION: Thoracic epidural and paravertebral blocks are more invasive, targeting the nerves closer to the spinal cord, thus they are primarily used in the operating room or by anesthesiology for surgical cases. However, newer blocks are gaining in popularity, particularly the erector spinae block (ESP), serratus anterior plane nerve block (SANB), and intercostal nerve block (ICNB). These blocks provide adequate anesthesia and can be performed in an ED setting. CONCLUSIONS: Thoracic nerve blocks (e.g., ESP, SANB, ICNB) can be performed safely by appropriately trained emergency physicians, provide excellent anesthesia for rib fractures and thoracic trauma, and should be strongly considered for improved patient-centered outcomes. Furthermore, performing regional nerve blocks in the emergency department can reduce complications including adverse effects from opioids or other delirium-inducing medications.",
               "title_ko": ""
             }
           ]
@@ -9842,19 +9749,282 @@
               "title_ko": ""
             }
           ]
+        },
+        {
+          "journal": "Critical care science",
+          "impact_factor": 1.5,
+          "index_type": "미상",
+          "quartile": "미상",
+          "paper_count": 10,
+          "top_paper": {
+            "pmid": "41417414",
+            "title": "Stepwise positive end-expiratory pressure titration modulates respiratory mechanics and mechanical power in mechanically ventilated adults.",
+            "journal": "Critical care science",
+            "impact_factor": 1.5,
+            "index_type": "미상",
+            "quartile": "미상",
+            "pubdate": "2025-12-19",
+            "authors": [
+              "Gallardo A",
+              "Alcaráz M",
+              "Díaz-Cabrera A"
+            ],
+            "citation_count": 2,
+            "rcr": null,
+            "volume": "37",
+            "issue": "",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/41417414/",
+            "altmetric_score": 0,
+            "altmetric_news": 0,
+            "altmetric_social": 0,
+            "is_current_issue": false,
+            "hot_score": 10.7,
+            "field": "emergency",
+            "field_label": "응급의학",
+            "abstract": "OBJECTIVE: To evaluate the impact of an ascending positive end-expiratory pressure titration strategy on respiratory mechanics and mechanical power in patients without lung injury. METHODS: An incremental positive end-expiratory pressure titration was performed in 4cmH2O steps, starting from zero end-expiratory pressure and progressing to 16cmH2O. Differences (Δ) in respiratory system static compliance, plateau pressure, driving pressure, and mechanical power were assessed during lung-protective ventilation. Mechanical power formulas proposed by Gattinoni et al. and Costa et al. were used. Analyses were also performed on the static elastic components, dynamic elastic components, total elastic power, and resistive components. RESULTS: Increasing positive end-expiratory pressure levels were associated with a progressive rise in mechanical power, plateau pressure, total and static elastic power, and a decline in compliance. Mechanical power showed strong positive correlations with: ΔPplat (p < 0.001); Δelastic dynamic power (p < 0.001); Δdriving pressure (p < 0.001); and Δtotal elastic power (p < 0.001). Δmechanical power correlated strongly with Δresistive power (p < 0.001), but not with other mechanical power components or mechanics. CONCLUSION: Progressive positive end-expiratory pressure increase in patients without lung disease significantly raises total mechanical power and its elastic components, particularly static elastic power. These changes may occur silently and without significant alterations in driving pressure or compliance.",
+            "title_ko": ""
+          },
+          "papers": [
+            {
+              "pmid": "41417414",
+              "title": "Stepwise positive end-expiratory pressure titration modulates respiratory mechanics and mechanical power in mechanically ventilated adults.",
+              "journal": "Critical care science",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2025-12-19",
+              "authors": [
+                "Gallardo A",
+                "Alcaráz M",
+                "Díaz-Cabrera A"
+              ],
+              "citation_count": 2,
+              "rcr": null,
+              "volume": "37",
+              "issue": "",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/41417414/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 10.7,
+              "field": "emergency",
+              "field_label": "응급의학",
+              "abstract": "OBJECTIVE: To evaluate the impact of an ascending positive end-expiratory pressure titration strategy on respiratory mechanics and mechanical power in patients without lung injury. METHODS: An incremental positive end-expiratory pressure titration was performed in 4cmH2O steps, starting from zero end-expiratory pressure and progressing to 16cmH2O. Differences (Δ) in respiratory system static compliance, plateau pressure, driving pressure, and mechanical power were assessed during lung-protective ventilation. Mechanical power formulas proposed by Gattinoni et al. and Costa et al. were used. Analyses were also performed on the static elastic components, dynamic elastic components, total elastic power, and resistive components. RESULTS: Increasing positive end-expiratory pressure levels were associated with a progressive rise in mechanical power, plateau pressure, total and static elastic power, and a decline in compliance. Mechanical power showed strong positive correlations with: ΔPplat (p < 0.001); Δelastic dynamic power (p < 0.001); Δdriving pressure (p < 0.001); and Δtotal elastic power (p < 0.001). Δmechanical power correlated strongly with Δresistive power (p < 0.001), but not with other mechanical power components or mechanics. CONCLUSION: Progressive positive end-expiratory pressure increase in patients without lung disease significantly raises total mechanical power and its elastic components, particularly static elastic power. These changes may occur silently and without significant alterations in driving pressure or compliance.",
+              "title_ko": ""
+            },
+            {
+              "pmid": "41417397",
+              "title": "The impact of a multicomponent telemedicine-based intervention on quality of life in adults with respiratory failure requiring mechanical ventilation: protocol for a cluster stepped-wedge randomized clinical trial (Tele-Rehab MV Trial).",
+              "journal": "Critical care science",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2025-12-15",
+              "authors": [
+                "Pereira AJ",
+                "Moraes RB",
+                "Trott G"
+              ],
+              "citation_count": 2,
+              "rcr": null,
+              "volume": "37",
+              "issue": "",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/41417397/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 10.7,
+              "field": "emergency",
+              "field_label": "응급의학",
+              "abstract": "OBJECTIVE: To assess the impact of a multicomponent intervention on the health-related quality of life of patients with hypoxemic respiratory failure requiring invasive mechanical ventilation. METHODS: A cluster stepped-wedge randomized clinical trial will be conducted in intensive care units across Brazil. Intensive care units with ≥ 8 beds and the capacity to admit patients with acute hypoxemic respiratory failure will be included. Within each intensive care unit, adult patients with acute hypoxemic respiratory failure requiring invasive mechanical ventilation, in whom SARS-CoV-2 infection is part of the differential diagnosis, will be enrolled. The intervention consists of a telemedicine-based quality improvement program focused on disability prevention and rehabilitation strategies, implemented during the patient's intensive care unit stay, continued through ward admission, and extending up to 2 months post-hospital discharge. The primary outcome is health-related quality of life assessed using the EuroQol 5-Dimension 3-Level scale 90 days after discharge from the hospital. Secondary outcomes include rehospitalization within 30 days from hospital discharge, as well as all-cause mortality, anxiety, depression, cognitive impairment, new disabilities for instrumental activities of daily living, and return to work or studies 90 days after discharge from the hospital. RESULTS: The study protocol has been approved by the research ethics committees of all participant institutions. It was registered at ClinicalTrials.gov (NCT06343545) before the first participant was included. We aim to disseminate the findings through conferences and peer-reviewed journals. CONCLUSION: The \"Tele-Rehab MV trial\" may provide further information on the role of early multicomponent interventions aimed at disability prevention and rehabilitation for critically ill patients with acute hypoxemic respiratory failure.",
+              "title_ko": ""
+            },
+            {
+              "pmid": "39775432",
+              "title": "Long-term mortality of Dutch COVID-19 patients admitted to the intensive care medicine: a retrospective analysis from a national quality registry.",
+              "journal": "Critical care science",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2024-12-20",
+              "authors": [
+                "Wortel SA",
+                "Bakhshi-Raiez F",
+                "Abu-Hanna A"
+              ],
+              "citation_count": 2,
+              "rcr": 0.5430979569656833,
+              "volume": "36",
+              "issue": "",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/39775432/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 10.7,
+              "field": "emergency",
+              "field_label": "응급의학",
+              "abstract": "OBJECTIVE: To describe the 12-month mortality of Dutch COVID-19 intensive care unit patients, the total COVID-19 population and various subgroups on the basis of the number of comorbidities, age, sex, mechanical ventilation, and vasoactive medication use. METHODS: We included all patients admitted with COVID-19 between March 1, 2020, and March 29, 2022, from the Dutch National Intensive Care (NICE) database. The crude 12-month mortality rate is presented via Kaplan-Meier survival curves for each patient subgroup. We used Cox regression models to analyze the effects of patient characteristics on 12-month mortality after hospital discharge. RESULTS: We included 16,605 COVID-19 patients. The in-hospital mortality rate was 28.1%, and the 12-month mortality rate after intensive care unit admission was 29.8%. Among hospital survivors, 12-month mortality after hospital discharge was 2.5% (300/11,931). The hazard of death at 12 months after hospital discharge was greater in patients between 60 and 79 years (HR 4.74; 95%CI 2.23 - 10.06) and ≥ 80 years (HR 22.77; 95%CI 9.91 - 52.28) than in patients < 40 years of age; in male patients than in female patients (HR 1.38; 95%CI 1.07 - 1.78); and in patients with one (adjusted HR 1.95; 95%CI 1.5 - 2.53), two (adjusted HR 4.49; 95%CI 3.27 - 6.16) or more than two comorbidities (adjusted HR 4.99; 95%CI 2.62 - 9.5) than in patients with no comorbidities. Neither vasoactive medication use nor mechanical ventilation resulted in statistically significant results. CONCLUSION: For Dutch COVID-19 intensive care unit patients, most deaths occurred during their hospital stay. For hospital survivors, the crude 12-month mortality rate was low. Patient age (older than 60), sex and the number of comorbidities were associated with a greater hazard of death at 12 months after hospital discharge, whereas mechanical ventilation and vasoactive medication were not.",
+              "title_ko": ""
+            },
+            {
+              "pmid": "41416916",
+              "title": "Comparison of the effect of a lower versus a higher PEEP strategy on clinically relevant outcomes in invasively ventilated patients without acute respiratory distress syndrome: statistical re-analysis plan of the RELAx trial using a Bayesian framework.",
+              "journal": "Critical care science",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2025-12-15",
+              "authors": [
+                "Caroli A",
+                "Algera AG",
+                "Meenen DV"
+              ],
+              "citation_count": 1,
+              "rcr": null,
+              "volume": "37",
+              "issue": "",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/41416916/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 6.8,
+              "field": "emergency",
+              "field_label": "응급의학",
+              "abstract": "BACKGROUND: The effect of different levels of positive end-expiratory pressure in invasively ventilated critically ill patients remains a matter of debate. The REstricted versus Liberal Positive End-Expiratory Pressure in Patients Without ARDS (RELAx) is a multicentric, randomized trial comparing a lower positive end-expiratory pressure strategy versus a higher positive end-expiratory pressure strategy in ventilated patients without acute respiratory distress syndrome, which demonstrated non-inferiority of lower positive end-expiratory pressure compared to higher positive end-expiratory pressure on ventilator-free days. The primary analysis was published in 2020, and a frequentist statistical approach was applied. AIM: To present the protocol of the Bayesian analysis plan that will be used to re-analyse the RELAx trial to provide complementary and additional insight into this clinical trial. METHODS: This re-analysis will focus on the probability of superiority of the intervention. As an ordinal variable, the primary outcome will be ventilator-free days at day 28, and posterior estimates will be obtained by fitting a hierarchical cumulative logistic regression model. Secondary outcomes will be mortality at day 28, as a binary outcome, and ventilation duration, as a continuous outcome. We will adopt neutral, pessimistic, and optimistic priors informed by current literature, and a fourth prior derived from an expert's survey. Probability thresholds will be defined for superiority, severe harm, and a region of practical equivalence. DISCUSSION: The RELAx trial findings raise the hypothesis that a lower positive end-expiratory pressure strategy may be at least as effective, if not superior, in specific patient-centred outcomes. This analysis is designed to augment and contextualize the original frequentist analysis of the largest randomized trial comparing positive end-expiratory pressure strategies in non-acute respiratory distress syndrome patients. Results will be presented with a continuum of credible intervals and probabilities of effects to facilitate a nuanced interpretation. We offer clinically meaningful insights that complement and extend the trial's original analysis by reporting probabilities of benefit, harm, and equivalence.",
+              "title_ko": ""
+            },
+            {
+              "pmid": "39630830",
+              "title": "Differences in the relative importance of predictors of short- and long-term mortality among critically ill patients with cancer.",
+              "journal": "Critical care science",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2024-12-02",
+              "authors": [
+                "Silva CMDD",
+                "Bettim BB",
+                "Besen BAMP"
+              ],
+              "citation_count": 1,
+              "rcr": 0.25892525984356146,
+              "volume": "36",
+              "issue": "",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/39630830/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 6.8,
+              "field": "emergency",
+              "field_label": "응급의학",
+              "abstract": "OBJECTIVE: To identify the relative importance of several clinical variables present at intensive care unit admission on the short- and long-term mortality of critically ill patients with cancer after unplanned intensive care unit admission. METHODS: This was a retrospective cohort study of patients with cancer with unplanned intensive care unit admission from January 2017 to December 2018. We developed models to analyze the relative importance of well-known predictors of mortality in patients with cancer admitted to the intensive care unit compared with mortality at 28, 90, and 360 days after intensive care unit admission, both in the full cohort and stratified by the type of cancer when the patient was admitted to the intensive care unit. RESULTS: Among 3,592 patients, 3,136 (87.3%) had solid tumors, and metastatic disease was observed in 60.8% of those patients. A total of 1,196 (33.3%), 1,738 (48.4%), and 2,435 patients (67.8%) died at 28, 90, and 360 days, respectively. An impaired functional status was the greatest contribution to mortality in the short term for all patients and in the short and long term for the subgroups of patients with solid tumors. For patients with hematologic malignancies, the use of mechanical ventilation was the most important variable associated with mortality in all study periods. The SOFA score at admission was important for mortality prediction only for patients with solid metastatic tumors and hematological malignancies. The use of vasopressors and renal replacement therapy had a small importance in predicting mortality at every time point analyzed after the SOFA score was accounted for. CONCLUSION: Healthcare providers must consider performance status, the use of mechanical ventilation, and the severity of illness when discussing prognosis, preferences for care, and end-of-life care planning with patients or their families during intensive care unit stays.",
+              "title_ko": ""
+            },
+            {
+              "pmid": "39630827",
+              "title": "Changes in central venous pressure during a fluid challenge have limited value for guiding fluid therapy.",
+              "journal": "Critical care science",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2024-12-02",
+              "authors": [
+                "de Oliveira PS",
+                "Ramos FJDS",
+                "Tomotani DYV"
+              ],
+              "citation_count": 1,
+              "rcr": 0.34820491429802003,
+              "volume": "36",
+              "issue": "",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/39630827/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 6.8,
+              "field": "emergency",
+              "field_label": "응급의학",
+              "abstract": "OBJECTIVE: To evaluate whether changes in central venous pressure during fluid expansion and baseline cyclic respiratory variation in the central venous pressure amplitude (RespCVP) curve could be used to discriminate between fluid responders and nonresponders. METHODS: This prospective observational study included critically ill adult patients who underwent fluid expansion in the form of a fluid bolus or fluid challenge with crystalloids. All patients were under mechanical ventilation and adequately sedated. We determined the central venous pressure at baseline (CVPT0) and the changes at 5 (ΔCVPT5), 10 (ΔCVPT10) and 15 (ΔCVPT15) minutes during fluid infusion. We also measured the RespCVP at baseline. Fluid responsiveness was defined as a cardiac index increase of ≥ 15%. RESULTS: The study included 30 patients (11 responders and 19 nonresponders). The CVPT0 and the changes after a fluid challenge at all three time points did not adequately predict fluid responsiveness, as determined by their area under the curve values (CVPT0: 0.70, (95%CI: 0.49 - 0.90; ΔCVPT5: 0.78, (95%CI: 0.57 - 0.99; ΔCVPT10: 0.63, (95%CI: 0.39 - 0.88; ΔCVPT15: 0.68, ((95%CI: 0.45 - 0.92). The RespCVP at baseline also had a poor performance (area under the curve: 0.70; 95%CI: 0.50 - 0.91). CONCLUSION: Changes in central venous pressure have limited value in predicting fluid responsiveness.",
+              "title_ko": ""
+            },
+            {
+              "pmid": "42820513",
+              "title": "Invasive mechanical ventilation, functional decline at pediatric intensive care unit discharge, and post-discharge mortality in critically ill pediatric cancer patients: a retrospective cohort study.",
+              "journal": "Critical care science",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2026-09-28",
+              "authors": [
+                "da Cunha-Martins BSM",
+                "da Cunha RSM",
+                "Lanziotti VS"
+              ],
+              "citation_count": 0,
+              "rcr": null,
+              "volume": "38",
+              "issue": "",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/42820513/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 0.0,
+              "field": "emergency",
+              "field_label": "응급의학",
+              "abstract": "OBJECTIVE: To evaluate the association between invasive mechanical ventilation use, functional capacity, and 12-month mortality in critically ill children with cancer after a pediatric intensive care unit stay. METHODS: We conducted a single-center, retrospective cohort study of critically ill children with cancer admitted to the pediatric intensive care unit from January 2018 to December 2022. We applied the Functional Status Scale to classify functional capacity before pediatric intensive care unit admission and at discharge, and to determine the onset of new morbidities. We assessed the association between invasive mechanical ventilation use and the development of new morbidity (defined as an increase of at least three points in the Functional Status Scale at discharge, and as an increase of at least two points in any domain of Functional Status Scale at discharge), between invasive mechanical ventilation use and 12-month mortality after pediatric intensive care unit discharge, and of the onset of new morbidities and mortality during the same period. RESULTS: We included 423 patients, of whom 176 (41%) used invasive mechanical ventilation. The frequency of new morbidities was higher in the mechanically ventilated patients (39.2% versus 4.8%; p < 0.001). Invasive mechanical ventilation use was associated with the development of new morbidity (adjusted OR = 13; 95%CI = 6.6 - 27.3; p < 0.001). New morbidity was associated with increased mortality at 12 months after pediatric intensive care unit discharge (adjusted OR = 2.1; 95%CI = 1.2 - 3.7; p = 0.013), but mechanical ventilation was not. CONCLUSION: Critically ill children with cancer who required invasive mechanical ventilation during pediatric intensive care unit stay had 13-fold higher odds of developing new morbidities. The onset of new morbidity was associated with doubled odds of death within 12 months after pediatric intensive care unit discharge. However, invasive mechanical ventilation use was not directly associated with 12-month mortality.",
+              "title_ko": ""
+            },
+            {
+              "pmid": "42788542",
+              "title": "Characterization of weaning practices in intensive care units in Global South countries: a clinical practice survey.",
+              "journal": "Critical care science",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2026-09-21",
+              "authors": [
+                "Escobar RB",
+                "Pereira AB",
+                "Westphal GA"
+              ],
+              "citation_count": 0,
+              "rcr": null,
+              "volume": "38",
+              "issue": "",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/42788542/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 0.0,
+              "field": "emergency",
+              "field_label": "응급의학",
+              "abstract": "OBJECTIVE: To characterize current practices and protocols for mechanical ventilation weaning in intensive care units in Global South countries, describing practice variability and identifying opportunities for standardization that may reduce extubation failure. METHODS: We conducted an international, multicenter electronic survey of healthcare professionals working in intensive care units across Global South countries. A structured questionnaire collected data on current weaning practices, including weaning protocols, spontaneous breathing trials, extubation criteria, post-extubation respiratory support, and management of high-risk patients. Descriptive analyses were used to summarize institutional characteristics and clinical practices. RESULTS: Of 1,098 responses, 738 participants from Global South intensive care units were included (Latin America: 427, Asia: 278, and Africa: 33). Most respondents were physicians working in mixed medical-surgical units, with a median of 16 intensive care unit beds and substantial variability in staffing ratios across regions. Overall, 74% of intensive care units reported a weaning protocol. The spontaneous breathing trial was the most common method to assess extubation readiness, predominantly using pressure support with positive end-expiratory pressure in high-risk patients, although marked regional variation was observed. Return to mechanical ventilation for 1 hour after a successful spontaneous breathing trial was reported in 20% of cases. Post-extubation respiratory support also varied widely, with non-invasive ventilation more frequently used in Asia and Brazil and high-flow nasal cannula in Africa and China. CONCLUSION: Weaning practices in Global South intensive care units are highly heterogeneous. Despite widespread use of key evidence-based strategies, variability in spontaneous breathing trial techniques and post-extubation support highlights the need for context-adapted guidelines and targeted research to improve extubation outcomes.",
+              "title_ko": ""
+            }
+          ]
         }
       ],
       "hot_topics": [
         {
           "phrase": "mechanical ventilation",
-          "score": 104.7,
-          "paper_count": 5,
+          "score": 115.4,
+          "paper_count": 7,
           "pmids": [
             "39694585",
             "39642139",
             "39661844",
             "42658053",
-            "41905394"
+            "41905394",
+            "41417397",
+            "42820513"
           ]
         },
         {
@@ -9871,13 +10041,35 @@
           ]
         },
         {
-          "phrase": "cardiac arrest",
-          "score": 62.5,
+          "phrase": "traumatic brain",
+          "score": 57.7,
           "paper_count": 3,
           "pmids": [
-            "39637269",
-            "39699331",
-            "39583157"
+            "39808542",
+            "39733294",
+            "41410885"
+          ]
+        },
+        {
+          "phrase": "brain injury",
+          "score": 57.7,
+          "paper_count": 3,
+          "pmids": [
+            "39808542",
+            "39733294",
+            "41410885"
+          ]
+        },
+        {
+          "phrase": "critically ill",
+          "score": 45.0,
+          "paper_count": 5,
+          "pmids": [
+            "39671440",
+            "39699429",
+            "42823006",
+            "39630830",
+            "42820513"
           ]
         },
         {
@@ -9896,24 +10088,6 @@
           "pmids": [
             "39729465",
             "40258236"
-          ]
-        },
-        {
-          "phrase": "traumatic brain",
-          "score": 44.2,
-          "paper_count": 2,
-          "pmids": [
-            "39808542",
-            "41410885"
-          ]
-        },
-        {
-          "phrase": "brain injury",
-          "score": 44.2,
-          "paper_count": 2,
-          "pmids": [
-            "39808542",
-            "41410885"
           ]
         },
         {
@@ -9940,10 +10114,11 @@
         {
           "phrase": "intensive unit",
           "score": 39.2,
-          "paper_count": 2,
+          "paper_count": 3,
           "pmids": [
             "39787549",
-            "41370468"
+            "41370468",
+            "42820513"
           ]
         },
         {
@@ -9956,13 +10131,12 @@
           ]
         },
         {
-          "phrase": "critically ill",
-          "score": 38.2,
-          "paper_count": 3,
+          "phrase": "first aid",
+          "score": 36.4,
+          "paper_count": 2,
           "pmids": [
-            "39671440",
-            "39699429",
-            "42823006"
+            "39699333",
+            "40224798"
           ]
         }
       ],
@@ -9984,15 +10158,6 @@
             ]
           },
           {
-            "phrase": "cardiac arrest",
-            "scores": [
-              0.0,
-              72.5,
-              34.3,
-              30.0
-            ]
-          },
-          {
             "phrase": "cardiopulmonary resuscitation",
             "scores": [
               0.0,
@@ -10011,6 +10176,15 @@
             ]
           },
           {
+            "phrase": "cardiac arrest",
+            "scores": [
+              0.0,
+              37.5,
+              34.3,
+              20.0
+            ]
+          },
+          {
             "phrase": "critically ill",
             "scores": [
               0.0,
@@ -10020,12 +10194,12 @@
             ]
           },
           {
-            "phrase": "out-of-hospital cardiac",
+            "phrase": "trauma center",
             "scores": [
               0.0,
-              35.0,
-              24.3,
-              10.0
+              23.6,
+              10.0,
+              30.0
             ]
           }
         ]
