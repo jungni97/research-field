@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-13T20:32:28.003252Z",
+  "generated_at": "2026-10-14T20:33:38.591984Z",
   "window_days": 1095,
   "fields": [
     {
       "key": "preventive",
       "label": "예방의학",
-      "paper_count": 448,
+      "paper_count": 441,
       "journals": [
         {
           "journal": "The Orthopedic clinics of North America",
@@ -919,99 +919,6 @@
               "field_label": "예방의학",
               "abstract": "OBJECTIVE: To investigate the influencing factors associated with the risk of latent tuberculosis infection (LTBI) among people living with HIV/AIDS (PLWHA). METHODS: A cross-sectional study was conducted from July 2023 to July 2024, recruiting PLWHA from Wuxi City and Yangzhou City, Jiangsu Province, China. Data were collected through on-site questionnaire surveys and review of patient disease management records. QuantiFERON-TB Gold In-Tube (QFT) was used to detect LTBI. Multivariate logistic regression analysis was performed to identify factors associated with LTBI among PLWHA. Restricted cubic splines (RCS) models were employed to analyze the dose-response relationships between CD4+ cell count, CD8+ cell count, and CD4/CD8 ratio with LTBI risk. RESULTS: A total of 1184 PLWHA were enrolled, with 8.4% having concomitant LTBI. Multivariate logistic regression revealed that age group 45-<60 years (OR = 2.158, 95% CI: 1.339-3.478, P = 0.002) and CD4/CD8 ratio ≥1 (OR = 3.562, 95% CI: 1.627-7.800, P = 0.001) were independent factors associated with LTBI. RCS model fitting results demonstrated a gradually increasing nonlinear dose-response relationship between continuous changes in CD4/CD8 ratio and LTBI. The dose-response relationship between CD4+ cell count and LTBI risk exhibited an \"initial increase followed by a decrease trend. The dose-response relationship between CD8+ cell count and LTBI risk showed a gradual declining trend. CONCLUSION: This study identified that middle-aged PLWHA (45-<60 years) might represent a subgroup with relatively higher LTBI prevalence, indicating that screening in this age group may hold greater potential value. Additionally, the CD4/CD8 ratio, in conjunction with QFT findings, could serve as a supplementary reference for LTBI risk assessment. These observations support a more tailored approach to LTBI screening in PLWHA, though their implementation should be validated in prospective studies.",
               "title_ko": "HIV/AIDS 환자에서 QuantiFERON-TB Gold In-Tube를 이용한 잠복결핵감염 선별검사에 영향을 미치는 요인 분석."
-            }
-          ]
-        },
-        {
-          "journal": "The Pediatric infectious disease journal",
-          "impact_factor": 1.5,
-          "index_type": "미상",
-          "quartile": "미상",
-          "paper_count": 2,
-          "top_paper": {
-            "pmid": "39774938",
-            "title": "Enhanced D614G and Omicron Variants Antibody Persistence in Infants at 2 Months of Age Following Maternal mRNA Booster Vaccination During Pregnancy or Postpartum.",
-            "journal": "The Pediatric infectious disease journal",
-            "impact_factor": 1.5,
-            "index_type": "미상",
-            "quartile": "미상",
-            "pubdate": "2024-08-13",
-            "authors": [
-              "Munoz FM",
-              "Beigi R",
-              "Posavad CM"
-            ],
-            "citation_count": 4,
-            "rcr": 0.7164369139062817,
-            "volume": "43",
-            "issue": "11",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/39774938/",
-            "altmetric_score": 0,
-            "altmetric_news": 0,
-            "altmetric_social": 0,
-            "is_current_issue": true,
-            "hot_score": 26.0,
-            "field": "preventive",
-            "field_label": "예방의학",
-            "abstract": "BACKGROUND: Following maternal COVID-19 vaccination, the persistence of antibodies in sera and breast milk for mothers and infants is not well characterized. We sought to describe the persistence of antibodies through 2 months after delivery in maternal and infant serum and breast milk following maternal COVID-19 mRNA vaccination and to examine differences by receipt of booster dose during pregnancy or postpartum. METHODS: This is a prospective cohort study with enrollment from July 2021 to January 2022 at 9 US academic sites. Pregnant or postpartum participants and their infants were enrolled after COVID-19 mRNA monovalent vaccination during pregnancy (primary 2-dose series) with booster (third dose) vaccination during pregnancy or within 2 months post-partum. SARS-CoV-2-binding and functional antibody responses at delivery and 2 months after delivery in mothers and infants were measured by spike and receptor-binding domain immunoglobulin (Ig) G, pseudovirus and live neutralizing antibody (nAb) titers to ancestral and Omicron BA.1 and BA.5 strains. Breast milk spike and receptor-binding domain IgG and IgA titers were also measured. RESULTS: A total of 237 maternal/infant dyads were included (110 primary series during pregnancy, 99 pregnancy booster and 28 postpartum booster). A pregnancy booster resulted in 2.2-4.7-fold higher IgG and nAb at delivery and 2 months for both mothers and infants compared to the primary series alone (P < 0.001 for all comparisons). While infant IgG and nAb titers decreased by 2 months of age, the proportion of infants with detectable nAb at 2 months was greater in infants of mothers boosted during pregnancy compared with primary series for all variants (D614G: 99% vs. 56%; BA.1: 56% vs. 4% and BA.5: 57% vs. 9%; P < 0.001 for all comparisons). Breast milk spike IgA and IgG were present in 64%-100% and 100% of participants, respectively, and those boosted during pregnancy or postpartum had 3.1-4.6-fold higher levels of breast milk antibodies at 2 months compared to primary series during pregnancy (P < 0.001). CONCLUSIONS: mRNA COVID-19 monovalent booster vaccination during pregnancy results in significantly higher maternal and infant serum-binding IgG and nAb titers compared to a primary 2-dose series, including against Omicron variants, through 2 months of age. Breast milk antibodies following maternal vaccination during pregnancy or postpartum may provide additional protection during early infancy.",
-            "title_ko": "임신 또는 산후 중 모성 mRNA 부스터 백신 접종 후 2개월령의 유아에서 향상된 D614G 및 오미크론 변이체 항체 지속성."
-          },
-          "papers": [
-            {
-              "pmid": "39774938",
-              "title": "Enhanced D614G and Omicron Variants Antibody Persistence in Infants at 2 Months of Age Following Maternal mRNA Booster Vaccination During Pregnancy or Postpartum.",
-              "journal": "The Pediatric infectious disease journal",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2024-08-13",
-              "authors": [
-                "Munoz FM",
-                "Beigi R",
-                "Posavad CM"
-              ],
-              "citation_count": 4,
-              "rcr": 0.7164369139062817,
-              "volume": "43",
-              "issue": "11",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/39774938/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": true,
-              "hot_score": 26.0,
-              "field": "preventive",
-              "field_label": "예방의학",
-              "abstract": "BACKGROUND: Following maternal COVID-19 vaccination, the persistence of antibodies in sera and breast milk for mothers and infants is not well characterized. We sought to describe the persistence of antibodies through 2 months after delivery in maternal and infant serum and breast milk following maternal COVID-19 mRNA vaccination and to examine differences by receipt of booster dose during pregnancy or postpartum. METHODS: This is a prospective cohort study with enrollment from July 2021 to January 2022 at 9 US academic sites. Pregnant or postpartum participants and their infants were enrolled after COVID-19 mRNA monovalent vaccination during pregnancy (primary 2-dose series) with booster (third dose) vaccination during pregnancy or within 2 months post-partum. SARS-CoV-2-binding and functional antibody responses at delivery and 2 months after delivery in mothers and infants were measured by spike and receptor-binding domain immunoglobulin (Ig) G, pseudovirus and live neutralizing antibody (nAb) titers to ancestral and Omicron BA.1 and BA.5 strains. Breast milk spike and receptor-binding domain IgG and IgA titers were also measured. RESULTS: A total of 237 maternal/infant dyads were included (110 primary series during pregnancy, 99 pregnancy booster and 28 postpartum booster). A pregnancy booster resulted in 2.2-4.7-fold higher IgG and nAb at delivery and 2 months for both mothers and infants compared to the primary series alone (P < 0.001 for all comparisons). While infant IgG and nAb titers decreased by 2 months of age, the proportion of infants with detectable nAb at 2 months was greater in infants of mothers boosted during pregnancy compared with primary series for all variants (D614G: 99% vs. 56%; BA.1: 56% vs. 4% and BA.5: 57% vs. 9%; P < 0.001 for all comparisons). Breast milk spike IgA and IgG were present in 64%-100% and 100% of participants, respectively, and those boosted during pregnancy or postpartum had 3.1-4.6-fold higher levels of breast milk antibodies at 2 months compared to primary series during pregnancy (P < 0.001). CONCLUSIONS: mRNA COVID-19 monovalent booster vaccination during pregnancy results in significantly higher maternal and infant serum-binding IgG and nAb titers compared to a primary 2-dose series, including against Omicron variants, through 2 months of age. Breast milk antibodies following maternal vaccination during pregnancy or postpartum may provide additional protection during early infancy.",
-              "title_ko": "임신 또는 산후 중 모성 mRNA 부스터 백신 접종 후 2개월령의 유아에서 향상된 D614G 및 오미크론 변이체 항체 지속성."
-            },
-            {
-              "pmid": "40516573",
-              "title": "Brain Abnormalities, Neurodevelopmental Milestones, and Long-term Follow-up in Newborns With Congenital Cytomegalovirus Identified Through a Neonatal Screening Program.",
-              "journal": "The Pediatric infectious disease journal",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2024-08-27",
-              "authors": [
-                "Vila-Bedmar S",
-                "Martinez de Aragon Calvo A",
-                "Liebana-Rojas C"
-              ],
-              "citation_count": 0,
-              "rcr": 0.0,
-              "volume": "43",
-              "issue": "12",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/40516573/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": true,
-              "hot_score": 10.0,
-              "field": "preventive",
-              "field_label": "예방의학",
-              "abstract": "OBJECTIVE: To investigate the spectrum and frequency of abnormalities on brain magnetic resonance imaging (MRI) in a cohort of newborns diagnosed with congenital cytomegalovirus (cCMV) through a screening program and evaluate the risk of sensorineural hearing loss, neurodevelopmental disorders, chorioretinitis and epilepsy. METHODS: A prospective screening for cCMV by CMV viral load in saliva in newborns was performed in 2017-2018 in a tertiary center in Madrid. Neonatal brain MRI was performed without sedation in all newborns with cCMV and evaluated by 2 experienced neuroradiologists. The degree of agreement between the 2 radiologists was analyzed using Cohen's Kappa coefficient. All infected children were followed up for 6 years and evaluated every 6 months for neurodevelopment, behavioral issues and sensorineural hearing loss by auditory brainstem response. RESULTS: Of 3190 newborns evaluated, 15 had cCMV (prevalence 0.47%, 95% CI: 0.29-0.77%) and were included in the study. Cranial ultrasound (US) and neonatal brain MRI were performed. Brain abnormalities were found in 4 US and 10 MRI, being white matter abnormalities (WMAs) the most common finding. Two children were diagnosed with psychomotor delay, and the other 2 with attention-deficit hyperactivity disorder, and all of them presented WMA in the neonatal brain MRI. Children with a normal MRI (5/15) developed normally without long-term sequelae in the follow-up. CONCLUSIONS: Children with isolated WMA without other clinical symptoms showed overall good outcomes, although more studies with a larger sample and a control group should be performed. Interobserver agreement about the presence of abnormalities in MRI was good.",
-              "title_ko": "신생아 선별 검진 프로그램을 통해 확인된 선천성 거대세포바이러스가 있는 신생아의 뇌 이상, 신경 발달 이정표 및 장기 추적 검사."
             }
           ]
         },
@@ -3101,7 +3008,7 @@
           "impact_factor": 1.5,
           "index_type": "미상",
           "quartile": "미상",
-          "paper_count": 16,
+          "paper_count": 15,
           "top_paper": {
             "pmid": "39981298",
             "title": "Staphylococcus aureus-specific TIGIT(+) Treg are present in the blood of healthy subjects - a hurdle for vaccination?",
@@ -4623,6 +4530,71 @@
               "title_ko": "의약품 관련 정보에 대한 접근성 향상을 위한 전자 전단지의 역할."
             }
           ]
+        },
+        {
+          "journal": "Lymphology",
+          "impact_factor": 1.5,
+          "index_type": "미상",
+          "quartile": "미상",
+          "paper_count": 1,
+          "top_paper": {
+            "pmid": "39874052",
+            "title": "Investigation of the Effect of Lymphedema Self-Care Patient School on Functionality, Quality of Life, Lymphedema Volume, and Body Value in Patients with Lower Extremity Lymphedema: A Quasi-Experimental Study.",
+            "journal": "Lymphology",
+            "impact_factor": 1.5,
+            "index_type": "미상",
+            "quartile": "미상",
+            "pubdate": "2024-01-01",
+            "authors": [
+              "Eyigor S",
+              "Deveci Kocbilek Z",
+              "Ozgur Inbat M"
+            ],
+            "citation_count": 1,
+            "rcr": 0.589432188259259,
+            "volume": "57",
+            "issue": "3",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/39874052/",
+            "altmetric_score": 0,
+            "altmetric_news": 0,
+            "altmetric_social": 0,
+            "is_current_issue": true,
+            "hot_score": 16.9,
+            "field": "preventive",
+            "field_label": "예방의학",
+            "abstract": "This study examined the effect of lymphedema self-care patient school education on patient functionality, quality of life, body value, and lymphedema volume in patients with lower extremity lymphedema. The study utilized a single-group quasi-experimental design. The study sample included 21 patients with primary and secondary lower extremity lymphedema. A multidisciplinary team created a face-to-face lymphedema self-care patient education program that lasted three weeks with four hours each week to enhance lymphedema self-care management. Data collected from participants prior to the program and then at third and sixth months via Lower Extremity Functional Scale (LEFS), Lymphedema Functionality, Disability and Quality of Life Scale in Lower Extremity Lymphedema (LYMPH-ICF-LL), Body Value Scale, and extremity volumes. The average age of the patients was 54.85±11.99 years and two-thirds had secondary lymphedema. A statistically significant difference was found in the mean scores of LEFS (p<0.001), LYMPH-ICF-LL total (p= 0.006) in the 3rd and 6th months after the completion of the program, and in the lymphedema volume change (p= 0.031) in the 6th month. It was found that the lymphedema self-care patient school improved functionality and quality of life in patients with lower extremity lymphedema and decreased lymphedema volume. This lymphedema self-care patient education pro-gram is a safe and effective educational method for self-care management in individuals with lower extremity lymphedema.",
+            "title_ko": "림프부종 자가 치료 환자 학교가 하지 림프부종 환자의 기능, 삶의 질, 림프부종 용적 및 신체 가치에 미치는 영향에 대한 조사: 준실험적 연구."
+          },
+          "papers": [
+            {
+              "pmid": "39874052",
+              "title": "Investigation of the Effect of Lymphedema Self-Care Patient School on Functionality, Quality of Life, Lymphedema Volume, and Body Value in Patients with Lower Extremity Lymphedema: A Quasi-Experimental Study.",
+              "journal": "Lymphology",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2024-01-01",
+              "authors": [
+                "Eyigor S",
+                "Deveci Kocbilek Z",
+                "Ozgur Inbat M"
+              ],
+              "citation_count": 1,
+              "rcr": 0.589432188259259,
+              "volume": "57",
+              "issue": "3",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/39874052/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": true,
+              "hot_score": 16.9,
+              "field": "preventive",
+              "field_label": "예방의학",
+              "abstract": "This study examined the effect of lymphedema self-care patient school education on patient functionality, quality of life, body value, and lymphedema volume in patients with lower extremity lymphedema. The study utilized a single-group quasi-experimental design. The study sample included 21 patients with primary and secondary lower extremity lymphedema. A multidisciplinary team created a face-to-face lymphedema self-care patient education program that lasted three weeks with four hours each week to enhance lymphedema self-care management. Data collected from participants prior to the program and then at third and sixth months via Lower Extremity Functional Scale (LEFS), Lymphedema Functionality, Disability and Quality of Life Scale in Lower Extremity Lymphedema (LYMPH-ICF-LL), Body Value Scale, and extremity volumes. The average age of the patients was 54.85±11.99 years and two-thirds had secondary lymphedema. A statistically significant difference was found in the mean scores of LEFS (p<0.001), LYMPH-ICF-LL total (p= 0.006) in the 3rd and 6th months after the completion of the program, and in the lymphedema volume change (p= 0.031) in the 6th month. It was found that the lymphedema self-care patient school improved functionality and quality of life in patients with lower extremity lymphedema and decreased lymphedema volume. This lymphedema self-care patient education pro-gram is a safe and effective educational method for self-care management in individuals with lower extremity lymphedema.",
+              "title_ko": "림프부종 자가 치료 환자 학교가 하지 림프부종 환자의 기능, 삶의 질, 림프부종 용적 및 신체 가치에 미치는 영향에 대한 조사: 준실험적 연구."
+            }
+          ]
         }
       ],
       "hot_topics": [
@@ -4636,6 +4608,16 @@
             "40302974",
             "39978849",
             "40655936"
+          ]
+        },
+        {
+          "phrase": "quality life",
+          "score": 50.7,
+          "paper_count": 3,
+          "pmids": [
+            "39959334",
+            "42860772",
+            "39874052"
           ]
         },
         {
@@ -4656,15 +4638,6 @@
           "pmids": [
             "39798110",
             "39791412"
-          ]
-        },
-        {
-          "phrase": "quality life",
-          "score": 33.8,
-          "paper_count": 2,
-          "pmids": [
-            "39959334",
-            "42860772"
           ]
         },
         {
@@ -4777,12 +4750,12 @@
             ]
           },
           {
-            "phrase": "cancer screening",
+            "phrase": "physical activity",
             "scores": [
               0.0,
-              0.0,
+              13.8,
               10.0,
-              56.9
+              50.0
             ]
           },
           {
@@ -4795,12 +4768,12 @@
             ]
           },
           {
-            "phrase": "physical activity",
+            "phrase": "cancer screening",
             "scores": [
               0.0,
-              13.8,
               0.0,
-              50.0
+              10.0,
+              46.9
             ]
           }
         ]
@@ -4809,7 +4782,7 @@
     {
       "key": "emergency",
       "label": "응급의학",
-      "paper_count": 453,
+      "paper_count": 452,
       "journals": [
         {
           "journal": "Resuscitation",
@@ -5074,7 +5047,7 @@
           "impact_factor": 1.5,
           "index_type": "미상",
           "quartile": "미상",
-          "paper_count": 56,
+          "paper_count": 57,
           "top_paper": {
             "pmid": "39642139",
             "title": "A machine learning-based risk score for prediction of mechanical ventilation in children with dengue shock syndrome: A retrospective cohort study.",
@@ -5546,7 +5519,7 @@
             "field": "emergency",
             "field_label": "응급의학",
             "abstract": "AIM: To characterise key features of young people presenting to the emergency department (ED) with a mental health complaint when comparing children (aged 7 to 12 years) and teenagers (13 years and greater). METHODS: Retrospective review of all ED mental health presentations in children aged 7-17 years presenting over a 12-month period in 2018 to a tertiary children's hospital in Victoria, Australia. Univariate analyses were carried out to examine the relationship between children and teenagers and a number of key presentation variables. Odds Ratios (ORs) and 95% Confidence Intervals (CIs) were calculated for ED management outcomes. RESULTS: There were 1691 ED mental health presentations in 2018. Of these presentations, 407 (24%) were children aged 12 years or less. The remaining 76% (1284) were teenagers. The younger aged cohort were more likely to be male (OR 2.43, CI 1.92-3.08) and have a past history of autism spectrum disorder (OR 1.92, CI 1.45-1.84). They were more likely to have a presenting complaint of acute behavioural disturbance (OR 2.03, CI 1.59-2.60), be physically restrained (OR 2.01, CI 1.18-3.37) and have sedative medication provided (OR 2.87, CI 1.63-5.04). The older aged cohort were more likely to have a past history of depression (OR 0.19, CI 0.12-0.29) and a presenting complaint of intentional self-poisoning (OR 0.33, CI 0.15-0.65). CONCLUSIONS: Children aged 12 years or less represent one-quarter of all young people presenting to the ED with a mental health concern. They experience high rates of acute behavioural disturbance and are more likely to require restrictive interventions during their presentation.",
-            "title_ko": ""
+            "title_ko": "유아의 응급실 정신 건강 프레젠테이션: 회고 도표 검토."
           },
           "papers": [
             {
@@ -5575,7 +5548,7 @@
               "field": "emergency",
               "field_label": "응급의학",
               "abstract": "AIM: To characterise key features of young people presenting to the emergency department (ED) with a mental health complaint when comparing children (aged 7 to 12 years) and teenagers (13 years and greater). METHODS: Retrospective review of all ED mental health presentations in children aged 7-17 years presenting over a 12-month period in 2018 to a tertiary children's hospital in Victoria, Australia. Univariate analyses were carried out to examine the relationship between children and teenagers and a number of key presentation variables. Odds Ratios (ORs) and 95% Confidence Intervals (CIs) were calculated for ED management outcomes. RESULTS: There were 1691 ED mental health presentations in 2018. Of these presentations, 407 (24%) were children aged 12 years or less. The remaining 76% (1284) were teenagers. The younger aged cohort were more likely to be male (OR 2.43, CI 1.92-3.08) and have a past history of autism spectrum disorder (OR 1.92, CI 1.45-1.84). They were more likely to have a presenting complaint of acute behavioural disturbance (OR 2.03, CI 1.59-2.60), be physically restrained (OR 2.01, CI 1.18-3.37) and have sedative medication provided (OR 2.87, CI 1.63-5.04). The older aged cohort were more likely to have a past history of depression (OR 0.19, CI 0.12-0.29) and a presenting complaint of intentional self-poisoning (OR 0.33, CI 0.15-0.65). CONCLUSIONS: Children aged 12 years or less represent one-quarter of all young people presenting to the ED with a mental health concern. They experience high rates of acute behavioural disturbance and are more likely to require restrictive interventions during their presentation.",
-              "title_ko": ""
+              "title_ko": "유아의 응급실 정신 건강 프레젠테이션: 회고 도표 검토."
             }
           ]
         },
@@ -5872,7 +5845,7 @@
           "impact_factor": 1.5,
           "index_type": "미상",
           "quartile": "미상",
-          "paper_count": 41,
+          "paper_count": 39,
           "top_paper": {
             "pmid": "39947973",
             "title": "Promethazine: A Review of Therapeutic Uses and Toxicity.",
@@ -5987,34 +5960,6 @@
               "title_ko": ""
             },
             {
-              "pmid": "41274025",
-              "title": "Ultrasound Guided Erector Spinae Plane Block for Pain Management in the Emergency Department: A Scoping Review.",
-              "journal": "The Journal of emergency medicine",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2025-09-17",
-              "authors": [
-                "Gawel RJ",
-                "Zhou Z",
-                "Urban C"
-              ],
-              "citation_count": 4,
-              "rcr": null,
-              "volume": "80",
-              "issue": "",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/41274025/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": false,
-              "hot_score": 15.7,
-              "field": "emergency",
-              "field_label": "응급의학",
-              "abstract": "BACKGROUND: The ultrasound-guided erector spinae plane block (ESPB) is a relatively new regional anesthesia technique increasingly used in the emergency department (ED) for multimodal analgesia. OBJECTIVES: To summarize the existing literature on ESPBs performed by emergency physicians (EPs). METHODS: Following PRISMA-ScR guidelines, we searched five databases (PubMed/MEDLINE, Embase, Web of Science, Scopus, and CINAHL) from inception to June 10, 2025. Records were screened in duplicate, and data were extracted for quantitative and qualitative synthesis in accordance with best practices. RESULTS: Of 157 unique records, 42 articles met inclusion criteria, reporting 341 ESPBs performed on 279 patients. Most studies were case reports (25 articles, 60%) or small case series (8 articles, 19%), with only six randomized clinical trials (14%). Common indications included visceral abdominal pain (18 articles, 43%), rib fractures (8 articles, 19%), and low back pain (4 articles, 9.5%). Technical approaches varied widely in terms of block laterality, patient positioning, and transducer type. Adverse events were infrequent (9 cases, 3.2%), with only one suspected case of local anesthetic systemic toxicity (0.4%). CONCLUSIONS: Emergency physician-performed ESPBs are increasingly described for diverse indications, but the current evidence base is limited and heterogeneous. Further research should focus on standardizing techniques, enhancing safety monitoring, and conducting high-quality studies to support broader implementation in emergency medicine.",
-              "title_ko": ""
-            },
-            {
               "pmid": "39904638",
               "title": "Managing Auricular Hematoma: An Emergency Medicine Narrative Review.",
               "journal": "The Journal of emergency medicine",
@@ -6123,6 +6068,33 @@
               "field": "emergency",
               "field_label": "응급의학",
               "abstract": "BACKGROUND: Rib fractures are frequently diagnosed and treated in the emergency department (ED). Thoracic trauma has serious morbidity and mortality, particularly in older adults, with complications including pulmonary contusions, hemorrhage, pneumonia, or death. Bedside ED-performed ultrasound-guided anesthesia is gaining in popularity, and early and adequate pain control has shown improved patient outcomes with rare complications. OBJECTIVE OF THE REVIEW: We describe thoracic nerve block options that can be used clinically for rib fractures or other thoracic pain or trauma. We identify the pros and cons of each type of block, describe their risk profile and advantages, and summarize the steps on how each is performed. DISCUSSION: Thoracic epidural and paravertebral blocks are more invasive, targeting the nerves closer to the spinal cord, thus they are primarily used in the operating room or by anesthesiology for surgical cases. However, newer blocks are gaining in popularity, particularly the erector spinae block (ESP), serratus anterior plane nerve block (SANB), and intercostal nerve block (ICNB). These blocks provide adequate anesthesia and can be performed in an ED setting. CONCLUSIONS: Thoracic nerve blocks (e.g., ESP, SANB, ICNB) can be performed safely by appropriately trained emergency physicians, provide excellent anesthesia for rib fractures and thoracic trauma, and should be strongly considered for improved patient-centered outcomes. Furthermore, performing regional nerve blocks in the emergency department can reduce complications including adverse effects from opioids or other delirium-inducing medications.",
+              "title_ko": ""
+            },
+            {
+              "pmid": "39939187",
+              "title": "Aortic Laceration From Posterior Rib Fractures After a Ground-Level Fall: A Case Report.",
+              "journal": "The Journal of emergency medicine",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2024-10-11",
+              "authors": [
+                "Travers B",
+                "Murphy L"
+              ],
+              "citation_count": 2,
+              "rcr": null,
+              "volume": "70",
+              "issue": "",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/39939187/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 10.7,
+              "field": "emergency",
+              "field_label": "응급의학",
+              "abstract": "BACKGROUND: Rib fractures represent a common injury after blunt chest wall trauma with known complications including pneumothorax, hemothorax, pulmonary contusion, and pneumonia. This case report describes an emergency department patient with acute decompensation from aortic laceration as a rare complication of rib fractures. There are rare documented cases of this complication occurring in admitted patients with rib fractures, but this is one of the only cases that describes this complication occurring in a patient presenting to the emergency department. CASE REPORT: This case describes a patient who was found down at her home and presented to the emergency department in acute distress. She was found to have three left-sided posterior rib fractures, which had lacerated her thoracic aorta causing a large left hemothorax and acute decompensation. The patient was resuscitated in the emergency department followed by thoracic endovascular aortic repair in the operating room. The patient did well after surgical repair and was discharged from the hospital at her baseline mental and functional status. WHY SHOULD AN EMERGENCY PHYSICIAN BE AWARE OF THIS?: It remains important to resuscitate an acutely ill patient based on history, physical examination, and vital signs. The key takeaway from this case report is that, although rare, aortic laceration remains a possible complication of posterior rib fractures in a patient who acutely decompensates.",
               "title_ko": ""
             }
           ]
@@ -6493,6 +6465,71 @@
               "field": "emergency",
               "field_label": "응급의학",
               "abstract": "&lt;b&gt;Introduction:&lt;/b&gt; Injuries are among the three most common causes of sudden death in Poland, and patients particularly at risk of fatal outcomes of trauma are elderly. Geriatric age is associated with pathological changes that determine a worse response to trauma. In order to improve treatment outcomes of elderly trauma patients, it is essential for them to have access to specialized healthcare units i.e. Trauma Centers (TC). In Poland, admission criteria for TC are determined in the Regulation of the Ministry of Health published in 2010. Those criteria do not include age. According to recent research, such admission criteria lead to undertriage i.e., underestimation of injuries of elderly trauma patients and referred to a healthcare unit of lower reference level.&lt;b&gt;Aim:&lt;/b&gt; Analyze the current national admission criteria of elderly trauma patients admitted to TCs.&lt;b&gt;Materials and methods:&lt;/b&gt; TC admission criteria were subject to analysis in referral to available scientific publications in the field of medical segregation of elderly trauma patients, available in PubMed, Medline-EBSCO.&lt;b&gt;Results:&lt;/b&gt; TC admission criteria in current form are fulfilled only by elderly patients with minimal survival chance. As a result, majority of elderly trauma patients are referred to healthcare units of lower reference level. Those patients are deprived of professional trauma care in TC. Such discrepancies in medical segregation often stem from lack of anatomical changes or shifts in physiological parameters typically observed in trauma patients.&lt;b&gt;Conclusions:&lt;/b&gt; It is essential to develop national research to find the optimal system of triage for elderly trauma patient and an adequate tool for appropriate admitted them to TC.",
+              "title_ko": ""
+            }
+          ]
+        },
+        {
+          "journal": "Joint Commission journal on quality and patient safety",
+          "impact_factor": 1.5,
+          "index_type": "미상",
+          "quartile": "미상",
+          "paper_count": 1,
+          "top_paper": {
+            "pmid": "39638707",
+            "title": "PROPEL Discharge: An Interdisciplinary Throughput Initiative.",
+            "journal": "Joint Commission journal on quality and patient safety",
+            "impact_factor": 1.5,
+            "index_type": "미상",
+            "quartile": "미상",
+            "pubdate": "2024-10-16",
+            "authors": [
+              "DeMaio J",
+              "Purdy O",
+              "Ghidini J"
+            ],
+            "citation_count": 2,
+            "rcr": null,
+            "volume": "51",
+            "issue": "1",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/39638707/",
+            "altmetric_score": 0,
+            "altmetric_news": 0,
+            "altmetric_social": 0,
+            "is_current_issue": true,
+            "hot_score": 20.7,
+            "field": "emergency",
+            "field_label": "응급의학",
+            "abstract": "BACKGROUND: Increased care demands at a health care institution led to strained resources, emergency department (ED) congestion, safety events, and patient and employee dissatisfaction. Moreover, high volumes of afternoon discharges contributed to limited early morning bed availability and admission bottlenecks. METHODS: A 29-month pre-post design quality improvement project on 19 acute care, adult medicine units across two campuses at a large academic medical center was implemented to improve discharge timeliness, length of stay (LOS), and ED throughput by increasing pre-11:00 a.m. discharges. Based on Lean Six Sigma methodology, interventions included standardized interdisciplinary discharge processes and roles, processes to ensure performance data transparency and access, a recognition program, and a barrier tracking and mitigation process for continued improvements. RESULTS: During the intervention period, pre-11:00 a.m. discharges increased from 5.1% to 21.8% (p < 0.001), discharge orders were entered 42 minutes earlier (p < 0.001), patients were discharged 56 minutes earlier (p < 0.001), the percentage of discharges completed within 90 minutes from discharge order improved from 26.2% to 38.1% (p < 0.001), the percentage of discharges by 3:00 p.m. improved from 44.7% to 55.9% (p < 0.001), ED admissions arrived to units 44 minutes earlier (p < 0.001), median LOS decreased by 0.46 days (p < 0.001), median observed-to-expected (O:E) LOS decreased by 0.05 (p < 0.001), and opportunity day reductions contributed to increased bed capacity of 18.84 beds per day. CONCLUSION: Early morning discharges are associated with improved patient throughput and are safe, achievable, and sustainable via interventions focused on frontline engagement, interdisciplinary collaboration, standardization, barrier mitigation, data accessibility, and accountability.",
+            "title_ko": ""
+          },
+          "papers": [
+            {
+              "pmid": "39638707",
+              "title": "PROPEL Discharge: An Interdisciplinary Throughput Initiative.",
+              "journal": "Joint Commission journal on quality and patient safety",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2024-10-16",
+              "authors": [
+                "DeMaio J",
+                "Purdy O",
+                "Ghidini J"
+              ],
+              "citation_count": 2,
+              "rcr": null,
+              "volume": "51",
+              "issue": "1",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/39638707/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": true,
+              "hot_score": 20.7,
+              "field": "emergency",
+              "field_label": "응급의학",
+              "abstract": "BACKGROUND: Increased care demands at a health care institution led to strained resources, emergency department (ED) congestion, safety events, and patient and employee dissatisfaction. Moreover, high volumes of afternoon discharges contributed to limited early morning bed availability and admission bottlenecks. METHODS: A 29-month pre-post design quality improvement project on 19 acute care, adult medicine units across two campuses at a large academic medical center was implemented to improve discharge timeliness, length of stay (LOS), and ED throughput by increasing pre-11:00 a.m. discharges. Based on Lean Six Sigma methodology, interventions included standardized interdisciplinary discharge processes and roles, processes to ensure performance data transparency and access, a recognition program, and a barrier tracking and mitigation process for continued improvements. RESULTS: During the intervention period, pre-11:00 a.m. discharges increased from 5.1% to 21.8% (p < 0.001), discharge orders were entered 42 minutes earlier (p < 0.001), patients were discharged 56 minutes earlier (p < 0.001), the percentage of discharges completed within 90 minutes from discharge order improved from 26.2% to 38.1% (p < 0.001), the percentage of discharges by 3:00 p.m. improved from 44.7% to 55.9% (p < 0.001), ED admissions arrived to units 44 minutes earlier (p < 0.001), median LOS decreased by 0.46 days (p < 0.001), median observed-to-expected (O:E) LOS decreased by 0.05 (p < 0.001), and opportunity day reductions contributed to increased bed capacity of 18.84 beds per day. CONCLUSION: Early morning discharges are associated with improved patient throughput and are safe, achievable, and sustainable via interventions focused on frontline engagement, interdisciplinary collaboration, standardization, barrier mitigation, data accessibility, and accountability.",
               "title_ko": ""
             }
           ]
@@ -9749,282 +9786,19 @@
               "title_ko": ""
             }
           ]
-        },
-        {
-          "journal": "Critical care science",
-          "impact_factor": 1.5,
-          "index_type": "미상",
-          "quartile": "미상",
-          "paper_count": 10,
-          "top_paper": {
-            "pmid": "41417414",
-            "title": "Stepwise positive end-expiratory pressure titration modulates respiratory mechanics and mechanical power in mechanically ventilated adults.",
-            "journal": "Critical care science",
-            "impact_factor": 1.5,
-            "index_type": "미상",
-            "quartile": "미상",
-            "pubdate": "2025-12-19",
-            "authors": [
-              "Gallardo A",
-              "Alcaráz M",
-              "Díaz-Cabrera A"
-            ],
-            "citation_count": 2,
-            "rcr": null,
-            "volume": "37",
-            "issue": "",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/41417414/",
-            "altmetric_score": 0,
-            "altmetric_news": 0,
-            "altmetric_social": 0,
-            "is_current_issue": false,
-            "hot_score": 10.7,
-            "field": "emergency",
-            "field_label": "응급의학",
-            "abstract": "OBJECTIVE: To evaluate the impact of an ascending positive end-expiratory pressure titration strategy on respiratory mechanics and mechanical power in patients without lung injury. METHODS: An incremental positive end-expiratory pressure titration was performed in 4cmH2O steps, starting from zero end-expiratory pressure and progressing to 16cmH2O. Differences (Δ) in respiratory system static compliance, plateau pressure, driving pressure, and mechanical power were assessed during lung-protective ventilation. Mechanical power formulas proposed by Gattinoni et al. and Costa et al. were used. Analyses were also performed on the static elastic components, dynamic elastic components, total elastic power, and resistive components. RESULTS: Increasing positive end-expiratory pressure levels were associated with a progressive rise in mechanical power, plateau pressure, total and static elastic power, and a decline in compliance. Mechanical power showed strong positive correlations with: ΔPplat (p < 0.001); Δelastic dynamic power (p < 0.001); Δdriving pressure (p < 0.001); and Δtotal elastic power (p < 0.001). Δmechanical power correlated strongly with Δresistive power (p < 0.001), but not with other mechanical power components or mechanics. CONCLUSION: Progressive positive end-expiratory pressure increase in patients without lung disease significantly raises total mechanical power and its elastic components, particularly static elastic power. These changes may occur silently and without significant alterations in driving pressure or compliance.",
-            "title_ko": ""
-          },
-          "papers": [
-            {
-              "pmid": "41417414",
-              "title": "Stepwise positive end-expiratory pressure titration modulates respiratory mechanics and mechanical power in mechanically ventilated adults.",
-              "journal": "Critical care science",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2025-12-19",
-              "authors": [
-                "Gallardo A",
-                "Alcaráz M",
-                "Díaz-Cabrera A"
-              ],
-              "citation_count": 2,
-              "rcr": null,
-              "volume": "37",
-              "issue": "",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/41417414/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": false,
-              "hot_score": 10.7,
-              "field": "emergency",
-              "field_label": "응급의학",
-              "abstract": "OBJECTIVE: To evaluate the impact of an ascending positive end-expiratory pressure titration strategy on respiratory mechanics and mechanical power in patients without lung injury. METHODS: An incremental positive end-expiratory pressure titration was performed in 4cmH2O steps, starting from zero end-expiratory pressure and progressing to 16cmH2O. Differences (Δ) in respiratory system static compliance, plateau pressure, driving pressure, and mechanical power were assessed during lung-protective ventilation. Mechanical power formulas proposed by Gattinoni et al. and Costa et al. were used. Analyses were also performed on the static elastic components, dynamic elastic components, total elastic power, and resistive components. RESULTS: Increasing positive end-expiratory pressure levels were associated with a progressive rise in mechanical power, plateau pressure, total and static elastic power, and a decline in compliance. Mechanical power showed strong positive correlations with: ΔPplat (p < 0.001); Δelastic dynamic power (p < 0.001); Δdriving pressure (p < 0.001); and Δtotal elastic power (p < 0.001). Δmechanical power correlated strongly with Δresistive power (p < 0.001), but not with other mechanical power components or mechanics. CONCLUSION: Progressive positive end-expiratory pressure increase in patients without lung disease significantly raises total mechanical power and its elastic components, particularly static elastic power. These changes may occur silently and without significant alterations in driving pressure or compliance.",
-              "title_ko": ""
-            },
-            {
-              "pmid": "41417397",
-              "title": "The impact of a multicomponent telemedicine-based intervention on quality of life in adults with respiratory failure requiring mechanical ventilation: protocol for a cluster stepped-wedge randomized clinical trial (Tele-Rehab MV Trial).",
-              "journal": "Critical care science",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2025-12-15",
-              "authors": [
-                "Pereira AJ",
-                "Moraes RB",
-                "Trott G"
-              ],
-              "citation_count": 2,
-              "rcr": null,
-              "volume": "37",
-              "issue": "",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/41417397/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": false,
-              "hot_score": 10.7,
-              "field": "emergency",
-              "field_label": "응급의학",
-              "abstract": "OBJECTIVE: To assess the impact of a multicomponent intervention on the health-related quality of life of patients with hypoxemic respiratory failure requiring invasive mechanical ventilation. METHODS: A cluster stepped-wedge randomized clinical trial will be conducted in intensive care units across Brazil. Intensive care units with ≥ 8 beds and the capacity to admit patients with acute hypoxemic respiratory failure will be included. Within each intensive care unit, adult patients with acute hypoxemic respiratory failure requiring invasive mechanical ventilation, in whom SARS-CoV-2 infection is part of the differential diagnosis, will be enrolled. The intervention consists of a telemedicine-based quality improvement program focused on disability prevention and rehabilitation strategies, implemented during the patient's intensive care unit stay, continued through ward admission, and extending up to 2 months post-hospital discharge. The primary outcome is health-related quality of life assessed using the EuroQol 5-Dimension 3-Level scale 90 days after discharge from the hospital. Secondary outcomes include rehospitalization within 30 days from hospital discharge, as well as all-cause mortality, anxiety, depression, cognitive impairment, new disabilities for instrumental activities of daily living, and return to work or studies 90 days after discharge from the hospital. RESULTS: The study protocol has been approved by the research ethics committees of all participant institutions. It was registered at ClinicalTrials.gov (NCT06343545) before the first participant was included. We aim to disseminate the findings through conferences and peer-reviewed journals. CONCLUSION: The \"Tele-Rehab MV trial\" may provide further information on the role of early multicomponent interventions aimed at disability prevention and rehabilitation for critically ill patients with acute hypoxemic respiratory failure.",
-              "title_ko": ""
-            },
-            {
-              "pmid": "39775432",
-              "title": "Long-term mortality of Dutch COVID-19 patients admitted to the intensive care medicine: a retrospective analysis from a national quality registry.",
-              "journal": "Critical care science",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2024-12-20",
-              "authors": [
-                "Wortel SA",
-                "Bakhshi-Raiez F",
-                "Abu-Hanna A"
-              ],
-              "citation_count": 2,
-              "rcr": 0.5430979569656833,
-              "volume": "36",
-              "issue": "",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/39775432/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": false,
-              "hot_score": 10.7,
-              "field": "emergency",
-              "field_label": "응급의학",
-              "abstract": "OBJECTIVE: To describe the 12-month mortality of Dutch COVID-19 intensive care unit patients, the total COVID-19 population and various subgroups on the basis of the number of comorbidities, age, sex, mechanical ventilation, and vasoactive medication use. METHODS: We included all patients admitted with COVID-19 between March 1, 2020, and March 29, 2022, from the Dutch National Intensive Care (NICE) database. The crude 12-month mortality rate is presented via Kaplan-Meier survival curves for each patient subgroup. We used Cox regression models to analyze the effects of patient characteristics on 12-month mortality after hospital discharge. RESULTS: We included 16,605 COVID-19 patients. The in-hospital mortality rate was 28.1%, and the 12-month mortality rate after intensive care unit admission was 29.8%. Among hospital survivors, 12-month mortality after hospital discharge was 2.5% (300/11,931). The hazard of death at 12 months after hospital discharge was greater in patients between 60 and 79 years (HR 4.74; 95%CI 2.23 - 10.06) and ≥ 80 years (HR 22.77; 95%CI 9.91 - 52.28) than in patients < 40 years of age; in male patients than in female patients (HR 1.38; 95%CI 1.07 - 1.78); and in patients with one (adjusted HR 1.95; 95%CI 1.5 - 2.53), two (adjusted HR 4.49; 95%CI 3.27 - 6.16) or more than two comorbidities (adjusted HR 4.99; 95%CI 2.62 - 9.5) than in patients with no comorbidities. Neither vasoactive medication use nor mechanical ventilation resulted in statistically significant results. CONCLUSION: For Dutch COVID-19 intensive care unit patients, most deaths occurred during their hospital stay. For hospital survivors, the crude 12-month mortality rate was low. Patient age (older than 60), sex and the number of comorbidities were associated with a greater hazard of death at 12 months after hospital discharge, whereas mechanical ventilation and vasoactive medication were not.",
-              "title_ko": ""
-            },
-            {
-              "pmid": "41416916",
-              "title": "Comparison of the effect of a lower versus a higher PEEP strategy on clinically relevant outcomes in invasively ventilated patients without acute respiratory distress syndrome: statistical re-analysis plan of the RELAx trial using a Bayesian framework.",
-              "journal": "Critical care science",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2025-12-15",
-              "authors": [
-                "Caroli A",
-                "Algera AG",
-                "Meenen DV"
-              ],
-              "citation_count": 1,
-              "rcr": null,
-              "volume": "37",
-              "issue": "",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/41416916/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": false,
-              "hot_score": 6.8,
-              "field": "emergency",
-              "field_label": "응급의학",
-              "abstract": "BACKGROUND: The effect of different levels of positive end-expiratory pressure in invasively ventilated critically ill patients remains a matter of debate. The REstricted versus Liberal Positive End-Expiratory Pressure in Patients Without ARDS (RELAx) is a multicentric, randomized trial comparing a lower positive end-expiratory pressure strategy versus a higher positive end-expiratory pressure strategy in ventilated patients without acute respiratory distress syndrome, which demonstrated non-inferiority of lower positive end-expiratory pressure compared to higher positive end-expiratory pressure on ventilator-free days. The primary analysis was published in 2020, and a frequentist statistical approach was applied. AIM: To present the protocol of the Bayesian analysis plan that will be used to re-analyse the RELAx trial to provide complementary and additional insight into this clinical trial. METHODS: This re-analysis will focus on the probability of superiority of the intervention. As an ordinal variable, the primary outcome will be ventilator-free days at day 28, and posterior estimates will be obtained by fitting a hierarchical cumulative logistic regression model. Secondary outcomes will be mortality at day 28, as a binary outcome, and ventilation duration, as a continuous outcome. We will adopt neutral, pessimistic, and optimistic priors informed by current literature, and a fourth prior derived from an expert's survey. Probability thresholds will be defined for superiority, severe harm, and a region of practical equivalence. DISCUSSION: The RELAx trial findings raise the hypothesis that a lower positive end-expiratory pressure strategy may be at least as effective, if not superior, in specific patient-centred outcomes. This analysis is designed to augment and contextualize the original frequentist analysis of the largest randomized trial comparing positive end-expiratory pressure strategies in non-acute respiratory distress syndrome patients. Results will be presented with a continuum of credible intervals and probabilities of effects to facilitate a nuanced interpretation. We offer clinically meaningful insights that complement and extend the trial's original analysis by reporting probabilities of benefit, harm, and equivalence.",
-              "title_ko": ""
-            },
-            {
-              "pmid": "39630830",
-              "title": "Differences in the relative importance of predictors of short- and long-term mortality among critically ill patients with cancer.",
-              "journal": "Critical care science",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2024-12-02",
-              "authors": [
-                "Silva CMDD",
-                "Bettim BB",
-                "Besen BAMP"
-              ],
-              "citation_count": 1,
-              "rcr": 0.25892525984356146,
-              "volume": "36",
-              "issue": "",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/39630830/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": false,
-              "hot_score": 6.8,
-              "field": "emergency",
-              "field_label": "응급의학",
-              "abstract": "OBJECTIVE: To identify the relative importance of several clinical variables present at intensive care unit admission on the short- and long-term mortality of critically ill patients with cancer after unplanned intensive care unit admission. METHODS: This was a retrospective cohort study of patients with cancer with unplanned intensive care unit admission from January 2017 to December 2018. We developed models to analyze the relative importance of well-known predictors of mortality in patients with cancer admitted to the intensive care unit compared with mortality at 28, 90, and 360 days after intensive care unit admission, both in the full cohort and stratified by the type of cancer when the patient was admitted to the intensive care unit. RESULTS: Among 3,592 patients, 3,136 (87.3%) had solid tumors, and metastatic disease was observed in 60.8% of those patients. A total of 1,196 (33.3%), 1,738 (48.4%), and 2,435 patients (67.8%) died at 28, 90, and 360 days, respectively. An impaired functional status was the greatest contribution to mortality in the short term for all patients and in the short and long term for the subgroups of patients with solid tumors. For patients with hematologic malignancies, the use of mechanical ventilation was the most important variable associated with mortality in all study periods. The SOFA score at admission was important for mortality prediction only for patients with solid metastatic tumors and hematological malignancies. The use of vasopressors and renal replacement therapy had a small importance in predicting mortality at every time point analyzed after the SOFA score was accounted for. CONCLUSION: Healthcare providers must consider performance status, the use of mechanical ventilation, and the severity of illness when discussing prognosis, preferences for care, and end-of-life care planning with patients or their families during intensive care unit stays.",
-              "title_ko": ""
-            },
-            {
-              "pmid": "39630827",
-              "title": "Changes in central venous pressure during a fluid challenge have limited value for guiding fluid therapy.",
-              "journal": "Critical care science",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2024-12-02",
-              "authors": [
-                "de Oliveira PS",
-                "Ramos FJDS",
-                "Tomotani DYV"
-              ],
-              "citation_count": 1,
-              "rcr": 0.34820491429802003,
-              "volume": "36",
-              "issue": "",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/39630827/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": false,
-              "hot_score": 6.8,
-              "field": "emergency",
-              "field_label": "응급의학",
-              "abstract": "OBJECTIVE: To evaluate whether changes in central venous pressure during fluid expansion and baseline cyclic respiratory variation in the central venous pressure amplitude (RespCVP) curve could be used to discriminate between fluid responders and nonresponders. METHODS: This prospective observational study included critically ill adult patients who underwent fluid expansion in the form of a fluid bolus or fluid challenge with crystalloids. All patients were under mechanical ventilation and adequately sedated. We determined the central venous pressure at baseline (CVPT0) and the changes at 5 (ΔCVPT5), 10 (ΔCVPT10) and 15 (ΔCVPT15) minutes during fluid infusion. We also measured the RespCVP at baseline. Fluid responsiveness was defined as a cardiac index increase of ≥ 15%. RESULTS: The study included 30 patients (11 responders and 19 nonresponders). The CVPT0 and the changes after a fluid challenge at all three time points did not adequately predict fluid responsiveness, as determined by their area under the curve values (CVPT0: 0.70, (95%CI: 0.49 - 0.90; ΔCVPT5: 0.78, (95%CI: 0.57 - 0.99; ΔCVPT10: 0.63, (95%CI: 0.39 - 0.88; ΔCVPT15: 0.68, ((95%CI: 0.45 - 0.92). The RespCVP at baseline also had a poor performance (area under the curve: 0.70; 95%CI: 0.50 - 0.91). CONCLUSION: Changes in central venous pressure have limited value in predicting fluid responsiveness.",
-              "title_ko": ""
-            },
-            {
-              "pmid": "42820513",
-              "title": "Invasive mechanical ventilation, functional decline at pediatric intensive care unit discharge, and post-discharge mortality in critically ill pediatric cancer patients: a retrospective cohort study.",
-              "journal": "Critical care science",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2026-09-28",
-              "authors": [
-                "da Cunha-Martins BSM",
-                "da Cunha RSM",
-                "Lanziotti VS"
-              ],
-              "citation_count": 0,
-              "rcr": null,
-              "volume": "38",
-              "issue": "",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/42820513/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": false,
-              "hot_score": 0.0,
-              "field": "emergency",
-              "field_label": "응급의학",
-              "abstract": "OBJECTIVE: To evaluate the association between invasive mechanical ventilation use, functional capacity, and 12-month mortality in critically ill children with cancer after a pediatric intensive care unit stay. METHODS: We conducted a single-center, retrospective cohort study of critically ill children with cancer admitted to the pediatric intensive care unit from January 2018 to December 2022. We applied the Functional Status Scale to classify functional capacity before pediatric intensive care unit admission and at discharge, and to determine the onset of new morbidities. We assessed the association between invasive mechanical ventilation use and the development of new morbidity (defined as an increase of at least three points in the Functional Status Scale at discharge, and as an increase of at least two points in any domain of Functional Status Scale at discharge), between invasive mechanical ventilation use and 12-month mortality after pediatric intensive care unit discharge, and of the onset of new morbidities and mortality during the same period. RESULTS: We included 423 patients, of whom 176 (41%) used invasive mechanical ventilation. The frequency of new morbidities was higher in the mechanically ventilated patients (39.2% versus 4.8%; p < 0.001). Invasive mechanical ventilation use was associated with the development of new morbidity (adjusted OR = 13; 95%CI = 6.6 - 27.3; p < 0.001). New morbidity was associated with increased mortality at 12 months after pediatric intensive care unit discharge (adjusted OR = 2.1; 95%CI = 1.2 - 3.7; p = 0.013), but mechanical ventilation was not. CONCLUSION: Critically ill children with cancer who required invasive mechanical ventilation during pediatric intensive care unit stay had 13-fold higher odds of developing new morbidities. The onset of new morbidity was associated with doubled odds of death within 12 months after pediatric intensive care unit discharge. However, invasive mechanical ventilation use was not directly associated with 12-month mortality.",
-              "title_ko": ""
-            },
-            {
-              "pmid": "42788542",
-              "title": "Characterization of weaning practices in intensive care units in Global South countries: a clinical practice survey.",
-              "journal": "Critical care science",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2026-09-21",
-              "authors": [
-                "Escobar RB",
-                "Pereira AB",
-                "Westphal GA"
-              ],
-              "citation_count": 0,
-              "rcr": null,
-              "volume": "38",
-              "issue": "",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/42788542/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": false,
-              "hot_score": 0.0,
-              "field": "emergency",
-              "field_label": "응급의학",
-              "abstract": "OBJECTIVE: To characterize current practices and protocols for mechanical ventilation weaning in intensive care units in Global South countries, describing practice variability and identifying opportunities for standardization that may reduce extubation failure. METHODS: We conducted an international, multicenter electronic survey of healthcare professionals working in intensive care units across Global South countries. A structured questionnaire collected data on current weaning practices, including weaning protocols, spontaneous breathing trials, extubation criteria, post-extubation respiratory support, and management of high-risk patients. Descriptive analyses were used to summarize institutional characteristics and clinical practices. RESULTS: Of 1,098 responses, 738 participants from Global South intensive care units were included (Latin America: 427, Asia: 278, and Africa: 33). Most respondents were physicians working in mixed medical-surgical units, with a median of 16 intensive care unit beds and substantial variability in staffing ratios across regions. Overall, 74% of intensive care units reported a weaning protocol. The spontaneous breathing trial was the most common method to assess extubation readiness, predominantly using pressure support with positive end-expiratory pressure in high-risk patients, although marked regional variation was observed. Return to mechanical ventilation for 1 hour after a successful spontaneous breathing trial was reported in 20% of cases. Post-extubation respiratory support also varied widely, with non-invasive ventilation more frequently used in Asia and Brazil and high-flow nasal cannula in Africa and China. CONCLUSION: Weaning practices in Global South intensive care units are highly heterogeneous. Despite widespread use of key evidence-based strategies, variability in spontaneous breathing trial techniques and post-extubation support highlights the need for context-adapted guidelines and targeted research to improve extubation outcomes.",
-              "title_ko": ""
-            }
-          ]
         }
       ],
       "hot_topics": [
         {
           "phrase": "mechanical ventilation",
-          "score": 115.4,
-          "paper_count": 7,
+          "score": 104.7,
+          "paper_count": 5,
           "pmids": [
             "39694585",
             "39642139",
             "39661844",
             "42658053",
-            "41905394",
-            "41417397",
-            "42820513"
+            "41905394"
           ]
         },
         {
@@ -10058,18 +9832,6 @@
             "39808542",
             "39733294",
             "41410885"
-          ]
-        },
-        {
-          "phrase": "critically ill",
-          "score": 45.0,
-          "paper_count": 5,
-          "pmids": [
-            "39671440",
-            "39699429",
-            "42823006",
-            "39630830",
-            "42820513"
           ]
         },
         {
@@ -10114,11 +9876,10 @@
         {
           "phrase": "intensive unit",
           "score": 39.2,
-          "paper_count": 3,
+          "paper_count": 2,
           "pmids": [
             "39787549",
-            "41370468",
-            "42820513"
+            "41370468"
           ]
         },
         {
@@ -10128,6 +9889,16 @@
           "pmids": [
             "39671440",
             "41938541"
+          ]
+        },
+        {
+          "phrase": "critically ill",
+          "score": 38.2,
+          "paper_count": 3,
+          "pmids": [
+            "39671440",
+            "39699429",
+            "42823006"
           ]
         },
         {
@@ -10154,7 +9925,7 @@
               0.0,
               91.5,
               67.9,
-              60.0
+              50.0
             ]
           },
           {
@@ -10190,7 +9961,7 @@
               0.0,
               35.0,
               6.8,
-              40.0
+              30.0
             ]
           },
           {
