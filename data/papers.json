@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-14T20:33:38.591984Z",
+  "generated_at": "2026-10-15T20:32:31.434351Z",
   "window_days": 1095,
   "fields": [
     {
       "key": "preventive",
       "label": "예방의학",
-      "paper_count": 441,
+      "paper_count": 445,
       "journals": [
         {
           "journal": "The Orthopedic clinics of North America",
@@ -69,261 +69,6 @@
               "field_label": "예방의학",
               "abstract": "Despite the success of total knee arthroplasty and total hip arthroplasty, patients face an increased risk of postoperative falls, often due to surgery-induced changes in muscle strength. Falls can lead to serious consequences, including fractures and reduced quality of life. The majority of falls related to total joint arthroplasty occurs outside the hospital. Effective fall prevention strategies, such as patient education, exercise interventions, environmental modifications, and medication management, are crucial for reducing fall risks and improving patient outcomes. Continued research and innovation in fall prevention are essential for improving patient safety and well-being following joint arthroplasty.",
               "title_ko": "고관절 및 무릎 관절 성형술 후 낙상 예방."
-            }
-          ]
-        },
-        {
-          "journal": "Salud publica de Mexico",
-          "impact_factor": 1.5,
-          "index_type": "미상",
-          "quartile": "미상",
-          "paper_count": 8,
-          "top_paper": {
-            "pmid": "39977078",
-            "title": "Cascadas de tamizaje y atención de la diabetes tipo 2 en México.",
-            "journal": "Salud publica de Mexico",
-            "impact_factor": 1.5,
-            "index_type": "미상",
-            "quartile": "미상",
-            "pubdate": "2024-08-22",
-            "authors": [
-              "Basto-Abreu A",
-              "Reyes-Garcia A",
-              "Stern D"
-            ],
-            "citation_count": 14,
-            "rcr": 3.138969429584243,
-            "volume": "66",
-            "issue": "4, jul-ago",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/39977078/",
-            "altmetric_score": 0,
-            "altmetric_news": 0,
-            "altmetric_social": 0,
-            "is_current_issue": true,
-            "hot_score": 37.0,
-            "field": "preventive",
-            "field_label": "예방의학",
-            "abstract": "OBJETIVO: Actualizar las prevalencias de diabetes tipo 2 (DT2), estimar las cascadas de tamizaje y atención de la DT2 en población adulta mexicana. Material y métodos. Se utilizó la Encuesta Nacional de Salud y Nutrición 2023. Se estimó la cascada de tamizaje, utilizando la población elegible según la NOM-015-SSA2-2010 y se estimó la cascada de atención de DT2 en las personas con diagnóstico. RESULTADOS: La prevalencia de DT2 fue de 18.4% (12.4% diagnosticada, 6.0% no diagnosticada). El 83% de la población adulta sin DT2 tenía factores de riesgo que la hacían elegible a tamizaje sanguíneo. El 27.7% de población elegible fue tamizada en el último año (meta 33.3%). De las personas con diagnóstico de DT2, 72.8% asistió a consulta al menos una vez el último año, 92.8% estaba en tratamiento farmacológico, 77.9% usaba el tratamiento regularmente y 25.8% tenía niveles glucémicos controlados. Las personas que realizaron los tres pasos de atención (seguimiento, tratamiento y tratamiento regular) alcanzaron un control glucémico ligeramente mayor (34.4%). Conclusión. México enfrenta retos importantes para garantizar el tamizaje, la atención y el control glucémico. Se proponen varias acciones para mejorar la detección y control a partir de la evidencia generada con las cascadas de tamizaje y atención.",
-            "title_ko": "Cascadas de tamizaje y atención de la diabetes tipo 2 en México."
-          },
-          "papers": [
-            {
-              "pmid": "39977078",
-              "title": "Cascadas de tamizaje y atención de la diabetes tipo 2 en México.",
-              "journal": "Salud publica de Mexico",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2024-08-22",
-              "authors": [
-                "Basto-Abreu A",
-                "Reyes-Garcia A",
-                "Stern D"
-              ],
-              "citation_count": 14,
-              "rcr": 3.138969429584243,
-              "volume": "66",
-              "issue": "4, jul-ago",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/39977078/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": true,
-              "hot_score": 37.0,
-              "field": "preventive",
-              "field_label": "예방의학",
-              "abstract": "OBJETIVO: Actualizar las prevalencias de diabetes tipo 2 (DT2), estimar las cascadas de tamizaje y atención de la DT2 en población adulta mexicana. Material y métodos. Se utilizó la Encuesta Nacional de Salud y Nutrición 2023. Se estimó la cascada de tamizaje, utilizando la población elegible según la NOM-015-SSA2-2010 y se estimó la cascada de atención de DT2 en las personas con diagnóstico. RESULTADOS: La prevalencia de DT2 fue de 18.4% (12.4% diagnosticada, 6.0% no diagnosticada). El 83% de la población adulta sin DT2 tenía factores de riesgo que la hacían elegible a tamizaje sanguíneo. El 27.7% de población elegible fue tamizada en el último año (meta 33.3%). De las personas con diagnóstico de DT2, 72.8% asistió a consulta al menos una vez el último año, 92.8% estaba en tratamiento farmacológico, 77.9% usaba el tratamiento regularmente y 25.8% tenía niveles glucémicos controlados. Las personas que realizaron los tres pasos de atención (seguimiento, tratamiento y tratamiento regular) alcanzaron un control glucémico ligeramente mayor (34.4%). Conclusión. México enfrenta retos importantes para garantizar el tamizaje, la atención y el control glucémico. Se proponen varias acciones para mejorar la detección y control a partir de la evidencia generada con las cascadas de tamizaje y atención.",
-              "title_ko": "Cascadas de tamizaje y atención de la diabetes tipo 2 en México."
-            },
-            {
-              "pmid": "39977088",
-              "title": "Detección, atención y control de hipertensión arterial.",
-              "journal": "Salud publica de Mexico",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2024-08-22",
-              "authors": [
-                "Campos-Nonato I",
-                "Oviedo-Solís C",
-                "Hernández-Barrera L"
-              ],
-              "citation_count": 10,
-              "rcr": 2.6079456349342216,
-              "volume": "66",
-              "issue": "4, jul-ago",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/39977088/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": true,
-              "hot_score": 33.9,
-              "field": "preventive",
-              "field_label": "예방의학",
-              "abstract": "OBJETIVO: Describir la prevalencia de adultos con hipertensión arterial (HTA) diagnosticada, tratada y controlada, utilizando el marco de las cascadas de atención en la Encuesta Nacional de Salud y Nutrición (Ensanut) 2020-2023. Material y métodos. Se analizó la información de 3 094 adultos ≥20 años de edad. Los adultos con HTA (n= 1 059) fueron el denominador de la cascada de atención, considerando las pérdidas acumuladas en la proporción de adultos diagnosticados con HTA, tratados y controlados. Se identificó a las personas con adherencia al tratamiento farmacológico. RESULTADOS: La prevalencia de HTA fue de 29.9% (mujeres 27.6% y hombres 32.5%). El 43.0% de los adultos con HTA no habían sido diagnosticados y sólo 36.3% de los diagnosticados y tratados con fármacos tenía valores de presión arterial (PA) bajo control. Entre las personas diagnosticadas con HTA que tomaban regularmente fármaco antihipertensivo (75.3%), sólo 42.1% tuvo valores de PA controlada. El 52.1% de los adultos con hipertensión no realizaba ninguna medida no farmacológica para controlar la PA elevada. CONCLUSIONES: Se encontró un bajo desempeño del sistema de salud para diagnosticar y controlar la HTA. Se requiere una estrategia poblacional, pronta y concertada para reducir la carga de la HTA y evitar complicaciones, discapacidad y muerte prematura por accidente cerebrovascular o cardiopatía isquémica.",
-              "title_ko": "Detección, atención y control de hipertensión arterial."
-            },
-            {
-              "pmid": "39977135",
-              "title": "La atención primaria en el Modelo de Atención a la Salud para el Bienestar en México.",
-              "journal": "Salud publica de Mexico",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2024-09-17",
-              "authors": [
-                "Borja-Aburto VH"
-              ],
-              "citation_count": 5,
-              "rcr": 0.7499003818600894,
-              "volume": "66",
-              "issue": "5, sept-oct",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/39977135/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": true,
-              "hot_score": 27.9,
-              "field": "preventive",
-              "field_label": "예방의학",
-              "abstract": "El Instituto Mexicano del Seguro Social-Bienestar (IMSS-Bienestar), nueva institución encargada de la atención a la salud de las personas sin seguridad social en los estados mexicanos que firmen convenios con este propósito, basará la atención médica en el Modelo de Atención a la Salud para el Bienestar. Este modelo se sostiene en la atención primaria de salud que considera: a) servicios de salud integrados para satisfacer las necesidades de salud de las personas a lo largo de sus vidas; b) abordar los determinantes más amplios de la salud a través de políticas y acciones multisectoriales, y c) empoderar a individuos, familias y comunidades para que se hagan cargo de su propia salud. Se busca satisfacer las necesidades a lo largo del proceso continuo, que va desde la promoción de la salud y la prevención de enfermedades, hasta el tratamiento, la rehabilitación y los cuidados paliativos, y tan próximo como sea posible del entorno cotidiano de las personas. El componente de atención colectiva estará a cargo de la Secretaría de Salud Federal y de las secretarías de salud estatales, así como del Servicio Nacional de Salud Pública en vinculación con los operadores de servicios de salud del sector. El componente de atención médica será responsabilidad de IMSS-Bienestar. En este artículo se presenta la manera en la que el IMSS-Bienestar implementará este modelo de atención durante los siguientes años. Se plantea la manera operativa a través de equipos de conducción multidisciplinarios regionales y zonales, y se delinean los indicadores que serán empleados para su evaluación y seguimiento.",
-              "title_ko": "La atención primaria en el Modelo de Atención a la Salud para el Bienestar en México."
-            },
-            {
-              "pmid": "39977087",
-              "title": "Vacunación en menores de cinco años.",
-              "journal": "Salud publica de Mexico",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2024-08-22",
-              "authors": [
-                "Mongua-Rodríguez N",
-                "Delgado-Sánchez G",
-                "Ferreira-Guerrero E"
-              ],
-              "citation_count": 5,
-              "rcr": 1.2666119453176825,
-              "volume": "66",
-              "issue": "4, jul-ago",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/39977087/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": true,
-              "hot_score": 27.9,
-              "field": "preventive",
-              "field_label": "예방의학",
-              "abstract": "OBJETIVO: Comparar la cobertura de vacunación y sus factores asociados en niñas y niños (NN) menores de cinco años en México, según datos de la Encuesta Nacional de Salud y Nutrición (Ensanut) Continua 2021-2023 y Ensanut 2012. Material y métodos. Se estimó la prevalencia del estado de vacunación de NN menores de cinco años a partir de datos registrados en la Cartilla Nacional de Salud, Cartilla Nacional de Vacunación o documento probatorio, obtenidos de la Ensanut Continua 2021-2023 y Ensanut 2012. Se contaron como dosis válidas para medir cobertura, las que cumplían con las recomendaciones de intervalos de tiempo entre dosis, edad mínima y máxima de aplicación dada por el Centro Nacional para la Salud de la Infancia y Adolescencia. RESULTADOS: En 2021-2023, las coberturas de vacunación en NN menores de cinco años con BCG, hepatitis B y polio/DPT, antineumocócica, antirotavirus y triple viral fueron de 86.5, 63.7, 68.9, 86.6, 81.3 y 71.3%, respectivamente. Al primer y segundo año, 45.6 y 32.4% de NN habían recibido el esquema completo correspondiente. De 2012 a 2021-2023 disminuyeron las coberturas de vacunación con BCG, hepatitis B y polio/DPT, y aumentaron las de neumococo y rotavirus. Conclusión. En 2021-2023 no se alcanzó la meta de cobertura de vacunación (95%) para ninguna vacuna investigada.",
-              "title_ko": "Vacunación en menores de cinco años."
-            },
-            {
-              "pmid": "39977105",
-              "title": "Promoción de actividad física en escolares y adolescentes.",
-              "journal": "Salud publica de Mexico",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2024-08-22",
-              "authors": [
-                "Medina García C",
-                "Jáuregui A",
-                "Blas N"
-              ],
-              "citation_count": 3,
-              "rcr": 0.8502569225394153,
-              "volume": "66",
-              "issue": "4, jul-ago",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/39977105/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": true,
-              "hot_score": 23.8,
-              "field": "preventive",
-              "field_label": "예방의학",
-              "abstract": "OBJETIVO: Examinar los factores asociados con el incumplimiento de las recomendaciones de los comportamientos del movimiento (CM) y la asociación con el estado nutricional en escolares y adolescentes mexicanos. Material y métodos. Estudio transversal con datos de la Encuesta Nacional de Salud y Nutrición 2022-2023 (Ensanut 2022-2023). Se obtuvo información de CM (actividad física, sedentarismo y sueño), características sociodemográficas (sexo, índice de bienestar, nivel educativo y área) y estado nutricional (índice de masa corporal). Se utilizaron regresiones logísticas crudas y ajustadas. RESULTADOS: Ser mujer, vivir en áreas urbanas y tener un mayor índice de bienestar se asoció con no cumplir ninguna de las recomendaciones CM (escolares) o algún CM individual (escolares y adolescentes). No cumplir con ninguna de las tres recomendaciones de los CM se asoció con más posibilidades de tener sobrepeso/obesidad en adolescentes. CONCLUSIONES: Es necesario implementar estrategias con perspectiva de género que promuevan CM saludables en áreas urbanas y con mayor índice de bienestar.",
-              "title_ko": "Promoción de actividad física en escolares y adolescentes."
-            },
-            {
-              "pmid": "39977084",
-              "title": "Vacunación en personas adultas y adultas mayores en México.",
-              "journal": "Salud publica de Mexico",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2024-08-22",
-              "authors": [
-                "Mongua-Rodríguez N",
-                "Ferreyra-Reyes L",
-                "Ferreira-Guerrero E"
-              ],
-              "citation_count": 2,
-              "rcr": 0.43530109960960944,
-              "volume": "66",
-              "issue": "4, jul-ago",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/39977084/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": true,
-              "hot_score": 21.0,
-              "field": "preventive",
-              "field_label": "예방의학",
-              "abstract": "OBJETIVO: Estimar la proporción de sujetos vacunados y los factores asociados en personas adultas y adultas mayores en México. Material y métodos. Análisis de datos obtenidos de la Encuesta Nacional de Salud y Nutrición Continua 2021-2023 (Ensanut Continua 2021-2023) y analizar las variaciones comparando con la Ensanut 2012. RESULTADOS: Dado que solamente el 6.8% de personas adultas y adultas mayores en Ensanut Continua 2021-2023 y 17.7% en Ensanut 2012 acreditaron su estado de vacunación, el análisis se basa en autorreporte. Al comparar Ensanut Continua 2021-2023 con Ensanut 2012, la proporción de sujetos vacunados de acuerdo con grupo de edad y biológico fue la siguiente: personas de 20-59 años, tétanos: 66.87 vs. 78.08%; mujeres en edad fértil, tétanos: 71.1 vs. 82.0%; sarampión/rubéola: 36.8 vs. 48.5%; adultos mayores: tétanos: 59.5 vs. 65.86%; influenza 58.7 vs. 51.9%; neumococo 34.8 vs. 45.9%. La cobertura para vacuna contra Covid-19 en adultos jóvenes y mayores fue de 86.6 y 89.2%, respectivamente. Las características más prevalentes entre los adultos de 20-59 años con esquemas incompletos fueron ser hombre, no tener derechohabiencia y tener trabajo remunerado; en los adultos ≥ 60 años fue no tener derechohabiencia. Discusión. Una proporción considerable de personas adultas y adultas mayores no están protegidos contra enfermedades prevenibles por vacunación en 2021-2023.",
-              "title_ko": "Vacunación en personas adultas y adultas mayores en México."
-            },
-            {
-              "pmid": "39977129",
-              "title": "Servicio Nacional de Salud Pública: implementación en el estado de Sonora.",
-              "journal": "Salud publica de Mexico",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2024-09-17",
-              "authors": [
-                "Alomía-Zegarra JL"
-              ],
-              "citation_count": 0,
-              "rcr": 0.0,
-              "volume": "66",
-              "issue": "5, sept-oct",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/39977129/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": true,
-              "hot_score": 10.0,
-              "field": "preventive",
-              "field_label": "예방의학",
-              "abstract": "Ante la nueva propuesta federal del Modelo de Atención a la Salud para el Bienestar (MAS-Bienestar), en el estado de Sonora se inició, a finales del 2023, la implementación del Servicio Nacional de Salud Pública (SNSP) y sus principales subcomponentes, tanto a nivel central como distrital. Para llevarlo a cabo se definieron tres etapas: la de instauración, la de implementación y la de operación. A la fecha de envío de esta publicación, las dos primeras etapas se completaron en 100% y la tercera y última tienen un avance de 85%. En este artículo se puntualiza en las acciones realizadas y los logros obtenidos en cada una de las tres etapas y se prospecta, además, el futuro del SNSP, el cual los próximos meses será una realidad operativa en Sonora. Finalmente, se anota el proceso de conclusión de transferencia de los servicios de atención médica al nuevo organismo público descentralizado servicios de salud IMSS-Bienestar. Con lo anterior, en la entidad ya será posible atender y comenzar operaciones en los principales componentes del nuevo sistema de salud MAS-Bienestar.",
-              "title_ko": "Servicio Nacional de Salud Pública: implementación en el estado de Sonora."
-            },
-            {
-              "pmid": "39977080",
-              "title": "Programa de Vacunación Universal de México, retos y propuestas de mejora.",
-              "journal": "Salud publica de Mexico",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2024-08-22",
-              "authors": [
-                "De Expertos Independientes P"
-              ],
-              "citation_count": 0,
-              "rcr": 0.0,
-              "volume": "66",
-              "issue": "4, jul-ago",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/39977080/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": true,
-              "hot_score": 10.0,
-              "field": "preventive",
-              "field_label": "예방의학",
-              "abstract": "A pesar del esfuerzo que realizan los coordinadores y operadores del Programa de Vacunación Universal (PVU) de México, en todos los niveles, un programa complejo y extenso como el mencionado siempre se encontrará con barreras para conseguir y mantener el éxito esperado. En este sentido, todo PVU requiere un crecimiento estructural, funcional y financiero que garantice la suficiencia y calidad en la compra de vacunas y que asegure la llegada de las mismas a las personas. Con el objetivo de identificar retos del PVU y proponer acciones de mejora, la Subsecretaría de Prevención y Promoción de la Salud y el Centro Nacional para la Salud de la Infancia y Adolescencia (Censia) solicitaron al Instituto Nacional de Salud Pública (INSP) y a la Organización Panamericana de la Salud/ Organización Mundial de la Salud (OPS/OMS), oficina de representación en México, convocar a un grupo de expertos nacionales e internacionales independientes para realizar una mesa de diálogo y análisis con personal federal y estatal que dirige y opera el PVU. En este manuscrito se presenta un resumen de los temas presentados, elementos relevantes de la discusión y de las recomendaciones generales.",
-              "title_ko": "Programa de Vacunación Universal de México, retos y propuestas de mejora."
             }
           ]
         },
@@ -462,7 +207,7 @@
           "impact_factor": 1.5,
           "index_type": "미상",
           "quartile": "미상",
-          "paper_count": 80,
+          "paper_count": 84,
           "top_paper": {
             "pmid": "39949340",
             "title": "Analysis of factors influencing HPV vaccination intention among Chinese college students: structural equation modeling based on health belief theory.",
@@ -714,6 +459,263 @@
               "field_label": "예방의학",
               "abstract": "BACKGROUND: Health literacy (HL) is recognized as a key determinant in the management of chronic diseases, including heart failure (HF). Adequate HL facilitates understanding and application of health information, promoting effective self-care and improved clinical outcomes. In contrast, low HL is associated with poorer disease control, higher hospitalization rates, and increased mortality. Despite its importance, the relationship between HL and self-care in HF patients remains underexplored in specific sociodemographic and clinical contexts. OBJECTIVE: This study aimed to assess HL and self-care capacity in individuals with HF, identify associated sociodemographic and clinical variables, and explore the predictive value of HL on self-care behaviors. METHODS: A cross-sectional, observational study was conducted among 195 HF patients attending a referral center in Burgos, Spain. HL was assessed using the European health literacy survey questionnaire (HLS-EU-Q16), while self-care was evaluated using the European heart failure self-care behavior scale (EHFScBS). Data were collected via telephone interviews. Descriptive and inferential statistics were applied, including correlation and multiple linear regression analyzes. RESULTS: The mean age of participants was 69.26 (±9 years), with a predominance of males (83.1%). Most participants reported medium social class (87.7%) and basic education (64.6%). HL levels were significantly associated with educational attainment, social class, and gender; women and individuals with higher education levels demonstrated greater HL scores. Regression analysis revealed that HL negatively predicted self-care scores (p < 0.001), as higher EHFScB-9 scores indicate poorer self-care, and in our study higher HL was associated with lower EHFScB-9 scores (r = -0.320; β = -0.189), which is consistent with better self-care behaviors. Older age and lower educational attainment were linked to lower HL and poorer self-care. Notably, female sex and upper-middle social class were also significant predictors of self-care capacity. CONCLUSION: Health literacy is a significant predictor of self-care in HF patients, and its levels are influenced by key sociodemographic variables. These findings underscore the necessity of incorporating HL assessment into clinical practice and tailoring educational interventions to address disparities. Enhancing HL could promote more effective self-management and potentially reduce adverse outcomes in HF populations. Future research should focus on longitudinal analyzes and the development of targeted, equitable interventions based on HL profiles.",
               "title_ko": "심부전 환자의 건강 리터러시와 자기 관리: 단면 연구."
+            }
+          ]
+        },
+        {
+          "journal": "Salud publica de Mexico",
+          "impact_factor": 1.5,
+          "index_type": "미상",
+          "quartile": "미상",
+          "paper_count": 9,
+          "top_paper": {
+            "pmid": "39977078",
+            "title": "Cascadas de tamizaje y atención de la diabetes tipo 2 en México.",
+            "journal": "Salud publica de Mexico",
+            "impact_factor": 1.5,
+            "index_type": "미상",
+            "quartile": "미상",
+            "pubdate": "2024-08-22",
+            "authors": [
+              "Basto-Abreu A",
+              "Reyes-Garcia A",
+              "Stern D"
+            ],
+            "citation_count": 14,
+            "rcr": 3.138969429584243,
+            "volume": "66",
+            "issue": "4, jul-ago",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/39977078/",
+            "altmetric_score": 0,
+            "altmetric_news": 0,
+            "altmetric_social": 0,
+            "is_current_issue": false,
+            "hot_score": 27.0,
+            "field": "preventive",
+            "field_label": "예방의학",
+            "abstract": "OBJETIVO: Actualizar las prevalencias de diabetes tipo 2 (DT2), estimar las cascadas de tamizaje y atención de la DT2 en población adulta mexicana. Material y métodos. Se utilizó la Encuesta Nacional de Salud y Nutrición 2023. Se estimó la cascada de tamizaje, utilizando la población elegible según la NOM-015-SSA2-2010 y se estimó la cascada de atención de DT2 en las personas con diagnóstico. RESULTADOS: La prevalencia de DT2 fue de 18.4% (12.4% diagnosticada, 6.0% no diagnosticada). El 83% de la población adulta sin DT2 tenía factores de riesgo que la hacían elegible a tamizaje sanguíneo. El 27.7% de población elegible fue tamizada en el último año (meta 33.3%). De las personas con diagnóstico de DT2, 72.8% asistió a consulta al menos una vez el último año, 92.8% estaba en tratamiento farmacológico, 77.9% usaba el tratamiento regularmente y 25.8% tenía niveles glucémicos controlados. Las personas que realizaron los tres pasos de atención (seguimiento, tratamiento y tratamiento regular) alcanzaron un control glucémico ligeramente mayor (34.4%). Conclusión. México enfrenta retos importantes para garantizar el tamizaje, la atención y el control glucémico. Se proponen varias acciones para mejorar la detección y control a partir de la evidencia generada con las cascadas de tamizaje y atención.",
+            "title_ko": "Cascadas de tamizaje y atención de la diabetes tipo 2 en México."
+          },
+          "papers": [
+            {
+              "pmid": "39977078",
+              "title": "Cascadas de tamizaje y atención de la diabetes tipo 2 en México.",
+              "journal": "Salud publica de Mexico",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2024-08-22",
+              "authors": [
+                "Basto-Abreu A",
+                "Reyes-Garcia A",
+                "Stern D"
+              ],
+              "citation_count": 14,
+              "rcr": 3.138969429584243,
+              "volume": "66",
+              "issue": "4, jul-ago",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/39977078/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 27.0,
+              "field": "preventive",
+              "field_label": "예방의학",
+              "abstract": "OBJETIVO: Actualizar las prevalencias de diabetes tipo 2 (DT2), estimar las cascadas de tamizaje y atención de la DT2 en población adulta mexicana. Material y métodos. Se utilizó la Encuesta Nacional de Salud y Nutrición 2023. Se estimó la cascada de tamizaje, utilizando la población elegible según la NOM-015-SSA2-2010 y se estimó la cascada de atención de DT2 en las personas con diagnóstico. RESULTADOS: La prevalencia de DT2 fue de 18.4% (12.4% diagnosticada, 6.0% no diagnosticada). El 83% de la población adulta sin DT2 tenía factores de riesgo que la hacían elegible a tamizaje sanguíneo. El 27.7% de población elegible fue tamizada en el último año (meta 33.3%). De las personas con diagnóstico de DT2, 72.8% asistió a consulta al menos una vez el último año, 92.8% estaba en tratamiento farmacológico, 77.9% usaba el tratamiento regularmente y 25.8% tenía niveles glucémicos controlados. Las personas que realizaron los tres pasos de atención (seguimiento, tratamiento y tratamiento regular) alcanzaron un control glucémico ligeramente mayor (34.4%). Conclusión. México enfrenta retos importantes para garantizar el tamizaje, la atención y el control glucémico. Se proponen varias acciones para mejorar la detección y control a partir de la evidencia generada con las cascadas de tamizaje y atención.",
+              "title_ko": "Cascadas de tamizaje y atención de la diabetes tipo 2 en México."
+            },
+            {
+              "pmid": "39977088",
+              "title": "Detección, atención y control de hipertensión arterial.",
+              "journal": "Salud publica de Mexico",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2024-08-22",
+              "authors": [
+                "Campos-Nonato I",
+                "Oviedo-Solís C",
+                "Hernández-Barrera L"
+              ],
+              "citation_count": 10,
+              "rcr": 2.6079456349342216,
+              "volume": "66",
+              "issue": "4, jul-ago",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/39977088/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 23.9,
+              "field": "preventive",
+              "field_label": "예방의학",
+              "abstract": "OBJETIVO: Describir la prevalencia de adultos con hipertensión arterial (HTA) diagnosticada, tratada y controlada, utilizando el marco de las cascadas de atención en la Encuesta Nacional de Salud y Nutrición (Ensanut) 2020-2023. Material y métodos. Se analizó la información de 3 094 adultos ≥20 años de edad. Los adultos con HTA (n= 1 059) fueron el denominador de la cascada de atención, considerando las pérdidas acumuladas en la proporción de adultos diagnosticados con HTA, tratados y controlados. Se identificó a las personas con adherencia al tratamiento farmacológico. RESULTADOS: La prevalencia de HTA fue de 29.9% (mujeres 27.6% y hombres 32.5%). El 43.0% de los adultos con HTA no habían sido diagnosticados y sólo 36.3% de los diagnosticados y tratados con fármacos tenía valores de presión arterial (PA) bajo control. Entre las personas diagnosticadas con HTA que tomaban regularmente fármaco antihipertensivo (75.3%), sólo 42.1% tuvo valores de PA controlada. El 52.1% de los adultos con hipertensión no realizaba ninguna medida no farmacológica para controlar la PA elevada. CONCLUSIONES: Se encontró un bajo desempeño del sistema de salud para diagnosticar y controlar la HTA. Se requiere una estrategia poblacional, pronta y concertada para reducir la carga de la HTA y evitar complicaciones, discapacidad y muerte prematura por accidente cerebrovascular o cardiopatía isquémica.",
+              "title_ko": "Detección, atención y control de hipertensión arterial."
+            },
+            {
+              "pmid": "39977135",
+              "title": "La atención primaria en el Modelo de Atención a la Salud para el Bienestar en México.",
+              "journal": "Salud publica de Mexico",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2024-09-17",
+              "authors": [
+                "Borja-Aburto VH"
+              ],
+              "citation_count": 5,
+              "rcr": 0.7499003818600894,
+              "volume": "66",
+              "issue": "5, sept-oct",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/39977135/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 17.9,
+              "field": "preventive",
+              "field_label": "예방의학",
+              "abstract": "El Instituto Mexicano del Seguro Social-Bienestar (IMSS-Bienestar), nueva institución encargada de la atención a la salud de las personas sin seguridad social en los estados mexicanos que firmen convenios con este propósito, basará la atención médica en el Modelo de Atención a la Salud para el Bienestar. Este modelo se sostiene en la atención primaria de salud que considera: a) servicios de salud integrados para satisfacer las necesidades de salud de las personas a lo largo de sus vidas; b) abordar los determinantes más amplios de la salud a través de políticas y acciones multisectoriales, y c) empoderar a individuos, familias y comunidades para que se hagan cargo de su propia salud. Se busca satisfacer las necesidades a lo largo del proceso continuo, que va desde la promoción de la salud y la prevención de enfermedades, hasta el tratamiento, la rehabilitación y los cuidados paliativos, y tan próximo como sea posible del entorno cotidiano de las personas. El componente de atención colectiva estará a cargo de la Secretaría de Salud Federal y de las secretarías de salud estatales, así como del Servicio Nacional de Salud Pública en vinculación con los operadores de servicios de salud del sector. El componente de atención médica será responsabilidad de IMSS-Bienestar. En este artículo se presenta la manera en la que el IMSS-Bienestar implementará este modelo de atención durante los siguientes años. Se plantea la manera operativa a través de equipos de conducción multidisciplinarios regionales y zonales, y se delinean los indicadores que serán empleados para su evaluación y seguimiento.",
+              "title_ko": "La atención primaria en el Modelo de Atención a la Salud para el Bienestar en México."
+            },
+            {
+              "pmid": "39977087",
+              "title": "Vacunación en menores de cinco años.",
+              "journal": "Salud publica de Mexico",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2024-08-22",
+              "authors": [
+                "Mongua-Rodríguez N",
+                "Delgado-Sánchez G",
+                "Ferreira-Guerrero E"
+              ],
+              "citation_count": 5,
+              "rcr": 1.2666119453176825,
+              "volume": "66",
+              "issue": "4, jul-ago",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/39977087/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 17.9,
+              "field": "preventive",
+              "field_label": "예방의학",
+              "abstract": "OBJETIVO: Comparar la cobertura de vacunación y sus factores asociados en niñas y niños (NN) menores de cinco años en México, según datos de la Encuesta Nacional de Salud y Nutrición (Ensanut) Continua 2021-2023 y Ensanut 2012. Material y métodos. Se estimó la prevalencia del estado de vacunación de NN menores de cinco años a partir de datos registrados en la Cartilla Nacional de Salud, Cartilla Nacional de Vacunación o documento probatorio, obtenidos de la Ensanut Continua 2021-2023 y Ensanut 2012. Se contaron como dosis válidas para medir cobertura, las que cumplían con las recomendaciones de intervalos de tiempo entre dosis, edad mínima y máxima de aplicación dada por el Centro Nacional para la Salud de la Infancia y Adolescencia. RESULTADOS: En 2021-2023, las coberturas de vacunación en NN menores de cinco años con BCG, hepatitis B y polio/DPT, antineumocócica, antirotavirus y triple viral fueron de 86.5, 63.7, 68.9, 86.6, 81.3 y 71.3%, respectivamente. Al primer y segundo año, 45.6 y 32.4% de NN habían recibido el esquema completo correspondiente. De 2012 a 2021-2023 disminuyeron las coberturas de vacunación con BCG, hepatitis B y polio/DPT, y aumentaron las de neumococo y rotavirus. Conclusión. En 2021-2023 no se alcanzó la meta de cobertura de vacunación (95%) para ninguna vacuna investigada.",
+              "title_ko": "Vacunación en menores de cinco años."
+            },
+            {
+              "pmid": "39977105",
+              "title": "Promoción de actividad física en escolares y adolescentes.",
+              "journal": "Salud publica de Mexico",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2024-08-22",
+              "authors": [
+                "Medina García C",
+                "Jáuregui A",
+                "Blas N"
+              ],
+              "citation_count": 3,
+              "rcr": 0.8502569225394153,
+              "volume": "66",
+              "issue": "4, jul-ago",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/39977105/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 13.8,
+              "field": "preventive",
+              "field_label": "예방의학",
+              "abstract": "OBJETIVO: Examinar los factores asociados con el incumplimiento de las recomendaciones de los comportamientos del movimiento (CM) y la asociación con el estado nutricional en escolares y adolescentes mexicanos. Material y métodos. Estudio transversal con datos de la Encuesta Nacional de Salud y Nutrición 2022-2023 (Ensanut 2022-2023). Se obtuvo información de CM (actividad física, sedentarismo y sueño), características sociodemográficas (sexo, índice de bienestar, nivel educativo y área) y estado nutricional (índice de masa corporal). Se utilizaron regresiones logísticas crudas y ajustadas. RESULTADOS: Ser mujer, vivir en áreas urbanas y tener un mayor índice de bienestar se asoció con no cumplir ninguna de las recomendaciones CM (escolares) o algún CM individual (escolares y adolescentes). No cumplir con ninguna de las tres recomendaciones de los CM se asoció con más posibilidades de tener sobrepeso/obesidad en adolescentes. CONCLUSIONES: Es necesario implementar estrategias con perspectiva de género que promuevan CM saludables en áreas urbanas y con mayor índice de bienestar.",
+              "title_ko": "Promoción de actividad física en escolares y adolescentes."
+            },
+            {
+              "pmid": "39977084",
+              "title": "Vacunación en personas adultas y adultas mayores en México.",
+              "journal": "Salud publica de Mexico",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2024-08-22",
+              "authors": [
+                "Mongua-Rodríguez N",
+                "Ferreyra-Reyes L",
+                "Ferreira-Guerrero E"
+              ],
+              "citation_count": 2,
+              "rcr": 0.43530109960960944,
+              "volume": "66",
+              "issue": "4, jul-ago",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/39977084/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 11.0,
+              "field": "preventive",
+              "field_label": "예방의학",
+              "abstract": "OBJETIVO: Estimar la proporción de sujetos vacunados y los factores asociados en personas adultas y adultas mayores en México. Material y métodos. Análisis de datos obtenidos de la Encuesta Nacional de Salud y Nutrición Continua 2021-2023 (Ensanut Continua 2021-2023) y analizar las variaciones comparando con la Ensanut 2012. RESULTADOS: Dado que solamente el 6.8% de personas adultas y adultas mayores en Ensanut Continua 2021-2023 y 17.7% en Ensanut 2012 acreditaron su estado de vacunación, el análisis se basa en autorreporte. Al comparar Ensanut Continua 2021-2023 con Ensanut 2012, la proporción de sujetos vacunados de acuerdo con grupo de edad y biológico fue la siguiente: personas de 20-59 años, tétanos: 66.87 vs. 78.08%; mujeres en edad fértil, tétanos: 71.1 vs. 82.0%; sarampión/rubéola: 36.8 vs. 48.5%; adultos mayores: tétanos: 59.5 vs. 65.86%; influenza 58.7 vs. 51.9%; neumococo 34.8 vs. 45.9%. La cobertura para vacuna contra Covid-19 en adultos jóvenes y mayores fue de 86.6 y 89.2%, respectivamente. Las características más prevalentes entre los adultos de 20-59 años con esquemas incompletos fueron ser hombre, no tener derechohabiencia y tener trabajo remunerado; en los adultos ≥ 60 años fue no tener derechohabiencia. Discusión. Una proporción considerable de personas adultas y adultas mayores no están protegidos contra enfermedades prevenibles por vacunación en 2021-2023.",
+              "title_ko": "Vacunación en personas adultas y adultas mayores en México."
+            },
+            {
+              "pmid": "42873933",
+              "title": "Diseño metodológico del módulo de salud visual en la Encuesta Nacional de Salud y Nutrición Continua 2025.",
+              "journal": "Salud publica de Mexico",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2026-10-09",
+              "authors": [
+                "Barrera-Núñez DA",
+                "Mohamed-Noriega J",
+                "De La Parra-Colin P"
+              ],
+              "citation_count": 0,
+              "rcr": null,
+              "volume": "68",
+              "issue": "5 (sept-oct)",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/42873933/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": true,
+              "hot_score": 10.0,
+              "field": "preventive",
+              "field_label": "예방의학",
+              "abstract": "El objetivo de este artículo es describir el diseño metodológico, instrumentos y alcances del módulo de salud visual de la Encuesta Nacional de Salud y Nutrición (Ensanut) Continua 2025. La Ensanut Continua 2025 incluirá un módulo de salud visual, con cuestionarios para distintos grupos de edad que incluyen contacto con servicios de salud visual, uso de lentes, antecedentes de diagnóstico, tratamiento e institución de atención para catarata, retinopatía diabética, glaucoma, degeneración macular y ojo seco. Se evaluará agudeza visual lejana y cercana, con y sin corrección mediante optotipos digitales estandarizados, además de realizar valoración de transparencia corneal, opacidad de medios, reflejo de fondo y toma de fotografías del fondo de ojo. El módulo aportará evidencia sobre prevalencias, cascadas de atención y barreras de acceso en México, evidenciando brechas en acceso, diagnóstico y tratamiento de la salud visual, generando información clave para políticas públicas y equidad en salud.",
+              "title_ko": "Diseño metodológico del módulo de salud visual en la Encuesta Nacional de Salud y Nutrición Continua 2025."
+            },
+            {
+              "pmid": "39977129",
+              "title": "Servicio Nacional de Salud Pública: implementación en el estado de Sonora.",
+              "journal": "Salud publica de Mexico",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2024-09-17",
+              "authors": [
+                "Alomía-Zegarra JL"
+              ],
+              "citation_count": 0,
+              "rcr": 0.0,
+              "volume": "66",
+              "issue": "5, sept-oct",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/39977129/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 0.0,
+              "field": "preventive",
+              "field_label": "예방의학",
+              "abstract": "Ante la nueva propuesta federal del Modelo de Atención a la Salud para el Bienestar (MAS-Bienestar), en el estado de Sonora se inició, a finales del 2023, la implementación del Servicio Nacional de Salud Pública (SNSP) y sus principales subcomponentes, tanto a nivel central como distrital. Para llevarlo a cabo se definieron tres etapas: la de instauración, la de implementación y la de operación. A la fecha de envío de esta publicación, las dos primeras etapas se completaron en 100% y la tercera y última tienen un avance de 85%. En este artículo se puntualiza en las acciones realizadas y los logros obtenidos en cada una de las tres etapas y se prospecta, además, el futuro del SNSP, el cual los próximos meses será una realidad operativa en Sonora. Finalmente, se anota el proceso de conclusión de transferencia de los servicios de atención médica al nuevo organismo público descentralizado servicios de salud IMSS-Bienestar. Con lo anterior, en la entidad ya será posible atender y comenzar operaciones en los principales componentes del nuevo sistema de salud MAS-Bienestar.",
+              "title_ko": "Servicio Nacional de Salud Pública: implementación en el estado de Sonora."
             }
           ]
         },
@@ -1700,71 +1702,6 @@
               "field_label": "예방의학",
               "abstract": "Suicide is a public health concern and represents one of the increasing causes of mortality worldwide. In Pakistan, the severity of suicide is worsened by the lack of a national prevention program and adequate mental health facilities. This study, through 16 in-depth interviews with clinicians, aimed to identify prevention strategies. Two main categories emerged: community-level strategies (eg raising awareness, psychoeducation, restricting access to lethal means) and clinician-level strategies (eg training programs, safety plans, fundraising, tele-counseling). Effective prevention requires comprehensive policies to overcome existing barriers.",
               "title_ko": "파키스탄의 자살 예방 전략에 대한 임상의의 관점: 질적 조사."
-            }
-          ]
-        },
-        {
-          "journal": "Health promotion practice",
-          "impact_factor": 1.5,
-          "index_type": "미상",
-          "quartile": "미상",
-          "paper_count": 1,
-          "top_paper": {
-            "pmid": "40589218",
-            "title": "Evaluation of Health Education Events With a Peer-to-Peer Component in Public High Schools.",
-            "journal": "Health promotion practice",
-            "impact_factor": 1.5,
-            "index_type": "미상",
-            "quartile": "미상",
-            "pubdate": "2024-06-19",
-            "authors": [
-              "Metzger T",
-              "Zepeda A",
-              "Wilcox N"
-            ],
-            "citation_count": 2,
-            "rcr": null,
-            "volume": "26",
-            "issue": "4",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/40589218/",
-            "altmetric_score": 0,
-            "altmetric_news": 0,
-            "altmetric_social": 0,
-            "is_current_issue": true,
-            "hot_score": 21.0,
-            "field": "preventive",
-            "field_label": "예방의학",
-            "abstract": "Despite many improvements in childhood health outcomes, many children experience chronic health conditions and engage in unhealthy behaviors that can negatively affect the rest of their lives. School-based health education is one strategy to promote healthier lifestyles among children. Although health education is very prevalent in the United States, the methods used for this education are not well studied. Health education events such as voluntary tabling events (booths) were held by peer student educators and adult allies from the LA Trust for Children's Health. This program evaluation studied the effects of voluntary peer-to-peer health education tabling events and a more traditional mandatory school-based health presentation. We analyzed survey responses from 343 high school students who attended 19 health education events at 8 public high schools in Los Angeles County. The results showed that health education tabling events at schools were viewed positively by students, allowing the vast majority to report learning useful information. The impact of the tabling events varied somewhat between grade levels and health topics. These findings can assist schools, health organizations, and health care providers in tailoring their programming to better disseminate health education materials and information, as well as understanding which health topics are interesting to students.",
-            "title_ko": "공립 고등학교에서 피어 투 피어 구성 요소로 보건 교육 이벤트 평가."
-          },
-          "papers": [
-            {
-              "pmid": "40589218",
-              "title": "Evaluation of Health Education Events With a Peer-to-Peer Component in Public High Schools.",
-              "journal": "Health promotion practice",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2024-06-19",
-              "authors": [
-                "Metzger T",
-                "Zepeda A",
-                "Wilcox N"
-              ],
-              "citation_count": 2,
-              "rcr": null,
-              "volume": "26",
-              "issue": "4",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/40589218/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": true,
-              "hot_score": 21.0,
-              "field": "preventive",
-              "field_label": "예방의학",
-              "abstract": "Despite many improvements in childhood health outcomes, many children experience chronic health conditions and engage in unhealthy behaviors that can negatively affect the rest of their lives. School-based health education is one strategy to promote healthier lifestyles among children. Although health education is very prevalent in the United States, the methods used for this education are not well studied. Health education events such as voluntary tabling events (booths) were held by peer student educators and adult allies from the LA Trust for Children's Health. This program evaluation studied the effects of voluntary peer-to-peer health education tabling events and a more traditional mandatory school-based health presentation. We analyzed survey responses from 343 high school students who attended 19 health education events at 8 public high schools in Los Angeles County. The results showed that health education tabling events at schools were viewed positively by students, allowing the vast majority to report learning useful information. The impact of the tabling events varied somewhat between grade levels and health topics. These findings can assist schools, health organizations, and health care providers in tailoring their programming to better disseminate health education materials and information, as well as understanding which health topics are interesting to students.",
-              "title_ko": "공립 고등학교에서 피어 투 피어 구성 요소로 보건 교육 이벤트 평가."
             }
           ]
         },
@@ -3823,27 +3760,29 @@
           ]
         },
         {
-          "journal": "North Carolina medical journal",
+          "journal": "Health promotion practice",
           "impact_factor": 1.5,
           "index_type": "미상",
           "quartile": "미상",
-          "paper_count": 1,
+          "paper_count": 2,
           "top_paper": {
-            "pmid": "41524308",
-            "title": "Schools' Vital Role in Supporting Children's Mental Health Following Disasters.",
-            "journal": "North Carolina medical journal",
+            "pmid": "40589219",
+            "title": "Youth Market: Evaluation of a Paid Summer Internship to Promote Food Justice in Northern Manhattan.",
+            "journal": "Health promotion practice",
             "impact_factor": 1.5,
             "index_type": "미상",
             "quartile": "미상",
-            "pubdate": "2025-04-30",
+            "pubdate": "2024-10-17",
             "authors": [
-              "Harrington N"
+              "Harris JN",
+              "Murray KE",
+              "Jernigan CA"
             ],
             "citation_count": 1,
             "rcr": null,
-            "volume": "86",
-            "issue": "1",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/41524308/",
+            "volume": "26",
+            "issue": "4",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/40589219/",
             "altmetric_score": 0,
             "altmetric_news": 0,
             "altmetric_social": 0,
@@ -3851,26 +3790,28 @@
             "hot_score": 16.9,
             "field": "preventive",
             "field_label": "예방의학",
-            "abstract": "Health services provided at school benefit the health and wellbeing of students. But when communities are recovering from disaster, those services become vital, especially for mental health. Research suggests that children in Western North Carolina will need mental health supports post-Hurricane Helene. That should be top priority.",
-            "title_ko": "재난 발생 후 아동의 정신 건강을 지원하는 데 있어 학교의 중요한 역할."
+            "abstract": "Engaging adolescents and young adults in food justice initiatives is a powerful tool to address the complex landscape of food-related inequities. Youth Market is a paid 8-week summer internship in Northern Manhattan that engages 16- to 22-year olds in managing a farm stand, leading nutrition workshops, and distributing food to families experiencing food insecurity. Through a positive youth development lens, the program aims to empower interns to become ambassadors of healthy food access in their community, while supporting their personal health and career goals. Matched, de-identified, pre-post online surveys of Summer 2021 and 2022 interns and a 1-year follow-up survey of Summer 2021 interns used Likert-type scale and open-ended questions to assess program satisfaction and perceived knowledge, attitudes, and self-efficacy regarding nutrition behaviors, food insecurity resources, and community connectedness. Pre-post results (n = 35) demonstrated high program satisfaction and statistically significant increases in interns' self-reported fruit and vegetable consumption, confidence in ability to share information about healthy eating and food insecurity resources, and sense of community connectedness. Longitudinal results (n = 13) showed some significant improvements from baseline. Youth Market demonstrates a valuable model for youth engagement in paid work to promote community access to healthy food, improve knowledge and resource-sharing related to nutrition and food insecurity, and support youth career development.",
+            "title_ko": "청년 시장: 북부 맨해튼의 음식 정의 증진을 위한 유급 여름 인턴십 평가."
           },
           "papers": [
             {
-              "pmid": "41524308",
-              "title": "Schools' Vital Role in Supporting Children's Mental Health Following Disasters.",
-              "journal": "North Carolina medical journal",
+              "pmid": "40589219",
+              "title": "Youth Market: Evaluation of a Paid Summer Internship to Promote Food Justice in Northern Manhattan.",
+              "journal": "Health promotion practice",
               "impact_factor": 1.5,
               "index_type": "미상",
               "quartile": "미상",
-              "pubdate": "2025-04-30",
+              "pubdate": "2024-10-17",
               "authors": [
-                "Harrington N"
+                "Harris JN",
+                "Murray KE",
+                "Jernigan CA"
               ],
               "citation_count": 1,
               "rcr": null,
-              "volume": "86",
-              "issue": "1",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/41524308/",
+              "volume": "26",
+              "issue": "4",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/40589219/",
               "altmetric_score": 0,
               "altmetric_news": 0,
               "altmetric_social": 0,
@@ -3878,8 +3819,36 @@
               "hot_score": 16.9,
               "field": "preventive",
               "field_label": "예방의학",
-              "abstract": "Health services provided at school benefit the health and wellbeing of students. But when communities are recovering from disaster, those services become vital, especially for mental health. Research suggests that children in Western North Carolina will need mental health supports post-Hurricane Helene. That should be top priority.",
-              "title_ko": "재난 발생 후 아동의 정신 건강을 지원하는 데 있어 학교의 중요한 역할."
+              "abstract": "Engaging adolescents and young adults in food justice initiatives is a powerful tool to address the complex landscape of food-related inequities. Youth Market is a paid 8-week summer internship in Northern Manhattan that engages 16- to 22-year olds in managing a farm stand, leading nutrition workshops, and distributing food to families experiencing food insecurity. Through a positive youth development lens, the program aims to empower interns to become ambassadors of healthy food access in their community, while supporting their personal health and career goals. Matched, de-identified, pre-post online surveys of Summer 2021 and 2022 interns and a 1-year follow-up survey of Summer 2021 interns used Likert-type scale and open-ended questions to assess program satisfaction and perceived knowledge, attitudes, and self-efficacy regarding nutrition behaviors, food insecurity resources, and community connectedness. Pre-post results (n = 35) demonstrated high program satisfaction and statistically significant increases in interns' self-reported fruit and vegetable consumption, confidence in ability to share information about healthy eating and food insecurity resources, and sense of community connectedness. Longitudinal results (n = 13) showed some significant improvements from baseline. Youth Market demonstrates a valuable model for youth engagement in paid work to promote community access to healthy food, improve knowledge and resource-sharing related to nutrition and food insecurity, and support youth career development.",
+              "title_ko": "청년 시장: 북부 맨해튼의 음식 정의 증진을 위한 유급 여름 인턴십 평가."
+            },
+            {
+              "pmid": "40589218",
+              "title": "Evaluation of Health Education Events With a Peer-to-Peer Component in Public High Schools.",
+              "journal": "Health promotion practice",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2024-06-19",
+              "authors": [
+                "Metzger T",
+                "Zepeda A",
+                "Wilcox N"
+              ],
+              "citation_count": 2,
+              "rcr": null,
+              "volume": "26",
+              "issue": "4",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/40589218/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 11.0,
+              "field": "preventive",
+              "field_label": "예방의학",
+              "abstract": "Despite many improvements in childhood health outcomes, many children experience chronic health conditions and engage in unhealthy behaviors that can negatively affect the rest of their lives. School-based health education is one strategy to promote healthier lifestyles among children. Although health education is very prevalent in the United States, the methods used for this education are not well studied. Health education events such as voluntary tabling events (booths) were held by peer student educators and adult allies from the LA Trust for Children's Health. This program evaluation studied the effects of voluntary peer-to-peer health education tabling events and a more traditional mandatory school-based health presentation. We analyzed survey responses from 343 high school students who attended 19 health education events at 8 public high schools in Los Angeles County. The results showed that health education tabling events at schools were viewed positively by students, allowing the vast majority to report learning useful information. The impact of the tabling events varied somewhat between grade levels and health topics. These findings can assist schools, health organizations, and health care providers in tailoring their programming to better disseminate health education materials and information, as well as understanding which health topics are interesting to students.",
+              "title_ko": "공립 고등학교에서 피어 투 피어 구성 요소로 보건 교육 이벤트 평가."
             }
           ]
         },
@@ -4209,71 +4178,6 @@
           ]
         },
         {
-          "journal": "Noise & health",
-          "impact_factor": 1.5,
-          "index_type": "미상",
-          "quartile": "미상",
-          "paper_count": 1,
-          "top_paper": {
-            "pmid": "39787560",
-            "title": "Investigation of the Content Offered to the Public Regarding Noise Pollution in Online News.",
-            "journal": "Noise & health",
-            "impact_factor": 1.5,
-            "index_type": "미상",
-            "quartile": "미상",
-            "pubdate": "2024-12-30",
-            "authors": [
-              "Basch CH",
-              "Kollia B",
-              "Park E"
-            ],
-            "citation_count": 1,
-            "rcr": 0.5250548354718068,
-            "volume": "26",
-            "issue": "123",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/39787560/",
-            "altmetric_score": 0,
-            "altmetric_news": 0,
-            "altmetric_social": 0,
-            "is_current_issue": true,
-            "hot_score": 16.9,
-            "field": "preventive",
-            "field_label": "예방의학",
-            "abstract": "BACKGROUND/OBJECTIVES: Noise remains an under-discussed type of environmental pollutant, which exerts a wide range of adverse health effects, both auditory and non-auditory. Ensuring that the public has ready access to useful health information online about noise exposure is important. In this regard, evaluating the content of public news articles regarding noise pollution is vital. Although examining the content available to the public on this topic is significant, there is still a dearth of information on this topic. Consequently, this study aimed to analyze the content on Google News regarding noise pollution. METHODS: Google News was searched using the term \"noise pollution,\" and 100 articles were shortlisted for further coding. Qualitative coding was based on the news source, the type of domain extension, and whether a video was included in the article. The articles were quantitatively coded based on their content and compared for length. RESULTS: The three most common content areas were as follows: types of noise pollution (73%), sources of noise (63%), and responses by administrative offices (59%). Only 17% of the news articles alluded to health issues linked to noise pollution, such as sleep disturbances, anxiety, high blood pressure, and effects on children's auditory skills, that is speech development, concentration, and memory retention. Scientific research findings related to noise pollution were incorporated in less than one-third of the articles. The news articles were of comparable length. CONCLUSION: This study not only contributes to a better understanding of the news provided to the public and how noise pollution issues are discussed in contemporary, mainstream media, but also can inform about public health initiatives. We recommend that scientific/healthcare communities collaborate with online news media to improve the coverage regarding-and underscore the scientific evidence of-the deleterious consequences of noise on human and animal health.",
-            "title_ko": "온라인 뉴스의 소음 공해와 관련하여 대중에게 제공되는 콘텐츠에 대한 조사."
-          },
-          "papers": [
-            {
-              "pmid": "39787560",
-              "title": "Investigation of the Content Offered to the Public Regarding Noise Pollution in Online News.",
-              "journal": "Noise & health",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2024-12-30",
-              "authors": [
-                "Basch CH",
-                "Kollia B",
-                "Park E"
-              ],
-              "citation_count": 1,
-              "rcr": 0.5250548354718068,
-              "volume": "26",
-              "issue": "123",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/39787560/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": true,
-              "hot_score": 16.9,
-              "field": "preventive",
-              "field_label": "예방의학",
-              "abstract": "BACKGROUND/OBJECTIVES: Noise remains an under-discussed type of environmental pollutant, which exerts a wide range of adverse health effects, both auditory and non-auditory. Ensuring that the public has ready access to useful health information online about noise exposure is important. In this regard, evaluating the content of public news articles regarding noise pollution is vital. Although examining the content available to the public on this topic is significant, there is still a dearth of information on this topic. Consequently, this study aimed to analyze the content on Google News regarding noise pollution. METHODS: Google News was searched using the term \"noise pollution,\" and 100 articles were shortlisted for further coding. Qualitative coding was based on the news source, the type of domain extension, and whether a video was included in the article. The articles were quantitatively coded based on their content and compared for length. RESULTS: The three most common content areas were as follows: types of noise pollution (73%), sources of noise (63%), and responses by administrative offices (59%). Only 17% of the news articles alluded to health issues linked to noise pollution, such as sleep disturbances, anxiety, high blood pressure, and effects on children's auditory skills, that is speech development, concentration, and memory retention. Scientific research findings related to noise pollution were incorporated in less than one-third of the articles. The news articles were of comparable length. CONCLUSION: This study not only contributes to a better understanding of the news provided to the public and how noise pollution issues are discussed in contemporary, mainstream media, but also can inform about public health initiatives. We recommend that scientific/healthcare communities collaborate with online news media to improve the coverage regarding-and underscore the scientific evidence of-the deleterious consequences of noise on human and animal health.",
-              "title_ko": "온라인 뉴스의 소음 공해와 관련하여 대중에게 제공되는 콘텐츠에 대한 조사."
-            }
-          ]
-        },
-        {
           "journal": "Cancer nursing",
           "impact_factor": 1.5,
           "index_type": "미상",
@@ -4595,19 +4499,440 @@
               "title_ko": "림프부종 자가 치료 환자 학교가 하지 림프부종 환자의 기능, 삶의 질, 림프부종 용적 및 신체 가치에 미치는 영향에 대한 조사: 준실험적 연구."
             }
           ]
+        },
+        {
+          "journal": "Frontiers in endocrinology",
+          "impact_factor": 1.5,
+          "index_type": "미상",
+          "quartile": "미상",
+          "paper_count": 4,
+          "top_paper": {
+            "pmid": "39877848",
+            "title": "Shifting paradigms in primary aldosteronism: reconsideration of screening strategy via integrating pathophysiological insights.",
+            "journal": "Frontiers in endocrinology",
+            "impact_factor": 1.5,
+            "index_type": "미상",
+            "quartile": "미상",
+            "pubdate": "2025-01-14",
+            "authors": [
+              "Kitamoto T",
+              "Ruike Y",
+              "Koide H"
+            ],
+            "citation_count": 4,
+            "rcr": null,
+            "volume": "15",
+            "issue": "",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/39877848/",
+            "altmetric_score": 0,
+            "altmetric_news": 0,
+            "altmetric_social": 0,
+            "is_current_issue": false,
+            "hot_score": 16.0,
+            "field": "preventive",
+            "field_label": "예방의학",
+            "abstract": "Several decades have passed since the description of the first patient with primary aldosteronism (PA). PA was initially classified in two main forms: aldosterone-producing adenoma (APA) and idiopathic hyperaldosteronism (IHA). However, the pathogenesis of PA has now been shown to be far more complex. For this reason, the traditional classification needs to be updated. Given the recent advancements in our understanding of PA pathogenesis, we should reevaluate how frequent PA cases are, beginning with the reconstruction of the screening strategy. Recent studies consistently indicated that PA has been identified in 22% of patients with resistant hypertension and 11% even in normotensives. The frequency is influenced by the screening strategy and should be based on understanding the pathogenesis of PA. Progress has been made to promote our understanding of the pathogenesis of PA by the findings of aldosterone driver mutations, which have been found in normotensives and hypertensives. In addition, much clinical evidence has been accumulated to indicate that there is a spectrum in PA pathogenesis. In this review, we will summarize the recent progress in aldosterone measurement methods based on LC-MS/MS and the current screening strategy. Then, we will discuss the progress of our understanding of PA, focusing on aldosterone driver mutations and the natural history of PA. Finally, we will discuss the optimal strategy to improve screening rate and case detection.",
+            "title_ko": "일차 알도스테론주의의 패러다임 전환: 병태생리학적 통찰력 통합을 통한 스크리닝 전략의 재검토."
+          },
+          "papers": [
+            {
+              "pmid": "39877848",
+              "title": "Shifting paradigms in primary aldosteronism: reconsideration of screening strategy via integrating pathophysiological insights.",
+              "journal": "Frontiers in endocrinology",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2025-01-14",
+              "authors": [
+                "Kitamoto T",
+                "Ruike Y",
+                "Koide H"
+              ],
+              "citation_count": 4,
+              "rcr": null,
+              "volume": "15",
+              "issue": "",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/39877848/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 16.0,
+              "field": "preventive",
+              "field_label": "예방의학",
+              "abstract": "Several decades have passed since the description of the first patient with primary aldosteronism (PA). PA was initially classified in two main forms: aldosterone-producing adenoma (APA) and idiopathic hyperaldosteronism (IHA). However, the pathogenesis of PA has now been shown to be far more complex. For this reason, the traditional classification needs to be updated. Given the recent advancements in our understanding of PA pathogenesis, we should reevaluate how frequent PA cases are, beginning with the reconstruction of the screening strategy. Recent studies consistently indicated that PA has been identified in 22% of patients with resistant hypertension and 11% even in normotensives. The frequency is influenced by the screening strategy and should be based on understanding the pathogenesis of PA. Progress has been made to promote our understanding of the pathogenesis of PA by the findings of aldosterone driver mutations, which have been found in normotensives and hypertensives. In addition, much clinical evidence has been accumulated to indicate that there is a spectrum in PA pathogenesis. In this review, we will summarize the recent progress in aldosterone measurement methods based on LC-MS/MS and the current screening strategy. Then, we will discuss the progress of our understanding of PA, focusing on aldosterone driver mutations and the natural history of PA. Finally, we will discuss the optimal strategy to improve screening rate and case detection.",
+              "title_ko": "일차 알도스테론주의의 패러다임 전환: 병태생리학적 통찰력 통합을 통한 스크리닝 전략의 재검토."
+            },
+            {
+              "pmid": "41641034",
+              "title": "Assessment of screening tools for diabetic sarcopenia in type 2 diabetes mellitus: evidence from a scoping review.",
+              "journal": "Frontiers in endocrinology",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2026-01-20",
+              "authors": [
+                "Yin J",
+                "Zhang X",
+                "Cai J"
+              ],
+              "citation_count": 2,
+              "rcr": null,
+              "volume": "16",
+              "issue": "",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/41641034/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 11.0,
+              "field": "preventive",
+              "field_label": "예방의학",
+              "abstract": "OBJECTIVE: This study aimed to map and synthesize the available evidence on screening tools for diabetic sarcopenia in patients with type 2 diabetes mellitus (T2DM), highlighting their characteristics, application contexts, and research gaps. METHODS: A comprehensive search was conducted in PubMed, Web of Science, CNKI, and Wanfang Data to identify studies published from 2010 to Deccember 2025. Studies involving adults with T2DM that evaluated screening tools for sarcopenia against established diagnostic criteria (EWGSOP, AWGS, FNIH, or IWGS) were eligible. Two reviewers independently screened studies, extracted data, and assessed methodological quality using the QUADAS-2 tool. Findings were charted and synthesized narratively, with screening tools grouped into functional assessments, anthropometric measures, biomarker-based methods, imaging approaches, and predictive models. RESULTS: A total of 24 studies with 9,469 participants were included. The most common screening tools were functional assessments, anthropometric measures, biomarkers, and muscle ultrasound. SARC-F showed moderate sensitivity (13.33%-62.63%) and high specificity (67.30%-91.67%), while SARC-CalF improved diagnostic performance. Muscle ultrasound demonstrated high accuracy, with sensitivity ranging from 71.05% to 95.00%. Predictive models with multiple variables (Age, BMI, HbA1c) showed AUC values between 0.800 and 0.932. Challenges included inconsistent cut-off values and limited validation across diverse populations. CONCLUSION: Various screening approaches for diabetic sarcopenia have been explored, but no single tool is universally validated for T2DM. Combining functional questionnaires with objective assessments like ultrasound or biomarkers may offer a more practical solution. Future research should focus on standardizing thresholds and testing tools in diverse populations.",
+              "title_ko": "제2형 당뇨병에서 당뇨병성 근감소증에 대한 선별검사 도구의 평가: 범위 검토의 증거."
+            },
+            {
+              "pmid": "41684453",
+              "title": "Effect of timely diagnosis and treatment on growth and body proportionality of children with congenital hypothyroidism.",
+              "journal": "Frontiers in endocrinology",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2026-01-28",
+              "authors": [
+                "Kochar A",
+                "Kaur H",
+                "Dayal D"
+              ],
+              "citation_count": 1,
+              "rcr": null,
+              "volume": "16",
+              "issue": "",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/41684453/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 6.9,
+              "field": "preventive",
+              "field_label": "예방의학",
+              "abstract": "BACKGROUND: Congenital hypothyroidism (CH) is a preventable cause of growth and neurodevelopmental deficits. In India, lack of universal newborn screening (NBS) delays diagnosis. This study examines how treatment timing influences growth, nutrition, and body proportionality in children with CH. METHODS: This cross-sectional study included 66 children with CH, aged under 5 years, receiving Levothyroxine(LT4) therapy for one year. Age and sex-matched 64 healthy children were also enrolled. Children with CH were stratified into early-treated (<3months) and late-treated (>3months) groups. Anthropometric measurements were converted to Z-scores using WHO standards. Body proportionality was assessed using: height-arm span difference, upper segment-to-lower segment (US: LS) ratio, Manouvrier's Indice Skélique (MIS). MIS classifies skeletal proportions as brachyskelia (short legs, long trunk; score ≤84.9), mesatyskelia (intermediate; 85.0-89.9), and macroskelia (long legs, short trunk; ≥90). RESULTS: Children with CH had significantly lower height-for-age (HAZ -2.31 ± 1.32 vs. -0.41 ± 0.96), weight-for-age (WAZ -1.98 ± 1.41 vs. -0.36 ± 1.02), and head circumference-for-age (HCZ -1.52 ± 1.28 vs. -0.21 ± 0.89) Z-scores compared with healthy controls (all p < 0.001). Stunting (HAZ < -2 SD) was present in 53% of children, while underweight (WAZ < -2 SD) was observed in 36.4%. Late-treated children had a higher prevalence of severe stunting (67.7% vs. 11.4%), severe underweight (29.0% vs. 2.9%), and microcephaly (35.5% vs. 8.6%) compared with early-treated children (p < 0.05). Disproportionate stature was observed in 71.0% of late-treated children compared with 42.9% of early-treated children (p < 0.05). US: LS ratio and Manouvrier's Index further confirmed greater skeletal disproportionality in late-treated children compared with early-treated children (p < 0.05). CONCLUSIONS: Delayed treatment in CH significantly impairs growth, increases skeletal disproportionality, and adversely affects neurocranial development. Early initiation of therapy-ideally within the first 3 months-is essential. These findings highlight the need for newborn screening in India.",
+              "title_ko": "시기적절한 진단과 치료가 선천성 갑상선 기능 저하증 아동의 성장과 신체 비례에 미치는 영향."
+            },
+            {
+              "pmid": "42856903",
+              "title": "Overt and subclinical hypothyroidism during pregnancy: effects on neonatal amino acids, acylcarnitines, and TSH levels.",
+              "journal": "Frontiers in endocrinology",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2026-09-25",
+              "authors": [
+                "Wu M",
+                "Kong F",
+                "Huang S"
+              ],
+              "citation_count": 0,
+              "rcr": null,
+              "volume": "17",
+              "issue": "",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/42856903/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 0.0,
+              "field": "preventive",
+              "field_label": "예방의학",
+              "abstract": "BACKGROUND/OBJECTIVES: Maternal hypothyroidism during pregnancy, including overt and subclinical hypothyroidism, is a common endocrine disorder complicating pregnancy and is associated with increased risks of adverse maternal and fetal outcomes. However, its effects on neonatal metabolism remain inadequately understood. This study aimed to assess the association between hypothyroidism in pregnancy and neonatal amino acid and acylcarnitine levels. METHODS: This retrospective case-control study included 1,987 pregnant women with overt hypothyroidism in pregnancy, 2,023 with subclinical hypothyroidism in pregnancy, and 2,043 euthyroid pregnant women from Fujian Provincial Maternity and Children's Hospital between 2016 and 2024. Their newborns all underwent newborn screening for 11 amino acids and 31 acylcarnitines using tandem mass spectrometry. RESULTS: After adjusting for potential confounding factors including gestational age at delivery, birth weight, and neonatal sex, newborns born to mothers with hypothyroidism in pregnancy (overt and subclinical) showed significant differences in the levels of 9 amino acids compared with those born to mothers with normal thyroid function. These amino acids are involved in the arginine-proline metabolism, glycine metabolism, and the urea cycle pathway. Amino acid levels also differed between the two subtypes. In addition, the levels of short-chain, medium-chain, and long-chain acylcarnitines in newborns from the hypothyroidism groups were significantly higher than those in the control group, with several acylcarnitine indicators (C16, C16:1, C16OH, C18:1OH, and C6DC) exhibiting characteristic differences between the two subtypes. The levels of thyroid-stimulating hormone (TSH) in newborns from both hypothyroidism groups were significantly higher than those in the control group, whereas no statistically significant difference in TSH levels was observed between the overt and subclinical hypothyroidism groups. CONCLUSION: Our findings revealed a significant association between hypothyroidism in pregnancy (overt and subclinical) and neonatal amino acid and acylcarnitine levels, which were mainly involved in branched-chain amino acid, arginine, proline, and glycine metabolism, as well as the urea cycle and fatty acid oxidation pathways. These results underscore the importance of identifying maternal conditions that correlate with neonatal metabolites, providing a reference for exploring strategies to optimize neonatal nutrition and improving long-term health outcomes.",
+              "title_ko": "임신 중 과다 및 준임상 갑상선 기능 저하증: 신생아 아미노산, 아실카르니틴 및 TSH 수준에 미치는 영향."
+            }
+          ]
+        },
+        {
+          "journal": "Ciencia & saude coletiva",
+          "impact_factor": 1.5,
+          "index_type": "미상",
+          "quartile": "미상",
+          "paper_count": 32,
+          "top_paper": {
+            "pmid": "39879454",
+            "title": "The politicisation of vaccines and its influence on Brazilian caregivers' opinions on childhood routine vaccination.",
+            "journal": "Ciencia & saude coletiva",
+            "impact_factor": 1.5,
+            "index_type": "미상",
+            "quartile": "미상",
+            "pubdate": "2023-10-28",
+            "authors": [
+              "Matos CCSA",
+              "Avelino-Silva VI",
+              "Couto MT"
+            ],
+            "citation_count": 3,
+            "rcr": null,
+            "volume": "30",
+            "issue": "1",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/39879454/",
+            "altmetric_score": 0,
+            "altmetric_news": 0,
+            "altmetric_social": 0,
+            "is_current_issue": false,
+            "hot_score": 13.8,
+            "field": "preventive",
+            "field_label": "예방의학",
+            "abstract": "Progressive declines in vaccination coverage have been recorded in Brazil in recent years. The COVID-19 pandemic has introduced even more challenges to this scenario. Considering the pandemic as an event, the scope of this article was to analyze the politicization of vaccines from the perspective of caregivers of young children. This qualitative research was conducted in two Brazilian state capitals, namely São Luís (Maranhão) and Florianópolis (Santa Catarina). The study included families with children up to 6 years of age who were fully or partially vaccinated, as well as children who had never been vaccinated. Snowball sampling was used and in-depth interviews were conducted between March 2021 and April 2022. Forty-eight caregivers, most of them mothers, were interviewed. The study revealed that, regardless of their previous stance regarding vaccines, the health-political event of the COVID-19 pandemic shook beliefs and attitudes about childhood vaccination. The results also showed that the pandemic led to delays in routine childhood immunization and caused caregivers to seek private health services. Finally, the results reveal the politicization of vaccines as a new phenomenon to be addressed in the Brazilian context.",
+            "title_ko": "백신의 정치화와 소아 정기 예방 접종에 대한 브라질 간병인의 의견에 미치는 영향."
+          },
+          "papers": [
+            {
+              "pmid": "39879454",
+              "title": "The politicisation of vaccines and its influence on Brazilian caregivers' opinions on childhood routine vaccination.",
+              "journal": "Ciencia & saude coletiva",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2023-10-28",
+              "authors": [
+                "Matos CCSA",
+                "Avelino-Silva VI",
+                "Couto MT"
+              ],
+              "citation_count": 3,
+              "rcr": null,
+              "volume": "30",
+              "issue": "1",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/39879454/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 13.8,
+              "field": "preventive",
+              "field_label": "예방의학",
+              "abstract": "Progressive declines in vaccination coverage have been recorded in Brazil in recent years. The COVID-19 pandemic has introduced even more challenges to this scenario. Considering the pandemic as an event, the scope of this article was to analyze the politicization of vaccines from the perspective of caregivers of young children. This qualitative research was conducted in two Brazilian state capitals, namely São Luís (Maranhão) and Florianópolis (Santa Catarina). The study included families with children up to 6 years of age who were fully or partially vaccinated, as well as children who had never been vaccinated. Snowball sampling was used and in-depth interviews were conducted between March 2021 and April 2022. Forty-eight caregivers, most of them mothers, were interviewed. The study revealed that, regardless of their previous stance regarding vaccines, the health-political event of the COVID-19 pandemic shook beliefs and attitudes about childhood vaccination. The results also showed that the pandemic led to delays in routine childhood immunization and caused caregivers to seek private health services. Finally, the results reveal the politicization of vaccines as a new phenomenon to be addressed in the Brazilian context.",
+              "title_ko": "백신의 정치화와 소아 정기 예방 접종에 대한 브라질 간병인의 의견에 미치는 영향."
+            },
+            {
+              "pmid": "42848635",
+              "title": "[Interventions to mitigate hesitation related to vaccines of childhood and adolescence, 2012-2023: an integrative review].",
+              "journal": "Ciencia & saude coletiva",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2026-10-05",
+              "authors": [
+                "Rocha FMD",
+                "Silva PSD",
+                "Bordin R"
+              ],
+              "citation_count": 0,
+              "rcr": null,
+              "volume": "31",
+              "issue": "9",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/42848635/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": true,
+              "hot_score": 10.0,
+              "field": "preventive",
+              "field_label": "예방의학",
+              "abstract": "The overall aim of this study is to present the results of an integrative review on interventions to mitigate hesitancy related to childhood and adolescent vaccines in the period 2012-2023. 45 articles met the inclusion criteria and were systematized according to publication date, country of implementation, methodological approach, target population, related vaccine, proposed intervention, category and Level of Evidence. Among the results, most of the articles were published in the 2021-2023 triennium; there was greater use of the quantitative approach; the most frequent target population was parents/caregivers/decision makers, and the most described intervention was the sending of educational content in digital media. As a conclusion, the convergence of the selected studies with the Cs Model, which explains the determinants of vaccine hesitancy, was identified. The identified interventions can contribute to the development of coping strategies and the formulation of evidence-based public policies.",
+              "title_ko": "[소아청소년기 백신 관련 망설임 완화를 위한 중재, 2012-2023: 통합적 검토]."
+            },
+            {
+              "pmid": "42848632",
+              "title": "Public health challenges in the Americas: health surveillance, disease prevention, and equitable access to health care.",
+              "journal": "Ciencia & saude coletiva",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2026-10-05",
+              "authors": [
+                "Silva Júnior JBD",
+                "Cruz BKBD"
+              ],
+              "citation_count": 0,
+              "rcr": null,
+              "volume": "31",
+              "issue": "9",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/42848632/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": true,
+              "hot_score": 10.0,
+              "field": "preventive",
+              "field_label": "예방의학",
+              "abstract": "The interview addresses the priorities and challenges faced by public health in the current post-pandemic era, focusing on epidemiological surveillance, disease prevention, and equitable access to health care. The interviewee Jarbas Barbosa highlights key strategies for strengthening health systems, including expanding vaccination coverage, addressing regional inequalities, addressing the shortage of health professionals, and preparing for public health emergencies. Finally, Barbosa reflects on the role of international cooperation, technology, and communication in improving health policies and promoting equity among countries in the Americas in the context of climate change and its impacts on global health.",
+              "title_ko": "미주 지역의 공중 보건 문제: 건강 감시, 질병 예방, 공평한 의료 서비스 이용."
+            },
+            {
+              "pmid": "41615110",
+              "title": "[The sinuosities in the line of induction, institutionalisation and implementation of National Health Promotion Policy].",
+              "journal": "Ciencia & saude coletiva",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2024-11-07",
+              "authors": [
+                "Dias MSA",
+                "Silva LCCD",
+                "Vieira-Meyer APGF"
+              ],
+              "citation_count": 1,
+              "rcr": null,
+              "volume": "31",
+              "issue": "1",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/41615110/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 6.9,
+              "field": "preventive",
+              "field_label": "예방의학",
+              "abstract": "Historical, documentary and bibliographical research, adopting the coalition theory as a reference to analyze the sinuosity of the trajectory of the National Health Promotion Policy (PNPS). The time frame covered the period between 1986 and 2023. Among the documents available in official websites and scientific journals, and with the aid of an expert and snowball technique, 31 milestones/events related to the institutionalization, implementation and related movements of the national and international historical context of health promotion were identified. The analysis elucidated PNPS itineraries demarcated into three periods: from 1986 to 2006, the paths of construction of PNPS; from 2006 to 2014, from institutionalization to policy review; and from 2014 to 2023, PNPS implementation movements. The tortuous timeline of the PNPS reveals gaps, slowdowns and advances in the period analyzed. These call for the recognition of the influences of global governance instruments (WHO and UN) and the search for sustainability mechanisms. The counter-hegemonic and complex nature of the PNPS calls for new institutional arrangements to address inequalities. Furthermore, movements are identified to resume coordination with segments and groups of the population.",
+              "title_ko": "[국민건강증진정책의 유도, 제도화, 시행 선에서의 시누오스]."
+            },
+            {
+              "pmid": "40929445",
+              "title": "Physical activity and salutogenesis: a necessary dialogue.",
+              "journal": "Ciencia & saude coletiva",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2024-07-18",
+              "authors": [
+                "Oliveira VJM",
+                "Costa RMD"
+              ],
+              "citation_count": 1,
+              "rcr": null,
+              "volume": "30",
+              "issue": "8",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/40929445/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 6.9,
+              "field": "preventive",
+              "field_label": "예방의학",
+              "abstract": "This essay aims to broaden the dialogue between physical activity (PA) and health by a salutogenesis-oriented concept, which emphasizes the origins of health, as opposed to the pathogenic model, which focuses on the origin of diseases. It presents the foundations of the theory, created by Aaron Antonovsky, whose health promotion model is centered on the sense of coherence (SOC), which consists of significance, comprehensibility, and manageability. Then, it explores the relationships between PA and salutogenesis, demonstrating how this framework can be applied in various life stages and practice settings. Studies indicate that people with a strengthened SOC will likely remain physically active. However, this relationship is not instrumental and depends on contextual, cognitive, and affective factors. This essay concludes by advocating for further research in Brazil and highlighting salutogenesis as a promising perspective to guide a new understanding of PA and health.",
+              "title_ko": "신체 활동 및 인사 생성: 필요한 대화."
+            },
+            {
+              "pmid": "40465920",
+              "title": "[Awareness and participation in public physical activity programs among adults in the Northeast region of Brazil].",
+              "journal": "Ciencia & saude coletiva",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2024-04-13",
+              "authors": [
+                "Santos EMM",
+                "Andrade ACS",
+                "Portela DS"
+              ],
+              "citation_count": 1,
+              "rcr": null,
+              "volume": "30",
+              "issue": "5",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/40465920/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 6.9,
+              "field": "preventive",
+              "field_label": "예방의학",
+              "abstract": "The scope of the study was to investigate the factors associated with awareness and participation of the adult population of the Northeast region of Brazil in public physical activity (PA) programs. It involved a cross-sectional study with data from the Brazilian National Health Survey (2019). The dependent variables were awareness and participation in public PA programs. The independent variables were household, sociodemographic, social support and health characteristics. Prevalence ratios were estimated using Poisson regression with robust variance. The prevalence of awareness was 24.3%, of which 9.7% participated in public PA programs. Higher per capita family income, visits from family health teams, female gender, age over 34, more schooling, paid work, participation in social mobilization groups, being overweight or obese and diagnosed with one or more chronic non-communicable diseases were positively associated with public PA programs. Having a paid job was negatively associated and participation in social mobilization groups was positively associated. Public PA programs need to consider dissemination strategies and the characteristics of the local context.",
+              "title_ko": "[브라질 동북부 지역 성인들의 공공 신체 활동 프로그램에 대한 인식과 참여]."
+            },
+            {
+              "pmid": "39936667",
+              "title": "Promoting and competing factors of adequate and healthy food in the school food environment.",
+              "journal": "Ciencia & saude coletiva",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2023-11-29",
+              "authors": [
+                "Henriques P",
+                "Alvarenga CRT",
+                "Almeida GV"
+              ],
+              "citation_count": 1,
+              "rcr": null,
+              "volume": "30",
+              "issue": "2",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/39936667/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 6.9,
+              "field": "preventive",
+              "field_label": "예방의학",
+              "abstract": "This study aimed to characterize and evaluate the food environment of public schools regarding identified healthy eating competing and promoting factors. A quantitative descriptive and observational study was conducted in 14 public schools in a municipality in Rio de Janeiro and their surrounding areas. Photographic records and field diaries were adopted for this purpose. Food-related murals, vegetable gardens, school cafeterias, and teachers sitting along during meals were considered components that promote a healthy food environment. Competing components were snacks brought by students, canteens, informal food sale and packaging, and ultra-processed foods circulating in schools. A 500-meter radius from the school gate was considered to characterize outlets in the school surroundings. The foods sold were categorized per the NOVA classification. The study identified a predominance of healthy eating-promoting factors against competing factors. However, we identified available ultra-processed foods inside schools, and their availability prevailed in the school's surrounding areas.",
+              "title_ko": "학교급식 환경에서 적절하고 건강한 음식의 촉진 및 경쟁 요인."
+            },
+            {
+              "pmid": "42615736",
+              "title": "Social inequalities in the use of preventive healthcare among older women (50+): evidence from ELSI-Brazil.",
+              "journal": "Ciencia & saude coletiva",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2025-05-02",
+              "authors": [
+                "Carvalho PF",
+                "Braga LS",
+                "Lima-Costa MF"
+              ],
+              "citation_count": 0,
+              "rcr": null,
+              "volume": "31",
+              "issue": "8",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/42615736/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 0.0,
+              "field": "preventive",
+              "field_label": "예방의학",
+              "abstract": "Considering the scenario of Brazilian population aging, marked by the feminization of old age and persistent social inequality in access to and use of health services, this study aims to investigate the association between socioeconomic variables and preventive healthcare among older women (50+), according to the source of health care. This is a cross-sectional study, based on ELSI-Brazil (2015-2016) baseline data. The outcomes were Pap smear; mammography; measurements of cholesterol, blood glucose, and blood pressure; and the exposures of interest were educational level, self-reported skin color, and per capita household income. Odds ratio (OR) were estimated in Logistic regression models. Self-reported skin color, educational level, and per capita household income were frequently associated with outcomes for women with and without private health plans, with a higher prevalence of exams among those who were white and those who had higher educational and income levels. The implementation of public policies and multisectoral actions that tackle the structural determinants of health and improve people's living and working conditions is essential to reducing health inequalities and ensuring the universal right to health.",
+              "title_ko": "고령 여성 (50세 이상) 의 예방 건강 관리 사용에 대한 사회적 불평등: ELSI-Brazil의 증거."
+            }
+          ]
         }
       ],
       "hot_topics": [
         {
           "phrase": "type diabetes",
-          "score": 82.4,
-          "paper_count": 5,
+          "score": 93.4,
+          "paper_count": 6,
           "pmids": [
             "40302946",
             "40302970",
             "40302974",
             "39978849",
-            "40655936"
+            "40655936",
+            "41641034"
+          ]
+        },
+        {
+          "phrase": "diabetes mellitus",
+          "score": 56.8,
+          "paper_count": 5,
+          "pmids": [
+            "40302970",
+            "40707091",
+            "40655936",
+            "39865054",
+            "41641034"
           ]
         },
         {
@@ -4618,17 +4943,6 @@
             "39959334",
             "42860772",
             "39874052"
-          ]
-        },
-        {
-          "phrase": "diabetes mellitus",
-          "score": 45.8,
-          "paper_count": 4,
-          "pmids": [
-            "40302970",
-            "40707091",
-            "40655936",
-            "39865054"
           ]
         },
         {
@@ -4759,21 +5073,21 @@
             ]
           },
           {
+            "phrase": "covid- vaccination",
+            "scores": [
+              0.0,
+              11.0,
+              40.7,
+              10.0
+            ]
+          },
+          {
             "phrase": "breast cancer",
             "scores": [
               16.9,
               0.0,
               16.9,
-              30.0
-            ]
-          },
-          {
-            "phrase": "cancer screening",
-            "scores": [
-              0.0,
-              0.0,
-              10.0,
-              46.9
+              20.0
             ]
           }
         ]
@@ -4782,7 +5096,7 @@
     {
       "key": "emergency",
       "label": "응급의학",
-      "paper_count": 452,
+      "paper_count": 456,
       "journals": [
         {
           "journal": "Resuscitation",
@@ -5047,7 +5361,7 @@
           "impact_factor": 1.5,
           "index_type": "미상",
           "quartile": "미상",
-          "paper_count": 57,
+          "paper_count": 58,
           "top_paper": {
             "pmid": "39642139",
             "title": "A machine learning-based risk score for prediction of mechanical ventilation in children with dengue shock syndrome: A retrospective cohort study.",
@@ -5187,7 +5501,7 @@
               "field": "emergency",
               "field_label": "응급의학",
               "abstract": "INTRODUCTION: Workplace violence is a relevant social problem due to its high prevalence and serious consequences. A quarter of workplace violence occurs in the healthcare sector. Evidence shows differences among professionals, with emergency department workers being especially vulnerable, presenting a higher risk of suffering mental and physical health problems, as well as threats to their professional and social integrity. OBJECTIVE: To explore the frequency with which emergency department professionals are exposed to user violence and violence by their own coworkers; as well as to analyze the differences between different professionals in exposure to violence in the workplace and some of its most studied consequences such as burnout, job satisfaction, engagement, and general health. METHODS: A descriptive comparative study was carried out with a sample of 120 emergency department workers from three hospitals in Alicante. The majority were healthcare professionals (84.2%), women (61.7%), obtaining a mean age of 41.8 years (SD = 10.8). Sociodemographic and occupational variables, user violence, violence among colleagues and superiors, general health, burnout, engagement, and job satisfaction were evaluated. RESULTS: A high prevalence of both physical and non-physical user violence in the healthcare setting was observed, especially affecting nursing and administrative assistants. In addition, significant differences were identified between professionals in terms of non-physical user violence, burnout, engagement, and job satisfaction. Administrative staff suffer greater non-physical user violence, while nursing assistants show higher levels of engagement. Regarding job satisfaction, nurses report higher intrinsic satisfaction. Medical staff, nurses and nursing assistants show higher levels of extrinsic satisfaction compared to administrative staff. DISCUSSION: Our results are consistent with other studies in which a relationship between exposure to violence and job satisfaction is observed. In addition, administrative staff appear to be the professionals most exposed to violence from both patients and coworkers. These results provide evidence for future research focused on improving the work environment and health of emergency department professionals.",
-              "title_ko": "병원 응급실 전문가들의 직장 내 폭력과 건강 변수의 차이: 서술적 비교 연구."
+              "title_ko": ""
             },
             {
               "pmid": "41343612",
@@ -5215,7 +5529,7 @@
               "field": "emergency",
               "field_label": "응급의학",
               "abstract": "OBJECTIVE: Cardiac arrest is a leading cause of global mortality, for which timely cardiopulmonary resuscitation (CPR) is a critical intervention. However, public competence in CPR remains low. Grounded in the Theory of Planned Behavior (TPB), this study investigated the factors influencing CPR implementation among college freshmen by examining their behavioral intention. METHODS: A cross-sectional study was conducted among college freshmen undergoing a basic entrance physical health screening at Fuzhou First General Hospital between September 2 and 9, 2024. Participants were randomly selected to complete an electronic questionnaire, which included a general information sheet and the validated Public Behavior Intention Scale for Performing CPR, adapted with input from emergency medicine experts. Statistical analyses included correlation, regression, and mediation analysis. RESULTS: Among 4,929 valid questionnaires analyzed, a higher willingness to perform CPR was associated with undergraduate enrollment, good personal and family health status, prior CPR performance, and no history of transient loss of consciousness. Multiple linear regression identified behavioral attitude (β = 0.439), subjective norm (β = 0.272), CPR knowledge (β = 0.027), and perceived behavioral control (β = 0.070) as significant predictors of CPR behavioral intention (all P < 0.01). Mediation analysis further revealed that CPR knowledge influenced behavioral intention primarily through its effects on behavioral attitude (79.43% of the total effect), subjective norm (61.31%), and perceived behavioral control (43.67%). CONCLUSION: Behavioral attitude serves as the principal pathway through which CPR knowledge translates into intention to act. These findings underscore that targeted CPR training in universities should address both knowledge and psychosocial factors to strengthen students' willingness to act.",
-              "title_ko": "대학 신입생의 심폐소생술 시행에 영향을 미치는 요인: 계획된 행동 이론에 근거."
+              "title_ko": ""
             },
             {
               "pmid": "41329785",
@@ -5243,7 +5557,7 @@
               "field": "emergency",
               "field_label": "응급의학",
               "abstract": "BACKGROUND: Emergency department (ED) overcrowding remains a significant national issue in Canada. To address this issue, SurgeCon, a quality improvement program, was implemented to enhance patient flow, improve communication, and reduce wait times. Despite their potential, interventions like SurgeCon lack evidence on real-world implementation and sustainability in high-pressure, resource-limited ED settings. OBJECTIVE: This study explores the factors influencing the implementation of SurgeCon in four Canadian EDs using the Consolidated Framework for Implementation Research (CFIR) to identify facilitators and barriers. METHODS: Data were collected over 2.5 years-before, during, and after SurgeCon implementation-in two rural and two urban EDs in Canada using a longitudinal qualitative research (LQR) design. Forty-two semi-structured interviews with physicians, nurses, and hospital managers were analyzed through inductive and deductive thematic analysis, guided by the CFIR framework. RESULTS: Facilitators were predominantly associated with CFIR's Innovation Characteristics, particularly the perceived benefits of real-time data collection, workflow optimization, and enhanced communication. However, barriers-mainly linked to outer setting (COVID-19 disruptions), inner setting (resource constraints and fragmented communication), and individual characteristics (leadership engagement and motivation)-outweighed these advantages. CONCLUSION: To strengthen adoption, this study proposes eight strategic action plans focusing on leadership commitment, automation, cross-departmental collaboration, feedback loops and change management strategies to maximize facilitators and address implementation barriers. TRIAL REGISTRATION: ClinicalTrials.gov. NCT04789902. 10/03/2021.",
-              "title_ko": "구현 연구를 위한 통합 프레임워크에 의해 안내되는 4개의 캐나다 응급 부서에서 SurgeCon 구현에 영향을 미치는 요인."
+              "title_ko": ""
             },
             {
               "pmid": "39689150",
@@ -5271,7 +5585,7 @@
               "field": "emergency",
               "field_label": "응급의학",
               "abstract": "COVID-19 triage protocols are resource allocation processes to deal with the potential lack of resources in Intensive Care Units (ICU). They have given rise to numerous ethical issues and controversies. Among them is the fear that people will be denied access to ICU on the basis of judgments about their quality of life, social value, frailty or age. This online Democratic Deliberation (DD) with members of the public aimed to discover the necessary considerations and conditions that make triage protocols more acceptable to guide future decisions in terms of the values and criteria that must underpin triage protocols. We simultaneously conducted the online DD in Quebec and Ontario on May 28th and June 4th, 2022, among adults who do not work in the healthcare sector, recruited randomly among the members of the public registered on Leger Opinion poll website to favor sociodemographic diversity. Data was analyzed using thematic analysis. Among the participants who took part in the study, 27 participants were from Ontario and 20 from Quebec. Three main themes emerged: 1) Acceptance of the protocol and values, 2) Considerations to be integrated in triage protocols, 3) Conditions which may favor a greater public acceptance of these protocols. Participants supported the idea of prioritizing patients with the best prognosis of survival under extreme conditions. The maximization of benefits was the most predominant approach. Participants considered that triage protocols are necessary to reduce arbitrariness in decision making and to facilitate these tragic decisions by health professionals.",
-              "title_ko": "극심한 전염병 상황에서 중환자 치료에 대한 접근을 위한 코로나19 분류 프로토콜에 대한 대중의 시각."
+              "title_ko": ""
             },
             {
               "pmid": "39689069",
@@ -5299,7 +5613,7 @@
               "field": "emergency",
               "field_label": "응급의학",
               "abstract": "BACKGROUND: Guidelines for the management of cardiac arrest play a crucial role in guiding clinical decisions and care. We examined the strength and quality of evidence underlying these recommendations in order to elucidate strengths and gaps in knowledge. METHODS: Using the 2020 American Heart Association (AHA) Guidelines for Adult CPR, we subdivided all recommendations into advanced life support (ALS), basic life support (BLS), and recovery after cardiac arrest, as well as a more granular categorization by topic (i.e. the intervention or evaluation recommended). The Class of Recommendation (COR) and Level of Evidence (LOE) for each were reviewed. Additionally, we reviewed the 2023 guidelines to ensure the inclusion of the most recent updates. RESULTS: We noted 254 recommendations, of which 181 were ALS, 69 were BLS, and 4 were recovery after resuscitation. In total, only 2 (1%) had the most robust evidence (LOE A), while 23% were at LOE B-NR (Non-Randomized), 15% at LOE B-R (Randomized), 50% at LOE C-LD (Limited Data), and 12% relied on expert opinion LOE C-EO (Expert Opinion). Despite the strength of ALS recommendations (Class 1, 2a, or 2b), none had LOE A. In BLS, no recommendations were supported by LOE A. For BLS, 7% of recommendations had LOE C (C-LD or C-EO). The evidence for specific BLS topics, such as airway management, was notably low. Among ALS topics, neurological prognostication had relatively stronger evidence. CONCLUSIONS: Only 26 out of the 81 COR 1 recommendations (32%) were supported by LOE A or B, indicating a strong discrepancy between the strength of recommendation and the underlying evidence in cardiac arrest guidelines. The findings underscore a pressing need for more rigorous research, particularly randomized trials.",
-              "title_ko": "성인 심폐소생술 (CPR) 에 대한 AHA 가이드라인을 뒷받침하는 증거."
+              "title_ko": ""
             }
           ]
         },
@@ -5335,7 +5649,7 @@
             "field": "emergency",
             "field_label": "응급의학",
             "abstract": "BACKGROUND: The benefit of transfusion of fresh frozen plasma (FFP) and platelets in a 1:1 ratio with packed red blood cells (PRBCs) is well established; however, the benefit of a particular ratio of cryoprecipitate to PRBC is not. The Joint Trauma System updated its 2019 Damage Control Resuscitation Guideline by recommending empiric 1:1 cryoprecipitate/PRBCs. We hypothesized that patients receiving product within the cryoprecipitate/PRBC guideline range (high ratio) would have an associated reduction in mortality. METHODS: We included adult patients in the Trauma Quality Improvement Program data registry (2013-2021) who received at least 5 U of PRBCs and 1 U of FFP within 4 hours. Death within 30 minutes, nonsurvivable injury patterns, preexisting coagulopathy, advanced directives, transfers, and burns were excluded. Patients were partitioned into high (≥1:1), medium (≥1:2 to <1:1), and low (<1:2) cryoprecipitate/PRBC ratios. Treatment effects were estimated with propensity score-weighted risk adjustment models, clustering by center. The primary outcome was 6-hour mortality. Secondary outcomes included 24-hour and inpatient mortality. Adjusting for FFP, platelets, and whole blood was included as a sensitivity analysis. RESULTS: A total of 49,301 patients (high, 5,284; medium, 3,630; low, 40,387) were included. The mean age was 39, 79% were male, 58% suffered blunt trauma, and the mean Injury Severity Score was 29. Unadjusted 6-hour mortality was 11.8%, 18.8%, and 21.3% for high, medium, and low ratios. High ratio was protective as compared with low at 6 hour (adjusted odds ratio [aOR], 0.52; 95% confidence interval [CI], 0.45-0.58) and 24 hours (aOR, 0.74; 95% CI, 0.67-0.82), and medium ratio was protective as compared with low ratio at 6 hours (aOR, 0.78; 95% CI, 0.70-0.87). Blood product sensitivity analysis demonstrated that high and medium ratios were protective of 6-hour, 24-hour, and inpatient mortality. CONCLUSION: High cryoprecipitate ratios were independently associated with decreased mortality in massively transfused civilian trauma patients during the first 24 hours. Future prospective multicenter randomized trials are warranted. LEVEL OF EVIDENCE: Prognostic and Epidemiological; Level III.",
-            "title_ko": "냉동침전 (cryoprecipitate) 을 잊지 마십시오: 2019년 관절 외상 시스템 손상 통제 소생술 임상 진료 지침이 사망률에 미치는 영향."
+            "title_ko": ""
           },
           "papers": [
             {
@@ -5364,7 +5678,7 @@
               "field": "emergency",
               "field_label": "응급의학",
               "abstract": "BACKGROUND: The benefit of transfusion of fresh frozen plasma (FFP) and platelets in a 1:1 ratio with packed red blood cells (PRBCs) is well established; however, the benefit of a particular ratio of cryoprecipitate to PRBC is not. The Joint Trauma System updated its 2019 Damage Control Resuscitation Guideline by recommending empiric 1:1 cryoprecipitate/PRBCs. We hypothesized that patients receiving product within the cryoprecipitate/PRBC guideline range (high ratio) would have an associated reduction in mortality. METHODS: We included adult patients in the Trauma Quality Improvement Program data registry (2013-2021) who received at least 5 U of PRBCs and 1 U of FFP within 4 hours. Death within 30 minutes, nonsurvivable injury patterns, preexisting coagulopathy, advanced directives, transfers, and burns were excluded. Patients were partitioned into high (≥1:1), medium (≥1:2 to <1:1), and low (<1:2) cryoprecipitate/PRBC ratios. Treatment effects were estimated with propensity score-weighted risk adjustment models, clustering by center. The primary outcome was 6-hour mortality. Secondary outcomes included 24-hour and inpatient mortality. Adjusting for FFP, platelets, and whole blood was included as a sensitivity analysis. RESULTS: A total of 49,301 patients (high, 5,284; medium, 3,630; low, 40,387) were included. The mean age was 39, 79% were male, 58% suffered blunt trauma, and the mean Injury Severity Score was 29. Unadjusted 6-hour mortality was 11.8%, 18.8%, and 21.3% for high, medium, and low ratios. High ratio was protective as compared with low at 6 hour (adjusted odds ratio [aOR], 0.52; 95% confidence interval [CI], 0.45-0.58) and 24 hours (aOR, 0.74; 95% CI, 0.67-0.82), and medium ratio was protective as compared with low ratio at 6 hours (aOR, 0.78; 95% CI, 0.70-0.87). Blood product sensitivity analysis demonstrated that high and medium ratios were protective of 6-hour, 24-hour, and inpatient mortality. CONCLUSION: High cryoprecipitate ratios were independently associated with decreased mortality in massively transfused civilian trauma patients during the first 24 hours. Future prospective multicenter randomized trials are warranted. LEVEL OF EVIDENCE: Prognostic and Epidemiological; Level III.",
-              "title_ko": "냉동침전 (cryoprecipitate) 을 잊지 마십시오: 2019년 관절 외상 시스템 손상 통제 소생술 임상 진료 지침이 사망률에 미치는 영향."
+              "title_ko": ""
             },
             {
               "pmid": "40608534",
@@ -5392,7 +5706,7 @@
               "field": "emergency",
               "field_label": "응급의학",
               "abstract": "BACKGROUND: The innate immune response is activated by tissue injury and may quickly become dysregulated in the setting of major trauma. Cytokines are a key component of this response and function to activate and mobilize neutrophils, macrophages, and natural killer cells. The purpose of this study was to understand how the kinetics of blood-based resuscitation may impact the cytokine response. Specifically, we hypothesize that transfusion kinetics make a fundamental contribution to the inflammatory response, beyond the volume of transfusion and injury severity. METHODS: The Pragmatic, Randomized Optimal Platelet and Plasma Ratio data set was used in this retrospective analysis. Transfusion kinetics were quantified by calculating the total critical administration threshold episodes in three time periods, 1 to 2 hours following injury, 3 to 4 hours, and 5 to 6 hours following injury. The longitudinal response of key cytokines over 72 hours was assessed with a multivariable linear growth model, using critical administration threshold status as a time-varying covariate. RESULTS: A total of 522 patients were included in this analysis. Pro-inflammatory cytokines interleukin (IL)-6 (p = 0.0354) and IL-8 (p < 0.0001) were significantly increased. Anti-inflammatory cytokines IL-1ra (p = 0.0001) and IL-10 (p < 0.0001) were significantly increased. Chemokines interferon-γ-inducible protein 10 (p = 0.0433), monocyte chemoattractant protein-1 (p = 0.0064), and macrophage inflammatory protein 1β (p = 0.0003) were significantly increased, while regulated up activation, normal T-cell expressed and secreted chemokine (p = 0.0216) was significantly decreased. Growth factors showed no significant response. CONCLUSION: The kinetics of packed red blood cell transfusion demonstrate a potential association with the expression of cytokines following injury, beyond the total transfusion requirement or the severity of injury. Because cytokines activate and mobilize neutrophils, macrophages, and natural killer cells, these alterations may have a profound effect on degree and coordination of the immune response. As the contribution of various components of major resuscitation to inflammatory activation is clarified, such as types of blood product, tempo of transfusion, and operative care, targets for intervention should become more apparent. LEVEL OF EVIDENCE: Therapeutic/Care Management; Level III.",
-              "title_ko": "주요 손상 후 수혈 동역학이 염증 반응에 미치는 영향."
+              "title_ko": ""
             },
             {
               "pmid": "39733294",
@@ -5420,7 +5734,7 @@
               "field": "emergency",
               "field_label": "응급의학",
               "abstract": "BACKGROUND: Hemorrhage and traumatic brain injury (TBI) are the leading causes of death in trauma. Future military conflicts are likely to be in austere environments, where prolonged damage-control resuscitation (p-DCR) may be required for 72 hours before evacuation. Previous studies showed that early administration of fresh frozen plasma (FFP) during p-DCR can significantly decrease the volume of resuscitation required in models of hemorrhagic shock and also provide neuroprotection after TBI. In the current study, we hypothesized that the addition of FFP to p-DCR would decrease the resuscitation requirements and improve neurological outcomes in a large animal model of combined hemorrhagic shock and TBI. METHODS: Yorkshire swine (40-45 kg; n = 10) were subjected to TBI (controlled cortical impact) and 40% blood volume hemorrhage. After 2 hours of shock, they were randomized to either: (1) p-DCR-normal saline or (2) p-DCR-FFP (250 mL). Prolonged damage-control resuscitation targeted a systolic blood pressure of 90% of baseline, in line with Tactical Combat Casualty Care principles. At 72 hours, animals were transfused 1 U of packed red blood cells, simulating evacuation to higher echelons of care. Brain lesion size, physiologic parameters, resuscitation fluid requirements, and neurological severity score were used to compare the clinical outcomes. RESULTS: The p-DCR-FFP group required significantly less total volume (4,540.0 ± 151.7 mL vs. 974.0 ± 167.0 mL, p < 0.01) of resuscitation to maintain the target systolic blood pressure. Fresh frozen plasma-treated animals had significantly reduced brain lesion size (4,517.0 ± 180.0 mm 3 vs. 2,477.0 ± 1,191.0 mm 3 , p < 0.01) and showed significantly decreased functional neurologic impairment. CONCLUSION: In this exploratory study, treatment with FFP decreased resuscitation requirements, reduced brain lesion size, and improved neurological outcomes when added to prolonged DCR in a porcine model of combined hemorrhagic shock and TBI.",
-              "title_ko": "장기간 손상-대조군 소생의 돼지 모델에서 혈장 치료는 외상성 뇌 손상 후 뇌 병변 및 소생 요건 감소와 관련이 있다."
+              "title_ko": ""
             }
           ]
         },
@@ -5455,7 +5769,7 @@
             "field": "emergency",
             "field_label": "응급의학",
             "abstract": "PURPOSE: This study aimed to assess the levels and sources of noise in the emergency intensive care unit (EICU) of an emergency department and investigate their effects on the sleep quality of conscious patients. METHODS: A study was conducted on patients admitted to the EICU from December 2020 to December 2023. They were categorised according to their sleep quality with the Pittsburgh Sleep Quality Index. Environmental noise levels were measured using precision sound level metres and environmental noise automatic monitoring instruments. Data analysis was performed using SPSS version 25.0, and Chi-square test, Fisher's exact probability and t-tests were conducted when applicable. The significance threshold was set at P < 0.05. Regression analysis was carried out for indicators with significant differences. RESULTS: A total of 200 patients were included in the study. Of them 96 in the ideal sleep group and 104 in the non-ideal sleep group. Patients with non-ideal sleep experienced significantly higher noise levels across various measures (P < 0.05). Additionally, patients with non-ideal sleep reported significantly higher occurrences of noise-related awakening, difficulty in falling asleep, nightmares or vivid dreams and sleepwalking episodes (P < 0.05). Significant differences in staff activities, including staff conversations, equipment noise exposure, cleaning activities, patient interventions and overhead pages, were observed between the groups (P < 0.05). Multivariate logistic regression analysis indicating that the average noise level, conversational speech, equipment alarms, ambient noise, peak noise levels, staff conversations, cleaning activities, patient interventions and overhead pages were significant contributors to poor sleep. CONCLUSION: The study suggested that high noise levels and staff-related activities affected the sleep quality of conscious patients in the EICU. Targeted measures could improve the prognoses of patients.",
-            "title_ko": "응급 중환자실의 의식 환자의 수면 질에 대한 소음의 수준과 원천의 영향."
+            "title_ko": ""
           },
           "papers": [
             {
@@ -5483,7 +5797,7 @@
               "field": "emergency",
               "field_label": "응급의학",
               "abstract": "PURPOSE: This study aimed to assess the levels and sources of noise in the emergency intensive care unit (EICU) of an emergency department and investigate their effects on the sleep quality of conscious patients. METHODS: A study was conducted on patients admitted to the EICU from December 2020 to December 2023. They were categorised according to their sleep quality with the Pittsburgh Sleep Quality Index. Environmental noise levels were measured using precision sound level metres and environmental noise automatic monitoring instruments. Data analysis was performed using SPSS version 25.0, and Chi-square test, Fisher's exact probability and t-tests were conducted when applicable. The significance threshold was set at P < 0.05. Regression analysis was carried out for indicators with significant differences. RESULTS: A total of 200 patients were included in the study. Of them 96 in the ideal sleep group and 104 in the non-ideal sleep group. Patients with non-ideal sleep experienced significantly higher noise levels across various measures (P < 0.05). Additionally, patients with non-ideal sleep reported significantly higher occurrences of noise-related awakening, difficulty in falling asleep, nightmares or vivid dreams and sleepwalking episodes (P < 0.05). Significant differences in staff activities, including staff conversations, equipment noise exposure, cleaning activities, patient interventions and overhead pages, were observed between the groups (P < 0.05). Multivariate logistic regression analysis indicating that the average noise level, conversational speech, equipment alarms, ambient noise, peak noise levels, staff conversations, cleaning activities, patient interventions and overhead pages were significant contributors to poor sleep. CONCLUSION: The study suggested that high noise levels and staff-related activities affected the sleep quality of conscious patients in the EICU. Targeted measures could improve the prognoses of patients.",
-              "title_ko": "응급 중환자실의 의식 환자의 수면 질에 대한 소음의 수준과 원천의 영향."
+              "title_ko": ""
             }
           ]
         },
@@ -5519,7 +5833,7 @@
             "field": "emergency",
             "field_label": "응급의학",
             "abstract": "AIM: To characterise key features of young people presenting to the emergency department (ED) with a mental health complaint when comparing children (aged 7 to 12 years) and teenagers (13 years and greater). METHODS: Retrospective review of all ED mental health presentations in children aged 7-17 years presenting over a 12-month period in 2018 to a tertiary children's hospital in Victoria, Australia. Univariate analyses were carried out to examine the relationship between children and teenagers and a number of key presentation variables. Odds Ratios (ORs) and 95% Confidence Intervals (CIs) were calculated for ED management outcomes. RESULTS: There were 1691 ED mental health presentations in 2018. Of these presentations, 407 (24%) were children aged 12 years or less. The remaining 76% (1284) were teenagers. The younger aged cohort were more likely to be male (OR 2.43, CI 1.92-3.08) and have a past history of autism spectrum disorder (OR 1.92, CI 1.45-1.84). They were more likely to have a presenting complaint of acute behavioural disturbance (OR 2.03, CI 1.59-2.60), be physically restrained (OR 2.01, CI 1.18-3.37) and have sedative medication provided (OR 2.87, CI 1.63-5.04). The older aged cohort were more likely to have a past history of depression (OR 0.19, CI 0.12-0.29) and a presenting complaint of intentional self-poisoning (OR 0.33, CI 0.15-0.65). CONCLUSIONS: Children aged 12 years or less represent one-quarter of all young people presenting to the ED with a mental health concern. They experience high rates of acute behavioural disturbance and are more likely to require restrictive interventions during their presentation.",
-            "title_ko": "유아의 응급실 정신 건강 프레젠테이션: 회고 도표 검토."
+            "title_ko": ""
           },
           "papers": [
             {
@@ -5548,7 +5862,7 @@
               "field": "emergency",
               "field_label": "응급의학",
               "abstract": "AIM: To characterise key features of young people presenting to the emergency department (ED) with a mental health complaint when comparing children (aged 7 to 12 years) and teenagers (13 years and greater). METHODS: Retrospective review of all ED mental health presentations in children aged 7-17 years presenting over a 12-month period in 2018 to a tertiary children's hospital in Victoria, Australia. Univariate analyses were carried out to examine the relationship between children and teenagers and a number of key presentation variables. Odds Ratios (ORs) and 95% Confidence Intervals (CIs) were calculated for ED management outcomes. RESULTS: There were 1691 ED mental health presentations in 2018. Of these presentations, 407 (24%) were children aged 12 years or less. The remaining 76% (1284) were teenagers. The younger aged cohort were more likely to be male (OR 2.43, CI 1.92-3.08) and have a past history of autism spectrum disorder (OR 1.92, CI 1.45-1.84). They were more likely to have a presenting complaint of acute behavioural disturbance (OR 2.03, CI 1.59-2.60), be physically restrained (OR 2.01, CI 1.18-3.37) and have sedative medication provided (OR 2.87, CI 1.63-5.04). The older aged cohort were more likely to have a past history of depression (OR 0.19, CI 0.12-0.29) and a presenting complaint of intentional self-poisoning (OR 0.33, CI 0.15-0.65). CONCLUSIONS: Children aged 12 years or less represent one-quarter of all young people presenting to the ED with a mental health concern. They experience high rates of acute behavioural disturbance and are more likely to require restrictive interventions during their presentation.",
-              "title_ko": "유아의 응급실 정신 건강 프레젠테이션: 회고 도표 검토."
+              "title_ko": ""
             }
           ]
         },
@@ -9924,17 +10238,8 @@
             "scores": [
               0.0,
               91.5,
-              67.9,
+              57.9,
               50.0
-            ]
-          },
-          {
-            "phrase": "cardiopulmonary resuscitation",
-            "scores": [
-              0.0,
-              65.3,
-              31.0,
-              10.0
             ]
           },
           {
@@ -9944,6 +10249,15 @@
               36.4,
               23.5,
               40.0
+            ]
+          },
+          {
+            "phrase": "cardiopulmonary resuscitation",
+            "scores": [
+              0.0,
+              65.3,
+              31.0,
+              0.0
             ]
           },
           {
