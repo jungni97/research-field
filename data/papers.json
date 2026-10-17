@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-16T20:28:06.855959Z",
+  "generated_at": "2026-10-17T20:25:13.205547Z",
   "window_days": 1095,
   "fields": [
     {
       "key": "preventive",
       "label": "예방의학",
-      "paper_count": 445,
+      "paper_count": 447,
       "journals": [
         {
           "journal": "The Orthopedic clinics of North America",
@@ -207,7 +207,7 @@
           "impact_factor": 1.5,
           "index_type": "미상",
           "quartile": "미상",
-          "paper_count": 85,
+          "paper_count": 82,
           "top_paper": {
             "pmid": "39949340",
             "title": "Analysis of factors influencing HPV vaccination intention among Chinese college students: structural equation modeling based on health belief theory.",
@@ -7367,7 +7367,7 @@
           "impact_factor": 1.5,
           "index_type": "미상",
           "quartile": "미상",
-          "paper_count": 42,
+          "paper_count": 41,
           "top_paper": {
             "pmid": "39872099",
             "title": "Addressing the overuse of hospital emergency departments in the Portuguese NHS: a new paradigm.",
@@ -8585,6 +8585,71 @@
           ]
         },
         {
+          "journal": "The Cochrane database of systematic reviews",
+          "impact_factor": 1.5,
+          "index_type": "미상",
+          "quartile": "미상",
+          "paper_count": 1,
+          "top_paper": {
+            "pmid": "39908073",
+            "title": "Parenteral medication for the management of acute severe behavioural disturbance (ASBD) in the emergency department.",
+            "journal": "The Cochrane database of systematic reviews",
+            "impact_factor": 1.5,
+            "index_type": "미상",
+            "quartile": "미상",
+            "pubdate": "2024-05-29",
+            "authors": [
+              "Bourke E",
+              "Klein K",
+              "Knott J"
+            ],
+            "citation_count": 1,
+            "rcr": 0.47837005063038623,
+            "volume": "5",
+            "issue": "5",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/39908073/",
+            "altmetric_score": 0,
+            "altmetric_news": 0,
+            "altmetric_social": 0,
+            "is_current_issue": true,
+            "hot_score": 16.8,
+            "field": "emergency",
+            "field_label": "응급의학",
+            "abstract": "This is a protocol for a Cochrane Review (intervention). The objectives are as follows: To assess the effectiveness and safety profiles of different parenteral medications for the management of acute severe behavioural disturbance in the emergency department setting. These medications are required following the failure of less restrictive means of controlling the patient's behavioural disturbance.",
+            "title_ko": ""
+          },
+          "papers": [
+            {
+              "pmid": "39908073",
+              "title": "Parenteral medication for the management of acute severe behavioural disturbance (ASBD) in the emergency department.",
+              "journal": "The Cochrane database of systematic reviews",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2024-05-29",
+              "authors": [
+                "Bourke E",
+                "Klein K",
+                "Knott J"
+              ],
+              "citation_count": 1,
+              "rcr": 0.47837005063038623,
+              "volume": "5",
+              "issue": "5",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/39908073/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": true,
+              "hot_score": 16.8,
+              "field": "emergency",
+              "field_label": "응급의학",
+              "abstract": "This is a protocol for a Cochrane Review (intervention). The objectives are as follows: To assess the effectiveness and safety profiles of different parenteral medications for the management of acute severe behavioural disturbance in the emergency department setting. These medications are required following the failure of less restrictive means of controlling the patient's behavioural disturbance.",
+              "title_ko": ""
+            }
+          ]
+        },
+        {
           "journal": "West African journal of medicine",
           "impact_factor": 1.5,
           "index_type": "미상",
@@ -8924,6 +8989,71 @@
               "field": "emergency",
               "field_label": "응급의학",
               "abstract": "UNLABELLED: . Social-work service in the emergency department to improve care for the vulnerable older patient: a local experience in Italy. INTRODUCTION: The needs of older and frail people are increasing, and specific pathways in healthcare settings are needed. AIM: To describe the services and discharge destinations of people >65 years old with vulnerabilities followed by a new social care service in the emergency department (ED). METHODS: All patients referred to the social care service in the ED of a hospital over an eleven-month period were included. The service consisted of a social worker available from 9 am to 3 pm in the ED to assess the post-discharge health and social care needs of users identified by the ED doctor. Interventions carried out, post-discharge destinations and services activated were assessed. RESULTS: Between January and November 2022, 145 patients (median age 84 years) accessing the ED were referred to the social care service. The reasons for accessing the ED were medical conditions (93, 64.1%) and injury-related issues (52, 35.9%), particularly falls. The services provided included initiating procedures for long-term care placement (56.1%), consultations, referrals to municipal social services, activation of procedures for legal guardianship, and notification to the general practitioner. Overall, 46.6% of patients were admitted to a long-term care facility, 37.9% were discharged home, and 10.9% to a temporary post-acute care facility. Patients accessing the ED for injury-related issues and admitted to the hospital were more frequently institutionalized. CONCLUSIONS: Ninety-two patients (63%) referred to social workers did not require hospital admission. Social workers provided valuable services to vulnerable elderly patients in the ED to ensure the most appropriate support after discharge.",
+              "title_ko": ""
+            }
+          ]
+        },
+        {
+          "journal": "Ulusal travma ve acil cerrahi dergisi = Turkish journal of trauma & emergency surgery : TJTES",
+          "impact_factor": 1.5,
+          "index_type": "미상",
+          "quartile": "미상",
+          "paper_count": 1,
+          "top_paper": {
+            "pmid": "39668536",
+            "title": "Orthopaedic injuries and the use of protective equipment in commercial motorcycle couriers during the Coronavirus Disease 2019 (COVID-19) pandemic: A single level 1 trauma center experience.",
+            "journal": "Ulusal travma ve acil cerrahi dergisi = Turkish journal of trauma & emergency surgery : TJTES",
+            "impact_factor": 1.5,
+            "index_type": "미상",
+            "quartile": "미상",
+            "pubdate": "2024-01-01",
+            "authors": [
+              "Ekinci M",
+              "Günen E",
+              "Ataoglu C"
+            ],
+            "citation_count": 1,
+            "rcr": 0.8209948336468251,
+            "volume": "30",
+            "issue": "12",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/39668536/",
+            "altmetric_score": 0,
+            "altmetric_news": 0,
+            "altmetric_social": 0,
+            "is_current_issue": true,
+            "hot_score": 16.8,
+            "field": "emergency",
+            "field_label": "응급의학",
+            "abstract": "BACKGROUND: The aim of our study is to analyze the orthopedic injuries and the use of protective equipment among commercial motorcycle couriers during the Coronavirus Disease 2019 (COVID-19) pandemic in a level 1 trauma center in Istanbul, to provide epidemiological data, and to serve as a baseline for future studies. METHODS: Commercial motorcycle couriers involved in traffic accidents while working, and who were brought to the emergency department between April 2020 and April 2022, were included in our study. The protective equipment worn at the time of the accidents, including helmets, jackets, pants, gloves, and boots, were recorded. The orthopedic injuries and the applied treatments (both conservative and surgical) were documented, and injuries to other body regions and injury types were recorded in consultation with other medical departments. Additional data, including the duration of the driving license, the engine displacement of the motorcycle, any motorcyclist training, weather conditions, the estimated speed during the accident, and the time of the accident, were also noted. RESULTS: A total of 255 commercial motorcycle couriers were included in the study. Most of the injuries (56.9%) involved major trauma, with the foot and ankle region being the most commonly affected body area (31.8%). Helmets were the most commonly used protective equipment (n=197, 77.3%), while motorcycle boots were the least used (n=54, 21.2%). Fifty participants (19.6%) did not use any protective equipment, including helmets, while 22.7% of commercial motorcycle couriers wore only helmets. Only 27 couriers wore full protective gear for motorcycle riding. There were 157 fractures, of which seven were open fractures (4.5%). CONCLUSION: As wearing a helmet is mandatory when riding a motorcycle, the use of protective equipment other than helmets was relatively low, leading to a high prevalence of extremity injuries. Our study emphasizes the necessity of advanced motorcycle riding training for these professionals, raising awareness among motorcycle couriers about the importance of protective gear, and enhancing inspections through the implementation of legal regulations on this issue.",
+            "title_ko": ""
+          },
+          "papers": [
+            {
+              "pmid": "39668536",
+              "title": "Orthopaedic injuries and the use of protective equipment in commercial motorcycle couriers during the Coronavirus Disease 2019 (COVID-19) pandemic: A single level 1 trauma center experience.",
+              "journal": "Ulusal travma ve acil cerrahi dergisi = Turkish journal of trauma & emergency surgery : TJTES",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2024-01-01",
+              "authors": [
+                "Ekinci M",
+                "Günen E",
+                "Ataoglu C"
+              ],
+              "citation_count": 1,
+              "rcr": 0.8209948336468251,
+              "volume": "30",
+              "issue": "12",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/39668536/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": true,
+              "hot_score": 16.8,
+              "field": "emergency",
+              "field_label": "응급의학",
+              "abstract": "BACKGROUND: The aim of our study is to analyze the orthopedic injuries and the use of protective equipment among commercial motorcycle couriers during the Coronavirus Disease 2019 (COVID-19) pandemic in a level 1 trauma center in Istanbul, to provide epidemiological data, and to serve as a baseline for future studies. METHODS: Commercial motorcycle couriers involved in traffic accidents while working, and who were brought to the emergency department between April 2020 and April 2022, were included in our study. The protective equipment worn at the time of the accidents, including helmets, jackets, pants, gloves, and boots, were recorded. The orthopedic injuries and the applied treatments (both conservative and surgical) were documented, and injuries to other body regions and injury types were recorded in consultation with other medical departments. Additional data, including the duration of the driving license, the engine displacement of the motorcycle, any motorcyclist training, weather conditions, the estimated speed during the accident, and the time of the accident, were also noted. RESULTS: A total of 255 commercial motorcycle couriers were included in the study. Most of the injuries (56.9%) involved major trauma, with the foot and ankle region being the most commonly affected body area (31.8%). Helmets were the most commonly used protective equipment (n=197, 77.3%), while motorcycle boots were the least used (n=54, 21.2%). Fifty participants (19.6%) did not use any protective equipment, including helmets, while 22.7% of commercial motorcycle couriers wore only helmets. Only 27 couriers wore full protective gear for motorcycle riding. There were 157 fractures, of which seven were open fractures (4.5%). CONCLUSION: As wearing a helmet is mandatory when riding a motorcycle, the use of protective equipment other than helmets was relatively low, leading to a high prevalence of extremity injuries. Our study emphasizes the necessity of advanced motorcycle riding training for these professionals, raising awareness among motorcycle couriers about the importance of protective gear, and enhancing inspections through the implementation of legal regulations on this issue.",
               "title_ko": ""
             }
           ]
@@ -9811,298 +9941,6 @@
               "title_ko": ""
             }
           ]
-        },
-        {
-          "journal": "Brazilian dental journal",
-          "impact_factor": 1.5,
-          "index_type": "미상",
-          "quartile": "미상",
-          "paper_count": 1,
-          "top_paper": {
-            "pmid": "41370468",
-            "title": "Comparison of Blue®m and chlorhexidine mouthwash on oral health of intubated patients in intensive care unit.",
-            "journal": "Brazilian dental journal",
-            "impact_factor": 1.5,
-            "index_type": "미상",
-            "quartile": "미상",
-            "pubdate": "2025-12-08",
-            "authors": [
-              "Teixeira TC",
-              "Ribeiro RAG",
-              "Mascella V"
-            ],
-            "citation_count": 3,
-            "rcr": null,
-            "volume": "36",
-            "issue": "",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/41370468/",
-            "altmetric_score": 0,
-            "altmetric_news": 0,
-            "altmetric_social": 0,
-            "is_current_issue": false,
-            "hot_score": 13.5,
-            "field": "emergency",
-            "field_label": "응급의학",
-            "abstract": "This research aims to evaluate whether blue®m mouthwash can be used as a suitable alternative to chlorhexidine mouthwash for improving the oral health of intubated patients in ICUs. This is a randomized clinical study. The sample comprised 50 mechanically ventilated adults randomly allocated in a block of 10 to the 0.12% chlorhexidine digluconate (CHX) and the blue®m group. The patients' oral and tracheal secretions were collected in four different periods: T1 - 24h after intubation (without sanitation); T2 - 24h after intubation (with sanitation); T3 - 48h after intubation (without sanitation); T4 - 48h after intubation (with sanitation). Bacterial and fungal identification was performed. The presence of bacteria was graded as abundant, moderate, and scarce. Descriptive and inferential statistics were performed. Fifty patients with a mean age of 62.7 ± 13.3 years (20 to 86 years) were treated, 24 in the CHX group and 26 in the blue®m group. The most frequent pathogens in the patient's oral environment were Acinetobacter baumanii, Pseudomonas aeruginosa, and Klebsiella pneumonia. Analysis of the effectiveness of both antiseptics indicated statistically significant differences in the median values of the microbial population between collection periods in the CHX (χ2=13.2, p=0.004) and blue®m (χ2=9.49, p=0.023) group. No significant statistical difference in microbial population was found between the groups (T1- p=0.375; T2 - p=0.955; T3 - p=0.765; T4 - p=0.898). Blue®m mouthwash effectively reduces the oral microbial population and does not differ from chlorhexidine in terms of reduction. Blue®m mouthwash can be used as an alternative to chlorhexidine for mechanical ventilator patients in the ICU.",
-            "title_ko": ""
-          },
-          "papers": [
-            {
-              "pmid": "41370468",
-              "title": "Comparison of Blue®m and chlorhexidine mouthwash on oral health of intubated patients in intensive care unit.",
-              "journal": "Brazilian dental journal",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2025-12-08",
-              "authors": [
-                "Teixeira TC",
-                "Ribeiro RAG",
-                "Mascella V"
-              ],
-              "citation_count": 3,
-              "rcr": null,
-              "volume": "36",
-              "issue": "",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/41370468/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": false,
-              "hot_score": 13.5,
-              "field": "emergency",
-              "field_label": "응급의학",
-              "abstract": "This research aims to evaluate whether blue®m mouthwash can be used as a suitable alternative to chlorhexidine mouthwash for improving the oral health of intubated patients in ICUs. This is a randomized clinical study. The sample comprised 50 mechanically ventilated adults randomly allocated in a block of 10 to the 0.12% chlorhexidine digluconate (CHX) and the blue®m group. The patients' oral and tracheal secretions were collected in four different periods: T1 - 24h after intubation (without sanitation); T2 - 24h after intubation (with sanitation); T3 - 48h after intubation (without sanitation); T4 - 48h after intubation (with sanitation). Bacterial and fungal identification was performed. The presence of bacteria was graded as abundant, moderate, and scarce. Descriptive and inferential statistics were performed. Fifty patients with a mean age of 62.7 ± 13.3 years (20 to 86 years) were treated, 24 in the CHX group and 26 in the blue®m group. The most frequent pathogens in the patient's oral environment were Acinetobacter baumanii, Pseudomonas aeruginosa, and Klebsiella pneumonia. Analysis of the effectiveness of both antiseptics indicated statistically significant differences in the median values of the microbial population between collection periods in the CHX (χ2=13.2, p=0.004) and blue®m (χ2=9.49, p=0.023) group. No significant statistical difference in microbial population was found between the groups (T1- p=0.375; T2 - p=0.955; T3 - p=0.765; T4 - p=0.898). Blue®m mouthwash effectively reduces the oral microbial population and does not differ from chlorhexidine in terms of reduction. Blue®m mouthwash can be used as an alternative to chlorhexidine for mechanical ventilator patients in the ICU.",
-              "title_ko": ""
-            }
-          ]
-        },
-        {
-          "journal": "Emergency medicine clinics of North America",
-          "impact_factor": 1.5,
-          "index_type": "미상",
-          "quartile": "미상",
-          "paper_count": 7,
-          "top_paper": {
-            "pmid": "40210340",
-            "title": "Evaluation of Older Adults in the Emergency Department Following a Fall.",
-            "journal": "Emergency medicine clinics of North America",
-            "impact_factor": 1.5,
-            "index_type": "미상",
-            "quartile": "미상",
-            "pubdate": "2024-09-17",
-            "authors": [
-              "Shih R",
-              "Shenvi C"
-            ],
-            "citation_count": 2,
-            "rcr": null,
-            "volume": "43",
-            "issue": "2",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/40210340/",
-            "altmetric_score": 0,
-            "altmetric_news": 0,
-            "altmetric_social": 0,
-            "is_current_issue": false,
-            "hot_score": 10.7,
-            "field": "emergency",
-            "field_label": "응급의학",
-            "abstract": "Falls are an important source of morbidity and mortality for older adults. The emergency department (ED) evaluation of an older patient who presents after a fall should include an assessment of events contributing to the acute fall, injuries sustained from it, as well as an underlying falls syndrome. ED measures and referrals to appropriate outpatient services on discharge can help ensure patients receive care and services that can help reduce future falls.",
-            "title_ko": ""
-          },
-          "papers": [
-            {
-              "pmid": "40210340",
-              "title": "Evaluation of Older Adults in the Emergency Department Following a Fall.",
-              "journal": "Emergency medicine clinics of North America",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2024-09-17",
-              "authors": [
-                "Shih R",
-                "Shenvi C"
-              ],
-              "citation_count": 2,
-              "rcr": null,
-              "volume": "43",
-              "issue": "2",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/40210340/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": false,
-              "hot_score": 10.7,
-              "field": "emergency",
-              "field_label": "응급의학",
-              "abstract": "Falls are an important source of morbidity and mortality for older adults. The emergency department (ED) evaluation of an older patient who presents after a fall should include an assessment of events contributing to the acute fall, injuries sustained from it, as well as an underlying falls syndrome. ED measures and referrals to appropriate outpatient services on discharge can help ensure patients receive care and services that can help reduce future falls.",
-              "title_ko": ""
-            },
-            {
-              "pmid": "42823012",
-              "title": "Titrating and Discontinuing Noninvasive Respiratory Support in the Emergency Department.",
-              "journal": "Emergency medicine clinics of North America",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2026-02-26",
-              "authors": [
-                "Gebreili D",
-                "Mosier JM"
-              ],
-              "citation_count": 0,
-              "rcr": null,
-              "volume": "44",
-              "issue": "4",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/42823012/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": true,
-              "hot_score": 10.0,
-              "field": "emergency",
-              "field_label": "응급의학",
-              "abstract": "Acute respiratory failure is common in the emergency department (ED), often requiring noninvasive respiratory support (NIRS). NIRS has become a cornerstone in the initial management of acute respiratory failure. Despite its growing use, significant variability in practice remains, and evidence-based guidance specific to the ED setting is limited. This article aims to provide emergency physicians with a practical, evidence-informed framework for initiating and managing NIRS in adults with acute respiratory failure, with a focus on initial settings, titration, monitoring for failure, and guidance on weaning and liberation.",
-              "title_ko": ""
-            },
-            {
-              "pmid": "42823006",
-              "title": "Modern Approach to Vascular Access in the Critically Ill Patient.",
-              "journal": "Emergency medicine clinics of North America",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2026-03-23",
-              "authors": [
-                "Jaffery SR",
-                "Qasim Z"
-              ],
-              "citation_count": 0,
-              "rcr": null,
-              "volume": "44",
-              "issue": "4",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/42823006/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": true,
-              "hot_score": 10.0,
-              "field": "emergency",
-              "field_label": "응급의학",
-              "abstract": "Vascular access is a key intervention in the management of critically ill emergency department patients. This can include peripheral or central venous access and intraosseous access. In combination with arterial catheterization, central venous access can provide key information to guide volume and vasoactive medication titration in isolation as well as in combination with dynamic measures of fluid responsiveness. This article will review the indications and contraindications as well as decision-making for the use of these modalities in light of the current evidence.",
-              "title_ko": ""
-            },
-            {
-              "pmid": "42823004",
-              "title": "Post-intubation Sedation and Analgesia in the Emergency Department: The Basics and Beyond.",
-              "journal": "Emergency medicine clinics of North America",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2026-03-19",
-              "authors": [
-                "Baumgartner K",
-                "Fuller BM"
-              ],
-              "citation_count": 0,
-              "rcr": null,
-              "volume": "44",
-              "issue": "4",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/42823004/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": true,
-              "hot_score": 10.0,
-              "field": "emergency",
-              "field_label": "응급의학",
-              "abstract": "Provision of postintubation sedation and analgesia is critical in emergency management of mechanically ventilated patients. Pain and sedation should be monitored using a validated scoring system, and medications titrated to a target sedation level, which should usually be light. Usually, fentanyl is the first-line analgesic and propofol is the first-line sedative. Dexmedetomidine and ketamine may be helpful in select populations, but further research is needed to define their role in the emergency department. Benzodiazepines should generally be avoided. Physicians should plan for postintubation sedation and analgesia in advance and consider using succinylcholine for intubation to avoid awareness with paralysis.",
-              "title_ko": ""
-            },
-            {
-              "pmid": "40210347",
-              "title": "The Importance of Addressing Social Drivers of Health and Unmet Social Needs in Optimizing Geriatric Emergency Care.",
-              "journal": "Emergency medicine clinics of North America",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2024-09-14",
-              "authors": [
-                "Shenvi C",
-                "Gottesman E",
-                "Rosen T"
-              ],
-              "citation_count": 1,
-              "rcr": null,
-              "volume": "43",
-              "issue": "2",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/40210347/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": false,
-              "hot_score": 6.8,
-              "field": "emergency",
-              "field_label": "응급의학",
-              "abstract": "Social factors and determinants have an immense impact on health. These \"social drivers of health\" have been broadly defined as economic and social conditions that influence the health of people and communities. Unmet social needs contribute to poor health outcomes, particularly for patients with poor access to outpatient care. Emergency departments (EDs) play a critical role in providing health care to vulnerable populations with these needs, and delivering this care is a central component of emergency medicine's public health mission. Here, the authors describe the major unmet social needs that may impact geriatric patients' care in the ED and provide some ways to address them.",
-              "title_ko": ""
-            },
-            {
-              "pmid": "40210341",
-              "title": "Frailty-aware Care in the Emergency Department.",
-              "journal": "Emergency medicine clinics of North America",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2024-09-27",
-              "authors": [
-                "Boreskie PE",
-                "Boreskie KF"
-              ],
-              "citation_count": 1,
-              "rcr": null,
-              "volume": "43",
-              "issue": "2",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/40210341/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": false,
-              "hot_score": 6.8,
-              "field": "emergency",
-              "field_label": "응급의학",
-              "abstract": "Older adults living with frailty are a growing population that will increasingly present to the emergency department (ED). This is a population that is at increased risk of adverse health outcomes and most EDs are not designed with their needs in mind. Instead of characterizing patients based on chronologic age or existing triage tools, frailty assessment offers an accurate, feasible, and patient-centered approach to improving care, and should be performed in the ED.",
-              "title_ko": ""
-            },
-            {
-              "pmid": "40210339",
-              "title": "Strategies for Improving Clinical Care of Older Adults in the Emergency Department.",
-              "journal": "Emergency medicine clinics of North America",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2024-09-25",
-              "authors": [
-                "Brousseau AA",
-                "Schonnop R",
-                "Melady D"
-              ],
-              "citation_count": 0,
-              "rcr": null,
-              "volume": "43",
-              "issue": "2",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/40210339/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": false,
-              "hot_score": 0.0,
-              "field": "emergency",
-              "field_label": "응급의학",
-              "abstract": "In the evolving landscape of emergency departments (EDs), the increasing number of older patients necessitates a paradigm shift. It is important for clinicians to have a working knowledge of geriatric syndromes, goals of care discussions, the importance of gathering collateral history, involving caregivers, assessing medication use, conducting a thorough physical examination, integrating an interdisciplinary team, ensuring basic equipment availability, and coordinating seamless transitions of care. Though nuanced, these strategies promise to enhance the quality of care for older adults in EDs.",
-              "title_ko": ""
-            }
-          ]
         }
       ],
       "hot_topics": [
@@ -10191,15 +10029,6 @@
           ]
         },
         {
-          "phrase": "intensive unit",
-          "score": 39.2,
-          "paper_count": 2,
-          "pmids": [
-            "39787549",
-            "41370468"
-          ]
-        },
-        {
           "phrase": "ventilator-associated pneumonia",
           "score": 38.8,
           "paper_count": 2,
@@ -10209,22 +10038,30 @@
           ]
         },
         {
-          "phrase": "critically ill",
-          "score": 38.2,
-          "paper_count": 3,
-          "pmids": [
-            "39671440",
-            "39699429",
-            "42823006"
-          ]
-        },
-        {
           "phrase": "first aid",
           "score": 36.4,
           "paper_count": 2,
           "pmids": [
             "39699333",
             "40224798"
+          ]
+        },
+        {
+          "phrase": "trauma center",
+          "score": 33.6,
+          "paper_count": 2,
+          "pmids": [
+            "39668536",
+            "39648775"
+          ]
+        },
+        {
+          "phrase": "covid- triage",
+          "score": 30.3,
+          "paper_count": 2,
+          "pmids": [
+            "39689150",
+            "40561321"
           ]
         }
       ],
@@ -10242,7 +10079,7 @@
               0.0,
               91.5,
               57.9,
-              50.0
+              40.0
             ]
           },
           {
@@ -10255,15 +10092,6 @@
             ]
           },
           {
-            "phrase": "cardiac arrest",
-            "scores": [
-              0.0,
-              37.5,
-              34.3,
-              20.0
-            ]
-          },
-          {
             "phrase": "intensive unit",
             "scores": [
               0.0,
@@ -10273,12 +10101,12 @@
             ]
           },
           {
-            "phrase": "critically ill",
+            "phrase": "cardiac arrest",
             "scores": [
               0.0,
-              35.0,
-              6.8,
-              30.0
+              37.5,
+              34.3,
+              10.0
             ]
           },
           {
@@ -10288,6 +10116,15 @@
               10.7,
               16.8,
               40.0
+            ]
+          },
+          {
+            "phrase": "trauma center",
+            "scores": [
+              0.0,
+              33.6,
+              10.0,
+              20.0
             ]
           }
         ]
