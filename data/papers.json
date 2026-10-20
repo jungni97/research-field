@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T20:35:46.215496Z",
+  "generated_at": "2026-10-20T20:33:31.780025Z",
   "window_days": 1095,
   "fields": [
     {
@@ -462,7 +462,7 @@
           "impact_factor": 1.5,
           "index_type": "미상",
           "quartile": "미상",
-          "paper_count": 91,
+          "paper_count": 93,
           "top_paper": {
             "pmid": "39949340",
             "title": "Analysis of factors influencing HPV vaccination intention among Chinese college students: structural equation modeling based on health belief theory.",
@@ -1051,34 +1051,6 @@
               "title_ko": "제1형 당뇨병 아동 및 청소년의 교육 및 심리교육적 자기관리 중재의 효과: 체계적인 검토와 메타분석."
             },
             {
-              "pmid": "40302970",
-              "title": "The Psychometric Properties of the Type 1 Diabetes Mellitus Screening Acceptability Assessment (DMSA) Scale among General Population.",
-              "journal": "Pediatric diabetes",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2024-07-25",
-              "authors": [
-                "Al-Gadi IS",
-                "Albalawi AD",
-                "Al Khalifah RA"
-              ],
-              "citation_count": 2,
-              "rcr": 0.26348484814340123,
-              "volume": "2024",
-              "issue": "",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/40302970/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": false,
-              "hot_score": 11.0,
-              "field": "preventive",
-              "field_label": "예방의학",
-              "abstract": "BACKGROUND: Type 1 diabetes mellitus (T1DM) screening facilitates access to early intervention and prevention of severe complications, such as diabetic ketoacidosis. Despite its significance, many countries lack a systematic T1DM screening program. Understanding how the public perceives T1DM screening for children is essential for successfully implementing such programs but is currently an area with limited research. Our study aims to fill this gap by developing a standardized tool designed to assess the acceptability of T1DM screening programs for children, focusing on caregiver perspectives within the general population. MATERIALS AND METHODS: We developed the Type 1 Diabetes Mellitus Screening Acceptability (DMSA) scale based on the theoretical framework of acceptability and integrated components from the Pediatric Testing Attitudes Scale-Diabetes (P-TAS-D). It covers a broad spectrum of acceptability constructs. The DMSA scale underwent iterative modifications following expert feedback to refine clarity and content validity. We tested the scale in both Arabic and English with adults living in Saudi Arabia, regardless of their parental status, focusing on the potential of screening their children. The psychometric strengths of the scale were evaluated through reliability analyses and exploratory factor analysis. RESULTS: Of the 599 participants, the majority were female (89.2%), with a mean age of 35.9 ± 8.6 years. The final DMSA scale consists of 10 items, with two distinct factors: \"individual acceptability\" and \"psychosocial acceptability.\" The mean total score was 42.9 ± 5.1 across a potential range of 10-50 points. The English and Arabic versions of the scale demonstrated strong reliability, with Cronbach's alpha values of 0.84 and 0.79, respectively. CONCLUSIONS: The DMSA scale emerges as a valid and reliable tool for gauging the acceptability of the general population of screening children for T1DM. It integrates key elements of the acceptability construct, pivotal for guiding the implementation of culturally sensitive T1DM screening initiatives. Future research should expand its application across various cultural settings and examine the correlation between scale scores and actual screening behaviors.",
-              "title_ko": "일반 인구 중 제1형 당뇨병 선별검사 수용성 평가 (DMSA) 척도의 심리측정 특성."
-            },
-            {
               "pmid": "40302974",
               "title": "Assessing the Feasibility and Acceptability of a Virtual Food Skills and Food Sustainability Program Designed for Children Living With Type 1 Diabetes.",
               "journal": "Pediatric diabetes",
@@ -1105,6 +1077,34 @@
               "field_label": "예방의학",
               "abstract": "Objective: To assess the feasibility and acceptability of a virtual food skills program for children with type 1 diabetes. Methods: Forty-three patients, aged 6-14 years with type 1 diabetes, participated in an 8-week online programme, summerlunch+ At Home, that included weekly live cooking classes, asynchronous learning modules, and quizzes accessed through Google Classroom. Grocery delivery or gift cards were provided to all participants to support equitable access to participation. Descriptive results were summarized, and thematic analysis was performed on answers to a post-intervention questionnaire, parent/caregivers interview transcripts, and facilitators' field notes. Results: Participants reported having a positive experience and would recommend the programme to others. Acceptable elements included the online format, the cooking class demonstrations, and the well-organized content. Families enjoyed the recipes, expressed an improvement in the families' cooking skills and nutrition knowledge, and noted the program as a way to improve family bonding and reduce participants' sense of social isolation given the opportunity of meeting peers with diabetes. The intervention also appears to increase participants' independence, confidence, and self-esteem. While grocery cards were easier to coordinate compared with meal kits, both were deemed acceptable by caregivers. Barriers to participation include a distracting home environment and not feeling comfortable on camera. Factors that negatively impacted satisfaction were the large age range of participants and the class timing and duration. Caregivers noted a desire for more diabetes education, enhanced peer-to-peer interaction, and incorporation of animal-based protein recipes in future programmes. Conclusion: The current study demonstrates the feasibility and acceptability of the virtual summerlunch+ At Home cooking and nutrition program that was adapted for children with diabetes. Similar food skills programmes may support the development of food skills imperative to diabetes self-management long-term. Further research can continue to assess food literacy skills, glycemic management, and the social benefits of such interventions.",
               "title_ko": "제1형 당뇨병을 앓고 있는 어린이를 위해 고안된 가상 식품 기술 및 식품 지속 가능성 프로그램의 타당성 및 수용성 평가."
+            },
+            {
+              "pmid": "40302970",
+              "title": "The Psychometric Properties of the Type 1 Diabetes Mellitus Screening Acceptability Assessment (DMSA) Scale among General Population.",
+              "journal": "Pediatric diabetes",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2024-07-25",
+              "authors": [
+                "Al-Gadi IS",
+                "Albalawi AD",
+                "Al Khalifah RA"
+              ],
+              "citation_count": 2,
+              "rcr": 0.26348484814340123,
+              "volume": "2024",
+              "issue": "",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/40302970/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 11.0,
+              "field": "preventive",
+              "field_label": "예방의학",
+              "abstract": "BACKGROUND: Type 1 diabetes mellitus (T1DM) screening facilitates access to early intervention and prevention of severe complications, such as diabetic ketoacidosis. Despite its significance, many countries lack a systematic T1DM screening program. Understanding how the public perceives T1DM screening for children is essential for successfully implementing such programs but is currently an area with limited research. Our study aims to fill this gap by developing a standardized tool designed to assess the acceptability of T1DM screening programs for children, focusing on caregiver perspectives within the general population. MATERIALS AND METHODS: We developed the Type 1 Diabetes Mellitus Screening Acceptability (DMSA) scale based on the theoretical framework of acceptability and integrated components from the Pediatric Testing Attitudes Scale-Diabetes (P-TAS-D). It covers a broad spectrum of acceptability constructs. The DMSA scale underwent iterative modifications following expert feedback to refine clarity and content validity. We tested the scale in both Arabic and English with adults living in Saudi Arabia, regardless of their parental status, focusing on the potential of screening their children. The psychometric strengths of the scale were evaluated through reliability analyses and exploratory factor analysis. RESULTS: Of the 599 participants, the majority were female (89.2%), with a mean age of 35.9 ± 8.6 years. The final DMSA scale consists of 10 items, with two distinct factors: \"individual acceptability\" and \"psychosocial acceptability.\" The mean total score was 42.9 ± 5.1 across a potential range of 10-50 points. The English and Arabic versions of the scale demonstrated strong reliability, with Cronbach's alpha values of 0.84 and 0.79, respectively. CONCLUSIONS: The DMSA scale emerges as a valid and reliable tool for gauging the acceptability of the general population of screening children for T1DM. It integrates key elements of the acceptability construct, pivotal for guiding the implementation of culturally sensitive T1DM screening initiatives. Future research should expand its application across various cultural settings and examine the correlation between scale scores and actual screening behaviors.",
+              "title_ko": "일반 인구 중 제1형 당뇨병 선별검사 수용성 평가 (DMSA) 척도의 심리측정 특성."
             }
           ]
         },
@@ -2021,7 +2021,7 @@
           "impact_factor": 1.5,
           "index_type": "미상",
           "quartile": "미상",
-          "paper_count": 3,
+          "paper_count": 1,
           "top_paper": {
             "pmid": "39798110",
             "title": "Effectiveness of visual pedagogy in improving toothbrushing skills, oral hygiene and gingival health among children with autism- A randomised controlled trial.",
@@ -2078,62 +2078,6 @@
               "field_label": "예방의학",
               "abstract": "BACKGROUND: Autism is a neurodevelopmental disability that diminishes social interactions and communication. Maintaining good oral hygiene in them is a significant task. OBJECTIVES: The objective of this study was to evaluate the effectiveness of a toothbrushing visual pedagogy (TBVP) in improving brushing skills, oral hygiene, and gingival status among children with autism. MATERIALS AND METHODS: This cluster randomized controlled trial was conducted among 200 children with autism, aged 6-17 years. TBVP and conventional oral hygiene instructions were administered as an intervention in the test group (TBVP). The control group (oral health education [OHE]) received conventional oral hygiene instructions. Assessment of toothbrushing skills, plaque, and gingival status were carried out at baseline, 30-, 60-, and 90-days. The data were analyzed using t-tests in SPSS version 26 software at P < 0.05. RESULTS: At baseline, there was no significant difference between the groups in toothbrushing skills, plaque, and gingival scores. Postintervention, there was a significant improvement in the TBVP group compared to the OHE group. At 90 days, the mean toothbrushing scores of TBVP group were significantly higher (22.49 ± 6.70) than the OHE group (18.35 ± 6.82). Plaque scores were significantly lower (1.31 ± 0.48) in the TBVP group than the OHE group (1.47 ± 0.50). Gingival scores were significantly lower (1.38 ± 0.48) in the TBVP group than the OHE group (1.56 ± 0.51) (P < 0.05). CONCLUSION: The TBVP was effective in improving the toothbrushing skills, oral hygiene, and gingival health of the children with autism. Hence, it can be used for behavioural guidance in toothbrushing for these children to maintain their oral hygiene.",
               "title_ko": "자폐 아동의 칫솔질 기술, 구강 위생 및 잇몸 건강 개선에 대한 시각 교육학의 효과- 무작위 대조 시험."
-            },
-            {
-              "pmid": "39798109",
-              "title": "Effectiveness of visual instruction skit and sign language on oral health status among 5-18-year-old hearing-impaired children in South India: A cluster randomized clinical trial.",
-              "journal": "Journal of the Indian Society of Pedodontics and Preventive Dentistry",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2025-01-11",
-              "authors": [
-                "Kondepudi V",
-                "Kumar RVSK",
-                "Srinivasulu G"
-              ],
-              "citation_count": 0,
-              "rcr": 0.0,
-              "volume": "42",
-              "issue": "4",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/39798109/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": true,
-              "hot_score": 10.0,
-              "field": "preventive",
-              "field_label": "예방의학",
-              "abstract": "BACKGROUND: Literature on the effectiveness of theory-based oral health education on the oral hygiene status of hearing-impaired children is limited. AIM: To determine the effectiveness of a school oral health education intervention on oral hygiene status and oral health-related knowledge among 5-18-year-old children in Andhra Pradesh, India. MATERIALS AND METHODS: A cluster randomized clinical trial was conducted among all institutionalized hearing-impaired children and young adults residing in various special care schools in Nellore district. Plaque Control record, gingival index (GI), and Decayed Missed Filled Teeth/ decayed extracted filled teeth and Decayed Missed Filled surfaces/ decayed extracted filled surfaces (DMFT/deft, and DMFS/defs) index were recorded; participants were selected and were randomly allocated to two groups using lottery method with 50 subjects in each group, Group I: sign language and Group II: video skit. RESULTS: In all the age groups, preintervention DMFT and postintervention GI, DMFT, and DMFS were statistically significant in the sign language group and in the video skit group. Postintervention DMFS shows a significant difference. CONCLUSION: When compared with video instruction skit, sign language shows significant improvement in the oral hygiene status of CHI.",
-              "title_ko": "남인도 5-18세 청각장애아동의 구강건강상태에 대한 시각지시 스킷과 수화의 효과: 군집 무작위배정 임상시험."
-            },
-            {
-              "pmid": "39798102",
-              "title": "Effectiveness of school dental screening programme and different referral mechanisms on caries experience among 6-11-year-old children.",
-              "journal": "Journal of the Indian Society of Pedodontics and Preventive Dentistry",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2025-01-11",
-              "authors": [
-                "Himabindu B",
-                "Uloopi KS",
-                "Vinay C"
-              ],
-              "citation_count": 0,
-              "rcr": 0.0,
-              "volume": "42",
-              "issue": "4",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/39798102/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": true,
-              "hot_score": 10.0,
-              "field": "preventive",
-              "field_label": "예방의학",
-              "abstract": "BACKGROUND: School-based dental screening and referral mechanism is a potential intervention that impacts utilization of dental services. AIM: The present study aims to evaluate the effectiveness of school dental screening programme with referral to specific dental hospital on caries experience among 6-11-year-old children. SETTINGS AND DESIGN: A cluster randomized control trial was conducted with 694 children assigned to test group (n = 351) and control group (n = 343). MATERIALS AND METHODS: Children in test group were referred to specific dental hospital, while those of control group to nonspecific dental hospital for treatments. STATISTICAL ANALYSIS USED: Wilcoxon test and Mann-Whitney U tests were used for intragroup and intergroup comparison of decayed, missing, filled teeth/decayed, extraction needed, filled teeth scores. RESULTS: A statistically significant difference (P < 0.001) in decayed (dt + DT) and filled (ft + FT) teeth scores was observed on intergroup comparison at 12 months. There was a significant increase in filled teeth (FT) scores in children of both the groups. However, the decayed teeth (dt + DT) scores were significantly decreased in children of test group (P < 0.001), while increased in control group (P = 0.004). CONCLUSION: School dental screening programs with referral to specific dental hospital had a highly significant impact in reducing decayed teeth and increasing the number of FT 27 in children.",
-              "title_ko": "6-11세 아동의 충치 경험에 대한 학교 치과 검진 프로그램 및 다양한 의뢰 메커니즘의 효과."
             }
           ]
         },
@@ -4940,8 +4884,8 @@
           "paper_count": 6,
           "pmids": [
             "40302946",
-            "40302970",
             "40302974",
+            "40302970",
             "39978849",
             "40655936",
             "41641034"
@@ -5069,7 +5013,7 @@
               0.0,
               81.4,
               11.0,
-              11.0
+              31.0
             ]
           },
           {
@@ -5091,21 +5035,21 @@
             ]
           },
           {
+            "phrase": "hpv vaccination",
+            "scores": [
+              0.0,
+              0.0,
+              27.0,
+              36.9
+            ]
+          },
+          {
             "phrase": "quality life",
             "scores": [
               0.0,
               40.7,
               10.0,
               10.0
-            ]
-          },
-          {
-            "phrase": "hpv vaccination",
-            "scores": [
-              0.0,
-              0.0,
-              27.0,
-              26.9
             ]
           },
           {
@@ -5123,7 +5067,7 @@
     {
       "key": "emergency",
       "label": "응급의학",
-      "paper_count": 452,
+      "paper_count": 453,
       "journals": [
         {
           "journal": "Resuscitation",
@@ -5500,7 +5444,7 @@
               "field": "emergency",
               "field_label": "응급의학",
               "abstract": "BACKGROUND: Dyspnoea is one of the emergency department's (ED) most common and deadly chief complaints, but frequently misdiagnosed and mistreated. We aimed to design a diagnostic decision support which classifies dyspnoeic ED visits into acute heart failure (AHF), exacerbation of chronic obstructive pulmonary disease (eCOPD), pneumonia and \"other diagnoses\" by using deep learning and complete, unselected data from an entire regional health care system. METHODS: In this cross-sectional study, we included all dyspnoeic ED visits of patients ≥ 18 years of age at the two EDs in the region of Halland, Sweden, 07/01/2017-12/31/2019. Data from the complete regional health care system within five years prior to the ED visit were analysed. Gold standard diagnoses were defined as the subsequent in-hospital or ED discharge notes, and a subsample was manually reviewed by emergency medicine experts. A novel deep learning model, the clinical attention-based recurrent encoder network (CareNet), was developed. Cohort performance was compared to a simpler CatBoost model. A list of all variables and their importance for diagnosis was created. For each unique patient visit, the model selected the most important variables, analysed them and presented them to the clinician interpretably by taking event time and clinical context into account. AUROC, sensitivity and specificity were compared. FINDINGS: The most prevalent diagnoses among the 10,315 dyspnoeic ED visits were AHF (15.5%), eCOPD (14.0%) and pneumonia (13.3%). Median number of unique events, i.e., registered clinical data with time stamps, per ED visit was 1,095 (IQR 459-2,310). CareNet median AUROC was 87.0%, substantially higher than the CatBoost model´s (81.4%). CareNet median sensitivity for AHF, eCOPD, and pneumonia was 74.5%, 92.6%, and 54.1%, respectively, with a specificity set above 75.0, slightly inferior to that of the CatBoost baseline model. The model assembled a list of 1,596 variables by importance for diagnosis, on top were prior diagnoses of heart failure or COPD, daily smoking, atrial fibrillation/flutter, life management difficulties and maternity care. Each patient visit received their own unique attention plot, graphically displaying important clinical events for the diagnosis. INTERPRETATION: We designed a novel interpretable deep learning model for diagnosis in emergency department dyspnoea patients by analysing unselected data from a complete regional health care system.",
-              "title_ko": ""
+              "title_ko": "전체 의료 시스템의 전체 데이터를 기반으로 한 응급실 호흡곤란 환자의 진단을 위한 새로운 해석 가능한 딥 러닝 모델."
             },
             {
               "pmid": "39636963",
@@ -5528,7 +5472,7 @@
               "field": "emergency",
               "field_label": "응급의학",
               "abstract": "INTRODUCTION: Workplace violence is a relevant social problem due to its high prevalence and serious consequences. A quarter of workplace violence occurs in the healthcare sector. Evidence shows differences among professionals, with emergency department workers being especially vulnerable, presenting a higher risk of suffering mental and physical health problems, as well as threats to their professional and social integrity. OBJECTIVE: To explore the frequency with which emergency department professionals are exposed to user violence and violence by their own coworkers; as well as to analyze the differences between different professionals in exposure to violence in the workplace and some of its most studied consequences such as burnout, job satisfaction, engagement, and general health. METHODS: A descriptive comparative study was carried out with a sample of 120 emergency department workers from three hospitals in Alicante. The majority were healthcare professionals (84.2%), women (61.7%), obtaining a mean age of 41.8 years (SD = 10.8). Sociodemographic and occupational variables, user violence, violence among colleagues and superiors, general health, burnout, engagement, and job satisfaction were evaluated. RESULTS: A high prevalence of both physical and non-physical user violence in the healthcare setting was observed, especially affecting nursing and administrative assistants. In addition, significant differences were identified between professionals in terms of non-physical user violence, burnout, engagement, and job satisfaction. Administrative staff suffer greater non-physical user violence, while nursing assistants show higher levels of engagement. Regarding job satisfaction, nurses report higher intrinsic satisfaction. Medical staff, nurses and nursing assistants show higher levels of extrinsic satisfaction compared to administrative staff. DISCUSSION: Our results are consistent with other studies in which a relationship between exposure to violence and job satisfaction is observed. In addition, administrative staff appear to be the professionals most exposed to violence from both patients and coworkers. These results provide evidence for future research focused on improving the work environment and health of emergency department professionals.",
-              "title_ko": ""
+              "title_ko": "병원 응급실 전문가들의 직장 내 폭력과 건강 변수의 차이: 서술적 비교 연구."
             },
             {
               "pmid": "41343612",
@@ -6186,7 +6130,7 @@
           "impact_factor": 1.5,
           "index_type": "미상",
           "quartile": "미상",
-          "paper_count": 37,
+          "paper_count": 34,
           "top_paper": {
             "pmid": "39947973",
             "title": "Promethazine: A Review of Therapeutic Uses and Toxicity.",
@@ -6501,6 +6445,239 @@
               "field": "emergency",
               "field_label": "응급의학",
               "abstract": "BACKGROUND: Falls are a significant issue among older adults, leading to morbidity and mortality. Screening for fall risk in the ED is crucial but challenging due to time limitations and patient conditions. Sarcopenia, characterized by muscle loss, is associated with increased fall risk, and ultrasound has been proposed as a non-invasive tool to measure muscle mass in this context. METHODS: This prospective cohort study enrolled 174 older adults from an urban teaching hospital's EDOU, assessing muscle mass via POCUS, grip strength, Timed Up and Go (TUG) test, and fall risk using the STEADI toolkit. The patients were followed up over six months to assess if they had fallen or not. RESULTS: Follow-up identified 37 participants (21 %) as patients who fell. There was no significant association between POCUS-measured muscle mass, grip strength, or TUG test performance with future falls. In contrast, STEADI questionnaire responses demonstrated significant differences between patients who fell and did not fall, suggesting its potential utility in predicting fall risk in this population. CONCLUSION: The simpler tool, the STEADI questionnaire, may offer more practicality in screening fall risk compared to complex ultrasound measurements or physical performance tests among the older in ED.",
+              "title_ko": ""
+            }
+          ]
+        },
+        {
+          "journal": "The western journal of emergency medicine",
+          "impact_factor": 1.5,
+          "index_type": "미상",
+          "quartile": "미상",
+          "paper_count": 7,
+          "top_paper": {
+            "pmid": "41380046",
+            "title": "Sociodemographic and Health Behaviour of Frequent, Avoidable Emergency Department Users in Ontario, Canada: A Population-based Descriptive Study.",
+            "journal": "The western journal of emergency medicine",
+            "impact_factor": 1.5,
+            "index_type": "미상",
+            "quartile": "미상",
+            "pubdate": "2025-10-21",
+            "authors": [
+              "Thompson C",
+              "Watson T",
+              "Schull MJ"
+            ],
+            "citation_count": 2,
+            "rcr": null,
+            "volume": "26",
+            "issue": "6",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/41380046/",
+            "altmetric_score": 0,
+            "altmetric_news": 0,
+            "altmetric_social": 0,
+            "is_current_issue": true,
+            "hot_score": 20.7,
+            "field": "emergency",
+            "field_label": "응급의학",
+            "abstract": "INTRODUCTION: Frequent users are a small but important group of patients in the emergency department (ED). This group is often the target of interventions that redirect visits to other areas of the healthcare system under the premise that some of these visits could be best managed elsewhere. Most existing interventions do not consider sociodemographic factors when targeting specific populations, while larger scale policy initiatives often do not reach those who would most benefit from alternative points of healthcare access. In this study we use population-level survey data linked to health administrative data to describe frequent ED users and those whose visits are potentially avoidable and could benefit from additional points of healthcare access. METHODS: This was a population-based cohort study of responses from 18-74 year-old Ontario residents to the Canadian Community Health Survey from 2001-2014, which we linked to administrative health data for one-year following survey completion. We categorized participants according to the frequency of their ED use in the year following survey date and whether any of their visits were potentially avoidable. Associations between category of ED use and various sociodemographic, health, and behavioural factors were examined with multinomial logistic regression. RESULTS: A total of 181,369 eligible respondents were included in this study. Of these, 1,460 (0.8%) were frequent users (four or more visits) with one or more potentially avoidable visits in the year following survey date. Compared to non-ED users, frequent users with avoidable visits were associated with the lowest quintile of household income (aOR: 1.91, 95% CI: 1.37, 2.65), rural-dwelling (aOR: 1.44, 95% CI: 1.18, 1.77), and the highest quintile of material resource deprived neighbourhoods (aOR: 2.23, 95% CI: 1.47, 3.36). They were more likely to have poor self-reported physical (17.2% vs 9.0%) and mental health (4.1% vs 2.7%) compared to total cohort, and more likely to have comorbidities (63.3% vs 48.7%), but less likely to access a usual provider of care for their healthcare needs (33.3% vs 28.2% without a usual provider of care). CONCLUSION: This study provides a novel description of frequent ED users for whom some of their visits were potentially avoidable. As efforts are made to redesign access to primary and community care, and with increasing emphasis on virtual care and other initiatives to reduce avoidable ED use, the healthcare system should ensure that these interventions are responsive to the needs of the people at higher likelihood of needing them.",
+            "title_ko": ""
+          },
+          "papers": [
+            {
+              "pmid": "41380046",
+              "title": "Sociodemographic and Health Behaviour of Frequent, Avoidable Emergency Department Users in Ontario, Canada: A Population-based Descriptive Study.",
+              "journal": "The western journal of emergency medicine",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2025-10-21",
+              "authors": [
+                "Thompson C",
+                "Watson T",
+                "Schull MJ"
+              ],
+              "citation_count": 2,
+              "rcr": null,
+              "volume": "26",
+              "issue": "6",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/41380046/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": true,
+              "hot_score": 20.7,
+              "field": "emergency",
+              "field_label": "응급의학",
+              "abstract": "INTRODUCTION: Frequent users are a small but important group of patients in the emergency department (ED). This group is often the target of interventions that redirect visits to other areas of the healthcare system under the premise that some of these visits could be best managed elsewhere. Most existing interventions do not consider sociodemographic factors when targeting specific populations, while larger scale policy initiatives often do not reach those who would most benefit from alternative points of healthcare access. In this study we use population-level survey data linked to health administrative data to describe frequent ED users and those whose visits are potentially avoidable and could benefit from additional points of healthcare access. METHODS: This was a population-based cohort study of responses from 18-74 year-old Ontario residents to the Canadian Community Health Survey from 2001-2014, which we linked to administrative health data for one-year following survey completion. We categorized participants according to the frequency of their ED use in the year following survey date and whether any of their visits were potentially avoidable. Associations between category of ED use and various sociodemographic, health, and behavioural factors were examined with multinomial logistic regression. RESULTS: A total of 181,369 eligible respondents were included in this study. Of these, 1,460 (0.8%) were frequent users (four or more visits) with one or more potentially avoidable visits in the year following survey date. Compared to non-ED users, frequent users with avoidable visits were associated with the lowest quintile of household income (aOR: 1.91, 95% CI: 1.37, 2.65), rural-dwelling (aOR: 1.44, 95% CI: 1.18, 1.77), and the highest quintile of material resource deprived neighbourhoods (aOR: 2.23, 95% CI: 1.47, 3.36). They were more likely to have poor self-reported physical (17.2% vs 9.0%) and mental health (4.1% vs 2.7%) compared to total cohort, and more likely to have comorbidities (63.3% vs 48.7%), but less likely to access a usual provider of care for their healthcare needs (33.3% vs 28.2% without a usual provider of care). CONCLUSION: This study provides a novel description of frequent ED users for whom some of their visits were potentially avoidable. As efforts are made to redesign access to primary and community care, and with increasing emphasis on virtual care and other initiatives to reduce avoidable ED use, the healthcare system should ensure that these interventions are responsive to the needs of the people at higher likelihood of needing them.",
+              "title_ko": ""
+            },
+            {
+              "pmid": "41380043",
+              "title": "The State of Simulation in Emergency Medicine Residency Programs in the United States.",
+              "journal": "The western journal of emergency medicine",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2025-10-21",
+              "authors": [
+                "Miller BD",
+                "Khoury C",
+                "Raper J"
+              ],
+              "citation_count": 2,
+              "rcr": null,
+              "volume": "26",
+              "issue": "6",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/41380043/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": true,
+              "hot_score": 20.7,
+              "field": "emergency",
+              "field_label": "응급의학",
+              "abstract": "INTRODUCTION: Using simulation-based medical education has proven to be an effective instructional strategy both procedurally and clinically. Emergency medicine (EM) residency programs use simulation in a variety of ways and settings. Given the ongoing development of the field and the recent expansion of EM training programs, our objective was to assess the current state of simulation use in Accreditation Council for Graduate Medical Education (ACGME)-approved EM residency programs in the United States. METHODS: We performed this cross-sectional national survey from July-September 2022. The survey was sent to the residency program directors of all 277 ACGME-accredited EM residency programs in the US. The survey focused on simulation use, technology, types of simulation (procedural vs case-based), barriers to growth, and overall sentiments regarding simulation in EM. RESULTS: We attempted to contact 277 programs, successfully reaching 244. We received a total of 100 responses (36%). Nearly all responding programs reported access to a dedicated sim center (95.8%), with available high-fidelity manikin simulators (93%) and task trainers (90%). Most programs engage in simulation didactics monthly (50%), followed by more than monthly (22%) and quarterly (19%). Barriers to simulation implementation included funding, simulation lab availability, and equipment. Programs frequently used simulation to perform the majority of rare but required procedures, and about half of the programs responding reported simulation fellowship-trained faculty on staff. CONCLUSION: Simulation education is an important aspect of EM residency and training. Most residency programs reported dedication and resources to developing and integrating simulation into their curriculum. There is likely room for its further use in residency program training in the coming years as residency programs continue to expand.",
+              "title_ko": ""
+            },
+            {
+              "pmid": "41380079",
+              "title": "Pediatric Upper Extremity Firearm-related Injuries: A Level I Pediatric Trauma Center Experience.",
+              "journal": "The western journal of emergency medicine",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2025-10-09",
+              "authors": [
+                "Braswell AC",
+                "Soto E",
+                "Bloom AD"
+              ],
+              "citation_count": 0,
+              "rcr": null,
+              "volume": "26",
+              "issue": "6",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/41380079/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": true,
+              "hot_score": 10.0,
+              "field": "emergency",
+              "field_label": "응급의학",
+              "abstract": "INTRODUCTION: Firearm injuries have become increasingly more common in the pediatric population; however, there is a paucity of literature examining the management of these pediatric firearm-related injuries (FRI) specifically as they affect the upper extremity. This study identifies demographic and environmental risk factors in pediatric upper extremity FRIs and evaluates the severity of injury, concomitant injuries, and rates of surgical intervention in pediatric patients treated at a Level I pediatric trauma center over 20 years. METHODS: We completed a retrospective analysis on 540 patients <18 years of age with FRIs at a single institution from 2001 - 2020. Of these, 72 (13%) had FRIs involving the upper extremity. The patients were stratified into groups based on whether they had received operative intervention or a bedside procedure for their injury and on their year of presentation between two decades (2001 - 2010 vs. 2011 - 2020). We obtained upper extremity injury-specific variables along with hospital demographics. The primary outcomes in this study included hospital length of stay, number of bullet wounds, motor and sensory deficits, and amputation. RESULTS: In the last 10 years, the rate of upper extremity FRIs observed in the pediatric population has increased by 380% at our institution (15 vs. 57, P < .001). After 2010, cases were more likely to present with an increased number of gunshot wounds per patient (1.14 vs. 1.98, 95% confidence interval [CI] -0.94 - 0.24, P = .03) but were less likely to require admission to the intensive care unit (19% vs. 67%, P < .001). When stratifying by intervention, both the operative intervention and bedside procedure groups had a similar number of gunshot wounds (1.86 vs 1.76, 95% CI -0.52 - 0.43, P = .86). The operative intervention group was more likely to have had a soft tissue injury (68% vs. 35%, P = .005) and motor deficit at follow-up (45% vs.15%, P =.02). Patients in the operative intervention group had longer lengths of stay (9.66 vs. 2.25 days, 95% CI -1.16 - -0.21, P < .01) and more morbid injuries despite similar patient demographics. CONCLUSION: In the last decade, an increased frequency of pediatric upper extremity firearm-related injuries was noted despite a stagnant state population. Emphasis should continue to be placed on education and improving firearm safety in settings in which children are present.",
+              "title_ko": ""
+            },
+            {
+              "pmid": "41380074",
+              "title": "Demographic and Clinical Characteristics of Pediculosis-associated Severe Anemia in the Emergency Department.",
+              "journal": "The western journal of emergency medicine",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2025-10-21",
+              "authors": [
+                "Plowe W",
+                "Colling R",
+                "Mohan S"
+              ],
+              "citation_count": 0,
+              "rcr": null,
+              "volume": "26",
+              "issue": "6",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/41380074/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": true,
+              "hot_score": 10.0,
+              "field": "emergency",
+              "field_label": "응급의학",
+              "abstract": "INTRODUCTION: Infestation with Pediculus species, or common lice, is frequently diagnosed in the emergency department (ED). Because lice ingest human blood, prolonged and heavy infestation can plausibly lead to iron deficiency anemia. Severe anemia attributable to lice infestation has infrequently been reported to date. Our objective in this study was to retrospectively review cases of lice-related anemia at a single public hospital to identify risk factors and associated demographic and clinical features of this disease process. METHODS: We screened the medical records for patients presenting to the ED of an urban public hospital between 2016-2024 for the diagnoses of lice infestation and severe anemia (hemoglobin < 7 grams per deciliter (g/dL). Cases were reviewed for clinical and demographic characteristics. RESULTS: A total of 932 patients were diagnosed with pediculosis infestation in the ED during the study period; 332 (35.6%) of those patients had a complete blood count obtained by the treating team. Thirty-seven cases of severe anemia were identified (3.9% of total pediculosis cases, 11.1% of those for whom a complete blood count was obtained); 84% were microcytic, indicating iron deficiency anemia. Twenty-five patients (68%) were undomiciled, and nine patients (24%) were shelter domiciled. Twenty-three patients (62%) had comorbid psychiatric diagnoses, and 21 (51%) had substance use disorders. The median hemoglobin was 4.4 g/dL (range 2.4-6.9 g/dL). Thirty patients (81%) were admitted to a medical floor and seven patients (19%) to an intensive care unit, each with a comorbid primary condition. CONCLUSION: In this cohort, anemia secondary to lice infestation was seen in patients with unstable housing, substance use disorders, and psychiatric disease. Most patients were hemodynamically stable, consistent with the proposed mechanism of chronic blood loss. The prevalence of this condition may be higher than previously noted among this vulnerable population. Emergency physicians should be aware of this rare but potentially serious disease process.",
+              "title_ko": ""
+            },
+            {
+              "pmid": "41380065",
+              "title": "Emergency Medicine Residents' Performance with National Institutes of Health Stroke Scale and Its Impact on Key Stroke-care Metrics.",
+              "journal": "The western journal of emergency medicine",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2025-10-21",
+              "authors": [
+                "Roces M",
+                "Alacala-Arcos T",
+                "Addo N"
+              ],
+              "citation_count": 0,
+              "rcr": null,
+              "volume": "26",
+              "issue": "6",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/41380065/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": true,
+              "hot_score": 10.0,
+              "field": "emergency",
+              "field_label": "응급의학",
+              "abstract": "BACKGROUND: Emergency medicine (EM) physicians commonly use the National Institutes of Health Stroke Scale (NIHSS) to assess acute ischemic strokes in community settings. However, this assessment is often led by neurology residents in academic teaching hospitals. We implemented a quality improvement intervention to improve EM resident comfort with the NIHSS and to assess if EM resident-led NIHSS evaluation prolonged key stroke metrics, such as door-to-CT (DTCT), door-to-needle (DTN), or door-to-groin puncture (DTGP) times, which may affect stroke outcomes. METHODS: This prospective observational comparison analyzed all patients with acute ischemic strokes at the Zuckerberg San Francisco General Hospital, a Level I trauma center from April 2021-October 2022. We implemented the intervention from April 2022 -October 2022 which included NIHSS certification for all residents and attendings. Both EM and neurology residents recorded NIHSS scores separately for each patient and scores were revealed to each resident during patient care once completed. We then compared stroke metrics between pre- and post-intervention periods. RESULTS: There were 247 and 122 strokes included in our analysis, pre- and post-intervention, respectively. Overall, 58% (n=213) of all patients were female, 33% were Asian (n=123), and Cantonese was the second most common language after English (15%, n=54). Mean overall NIHSS scores were similar between EM and neurology residents, 6.6 (IQR = 2, 10) and 6.7 (IQR = 1, 10), (p < 0.001), respectively, with substantial agreement between groups (84.4%, κ = 0.63). Median DTCT times were 25 and 28 minutes (p=0.2), DTN times were 38 and 35 minutes (p=0.7), and DTGP times were 94 and 110 minutes (p=0.1) for pre- and post-intervention groups, respectively. CONCLUSION: The NIHSS is one element of stroke evaluation and management that can impact stroke metrics. Our intervention found that EM resident-led NIHSS assessment did not prolong DTCT, DTN, and DTGP times and met nationally established goals.",
+              "title_ko": ""
+            },
+            {
+              "pmid": "41380058",
+              "title": "Prevalence and Impact of Violence Against Healthcare Workers in Brazilian Emergency Departments: A National Survey.",
+              "journal": "The western journal of emergency medicine",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2025-10-17",
+              "authors": [
+                "Dorn de Carvalho JM",
+                "McGuire SS",
+                "Oliveira LLR"
+              ],
+              "citation_count": 0,
+              "rcr": null,
+              "volume": "26",
+              "issue": "6",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/41380058/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": true,
+              "hot_score": 10.0,
+              "field": "emergency",
+              "field_label": "응급의학",
+              "abstract": "INTRODUCTION: Workplace violence (WPV) is a significant occupational hazard in healthcare, with emergency departments (EDs) recognized as high-risk environments. Although globally significant, data from Latin America remain scarce. In this study we aimed to evaluate the prevalence and effects of WPV on healthcare workers in Brazilian EDs. METHODS: We conducted a cross-sectional survey of healthcare workers in Brazilian EDs. Respondents indicated verbal and physical violence experienced within the preceding six months, along with associated psychological and occupational impacts. Univariable models identified significant associated factors, followed by multivariable models to determine independent associated factors of WPV. We reported results as adjusted odds ratios (aOR) with 95% confidence intervals. Statistical analyses were performed in R v4.4.1, and significance was defined as P < .05. RESULTS: The response rate was 19.1% (1,255/6,570), Of those responses, 61.3% (769/1,255) met the inclusion criteria and were included in the analysis. Of all respondents, 84.0% were physicians. Respondents indicated 79.6% (612/769) occurrence of WPV, including verbal abuse (79.5%) and physical assault (12.1%). Physical assaults against co-workers were witnessed by 40.3% of respondents. Perpetrators included visitors (85.3%), patients (80.7%), and co-workers (35.8%). The absence of institutional preventive measures was associated with increased WPV (aOR, 2.47; 95% CI, 1.71-3.57; P < .001), while the presence of security staff reduced WPV (aOR, 0.61; 95% CI, 0.42-0.89; P = .01). Indicated impact included post-traumatic stress symptoms (88.4%), considering leaving their job (49.5%), impaired workplace performance (75.2%), and time off work (10%), including 11.5% permanently leaving. CONCLUSION: Workplace violence is highly prevalent in Brazilian EDs, with substantial psychological and occupational consequences. The absence of protocols or preventive measures may increase WPV risk, emphasizing the urgent need for public policies to protect healthcare workers in emergency settings.",
+              "title_ko": ""
+            },
+            {
+              "pmid": "42054115",
+              "title": "Gender- and Sex-equitable Submission Guidelines in Emergency Medicine Journals Are Associated with Enhanced Publication Metrics.",
+              "journal": "The western journal of emergency medicine",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2025-06-10",
+              "authors": [
+                "Manes A",
+                "Lall MD",
+                "Knight S"
+              ],
+              "citation_count": 0,
+              "rcr": null,
+              "volume": "27",
+              "issue": "2",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/42054115/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 0.0,
+              "field": "emergency",
+              "field_label": "응급의학",
+              "abstract": "INTRODUCTION: Gender and sex equity-promoting (GSEP) clinical research is essential to improving diversity and inclusivity in medicine. In this study we aimed to compare journal impact metrics in emergency medicine (EM) between journals that integrated gender- and sex-based considerations and those that did not. METHODS: We searched the 2023 Journal Citations Report (Clarivate Analytics) for EM journals. Submission guidelines of each EM journal were examined according to the SAGER (Sex and Gender Equity in Research) guidelines and stratified as conforming or non-conforming depending on whether at least one SAGER criterion was met. Our primary outcome measure was the journal impact factor. Secondary outcome measures included other citation and influence metrics: total citations; 5-year journal impact factor; journal citation indicator; article influence score, normalized Eigenfactor score; citable items; total articles; and immediacy index. RESULTS: Based on our classification system informed by the SAGER criteria, most journals (66%, 31/47) were classified as non-compliant. The EM journals that conformed to the sex and gender equity guidelines were rated higher than non-conforming journals across all studied journal metrics. We found that conforming journals had a significantly higher median difference (MD) than non-conforming EM journals in total citations (MD 1,586; GSEP: 3,599 vs non-GSEP: 901); 2023 2-year journal impact factor (MD 0.8; 2.3 vs 1.4); 5-year journal impact factor (MD 0.7; 2.5 vs 1.9); article influence score (MD 0.26; 0.76 vs 0.47); normalized Eigenfactor score (MD 0.79; 1.06 vs 0.26); citable items (MD 37; 103 vs 56), and total articles (MD 41; 87 vs 42). All differences were statistically significant (P < 0.05). CONCLUSION: Using criteria informed by the Sex and Gender Equity in Research guidelines, most EM journals (66%) were classified as non-conforming to these guidelines. This indicates a significant gap in the integration of gender- and sex-based considerations in EM research publication practices.",
               "title_ko": ""
             }
           ]
@@ -7233,7 +7410,7 @@
           "impact_factor": 1.5,
           "index_type": "미상",
           "quartile": "미상",
-          "paper_count": 41,
+          "paper_count": 42,
           "top_paper": {
             "pmid": "39872099",
             "title": "Addressing the overuse of hospital emergency departments in the Portuguese NHS: a new paradigm.",
@@ -8174,6 +8351,71 @@
           ]
         },
         {
+          "journal": "Family practice",
+          "impact_factor": 1.5,
+          "index_type": "미상",
+          "quartile": "미상",
+          "paper_count": 1,
+          "top_paper": {
+            "pmid": "41328694",
+            "title": "Why do patients seek emergency care for problems that could be managed in primary care? A scoping review.",
+            "journal": "Family practice",
+            "impact_factor": 1.5,
+            "index_type": "미상",
+            "quartile": "미상",
+            "pubdate": "2025-10-21",
+            "authors": [
+              "Chao KYA",
+              "McCombe G",
+              "Cullen W"
+            ],
+            "citation_count": 1,
+            "rcr": null,
+            "volume": "42",
+            "issue": "6",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/41328694/",
+            "altmetric_score": 0,
+            "altmetric_news": 0,
+            "altmetric_social": 0,
+            "is_current_issue": true,
+            "hot_score": 16.8,
+            "field": "emergency",
+            "field_label": "응급의학",
+            "abstract": "BACKGROUND: Emergency care systems worldwide are increasingly facing capacity challenges. A significant number of people are using emergency care, including the use of emergency departments and ambulance services, for conditions that could be managed in primary care settings, potentially creating unnecessary strains on the already heavily burdened emergency care systems, leading to overcrowding, inefficient use of healthcare resources, and inadequate access to emergency care for those in need. OBJECTIVES: This scoping review of the literature aimed to explore existing evidence considering the multifaceted factors contributing to patients' decisions to seek emergency care for conditions manageable in primary care. METHODS: A comprehensive search of \"PubMed\", \"Embase\", \"MEDLINE\", \"CINAHL\" and \"the Cochrane Library\" was conducted, including peer-reviewed articles published from Jan 1st 2004, until June 15th 2024. This review was conducted following the methodological framework presented by Arksey and O'Malley. RESULTS: A total of 44 studies conducted in 21 countries worldwide were included in the final analysis. Key data were extracted and analysed using thematic analysis, and the following themes have been identified: (1) accessibility and convenience, (2) health anxiety, (3) uncertainty and knowledge gaps in healthcare services, (4) external advice and encouragement, and (5) personal influences. CONCLUSION: Our study maps the existing international literature to inform researchers and policymakers on possible future development of efficient alternative care frameworks and pathways designed to alter emergency care utilisation behaviours, ultimately reducing unnecessary visits and ensuring efficient care is provided for true emergencies.",
+            "title_ko": ""
+          },
+          "papers": [
+            {
+              "pmid": "41328694",
+              "title": "Why do patients seek emergency care for problems that could be managed in primary care? A scoping review.",
+              "journal": "Family practice",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2025-10-21",
+              "authors": [
+                "Chao KYA",
+                "McCombe G",
+                "Cullen W"
+              ],
+              "citation_count": 1,
+              "rcr": null,
+              "volume": "42",
+              "issue": "6",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/41328694/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": true,
+              "hot_score": 16.8,
+              "field": "emergency",
+              "field_label": "응급의학",
+              "abstract": "BACKGROUND: Emergency care systems worldwide are increasingly facing capacity challenges. A significant number of people are using emergency care, including the use of emergency departments and ambulance services, for conditions that could be managed in primary care settings, potentially creating unnecessary strains on the already heavily burdened emergency care systems, leading to overcrowding, inefficient use of healthcare resources, and inadequate access to emergency care for those in need. OBJECTIVES: This scoping review of the literature aimed to explore existing evidence considering the multifaceted factors contributing to patients' decisions to seek emergency care for conditions manageable in primary care. METHODS: A comprehensive search of \"PubMed\", \"Embase\", \"MEDLINE\", \"CINAHL\" and \"the Cochrane Library\" was conducted, including peer-reviewed articles published from Jan 1st 2004, until June 15th 2024. This review was conducted following the methodological framework presented by Arksey and O'Malley. RESULTS: A total of 44 studies conducted in 21 countries worldwide were included in the final analysis. Key data were extracted and analysed using thematic analysis, and the following themes have been identified: (1) accessibility and convenience, (2) health anxiety, (3) uncertainty and knowledge gaps in healthcare services, (4) external advice and encouragement, and (5) personal influences. CONCLUSION: Our study maps the existing international literature to inform researchers and policymakers on possible future development of efficient alternative care frameworks and pathways designed to alter emergency care utilisation behaviours, ultimately reducing unnecessary visits and ensuring efficient care is provided for true emergencies.",
+              "title_ko": ""
+            }
+          ]
+        },
+        {
           "journal": "Hospital pediatrics",
           "impact_factor": 1.5,
           "index_type": "미상",
@@ -9022,7 +9264,7 @@
           "impact_factor": 1.5,
           "index_type": "미상",
           "quartile": "미상",
-          "paper_count": 10,
+          "paper_count": 11,
           "top_paper": {
             "pmid": "41362590",
             "title": "Cognitive Burden in Emergency Care: A Qualitative Exploratory Study of Emergency Nurses.",
@@ -9192,6 +9434,34 @@
               "title_ko": ""
             },
             {
+              "pmid": "42897819",
+              "title": "Experiences and Coping Strategies of Emergency Department Nurses Regarding Unethical Pro-Organizational Behavior: A Descriptive Qualitative Study.",
+              "journal": "Journal of nursing management",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2026-01-01",
+              "authors": [
+                "Qiao J",
+                "Ma J",
+                "Feng H"
+              ],
+              "citation_count": 0,
+              "rcr": null,
+              "volume": "2026",
+              "issue": "1",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/42897819/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": true,
+              "hot_score": 10.0,
+              "field": "emergency",
+              "field_label": "응급의학",
+              "abstract": "BACKGROUND: Emergency nurses' unethical pro-organizational behaviors (UPBs) exert detrimental effects on individual well-being, professional performance, and clinical workplace atmosphere; nevertheless, qualitative evidence systematically exploring the underlying mechanisms and coping strategies of such behaviors in the Chinese nursing context remains scarce. AIM: This study aimed to qualitatively explore the sources, perceived impacts, and coping strategies of UPBs among emergency department nurses in China. DESIGN: Descriptive qualitative study. METHODS: This study was conducted in the emergency department nurses of five hospitals in China between February and March 2026. A total of 21 registered nurses aged ≥ 18 years who were currently in practice were recruited using purposive sampling. Data were collected using semistructured interviews until thematic saturation was achieved. Data analysis was performed using qualitative content analysis. RESULTS: Three main themes emerged-sources, impacts, and coping-highlighting that UPBs arose from high-pressure environments and distorted loyalty, led to moral distress and normalization, and was managed with adaptive and self-rationalizing strategies. CONCLUSIONS: UPBs among emergency nurses constitute a vicious cycle fueled by workplace stressors, implicit cues, and coping strategies, which profoundly affects individual well-being and organizational ethics. These findings suggest that source-oriented humanistic interventions, including environmental optimization, ethical support, competence enhancement, and cultural reshaping, are essential for practice. IMPLICATIONS FOR NURSING MANAGEMENT: Nursing managers should target systemic and cultural drivers of UPBs, clarify ambiguous expectations, establish ethical support (e.g., confidential reporting and debriefings), model integrity-based leadership, and decouple loyalty from unethical compliance. These actions are designed to alleviate ethical distress, reduce rule-bending, and break the vicious cycle in emergency settings. REPORTING METHOD: This study was reported in accordance with the Consolidated Criteria for Reporting Qualitative Research guidelines. PATIENT OR PUBLIC CONTRIBUTION: No patient or public contributions.",
+              "title_ko": ""
+            },
+            {
               "pmid": "42808345",
               "title": "\"Stay Calm and Pick Up Signs to Understand the Cause\": Registered Nurses Use Multiple Strategies for Handling Difficult Emergency Calls.",
               "journal": "Journal of nursing management",
@@ -9245,34 +9515,6 @@
               "field": "emergency",
               "field_label": "응급의학",
               "abstract": "INTRODUCTION: Nurses' clinical professional autonomy is strongly influenced by organizational management and leadership environments. This study aims to examine the relationship between head nurses' leadership styles and the level of clinical autonomy perceived by emergency department (ED) nurses in Iranian university hospitals. METHODS: This cross-sectional study recruited 221 ED nurses from Alborz province (Iran) university hospitals through convenience sampling from February to March 2022. Data were collected using a three-section questionnaire that covered demographic and work-related characteristics, the Multifactor Leadership Questionnaire (MLQ), and the Clinical Professional Autonomy Scale. Following psychometric validation in our sample, the MLQ consisted of 32 items assessing transformational, transactional, and laissez-faire leadership (Cronbach's α = 0.71-0.95). Clinical professional autonomy was measured with the 31-item Clinical Professional Autonomy Scale (α > 0.70), with total scores classified as low, moderate, or high. RESULTS: The mean (SD) of clinical professional autonomy (0-100 scale) was 78.68 (12.73). Transformational leadership was reported as the dominant style among head nurses (72.41 ± 18.58). The results showed the strongest correlation between transformational leadership style and clinical professional autonomy (r = 0.57). Furthermore, the multivariable linear regression analysis showed that clinical professional autonomy was significantly associated with job satisfaction (β = 0.17, p=0.026) and nurses' years of work experience (β = 0.23, p=0.002). CONCLUSION: This study highlights that head nurses' transformational leadership style significantly enhances nurses' clinical professional autonomy. The findings underscore the need for targeted leadership development programs to strengthen head nurses' transformational leadership competencies. By fostering a supportive leadership environment, clinical professional nursing autonomy can be promoted, contributing to improved patient care quality and overall organizational performance.",
-              "title_ko": ""
-            },
-            {
-              "pmid": "41340641",
-              "title": "The Knowledge, Attitude, and Practice of Nurses Regarding Trauma-Informed Care for Traumatic Injured Patients: A Multicenter Cross-Sectional Study.",
-              "journal": "Journal of nursing management",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2025-11-25",
-              "authors": [
-                "He L",
-                "Luo Y",
-                "Chen J"
-              ],
-              "citation_count": 1,
-              "rcr": null,
-              "volume": "2025",
-              "issue": "",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/41340641/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": false,
-              "hot_score": 6.8,
-              "field": "emergency",
-              "field_label": "응급의학",
-              "abstract": "BACKGROUND: Traumatic injured patients frequently present with both acute physical injuries and the exacerbation of preexisting trauma events, substantially compromising their mental health and quality of life. Trauma-informed care is a supportive intervention approach that requires understanding of trauma experiences encountered by patients. Nurses must follow the principles of trauma-informed care during interactions with patients to improve clinical outcomes. However, the current status of knowledge, attitude, and practice regarding trauma-informed care among nurses in trauma centers has not been fully investigated. OBJECTIVE: To investigate the current status of knowledge, attitude, and practice regarding trauma-informed care among nurses caring for traumatic injured patients in trauma center-certified hospitals and to identify potential influencing factors. DESIGN: Cross-sectional survey. SETTINGS AND PARTICIPANTS: Nurses from 11 trauma center-certified hospitals in Sichuan Province, China. METHOD: The assessment was conducted using standardized instruments, including a demographic survey, a trauma-informed care knowledge, attitude, and practice (TIC-KAP) questionnaire, Interpersonal Reactivity Index-Chinese version (IRI-C), and Organizational Climate Scale for Nursing (OCSN). Univariate analysis and subsequent multiple linear regression analysis were used to explore associations between TIC-KAP and other factors. RESULTS: A total of 304 individuals participated in the survey, with 267 valid responses. Multiple linear regression analysis identified several significant predictors of TIC-KAP scores: work in emergency department, prior knowledge of trauma-informed care, psychological trauma nursing training experience, dedicated psychological nursing positions, IRI-C scores, and OCSN scores. CONCLUSION: Although the participating nurses demonstrated favorable scores in trauma-informed care attitude and practice, significant gaps persist in knowledge domains, with emergency nurses exhibiting particularly notable deficiencies. The implementation of trauma-informed care could be promoted through several strategic interventions: engagement in trauma-informed care or psychological nursing training programs, establishment of dedicated psychological nursing positions, and improvement of both empathy level among nurses and organizational climate.",
               "title_ko": ""
             }
           ]
@@ -9779,192 +10021,6 @@
               "title_ko": ""
             }
           ]
-        },
-        {
-          "journal": "Brazilian dental journal",
-          "impact_factor": 1.5,
-          "index_type": "미상",
-          "quartile": "미상",
-          "paper_count": 1,
-          "top_paper": {
-            "pmid": "41370468",
-            "title": "Comparison of Blue®m and chlorhexidine mouthwash on oral health of intubated patients in intensive care unit.",
-            "journal": "Brazilian dental journal",
-            "impact_factor": 1.5,
-            "index_type": "미상",
-            "quartile": "미상",
-            "pubdate": "2025-12-08",
-            "authors": [
-              "Teixeira TC",
-              "Ribeiro RAG",
-              "Mascella V"
-            ],
-            "citation_count": 3,
-            "rcr": null,
-            "volume": "36",
-            "issue": "",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/41370468/",
-            "altmetric_score": 0,
-            "altmetric_news": 0,
-            "altmetric_social": 0,
-            "is_current_issue": false,
-            "hot_score": 13.5,
-            "field": "emergency",
-            "field_label": "응급의학",
-            "abstract": "This research aims to evaluate whether blue®m mouthwash can be used as a suitable alternative to chlorhexidine mouthwash for improving the oral health of intubated patients in ICUs. This is a randomized clinical study. The sample comprised 50 mechanically ventilated adults randomly allocated in a block of 10 to the 0.12% chlorhexidine digluconate (CHX) and the blue®m group. The patients' oral and tracheal secretions were collected in four different periods: T1 - 24h after intubation (without sanitation); T2 - 24h after intubation (with sanitation); T3 - 48h after intubation (without sanitation); T4 - 48h after intubation (with sanitation). Bacterial and fungal identification was performed. The presence of bacteria was graded as abundant, moderate, and scarce. Descriptive and inferential statistics were performed. Fifty patients with a mean age of 62.7 ± 13.3 years (20 to 86 years) were treated, 24 in the CHX group and 26 in the blue®m group. The most frequent pathogens in the patient's oral environment were Acinetobacter baumanii, Pseudomonas aeruginosa, and Klebsiella pneumonia. Analysis of the effectiveness of both antiseptics indicated statistically significant differences in the median values of the microbial population between collection periods in the CHX (χ2=13.2, p=0.004) and blue®m (χ2=9.49, p=0.023) group. No significant statistical difference in microbial population was found between the groups (T1- p=0.375; T2 - p=0.955; T3 - p=0.765; T4 - p=0.898). Blue®m mouthwash effectively reduces the oral microbial population and does not differ from chlorhexidine in terms of reduction. Blue®m mouthwash can be used as an alternative to chlorhexidine for mechanical ventilator patients in the ICU.",
-            "title_ko": ""
-          },
-          "papers": [
-            {
-              "pmid": "41370468",
-              "title": "Comparison of Blue®m and chlorhexidine mouthwash on oral health of intubated patients in intensive care unit.",
-              "journal": "Brazilian dental journal",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2025-12-08",
-              "authors": [
-                "Teixeira TC",
-                "Ribeiro RAG",
-                "Mascella V"
-              ],
-              "citation_count": 3,
-              "rcr": null,
-              "volume": "36",
-              "issue": "",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/41370468/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": false,
-              "hot_score": 13.5,
-              "field": "emergency",
-              "field_label": "응급의학",
-              "abstract": "This research aims to evaluate whether blue®m mouthwash can be used as a suitable alternative to chlorhexidine mouthwash for improving the oral health of intubated patients in ICUs. This is a randomized clinical study. The sample comprised 50 mechanically ventilated adults randomly allocated in a block of 10 to the 0.12% chlorhexidine digluconate (CHX) and the blue®m group. The patients' oral and tracheal secretions were collected in four different periods: T1 - 24h after intubation (without sanitation); T2 - 24h after intubation (with sanitation); T3 - 48h after intubation (without sanitation); T4 - 48h after intubation (with sanitation). Bacterial and fungal identification was performed. The presence of bacteria was graded as abundant, moderate, and scarce. Descriptive and inferential statistics were performed. Fifty patients with a mean age of 62.7 ± 13.3 years (20 to 86 years) were treated, 24 in the CHX group and 26 in the blue®m group. The most frequent pathogens in the patient's oral environment were Acinetobacter baumanii, Pseudomonas aeruginosa, and Klebsiella pneumonia. Analysis of the effectiveness of both antiseptics indicated statistically significant differences in the median values of the microbial population between collection periods in the CHX (χ2=13.2, p=0.004) and blue®m (χ2=9.49, p=0.023) group. No significant statistical difference in microbial population was found between the groups (T1- p=0.375; T2 - p=0.955; T3 - p=0.765; T4 - p=0.898). Blue®m mouthwash effectively reduces the oral microbial population and does not differ from chlorhexidine in terms of reduction. Blue®m mouthwash can be used as an alternative to chlorhexidine for mechanical ventilator patients in the ICU.",
-              "title_ko": ""
-            }
-          ]
-        },
-        {
-          "journal": "Annals of global health",
-          "impact_factor": 1.5,
-          "index_type": "미상",
-          "quartile": "미상",
-          "paper_count": 3,
-          "top_paper": {
-            "pmid": "39758809",
-            "title": "Geospatial Access to Emergency Obstetric Surgery in Indonesia: Is Travel Time for Access Too Long?",
-            "journal": "Annals of global health",
-            "impact_factor": 1.5,
-            "index_type": "미상",
-            "quartile": "미상",
-            "pubdate": "2024-12-28",
-            "authors": [
-              "Tjokroprawiro BA",
-              "Sulistya HA",
-              "Muharram FR"
-            ],
-            "citation_count": 2,
-            "rcr": 0.9063312142050972,
-            "volume": "90",
-            "issue": "1",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/39758809/",
-            "altmetric_score": 0,
-            "altmetric_news": 0,
-            "altmetric_social": 0,
-            "is_current_issue": false,
-            "hot_score": 10.7,
-            "field": "emergency",
-            "field_label": "응급의학",
-            "abstract": "Background: Ensuring timely access to safe and affordable surgery within a travel time of a 2‑h drive or 30‑min walk is crucial for achieving universal health coverage, as endorsed by the Lancet Commission on Global Surgery (LCoGS). In this study, we aimed to quantify the percentage of Indonesian women of reproductive age (WRA) who can access a hospital with emergency obstetric and gynecological services within this time frame. In addition, we aimed to identify the underserved populations. Methods: We identified hospitals across 38 provinces using the database from the Indonesian Society of Obstetricians and Gynecologists (ISOG) and the Indonesian Ministry of Health database that provide emergency obstetric services. We conducted geospatial analysis using the cost of distance and service area tools in ArcGIS Pro with WRA population data derived from Facebook's high‑resolution settlement layer (HRSL) maps. Results: Of the 3,202 recorded hospitals, 2,855 (89.2%) had an obstetric gynecologist (OBGYN). The workforce of 5,305 OBGYNs consisted of 4,857 (91.6%) actively practicing OBGYNs, of which 3,405 (64.2%) practice in hospitals only. Of the WRA population, 94.5% lived within 2 h of a facility. However, eight provinces had low timely access to these hospitals. Conclusion: Indonesia provides universal health coverage; however, stark disparities exist in the geographic access to emergency obstetric surgical care in certain provinces. Geospatial mapping and survey data work together to aid in assessing the strength of the surgical system and in identifying gaps in geographic access to timely surgery.",
-            "title_ko": ""
-          },
-          "papers": [
-            {
-              "pmid": "39758809",
-              "title": "Geospatial Access to Emergency Obstetric Surgery in Indonesia: Is Travel Time for Access Too Long?",
-              "journal": "Annals of global health",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2024-12-28",
-              "authors": [
-                "Tjokroprawiro BA",
-                "Sulistya HA",
-                "Muharram FR"
-              ],
-              "citation_count": 2,
-              "rcr": 0.9063312142050972,
-              "volume": "90",
-              "issue": "1",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/39758809/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": false,
-              "hot_score": 10.7,
-              "field": "emergency",
-              "field_label": "응급의학",
-              "abstract": "Background: Ensuring timely access to safe and affordable surgery within a travel time of a 2‑h drive or 30‑min walk is crucial for achieving universal health coverage, as endorsed by the Lancet Commission on Global Surgery (LCoGS). In this study, we aimed to quantify the percentage of Indonesian women of reproductive age (WRA) who can access a hospital with emergency obstetric and gynecological services within this time frame. In addition, we aimed to identify the underserved populations. Methods: We identified hospitals across 38 provinces using the database from the Indonesian Society of Obstetricians and Gynecologists (ISOG) and the Indonesian Ministry of Health database that provide emergency obstetric services. We conducted geospatial analysis using the cost of distance and service area tools in ArcGIS Pro with WRA population data derived from Facebook's high‑resolution settlement layer (HRSL) maps. Results: Of the 3,202 recorded hospitals, 2,855 (89.2%) had an obstetric gynecologist (OBGYN). The workforce of 5,305 OBGYNs consisted of 4,857 (91.6%) actively practicing OBGYNs, of which 3,405 (64.2%) practice in hospitals only. Of the WRA population, 94.5% lived within 2 h of a facility. However, eight provinces had low timely access to these hospitals. Conclusion: Indonesia provides universal health coverage; however, stark disparities exist in the geographic access to emergency obstetric surgical care in certain provinces. Geospatial mapping and survey data work together to aid in assessing the strength of the surgical system and in identifying gaps in geographic access to timely surgery.",
-              "title_ko": ""
-            },
-            {
-              "pmid": "42890835",
-              "title": "Mixed Training Team Implementation of the Basic Emergency Care Course in Liberia.",
-              "journal": "Annals of global health",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2026-10-16",
-              "authors": [
-                "Michaeli N",
-                "Ekwen G",
-                "Main K"
-              ],
-              "citation_count": 0,
-              "rcr": null,
-              "volume": "92",
-              "issue": "1",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/42890835/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": true,
-              "hot_score": 10.0,
-              "field": "emergency",
-              "field_label": "응급의학",
-              "abstract": "Background: The Basic Emergency Care (BEC) course was developed to improve the management of acute illness and injury in resource-limited settings. Although BEC materials are freely available, formal instructor credentialing requires time and resources that may limit rapid implementation. In remote areas, such as Maryland County, Liberia, innovative approaches to BEC training are needed. Objective: To evaluate the effectiveness of a BEC course delivered by a mixed instructor team consisting of credentialed and non-credentialed facilitators in improving emergency care knowledge and self-efficacy among healthcare providers in Liberia. Methods: We conducted a mixed-methods evaluation of two consecutive five-day BEC courses held in Maryland County, Liberia, in August 2022. Course participants included physicians, medical interns, physician assistants, and nurses. The instructional team included one credentialed BEC Registered Facilitator and four non-credentialed physician specialists. To promote course fidelity, instructors completed an independent review of course materials, participated in a two-day pre-course preparation workshop, and conducted daily planning and debriefing sessions throughout the training. The effectiveness of this model was evaluated by measuring improvements in participants' emergency care knowledge and confidence using pre- and post-course examinations and self-efficacy surveys. Findings: Participants demonstrated significant improvements in emergency care knowledge, with examination scores increasing from 64.0% pre-course to 86.6% post-course (P < 0.001). Self-efficacy surveys also showed substantial gains in participants' comfort, confidence, and preparedness to manage critically ill and injured patients. Structured instructor preparation and ongoing coordination supported consistent course delivery despite the mixed facilitator model. Conclusions: A BEC course delivered by a mixed team of credentialed and non-credentialed instructors significantly improved emergency care knowledge and self-efficacy among Liberian healthcare providers. This pragmatic, resource-conscious approach may offer a scalable strategy for expanding access to BEC training in remote settings while maintaining course quality and educational effectiveness.",
-              "title_ko": ""
-            },
-            {
-              "pmid": "39659483",
-              "title": "Piloting of a Screen‑Triage‑Treat Surgical Approach Model for Management of Anal Cancer in Liberia.",
-              "journal": "Annals of global health",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2024-12-04",
-              "authors": [
-                "Reynolds CW",
-                "Lieb W",
-                "Schecter A"
-              ],
-              "citation_count": 1,
-              "rcr": 0.17921077871241822,
-              "volume": "90",
-              "issue": "1",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/39659483/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": false,
-              "hot_score": 6.8,
-              "field": "emergency",
-              "field_label": "응급의학",
-              "abstract": "Background: While cancer is a leading cause of death worldwide, significant disparities exist in care access in low‑ and middle‑income countries (LMICs). In Liberia, screening and treatment for anal cancers remain limited, and are exacerbated among vulnerable groups, including men who have sex with men (MSM). Screen‑triage‑treat models for cancerous lesions have been successful in reducing cervical cancer mortality, but the feasibility of this approach has not been studied for anal cancers in a low‑resource context. Objective: The aim of this study is to determine the feasibility of implementing a screen‑triage‑treat model for anal high‑grade squamous intraepithelial lesions (aHSIL) among MSM in Liberia. Methods: This descriptive study represented a collaboration between Stop AIDS in Liberia (SAIL) and health institutions in Liberia and the USA. MSM and transgender participants were recruited through convenience sampling with SAIL peer‑educators. A survey validated by SAIL experts assessed demographics and sexual risk factors. Participants underwent anal self‑swabbing for high‑risk human papillomavirus (HPV) and offered human immunodeficiency virus (HIV) testing. Those with positive results were offered a screen‑triage‑treat model through high‑resolution anoscopy (HRA) and infrared coagulation (IRC). Data were cleaned and analyzed in SPSS. Findings: Among 110 participants, most were single (n = 94, 88%) and without formal employment (n = 21, 75%). Participants engaged in regular anal (n = 64, 60%), oral (n = 62, 58%), and receptive sex (n = 58, 54%), and sex with women (n = 51, 48%). Nearly 20% of participants reported being HIV positive (n = 21). In all, 50 participants (45%) tested positive for anal high‑risk HPV, 34 (68%) elected to undergo HRA, and 10 (84%) were treated with IRC. Of those who underwent HRA, 75% tested HIV positive. Conclusions: Our findings suggest that a screen‑triage‑treat model presents a feasible option to identify and reduce the incidence of anal cancer among MSM in Liberia. The screen‑triage‑treat model, with proven success in management of cervical dysplasia, may be a viable option to treat aHSIL for anal cancer prevention in LMICs.",
-              "title_ko": ""
-            }
-          ]
         }
       ],
       "hot_topics": [
@@ -10031,6 +10087,16 @@
           ]
         },
         {
+          "phrase": "trauma center",
+          "score": 43.6,
+          "paper_count": 3,
+          "pmids": [
+            "41380079",
+            "39668536",
+            "39648775"
+          ]
+        },
+        {
           "phrase": "machine learning",
           "score": 41.0,
           "paper_count": 5,
@@ -10040,15 +10106,6 @@
             "41668730",
             "41726397",
             "40417519"
-          ]
-        },
-        {
-          "phrase": "intensive unit",
-          "score": 39.2,
-          "paper_count": 2,
-          "pmids": [
-            "39787549",
-            "41370468"
           ]
         },
         {
@@ -10070,21 +10127,21 @@
           ]
         },
         {
-          "phrase": "trauma center",
-          "score": 33.6,
-          "paper_count": 2,
-          "pmids": [
-            "39668536",
-            "39648775"
-          ]
-        },
-        {
           "phrase": "covid- triage",
           "score": 30.3,
           "paper_count": 2,
           "pmids": [
             "39689150",
             "40561321"
+          ]
+        },
+        {
+          "phrase": "critically ill",
+          "score": 28.2,
+          "paper_count": 2,
+          "pmids": [
+            "39671440",
+            "39699429"
           ]
         }
       ],
@@ -10102,7 +10159,7 @@
               0.0,
               91.5,
               57.9,
-              20.0
+              30.0
             ]
           },
           {
@@ -10115,21 +10172,21 @@
             ]
           },
           {
-            "phrase": "cardiac arrest",
-            "scores": [
-              0.0,
-              37.5,
-              34.3,
-              10.0
-            ]
-          },
-          {
             "phrase": "intensive unit",
             "scores": [
               0.0,
               36.4,
               23.5,
               20.0
+            ]
+          },
+          {
+            "phrase": "cardiac arrest",
+            "scores": [
+              0.0,
+              37.5,
+              27.5,
+              10.0
             ]
           },
           {
