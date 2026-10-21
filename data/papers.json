@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-20T20:33:31.780025Z",
+  "generated_at": "2026-10-21T20:33:44.246381Z",
   "window_days": 1095,
   "fields": [
     {
       "key": "preventive",
       "label": "예방의학",
-      "paper_count": 448,
+      "paper_count": 449,
       "journals": [
         {
           "journal": "The Orthopedic clinics of North America",
@@ -462,7 +462,7 @@
           "impact_factor": 1.5,
           "index_type": "미상",
           "quartile": "미상",
-          "paper_count": 93,
+          "paper_count": 94,
           "top_paper": {
             "pmid": "39949340",
             "title": "Analysis of factors influencing HPV vaccination intention among Chinese college students: structural equation modeling based on health belief theory.",
@@ -2021,7 +2021,7 @@
           "impact_factor": 1.5,
           "index_type": "미상",
           "quartile": "미상",
-          "paper_count": 1,
+          "paper_count": 2,
           "top_paper": {
             "pmid": "39798110",
             "title": "Effectiveness of visual pedagogy in improving toothbrushing skills, oral hygiene and gingival health among children with autism- A randomised controlled trial.",
@@ -2078,6 +2078,34 @@
               "field_label": "예방의학",
               "abstract": "BACKGROUND: Autism is a neurodevelopmental disability that diminishes social interactions and communication. Maintaining good oral hygiene in them is a significant task. OBJECTIVES: The objective of this study was to evaluate the effectiveness of a toothbrushing visual pedagogy (TBVP) in improving brushing skills, oral hygiene, and gingival status among children with autism. MATERIALS AND METHODS: This cluster randomized controlled trial was conducted among 200 children with autism, aged 6-17 years. TBVP and conventional oral hygiene instructions were administered as an intervention in the test group (TBVP). The control group (oral health education [OHE]) received conventional oral hygiene instructions. Assessment of toothbrushing skills, plaque, and gingival status were carried out at baseline, 30-, 60-, and 90-days. The data were analyzed using t-tests in SPSS version 26 software at P < 0.05. RESULTS: At baseline, there was no significant difference between the groups in toothbrushing skills, plaque, and gingival scores. Postintervention, there was a significant improvement in the TBVP group compared to the OHE group. At 90 days, the mean toothbrushing scores of TBVP group were significantly higher (22.49 ± 6.70) than the OHE group (18.35 ± 6.82). Plaque scores were significantly lower (1.31 ± 0.48) in the TBVP group than the OHE group (1.47 ± 0.50). Gingival scores were significantly lower (1.38 ± 0.48) in the TBVP group than the OHE group (1.56 ± 0.51) (P < 0.05). CONCLUSION: The TBVP was effective in improving the toothbrushing skills, oral hygiene, and gingival health of the children with autism. Hence, it can be used for behavioural guidance in toothbrushing for these children to maintain their oral hygiene.",
               "title_ko": "자폐 아동의 칫솔질 기술, 구강 위생 및 잇몸 건강 개선에 대한 시각 교육학의 효과- 무작위 대조 시험."
+            },
+            {
+              "pmid": "39798109",
+              "title": "Effectiveness of visual instruction skit and sign language on oral health status among 5-18-year-old hearing-impaired children in South India: A cluster randomized clinical trial.",
+              "journal": "Journal of the Indian Society of Pedodontics and Preventive Dentistry",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2025-01-11",
+              "authors": [
+                "Kondepudi V",
+                "Kumar RVSK",
+                "Srinivasulu G"
+              ],
+              "citation_count": 0,
+              "rcr": 0.0,
+              "volume": "42",
+              "issue": "4",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/39798109/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": true,
+              "hot_score": 10.0,
+              "field": "preventive",
+              "field_label": "예방의학",
+              "abstract": "BACKGROUND: Literature on the effectiveness of theory-based oral health education on the oral hygiene status of hearing-impaired children is limited. AIM: To determine the effectiveness of a school oral health education intervention on oral hygiene status and oral health-related knowledge among 5-18-year-old children in Andhra Pradesh, India. MATERIALS AND METHODS: A cluster randomized clinical trial was conducted among all institutionalized hearing-impaired children and young adults residing in various special care schools in Nellore district. Plaque Control record, gingival index (GI), and Decayed Missed Filled Teeth/ decayed extracted filled teeth and Decayed Missed Filled surfaces/ decayed extracted filled surfaces (DMFT/deft, and DMFS/defs) index were recorded; participants were selected and were randomly allocated to two groups using lottery method with 50 subjects in each group, Group I: sign language and Group II: video skit. RESULTS: In all the age groups, preintervention DMFT and postintervention GI, DMFT, and DMFS were statistically significant in the sign language group and in the video skit group. Postintervention DMFS shows a significant difference. CONCLUSION: When compared with video instruction skit, sign language shows significant improvement in the oral hygiene status of CHI.",
+              "title_ko": "남인도 5-18세 청각장애아동의 구강건강상태에 대한 시각지시 스킷과 수화의 효과: 군집 무작위배정 임상시험."
             }
           ]
         },
@@ -2589,7 +2617,7 @@
           "impact_factor": 1.5,
           "index_type": "미상",
           "quartile": "미상",
-          "paper_count": 11,
+          "paper_count": 12,
           "top_paper": {
             "pmid": "40028449",
             "title": "All-cause mortality according to COVID-19 vaccination status: An analysis of the UK office for National statistics public data.",
@@ -2646,6 +2674,34 @@
               "field_label": "예방의학",
               "abstract": "BACKGROUND: The mass vaccination campaign against COVID-19 has been commonly considered the best response to the global COVID-19 pandemic crisis. However, assessment of its real-world effect can be performed by analysis of all-cause mortality by vaccination status. The UK is perhaps the only country which has made publicly available all-cause mortality data by vaccination status. METHODS: Data from April 2021 to May 2023 published by the UK Office for National Statistics (ONS) were retrospectively analyzed by age groups and vaccination status; the standardized mortality ratio (SMR) for all-cause and non-COVID-19 mortality was calculated against the corresponding unvaccinated groups. RESULTS: We found that across all age groups, all-cause mortality SMRs increased from a certain date, dependent on the age group. Across all age groups, all-cause mortality SMRs were initially much lower than 1. However, due to their increase, by a certain date for the 18-39, 80-89 and 90+ age groups they exceeded the reference value. For the other age groups, the date at which the SMR would reach 1 can be predicted, provided the trend is maintained. Non-COVID-19 SMRs' trends were very similar. Their initial values much lower than 1 are suggestive of significant biases in the ONS dataset, leading to underestimate the risks for the vaccinated people, as it is implausible that COVID-19 vaccines protect against non-COVID-19 deaths. CONCLUSIONS: The increase over time in all-cause death SMRs in vaccinated people compared to unvaccinated, and their excess from the reference values for certain age groups, should be carefully considered to understand the underlying factors. Furthermore, since the initial values of the SMRs are much lower than 1, we assume the presence of significant biases in the ONS dataset, leading to understimate the risks for the vaccinated people, as it is implausible that COVID-19 vaccines protect against non-COVID-19 deaths. It would be desirable for other major countries to systematically collect all-cause mortality by vaccination status and, in the meantime, a pending indepth investigations, much greater caution should be exercised in promoting mass vaccination campaigns.",
               "title_ko": "COVID-19 백신 접종 상태에 따른 모든 원인 사망률: 국가 통계 공공 데이터에 대한 영국 사무소의 분석."
+            },
+            {
+              "pmid": "39866726",
+              "title": "A Scoping Review of Existing Policy Instruments to Tackle Overweight and Obesity in India: Recommendations for a Social and Behaviour Change Communication Strategy.",
+              "journal": "F1000Research",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2024-11-18",
+              "authors": [
+                "Thapliyal N",
+                "Bassi S",
+                "Bahl D"
+              ],
+              "citation_count": 4,
+              "rcr": 1.0509825800632673,
+              "volume": "13",
+              "issue": "",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/39866726/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 16.0,
+              "field": "preventive",
+              "field_label": "예방의학",
+              "abstract": "BACKGROUND: The Indian government is committed to addressing various manifestations of malnutrition, including overweight and obesity, inorder to improve individual health and well-being. The scoping review aims to map existing national policy instruments (programmes, schemes, regulations and guidelines) addressing overweight and obesity in India and analysing them for Social and Behaviour Change Communication (SBCC) strategies. METHODS: Systematic identification and selection of policy instruments using 'Arksey and O'Malley' framework was conducted from central government ministry websites, between March and June 2023. These instruments focused on nutrition and/or physical activity, targeting specific demographic groups like pregnant women, lactating mothers, children (0-5 years and 5-9 years), or adolescents (10-19 years); excluding those focusing on specific diseases like micronutrient deficiencies, wasting, and stunting. Based on search strategy six policy instruments were included and analysed for SBCC strategies. RESULTS: While many policy instruments incorporated SBCC plans; the 'National Programme for Prevention of Non-Communicable Diseases (NP-NCD)' stands out as a significant policy initiative specifically targeting the prevention of overweight and obesity within the broader context of Non-Communicable Diseases. It adopts a comprehensive approach addressing key drivers contributing to overweight/obesity across multiple levels of behavioural influence i.e., individual, interpersonal, community and organisation for health promotion. However, there's need to strengthen SBCC strategies related to prevention and management of obesity, especially screening and counselling, to cover all age groups with a particular focus on adolescents and youth. SBCC strategies can also be incorporated into India's Integrated Nutrition Support Programme (POSHAN 2.0) and/or Reproductive, Maternal, New-born, Child, Adolescent Health and Nutrition (RMNCAH+N) under the National Health Mission. CONCLUSION: This paper underscores the necessity for comprehensive strategies to address multifaceted origins of overweight and obesity. The NP-NCD stands out as a noteworthy initiative, and there is considerable potential for other programmes to emulate SBCC strategies to bolster their overall effectiveness. Note : *Policy instruments throughout the paper have been used to cover programmes, schemes, regulations and guidelines.",
+              "title_ko": "인도의 과체중 및 비만 문제를 해결하기 위한 기존 정책 도구에 대한 범위 검토: 사회 및 행동 변화 커뮤니케이션 전략을 위한 권장 사항."
             },
             {
               "pmid": "40469994",
@@ -2814,32 +2870,6 @@
               "field_label": "예방의학",
               "abstract": "BACKGROUND: Multi-sectoral settings such as hospitals, health care centres, clinics, schools, workplaces, community events, and online platforms play an important role in reaching individuals from various socioeconomic backgrounds and delivering health promotion interventions that change behaviour and improve health outcomes. The aim of this review was to systematically review the nature and effectiveness of eye health promotion interventions implemented by eye health professionals across various multi-sectoral settings. METHOD: This review was conducted using the Centre for Review and Dissemination guidelines for conducting systematic reviews and reported in accordance with the PRISMA 2020 statement. A comprehensive and systematic search was conducted on electronic databases such as PubMed, Web of Science, and Medline, CINAHL and Academic Search Complete hosted on EBSCOHost and supplemented with a hand search for relevant studies published between 1999 and 2024. Two independent reviewers screened eligible studies, extracted data, and assessed study quality using the Mixed Methods Appraisal Tool (MMAT) 2018. The eligibility criterion was met by 80 studies out of 15 554 screened. RESULTS: Eye health promotion interventions identified among studies were categorised as health education, health counselling, vision screening, eye screening and training programmes, health prevention, health promotion, health policy, ophthalmic intervention programmes, comprehensive eye examination and screening for diabetic retinopathy. Most studies showed a significant impact of eye health promotion interventions. CONCLUSION: Overall, studies demonstrated a diverse range of strategies that have shown significant effectiveness across various settings. This systematic review highlights the effectiveness of eye health promotion interventions, whilst identifying gaps in compliance, follow-up systems, and policy integration.Systematic review registration PROSPERO CRD42022354299.",
               "title_ko": "다부문 환경에서의 눈 건강 증진: 중재 유형 및 효과에 대한 체계적인 검토."
-            },
-            {
-              "pmid": "41919090",
-              "title": "Mortality involving and not involving COVID-19 among vaccinated vs. unvaccinated in England between Apr 21 and May 23.",
-              "journal": "F1000Research",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2026-02-14",
-              "authors": [
-                "Aarstad J"
-              ],
-              "citation_count": 0,
-              "rcr": null,
-              "volume": "14",
-              "issue": "",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/41919090/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": false,
-              "hot_score": 0.0,
-              "field": "preventive",
-              "field_label": "예방의학",
-              "abstract": "BACKGROUND: Comparing non-randomized groups, such as COVID-19 vaccinated and unvaccinated, even in the presence of seemingly relevant control variables, is challenging, but in this study, using English data, I show an achievable approach. METHODS: First, I estimated age-standardized all-cause mortality among vaccinated and unvaccinated ten years and older, covering 26 months from Apr 21 to May 23. Then, I estimated mortality not involving COVID-19, and finally, I contrasted the calculations. RESULTS: First, I found that all-cause mortality among unvaccinated was higher than among vaccinated. But, as the pattern was similar concerning mortality not involving COVID-19, the discrepancy can be attributed mainly to unvaccinated having inferior health at the outset. There were nonetheless indications of significant protection for vaccinated between July 21 and Jan 22. In the absence of control variables as a means to compare non-randomized groups, I reached that conclusion by contrasting all-cause mortality with mortality not involving COVID-19. However, while mortality not involving COVID-19 decreased among unvaccinated compared to the first observation month, it remained high among vaccinated, indicating a relative increase. CONCLUSIONS: An interpretation is that vaccination, despite a potential temporary protection, has increased mortality. Strengthening the interpretation was relatively high mortality among vaccinated not involving COVID-19 counterintuitively following periods of excess mortality. Further strengthening the interpretation was the relatively high mortality not involving COVID-19 among vaccinated, corresponding with excess mortality during much of the same period. Future research should include data over a longer period than those available for this study. Also, future research should examine different age groups, vaccination types, and the number of doses given.",
-              "title_ko": "4월 21일부터 5월 23일까지 영국에서 예방 접종을 받은 사람과 받지 않은 사람의 코로나19 관련 사망률."
             }
           ]
         },
@@ -3168,34 +3198,6 @@
               "title_ko": "Hereditary Hemorrhagic Telangiectasia Genes-ENG and ACVRL1에 대한 ACMG/AMP Variant Curation Guidelines의 사양."
             },
             {
-              "pmid": "40225944",
-              "title": "Beyond Single Diagnosis: Exploring Multidiagnostic Realities in Pediatric Patients through Genome Sequencing.",
-              "journal": "Human mutation",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2024-04-23",
-              "authors": [
-                "Guo F",
-                "Liu R",
-                "Pan Y"
-              ],
-              "citation_count": 2,
-              "rcr": 0.4142634481704163,
-              "volume": "2024",
-              "issue": "",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/40225944/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": false,
-              "hot_score": 11.0,
-              "field": "preventive",
-              "field_label": "예방의학",
-              "abstract": "Recent advancements in the next-generation sequencing have illuminated the occurrence of multiple genetic diagnoses (MGD). While exome sequencing has provided insights, genome sequencing (GS), the most comprehensive diagnostic tool, remains underexplored for studying MGD prevalence. We retrospectively analyzed 1487 pediatric cases from our laboratory, employing GS to investigate the incidence of single definitive genetic diagnosis (SDD) and MGD in children suspected of having a genetic disease. Of these patients, 273 received at least one definitive diagnosis, including 245 with SDD (16.5%) and 28 with MGD (1.9%). Diagnostic yield was consistent across genders and unaffected by previous testing in SDD cases. Notably, prior testing significantly increased the diagnostic yield in MGD cases to 2.7% overall and 14.4% among diagnosed cases, compared to 1.1% for those with GS as a first-tier test. Age was a significant factor in diagnostic outcome for both SDD and MGD cases with neonates showing the highest diagnostic yield of 24.5% in SDD and a notably higher yield in MGD at 4.9%, representing 16.7% of the diagnosed cases. Of the 28 MGD cases, 17 exhibited distinct phenotypes, 9 had overlapping features, and 2 presented a mix, underscoring the genetic and phenotypic heterogeneity within this group. This study is the first to exclusively use GS to assess MGD prevalence. Our findings highlight the complexity of rare diseases and emphasize the importance of comprehensive, genome-level diagnostics. Clinicians must ensure that diagnoses fully account for the observed phenotypes to inform optimal therapeutic strategies and management.",
-              "title_ko": "Beyond Single Diagnosis: Exploring Multidiagnostic Realities in Pediatric Patients through Genome Sequencing."
-            },
-            {
               "pmid": "40225936",
               "title": "CAVaLRi: An Algorithm for Rapid Identification of Diagnostic Germline Variation.",
               "journal": "Human mutation",
@@ -3250,6 +3252,34 @@
               "field_label": "예방의학",
               "abstract": "Pompe disease (PD) is a rare autosomal recessive lysosomal disorder caused by loss-of-function of the α-glucosidase (GAA) gene. The deficient GAA enzyme activity may result in potential life-threatening muscle weakness, thus requiring a rapid diagnosis to initiate therapeutic interventions. In this large retrospective study, we analyzed 30.836 PD suspect samples from 57 countries using a two-step approach utilizing dried blood spots (DBSs): biochemical testing of GAA activity followed by complementary genetic sequencing of GAA in biochemically conspicuous cases. Of these 30.836 samples, 2% (n = 639) were excluded; accordingly, this study consisted of 30.193 cases. Biochemical testing of GAA enzyme activity showed normal values in 28.354 (93.90%) and enzyme activity below the cut-off in 1843 (6.10%) cases. These biochemically suspicious cases were genetically analyzed. We identified 723 Pompe cases with 283 different GAA alterations, and 98 variants have been unpublished so far. The most common variant was the splice variant c.-32-13T>G (IVS1). Looking at the IVS1-genotype, the majority was compound heterozygous (n = 169) and identified in late-onset cases (n = 162). Comparison of early- versus late-onset cases to evaluate whether certain genotypes correlate with the age of onset revealed that homozygosity was predominantly found in infantile (85.65%) and compound heterozygosity in late-onset (76.9%) cases. Analysis of homozygous cases revealed 61% nonsense variants in the early stages and 87% missense variants in the late stages. Mapping of disease-associated (homozygous) missense variants to functional GAA protein domains showed that missense variants were found throughout GAA, but we identified enrichment in the catalytic domain. A strict genotype-phenotype correlation cannot be established; nevertheless, a phenotypic implication of some GAA variants could be drawn (e.g., c.896T>C/p.L299P, c.2015G>A/p.R672Q, and c.-32-13T>G). The combined enzyme activity and genetic testing from DBS cards can reliably identify PD and significantly accelerate diagnosis. We identified new genetic variants that contribute to the spectrum of pathogenic variants of the GAA gene.",
               "title_ko": "폼페병에 영향을 받은 것으로 의심되는 30.000명 이상의 증후성 환자에서 GAA의 생화학적 및 유전자 검사."
+            },
+            {
+              "pmid": "40225944",
+              "title": "Beyond Single Diagnosis: Exploring Multidiagnostic Realities in Pediatric Patients through Genome Sequencing.",
+              "journal": "Human mutation",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2024-04-23",
+              "authors": [
+                "Guo F",
+                "Liu R",
+                "Pan Y"
+              ],
+              "citation_count": 2,
+              "rcr": 0.4142634481704163,
+              "volume": "2024",
+              "issue": "",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/40225944/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 11.0,
+              "field": "preventive",
+              "field_label": "예방의학",
+              "abstract": "Recent advancements in the next-generation sequencing have illuminated the occurrence of multiple genetic diagnoses (MGD). While exome sequencing has provided insights, genome sequencing (GS), the most comprehensive diagnostic tool, remains underexplored for studying MGD prevalence. We retrospectively analyzed 1487 pediatric cases from our laboratory, employing GS to investigate the incidence of single definitive genetic diagnosis (SDD) and MGD in children suspected of having a genetic disease. Of these patients, 273 received at least one definitive diagnosis, including 245 with SDD (16.5%) and 28 with MGD (1.9%). Diagnostic yield was consistent across genders and unaffected by previous testing in SDD cases. Notably, prior testing significantly increased the diagnostic yield in MGD cases to 2.7% overall and 14.4% among diagnosed cases, compared to 1.1% for those with GS as a first-tier test. Age was a significant factor in diagnostic outcome for both SDD and MGD cases with neonates showing the highest diagnostic yield of 24.5% in SDD and a notably higher yield in MGD at 4.9%, representing 16.7% of the diagnosed cases. Of the 28 MGD cases, 17 exhibited distinct phenotypes, 9 had overlapping features, and 2 presented a mix, underscoring the genetic and phenotypic heterogeneity within this group. This study is the first to exclusively use GS to assess MGD prevalence. Our findings highlight the complexity of rare diseases and emphasize the importance of comprehensive, genome-level diagnostics. Clinicians must ensure that diagnoses fully account for the observed phenotypes to inform optimal therapeutic strategies and management.",
+              "title_ko": "Beyond Single Diagnosis: Exploring Multidiagnostic Realities in Pediatric Patients through Genome Sequencing."
             }
           ]
         },
@@ -4557,7 +4587,7 @@
           "impact_factor": 1.5,
           "index_type": "미상",
           "quartile": "미상",
-          "paper_count": 34,
+          "paper_count": 32,
           "top_paper": {
             "pmid": "39879454",
             "title": "The politicisation of vaccines and its influence on Brazilian caregivers' opinions on childhood routine vaccination.",
@@ -5011,16 +5041,7 @@
             "phrase": "type diabetes",
             "scores": [
               0.0,
-              81.4,
-              11.0,
-              31.0
-            ]
-          },
-          {
-            "phrase": "diabetes mellitus",
-            "scores": [
-              0.0,
-              44.8,
+              71.4,
               11.0,
               31.0
             ]
@@ -5032,6 +5053,15 @@
               0.0,
               16.9,
               50.0
+            ]
+          },
+          {
+            "phrase": "diabetes mellitus",
+            "scores": [
+              0.0,
+              34.8,
+              11.0,
+              31.0
             ]
           },
           {
@@ -5053,12 +5083,12 @@
             ]
           },
           {
-            "phrase": "covid- vaccination",
+            "phrase": "post-exposure prophylaxis",
             "scores": [
               0.0,
-              11.0,
-              40.7,
-              0.0
+              0.0,
+              43.0,
+              6.9
             ]
           }
         ]
@@ -5067,7 +5097,7 @@
     {
       "key": "emergency",
       "label": "응급의학",
-      "paper_count": 453,
+      "paper_count": 461,
       "journals": [
         {
           "journal": "Resuscitation",
@@ -5294,7 +5324,7 @@
             "field": "emergency",
             "field_label": "응급의학",
             "abstract": "OBJECTIVE: Sleep disturbance (SD) is common after pediatric mild traumatic brain injury (mTBI) and may predict increased postconcussive symptoms (PCS) and prolonged recovery. Our objective was to investigate the relation of SD with PCS in children with mTBI and those with orthopedic injury (OI). SETTING: Emergency departments (EDs) at 2 children's hospitals in the Midwestern United States. PARTICIPANTS: Children and adolescents aged 8 to 16 years old diagnosed with either a mTBI ( n = 143) or OI ( n = 74) and recruited within 24 hours postinjury. DESIGN: Observational, prospective, concurrent cohort study with longitudinal follow-up. MAIN MEASURES: Parents rated children's preinjury sleep retrospectively shortly after injury, and postinjury sleep at 3 and 6 months postinjury, using the Sleep Disorders Inventory for Students. Parents rated children's preinjury symptoms retrospectively in the emergency department, and parents and children rated PCS at 3 and 6 months, using the Health and Behavior Inventory and the Postconcussive Symptom Interview. Weekly ratings on the Health and Behavior Inventory were also obtained remotely. RESULTS: Postinjury SD was modestly but not significantly higher in the mTBI group compared to the OI group ( P = .060, d = 0.32). Children with mTBI who were symptomatic postacutely based on parent ratings had worse parent-rated sleep outcomes at 3 and 6 months postinjury compared to children who were not symptomatic. Greater preinjury SD also predicted more postinjury SD and more severe PCS regardless of injury type. CONCLUSIONS: The results suggest potential bidirectional associations between SD and PCS after mTBI. Studies of treatments for SD following pediatric mTBI are needed.",
-            "title_ko": "소아 경증 외상성 뇌손상 및 정형외과적 손상의 수면 장애 및 뇌진탕 후 증상."
+            "title_ko": ""
           },
           "papers": [
             {
@@ -5323,7 +5353,7 @@
               "field": "emergency",
               "field_label": "응급의학",
               "abstract": "OBJECTIVE: Sleep disturbance (SD) is common after pediatric mild traumatic brain injury (mTBI) and may predict increased postconcussive symptoms (PCS) and prolonged recovery. Our objective was to investigate the relation of SD with PCS in children with mTBI and those with orthopedic injury (OI). SETTING: Emergency departments (EDs) at 2 children's hospitals in the Midwestern United States. PARTICIPANTS: Children and adolescents aged 8 to 16 years old diagnosed with either a mTBI ( n = 143) or OI ( n = 74) and recruited within 24 hours postinjury. DESIGN: Observational, prospective, concurrent cohort study with longitudinal follow-up. MAIN MEASURES: Parents rated children's preinjury sleep retrospectively shortly after injury, and postinjury sleep at 3 and 6 months postinjury, using the Sleep Disorders Inventory for Students. Parents rated children's preinjury symptoms retrospectively in the emergency department, and parents and children rated PCS at 3 and 6 months, using the Health and Behavior Inventory and the Postconcussive Symptom Interview. Weekly ratings on the Health and Behavior Inventory were also obtained remotely. RESULTS: Postinjury SD was modestly but not significantly higher in the mTBI group compared to the OI group ( P = .060, d = 0.32). Children with mTBI who were symptomatic postacutely based on parent ratings had worse parent-rated sleep outcomes at 3 and 6 months postinjury compared to children who were not symptomatic. Greater preinjury SD also predicted more postinjury SD and more severe PCS regardless of injury type. CONCLUSIONS: The results suggest potential bidirectional associations between SD and PCS after mTBI. Studies of treatments for SD following pediatric mTBI are needed.",
-              "title_ko": "소아 경증 외상성 뇌손상 및 정형외과적 손상의 수면 장애 및 뇌진탕 후 증상."
+              "title_ko": ""
             }
           ]
         },
@@ -5359,7 +5389,7 @@
             "field": "emergency",
             "field_label": "응급의학",
             "abstract": "BACKGROUND: Patients with severe dengue who develop severe respiratory failure requiring mechanical ventilation (MV) support have significantly increased mortality rates. This study aimed to develop a robust machine learning-based risk score to predict the need for MV in children with dengue shock syndrome (DSS) who developed acute respiratory failure. METHODS: This single-institution retrospective study was conducted at a tertiary pediatric hospital in Vietnam between 2013 and 2022. The primary outcome was severe respiratory failure requiring MV in the children with DSS. Key covariables were predetermined by the LASSO method, literature review, and clinical expertise, including age (< 5 years), female patients, early onset day of DSS (≤ day 4), large cumulative fluid infusion, higher colloid-to-crystalloid fluid infusion ratio, severe bleeding, severe transaminitis, low platelet counts (< 20 x 109/L), elevated hematocrit, and high vasoactive-inotropic score. These covariables were analyzed using supervised models, including Logistic Regression (LR), Random Forest (RF), Support Vector Machine (SVM), k-Nearest Neighbor (KNN), and eXtreme Gradient Boosting (XGBoost). Shapley Additive Explanations (SHAP) analysis was used to assess feature contribution. RESULTS: A total of 1,278 patients were included, with a median patient age of 8.1 years (IQR: 5.4-10.7). Among them, 170 patients (13.3%) with DSS required mechanical ventilation. A significantly higher fatality rate was observed in the MV group than that in the non-MV group (22.4% vs. 0.1%). The RF and SVM models showed the highest model discrimination. The SHAP model explained the significant predictors. Internal validation of the predictive model showed high consistency between the predicted and observed data, with a good slope calibration in training (test) sets 1.0 (0.934), and a low Brier score of 0.04. Complete-case analysis was used to construct the risk score. CONCLUSIONS: We developed a robust machine learning-based risk score to estimate the need for MV in hospitalized children with DSS.",
-            "title_ko": "뎅기 쇼크 증후군 아동의 기계 환기 예측을 위한 기계 학습 기반 위험 점수: 후향적 코호트 연구."
+            "title_ko": ""
           },
           "papers": [
             {
@@ -5388,7 +5418,7 @@
               "field": "emergency",
               "field_label": "응급의학",
               "abstract": "BACKGROUND: Patients with severe dengue who develop severe respiratory failure requiring mechanical ventilation (MV) support have significantly increased mortality rates. This study aimed to develop a robust machine learning-based risk score to predict the need for MV in children with dengue shock syndrome (DSS) who developed acute respiratory failure. METHODS: This single-institution retrospective study was conducted at a tertiary pediatric hospital in Vietnam between 2013 and 2022. The primary outcome was severe respiratory failure requiring MV in the children with DSS. Key covariables were predetermined by the LASSO method, literature review, and clinical expertise, including age (< 5 years), female patients, early onset day of DSS (≤ day 4), large cumulative fluid infusion, higher colloid-to-crystalloid fluid infusion ratio, severe bleeding, severe transaminitis, low platelet counts (< 20 x 109/L), elevated hematocrit, and high vasoactive-inotropic score. These covariables were analyzed using supervised models, including Logistic Regression (LR), Random Forest (RF), Support Vector Machine (SVM), k-Nearest Neighbor (KNN), and eXtreme Gradient Boosting (XGBoost). Shapley Additive Explanations (SHAP) analysis was used to assess feature contribution. RESULTS: A total of 1,278 patients were included, with a median patient age of 8.1 years (IQR: 5.4-10.7). Among them, 170 patients (13.3%) with DSS required mechanical ventilation. A significantly higher fatality rate was observed in the MV group than that in the non-MV group (22.4% vs. 0.1%). The RF and SVM models showed the highest model discrimination. The SHAP model explained the significant predictors. Internal validation of the predictive model showed high consistency between the predicted and observed data, with a good slope calibration in training (test) sets 1.0 (0.934), and a low Brier score of 0.04. Complete-case analysis was used to construct the risk score. CONCLUSIONS: We developed a robust machine learning-based risk score to estimate the need for MV in hospitalized children with DSS.",
-              "title_ko": "뎅기 쇼크 증후군 아동의 기계 환기 예측을 위한 기계 학습 기반 위험 점수: 후향적 코호트 연구."
+              "title_ko": ""
             },
             {
               "pmid": "39671440",
@@ -5416,7 +5446,7 @@
               "field": "emergency",
               "field_label": "응급의학",
               "abstract": "Oral hygiene care is important for ventilator-associated pneumonia prevention. However, the optimal oral hygiene care approach remains unclear. A network meta-analysis was conducted to compare the efficacy of various oral hygiene care methods for ventilator-associated pneumonia prevention in critically ill patients, and the methods were ranked. A literature search of three representative databases was conducted. We only analyzed parallel randomized controlled trials conducted to analyze the use antiseptics or toothbrushes in oral hygiene care for adult patients undergoing invasive mechanical ventilation in the intensive care unit. The outcome measure was the incidence of ventilator-associated pneumonia. Bias risk was assessed using the Cochrane Risk of Bias 2 tool, and the confidence in the evidence was evaluated using the CINeMA approach. Statistical analyses were performed using R 4.2.0., GeMTC package, and JAGS 4.3.1. The review protocol was registered in PROSPERO (registration number: CRD42022333270). Thirteen randomized controlled trials were included in the qualitative synthesis and twelve randomized controlled trials (2395 participants) were included in the network meta-analysis. Over 50% of the included studies were conducted in medical-surgical intensive care units. Ten treatments were analyzed and 12 pairwise comparisons were conducted in the 12 included studies. Analysis using surface under the cumulative ranking curves revealed that brushing combined with chlorhexidine 0.12% was most likely the optimal intervention for preventing ventilator-associated pneumonia (88.4%), followed by the use of chlorhexidine 0.12% alone (76.1%), and brushing alone (73.2%). Oral hygiene care methods that included brushing had high rankings. In conclusion, brushing combined with chlorhexidine 0.12% may be an effective intervention for preventing ventilator-associated pneumonia in critically ill patients. Furthermore, brushing may be the optimal oral hygiene care method for preventing ventilator-associated pneumonia in the intensive care unit. Further research is needed to verify these findings as the CINeMA confidence rate was low for each comparison.",
-              "title_ko": "중증환자의 인공호흡기 관련 폐렴 예방을 위한 다양한 구강위생관리 방법의 비교 효능: 체계적 검토 및 네트워크 메타분석."
+              "title_ko": ""
             },
             {
               "pmid": "39729465",
@@ -5444,7 +5474,7 @@
               "field": "emergency",
               "field_label": "응급의학",
               "abstract": "BACKGROUND: Dyspnoea is one of the emergency department's (ED) most common and deadly chief complaints, but frequently misdiagnosed and mistreated. We aimed to design a diagnostic decision support which classifies dyspnoeic ED visits into acute heart failure (AHF), exacerbation of chronic obstructive pulmonary disease (eCOPD), pneumonia and \"other diagnoses\" by using deep learning and complete, unselected data from an entire regional health care system. METHODS: In this cross-sectional study, we included all dyspnoeic ED visits of patients ≥ 18 years of age at the two EDs in the region of Halland, Sweden, 07/01/2017-12/31/2019. Data from the complete regional health care system within five years prior to the ED visit were analysed. Gold standard diagnoses were defined as the subsequent in-hospital or ED discharge notes, and a subsample was manually reviewed by emergency medicine experts. A novel deep learning model, the clinical attention-based recurrent encoder network (CareNet), was developed. Cohort performance was compared to a simpler CatBoost model. A list of all variables and their importance for diagnosis was created. For each unique patient visit, the model selected the most important variables, analysed them and presented them to the clinician interpretably by taking event time and clinical context into account. AUROC, sensitivity and specificity were compared. FINDINGS: The most prevalent diagnoses among the 10,315 dyspnoeic ED visits were AHF (15.5%), eCOPD (14.0%) and pneumonia (13.3%). Median number of unique events, i.e., registered clinical data with time stamps, per ED visit was 1,095 (IQR 459-2,310). CareNet median AUROC was 87.0%, substantially higher than the CatBoost model´s (81.4%). CareNet median sensitivity for AHF, eCOPD, and pneumonia was 74.5%, 92.6%, and 54.1%, respectively, with a specificity set above 75.0, slightly inferior to that of the CatBoost baseline model. The model assembled a list of 1,596 variables by importance for diagnosis, on top were prior diagnoses of heart failure or COPD, daily smoking, atrial fibrillation/flutter, life management difficulties and maternity care. Each patient visit received their own unique attention plot, graphically displaying important clinical events for the diagnosis. INTERPRETATION: We designed a novel interpretable deep learning model for diagnosis in emergency department dyspnoea patients by analysing unselected data from a complete regional health care system.",
-              "title_ko": "전체 의료 시스템의 전체 데이터를 기반으로 한 응급실 호흡곤란 환자의 진단을 위한 새로운 해석 가능한 딥 러닝 모델."
+              "title_ko": ""
             },
             {
               "pmid": "39636963",
@@ -5472,7 +5502,7 @@
               "field": "emergency",
               "field_label": "응급의학",
               "abstract": "INTRODUCTION: Workplace violence is a relevant social problem due to its high prevalence and serious consequences. A quarter of workplace violence occurs in the healthcare sector. Evidence shows differences among professionals, with emergency department workers being especially vulnerable, presenting a higher risk of suffering mental and physical health problems, as well as threats to their professional and social integrity. OBJECTIVE: To explore the frequency with which emergency department professionals are exposed to user violence and violence by their own coworkers; as well as to analyze the differences between different professionals in exposure to violence in the workplace and some of its most studied consequences such as burnout, job satisfaction, engagement, and general health. METHODS: A descriptive comparative study was carried out with a sample of 120 emergency department workers from three hospitals in Alicante. The majority were healthcare professionals (84.2%), women (61.7%), obtaining a mean age of 41.8 years (SD = 10.8). Sociodemographic and occupational variables, user violence, violence among colleagues and superiors, general health, burnout, engagement, and job satisfaction were evaluated. RESULTS: A high prevalence of both physical and non-physical user violence in the healthcare setting was observed, especially affecting nursing and administrative assistants. In addition, significant differences were identified between professionals in terms of non-physical user violence, burnout, engagement, and job satisfaction. Administrative staff suffer greater non-physical user violence, while nursing assistants show higher levels of engagement. Regarding job satisfaction, nurses report higher intrinsic satisfaction. Medical staff, nurses and nursing assistants show higher levels of extrinsic satisfaction compared to administrative staff. DISCUSSION: Our results are consistent with other studies in which a relationship between exposure to violence and job satisfaction is observed. In addition, administrative staff appear to be the professionals most exposed to violence from both patients and coworkers. These results provide evidence for future research focused on improving the work environment and health of emergency department professionals.",
-              "title_ko": "병원 응급실 전문가들의 직장 내 폭력과 건강 변수의 차이: 서술적 비교 연구."
+              "title_ko": ""
             },
             {
               "pmid": "41343612",
@@ -5593,7 +5623,7 @@
           "impact_factor": 1.5,
           "index_type": "미상",
           "quartile": "미상",
-          "paper_count": 3,
+          "paper_count": 4,
           "top_paper": {
             "pmid": "41589734",
             "title": "Do not forget the cryoprecipitate: The impact of the 2019 Joint Trauma System Damage Control Resuscitation Clinical Practice Guideline on mortality.",
@@ -5649,6 +5679,34 @@
               "field": "emergency",
               "field_label": "응급의학",
               "abstract": "BACKGROUND: The benefit of transfusion of fresh frozen plasma (FFP) and platelets in a 1:1 ratio with packed red blood cells (PRBCs) is well established; however, the benefit of a particular ratio of cryoprecipitate to PRBC is not. The Joint Trauma System updated its 2019 Damage Control Resuscitation Guideline by recommending empiric 1:1 cryoprecipitate/PRBCs. We hypothesized that patients receiving product within the cryoprecipitate/PRBC guideline range (high ratio) would have an associated reduction in mortality. METHODS: We included adult patients in the Trauma Quality Improvement Program data registry (2013-2021) who received at least 5 U of PRBCs and 1 U of FFP within 4 hours. Death within 30 minutes, nonsurvivable injury patterns, preexisting coagulopathy, advanced directives, transfers, and burns were excluded. Patients were partitioned into high (≥1:1), medium (≥1:2 to <1:1), and low (<1:2) cryoprecipitate/PRBC ratios. Treatment effects were estimated with propensity score-weighted risk adjustment models, clustering by center. The primary outcome was 6-hour mortality. Secondary outcomes included 24-hour and inpatient mortality. Adjusting for FFP, platelets, and whole blood was included as a sensitivity analysis. RESULTS: A total of 49,301 patients (high, 5,284; medium, 3,630; low, 40,387) were included. The mean age was 39, 79% were male, 58% suffered blunt trauma, and the mean Injury Severity Score was 29. Unadjusted 6-hour mortality was 11.8%, 18.8%, and 21.3% for high, medium, and low ratios. High ratio was protective as compared with low at 6 hour (adjusted odds ratio [aOR], 0.52; 95% confidence interval [CI], 0.45-0.58) and 24 hours (aOR, 0.74; 95% CI, 0.67-0.82), and medium ratio was protective as compared with low ratio at 6 hours (aOR, 0.78; 95% CI, 0.70-0.87). Blood product sensitivity analysis demonstrated that high and medium ratios were protective of 6-hour, 24-hour, and inpatient mortality. CONCLUSION: High cryoprecipitate ratios were independently associated with decreased mortality in massively transfused civilian trauma patients during the first 24 hours. Future prospective multicenter randomized trials are warranted. LEVEL OF EVIDENCE: Prognostic and Epidemiological; Level III.",
+              "title_ko": ""
+            },
+            {
+              "pmid": "39787574",
+              "title": "Analysis of time to regulatory approval in an exception from informed consent trial in trauma patients.",
+              "journal": "The journal of trauma and acute care surgery",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2024-10-23",
+              "authors": [
+                "Stephens SW",
+                "Carroll-Ledbetter CR",
+                "Duckert S"
+              ],
+              "citation_count": 5,
+              "rcr": 1.967655426834768,
+              "volume": "98",
+              "issue": "3",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/39787574/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 17.4,
+              "field": "emergency",
+              "field_label": "응급의학",
+              "abstract": "BACKGROUND: The interactive media-based approach to community consultation and public disclosure (CC/PD), a key step when conducting exception from informed consent (EFIC) clinical trials, is intended to be completed in 4 months. This analysis characterizes the process, from initiation of CC/PD activities to institutional review board approval, to better understand the barriers and how these can be mitigated. METHODS: This is a retrospective post hoc analysis of data collected as part of the CC/PD campaigns conducted for a large trial involving up to 90 trauma centers in the United States. Each site was provided with templated materials that had been reviewed and approved by a central institutional review board (cIRB). We collected the dates of milestones, including the study \"kickoff call,\" start of the social media campaign, dates of online community meetings, date of submission of site report to the cIRB, and cIRB approval date. RESULTS: Sixty-two sites were cIRB approved at the time of this analysis. The median time from the kickoff call to the start of the social media campaign was 79 days, with an interquartile range of 33 to 126 days (range, 0-285 days). All social media campaigns ran for the prescribed period of at least 2 months. All sites conducted at least four online community meetings. The median number of days from the kickoff call to cIRB approval was 216 days (interquartile range, 168-281 days; range, 116-459 days). There was no significant difference between sites that had previous experience of EFIC trials. CONCLUSION: Using the interactive media-based approach, CC/PD can be completed quickly; however, there are barriers that can incur substantial delays. Greater harmonization of local administrative processes would shorten the time to conduct CC/PD activities and facilitate the timely commencement and execution of EFIC trials. LEVEL OF EVIDENCE: Prognostic and Epidemiological; Level IV.",
               "title_ko": ""
             },
             {
@@ -6217,34 +6275,6 @@
               "title_ko": ""
             },
             {
-              "pmid": "39643509",
-              "title": "Rescue Sedation after 5 mg or 10 mg of Droperidol as the Initial Treatment for Acute Agitation in the Emergency Department.",
-              "journal": "The Journal of emergency medicine",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2024-08-03",
-              "authors": [
-                "Cole JB",
-                "Glass KA",
-                "Stevens QT"
-              ],
-              "citation_count": 6,
-              "rcr": 2.535980261618635,
-              "volume": "68",
-              "issue": "",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/39643509/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": false,
-              "hot_score": 18.9,
-              "field": "emergency",
-              "field_label": "응급의학",
-              "abstract": "BACKGROUND: Droperidol is used commonly to treat agitation in the emergency department (ED), however, data comparing doses are lacking. OBJECTIVE: The aim of this study was to compare the effectiveness of 5 mg vs. 10 mg as initial droperidol dose for acute agitation in the ED. METHODS: This single-center, retrospective study examined adult ED patients receiving either 5 mg or 10 mg droperidol as the first agent to treat agitation from 2010 to 2023. The primary outcome was need for additional (rescue) sedation within 1 h of initial droperidol dose. RESULTS: The authors identified 11,568 patients who received droperidol as their first medication (n = 8603 [74%] via intramuscular route); 10,293 received 5 mg and 1275 received 10 mg. Median age was 39 years (interquartile range 28-50 years); 8372 (72%) were male. Rescue sedation within 1 h was administered to 987 patients (9.6%) in the 5-mg group and 189 patients (14.8%) in the 10-mg group (difference 5.2%; 95% CI 3.2-7.3%). Additional sedation at any time was administered to 1776 patients (17.3%) in the 5-mg group and 318 (24.9%) in the 10-mg group (difference 7.7%; 95% CI 5.2-10.2%). Median length of stay was 471 min (interquartile range 347-611 min) in the 5 mg group and 487 min (interquartile range 364-641 min) in the 10-mg group (median difference 24 min; 95% CI 11-37 min). CONCLUSIONS: In this large cohort, patients deemed appropriately treated with 5 mg of droperidol required less rescue sedation than patients determined to need 10 mg.",
-              "title_ko": ""
-            },
-            {
               "pmid": "39904638",
               "title": "Managing Auricular Hematoma: An Emergency Medicine Narrative Review.",
               "journal": "The Journal of emergency medicine",
@@ -6381,6 +6411,34 @@
               "field_label": "응급의학",
               "abstract": "BACKGROUND: Rib fractures represent a common injury after blunt chest wall trauma with known complications including pneumothorax, hemothorax, pulmonary contusion, and pneumonia. This case report describes an emergency department patient with acute decompensation from aortic laceration as a rare complication of rib fractures. There are rare documented cases of this complication occurring in admitted patients with rib fractures, but this is one of the only cases that describes this complication occurring in a patient presenting to the emergency department. CASE REPORT: This case describes a patient who was found down at her home and presented to the emergency department in acute distress. She was found to have three left-sided posterior rib fractures, which had lacerated her thoracic aorta causing a large left hemothorax and acute decompensation. The patient was resuscitated in the emergency department followed by thoracic endovascular aortic repair in the operating room. The patient did well after surgical repair and was discharged from the hospital at her baseline mental and functional status. WHY SHOULD AN EMERGENCY PHYSICIAN BE AWARE OF THIS?: It remains important to resuscitate an acutely ill patient based on history, physical examination, and vital signs. The key takeaway from this case report is that, although rare, aortic laceration remains a possible complication of posterior rib fractures in a patient who acutely decompensates.",
               "title_ko": ""
+            },
+            {
+              "pmid": "39939186",
+              "title": "Outcomes for Emergency Presentations of Lung Cancer: A Scoping Review.",
+              "journal": "The Journal of emergency medicine",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2024-10-11",
+              "authors": [
+                "Pettit N",
+                "Missen MV",
+                "Noriega A"
+              ],
+              "citation_count": 2,
+              "rcr": null,
+              "volume": "70",
+              "issue": "",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/39939186/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 10.7,
+              "field": "emergency",
+              "field_label": "응급의학",
+              "abstract": "BACKGROUND: Lung cancer is frequently detected during visits to the emergency department (ED). The ED is crucial for identifying likely cases of lung cancer and coordinating the subsequent care for these patients. OBJECTIVES: This scoping review aims to explore the definitions of emergency presentations (EPs) of lung cancer, along with mortality rates, cancer stage, and treatments for patients diagnosed with lung cancer following an EP. METHODS: We conducted a scoping review of the literature on EPs of lung cancer, identifying 27 relevant articles out of 1338 initially screened. RESULTS: Most studies originated from the United Kingdom, collectively reporting over 270,000 EPs of lung cancer. The majority of included studies provided strong evidence. Key findings revealed higher mortality rates among patients diagnosed with lung cancer through emergency presentations, with a significant proportion presenting at advanced stages. Patients with EPs were less likely to undergo surgical removal or receive radiotherapy. Lastly, only 66.7% of the studies defined an EP, with great heterogeneity among EP definitions. Methodological differences precluded meta-analysis. CONCLUSION: Despite methodological heterogeneity, our synthesis indicates that patients presenting acutely with undiagnosed lung cancer often present at advanced stages and experience high mortality rates. These findings underscore the need for further research to develop evidence-based interventions for improving outcomes among ED patients with suspected lung cancer.",
+              "title_ko": ""
             }
           ]
         },
@@ -6445,239 +6503,6 @@
               "field": "emergency",
               "field_label": "응급의학",
               "abstract": "BACKGROUND: Falls are a significant issue among older adults, leading to morbidity and mortality. Screening for fall risk in the ED is crucial but challenging due to time limitations and patient conditions. Sarcopenia, characterized by muscle loss, is associated with increased fall risk, and ultrasound has been proposed as a non-invasive tool to measure muscle mass in this context. METHODS: This prospective cohort study enrolled 174 older adults from an urban teaching hospital's EDOU, assessing muscle mass via POCUS, grip strength, Timed Up and Go (TUG) test, and fall risk using the STEADI toolkit. The patients were followed up over six months to assess if they had fallen or not. RESULTS: Follow-up identified 37 participants (21 %) as patients who fell. There was no significant association between POCUS-measured muscle mass, grip strength, or TUG test performance with future falls. In contrast, STEADI questionnaire responses demonstrated significant differences between patients who fell and did not fall, suggesting its potential utility in predicting fall risk in this population. CONCLUSION: The simpler tool, the STEADI questionnaire, may offer more practicality in screening fall risk compared to complex ultrasound measurements or physical performance tests among the older in ED.",
-              "title_ko": ""
-            }
-          ]
-        },
-        {
-          "journal": "The western journal of emergency medicine",
-          "impact_factor": 1.5,
-          "index_type": "미상",
-          "quartile": "미상",
-          "paper_count": 7,
-          "top_paper": {
-            "pmid": "41380046",
-            "title": "Sociodemographic and Health Behaviour of Frequent, Avoidable Emergency Department Users in Ontario, Canada: A Population-based Descriptive Study.",
-            "journal": "The western journal of emergency medicine",
-            "impact_factor": 1.5,
-            "index_type": "미상",
-            "quartile": "미상",
-            "pubdate": "2025-10-21",
-            "authors": [
-              "Thompson C",
-              "Watson T",
-              "Schull MJ"
-            ],
-            "citation_count": 2,
-            "rcr": null,
-            "volume": "26",
-            "issue": "6",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/41380046/",
-            "altmetric_score": 0,
-            "altmetric_news": 0,
-            "altmetric_social": 0,
-            "is_current_issue": true,
-            "hot_score": 20.7,
-            "field": "emergency",
-            "field_label": "응급의학",
-            "abstract": "INTRODUCTION: Frequent users are a small but important group of patients in the emergency department (ED). This group is often the target of interventions that redirect visits to other areas of the healthcare system under the premise that some of these visits could be best managed elsewhere. Most existing interventions do not consider sociodemographic factors when targeting specific populations, while larger scale policy initiatives often do not reach those who would most benefit from alternative points of healthcare access. In this study we use population-level survey data linked to health administrative data to describe frequent ED users and those whose visits are potentially avoidable and could benefit from additional points of healthcare access. METHODS: This was a population-based cohort study of responses from 18-74 year-old Ontario residents to the Canadian Community Health Survey from 2001-2014, which we linked to administrative health data for one-year following survey completion. We categorized participants according to the frequency of their ED use in the year following survey date and whether any of their visits were potentially avoidable. Associations between category of ED use and various sociodemographic, health, and behavioural factors were examined with multinomial logistic regression. RESULTS: A total of 181,369 eligible respondents were included in this study. Of these, 1,460 (0.8%) were frequent users (four or more visits) with one or more potentially avoidable visits in the year following survey date. Compared to non-ED users, frequent users with avoidable visits were associated with the lowest quintile of household income (aOR: 1.91, 95% CI: 1.37, 2.65), rural-dwelling (aOR: 1.44, 95% CI: 1.18, 1.77), and the highest quintile of material resource deprived neighbourhoods (aOR: 2.23, 95% CI: 1.47, 3.36). They were more likely to have poor self-reported physical (17.2% vs 9.0%) and mental health (4.1% vs 2.7%) compared to total cohort, and more likely to have comorbidities (63.3% vs 48.7%), but less likely to access a usual provider of care for their healthcare needs (33.3% vs 28.2% without a usual provider of care). CONCLUSION: This study provides a novel description of frequent ED users for whom some of their visits were potentially avoidable. As efforts are made to redesign access to primary and community care, and with increasing emphasis on virtual care and other initiatives to reduce avoidable ED use, the healthcare system should ensure that these interventions are responsive to the needs of the people at higher likelihood of needing them.",
-            "title_ko": ""
-          },
-          "papers": [
-            {
-              "pmid": "41380046",
-              "title": "Sociodemographic and Health Behaviour of Frequent, Avoidable Emergency Department Users in Ontario, Canada: A Population-based Descriptive Study.",
-              "journal": "The western journal of emergency medicine",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2025-10-21",
-              "authors": [
-                "Thompson C",
-                "Watson T",
-                "Schull MJ"
-              ],
-              "citation_count": 2,
-              "rcr": null,
-              "volume": "26",
-              "issue": "6",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/41380046/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": true,
-              "hot_score": 20.7,
-              "field": "emergency",
-              "field_label": "응급의학",
-              "abstract": "INTRODUCTION: Frequent users are a small but important group of patients in the emergency department (ED). This group is often the target of interventions that redirect visits to other areas of the healthcare system under the premise that some of these visits could be best managed elsewhere. Most existing interventions do not consider sociodemographic factors when targeting specific populations, while larger scale policy initiatives often do not reach those who would most benefit from alternative points of healthcare access. In this study we use population-level survey data linked to health administrative data to describe frequent ED users and those whose visits are potentially avoidable and could benefit from additional points of healthcare access. METHODS: This was a population-based cohort study of responses from 18-74 year-old Ontario residents to the Canadian Community Health Survey from 2001-2014, which we linked to administrative health data for one-year following survey completion. We categorized participants according to the frequency of their ED use in the year following survey date and whether any of their visits were potentially avoidable. Associations between category of ED use and various sociodemographic, health, and behavioural factors were examined with multinomial logistic regression. RESULTS: A total of 181,369 eligible respondents were included in this study. Of these, 1,460 (0.8%) were frequent users (four or more visits) with one or more potentially avoidable visits in the year following survey date. Compared to non-ED users, frequent users with avoidable visits were associated with the lowest quintile of household income (aOR: 1.91, 95% CI: 1.37, 2.65), rural-dwelling (aOR: 1.44, 95% CI: 1.18, 1.77), and the highest quintile of material resource deprived neighbourhoods (aOR: 2.23, 95% CI: 1.47, 3.36). They were more likely to have poor self-reported physical (17.2% vs 9.0%) and mental health (4.1% vs 2.7%) compared to total cohort, and more likely to have comorbidities (63.3% vs 48.7%), but less likely to access a usual provider of care for their healthcare needs (33.3% vs 28.2% without a usual provider of care). CONCLUSION: This study provides a novel description of frequent ED users for whom some of their visits were potentially avoidable. As efforts are made to redesign access to primary and community care, and with increasing emphasis on virtual care and other initiatives to reduce avoidable ED use, the healthcare system should ensure that these interventions are responsive to the needs of the people at higher likelihood of needing them.",
-              "title_ko": ""
-            },
-            {
-              "pmid": "41380043",
-              "title": "The State of Simulation in Emergency Medicine Residency Programs in the United States.",
-              "journal": "The western journal of emergency medicine",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2025-10-21",
-              "authors": [
-                "Miller BD",
-                "Khoury C",
-                "Raper J"
-              ],
-              "citation_count": 2,
-              "rcr": null,
-              "volume": "26",
-              "issue": "6",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/41380043/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": true,
-              "hot_score": 20.7,
-              "field": "emergency",
-              "field_label": "응급의학",
-              "abstract": "INTRODUCTION: Using simulation-based medical education has proven to be an effective instructional strategy both procedurally and clinically. Emergency medicine (EM) residency programs use simulation in a variety of ways and settings. Given the ongoing development of the field and the recent expansion of EM training programs, our objective was to assess the current state of simulation use in Accreditation Council for Graduate Medical Education (ACGME)-approved EM residency programs in the United States. METHODS: We performed this cross-sectional national survey from July-September 2022. The survey was sent to the residency program directors of all 277 ACGME-accredited EM residency programs in the US. The survey focused on simulation use, technology, types of simulation (procedural vs case-based), barriers to growth, and overall sentiments regarding simulation in EM. RESULTS: We attempted to contact 277 programs, successfully reaching 244. We received a total of 100 responses (36%). Nearly all responding programs reported access to a dedicated sim center (95.8%), with available high-fidelity manikin simulators (93%) and task trainers (90%). Most programs engage in simulation didactics monthly (50%), followed by more than monthly (22%) and quarterly (19%). Barriers to simulation implementation included funding, simulation lab availability, and equipment. Programs frequently used simulation to perform the majority of rare but required procedures, and about half of the programs responding reported simulation fellowship-trained faculty on staff. CONCLUSION: Simulation education is an important aspect of EM residency and training. Most residency programs reported dedication and resources to developing and integrating simulation into their curriculum. There is likely room for its further use in residency program training in the coming years as residency programs continue to expand.",
-              "title_ko": ""
-            },
-            {
-              "pmid": "41380079",
-              "title": "Pediatric Upper Extremity Firearm-related Injuries: A Level I Pediatric Trauma Center Experience.",
-              "journal": "The western journal of emergency medicine",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2025-10-09",
-              "authors": [
-                "Braswell AC",
-                "Soto E",
-                "Bloom AD"
-              ],
-              "citation_count": 0,
-              "rcr": null,
-              "volume": "26",
-              "issue": "6",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/41380079/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": true,
-              "hot_score": 10.0,
-              "field": "emergency",
-              "field_label": "응급의학",
-              "abstract": "INTRODUCTION: Firearm injuries have become increasingly more common in the pediatric population; however, there is a paucity of literature examining the management of these pediatric firearm-related injuries (FRI) specifically as they affect the upper extremity. This study identifies demographic and environmental risk factors in pediatric upper extremity FRIs and evaluates the severity of injury, concomitant injuries, and rates of surgical intervention in pediatric patients treated at a Level I pediatric trauma center over 20 years. METHODS: We completed a retrospective analysis on 540 patients <18 years of age with FRIs at a single institution from 2001 - 2020. Of these, 72 (13%) had FRIs involving the upper extremity. The patients were stratified into groups based on whether they had received operative intervention or a bedside procedure for their injury and on their year of presentation between two decades (2001 - 2010 vs. 2011 - 2020). We obtained upper extremity injury-specific variables along with hospital demographics. The primary outcomes in this study included hospital length of stay, number of bullet wounds, motor and sensory deficits, and amputation. RESULTS: In the last 10 years, the rate of upper extremity FRIs observed in the pediatric population has increased by 380% at our institution (15 vs. 57, P < .001). After 2010, cases were more likely to present with an increased number of gunshot wounds per patient (1.14 vs. 1.98, 95% confidence interval [CI] -0.94 - 0.24, P = .03) but were less likely to require admission to the intensive care unit (19% vs. 67%, P < .001). When stratifying by intervention, both the operative intervention and bedside procedure groups had a similar number of gunshot wounds (1.86 vs 1.76, 95% CI -0.52 - 0.43, P = .86). The operative intervention group was more likely to have had a soft tissue injury (68% vs. 35%, P = .005) and motor deficit at follow-up (45% vs.15%, P =.02). Patients in the operative intervention group had longer lengths of stay (9.66 vs. 2.25 days, 95% CI -1.16 - -0.21, P < .01) and more morbid injuries despite similar patient demographics. CONCLUSION: In the last decade, an increased frequency of pediatric upper extremity firearm-related injuries was noted despite a stagnant state population. Emphasis should continue to be placed on education and improving firearm safety in settings in which children are present.",
-              "title_ko": ""
-            },
-            {
-              "pmid": "41380074",
-              "title": "Demographic and Clinical Characteristics of Pediculosis-associated Severe Anemia in the Emergency Department.",
-              "journal": "The western journal of emergency medicine",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2025-10-21",
-              "authors": [
-                "Plowe W",
-                "Colling R",
-                "Mohan S"
-              ],
-              "citation_count": 0,
-              "rcr": null,
-              "volume": "26",
-              "issue": "6",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/41380074/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": true,
-              "hot_score": 10.0,
-              "field": "emergency",
-              "field_label": "응급의학",
-              "abstract": "INTRODUCTION: Infestation with Pediculus species, or common lice, is frequently diagnosed in the emergency department (ED). Because lice ingest human blood, prolonged and heavy infestation can plausibly lead to iron deficiency anemia. Severe anemia attributable to lice infestation has infrequently been reported to date. Our objective in this study was to retrospectively review cases of lice-related anemia at a single public hospital to identify risk factors and associated demographic and clinical features of this disease process. METHODS: We screened the medical records for patients presenting to the ED of an urban public hospital between 2016-2024 for the diagnoses of lice infestation and severe anemia (hemoglobin < 7 grams per deciliter (g/dL). Cases were reviewed for clinical and demographic characteristics. RESULTS: A total of 932 patients were diagnosed with pediculosis infestation in the ED during the study period; 332 (35.6%) of those patients had a complete blood count obtained by the treating team. Thirty-seven cases of severe anemia were identified (3.9% of total pediculosis cases, 11.1% of those for whom a complete blood count was obtained); 84% were microcytic, indicating iron deficiency anemia. Twenty-five patients (68%) were undomiciled, and nine patients (24%) were shelter domiciled. Twenty-three patients (62%) had comorbid psychiatric diagnoses, and 21 (51%) had substance use disorders. The median hemoglobin was 4.4 g/dL (range 2.4-6.9 g/dL). Thirty patients (81%) were admitted to a medical floor and seven patients (19%) to an intensive care unit, each with a comorbid primary condition. CONCLUSION: In this cohort, anemia secondary to lice infestation was seen in patients with unstable housing, substance use disorders, and psychiatric disease. Most patients were hemodynamically stable, consistent with the proposed mechanism of chronic blood loss. The prevalence of this condition may be higher than previously noted among this vulnerable population. Emergency physicians should be aware of this rare but potentially serious disease process.",
-              "title_ko": ""
-            },
-            {
-              "pmid": "41380065",
-              "title": "Emergency Medicine Residents' Performance with National Institutes of Health Stroke Scale and Its Impact on Key Stroke-care Metrics.",
-              "journal": "The western journal of emergency medicine",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2025-10-21",
-              "authors": [
-                "Roces M",
-                "Alacala-Arcos T",
-                "Addo N"
-              ],
-              "citation_count": 0,
-              "rcr": null,
-              "volume": "26",
-              "issue": "6",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/41380065/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": true,
-              "hot_score": 10.0,
-              "field": "emergency",
-              "field_label": "응급의학",
-              "abstract": "BACKGROUND: Emergency medicine (EM) physicians commonly use the National Institutes of Health Stroke Scale (NIHSS) to assess acute ischemic strokes in community settings. However, this assessment is often led by neurology residents in academic teaching hospitals. We implemented a quality improvement intervention to improve EM resident comfort with the NIHSS and to assess if EM resident-led NIHSS evaluation prolonged key stroke metrics, such as door-to-CT (DTCT), door-to-needle (DTN), or door-to-groin puncture (DTGP) times, which may affect stroke outcomes. METHODS: This prospective observational comparison analyzed all patients with acute ischemic strokes at the Zuckerberg San Francisco General Hospital, a Level I trauma center from April 2021-October 2022. We implemented the intervention from April 2022 -October 2022 which included NIHSS certification for all residents and attendings. Both EM and neurology residents recorded NIHSS scores separately for each patient and scores were revealed to each resident during patient care once completed. We then compared stroke metrics between pre- and post-intervention periods. RESULTS: There were 247 and 122 strokes included in our analysis, pre- and post-intervention, respectively. Overall, 58% (n=213) of all patients were female, 33% were Asian (n=123), and Cantonese was the second most common language after English (15%, n=54). Mean overall NIHSS scores were similar between EM and neurology residents, 6.6 (IQR = 2, 10) and 6.7 (IQR = 1, 10), (p < 0.001), respectively, with substantial agreement between groups (84.4%, κ = 0.63). Median DTCT times were 25 and 28 minutes (p=0.2), DTN times were 38 and 35 minutes (p=0.7), and DTGP times were 94 and 110 minutes (p=0.1) for pre- and post-intervention groups, respectively. CONCLUSION: The NIHSS is one element of stroke evaluation and management that can impact stroke metrics. Our intervention found that EM resident-led NIHSS assessment did not prolong DTCT, DTN, and DTGP times and met nationally established goals.",
-              "title_ko": ""
-            },
-            {
-              "pmid": "41380058",
-              "title": "Prevalence and Impact of Violence Against Healthcare Workers in Brazilian Emergency Departments: A National Survey.",
-              "journal": "The western journal of emergency medicine",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2025-10-17",
-              "authors": [
-                "Dorn de Carvalho JM",
-                "McGuire SS",
-                "Oliveira LLR"
-              ],
-              "citation_count": 0,
-              "rcr": null,
-              "volume": "26",
-              "issue": "6",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/41380058/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": true,
-              "hot_score": 10.0,
-              "field": "emergency",
-              "field_label": "응급의학",
-              "abstract": "INTRODUCTION: Workplace violence (WPV) is a significant occupational hazard in healthcare, with emergency departments (EDs) recognized as high-risk environments. Although globally significant, data from Latin America remain scarce. In this study we aimed to evaluate the prevalence and effects of WPV on healthcare workers in Brazilian EDs. METHODS: We conducted a cross-sectional survey of healthcare workers in Brazilian EDs. Respondents indicated verbal and physical violence experienced within the preceding six months, along with associated psychological and occupational impacts. Univariable models identified significant associated factors, followed by multivariable models to determine independent associated factors of WPV. We reported results as adjusted odds ratios (aOR) with 95% confidence intervals. Statistical analyses were performed in R v4.4.1, and significance was defined as P < .05. RESULTS: The response rate was 19.1% (1,255/6,570), Of those responses, 61.3% (769/1,255) met the inclusion criteria and were included in the analysis. Of all respondents, 84.0% were physicians. Respondents indicated 79.6% (612/769) occurrence of WPV, including verbal abuse (79.5%) and physical assault (12.1%). Physical assaults against co-workers were witnessed by 40.3% of respondents. Perpetrators included visitors (85.3%), patients (80.7%), and co-workers (35.8%). The absence of institutional preventive measures was associated with increased WPV (aOR, 2.47; 95% CI, 1.71-3.57; P < .001), while the presence of security staff reduced WPV (aOR, 0.61; 95% CI, 0.42-0.89; P = .01). Indicated impact included post-traumatic stress symptoms (88.4%), considering leaving their job (49.5%), impaired workplace performance (75.2%), and time off work (10%), including 11.5% permanently leaving. CONCLUSION: Workplace violence is highly prevalent in Brazilian EDs, with substantial psychological and occupational consequences. The absence of protocols or preventive measures may increase WPV risk, emphasizing the urgent need for public policies to protect healthcare workers in emergency settings.",
-              "title_ko": ""
-            },
-            {
-              "pmid": "42054115",
-              "title": "Gender- and Sex-equitable Submission Guidelines in Emergency Medicine Journals Are Associated with Enhanced Publication Metrics.",
-              "journal": "The western journal of emergency medicine",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2025-06-10",
-              "authors": [
-                "Manes A",
-                "Lall MD",
-                "Knight S"
-              ],
-              "citation_count": 0,
-              "rcr": null,
-              "volume": "27",
-              "issue": "2",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/42054115/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": false,
-              "hot_score": 0.0,
-              "field": "emergency",
-              "field_label": "응급의학",
-              "abstract": "INTRODUCTION: Gender and sex equity-promoting (GSEP) clinical research is essential to improving diversity and inclusivity in medicine. In this study we aimed to compare journal impact metrics in emergency medicine (EM) between journals that integrated gender- and sex-based considerations and those that did not. METHODS: We searched the 2023 Journal Citations Report (Clarivate Analytics) for EM journals. Submission guidelines of each EM journal were examined according to the SAGER (Sex and Gender Equity in Research) guidelines and stratified as conforming or non-conforming depending on whether at least one SAGER criterion was met. Our primary outcome measure was the journal impact factor. Secondary outcome measures included other citation and influence metrics: total citations; 5-year journal impact factor; journal citation indicator; article influence score, normalized Eigenfactor score; citable items; total articles; and immediacy index. RESULTS: Based on our classification system informed by the SAGER criteria, most journals (66%, 31/47) were classified as non-compliant. The EM journals that conformed to the sex and gender equity guidelines were rated higher than non-conforming journals across all studied journal metrics. We found that conforming journals had a significantly higher median difference (MD) than non-conforming EM journals in total citations (MD 1,586; GSEP: 3,599 vs non-GSEP: 901); 2023 2-year journal impact factor (MD 0.8; 2.3 vs 1.4); 5-year journal impact factor (MD 0.7; 2.5 vs 1.9); article influence score (MD 0.26; 0.76 vs 0.47); normalized Eigenfactor score (MD 0.79; 1.06 vs 0.26); citable items (MD 37; 103 vs 56), and total articles (MD 41; 87 vs 42). All differences were statistically significant (P < 0.05). CONCLUSION: Using criteria informed by the Sex and Gender Equity in Research guidelines, most EM journals (66%) were classified as non-conforming to these guidelines. This indicates a significant gap in the integration of gender- and sex-based considerations in EM research publication practices.",
               "title_ko": ""
             }
           ]
@@ -8888,6 +8713,71 @@
           ]
         },
         {
+          "journal": "Journal of forensic nursing",
+          "impact_factor": 1.5,
+          "index_type": "미상",
+          "quartile": "미상",
+          "paper_count": 1,
+          "top_paper": {
+            "pmid": "39787508",
+            "title": "Improving Access to Community-Based Services for Sexual Assault Survivors.",
+            "journal": "Journal of forensic nursing",
+            "impact_factor": 1.5,
+            "index_type": "미상",
+            "quartile": "미상",
+            "pubdate": "2024-10-23",
+            "authors": [
+              "Brosnan J",
+              "Shannon R",
+              "Krueger S"
+            ],
+            "citation_count": 1,
+            "rcr": null,
+            "volume": "21",
+            "issue": "2",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/39787508/",
+            "altmetric_score": 0,
+            "altmetric_news": 0,
+            "altmetric_social": 0,
+            "is_current_issue": true,
+            "hot_score": 16.8,
+            "field": "emergency",
+            "field_label": "응급의학",
+            "abstract": "BACKGROUND: Emergency department (ED) encounters are often the only healthcare provider encounter for patients seeking care after a reported sexual assault (SA), making the encounter a crucial opportunity to connect patients to support services in the community. An opportunity existed at an urban Level II trauma center to standardize SA discharge planning. AIMS: This quality improvement project aimed to improve access to SA support services. METHODS: The Model for Improvement guided two plan-do-study-act (PDSA) cycles. Implementation included (a) creation of a QR-code-accessible SA resource website, (b) ED standardized patient print and electronic medical record after-visit summaries with follow-up guidelines and the QR code, (c) ED staff education, and (d) a community stakeholder survey to assess facilitators and barriers to support services. RESULTS: During the first PDSA cycle, 19 reported SA survivors were seen in the ED (18 adult, one pediatric) and 14 SA resource website visits. During the second PDSA cycle, 13 reported SA survivors (10 adult, three pediatric) were seen in the ED and 29 website visits. Stakeholder survey data revealed barriers to support services were transportation, overloaded support services, and survivor knowledge of existing services. CONCLUSION: The QR code intervention model is a discrete method of improving access to resources and is applicable to other vulnerable populations. The multiagency SA response team will utilize partner survey data to improve access to community resources such as housing and transportation.",
+            "title_ko": ""
+          },
+          "papers": [
+            {
+              "pmid": "39787508",
+              "title": "Improving Access to Community-Based Services for Sexual Assault Survivors.",
+              "journal": "Journal of forensic nursing",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2024-10-23",
+              "authors": [
+                "Brosnan J",
+                "Shannon R",
+                "Krueger S"
+              ],
+              "citation_count": 1,
+              "rcr": null,
+              "volume": "21",
+              "issue": "2",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/39787508/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": true,
+              "hot_score": 16.8,
+              "field": "emergency",
+              "field_label": "응급의학",
+              "abstract": "BACKGROUND: Emergency department (ED) encounters are often the only healthcare provider encounter for patients seeking care after a reported sexual assault (SA), making the encounter a crucial opportunity to connect patients to support services in the community. An opportunity existed at an urban Level II trauma center to standardize SA discharge planning. AIMS: This quality improvement project aimed to improve access to SA support services. METHODS: The Model for Improvement guided two plan-do-study-act (PDSA) cycles. Implementation included (a) creation of a QR-code-accessible SA resource website, (b) ED standardized patient print and electronic medical record after-visit summaries with follow-up guidelines and the QR code, (c) ED staff education, and (d) a community stakeholder survey to assess facilitators and barriers to support services. RESULTS: During the first PDSA cycle, 19 reported SA survivors were seen in the ED (18 adult, one pediatric) and 14 SA resource website visits. During the second PDSA cycle, 13 reported SA survivors (10 adult, three pediatric) were seen in the ED and 29 website visits. Stakeholder survey data revealed barriers to support services were transportation, overloaded support services, and survivor knowledge of existing services. CONCLUSION: The QR code intervention model is a discrete method of improving access to resources and is applicable to other vulnerable populations. The multiagency SA response team will utilize partner survey data to improve access to community resources such as housing and transportation.",
+              "title_ko": ""
+            }
+          ]
+        },
+        {
           "journal": "Acta clinica Belgica",
           "impact_factor": 1.5,
           "index_type": "미상",
@@ -8948,127 +8838,6 @@
               "field": "emergency",
               "field_label": "응급의학",
               "abstract": "OBJECTIVES: Urinary tract infections (UTIs) are an important cause of empiric antibiotic (over)treatment at the emergency department (ED). To enhance empiric antibiotic choices, mapping the national and local microbiology and antimicrobial resistance (AMR) patterns is crucial. This study aims to examine resistance patterns at a Brussels ED and to identify risk factors for AMR to evaluate current treatment guidelines and help combat AMR. METHODS: Adult patients undergoing urinalysis at the ED of a Brussels tertiary care hospital with positive urine cultures were included. Descriptive microbiological mapping of UTI or asymptomatic bacteriuria (ASB) micro-organisms was performed. Potential risk factors of antibiotic resistance in Gram-negative bacteria were assessed by using logistic regression analysis. RESULTS: Out of 96 patients with Gram-negative bacteria in urinary culture, the predominant uropathogen was Escherichia coli (58.3%), with 8.6% being extended spectrum beta-lactamase (ESBL)-producing strains. Overall, fosfomycin (29.2%) and nitrofurantoin (28.6%) showed the highest resistance rates. Ceftriaxone revealed lower resistance rates (13.1%) compared to ciprofloxacin (17.0%) and cefuroxime (18.4%). Temocillin exhibited the lowest resistance rate (8.2%) especially against ESBLs (0%). Ciprofloxacin resistance increased with age (OR 1.05 [1.01-1.10]) and recurrent UTIs (OR 4.79 [1.18-19.42]). Male gender was associated with higher odds of temocillin resistance (OR 5.79 [1.18-28.34]). CONCLUSION: In the studied Belgian ED setting, ceftriaxone seems slightly safer than ciprofloxacin, especially for recurrent UTI patients. However, overall, and especially in patients at risk for ESBL-producing bacteria, temocillin would be an even better choice in our setting. National microbiological data should be reviewed to support recommending temocillin as a first-line antibiotic in patients presenting with upper UTI.",
-              "title_ko": ""
-            }
-          ]
-        },
-        {
-          "journal": "Assistenza infermieristica e ricerca : AIR",
-          "impact_factor": 1.5,
-          "index_type": "미상",
-          "quartile": "미상",
-          "paper_count": 3,
-          "top_paper": {
-            "pmid": "39660598",
-            "title": "[The implementation of the process nurse in an emergency department: evaluation of the clinical impact].",
-            "journal": "Assistenza infermieristica e ricerca : AIR",
-            "impact_factor": 1.5,
-            "index_type": "미상",
-            "quartile": "미상",
-            "pubdate": "2024-10-01",
-            "authors": [
-              "Olagnero JM",
-              "Silvestro A",
-              "Deiana C"
-            ],
-            "citation_count": 1,
-            "rcr": 0.7476830537055651,
-            "volume": "43",
-            "issue": "4",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/39660598/",
-            "altmetric_score": 0,
-            "altmetric_news": 0,
-            "altmetric_social": 0,
-            "is_current_issue": true,
-            "hot_score": 16.8,
-            "field": "emergency",
-            "field_label": "응급의학",
-            "abstract": "UNLABELLED: . The implementation of the process nurse in an emergency department: evaluation of the clinical impact. INTRODUCTION: The nursing management of uncomplicated trauma in the emergency department (ED) may be beneficial. Following a training programme based on evidence-based practice, the process nurse (PN) was implemented in an ED in Turin, Italy. AIM: To assess the impact of the PN on the management of patient flow in the ED, with a particular focus on uncomplicated trauma. METHODS: An observational study was conducted on patients admitted to the ED with minor traumas in the year before and after the implementation of the PN. The characteristics of the sample and differences in mean time taken before the start of the diagnostic pathway and the overall stay in the ED were investigated, as well as the number of triage re-assessments. RESULTS: A total of 24,900 ED users for traumatic problems, mostly with medium-low priority codes, were analysed. The drop-out rate before physician visit was significantly reduced (2.5% vs 0.5%; p <0.01), as was the waiting time before the start of the diagnostic pathway (p <0.01); the overall time spent in the ED was reduced by more than two hours (p <0.01), as well as the number of triage re-assessments during waiting time (p <0.01). CONCLUSIONS: Training programmes for emergency nurses and the implementation of the PN significantly impacted on the clinical and organizational outcomes, influencing drop-out rate and length of stay in the ED. Nursing management of selected users before physician examination may prevent overcrowding.",
-            "title_ko": ""
-          },
-          "papers": [
-            {
-              "pmid": "39660598",
-              "title": "[The implementation of the process nurse in an emergency department: evaluation of the clinical impact].",
-              "journal": "Assistenza infermieristica e ricerca : AIR",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2024-10-01",
-              "authors": [
-                "Olagnero JM",
-                "Silvestro A",
-                "Deiana C"
-              ],
-              "citation_count": 1,
-              "rcr": 0.7476830537055651,
-              "volume": "43",
-              "issue": "4",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/39660598/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": true,
-              "hot_score": 16.8,
-              "field": "emergency",
-              "field_label": "응급의학",
-              "abstract": "UNLABELLED: . The implementation of the process nurse in an emergency department: evaluation of the clinical impact. INTRODUCTION: The nursing management of uncomplicated trauma in the emergency department (ED) may be beneficial. Following a training programme based on evidence-based practice, the process nurse (PN) was implemented in an ED in Turin, Italy. AIM: To assess the impact of the PN on the management of patient flow in the ED, with a particular focus on uncomplicated trauma. METHODS: An observational study was conducted on patients admitted to the ED with minor traumas in the year before and after the implementation of the PN. The characteristics of the sample and differences in mean time taken before the start of the diagnostic pathway and the overall stay in the ED were investigated, as well as the number of triage re-assessments. RESULTS: A total of 24,900 ED users for traumatic problems, mostly with medium-low priority codes, were analysed. The drop-out rate before physician visit was significantly reduced (2.5% vs 0.5%; p <0.01), as was the waiting time before the start of the diagnostic pathway (p <0.01); the overall time spent in the ED was reduced by more than two hours (p <0.01), as well as the number of triage re-assessments during waiting time (p <0.01). CONCLUSIONS: Training programmes for emergency nurses and the implementation of the PN significantly impacted on the clinical and organizational outcomes, influencing drop-out rate and length of stay in the ED. Nursing management of selected users before physician examination may prevent overcrowding.",
-              "title_ko": ""
-            },
-            {
-              "pmid": "39660597",
-              "title": "[Organizational well-being and work-life balance: the role of 12-hour shifts in an Emergency Department].",
-              "journal": "Assistenza infermieristica e ricerca : AIR",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2024-10-01",
-              "authors": [
-                "Alberti A",
-                "Carta A",
-                "Rossi F"
-              ],
-              "citation_count": 1,
-              "rcr": 0.4979645702308431,
-              "volume": "43",
-              "issue": "4",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/39660597/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": true,
-              "hot_score": 16.8,
-              "field": "emergency",
-              "field_label": "응급의학",
-              "abstract": "UNLABELLED: . Organizational well-being and work-life balance: the role of 12-hour shifts in an Emergency Department. INTRODUCTION: In recent years a significant number of health professionals is leaving the National Health System. To increase the attractiveness of the workplace and as a welfare strategy, Azienda Ulss 3 Serenissima implemented the 12-hour shift model in the Emergency Department in Venice. OBJECTIVE: To describe the impact of the 12-hour shift in a ward with low average workloads and long waiting breaks. METHODS: Five months after the implementation of the shift, a questionnaire was sent to the 102 employees (nurses, nurse aides, and drivers/motor boat drivers) to assess their well-being and satisfaction with the shift schedule. Department coordinators were required to report the number of days of absence for injury or illness and staff returns to cover the shift schedule. RESULTS: Ninety-five (93.1%) employees responded. All healthcare staff reported satisfaction with the new longer shift model; 91 (96%) of them did not perceive it as more tiring despite working longer. The number of extra shifts and of sick leave recorded did not increase compared to the same period of the previous year. No episodes of missed care or adverse events were reported. CONCLUSIONS: The 12-hour shift was appreciated because it promotes a sharper separation between work and leisure than the traditional shift model, allows for better staff management, and is not associated with increased absences for health reasons.",
-              "title_ko": ""
-            },
-            {
-              "pmid": "39660596",
-              "title": "[Social-work service in the emergency department to improve care for the vulnerable older patient: a local experience in Italy].",
-              "journal": "Assistenza infermieristica e ricerca : AIR",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2024-10-01",
-              "authors": [
-                "Paolillo C",
-                "Longhini J",
-                "Magrella F"
-              ],
-              "citation_count": 0,
-              "rcr": 0.0,
-              "volume": "43",
-              "issue": "4",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/39660596/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": true,
-              "hot_score": 10.0,
-              "field": "emergency",
-              "field_label": "응급의학",
-              "abstract": "UNLABELLED: . Social-work service in the emergency department to improve care for the vulnerable older patient: a local experience in Italy. INTRODUCTION: The needs of older and frail people are increasing, and specific pathways in healthcare settings are needed. AIM: To describe the services and discharge destinations of people >65 years old with vulnerabilities followed by a new social care service in the emergency department (ED). METHODS: All patients referred to the social care service in the ED of a hospital over an eleven-month period were included. The service consisted of a social worker available from 9 am to 3 pm in the ED to assess the post-discharge health and social care needs of users identified by the ED doctor. Interventions carried out, post-discharge destinations and services activated were assessed. RESULTS: Between January and November 2022, 145 patients (median age 84 years) accessing the ED were referred to the social care service. The reasons for accessing the ED were medical conditions (93, 64.1%) and injury-related issues (52, 35.9%), particularly falls. The services provided included initiating procedures for long-term care placement (56.1%), consultations, referrals to municipal social services, activation of procedures for legal guardianship, and notification to the general practitioner. Overall, 46.6% of patients were admitted to a long-term care facility, 37.9% were discharged home, and 10.9% to a temporary post-acute care facility. Patients accessing the ED for injury-related issues and admitted to the hospital were more frequently institutionalized. CONCLUSIONS: Ninety-two patients (63%) referred to social workers did not require hospital admission. Social workers provided valuable services to vulnerable elderly patients in the ED to ensure the most appropriate support after discharge.",
               "title_ko": ""
             }
           ]
@@ -10021,6 +9790,71 @@
               "title_ko": ""
             }
           ]
+        },
+        {
+          "journal": "Brazilian dental journal",
+          "impact_factor": 1.5,
+          "index_type": "미상",
+          "quartile": "미상",
+          "paper_count": 1,
+          "top_paper": {
+            "pmid": "41370468",
+            "title": "Comparison of Blue®m and chlorhexidine mouthwash on oral health of intubated patients in intensive care unit.",
+            "journal": "Brazilian dental journal",
+            "impact_factor": 1.5,
+            "index_type": "미상",
+            "quartile": "미상",
+            "pubdate": "2025-12-08",
+            "authors": [
+              "Teixeira TC",
+              "Ribeiro RAG",
+              "Mascella V"
+            ],
+            "citation_count": 3,
+            "rcr": null,
+            "volume": "36",
+            "issue": "",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/41370468/",
+            "altmetric_score": 0,
+            "altmetric_news": 0,
+            "altmetric_social": 0,
+            "is_current_issue": false,
+            "hot_score": 13.5,
+            "field": "emergency",
+            "field_label": "응급의학",
+            "abstract": "This research aims to evaluate whether blue®m mouthwash can be used as a suitable alternative to chlorhexidine mouthwash for improving the oral health of intubated patients in ICUs. This is a randomized clinical study. The sample comprised 50 mechanically ventilated adults randomly allocated in a block of 10 to the 0.12% chlorhexidine digluconate (CHX) and the blue®m group. The patients' oral and tracheal secretions were collected in four different periods: T1 - 24h after intubation (without sanitation); T2 - 24h after intubation (with sanitation); T3 - 48h after intubation (without sanitation); T4 - 48h after intubation (with sanitation). Bacterial and fungal identification was performed. The presence of bacteria was graded as abundant, moderate, and scarce. Descriptive and inferential statistics were performed. Fifty patients with a mean age of 62.7 ± 13.3 years (20 to 86 years) were treated, 24 in the CHX group and 26 in the blue®m group. The most frequent pathogens in the patient's oral environment were Acinetobacter baumanii, Pseudomonas aeruginosa, and Klebsiella pneumonia. Analysis of the effectiveness of both antiseptics indicated statistically significant differences in the median values of the microbial population between collection periods in the CHX (χ2=13.2, p=0.004) and blue®m (χ2=9.49, p=0.023) group. No significant statistical difference in microbial population was found between the groups (T1- p=0.375; T2 - p=0.955; T3 - p=0.765; T4 - p=0.898). Blue®m mouthwash effectively reduces the oral microbial population and does not differ from chlorhexidine in terms of reduction. Blue®m mouthwash can be used as an alternative to chlorhexidine for mechanical ventilator patients in the ICU.",
+            "title_ko": ""
+          },
+          "papers": [
+            {
+              "pmid": "41370468",
+              "title": "Comparison of Blue®m and chlorhexidine mouthwash on oral health of intubated patients in intensive care unit.",
+              "journal": "Brazilian dental journal",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2025-12-08",
+              "authors": [
+                "Teixeira TC",
+                "Ribeiro RAG",
+                "Mascella V"
+              ],
+              "citation_count": 3,
+              "rcr": null,
+              "volume": "36",
+              "issue": "",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/41370468/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 13.5,
+              "field": "emergency",
+              "field_label": "응급의학",
+              "abstract": "This research aims to evaluate whether blue®m mouthwash can be used as a suitable alternative to chlorhexidine mouthwash for improving the oral health of intubated patients in ICUs. This is a randomized clinical study. The sample comprised 50 mechanically ventilated adults randomly allocated in a block of 10 to the 0.12% chlorhexidine digluconate (CHX) and the blue®m group. The patients' oral and tracheal secretions were collected in four different periods: T1 - 24h after intubation (without sanitation); T2 - 24h after intubation (with sanitation); T3 - 48h after intubation (without sanitation); T4 - 48h after intubation (with sanitation). Bacterial and fungal identification was performed. The presence of bacteria was graded as abundant, moderate, and scarce. Descriptive and inferential statistics were performed. Fifty patients with a mean age of 62.7 ± 13.3 years (20 to 86 years) were treated, 24 in the CHX group and 26 in the blue®m group. The most frequent pathogens in the patient's oral environment were Acinetobacter baumanii, Pseudomonas aeruginosa, and Klebsiella pneumonia. Analysis of the effectiveness of both antiseptics indicated statistically significant differences in the median values of the microbial population between collection periods in the CHX (χ2=13.2, p=0.004) and blue®m (χ2=9.49, p=0.023) group. No significant statistical difference in microbial population was found between the groups (T1- p=0.375; T2 - p=0.955; T3 - p=0.765; T4 - p=0.898). Blue®m mouthwash effectively reduces the oral microbial population and does not differ from chlorhexidine in terms of reduction. Blue®m mouthwash can be used as an alternative to chlorhexidine for mechanical ventilator patients in the ICU.",
+              "title_ko": ""
+            }
+          ]
         }
       ],
       "hot_topics": [
@@ -10087,16 +9921,6 @@
           ]
         },
         {
-          "phrase": "trauma center",
-          "score": 43.6,
-          "paper_count": 3,
-          "pmids": [
-            "41380079",
-            "39668536",
-            "39648775"
-          ]
-        },
-        {
           "phrase": "machine learning",
           "score": 41.0,
           "paper_count": 5,
@@ -10106,6 +9930,15 @@
             "41668730",
             "41726397",
             "40417519"
+          ]
+        },
+        {
+          "phrase": "intensive unit",
+          "score": 39.2,
+          "paper_count": 2,
+          "pmids": [
+            "39787549",
+            "41370468"
           ]
         },
         {
@@ -10127,21 +9960,21 @@
           ]
         },
         {
+          "phrase": "trauma center",
+          "score": 33.6,
+          "paper_count": 2,
+          "pmids": [
+            "39668536",
+            "39648775"
+          ]
+        },
+        {
           "phrase": "covid- triage",
           "score": 30.3,
           "paper_count": 2,
           "pmids": [
             "39689150",
             "40561321"
-          ]
-        },
-        {
-          "phrase": "critically ill",
-          "score": 28.2,
-          "paper_count": 2,
-          "pmids": [
-            "39671440",
-            "39699429"
           ]
         }
       ],
@@ -10158,8 +9991,8 @@
             "scores": [
               0.0,
               91.5,
-              57.9,
-              30.0
+              67.9,
+              20.0
             ]
           },
           {
@@ -10172,24 +10005,6 @@
             ]
           },
           {
-            "phrase": "intensive unit",
-            "scores": [
-              0.0,
-              36.4,
-              23.5,
-              20.0
-            ]
-          },
-          {
-            "phrase": "cardiac arrest",
-            "scores": [
-              0.0,
-              37.5,
-              27.5,
-              10.0
-            ]
-          },
-          {
             "phrase": "critically ill",
             "scores": [
               0.0,
@@ -10199,12 +10014,30 @@
             ]
           },
           {
-            "phrase": "trauma center",
+            "phrase": "intensive unit",
             "scores": [
               0.0,
-              33.6,
-              10.0,
-              20.0
+              36.4,
+              23.5,
+              10.0
+            ]
+          },
+          {
+            "phrase": "traumatic brain",
+            "scores": [
+              0.0,
+              40.9,
+              16.8,
+              10.0
+            ]
+          },
+          {
+            "phrase": "brain injury",
+            "scores": [
+              0.0,
+              40.9,
+              16.8,
+              10.0
             ]
           }
         ]
