@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-21T20:33:44.246381Z",
+  "generated_at": "2026-10-22T20:33:54.039351Z",
   "window_days": 1095,
   "fields": [
     {
       "key": "preventive",
       "label": "예방의학",
-      "paper_count": 449,
+      "paper_count": 445,
       "journals": [
         {
           "journal": "The Orthopedic clinics of North America",
@@ -462,7 +462,7 @@
           "impact_factor": 1.5,
           "index_type": "미상",
           "quartile": "미상",
-          "paper_count": 94,
+          "paper_count": 95,
           "top_paper": {
             "pmid": "39949340",
             "title": "Analysis of factors influencing HPV vaccination intention among Chinese college students: structural equation modeling based on health belief theory.",
@@ -722,7 +722,7 @@
           "impact_factor": 1.5,
           "index_type": "미상",
           "quartile": "미상",
-          "paper_count": 6,
+          "paper_count": 7,
           "top_paper": {
             "pmid": "39963235",
             "title": "Evaluating passive immunity in piglets from sows vaccinated with a PEDV S protein subunit vaccine.",
@@ -807,6 +807,34 @@
               "field_label": "예방의학",
               "abstract": "BACKGROUND: Despite global recommendations for maternal tetanus-diphtheria-acellular pertussis (Tdap) vaccination to protect neonates, safety concerns persist regarding pregnancy-specific adverse events (AEs). We conducted a 20-year analysis of U.S. Vaccine Adverse Event Reporting System (VAERS) data (2005-2024) to characterize Tdap-associated AEs during pregnancy, with emphasis on understudied outcomes like chorioamnionitis. METHODS: We analyzed 870 pregnancy-related reports (128 serious) from 20,358 Tdap submissions using disproportionality analysis (Reporting Odds Ratio, ROR). Cases were identified via MedDRA-coded terms and free-text mining. Outcomes were stratified by System Organ Class (SOC), trimester, and AE seriousness. Novel signals were evaluated against product labeling and prior studies. RESULTS: 71.9% of AEs occurred within 30 days post-vaccination. No AEs of maternal death were found. Strong safety signals stillbirth (ROR 285.77, IC 8.01), preterm delivery (ROR 196.8, IC 7.51), and fetal death (ROR 140.83, IC 7.06) were found via disproportionality from a passive surveillance system, which required further validation in active surveillance studies. Pregnancy-specific AEs represented 22.3% of significant PTs, including 6 chorioamnionitis cases with most cases having documented obstetric risk factors. Novel signals fetal hypokinesia and urinary tract infection emerged as unlabeled risks. CONCLUSION: This analysis affirms Tdap's favorable safety profile while detecting statistically significant signals that merit additional research. The low absolute risk supports continued maternal immunization, but warrants enhanced monitoring in high-risk pregnancies. The findings highlight the importance of ongoing post-marketing surveillance for evaluating vaccine safety in pregnant populations and contribute to evidence-based decision-making in clinical practice and public health policy.",
               "title_ko": "임산부의 Tdap 백신 단독 사용에 대한 위험 신호 평가: 업데이트된 약물 역학적 연구."
+            },
+            {
+              "pmid": "42903070",
+              "title": "An intravaginal ring for HIV pre-exposure prophylaxis: assessment of safety and pharmacokinetics in a randomized, placebo-controlled clinical trial.",
+              "journal": "Frontiers in cellular and infection microbiology",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2026-10-06",
+              "authors": [
+                "Vincent KL",
+                "Moss JA",
+                "Marzinke MA"
+              ],
+              "citation_count": 0,
+              "rcr": null,
+              "volume": "16",
+              "issue": "",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/42903070/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 0.0,
+              "field": "preventive",
+              "field_label": "예방의학",
+              "abstract": "INTRODUCTION: In Eastern and Southern Africa, 63% of new HIV infections occurred in women and girls, with adolescent girls and young women representing a particularly vulnerable subpopulation. Effective vaginal products for HIV prevention are desirable because they are underrepresented in the currently approved portfolio and have attributes motivating product use. In this trial, we evaluated an innovative intravaginal ring (pod-IVR) as a platform for HIV pre-exposure prophylaxis (PrEP). OBJECTIVE: To measure the safety and multicompartment pharmacokinetics (PKs) of a pod-IVR delivering tenofovir disoproxil fumarate (TDF) combined with emtricitabine (FTC) in healthy women over 28 days. METHODS: The Phase 1 clinical trial consisted of a randomized order, controlled, double-blinded, crossover design. Ten women received either an active TDF-FTC pod-IVR or a placebo pod-IVR for 28 days, determined by 1:1 randomization, followed by product crossover for another 28 days. Safety was assessed in terms of adverse events related to product use, colposcopic examination, cervicovaginal epithelium thickness measurement by optical coherence tomography, and culture-independent assessment of the vaginal microbiome. Drug and/or drug metabolite concentrations were measured in cervicovaginal fluid (CVF), vaginal tissue, rectal tissue, rectal fluid, and plasma. RESULTS: There was no evidence of a statistically significant difference in related adverse-event counts between study products. There also was no evidence suggesting the study product altered the vaginal microbiome systematically or reproducibly. Systemic plasma exposure to tenofovir (TFV) and FTC was low, consistent with topical delivery. High median CVF concentrations of TFV (38.9 ng mg-1; 135×103 fmol mg-1) and FTC (239 ng mg-1; 966×103 fmol mg-1) were measured. Median vaginal tissue concentrations of the anabolites responsible for inhibition of HIV reverse transcriptase exceeded our target concentrations: TFV diphosphate 0.651×103 fmol mg-1 and FTC triphosphate 0.180×103 fmol mg-1. Drug concentrations in rectal tissue samples generally were below the analytical lower limits of quantification, but were quantifiable in rectal fluids, 130 (TFV) and 300 (FTC) times lower than in CVF. CONCLUSIONS: The TDF-FTC pod-IVRs were safe and well-tolerated over the 28 days of consecutive use. The PK data met the target benchmarks associated with protection from vaginal HIV infection. CLINICAL TRIAL REGISTRATION: https://clinicaltrials.gov/study/NCT03255915, identifier NCT03255915.",
+              "title_ko": "A intravaginal ring for HIV pre-exposure prephylaxis: assessment of safety and pharmacokinetics in a randomized, placebo-controlled clinical trial."
             },
             {
               "pmid": "42865425",
@@ -2017,99 +2045,6 @@
           ]
         },
         {
-          "journal": "Journal of the Indian Society of Pedodontics and Preventive Dentistry",
-          "impact_factor": 1.5,
-          "index_type": "미상",
-          "quartile": "미상",
-          "paper_count": 2,
-          "top_paper": {
-            "pmid": "39798110",
-            "title": "Effectiveness of visual pedagogy in improving toothbrushing skills, oral hygiene and gingival health among children with autism- A randomised controlled trial.",
-            "journal": "Journal of the Indian Society of Pedodontics and Preventive Dentistry",
-            "impact_factor": 1.5,
-            "index_type": "미상",
-            "quartile": "미상",
-            "pubdate": "2025-01-11",
-            "authors": [
-              "Subhashree T",
-              "Yashoda R",
-              "Puranik MP"
-            ],
-            "citation_count": 2,
-            "rcr": 1.178864376518518,
-            "volume": "42",
-            "issue": "4",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/39798110/",
-            "altmetric_score": 0,
-            "altmetric_news": 0,
-            "altmetric_social": 0,
-            "is_current_issue": true,
-            "hot_score": 21.0,
-            "field": "preventive",
-            "field_label": "예방의학",
-            "abstract": "BACKGROUND: Autism is a neurodevelopmental disability that diminishes social interactions and communication. Maintaining good oral hygiene in them is a significant task. OBJECTIVES: The objective of this study was to evaluate the effectiveness of a toothbrushing visual pedagogy (TBVP) in improving brushing skills, oral hygiene, and gingival status among children with autism. MATERIALS AND METHODS: This cluster randomized controlled trial was conducted among 200 children with autism, aged 6-17 years. TBVP and conventional oral hygiene instructions were administered as an intervention in the test group (TBVP). The control group (oral health education [OHE]) received conventional oral hygiene instructions. Assessment of toothbrushing skills, plaque, and gingival status were carried out at baseline, 30-, 60-, and 90-days. The data were analyzed using t-tests in SPSS version 26 software at P < 0.05. RESULTS: At baseline, there was no significant difference between the groups in toothbrushing skills, plaque, and gingival scores. Postintervention, there was a significant improvement in the TBVP group compared to the OHE group. At 90 days, the mean toothbrushing scores of TBVP group were significantly higher (22.49 ± 6.70) than the OHE group (18.35 ± 6.82). Plaque scores were significantly lower (1.31 ± 0.48) in the TBVP group than the OHE group (1.47 ± 0.50). Gingival scores were significantly lower (1.38 ± 0.48) in the TBVP group than the OHE group (1.56 ± 0.51) (P < 0.05). CONCLUSION: The TBVP was effective in improving the toothbrushing skills, oral hygiene, and gingival health of the children with autism. Hence, it can be used for behavioural guidance in toothbrushing for these children to maintain their oral hygiene.",
-            "title_ko": "자폐 아동의 칫솔질 기술, 구강 위생 및 잇몸 건강 개선에 대한 시각 교육학의 효과- 무작위 대조 시험."
-          },
-          "papers": [
-            {
-              "pmid": "39798110",
-              "title": "Effectiveness of visual pedagogy in improving toothbrushing skills, oral hygiene and gingival health among children with autism- A randomised controlled trial.",
-              "journal": "Journal of the Indian Society of Pedodontics and Preventive Dentistry",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2025-01-11",
-              "authors": [
-                "Subhashree T",
-                "Yashoda R",
-                "Puranik MP"
-              ],
-              "citation_count": 2,
-              "rcr": 1.178864376518518,
-              "volume": "42",
-              "issue": "4",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/39798110/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": true,
-              "hot_score": 21.0,
-              "field": "preventive",
-              "field_label": "예방의학",
-              "abstract": "BACKGROUND: Autism is a neurodevelopmental disability that diminishes social interactions and communication. Maintaining good oral hygiene in them is a significant task. OBJECTIVES: The objective of this study was to evaluate the effectiveness of a toothbrushing visual pedagogy (TBVP) in improving brushing skills, oral hygiene, and gingival status among children with autism. MATERIALS AND METHODS: This cluster randomized controlled trial was conducted among 200 children with autism, aged 6-17 years. TBVP and conventional oral hygiene instructions were administered as an intervention in the test group (TBVP). The control group (oral health education [OHE]) received conventional oral hygiene instructions. Assessment of toothbrushing skills, plaque, and gingival status were carried out at baseline, 30-, 60-, and 90-days. The data were analyzed using t-tests in SPSS version 26 software at P < 0.05. RESULTS: At baseline, there was no significant difference between the groups in toothbrushing skills, plaque, and gingival scores. Postintervention, there was a significant improvement in the TBVP group compared to the OHE group. At 90 days, the mean toothbrushing scores of TBVP group were significantly higher (22.49 ± 6.70) than the OHE group (18.35 ± 6.82). Plaque scores were significantly lower (1.31 ± 0.48) in the TBVP group than the OHE group (1.47 ± 0.50). Gingival scores were significantly lower (1.38 ± 0.48) in the TBVP group than the OHE group (1.56 ± 0.51) (P < 0.05). CONCLUSION: The TBVP was effective in improving the toothbrushing skills, oral hygiene, and gingival health of the children with autism. Hence, it can be used for behavioural guidance in toothbrushing for these children to maintain their oral hygiene.",
-              "title_ko": "자폐 아동의 칫솔질 기술, 구강 위생 및 잇몸 건강 개선에 대한 시각 교육학의 효과- 무작위 대조 시험."
-            },
-            {
-              "pmid": "39798109",
-              "title": "Effectiveness of visual instruction skit and sign language on oral health status among 5-18-year-old hearing-impaired children in South India: A cluster randomized clinical trial.",
-              "journal": "Journal of the Indian Society of Pedodontics and Preventive Dentistry",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2025-01-11",
-              "authors": [
-                "Kondepudi V",
-                "Kumar RVSK",
-                "Srinivasulu G"
-              ],
-              "citation_count": 0,
-              "rcr": 0.0,
-              "volume": "42",
-              "issue": "4",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/39798109/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": true,
-              "hot_score": 10.0,
-              "field": "preventive",
-              "field_label": "예방의학",
-              "abstract": "BACKGROUND: Literature on the effectiveness of theory-based oral health education on the oral hygiene status of hearing-impaired children is limited. AIM: To determine the effectiveness of a school oral health education intervention on oral hygiene status and oral health-related knowledge among 5-18-year-old children in Andhra Pradesh, India. MATERIALS AND METHODS: A cluster randomized clinical trial was conducted among all institutionalized hearing-impaired children and young adults residing in various special care schools in Nellore district. Plaque Control record, gingival index (GI), and Decayed Missed Filled Teeth/ decayed extracted filled teeth and Decayed Missed Filled surfaces/ decayed extracted filled surfaces (DMFT/deft, and DMFS/defs) index were recorded; participants were selected and were randomly allocated to two groups using lottery method with 50 subjects in each group, Group I: sign language and Group II: video skit. RESULTS: In all the age groups, preintervention DMFT and postintervention GI, DMFT, and DMFS were statistically significant in the sign language group and in the video skit group. Postintervention DMFS shows a significant difference. CONCLUSION: When compared with video instruction skit, sign language shows significant improvement in the oral hygiene status of CHI.",
-              "title_ko": "남인도 5-18세 청각장애아동의 구강건강상태에 대한 시각지시 스킷과 수화의 효과: 군집 무작위배정 임상시험."
-            }
-          ]
-        },
-        {
           "journal": "Pharmacogenomics",
           "impact_factor": 1.5,
           "index_type": "미상",
@@ -2440,25 +2375,25 @@
           "impact_factor": 1.5,
           "index_type": "미상",
           "quartile": "미상",
-          "paper_count": 5,
+          "paper_count": 6,
           "top_paper": {
-            "pmid": "40015079",
-            "title": "The investigation and management of recurrent early pregnancy loss: a Canadian Fertility and Andrology Society clinical practice guideline.",
+            "pmid": "40262446",
+            "title": "Reassessing the conventional fertilization check: leveraging preimplantation genetic testing for aneuploidy to increase the number of transferrable embryos.",
             "journal": "Reproductive biomedicine online",
             "impact_factor": 1.5,
             "index_type": "미상",
             "quartile": "미상",
-            "pubdate": "2024-10-01",
+            "pubdate": "2024-10-24",
             "authors": [
-              "Sierra S",
-              "Min J",
-              "Saumet J"
+              "Al Hashimi B",
+              "Harvey SC",
+              "Harvey KE"
             ],
             "citation_count": 7,
-            "rcr": 2.3296893405550976,
+            "rcr": 2.505680760661795,
             "volume": "50",
-            "issue": "3",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/40015079/",
+            "issue": "6",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/40262446/",
             "altmetric_score": 0,
             "altmetric_news": 0,
             "altmetric_social": 0,
@@ -2466,10 +2401,38 @@
             "hot_score": 20.7,
             "field": "preventive",
             "field_label": "예방의학",
-            "abstract": "This guideline defines recurrent early pregnancy loss (REPL) as two or more losses that occur before 10 weeks gestational age and includes non-consecutive and biochemical losses. Investigations should be considered on an individual basis and may include an evaluation of genetic, anatomical, endocrinological, structural and male-associated factors. Based on the findings and available resources, options for management may include preimplantation genetic testing (PGT) for aneuploidies or PGT for chromosomal structural rearrangements, progesterone supplementation and supportive care. This guideline emphasizes a personalized approach to the problem of REPL, recognizing an overall promising prognosis for this patient population and the avoidance of treatment options that have not been shown to be of benefit.",
-            "title_ko": "재발성 초기 임신 손실의 조사 및 관리: Canadian Fertility and Andrology Society 임상 진료 지침."
+            "abstract": "RESEARCH QUESTION: Are some non-2PN zygotes normally fertilized, euploid and thus available for transfer? DESIGN: Retrospective cohort study of patient data from 1214 PGT-A cycles from a single private IVF clinic. A total of 152 non-2PN embryos were assessed by PGT-A with parent of origin assessment, and were compared with 4822 2PN embryos assessed by PGT-A. Transfer outcomes of euploid embryos were then compared. RESULTS: Over 40% of the tested non-2PN embryos were euploid. The 152 non-2PN (89 ICSI, 63 IVF), embryos were 2×0PN, 50×1PN, 24×2.1PN, 65×3PN, 9×4PN and 2×5PN. Of 4822 2PN embryos, 4737 (98.2%) were diploid, 1.4% polyploid and 0.4% haploid. Embryos resulting from 1PN zygotes were more likely to be haploid, and embryos resulting from 3PN and 4PN zygotes were more likely to be polyploid (P < 0.001). A total of 44 out of 89 (50%) ICSI embryos were either haploid or polyploid, significantly higher than those derived from IVF (16/63 [25.4%], P = 0.004). Maternal origin of polyploidy was more common in ICSI cases (P = 0.005). A total of 42% of the 93 diploid non-2PN embryos were also euploid, with diploid blastocysts from non-2PN zygotes likely to be euploid as those from diploid 2PN zygotes (P = 0.10). Twelve euploid 1PN, 2.1PN and 3PN embryos were transferred; two ongoing pregnancies and four live births have been reported. CONCLUSIONS: This approach extends the use of PGT-A in identifying more embryos available for transfer, has the potential to increase cumulative pregnancy rates and questions the value of the fertilization check.",
+            "title_ko": "기존 수정 검사 재평가: 이수성에 대한 착상 전 유전자 검사를 활용하여 이전 가능한 배아의 수를 늘립니다."
           },
           "papers": [
+            {
+              "pmid": "40262446",
+              "title": "Reassessing the conventional fertilization check: leveraging preimplantation genetic testing for aneuploidy to increase the number of transferrable embryos.",
+              "journal": "Reproductive biomedicine online",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2024-10-24",
+              "authors": [
+                "Al Hashimi B",
+                "Harvey SC",
+                "Harvey KE"
+              ],
+              "citation_count": 7,
+              "rcr": 2.505680760661795,
+              "volume": "50",
+              "issue": "6",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/40262446/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 20.7,
+              "field": "preventive",
+              "field_label": "예방의학",
+              "abstract": "RESEARCH QUESTION: Are some non-2PN zygotes normally fertilized, euploid and thus available for transfer? DESIGN: Retrospective cohort study of patient data from 1214 PGT-A cycles from a single private IVF clinic. A total of 152 non-2PN embryos were assessed by PGT-A with parent of origin assessment, and were compared with 4822 2PN embryos assessed by PGT-A. Transfer outcomes of euploid embryos were then compared. RESULTS: Over 40% of the tested non-2PN embryos were euploid. The 152 non-2PN (89 ICSI, 63 IVF), embryos were 2×0PN, 50×1PN, 24×2.1PN, 65×3PN, 9×4PN and 2×5PN. Of 4822 2PN embryos, 4737 (98.2%) were diploid, 1.4% polyploid and 0.4% haploid. Embryos resulting from 1PN zygotes were more likely to be haploid, and embryos resulting from 3PN and 4PN zygotes were more likely to be polyploid (P < 0.001). A total of 44 out of 89 (50%) ICSI embryos were either haploid or polyploid, significantly higher than those derived from IVF (16/63 [25.4%], P = 0.004). Maternal origin of polyploidy was more common in ICSI cases (P = 0.005). A total of 42% of the 93 diploid non-2PN embryos were also euploid, with diploid blastocysts from non-2PN zygotes likely to be euploid as those from diploid 2PN zygotes (P = 0.10). Twelve euploid 1PN, 2.1PN and 3PN embryos were transferred; two ongoing pregnancies and four live births have been reported. CONCLUSIONS: This approach extends the use of PGT-A in identifying more embryos available for transfer, has the potential to increase cumulative pregnancy rates and questions the value of the fertilization check.",
+              "title_ko": "기존 수정 검사 재평가: 이수성에 대한 착상 전 유전자 검사를 활용하여 이전 가능한 배아의 수를 늘립니다."
+            },
             {
               "pmid": "40015079",
               "title": "The investigation and management of recurrent early pregnancy loss: a Canadian Fertility and Andrology Society clinical practice guideline.",
@@ -2878,7 +2841,7 @@
           "impact_factor": 1.5,
           "index_type": "미상",
           "quartile": "미상",
-          "paper_count": 16,
+          "paper_count": 17,
           "top_paper": {
             "pmid": "39981298",
             "title": "Staphylococcus aureus-specific TIGIT(+) Treg are present in the blood of healthy subjects - a hurdle for vaccination?",
@@ -4587,7 +4550,7 @@
           "impact_factor": 1.5,
           "index_type": "미상",
           "quartile": "미상",
-          "paper_count": 32,
+          "paper_count": 31,
           "top_paper": {
             "pmid": "39879454",
             "title": "The politicisation of vaccines and its influence on Brazilian caregivers' opinions on childhood routine vaccination.",
@@ -4672,61 +4635,6 @@
               "field_label": "예방의학",
               "abstract": "This study aimed to compare the perception of different school actors regarding the acceptability and feasibility of actions about physical activity and health promotion which were based on the Health-Promoting Schools framework from the World Health Organization (HPS-WHO). This is a cross-sectional study, with convenience sampling from all five regions of Brazil. The \"snowball\" strategy was used. A standardized list with actions from the eight HPS-WHO categories was used, including 20 actions on governance and 16 on school organization. For each action, acceptability and feasibility scores were calculated with a standardized scale A total of 121 participants were included in this study from all regions of Brazil: 15 school managers, 23 researchers, 37 schoolteachers and 46 school health professionals. Lower acceptability scores were observed among managers in comparison to other groups for four actions on government policies, one action on school policies and resources, and one action on the school health services. In conclusion, reducing disparities between school actors on how HPS-WHO's governance actions can be implemented is needed to promote physical activity and health in the school context.",
               "title_ko": "[다른 학교 배우의 관점에서 본 신체 활동 및 건강 증진에 대한 행동의 타당성과 수용 가능성]."
-            },
-            {
-              "pmid": "42848635",
-              "title": "[Interventions to mitigate hesitation related to vaccines of childhood and adolescence, 2012-2023: an integrative review].",
-              "journal": "Ciencia & saude coletiva",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2026-10-05",
-              "authors": [
-                "Rocha FMD",
-                "Silva PSD",
-                "Bordin R"
-              ],
-              "citation_count": 0,
-              "rcr": null,
-              "volume": "31",
-              "issue": "9",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/42848635/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": true,
-              "hot_score": 10.0,
-              "field": "preventive",
-              "field_label": "예방의학",
-              "abstract": "The overall aim of this study is to present the results of an integrative review on interventions to mitigate hesitancy related to childhood and adolescent vaccines in the period 2012-2023. 45 articles met the inclusion criteria and were systematized according to publication date, country of implementation, methodological approach, target population, related vaccine, proposed intervention, category and Level of Evidence. Among the results, most of the articles were published in the 2021-2023 triennium; there was greater use of the quantitative approach; the most frequent target population was parents/caregivers/decision makers, and the most described intervention was the sending of educational content in digital media. As a conclusion, the convergence of the selected studies with the Cs Model, which explains the determinants of vaccine hesitancy, was identified. The identified interventions can contribute to the development of coping strategies and the formulation of evidence-based public policies.",
-              "title_ko": "[소아청소년기 백신 관련 망설임 완화를 위한 중재, 2012-2023: 통합적 검토]."
-            },
-            {
-              "pmid": "42848632",
-              "title": "Public health challenges in the Americas: health surveillance, disease prevention, and equitable access to health care.",
-              "journal": "Ciencia & saude coletiva",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2026-10-05",
-              "authors": [
-                "Silva Júnior JBD",
-                "Cruz BKBD"
-              ],
-              "citation_count": 0,
-              "rcr": null,
-              "volume": "31",
-              "issue": "9",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/42848632/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": true,
-              "hot_score": 10.0,
-              "field": "preventive",
-              "field_label": "예방의학",
-              "abstract": "The interview addresses the priorities and challenges faced by public health in the current post-pandemic era, focusing on epidemiological surveillance, disease prevention, and equitable access to health care. The interviewee Jarbas Barbosa highlights key strategies for strengthening health systems, including expanding vaccination coverage, addressing regional inequalities, addressing the shortage of health professionals, and preparing for public health emergencies. Finally, Barbosa reflects on the role of international cooperation, technology, and communication in improving health policies and promoting equity among countries in the Americas in the context of climate change and its impacts on global health.",
-              "title_ko": "미주 지역의 공중 보건 문제: 건강 감시, 질병 예방, 공평한 의료 서비스 이용."
             },
             {
               "pmid": "41615110",
@@ -4838,6 +4746,62 @@
               "field_label": "예방의학",
               "abstract": "The scope of the study was to investigate the factors associated with awareness and participation of the adult population of the Northeast region of Brazil in public physical activity (PA) programs. It involved a cross-sectional study with data from the Brazilian National Health Survey (2019). The dependent variables were awareness and participation in public PA programs. The independent variables were household, sociodemographic, social support and health characteristics. Prevalence ratios were estimated using Poisson regression with robust variance. The prevalence of awareness was 24.3%, of which 9.7% participated in public PA programs. Higher per capita family income, visits from family health teams, female gender, age over 34, more schooling, paid work, participation in social mobilization groups, being overweight or obese and diagnosed with one or more chronic non-communicable diseases were positively associated with public PA programs. Having a paid job was negatively associated and participation in social mobilization groups was positively associated. Public PA programs need to consider dissemination strategies and the characteristics of the local context.",
               "title_ko": "[브라질 동북부 지역 성인들의 공공 신체 활동 프로그램에 대한 인식과 참여]."
+            },
+            {
+              "pmid": "39936667",
+              "title": "Promoting and competing factors of adequate and healthy food in the school food environment.",
+              "journal": "Ciencia & saude coletiva",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2023-11-29",
+              "authors": [
+                "Henriques P",
+                "Alvarenga CRT",
+                "Almeida GV"
+              ],
+              "citation_count": 1,
+              "rcr": null,
+              "volume": "30",
+              "issue": "2",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/39936667/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 6.9,
+              "field": "preventive",
+              "field_label": "예방의학",
+              "abstract": "This study aimed to characterize and evaluate the food environment of public schools regarding identified healthy eating competing and promoting factors. A quantitative descriptive and observational study was conducted in 14 public schools in a municipality in Rio de Janeiro and their surrounding areas. Photographic records and field diaries were adopted for this purpose. Food-related murals, vegetable gardens, school cafeterias, and teachers sitting along during meals were considered components that promote a healthy food environment. Competing components were snacks brought by students, canteens, informal food sale and packaging, and ultra-processed foods circulating in schools. A 500-meter radius from the school gate was considered to characterize outlets in the school surroundings. The foods sold were categorized per the NOVA classification. The study identified a predominance of healthy eating-promoting factors against competing factors. However, we identified available ultra-processed foods inside schools, and their availability prevailed in the school's surrounding areas.",
+              "title_ko": "학교급식 환경에서 적절하고 건강한 음식의 촉진 및 경쟁 요인."
+            },
+            {
+              "pmid": "42615736",
+              "title": "Social inequalities in the use of preventive healthcare among older women (50+): evidence from ELSI-Brazil.",
+              "journal": "Ciencia & saude coletiva",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2025-05-02",
+              "authors": [
+                "Carvalho PF",
+                "Braga LS",
+                "Lima-Costa MF"
+              ],
+              "citation_count": 0,
+              "rcr": null,
+              "volume": "31",
+              "issue": "8",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/42615736/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 0.0,
+              "field": "preventive",
+              "field_label": "예방의학",
+              "abstract": "Considering the scenario of Brazilian population aging, marked by the feminization of old age and persistent social inequality in access to and use of health services, this study aims to investigate the association between socioeconomic variables and preventive healthcare among older women (50+), according to the source of health care. This is a cross-sectional study, based on ELSI-Brazil (2015-2016) baseline data. The outcomes were Pap smear; mammography; measurements of cholesterol, blood glucose, and blood pressure; and the exposures of interest were educational level, self-reported skin color, and per capita household income. Odds ratio (OR) were estimated in Logistic regression models. Self-reported skin color, educational level, and per capita household income were frequently associated with outcomes for women with and without private health plans, with a higher prevalence of exams among those who were white and those who had higher educational and income levels. The implementation of public policies and multisectoral actions that tackle the structural determinants of health and improve people's living and working conditions is essential to reducing health inequalities and ensuring the universal right to health.",
+              "title_ko": "고령 여성 (50세 이상) 의 예방 건강 관리 사용에 대한 사회적 불평등: ELSI-Brazil의 증거."
             }
           ]
         },
@@ -4905,6 +4869,211 @@
               "title_ko": "심대사 질환의 일차 예방을 위한 지중해 식단: 이탈리아 국가 가이드라인 \"La Dieta Mediterranea\" 에 소개된 체계적인 검토 및 메타 분석의 증거."
             }
           ]
+        },
+        {
+          "journal": "Best practice & research. Clinical gastroenterology",
+          "impact_factor": 1.5,
+          "index_type": "미상",
+          "quartile": "미상",
+          "paper_count": 6,
+          "top_paper": {
+            "pmid": "41724536",
+            "title": "Developments in the roll-out and performance of CRC screening in Europe.",
+            "journal": "Best practice & research. Clinical gastroenterology",
+            "impact_factor": 1.5,
+            "index_type": "미상",
+            "quartile": "미상",
+            "pubdate": "2025-08-05",
+            "authors": [
+              "Carbotti G",
+              "van den Berg DM",
+              "Carvalho AL"
+            ],
+            "citation_count": 3,
+            "rcr": null,
+            "volume": "80",
+            "issue": "",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/41724536/",
+            "altmetric_score": 0,
+            "altmetric_news": 0,
+            "altmetric_social": 0,
+            "is_current_issue": false,
+            "hot_score": 13.8,
+            "field": "preventive",
+            "field_label": "예방의학",
+            "abstract": "The heterogeneous implementation of colorectal cancer screening programs across Europe makes performance comparison challenging. This study computed and analyzed seven key indicators of screening performance for eighteen European programs between 2011 and 2022. Trends in colorectal cancer incidence and mortality were also examined in relation to when each screening program was introduced. Coverage indicators showed considerable variation across programs but generally increased until the onset of the COVID pandemic. Yield indicators remained stable overall, whereas jumps were associated to protocol changes. In most countries, a decline in incidence followed the introduction of the screening program, whereas the connection of screening with mortality was less evident. The analysis of comparable screening performance indicators over time allows for cross-country and longitudinal monitoring of the programs. The observed decline in incidence following the implementation of fully rolled-out programs highlights the importance and effectiveness of well-organized screening in reducing the burden of the disease.",
+            "title_ko": "유럽에서 CRC 스크리닝의 출시 및 성능의 발전."
+          },
+          "papers": [
+            {
+              "pmid": "41724536",
+              "title": "Developments in the roll-out and performance of CRC screening in Europe.",
+              "journal": "Best practice & research. Clinical gastroenterology",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2025-08-05",
+              "authors": [
+                "Carbotti G",
+                "van den Berg DM",
+                "Carvalho AL"
+              ],
+              "citation_count": 3,
+              "rcr": null,
+              "volume": "80",
+              "issue": "",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/41724536/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 13.8,
+              "field": "preventive",
+              "field_label": "예방의학",
+              "abstract": "The heterogeneous implementation of colorectal cancer screening programs across Europe makes performance comparison challenging. This study computed and analyzed seven key indicators of screening performance for eighteen European programs between 2011 and 2022. Trends in colorectal cancer incidence and mortality were also examined in relation to when each screening program was introduced. Coverage indicators showed considerable variation across programs but generally increased until the onset of the COVID pandemic. Yield indicators remained stable overall, whereas jumps were associated to protocol changes. In most countries, a decline in incidence followed the introduction of the screening program, whereas the connection of screening with mortality was less evident. The analysis of comparable screening performance indicators over time allows for cross-country and longitudinal monitoring of the programs. The observed decline in incidence following the implementation of fully rolled-out programs highlights the importance and effectiveness of well-organized screening in reducing the burden of the disease.",
+              "title_ko": "유럽에서 CRC 스크리닝의 출시 및 성능의 발전."
+            },
+            {
+              "pmid": "41724542",
+              "title": "Elements of screening and early diagnosis of lower GI neoplastic lesions - an overview.",
+              "journal": "Best practice & research. Clinical gastroenterology",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2025-09-30",
+              "authors": [
+                "Sheridan B",
+                "Rabeneck L",
+                "Toes-Zoutendijk E"
+              ],
+              "citation_count": 1,
+              "rcr": null,
+              "volume": "80",
+              "issue": "",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/41724542/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 6.9,
+              "field": "preventive",
+              "field_label": "예방의학",
+              "abstract": "Dobrow's 12 consolidated principles were applied to evaluate the extent to which colorectal cancer (CRC) screening programmes align with these established screening principles. The principles within the first domain - disease and conditions - are fully met. CRC represents a significant global public health burden with a well-understood natural history, including a long preclinical phase. These features make CRC suitable for population-based screening. Current guidelines recommend screening average-risk individuals, with starting ages as early as 45 years and stopping ages up to 85 years in some programs, although most programs target those aged 50-75 years. For Dobrow's second domain - test or intervention - we found that established CRC screening methods (faecal immunochemical testing (FIT), colonoscopy, and flexible sigmoidoscopy) have known and acceptable sensitivity and specificity. These tests have clear thresholds for interpretation and follow-up and are associated with reductions in both CRC incidence and mortality, confirming their clinical effectiveness in organised programmes. Dobrow's third domain - programme or system - addresses how screening programmes should be structured, implemented, and integrated into health systems. Unlike the other domains, this is fully achieved in only a small minority of programmes. While implementation may vary from country to country, the principles provide benchmarks for well-organised programmes. CRC screening is generally cost-effective and widely accepted by patients, providers, and society. Successful programmes require dedicated teams, infrastructure, and systems for coordination and quality assurance. Before implementation, a CRC screening initiative must meet, or have a clear plan to meet 12 principles. In summary, robust infrastructure and governance are essential for organised CRC screening programmes to align with the Dobrow principles and achieve long-term success.",
+              "title_ko": "하부 위장관 신생물 병변의 스크리닝 및 조기 진단의 요소 - 개요."
+            },
+            {
+              "pmid": "41724538",
+              "title": "Evidence-based decision analysis guiding clinical guidelines for an organized population-based screening for colorectal cancer.",
+              "journal": "Best practice & research. Clinical gastroenterology",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2025-08-08",
+              "authors": [
+                "Jahn B",
+                "Sroczynski G",
+                "Santamaria J"
+              ],
+              "citation_count": 1,
+              "rcr": null,
+              "volume": "80",
+              "issue": "",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/41724538/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 6.9,
+              "field": "preventive",
+              "field_label": "예방의학",
+              "abstract": "BACKGROUND: This study includes the long-term benefit-harm analysis of population-wide colorectal cancer (CRC) screening strategies commissioned by the Austrian National Committee for Cancer Screening (ANCCS). In addition, we present the related cost-effectiveness analysis. METHODS: Using a validated decision-analytic Markov state transition model, we evaluated 17 by the ANCCS suggested CRC-screening strategies differing in tests (fecal-immunochemical test (FIT), guaiac-based fecal occult blood test (gFOBT), colonoscopy (COL)), age at start (40,45,50 years) and end (COL: 65,70,75 years, FIT/gFOBT 75 years), and intervals (2,5,10 years). Positive FIT/gFOBT tests are followed by colonoscopy. Evaluated outcomes included health benefits (life-years gained (LYG), CRC-cases/CRC-deaths avoided), harms (severe colonoscopy complications, psychological harms due to positive test results (PTR), additional colonoscopies), stepwise evaluated incremental harm-benefit ratios (IHBR), and incremental cost-effectiveness ratios (ICER). We applied the Austrian healthcare system perspective, a lifelong-time horizon and conducted sensitivity analyses. RESULTS: The most effective colonoscopy-based screening strategy is colonoscopy at age 40/50/60/70 (449 LYG per 1000 individuals) with an IHBR of 3 PTR/LYG compared to COL45/55/65 (ICER: 13,032 Euro/LYG vs. COL45/55/65/75). The most effective fecal blood-test-based strategy is annual FIT testing starting at age 40 years (488 LYG per 1000 individuals) and an IHBR of 30 PTR/LYG compared to FIT40+2y (biennial FIT starting age 40). All biennial FIT-based screening strategies represent alternative options on the harm-benefit efficiency frontier with IHBR of PTR/LYG: 2 (FIT50+2y vs. no screening), 5 (FIT45+2y vs. FIT50+2y), and 7 (FIT40+2y vs. FIT45+2y). The cost-effectiveness analyses provided stepwise ICERs ranging from 3391 Euro/LYG (FIT45+2y vs. FIT50+2y) to 47,812 Euro/LYG (FIT40+1y vs. FIT40+2y). CONCLUSIONS: Our decision analysis shows benefit-harm and cost-effectiveness trade-offs. In the consensus meeting of the ANCCS, colonoscopy- and FIT-based screening starting at age 45 were selected as suggested screening strategies, accounting for benefit-harm balance, evidence level, and implementation aspects.",
+              "title_ko": "대장암에 대한 조직화된 모집단 기반 선별 검사를 위한 임상 가이드라인을 안내하는 증거 기반 의사결정 분석."
+            },
+            {
+              "pmid": "41724531",
+              "title": "Risk-based screening for early detection of colorectal cancer: an overview.",
+              "journal": "Best practice & research. Clinical gastroenterology",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2025-05-08",
+              "authors": [
+                "Brück CC",
+                "Mwangi LW",
+                "van Wifferen F"
+              ],
+              "citation_count": 1,
+              "rcr": null,
+              "volume": "80",
+              "issue": "",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/41724531/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 6.9,
+              "field": "preventive",
+              "field_label": "예방의학",
+              "abstract": "Screening programs for colorectal cancer (CRC) reduce CRC incidence and mortality, while balancing benefits and harms of the population. However, benefits vary widely among individuals. Low-risk individuals may face unnecessary burdens, while high-risk individuals could benefit from more intensive screening. Risk-based screening addresses these issues by tailoring screening strategies using risk factors such as age, sex, race, ethnicity, lifestyle factors, genetic predisposition, and previous screening results. Potential benefits of risk-based screening include improved cost-effectiveness, efficient resource use and reduced unnecessary procedures. Challenges include a lack of validated risk stratification tools, data availability, healthcare capacity, and ethical considerations. Several countries started to evaluate risk-based screening programs with optimistic results. While promising, further research is necessary to address the remaining challenges. Nevertheless, risk-based screening has the potential to enhance patient experiences, optimize the balance of individual-level benefits and harms, and positively impact the overall burden and costs associated with CRC screening.",
+              "title_ko": "대장암의 조기 발견을 위한 위험 기반 선별검사: 개요."
+            },
+            {
+              "pmid": "41724541",
+              "title": "Is blood the new stool? Status of blood tests for CRC screening.",
+              "journal": "Best practice & research. Clinical gastroenterology",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2025-09-08",
+              "authors": [
+                "Symonds EL",
+                "Dix M",
+                "Wassie MM"
+              ],
+              "citation_count": 0,
+              "rcr": null,
+              "volume": "80",
+              "issue": "",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/41724541/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 0.0,
+              "field": "preventive",
+              "field_label": "예방의학",
+              "abstract": "Colorectal cancer (CRC) screening has proven to decrease CRC incidence and mortality, with many countries providing faecal immunochemical tests (FIT) in screening programs. Effectiveness, however, is limited in the setting of low participation rates, which has prompted growing research into blood-based screening. While blood testing is anticipated to improve participation due to greater population acceptability, its readiness for widespread implementation remains unclear, and comparative accuracy data against FIT is needed. This article provides a systematic review and meta-analysis on blood-based CRC screening tests that have been directly compared to FIT, and summarises the evidence for broader program considerations, including analytical quality, consumer preferences, participation rates and cost effectiveness. The findings show that blood tests currently lack the sensitivity and cost-effectiveness to replace FIT in screening programs, and that their use should be limited to individuals unable or unwilling to complete FIT.",
+              "title_ko": "피가 새로운 의자입니까? CRC 선별 검사를 위한 혈액 검사 상태."
+            },
+            {
+              "pmid": "41724540",
+              "title": "Global impact of COVID-19 on organized CRC screening programs: lessons learned.",
+              "journal": "Best practice & research. Clinical gastroenterology",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2025-09-05",
+              "authors": [
+                "de Jonge L",
+                "Lansdorp-Vogelaar I",
+                "Doria-Rose VP"
+              ],
+              "citation_count": 0,
+              "rcr": null,
+              "volume": "80",
+              "issue": "",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/41724540/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 0.0,
+              "field": "preventive",
+              "field_label": "예방의학",
+              "abstract": "Using a standardized data template, this study retrospectively collected data about colorectal cancer (CRC) screening activity in 2020 and 2021 to estimate the impact of the COVID-19 pandemic compared to the pre-pandemic period (2018 or 2019). Data were collected from 17 programs in 14 countries of which 15 were population-based programs. Invitation coverage was decreased by up to 53.7 % in 2020. Participation among those invited was similar in both periods for all programs. The maximum backlog in invitations was less than 7.4 months in 2020 and 3.3 months for 2021. Nine out of 15 programs observed a decrease in the number of detected CRCs in 2020. Four programs showed a positive percentage change in CRCs detected in 2021 relative to the pre-pandemic period. Half of the countries observed a worse stage-distribution in 2020/2021. Overall, organized CRC screening programs operated at lower screening activity, but screening outcomes were similar compared to the pre-pandemic period.",
+              "title_ko": "코로나19가 조직화된 CRC 선별 검사 프로그램에 미치는 전 세계적인 영향: 교훈."
+            }
+          ]
         }
       ],
       "hot_topics": [
@@ -4934,6 +5103,18 @@
           ]
         },
         {
+          "phrase": "genetic testing",
+          "score": 52.7,
+          "paper_count": 5,
+          "pmids": [
+            "40262446",
+            "39920027",
+            "41690212",
+            "40024009",
+            "40225932"
+          ]
+        },
+        {
           "phrase": "quality life",
           "score": 50.7,
           "paper_count": 3,
@@ -4941,6 +5122,17 @@
             "39959334",
             "42860772",
             "39874052"
+          ]
+        },
+        {
+          "phrase": "preimplantation genetic",
+          "score": 41.7,
+          "paper_count": 4,
+          "pmids": [
+            "40262446",
+            "39920027",
+            "41690212",
+            "40024009"
           ]
         },
         {
@@ -4959,17 +5151,6 @@
           "pmids": [
             "41696708",
             "40224806"
-          ]
-        },
-        {
-          "phrase": "genetic testing",
-          "score": 32.0,
-          "paper_count": 4,
-          "pmids": [
-            "39920027",
-            "41690212",
-            "40024009",
-            "40225932"
           ]
         },
         {
@@ -5016,16 +5197,6 @@
           "pmids": [
             "40302974",
             "42879626"
-          ]
-        },
-        {
-          "phrase": "preimplantation genetic",
-          "score": 21.0,
-          "paper_count": 3,
-          "pmids": [
-            "39920027",
-            "41690212",
-            "40024009"
           ]
         }
       ],
@@ -5083,12 +5254,12 @@
             ]
           },
           {
-            "phrase": "post-exposure prophylaxis",
+            "phrase": "genetic testing",
             "scores": [
               0.0,
-              0.0,
-              43.0,
-              6.9
+              42.7,
+              10.0,
+              0.0
             ]
           }
         ]
@@ -5097,7 +5268,7 @@
     {
       "key": "emergency",
       "label": "응급의학",
-      "paper_count": 461,
+      "paper_count": 462,
       "journals": [
         {
           "journal": "Resuscitation",
@@ -5161,6 +5332,71 @@
               "field_label": "응급의학",
               "abstract": "AIM: Adherence to post-cardiac arrest care (PCAC) recommendations is associated with improved outcomes for adults. We aimed to describe the survival impact of meeting American Heart Association (AHA) PCAC guidelines in children after cardiac arrest. METHODS: We conducted a retrospective study using Get With The Guidelines® Resuscitation's (GWTG®-R) registry to describe the PCAC of patients ≤ 18 years old who suffered an in-hospital or out-of-hospital cardiac arrest (IHCA or OHCA). We evaluated the association between the absence of hypotension and fever in the initial 24 h following return of circulation (ROC) with survival to hospital discharge. We reviewed the utilization of monitoring/evaluation tools recommended in pediatric PCAC guidelines: electrocardiogram (ECG), electroencephalogram (EEG), and neuro-imaging. RESULTS: We found 385 pediatric patients who suffered an IHCA or OHCA from 2015 through 2019 and survived at least 6 h post-ROC. Sixty-six percent of patients survived to hospital discharge. Following ROC, 56% of patients had EEG monitoring, 80% had an ECG performed, 47% had a head CT, and 26% had a cerebral MRI. In the initial 24 h post-ROC, 92% of patients did not have hypotension and 79% were afebrile. Patients without hypotension in the initial 24 h post-ROC had higher odds of survival to hospital discharge than those with hypotension (aOR 4.96; 95% CI 2.07, 11.90; p = 0.0003), adjusting for age and cardiac arrest location. Patients without hypotension and without fever in the initial 24 h post-ROC had higher odds of survival to hospital discharge compared to patients who had either hypotension or fever or both (aOR 1.98; 95% CI 1.06,3.71; p = 0.034). CONCLUSION: In this retrospective multicenter registry study, absence of both post-cardiac arrest hypotension and fever were associated with increased odds of survival to hospital discharge. Further research is needed to understand the full impact of PCAC recommendation compliance on survival outcomes.",
               "title_ko": "소아 심정지 후 치료가 생존에 미치는 영향: AHA의 다기관 검토 Guidelines ® -resuscitation post-cardiac arrest care registry."
+            }
+          ]
+        },
+        {
+          "journal": "Medical care",
+          "impact_factor": 1.5,
+          "index_type": "미상",
+          "quartile": "미상",
+          "paper_count": 1,
+          "top_paper": {
+            "pmid": "40497801",
+            "title": "Postoperative Complications and Readmission Rates in Robotic-Assisted and Manual Total Hip Arthroplasty: A Large, Multi-Hospital Study.",
+            "journal": "Medical care",
+            "impact_factor": 1.5,
+            "index_type": "미상",
+            "quartile": "미상",
+            "pubdate": "2024-10-24",
+            "authors": [
+              "Howell C",
+              "Witvoet S",
+              "Scholl L"
+            ],
+            "citation_count": 8,
+            "rcr": 3.2488792606380574,
+            "volume": "63",
+            "issue": "7",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/40497801/",
+            "altmetric_score": 0,
+            "altmetric_news": 0,
+            "altmetric_social": 0,
+            "is_current_issue": true,
+            "hot_score": 31.4,
+            "field": "emergency",
+            "field_label": "응급의학",
+            "abstract": "OBJECTIVE: This study aims to compare 90-day postoperative complications, readmissions, and emergency department (ED) visits between robotic-assisted (RA-THA) and manual (M-THA) total hip arthroplasty. METHODS: A retrospective review of a multi-hospital database identified primary total hip arthroplasty patients between January 2016 and December 2021. The cohorts were 1-to-1 matched based on patient sex, age, and body mass index resulting in 8033 patients in each cohort (N = 16,066). Odds of 90-day revisits, readmission with >23 hours of observation, and ED visits were compared between cohorts. Complications reported during revisits and readmission were classified according to the Clinical Classification Software schema, using the International Classification of Diseases, 10th Revision codes, and compared using mixed-effect models. RESULTS: This study found an overall 90-day revisit rate of 8.3%. RA-THA was associated with significantly reduced odds of revisit within 90 days [odds ratio (OR): 0.71, 95% CI: 0.58-0.89, P = 0.002] and readmissions with >23 hours of observation (OR: 0.61, 95% CI: 0.48-0.77, P < 0.001). RA-THA patients had fewer readmissions with >23 hours of observation due to dislocations (RA-THA: 0.09%; M-THA: 0.39%, P < 0.001), surgical site infections (RA-THA: 0.04%; M-THA: 0.20%, P = 0.004), and wound infections/cellulitis (RA-THA: 0.01%; M-THA: 0.11%, P = 0.021). No difference in ED visits was observed between cohorts (OR: 0.92, 95% CI: 0.77-1.09, P = 0.3). RA-THA patients had more ED visits for dyspnea without pulmonary embolism (RA-THA: 0.20%; M-THA: 0.06%, P = 0.03). CONCLUSION: RA-THA showed significantly lower odds of overall 90-day revisit rates and readmissions with >23 hours of observation, most notably for readmissions due to dislocation and surgical site infection/wound infections. There was no significant difference in the odds of ED visits between cohorts.",
+            "title_ko": "Robotic-Assisted and Manual Total Hip Arthroplasty: A Large, Multi-Hospital Study에서 수술 후 합병증 및 재투여율."
+          },
+          "papers": [
+            {
+              "pmid": "40497801",
+              "title": "Postoperative Complications and Readmission Rates in Robotic-Assisted and Manual Total Hip Arthroplasty: A Large, Multi-Hospital Study.",
+              "journal": "Medical care",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2024-10-24",
+              "authors": [
+                "Howell C",
+                "Witvoet S",
+                "Scholl L"
+              ],
+              "citation_count": 8,
+              "rcr": 3.2488792606380574,
+              "volume": "63",
+              "issue": "7",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/40497801/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": true,
+              "hot_score": 31.4,
+              "field": "emergency",
+              "field_label": "응급의학",
+              "abstract": "OBJECTIVE: This study aims to compare 90-day postoperative complications, readmissions, and emergency department (ED) visits between robotic-assisted (RA-THA) and manual (M-THA) total hip arthroplasty. METHODS: A retrospective review of a multi-hospital database identified primary total hip arthroplasty patients between January 2016 and December 2021. The cohorts were 1-to-1 matched based on patient sex, age, and body mass index resulting in 8033 patients in each cohort (N = 16,066). Odds of 90-day revisits, readmission with >23 hours of observation, and ED visits were compared between cohorts. Complications reported during revisits and readmission were classified according to the Clinical Classification Software schema, using the International Classification of Diseases, 10th Revision codes, and compared using mixed-effect models. RESULTS: This study found an overall 90-day revisit rate of 8.3%. RA-THA was associated with significantly reduced odds of revisit within 90 days [odds ratio (OR): 0.71, 95% CI: 0.58-0.89, P = 0.002] and readmissions with >23 hours of observation (OR: 0.61, 95% CI: 0.48-0.77, P < 0.001). RA-THA patients had fewer readmissions with >23 hours of observation due to dislocations (RA-THA: 0.09%; M-THA: 0.39%, P < 0.001), surgical site infections (RA-THA: 0.04%; M-THA: 0.20%, P = 0.004), and wound infections/cellulitis (RA-THA: 0.01%; M-THA: 0.11%, P = 0.021). No difference in ED visits was observed between cohorts (OR: 0.92, 95% CI: 0.77-1.09, P = 0.3). RA-THA patients had more ED visits for dyspnea without pulmonary embolism (RA-THA: 0.20%; M-THA: 0.06%, P = 0.03). CONCLUSION: RA-THA showed significantly lower odds of overall 90-day revisit rates and readmissions with >23 hours of observation, most notably for readmissions due to dislocation and surgical site infection/wound infections. There was no significant difference in the odds of ED visits between cohorts.",
+              "title_ko": "Robotic-Assisted and Manual Total Hip Arthroplasty: A Large, Multi-Hospital Study에서 수술 후 합병증 및 재투여율."
             }
           ]
         },
@@ -5260,7 +5496,7 @@
             "field": "emergency",
             "field_label": "응급의학",
             "abstract": "Worldwide, there has been a dramatic increase in the use of paediatric home mechanical ventilation (HMV). In this review, we examine this rapid evolution in clinical practice through the prism of two distinct groups of children: those with neurodisability/medical complexity and patients with neuromuscular disease. We illustrate the changes in service provision for these two groups that are driven by a recognition that early intervention with HMV can enhance quality of life for these children and may complement the beneficial effects of novel disease-modifying medications to improve survival. Alongside this, we highlight the importance of balancing patient expectations with clinical need and discuss the ethical challenges that may be encountered when delivering HMV to this increasing population of children.",
-            "title_ko": "어린이의 가정 기계 환기: 새로운 치료 옵션의 시대에 진화하는 적응증."
+            "title_ko": ""
           },
           "papers": [
             {
@@ -5288,7 +5524,7 @@
               "field": "emergency",
               "field_label": "응급의학",
               "abstract": "Worldwide, there has been a dramatic increase in the use of paediatric home mechanical ventilation (HMV). In this review, we examine this rapid evolution in clinical practice through the prism of two distinct groups of children: those with neurodisability/medical complexity and patients with neuromuscular disease. We illustrate the changes in service provision for these two groups that are driven by a recognition that early intervention with HMV can enhance quality of life for these children and may complement the beneficial effects of novel disease-modifying medications to improve survival. Alongside this, we highlight the importance of balancing patient expectations with clinical need and discuss the ethical challenges that may be encountered when delivering HMV to this increasing population of children.",
-              "title_ko": "어린이의 가정 기계 환기: 새로운 치료 옵션의 시대에 진화하는 적응증."
+              "title_ko": ""
             }
           ]
         },
@@ -8171,71 +8407,6 @@
               "field": "emergency",
               "field_label": "응급의학",
               "abstract": "BACKGROUND: The integration of physiotherapists within Emergency Departments (EDs) is increasing internationally; however, the outcome measures employed in this setting remain heterogeneous and largely non-standardized. OBJECTIVE: To map and describe clinical, functional, psychological, prognostic, and patient experience outcome measures currently used by physiotherapists working in EDs. METHODS: A scoping review was conducted following PRISMA-ScR guidelines. PubMed and Google Scholar were searched from their inception to November 2025. Studies were included if they involved patients of any age presenting to the ED with musculoskeletal, traumatic, vestibular conditions or concussion, where physiotherapists applied or reported at least one standardized outcome measure. Two reviewers independently screened titles, abstracts, and full texts. RESULTS: Of 9,790 records identified, 27 met eligibility criteria. Most research originated from Australia, Canada, the United Kingdom, Ireland, and the United States, primarily involving low-complexity musculoskeletal conditions, vestibular disorders, and concussion, including pediatric pathways. Pain intensity scales (NPRS, VAS) and pain interference (BPI-PI) were the most commonly used measures. Functional and disability outcomes (NDI, ODI/mODI, LEFS, QuickDASH, PROMIS Physical Function, PSFS) were predominantly applied during post-ED follow-up. Psychological and prognostic instruments (PCS, STarT Back, 5P Rule) supported risk stratification, while PREMs such as PedsQL Healthcare Satisfaction, SAPS, and VSQ-9 assessed patient experience. Considerable heterogeneity in outcome measurement remains, with few randomized trials, limited long-term follow-up, and scarce economic evaluations. No studies were identified from Italy or Southern Europe. CONCLUSIONS: The use of validated outcome measures by physiotherapists in EDs is feasible and clinically valuable; however, a lack of standardization and limited high-quality evidence particularly within the Italian healthcare context highlight the need for further research to establish shared outcome sets and transferable models of care.",
-              "title_ko": ""
-            }
-          ]
-        },
-        {
-          "journal": "Family practice",
-          "impact_factor": 1.5,
-          "index_type": "미상",
-          "quartile": "미상",
-          "paper_count": 1,
-          "top_paper": {
-            "pmid": "41328694",
-            "title": "Why do patients seek emergency care for problems that could be managed in primary care? A scoping review.",
-            "journal": "Family practice",
-            "impact_factor": 1.5,
-            "index_type": "미상",
-            "quartile": "미상",
-            "pubdate": "2025-10-21",
-            "authors": [
-              "Chao KYA",
-              "McCombe G",
-              "Cullen W"
-            ],
-            "citation_count": 1,
-            "rcr": null,
-            "volume": "42",
-            "issue": "6",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/41328694/",
-            "altmetric_score": 0,
-            "altmetric_news": 0,
-            "altmetric_social": 0,
-            "is_current_issue": true,
-            "hot_score": 16.8,
-            "field": "emergency",
-            "field_label": "응급의학",
-            "abstract": "BACKGROUND: Emergency care systems worldwide are increasingly facing capacity challenges. A significant number of people are using emergency care, including the use of emergency departments and ambulance services, for conditions that could be managed in primary care settings, potentially creating unnecessary strains on the already heavily burdened emergency care systems, leading to overcrowding, inefficient use of healthcare resources, and inadequate access to emergency care for those in need. OBJECTIVES: This scoping review of the literature aimed to explore existing evidence considering the multifaceted factors contributing to patients' decisions to seek emergency care for conditions manageable in primary care. METHODS: A comprehensive search of \"PubMed\", \"Embase\", \"MEDLINE\", \"CINAHL\" and \"the Cochrane Library\" was conducted, including peer-reviewed articles published from Jan 1st 2004, until June 15th 2024. This review was conducted following the methodological framework presented by Arksey and O'Malley. RESULTS: A total of 44 studies conducted in 21 countries worldwide were included in the final analysis. Key data were extracted and analysed using thematic analysis, and the following themes have been identified: (1) accessibility and convenience, (2) health anxiety, (3) uncertainty and knowledge gaps in healthcare services, (4) external advice and encouragement, and (5) personal influences. CONCLUSION: Our study maps the existing international literature to inform researchers and policymakers on possible future development of efficient alternative care frameworks and pathways designed to alter emergency care utilisation behaviours, ultimately reducing unnecessary visits and ensuring efficient care is provided for true emergencies.",
-            "title_ko": ""
-          },
-          "papers": [
-            {
-              "pmid": "41328694",
-              "title": "Why do patients seek emergency care for problems that could be managed in primary care? A scoping review.",
-              "journal": "Family practice",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2025-10-21",
-              "authors": [
-                "Chao KYA",
-                "McCombe G",
-                "Cullen W"
-              ],
-              "citation_count": 1,
-              "rcr": null,
-              "volume": "42",
-              "issue": "6",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/41328694/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": true,
-              "hot_score": 16.8,
-              "field": "emergency",
-              "field_label": "응급의학",
-              "abstract": "BACKGROUND: Emergency care systems worldwide are increasingly facing capacity challenges. A significant number of people are using emergency care, including the use of emergency departments and ambulance services, for conditions that could be managed in primary care settings, potentially creating unnecessary strains on the already heavily burdened emergency care systems, leading to overcrowding, inefficient use of healthcare resources, and inadequate access to emergency care for those in need. OBJECTIVES: This scoping review of the literature aimed to explore existing evidence considering the multifaceted factors contributing to patients' decisions to seek emergency care for conditions manageable in primary care. METHODS: A comprehensive search of \"PubMed\", \"Embase\", \"MEDLINE\", \"CINAHL\" and \"the Cochrane Library\" was conducted, including peer-reviewed articles published from Jan 1st 2004, until June 15th 2024. This review was conducted following the methodological framework presented by Arksey and O'Malley. RESULTS: A total of 44 studies conducted in 21 countries worldwide were included in the final analysis. Key data were extracted and analysed using thematic analysis, and the following themes have been identified: (1) accessibility and convenience, (2) health anxiety, (3) uncertainty and knowledge gaps in healthcare services, (4) external advice and encouragement, and (5) personal influences. CONCLUSION: Our study maps the existing international literature to inform researchers and policymakers on possible future development of efficient alternative care frameworks and pathways designed to alter emergency care utilisation behaviours, ultimately reducing unnecessary visits and ensuring efficient care is provided for true emergencies.",
               "title_ko": ""
             }
           ]
