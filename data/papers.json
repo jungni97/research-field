@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-22T20:33:54.039351Z",
+  "generated_at": "2026-10-23T23:03:21.601079Z",
   "window_days": 1095,
   "fields": [
     {
       "key": "preventive",
       "label": "예방의학",
-      "paper_count": 445,
+      "paper_count": 439,
       "journals": [
         {
           "journal": "The Orthopedic clinics of North America",
@@ -328,67 +328,95 @@
           ]
         },
         {
-          "journal": "Infection control and hospital epidemiology",
+          "journal": "Genetics in medicine : official journal of the American College of Medical Genetics",
           "impact_factor": 1.5,
           "index_type": "미상",
           "quartile": "미상",
-          "paper_count": 1,
+          "paper_count": 2,
           "top_paper": {
-            "pmid": "41569270",
-            "title": "2025 US Public Health Service Guidelines for the Management of Occupational Exposures to Human Immunodeficiency Virus and Recommendations for Post-exposure Prophylaxis in Healthcare Settings.",
-            "journal": "Infection control and hospital epidemiology",
+            "pmid": "41765866",
+            "title": "Operationalizing the Wilson-Jungner principles for the genomics era: Consensus recommendations from the International Consortium on Newborn Sequencing.",
+            "journal": "Genetics in medicine : official journal of the American College of Medical Genetics",
             "impact_factor": 1.5,
             "index_type": "미상",
             "quartile": "미상",
-            "pubdate": "2025-09-15",
+            "pubdate": "2025-10-24",
             "authors": [
-              "Kofman AD",
-              "Struble KA",
-              "Heneine W"
+              "Downie L",
+              "Yeo J",
+              "Minten T"
             ],
-            "citation_count": 9,
-            "rcr": 3.47756571418046,
-            "volume": "46",
-            "issue": "9",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/41569270/",
+            "citation_count": 5,
+            "rcr": 3.5819091987577494,
+            "volume": "28",
+            "issue": "1",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/41765866/",
             "altmetric_score": 0,
             "altmetric_news": 0,
             "altmetric_social": 0,
             "is_current_issue": true,
-            "hot_score": 33.0,
+            "hot_score": 27.9,
             "field": "preventive",
             "field_label": "예방의학",
-            "abstract": "These guidelines update the 2013 \"Updated US Public Health Service (PHS) Guidelines for the Management of Occupational Exposures to Human Immunodeficiency Virus and Recommendations for Postexposure Prophylaxis,\" hereafter referred to as the 2013 PHS Guidelines., The availability of new medication options, new information on the window of detection for different human immunodeficiency virus (HIV) tests, and the risk of transmission from people with undetectable viral loads prompted this update. The primary intended audience for these recommendations remains anyone involved in the provision of HIV post-exposure management to healthcare personnel (HCP).The U.S. Centers for Disease Control and Prevention assembled a working group of representatives from federal agencies in the U.S. Department of Health and Human Services (HHS) who identified the priority topics for update and conducted systematic literature reviews to formulate recommendations (see Appendix). All recommendations were reviewed by the Healthcare Infection Control Practices Advisory Committee (HICPAC) at public meetings, and by a non-consensus forming panel of external experts. New evidence-based recommendations are developed using the Grading of Recommendations Assessment, Development, and Evaluation (GRADE) framework and classified according to the HICPAC recommendation scheme when evidence supported recommendation development., Other recommendations in this document are classified as good practice statements according to the criteria set forth by GRADE. The working group solicited additional feedback on recommendations from relevant agencies, subject-matter experts, and the public.Recommendations that have changed since the 2013 PHS guidelines include: • new antiretroviral drug regimens for post-exposure prophylaxis (PEP); • a shortened duration of post-exposure follow-up HIV testing; • elimination of routine laboratory tests for antiretroviral drug toxicity; and • considerations for PEP for HCP with exposures to source patients with undetectable viral loads. Important strategies in the principles of exposure management remain: primary prevention strategies; the prompt reporting and management of occupational exposures; adherence to recommended HIV PEP regimens when indicated; the role of expert consultation in management of exposures; and follow-up of exposed HCP.",
-            "title_ko": "2025 미국 공중 보건 서비스 인간 면역 결핍 바이러스에 대한 직업 노출 관리 지침 및 의료 환경에서 노출 후 예방을 위한 권장 사항."
+            "abstract": "PURPOSE: For decades, the selection of disorders included in newborn screening (NBS) programs has been guided by principles published by Wilson and Jungner in 1968. As research explores the expansion of conditions included in NBS through genomic sequencing, there is a critical need for updated recommendations to address the opportunities and complexities of genomic data. METHODS: The International Consortium on Newborn Sequencing includes leaders from over 16 research projects investigating genomic NBS across the United Kingdom, Europe, United States, and Oceania. Consortium members were invited to participate in a modified Delphi study, aggregating opinion on the selection of conditions for genomic NBS through 3 rounds of online questionnaires, with feedback provided to participants between rounds. RESULTS: In round 1, 94 participants completed the questionnaire, and 10 of 43 statements reached consensus. In round 2, 81 participants completed the questionnaire, and 14 of 27 statements reached consensus. In round 3, 68 participants completed the questionnaire, and all 10 statements reached 72% or more consensus. CONCLUSION: The 10 consensus recommendations developed in this study can guide future research and public health programs performing genomic NBS. This process also identified key areas of participant discordance, highlighting important topics for future research.",
+            "title_ko": "유전체학 시대를 위한 윌슨-정너 원리 운영: 신생아 염기서열 분석에 관한 국제 컨소시엄의 합의 권장 사항."
           },
           "papers": [
             {
-              "pmid": "41569270",
-              "title": "2025 US Public Health Service Guidelines for the Management of Occupational Exposures to Human Immunodeficiency Virus and Recommendations for Post-exposure Prophylaxis in Healthcare Settings.",
-              "journal": "Infection control and hospital epidemiology",
+              "pmid": "41765866",
+              "title": "Operationalizing the Wilson-Jungner principles for the genomics era: Consensus recommendations from the International Consortium on Newborn Sequencing.",
+              "journal": "Genetics in medicine : official journal of the American College of Medical Genetics",
               "impact_factor": 1.5,
               "index_type": "미상",
               "quartile": "미상",
-              "pubdate": "2025-09-15",
+              "pubdate": "2025-10-24",
               "authors": [
-                "Kofman AD",
-                "Struble KA",
-                "Heneine W"
+                "Downie L",
+                "Yeo J",
+                "Minten T"
               ],
-              "citation_count": 9,
-              "rcr": 3.47756571418046,
-              "volume": "46",
-              "issue": "9",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/41569270/",
+              "citation_count": 5,
+              "rcr": 3.5819091987577494,
+              "volume": "28",
+              "issue": "1",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/41765866/",
               "altmetric_score": 0,
               "altmetric_news": 0,
               "altmetric_social": 0,
               "is_current_issue": true,
-              "hot_score": 33.0,
+              "hot_score": 27.9,
               "field": "preventive",
               "field_label": "예방의학",
-              "abstract": "These guidelines update the 2013 \"Updated US Public Health Service (PHS) Guidelines for the Management of Occupational Exposures to Human Immunodeficiency Virus and Recommendations for Postexposure Prophylaxis,\" hereafter referred to as the 2013 PHS Guidelines., The availability of new medication options, new information on the window of detection for different human immunodeficiency virus (HIV) tests, and the risk of transmission from people with undetectable viral loads prompted this update. The primary intended audience for these recommendations remains anyone involved in the provision of HIV post-exposure management to healthcare personnel (HCP).The U.S. Centers for Disease Control and Prevention assembled a working group of representatives from federal agencies in the U.S. Department of Health and Human Services (HHS) who identified the priority topics for update and conducted systematic literature reviews to formulate recommendations (see Appendix). All recommendations were reviewed by the Healthcare Infection Control Practices Advisory Committee (HICPAC) at public meetings, and by a non-consensus forming panel of external experts. New evidence-based recommendations are developed using the Grading of Recommendations Assessment, Development, and Evaluation (GRADE) framework and classified according to the HICPAC recommendation scheme when evidence supported recommendation development., Other recommendations in this document are classified as good practice statements according to the criteria set forth by GRADE. The working group solicited additional feedback on recommendations from relevant agencies, subject-matter experts, and the public.Recommendations that have changed since the 2013 PHS guidelines include: • new antiretroviral drug regimens for post-exposure prophylaxis (PEP); • a shortened duration of post-exposure follow-up HIV testing; • elimination of routine laboratory tests for antiretroviral drug toxicity; and • considerations for PEP for HCP with exposures to source patients with undetectable viral loads. Important strategies in the principles of exposure management remain: primary prevention strategies; the prompt reporting and management of occupational exposures; adherence to recommended HIV PEP regimens when indicated; the role of expert consultation in management of exposures; and follow-up of exposed HCP.",
-              "title_ko": "2025 미국 공중 보건 서비스 인간 면역 결핍 바이러스에 대한 직업 노출 관리 지침 및 의료 환경에서 노출 후 예방을 위한 권장 사항."
+              "abstract": "PURPOSE: For decades, the selection of disorders included in newborn screening (NBS) programs has been guided by principles published by Wilson and Jungner in 1968. As research explores the expansion of conditions included in NBS through genomic sequencing, there is a critical need for updated recommendations to address the opportunities and complexities of genomic data. METHODS: The International Consortium on Newborn Sequencing includes leaders from over 16 research projects investigating genomic NBS across the United Kingdom, Europe, United States, and Oceania. Consortium members were invited to participate in a modified Delphi study, aggregating opinion on the selection of conditions for genomic NBS through 3 rounds of online questionnaires, with feedback provided to participants between rounds. RESULTS: In round 1, 94 participants completed the questionnaire, and 10 of 43 statements reached consensus. In round 2, 81 participants completed the questionnaire, and 14 of 27 statements reached consensus. In round 3, 68 participants completed the questionnaire, and all 10 statements reached 72% or more consensus. CONCLUSION: The 10 consensus recommendations developed in this study can guide future research and public health programs performing genomic NBS. This process also identified key areas of participant discordance, highlighting important topics for future research.",
+              "title_ko": "유전체학 시대를 위한 윌슨-정너 원리 운영: 신생아 염기서열 분석에 관한 국제 컨소시엄의 합의 권장 사항."
+            },
+            {
+              "pmid": "41755708",
+              "title": "Perceptions, knowledge, and attitudes toward genetics among psychiatric patients and their relatives: A systematic review and a meta-analysis.",
+              "journal": "Genetics in medicine : official journal of the American College of Medical Genetics",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2025-10-24",
+              "authors": [
+                "Prudhomme M",
+                "Chaumette B",
+                "Nubukpo P"
+              ],
+              "citation_count": 0,
+              "rcr": null,
+              "volume": "28",
+              "issue": "1",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/41755708/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": true,
+              "hot_score": 10.0,
+              "field": "preventive",
+              "field_label": "예방의학",
+              "abstract": "PURPOSE: Advances in genetic applications within psychiatry offer promising benefits in diagnosis, treatment personalization, and risk prediction. However, ethical concerns-such as fear of discrimination and eugenics-and limited awareness hinder their widespread adoption. This review aims to evaluate the attitudes of psychiatric patients and their relatives toward genetics in psychiatry and to identify the key factors that influence these perceptions. METHODS: A systematic review and meta-analysis adhering to PRISMA guidelines was performed across databases including PubMed, Scopus, and CINAHL up to February 2024. Studies exploring attitudes toward genetics in psychiatry among patients and relatives were included; their quality was assessed using the Quality Assessment Tool for Diverse Studies tool. A qualitative meta-synthesis identified themes, whereas a meta-analysis estimated favorable attitudes. RESULTS: Seventy studies examined applications such as predictive testing, pharmacogenetics, and genetic counseling. Overall, 80% (95% CI = 0.72 to 0.87) expressed favorable attitudes toward genetic testing. Notable barriers included concerns about discrimination, limited knowledge, and ethical issues related to prenatal testing. Although genetic counseling was positively received, its use remained limited due to lack of awareness. CONCLUSION: Despite the promise genetics holds for psychiatry, addressing technical, ethical, and educational challenges is essential for wider acceptance. Future research should focus on underserved populations and prioritize enhancing genetic counseling and professional education to support the responsible integration of genetic advancements.",
+              "title_ko": "정신과 환자와 그 친척의 유전학에 대한 인식, 지식 및 태도: 체계적인 검토 및 메타 분석."
             }
           ]
         },
@@ -462,7 +490,7 @@
           "impact_factor": 1.5,
           "index_type": "미상",
           "quartile": "미상",
-          "paper_count": 95,
+          "paper_count": 98,
           "top_paper": {
             "pmid": "39949340",
             "title": "Analysis of factors influencing HPV vaccination intention among Chinese college students: structural equation modeling based on health belief theory.",
@@ -722,7 +750,7 @@
           "impact_factor": 1.5,
           "index_type": "미상",
           "quartile": "미상",
-          "paper_count": 7,
+          "paper_count": 4,
           "top_paper": {
             "pmid": "39963235",
             "title": "Evaluating passive immunity in piglets from sows vaccinated with a PEDV S protein subunit vaccine.",
@@ -835,90 +863,6 @@
               "field_label": "예방의학",
               "abstract": "INTRODUCTION: In Eastern and Southern Africa, 63% of new HIV infections occurred in women and girls, with adolescent girls and young women representing a particularly vulnerable subpopulation. Effective vaginal products for HIV prevention are desirable because they are underrepresented in the currently approved portfolio and have attributes motivating product use. In this trial, we evaluated an innovative intravaginal ring (pod-IVR) as a platform for HIV pre-exposure prophylaxis (PrEP). OBJECTIVE: To measure the safety and multicompartment pharmacokinetics (PKs) of a pod-IVR delivering tenofovir disoproxil fumarate (TDF) combined with emtricitabine (FTC) in healthy women over 28 days. METHODS: The Phase 1 clinical trial consisted of a randomized order, controlled, double-blinded, crossover design. Ten women received either an active TDF-FTC pod-IVR or a placebo pod-IVR for 28 days, determined by 1:1 randomization, followed by product crossover for another 28 days. Safety was assessed in terms of adverse events related to product use, colposcopic examination, cervicovaginal epithelium thickness measurement by optical coherence tomography, and culture-independent assessment of the vaginal microbiome. Drug and/or drug metabolite concentrations were measured in cervicovaginal fluid (CVF), vaginal tissue, rectal tissue, rectal fluid, and plasma. RESULTS: There was no evidence of a statistically significant difference in related adverse-event counts between study products. There also was no evidence suggesting the study product altered the vaginal microbiome systematically or reproducibly. Systemic plasma exposure to tenofovir (TFV) and FTC was low, consistent with topical delivery. High median CVF concentrations of TFV (38.9 ng mg-1; 135×103 fmol mg-1) and FTC (239 ng mg-1; 966×103 fmol mg-1) were measured. Median vaginal tissue concentrations of the anabolites responsible for inhibition of HIV reverse transcriptase exceeded our target concentrations: TFV diphosphate 0.651×103 fmol mg-1 and FTC triphosphate 0.180×103 fmol mg-1. Drug concentrations in rectal tissue samples generally were below the analytical lower limits of quantification, but were quantifiable in rectal fluids, 130 (TFV) and 300 (FTC) times lower than in CVF. CONCLUSIONS: The TDF-FTC pod-IVRs were safe and well-tolerated over the 28 days of consecutive use. The PK data met the target benchmarks associated with protection from vaginal HIV infection. CLINICAL TRIAL REGISTRATION: https://clinicaltrials.gov/study/NCT03255915, identifier NCT03255915.",
               "title_ko": "A intravaginal ring for HIV pre-exposure prephylaxis: assessment of safety and pharmacokinetics in a randomized, placebo-controlled clinical trial."
-            },
-            {
-              "pmid": "42865425",
-              "title": "A multi-centre study on cervical cancer screening reveals population-related impact on cervical intraepithelial neoplasia rate.",
-              "journal": "Frontiers in cellular and infection microbiology",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2026-09-28",
-              "authors": [
-                "Zhao Y",
-                "Wang X",
-                "Yin R"
-              ],
-              "citation_count": 0,
-              "rcr": null,
-              "volume": "16",
-              "issue": "",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/42865425/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": false,
-              "hot_score": 0.0,
-              "field": "preventive",
-              "field_label": "예방의학",
-              "abstract": "OBJECTIVE: To conduct a three-year cervical cancer screen in Zhejiang, Sichuan, Beijing, and Inner Mongolia and analyse clinical and population data to identify possible improvements to the screening protocol. METHODS: A standard protocol including human papillomavirus (HPV) detection, cytology test, colposcopy, and histopathology inspection was adapted for the screening. Additional HPV genotyping was performed for participants in Sichuan, Beijing, and Inner Mongolia. RESULTS: 12,086 women were included in this study, and 178 cases of cervical intraepithelial neoplasia (CIN) grade 2 or worse (CIN2+) were identified. Detailed analyses on features of age, region, ethnicity, and origin showed a notable correlation between age strata and high-grade CIN rates. Moreover, apart from HPV16/18, other HPV types such as HPV33, HPV52, and HPV58 were found to be enriched in high-grade CIN cases, as was repeat positivity. CONCLUSIONS: Our results suggest that age, HPV16, and ThinPrep cytologic test (TCT) are prominent exploratory predictors for CIN2+ detection, and HPV33, 52, and 58 may pose higher risks than other non-HPV16/18 types. Future studies incorporating prospective effectiveness and health-economic evaluation are required to validate the clinical utility of these predictors.",
-              "title_ko": "자궁경부암 선별검사에 대한 다기관 연구는 자궁경부 상피내 신생물 비율에 대한 인구 관련 영향을 보여줍니다."
-            },
-            {
-              "pmid": "42851524",
-              "title": "Concurrent administration of a combined clostridial vaccine or ivermectin suppresses the antibody response to foot-and-mouth disease vaccine in sheep.",
-              "journal": "Frontiers in cellular and infection microbiology",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2026-09-24",
-              "authors": [
-                "Wang S",
-                "Qin L",
-                "Zhang M"
-              ],
-              "citation_count": 0,
-              "rcr": null,
-              "volume": "16",
-              "issue": "",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/42851524/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": false,
-              "hot_score": 0.0,
-              "field": "preventive",
-              "field_label": "예방의학",
-              "abstract": "Foot-and-mouth disease (FMD) is a highly contagious viral disease affecting cloven-hoofed animals and poses severe economic losses to the sheep industry. In intensive sheep farming, simultaneous administration of the FMD vaccine with other vaccines or anthelmintics is frequently practiced to reduce handling stress and labor costs. However, whether such combined administration can influence the immunological efficacy of FMD vaccine still lacks sufficient research evidence. In this study, 96 healthy sheep were randomly allocated into three groups (n=32 each). Group A received FMD vaccine alone (control); Group B received FMD vaccine concurrently with a quadrivalent clostridial vaccine; and Group C received FMD vaccine together with ivermectin. Serum samples were collected at 7, 14, 21 and 28 days post immunization, and liquid-phase blocking ELISA was applied to detect FMDV serotype O-specific antibody titers and the immune protection rate was determined based on whether the antibody titer exceeded 1:128. At day 28, the protection rates in Group A were 37.50% (12/32), while those in Groups B and C were only 0% (0/32) and 6.25% (2/32), respectively, with the ivermectin group showing significantly greater suppression than the clostridial group. In addition, both co-administration groups showed significantly lower titers at all time points. These findings demonstrate that concurrent administration of FMD vaccine with either quadrivalent clostridial vaccine or ivermectin severely impairs the humoral immune response to FMD in sheep, yielding inadequate protective levels. This study provides important field-relevant evidence for rational vaccine and anthelmintic application strategies in intensive sheep farming.",
-              "title_ko": "병용 클로스트리듐 백신 또는 이버멕틴의 동시 투여는 양에서 수족구병 백신에 대한 항체 반응을 억제한다."
-            },
-            {
-              "pmid": "42851269",
-              "title": "Early classical swine fever virus persistence is associated with cytotoxic and immunoregulatory transcriptional signatures distinct from protective C-strain vaccination.",
-              "journal": "Frontiers in cellular and infection microbiology",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2026-09-24",
-              "authors": [
-                "Puente-Marin S",
-                "Muñoz-Aguilera A",
-                "Asilvera A"
-              ],
-              "citation_count": 0,
-              "rcr": null,
-              "volume": "16",
-              "issue": "",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/42851269/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": false,
-              "hot_score": 0.0,
-              "field": "preventive",
-              "field_label": "예방의학",
-              "abstract": "Persistent classical swine fever virus (CSFV) infection represents a major challenge for disease control because persistently infected pigs remain clinically healthy while continuously shedding virus. However, the early immunological events associated with the establishment of viral persistence remain incompletely understood and require further investigation. In this study, we compared the peripheral blood mononuclear cell (PBMC) transcriptomes of neonatal piglets infected with the moderately virulent Catalonia01 CSFV strain, previously shown to induce postnatal persistent infection, with those of piglets vaccinated with the live attenuated C-strain vaccine. Samples were collected at 7 days post-infection or vaccination, before the onset of clinical signs or detectable anti-CSFV antibodies. Catalonia01-infected piglets exhibited high viral RNA loads and increased serum IFN-α levels, accompanied by enrichment of JAK-STAT and cytokine signaling pathways, indicating robust early innate antiviral activation. Transcriptomic analysis also revealed a marked cytotoxic transcriptional signature together with increased expression of immunoregulatory genes and lower expression of genes associated with MHC class II-mediated antigen presentation relative to C-strain-vaccinated animals. Together, these findings indicate that the early establishment of persistent infection occurs despite a robust antiviral transcriptional response, suggesting that immune activation alone is insufficient to achieve effective viral control. Collectively, these findings reveal distinct early transcriptional programs associated with Catalonia01 infection and protective C-strain vaccination, with persistent infection characterized by concurrent antiviral activation and immunoregulatory transcriptional signatures, further supporting and expanding the emerging concept of complex immune regulation during CSFV persistence.",
-              "title_ko": "초기의 고전적인 돼지열병 바이러스 지속성은 보호 C 균주 백신 접종과 구별되는 세포독성 및 면역조절 전사 서명과 관련이 있다."
             },
             {
               "pmid": "41635716",
@@ -1141,7 +1085,7 @@
           "impact_factor": 1.5,
           "index_type": "미상",
           "quartile": "미상",
-          "paper_count": 2,
+          "paper_count": 3,
           "top_paper": {
             "pmid": "40010911",
             "title": "Evaluating the Effectiveness of Safety Plans for Mitigating Suicide Risk in Two Samples of Psychiatrically Hospitalized Military Veterans.",
@@ -1200,6 +1144,34 @@
               "title_ko": "정신과 입원한 군 퇴역 군인의 두 샘플에서 자살 위험 완화를 위한 안전 계획의 효과 평가."
             },
             {
+              "pmid": "42097786",
+              "title": "Massed Brief Cognitive Behavioral Therapy (mBCBT) for Suicide Prevention: Results of a Pragmatic Clinical Trial.",
+              "journal": "Behavior therapy",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2025-10-24",
+              "authors": [
+                "Bryan CJ",
+                "Bryan AO",
+                "Khazem LR"
+              ],
+              "citation_count": 1,
+              "rcr": null,
+              "volume": "57",
+              "issue": "3",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/42097786/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": true,
+              "hot_score": 16.9,
+              "field": "preventive",
+              "field_label": "예방의학",
+              "abstract": "Brief cognitive behavioral therapy (BCBT) for suicide prevention has been shown to significantly reduce suicide attempts in multiple clinical settings and populations. Despite its efficacy, some patients will nonetheless engage in suicidal behaviors, typically within months of starting treatment, before they have received all treatment components. Accelerating the pace of BCBT with daily sessions during a compressed timeframe (e.g., 1-3 weeks) could lead to faster reductions in suicide risk. To date, no studies have examined the potential benefits of intensive or \"massed\" suicide prevention therapies. In this nonrandomized observational study, we examined change in multiple clinical outcomes (suicidal cognitions, suicidal ideation, depression, anxiety, and social-occupational functioning) during and after BCBT among treatment-seeking adult patients with recent suicidal ideation and/or suicidal behaviors. Of 55 patients, 30 chose to attend daily sessions of BCBT over 2 weeks (massed BCBT, or mBCBT) and 25 chose to attend weekly sessions (standard BCBT). Patients in both formats reported improvements in suicidal cognitions, suicidal ideation, depression, and social-occupational functioning by treatment end (week 3 in mBCBT and week 10 in standard BCBT). Anxiety symptoms improved more in standard BCBT than mBCBT. Relative to baseline, clinical gains at the end of mBCBT were maintained at the 3-month follow-up (week 15) but were smaller in magnitude than the gains reported 3 months after standard BCBT (week 22). Results suggest clinical outcomes improved in the short term during mBCBT. Additional research is warranted to evaluate change trajectories over longer follow-up periods.",
+              "title_ko": "자살 예방을 위한 Massed Brief Cognitive Behavioral Therapy (mBCBT): 실용주의 임상 시험 결과."
+            },
+            {
               "pmid": "41620246",
               "title": "Treatment of Youth Misophonia: A Randomized Controlled Trial Comparing Transdiagnostic Cognitive-Behavioral Therapy to Psychoeducation and Relaxation Training.",
               "journal": "Behavior therapy",
@@ -1220,8 +1192,8 @@
               "altmetric_score": 0,
               "altmetric_news": 0,
               "altmetric_social": 0,
-              "is_current_issue": true,
-              "hot_score": 21.0,
+              "is_current_issue": false,
+              "hot_score": 11.0,
               "field": "preventive",
               "field_label": "예방의학",
               "abstract": "Misophonia is a distinct clinical disorder that lacks official diagnostic classification. Despite growing evidence of the prevalence and impairment associated with this condition, little research has tested possible evidence-based interventions. The current study presents outcomes from a two-site randomized controlled trial (N = 43) comparing the efficacy of the Unified Protocols for Transdiagnostic Treatment of Emotional Disorders in Children and Adolescents (UP-C/A; n = 29) to a psychoeducation and relaxation training (PRT; n = 14) intervention for youth with misophonia. Participants in each condition received 10 telehealth treatment sessions and completed symptom assessments at 5- and 10-weeks postenrollment. Across both conditions, 47% of youth were treatment responders. Approximately half (54%) of youth receiving UP-C/A were treatment responders, and approximately one quarter (25%) of youth receiving PRT were treatment responders. Compared to those receiving PRT, participants receiving UP-C/A treatment exhibited greater improvement in misophonia symptoms and global functioning on some but not all outcome measures. Participants in each condition reported comparable treatment satisfaction. Results suggest that existing evidence-based interventions may be effectively applied, in a brief format, to treat youth misophonia. Moreover, findings highlight the high acceptability of cognitive-behavioral intervention (i.e., UP-C/A) for this youth sample. Future large-scale trials with a longer treatment duration and a follow-up period are needed to inform the development of evidence-based interventions for youth misophonia.",
@@ -1522,7 +1494,7 @@
           "impact_factor": 1.5,
           "index_type": "미상",
           "quartile": "미상",
-          "paper_count": 3,
+          "paper_count": 2,
           "top_paper": {
             "pmid": "40224869",
             "title": "Nurse Leaders' Motivational Forces in Developing a Health-Promoting Work Environment: A Hermeneutic Study.",
@@ -1607,34 +1579,6 @@
               "field_label": "예방의학",
               "abstract": "This study aimed to examine the relationship between medication literacy and the degree to which patients are considered capable of medication self-management, the factors influencing the strength of this relationship and the factors influencing a patient's capability for medication self-management. Between January and April 2022, a cross-sectional survey was conducted on hospitalised patients (65+) with polypharmacy. Medication literacy was evaluated using the MEDication Literacy Assessment of Geriatric patients and informal caregivers (MED-fLAG). The SelfMED assessment determined a patient's capability for medication self-management. The relationship between MED-fLAG and SelfMED was explored with Pearson's r. Moderation analysis was used to explore the factors influencing the strength of the relationship between both. Linear regression explored the factors influencing SelfMED scores. In total, 169 patients participated in the study. Patients considered themselves more capable of in-hospital medication self-management (8/10 rating) compared to nurses' and physicians' opinions (6/10 rating). Interactive medication literacy scored higher (mean = 3.0) than functional (mean = 2.9) and critical medication literacy (mean = 2.8). The more medication literacy skills, the more patients were considered able for medication self-management by healthcare providers (r = 0.630, p < 0.001). Moderation analysis could not reveal any factors that significantly affected the strength of the relationship between both. Age, managing medication independently at home, the number of chronic conditions and medication literacy were significant predictors of a patient's capability for in-hospital medication self-management. This study demonstrated a rather strong correlation between the results of the MED-fLAG and the SelfMED assessment. Hence, SelfMED can be used as a stand-alone first screening instrument to determine a patient's capability for in-hospital medication self-management, without first assessing medication literacy. MED-fLAG can provide valuable insights into the medication literacy of patients considered less capable of managing their medication, allowing medication information and interventions to be tailored to the patient.",
               "title_ko": "약물 리터러시 및 약물 자기 관리: 다약제를 사용하는 입원 환자 (65세 이상) 를 대상으로 한 단면 연구."
-            },
-            {
-              "pmid": "42860772",
-              "title": "Health Literacy, Social Support, and Kidney-Specific Quality of Life Among Hemodialysis Patients in Saudi Arabia: Implications for Nurse Managers Organizing Patient and Family Education.",
-              "journal": "Journal of nursing management",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2026-01-01",
-              "authors": [
-                "Mostoles RJ",
-                "Cabansag D",
-                "Lagura GAL"
-              ],
-              "citation_count": 0,
-              "rcr": null,
-              "volume": "2026",
-              "issue": "1",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/42860772/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": true,
-              "hot_score": 10.0,
-              "field": "preventive",
-              "field_label": "예방의학",
-              "abstract": "INTRODUCTION: Limited health literacy and strong family involvement are both common among hemodialysis patients in Saudi Arabia, yet how each relates to kidney-specific quality of life (KDCS), and what this implies for how dialysis units organize patient and family education, has not been examined. Decisions about education protocols, staff competencies, materials, timing, family inclusion, and quality monitoring are made by unit nurse managers, who currently lack local evidence to guide them. AIM: To examine the associations of health literacy and perceived social support with KDCS among hemodialysis patients in Hail, Saudi Arabia, and to identify what these associations imply for how nurse managers organize patient and family education in dialysis units. METHODS: A cross-sectional correlational design was employed with 215 patients recruited from two dialysis centers in Hail, Saudi Arabia. Health literacy, social support, and quality of life were measured using three validated Arabic-language tools: the HLS-EU-Q47 (health literacy), the MSPSS (multidimensional social support), and the KDQOL-SF 1.3 (KDCS). Questionnaires were administered in a mixed mode: 81.9% (176/215) were interviewer-administered following a standardized verbal protocol, and 18.1% were self-completed with a researcher present. Descriptive statistics were calculated for all variables. Pearson correlations examined bivariate associations among the continuous scores. The primary inferential analysis was a multiple linear regression with continuous KDCS as the dependent variable and health literacy and social support as predictors, controlling for age and education. As a secondary, exploratory analysis, a chi-square test examined the association between HLS-EU-Q47 health literacy categories and KDCS dichotomized at the sample mean. RESULTS: We observed a pattern we descriptively term the \"Support Paradox\": perceived family support was at the ceiling (M = 6.99/7.0, SD = 0.06), yet showed no association with KDCS (r = -0.09, p = 0.188; β = -0.08, p = 0.202). This null association may be explained by near-ceiling family support scores and the resulting restricted variance, interviewer-assisted administration (81.9% of surveys), and potential social desirability bias, and should be regarded as an observed pattern rather than evidence that family support is unrelated to quality of life. In the primary multiple linear regression model, health literacy was the only significant predictor (β = 0.19, p = 0.012), but the model explained less than 7% of KDCS variance (R2 = 0.068, adjusted R2 = 0.050), indicating a statistically significant but clinically modest association; 93.2% of KDCS variance remained unexplained by the model. In the exploratory categorical analysis, 91.7% of participants had limited health literacy, and sufficient health literacy was associated with \"Good\" KDCS (X2 = 22.12, p < 0.001, Cramér's V = 0.32). At the unit level, limited health literacy was near-universal (91.7%), and most participants (81.9%), although literate, opted for verbal administration because completing written material during dialysis was impractical. CONCLUSION: Health literacy was a statistically significant but small contributor to KDCS, and perceived family support, although at the ceiling, was unrelated to it. Nearly all patients (91.7%) had limited health literacy, and most (81.9%) opted for verbal rather than written administration during dialysis, indicating that the response lies at the level of how the unit organizes education rather than with individual patients. IMPLICATIONS FOR NURSING MANAGEMENT: The findings define three responsibilities for nurse managers in dialysis units: organizing health literacy interventions, supporting culturally responsive patient and family education, and improving the quality of education. Because limited health literacy was near-universal, managers should adopt a universal-precautions approach in which plain-language, verbal, and visual education with teach-back is the default for every patient, supported by staff training and a standardized unit education protocol. Because families are consistently present and highly involved, managers should build culturally responsive, family-inclusive education workflows that use Arabic-language, visually based materials reflecting local food, religious, and family practices, and that direct teach-back to the patient first to preserve patient autonomy and self-management. Managers should monitor education quality through documented teach-back, comprehension audits, caregiver attendance, and periodic reassessment of health literacy and QoL. Given the small effect size observed, these measures are necessary foundations whose impact on QoL must be evaluated prospectively.",
-              "title_ko": "사우디 아라비아의 혈액 투석 환자의 건강 리터러시, 사회적 지원 및 신장 특유의 삶의 질: 환자 및 가족 교육을 조직하는 간호사 관리자에게 미치는 영향."
             }
           ]
         },
@@ -2580,7 +2524,7 @@
           "impact_factor": 1.5,
           "index_type": "미상",
           "quartile": "미상",
-          "paper_count": 12,
+          "paper_count": 11,
           "top_paper": {
             "pmid": "40028449",
             "title": "All-cause mortality according to COVID-19 vaccination status: An analysis of the UK office for National statistics public data.",
@@ -2807,23 +2751,21 @@
               "title_ko": "예방 접종을 받은 육계에서 뉴캐슬병에 대한 면역 및 장 조직병리 개선을 위한 미코톡신 결합제."
             },
             {
-              "pmid": "41585456",
-              "title": "Eye health promotion in multi-sectoral settings: A systematic review of intervention types and effectiveness.",
+              "pmid": "41919090",
+              "title": "Mortality involving and not involving COVID-19 among vaccinated vs. unvaccinated in England between Apr 21 and May 23.",
               "journal": "F1000Research",
               "impact_factor": 1.5,
               "index_type": "미상",
               "quartile": "미상",
-              "pubdate": "2025-09-18",
+              "pubdate": "2026-02-14",
               "authors": [
-                "Masemola HC",
-                "Nkambule SJ",
-                "Baloyi O"
+                "Aarstad J"
               ],
               "citation_count": 0,
               "rcr": null,
               "volume": "14",
               "issue": "",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/41585456/",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/41919090/",
               "altmetric_score": 0,
               "altmetric_news": 0,
               "altmetric_social": 0,
@@ -2831,8 +2773,8 @@
               "hot_score": 0.0,
               "field": "preventive",
               "field_label": "예방의학",
-              "abstract": "BACKGROUND: Multi-sectoral settings such as hospitals, health care centres, clinics, schools, workplaces, community events, and online platforms play an important role in reaching individuals from various socioeconomic backgrounds and delivering health promotion interventions that change behaviour and improve health outcomes. The aim of this review was to systematically review the nature and effectiveness of eye health promotion interventions implemented by eye health professionals across various multi-sectoral settings. METHOD: This review was conducted using the Centre for Review and Dissemination guidelines for conducting systematic reviews and reported in accordance with the PRISMA 2020 statement. A comprehensive and systematic search was conducted on electronic databases such as PubMed, Web of Science, and Medline, CINAHL and Academic Search Complete hosted on EBSCOHost and supplemented with a hand search for relevant studies published between 1999 and 2024. Two independent reviewers screened eligible studies, extracted data, and assessed study quality using the Mixed Methods Appraisal Tool (MMAT) 2018. The eligibility criterion was met by 80 studies out of 15 554 screened. RESULTS: Eye health promotion interventions identified among studies were categorised as health education, health counselling, vision screening, eye screening and training programmes, health prevention, health promotion, health policy, ophthalmic intervention programmes, comprehensive eye examination and screening for diabetic retinopathy. Most studies showed a significant impact of eye health promotion interventions. CONCLUSION: Overall, studies demonstrated a diverse range of strategies that have shown significant effectiveness across various settings. This systematic review highlights the effectiveness of eye health promotion interventions, whilst identifying gaps in compliance, follow-up systems, and policy integration.Systematic review registration PROSPERO CRD42022354299.",
-              "title_ko": "다부문 환경에서의 눈 건강 증진: 중재 유형 및 효과에 대한 체계적인 검토."
+              "abstract": "BACKGROUND: Comparing non-randomized groups, such as COVID-19 vaccinated and unvaccinated, even in the presence of seemingly relevant control variables, is challenging, but in this study, using English data, I show an achievable approach. METHODS: First, I estimated age-standardized all-cause mortality among vaccinated and unvaccinated ten years and older, covering 26 months from Apr 21 to May 23. Then, I estimated mortality not involving COVID-19, and finally, I contrasted the calculations. RESULTS: First, I found that all-cause mortality among unvaccinated was higher than among vaccinated. But, as the pattern was similar concerning mortality not involving COVID-19, the discrepancy can be attributed mainly to unvaccinated having inferior health at the outset. There were nonetheless indications of significant protection for vaccinated between July 21 and Jan 22. In the absence of control variables as a means to compare non-randomized groups, I reached that conclusion by contrasting all-cause mortality with mortality not involving COVID-19. However, while mortality not involving COVID-19 decreased among unvaccinated compared to the first observation month, it remained high among vaccinated, indicating a relative increase. CONCLUSIONS: An interpretation is that vaccination, despite a potential temporary protection, has increased mortality. Strengthening the interpretation was relatively high mortality among vaccinated not involving COVID-19 counterintuitively following periods of excess mortality. Further strengthening the interpretation was the relatively high mortality not involving COVID-19 among vaccinated, corresponding with excess mortality during much of the same period. Future research should include data over a longer period than those available for this study. Also, future research should examine different age groups, vaccination types, and the number of doses given.",
+              "title_ko": "4월 21일부터 5월 23일까지 영국에서 예방 접종을 받은 사람과 받지 않은 사람의 코로나19 관련 사망률."
             }
           ]
         },
@@ -2841,7 +2783,7 @@
           "impact_factor": 1.5,
           "index_type": "미상",
           "quartile": "미상",
-          "paper_count": 17,
+          "paper_count": 16,
           "top_paper": {
             "pmid": "39981298",
             "title": "Staphylococcus aureus-specific TIGIT(+) Treg are present in the blood of healthy subjects - a hurdle for vaccination?",
@@ -3251,7 +3193,7 @@
           "impact_factor": 1.5,
           "index_type": "미상",
           "quartile": "미상",
-          "paper_count": 2,
+          "paper_count": 3,
           "top_paper": {
             "pmid": "40303105",
             "title": "Efficacy of Brucella Vaccines in Sheep: A Systematic Review and Meta-Analysis.",
@@ -3336,6 +3278,34 @@
               "field_label": "예방의학",
               "abstract": "Wild boar (Sus scrofa) is a common wild ungulate known as the most important reservoir of tuberculosis (TB) in Spain. The severity of TB lesions in this species and the high prevalence of porcine circovirus type 2 (PCV-2) have been related. PCV-2 is ubiquitous in swine populations, being usual for the free-living ones the contact with this agent. Recent studies found a correlation between a decrease of generalised TB prevalence in wild boar populations and the PCV-2-vaccination. The aim of this study was to find out if PCV-2 vaccination modulates the gene expression of cytokines from immune cells after its exposition with mycobacterial antigens using an in vitro methodology. A total of 46 wild boars from a PCV-2 infection endemic area were blood-sampled before and after the PCV-2 vaccination of 22 of them. Peripheral blood mononuclear cells (PBMC) were obtained and isolated from these samples. Aliquots of the cells were in vitro cultured and respectively stimulated with PPDa, PPDb, and a mitogen. A complete analysis of the gene expression of cytokines from the cultured PBMC was carried out. Also, Mycobacterium bovis and PCV-2 contacts were revealed by ELISA and/or qPCR. The results demonstrated that the animals which have had contact with PCV-2 and had been vaccinated, manifested a significant decrease in gene expression of proinflammatory cytokines, like interleukin 1 beta, interleukin 6, and tumour necrosis factor-alpha, possibly related with the severity of TB lesions, and also a significant decrease of interleukin 10, a key cytokine. In conclusion, in case of possible infection or contact events with the virus, PCV-2 vaccination could be an effective measure to reduce the TB severity in wild boar populations, which could decrease the intra and interspecies transmission of TB.",
               "title_ko": "미코박테리아 항원 자극 후 멧돼지 말초혈액 단핵세포에서 PCV-2 백신 접종이 사이토카인 유전자 발현 프로파일에 미치는 영향."
+            },
+            {
+              "pmid": "42905874",
+              "title": "Beyond Knowledge and Attitude: Structural Drivers Dominate Canine Rabies Vaccination Decisions in Rural China: A Multilevel Modeling Study.",
+              "journal": "Transboundary and emerging diseases",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2026-01-01",
+              "authors": [
+                "Sun K",
+                "Chen S",
+                "Duan C"
+              ],
+              "citation_count": 0,
+              "rcr": null,
+              "volume": "2026",
+              "issue": "1",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/42905874/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": true,
+              "hot_score": 10.0,
+              "field": "preventive",
+              "field_label": "예방의학",
+              "abstract": "The knowledge-attitude-practice (KAP) model guides rabies health promotion but insufficiently explains the knowledge-practice gap. Existing research largely focuses on individual cognitive factors, lacking integration of multilevel and structural determinants. This study is based on multistage sampling and conducts a cross-sectional survey of rural populations. The multilevel mixed effects model and structural equation model were used to analyze the KAP path of the general population, and a binomial mixed effects model was used to analyze the factors affecting dog vaccination in dog-owning households. A total of 2148 rural residents were included in the study. The KAP analysis revealed a moderate mean knowledge score (68.04 ± 22.24) and a high proportion of positive attitudes (88.13%), the active practice rate was low (26.53%). Attitude emerged as a significant mediator, through which knowledge positively influenced (β = 0.12, p < 0.001). The indirect effect accounts for 91.04% of the overall. An analysis of 282 dog-owning households found that the vaccination rate for dogs was 36.17%. The mixed effects model showed that the vaccination rate of purchased dogs was 3.38 times higher than that of home-bred dogs (OR = 3.38, 95% CI: 1.53-7.45), and the vaccination rate of leash-restrained dogs was 3.77 times higher than that of free-ranging dogs (OR = 3.77, 95% CI: 1.84-7.72). In addition to knowledge and attitude, structural factors such as dog sources and dog management methods significantly affect dog vaccination. Rabies prevention should evolve from education toward comprehensive interventions that include dog management reforms, and the creation of supportive policy and environments that reduce structural barriers.",
+              "title_ko": "지식과 태도를 넘어서: 구조적 요인이 중국 시골에서 개 광견병 백신 접종 결정을 지배하다: 다단계 모델링 연구."
             }
           ]
         },
@@ -3587,6 +3557,71 @@
               "field_label": "예방의학",
               "abstract": "INTRODUCTION: Patients use online videos to learn about their condition and potential treatments. Operative techniques in Deep Brain Stimulation (DBS) vary significantly between institutions. This poses challenges to ensuring patients are adequately and accurately informed. We performed a comprehensive review of YouTube videos describing Deep Brain Stimulation. METHODS: Text searches for DBS-related search strings were performed on YouTube. The top 25 de-duplicated videos per search were included. Each video was assessed for differences in procedural technique, educational quality using the JAMA benchmark and DISCERN tools, and audio-visual or editing quality. RESULTS: We identified 91 DBS-related YouTube videos with 44% of videos uploaded by academic institutions and 15% by hospitals. Parkinson's disease was the most frequently described condition in 65% of videos. Variations in procedure impacting patient experience and expectations, were discussed in varying proportions: head shaving in 14.3% of videos, potential complications in 23.1%, number of stages in 33.0%, and awake vs asleep surgery in 46.2%. The JAMA benchmark criteria was fulfilled in 12% of videos and the median total DISCERN score was 46, an 'average' quality rating. High-quality images (N = 69, 75.8%), audio/music (N = 73, 80.2%), accessible language (N = 84, 92.3%), and professional production quality (N = 72, 79.1%) were present in most videos. DISCUSSION AND CONCLUSION: YouTube videos describing DBS are visually appealing but lack scientific quality and present potentially misleading content for future DBS recipients and caregivers. They should be viewed with caution as a source of medical communication or information for patients.",
               "title_ko": "딥 브레인 자극을 설명하기 위한 YouTube 동영상: 포괄적이고 정량적인 검토."
+            }
+          ]
+        },
+        {
+          "journal": "Journal of infection and chemotherapy : official journal of the Japan Society of Chemotherapy",
+          "impact_factor": 1.5,
+          "index_type": "미상",
+          "quartile": "미상",
+          "paper_count": 1,
+          "top_paper": {
+            "pmid": "41815056",
+            "title": "Strain-specific anti-RBD IgG antibody titers against the WT, XBB.1.5, JN.1, and KP.3 strains consistently correlate with neutralizing activity following SARS-CoV-2 XBB.1.5-adapted mRNA vaccination.",
+            "journal": "Journal of infection and chemotherapy : official journal of the Japan Society of Chemotherapy",
+            "impact_factor": 1.5,
+            "index_type": "미상",
+            "quartile": "미상",
+            "pubdate": "2025-10-24",
+            "authors": [
+              "Goto T",
+              "Chong Y",
+              "Sato T"
+            ],
+            "citation_count": 1,
+            "rcr": null,
+            "volume": "31",
+            "issue": "12",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/41815056/",
+            "altmetric_score": 0,
+            "altmetric_news": 0,
+            "altmetric_social": 0,
+            "is_current_issue": true,
+            "hot_score": 16.9,
+            "field": "preventive",
+            "field_label": "예방의학",
+            "abstract": "INTRODUCTION: Data on the correlation between SARS-CoV-2 neutralizing activity and strain-specific anti-RBD IgG antibody (anti-RBD) titers is limited, particularly in the context of XBB.1.5-adapted vaccination. METHODS: A direct comparison of neutralizing activity, measured as 50 % neutralization (NT50), and anti-RBD titers, measured using an ELISA, was conducted using serum samples collected in Japan before and after XBB.1.5-adapted mRNA vaccination. RESULTS: A total of 108 serum samples from 54 patients were analyzed. A strong correlation between neutralizing activity and anti-RBD titers was observed for the wild-type (WT), XBB.1.5, JN.1, and KP.3 strains (r = 0.94, 0.87, 0.86, and 0.82, respectively). This correlation persisted when stratifying pre- and post-vaccination samples (r = 0.92, 0.83, 0.85, and 0.82, respectively, for pre-vaccination samples and r = 0.96, 0.85, 0.82, and 0.75, respectively, for post-vaccination samples). Both NT50 and anti-RBD titers significantly increased against all four tested strains after vaccination (p < 0.001), with the highest fold change observed for the XBB.1.5 variant. Additionally, variant specificity, defined as the ratio of variant to WT values, significantly increased for XBB.1.5, JN.1, and KP.3 after vaccination in NT50 and was also observed in anti-RBD titers. CONCLUSIONS: These findings, demonstrating a strong correlation with neutralizing activity not only against the WT strain but also against the XBB.1.5, JN.1, and KP.3 variants, suggest that strain-specific anti-RBD IgG antibody titers would be useful as an indicator of humoral immunity following XBB.1.5-adapted vaccination.",
+            "title_ko": "WT, XBB.1.5, JN.1 및 KP.3 균주에 대한 균주-특이적 항-RBD IgG 항체 역가는 SARS-CoV-2 XBB.1.5-적응 mRNA 백신접종 후 중화 활성과 일관되게 상관관계가 있다."
+          },
+          "papers": [
+            {
+              "pmid": "41815056",
+              "title": "Strain-specific anti-RBD IgG antibody titers against the WT, XBB.1.5, JN.1, and KP.3 strains consistently correlate with neutralizing activity following SARS-CoV-2 XBB.1.5-adapted mRNA vaccination.",
+              "journal": "Journal of infection and chemotherapy : official journal of the Japan Society of Chemotherapy",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2025-10-24",
+              "authors": [
+                "Goto T",
+                "Chong Y",
+                "Sato T"
+              ],
+              "citation_count": 1,
+              "rcr": null,
+              "volume": "31",
+              "issue": "12",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/41815056/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": true,
+              "hot_score": 16.9,
+              "field": "preventive",
+              "field_label": "예방의학",
+              "abstract": "INTRODUCTION: Data on the correlation between SARS-CoV-2 neutralizing activity and strain-specific anti-RBD IgG antibody (anti-RBD) titers is limited, particularly in the context of XBB.1.5-adapted vaccination. METHODS: A direct comparison of neutralizing activity, measured as 50 % neutralization (NT50), and anti-RBD titers, measured using an ELISA, was conducted using serum samples collected in Japan before and after XBB.1.5-adapted mRNA vaccination. RESULTS: A total of 108 serum samples from 54 patients were analyzed. A strong correlation between neutralizing activity and anti-RBD titers was observed for the wild-type (WT), XBB.1.5, JN.1, and KP.3 strains (r = 0.94, 0.87, 0.86, and 0.82, respectively). This correlation persisted when stratifying pre- and post-vaccination samples (r = 0.92, 0.83, 0.85, and 0.82, respectively, for pre-vaccination samples and r = 0.96, 0.85, 0.82, and 0.75, respectively, for post-vaccination samples). Both NT50 and anti-RBD titers significantly increased against all four tested strains after vaccination (p < 0.001), with the highest fold change observed for the XBB.1.5 variant. Additionally, variant specificity, defined as the ratio of variant to WT values, significantly increased for XBB.1.5, JN.1, and KP.3 after vaccination in NT50 and was also observed in anti-RBD titers. CONCLUSIONS: These findings, demonstrating a strong correlation with neutralizing activity not only against the WT strain but also against the XBB.1.5, JN.1, and KP.3 variants, suggest that strain-specific anti-RBD IgG antibody titers would be useful as an indicator of humoral immunity following XBB.1.5-adapted vaccination.",
+              "title_ko": "WT, XBB.1.5, JN.1 및 KP.3 균주에 대한 균주-특이적 항-RBD IgG 항체 역가는 SARS-CoV-2 XBB.1.5-적응 mRNA 백신접종 후 중화 활성과 일관되게 상관관계가 있다."
             }
           ]
         },
@@ -4401,7 +4436,7 @@
           "impact_factor": 1.5,
           "index_type": "미상",
           "quartile": "미상",
-          "paper_count": 4,
+          "paper_count": 5,
           "top_paper": {
             "pmid": "39877848",
             "title": "Shifting paradigms in primary aldosteronism: reconsideration of screening strategy via integrating pathophysiological insights.",
@@ -4516,23 +4551,23 @@
               "title_ko": "시기적절한 진단과 치료가 선천성 갑상선 기능 저하증 아동의 성장과 신체 비례에 미치는 영향."
             },
             {
-              "pmid": "42856903",
-              "title": "Overt and subclinical hypothyroidism during pregnancy: effects on neonatal amino acids, acylcarnitines, and TSH levels.",
+              "pmid": "42908667",
+              "title": "Development and external validation of a nomogram for identifying patients with thyroid eye disease who screen positive for depressive symptoms: a two-center study.",
               "journal": "Frontiers in endocrinology",
               "impact_factor": 1.5,
               "index_type": "미상",
               "quartile": "미상",
-              "pubdate": "2026-09-25",
+              "pubdate": "2026-10-07",
               "authors": [
-                "Wu M",
-                "Kong F",
-                "Huang S"
+                "Jiao S",
+                "Wang L",
+                "Wang J"
               ],
               "citation_count": 0,
               "rcr": null,
               "volume": "17",
               "issue": "",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/42856903/",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/42908667/",
               "altmetric_score": 0,
               "altmetric_news": 0,
               "altmetric_social": 0,
@@ -4540,8 +4575,36 @@
               "hot_score": 0.0,
               "field": "preventive",
               "field_label": "예방의학",
-              "abstract": "BACKGROUND/OBJECTIVES: Maternal hypothyroidism during pregnancy, including overt and subclinical hypothyroidism, is a common endocrine disorder complicating pregnancy and is associated with increased risks of adverse maternal and fetal outcomes. However, its effects on neonatal metabolism remain inadequately understood. This study aimed to assess the association between hypothyroidism in pregnancy and neonatal amino acid and acylcarnitine levels. METHODS: This retrospective case-control study included 1,987 pregnant women with overt hypothyroidism in pregnancy, 2,023 with subclinical hypothyroidism in pregnancy, and 2,043 euthyroid pregnant women from Fujian Provincial Maternity and Children's Hospital between 2016 and 2024. Their newborns all underwent newborn screening for 11 amino acids and 31 acylcarnitines using tandem mass spectrometry. RESULTS: After adjusting for potential confounding factors including gestational age at delivery, birth weight, and neonatal sex, newborns born to mothers with hypothyroidism in pregnancy (overt and subclinical) showed significant differences in the levels of 9 amino acids compared with those born to mothers with normal thyroid function. These amino acids are involved in the arginine-proline metabolism, glycine metabolism, and the urea cycle pathway. Amino acid levels also differed between the two subtypes. In addition, the levels of short-chain, medium-chain, and long-chain acylcarnitines in newborns from the hypothyroidism groups were significantly higher than those in the control group, with several acylcarnitine indicators (C16, C16:1, C16OH, C18:1OH, and C6DC) exhibiting characteristic differences between the two subtypes. The levels of thyroid-stimulating hormone (TSH) in newborns from both hypothyroidism groups were significantly higher than those in the control group, whereas no statistically significant difference in TSH levels was observed between the overt and subclinical hypothyroidism groups. CONCLUSION: Our findings revealed a significant association between hypothyroidism in pregnancy (overt and subclinical) and neonatal amino acid and acylcarnitine levels, which were mainly involved in branched-chain amino acid, arginine, proline, and glycine metabolism, as well as the urea cycle and fatty acid oxidation pathways. These results underscore the importance of identifying maternal conditions that correlate with neonatal metabolites, providing a reference for exploring strategies to optimize neonatal nutrition and improving long-term health outcomes.",
-              "title_ko": "임신 중 과다 및 준임상 갑상선 기능 저하증: 신생아 아미노산, 아실카르니틴 및 TSH 수준에 미치는 영향."
+              "abstract": "OBJECTIVE: To identify factors independently associated with a positive depressive symptom screen in patients with thyroid eye disease (TED) and to develop and externally validate a nomogram-based model for individualized identification in a second-center cohort as a clinically feasible screening tool for prioritizing depressive symptom screening and informing ongoing follow-up and targeted multidisciplinary management. METHODS: In this two-center observational study, a development cohort (n=218; October 2025-January 2026) and an external validation cohort (n=88; February-March 2026) were enrolled from two tertiary hospitals in Jiangsu Province (total 306 patients). A positive depressive symptom screen was defined as a PHQ-9 total score ≥5. Independent associated factors were selected by univariate and multivariate logistic regression. Five models were developed using the same development data and preprocessing pipeline: logistic regression, LASSO, support vector machine, random forest, and XGBoost. The entire modeling process was internally validated and corrected for optimism using 500 bootstrap resamples, and hyperparameters were optimized using stratified five-fold cross-validation. Discrimination (AUC), decision curve analysis (DCA), and external validation were assessed, and the final locked model was applied to the external cohort without updating. RESULTS: Overall, 116/306 patients (37.9%) screened positive for depressive symptoms. Age, average monthly household income, stressful life events in the past 6 months, EUGOGO severity grade, standardized GO-QoL-AP score, and TRAb level were independent factors associated with a positive depressive symptom screen. The optimism-corrected AUCs of the five models ranged from 0.736 to 0.790, with no statistically significant paired differences between the corrected AUC of logistic regression and those of the other models. Logistic regression was selected and locked. Its apparent development-cohort AUC was 0.815 and its 500-bootstrap-corrected AUC was 0.776 (95% CI, 0.724-0.840; Brier score, 0.186). In external validation, the AUC was 0.742 (95% CI, 0.631-0.843), the Brier score was 0.195, the calibration slope was 0.981, and the calibration intercept was 0.007. At the locked threshold of 0.312, sensitivity was 0.771 and specificity was 0.547. DCA showed some clinical net benefit across threshold probabilities of 0.10-0.50. CONCLUSIONS: We developed a nomogram for identifying patients with TED who screen positive for depressive symptoms based on age, mean monthly household income, stressful life events during the preceding 6 months, EUGOGO severity grade, standardized GO-QoL-AP score, and TRAb level. In second-center external validation, the model showed moderate discrimination, with calibration slope and intercept estimates close to their ideal values. It may serve as an auxiliary tool for prioritizing depressive symptom screening among patients with TED aged 18-59 years.",
+              "title_ko": "우울 증상에 대해 양성 반응을 보이는 갑상선 안구 질환 환자를 확인하기 위한 노모그램의 개발 및 외부 검증: 2기관 연구."
+            },
+            {
+              "pmid": "42908544",
+              "title": "Efficacy of preimplantation genetic testing for aneuploidy in improving pregnancy outcome among couples with azoospermia: study protocol for a multicenter, randomized controlled trial.",
+              "journal": "Frontiers in endocrinology",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2026-10-07",
+              "authors": [
+                "He Y",
+                "Huang J",
+                "Yan J"
+              ],
+              "citation_count": 0,
+              "rcr": null,
+              "volume": "17",
+              "issue": "",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/42908544/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 0.0,
+              "field": "preventive",
+              "field_label": "예방의학",
+              "abstract": "BACKGROUND: Azoospermia affects up to one in ten infertile couples and represents one of the most challenging conditions in male infertility. Although the development of intracytoplasmic sperm injection (ICSI) enables azoospermic men to achieve biological parenthood, overall success rates remain modest. Preimplantation genetic testing for aneuploidy (PGT-A) is increasingly promoted and used worldwide to improve pregnancy outcomes and enhance the efficiency of ICSI; however, its efficacy for couples with azoospermia remains uncertain. Robust evidence from adequately powered randomized controlled trials (RCTs) is still lacking to determine whether PGT-A can increase the live birth rate as the primary outcome in this context. METHODS: This trial is designed as a prospective, multicenter, open-label RCT. Couples with azoospermia (female age 20-37 years; male age 20-55 years) who intend to undergo ICSI with partner's sperm will be screened for eligibility. Women who have at least two blastocysts available on day 5 of embryo culture will be enrolled and randomly assigned in a 1:1 ratio to receive either PGT-A or conventional ICSI. A freeze-all strategy with single frozen-thawed blastocyst transfer will be implemented in both groups. The primary outcome is live birth rate. DISCUSSION: The findings of this trial are expected to provide high-quality evidence regarding the efficacy of PGT-A for couples with azoospermia, helping optimize individualized patient management and improve overall treatment efficiency. CLINICAL TRIAL REGISTRATION: http://www.chictr.org.cn/, identifier ChiCTR2100043421.",
+              "title_ko": "무정자증이 있는 부부의 임신 결과 개선에 있어서 이수성에 대한 착상 전 유전자 검사의 효능: 다기관 무작위배정 대조 시험을 위한 임상시험 계획서."
             }
           ]
         },
@@ -4869,211 +4932,6 @@
               "title_ko": "심대사 질환의 일차 예방을 위한 지중해 식단: 이탈리아 국가 가이드라인 \"La Dieta Mediterranea\" 에 소개된 체계적인 검토 및 메타 분석의 증거."
             }
           ]
-        },
-        {
-          "journal": "Best practice & research. Clinical gastroenterology",
-          "impact_factor": 1.5,
-          "index_type": "미상",
-          "quartile": "미상",
-          "paper_count": 6,
-          "top_paper": {
-            "pmid": "41724536",
-            "title": "Developments in the roll-out and performance of CRC screening in Europe.",
-            "journal": "Best practice & research. Clinical gastroenterology",
-            "impact_factor": 1.5,
-            "index_type": "미상",
-            "quartile": "미상",
-            "pubdate": "2025-08-05",
-            "authors": [
-              "Carbotti G",
-              "van den Berg DM",
-              "Carvalho AL"
-            ],
-            "citation_count": 3,
-            "rcr": null,
-            "volume": "80",
-            "issue": "",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/41724536/",
-            "altmetric_score": 0,
-            "altmetric_news": 0,
-            "altmetric_social": 0,
-            "is_current_issue": false,
-            "hot_score": 13.8,
-            "field": "preventive",
-            "field_label": "예방의학",
-            "abstract": "The heterogeneous implementation of colorectal cancer screening programs across Europe makes performance comparison challenging. This study computed and analyzed seven key indicators of screening performance for eighteen European programs between 2011 and 2022. Trends in colorectal cancer incidence and mortality were also examined in relation to when each screening program was introduced. Coverage indicators showed considerable variation across programs but generally increased until the onset of the COVID pandemic. Yield indicators remained stable overall, whereas jumps were associated to protocol changes. In most countries, a decline in incidence followed the introduction of the screening program, whereas the connection of screening with mortality was less evident. The analysis of comparable screening performance indicators over time allows for cross-country and longitudinal monitoring of the programs. The observed decline in incidence following the implementation of fully rolled-out programs highlights the importance and effectiveness of well-organized screening in reducing the burden of the disease.",
-            "title_ko": "유럽에서 CRC 스크리닝의 출시 및 성능의 발전."
-          },
-          "papers": [
-            {
-              "pmid": "41724536",
-              "title": "Developments in the roll-out and performance of CRC screening in Europe.",
-              "journal": "Best practice & research. Clinical gastroenterology",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2025-08-05",
-              "authors": [
-                "Carbotti G",
-                "van den Berg DM",
-                "Carvalho AL"
-              ],
-              "citation_count": 3,
-              "rcr": null,
-              "volume": "80",
-              "issue": "",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/41724536/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": false,
-              "hot_score": 13.8,
-              "field": "preventive",
-              "field_label": "예방의학",
-              "abstract": "The heterogeneous implementation of colorectal cancer screening programs across Europe makes performance comparison challenging. This study computed and analyzed seven key indicators of screening performance for eighteen European programs between 2011 and 2022. Trends in colorectal cancer incidence and mortality were also examined in relation to when each screening program was introduced. Coverage indicators showed considerable variation across programs but generally increased until the onset of the COVID pandemic. Yield indicators remained stable overall, whereas jumps were associated to protocol changes. In most countries, a decline in incidence followed the introduction of the screening program, whereas the connection of screening with mortality was less evident. The analysis of comparable screening performance indicators over time allows for cross-country and longitudinal monitoring of the programs. The observed decline in incidence following the implementation of fully rolled-out programs highlights the importance and effectiveness of well-organized screening in reducing the burden of the disease.",
-              "title_ko": "유럽에서 CRC 스크리닝의 출시 및 성능의 발전."
-            },
-            {
-              "pmid": "41724542",
-              "title": "Elements of screening and early diagnosis of lower GI neoplastic lesions - an overview.",
-              "journal": "Best practice & research. Clinical gastroenterology",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2025-09-30",
-              "authors": [
-                "Sheridan B",
-                "Rabeneck L",
-                "Toes-Zoutendijk E"
-              ],
-              "citation_count": 1,
-              "rcr": null,
-              "volume": "80",
-              "issue": "",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/41724542/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": false,
-              "hot_score": 6.9,
-              "field": "preventive",
-              "field_label": "예방의학",
-              "abstract": "Dobrow's 12 consolidated principles were applied to evaluate the extent to which colorectal cancer (CRC) screening programmes align with these established screening principles. The principles within the first domain - disease and conditions - are fully met. CRC represents a significant global public health burden with a well-understood natural history, including a long preclinical phase. These features make CRC suitable for population-based screening. Current guidelines recommend screening average-risk individuals, with starting ages as early as 45 years and stopping ages up to 85 years in some programs, although most programs target those aged 50-75 years. For Dobrow's second domain - test or intervention - we found that established CRC screening methods (faecal immunochemical testing (FIT), colonoscopy, and flexible sigmoidoscopy) have known and acceptable sensitivity and specificity. These tests have clear thresholds for interpretation and follow-up and are associated with reductions in both CRC incidence and mortality, confirming their clinical effectiveness in organised programmes. Dobrow's third domain - programme or system - addresses how screening programmes should be structured, implemented, and integrated into health systems. Unlike the other domains, this is fully achieved in only a small minority of programmes. While implementation may vary from country to country, the principles provide benchmarks for well-organised programmes. CRC screening is generally cost-effective and widely accepted by patients, providers, and society. Successful programmes require dedicated teams, infrastructure, and systems for coordination and quality assurance. Before implementation, a CRC screening initiative must meet, or have a clear plan to meet 12 principles. In summary, robust infrastructure and governance are essential for organised CRC screening programmes to align with the Dobrow principles and achieve long-term success.",
-              "title_ko": "하부 위장관 신생물 병변의 스크리닝 및 조기 진단의 요소 - 개요."
-            },
-            {
-              "pmid": "41724538",
-              "title": "Evidence-based decision analysis guiding clinical guidelines for an organized population-based screening for colorectal cancer.",
-              "journal": "Best practice & research. Clinical gastroenterology",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2025-08-08",
-              "authors": [
-                "Jahn B",
-                "Sroczynski G",
-                "Santamaria J"
-              ],
-              "citation_count": 1,
-              "rcr": null,
-              "volume": "80",
-              "issue": "",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/41724538/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": false,
-              "hot_score": 6.9,
-              "field": "preventive",
-              "field_label": "예방의학",
-              "abstract": "BACKGROUND: This study includes the long-term benefit-harm analysis of population-wide colorectal cancer (CRC) screening strategies commissioned by the Austrian National Committee for Cancer Screening (ANCCS). In addition, we present the related cost-effectiveness analysis. METHODS: Using a validated decision-analytic Markov state transition model, we evaluated 17 by the ANCCS suggested CRC-screening strategies differing in tests (fecal-immunochemical test (FIT), guaiac-based fecal occult blood test (gFOBT), colonoscopy (COL)), age at start (40,45,50 years) and end (COL: 65,70,75 years, FIT/gFOBT 75 years), and intervals (2,5,10 years). Positive FIT/gFOBT tests are followed by colonoscopy. Evaluated outcomes included health benefits (life-years gained (LYG), CRC-cases/CRC-deaths avoided), harms (severe colonoscopy complications, psychological harms due to positive test results (PTR), additional colonoscopies), stepwise evaluated incremental harm-benefit ratios (IHBR), and incremental cost-effectiveness ratios (ICER). We applied the Austrian healthcare system perspective, a lifelong-time horizon and conducted sensitivity analyses. RESULTS: The most effective colonoscopy-based screening strategy is colonoscopy at age 40/50/60/70 (449 LYG per 1000 individuals) with an IHBR of 3 PTR/LYG compared to COL45/55/65 (ICER: 13,032 Euro/LYG vs. COL45/55/65/75). The most effective fecal blood-test-based strategy is annual FIT testing starting at age 40 years (488 LYG per 1000 individuals) and an IHBR of 30 PTR/LYG compared to FIT40+2y (biennial FIT starting age 40). All biennial FIT-based screening strategies represent alternative options on the harm-benefit efficiency frontier with IHBR of PTR/LYG: 2 (FIT50+2y vs. no screening), 5 (FIT45+2y vs. FIT50+2y), and 7 (FIT40+2y vs. FIT45+2y). The cost-effectiveness analyses provided stepwise ICERs ranging from 3391 Euro/LYG (FIT45+2y vs. FIT50+2y) to 47,812 Euro/LYG (FIT40+1y vs. FIT40+2y). CONCLUSIONS: Our decision analysis shows benefit-harm and cost-effectiveness trade-offs. In the consensus meeting of the ANCCS, colonoscopy- and FIT-based screening starting at age 45 were selected as suggested screening strategies, accounting for benefit-harm balance, evidence level, and implementation aspects.",
-              "title_ko": "대장암에 대한 조직화된 모집단 기반 선별 검사를 위한 임상 가이드라인을 안내하는 증거 기반 의사결정 분석."
-            },
-            {
-              "pmid": "41724531",
-              "title": "Risk-based screening for early detection of colorectal cancer: an overview.",
-              "journal": "Best practice & research. Clinical gastroenterology",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2025-05-08",
-              "authors": [
-                "Brück CC",
-                "Mwangi LW",
-                "van Wifferen F"
-              ],
-              "citation_count": 1,
-              "rcr": null,
-              "volume": "80",
-              "issue": "",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/41724531/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": false,
-              "hot_score": 6.9,
-              "field": "preventive",
-              "field_label": "예방의학",
-              "abstract": "Screening programs for colorectal cancer (CRC) reduce CRC incidence and mortality, while balancing benefits and harms of the population. However, benefits vary widely among individuals. Low-risk individuals may face unnecessary burdens, while high-risk individuals could benefit from more intensive screening. Risk-based screening addresses these issues by tailoring screening strategies using risk factors such as age, sex, race, ethnicity, lifestyle factors, genetic predisposition, and previous screening results. Potential benefits of risk-based screening include improved cost-effectiveness, efficient resource use and reduced unnecessary procedures. Challenges include a lack of validated risk stratification tools, data availability, healthcare capacity, and ethical considerations. Several countries started to evaluate risk-based screening programs with optimistic results. While promising, further research is necessary to address the remaining challenges. Nevertheless, risk-based screening has the potential to enhance patient experiences, optimize the balance of individual-level benefits and harms, and positively impact the overall burden and costs associated with CRC screening.",
-              "title_ko": "대장암의 조기 발견을 위한 위험 기반 선별검사: 개요."
-            },
-            {
-              "pmid": "41724541",
-              "title": "Is blood the new stool? Status of blood tests for CRC screening.",
-              "journal": "Best practice & research. Clinical gastroenterology",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2025-09-08",
-              "authors": [
-                "Symonds EL",
-                "Dix M",
-                "Wassie MM"
-              ],
-              "citation_count": 0,
-              "rcr": null,
-              "volume": "80",
-              "issue": "",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/41724541/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": false,
-              "hot_score": 0.0,
-              "field": "preventive",
-              "field_label": "예방의학",
-              "abstract": "Colorectal cancer (CRC) screening has proven to decrease CRC incidence and mortality, with many countries providing faecal immunochemical tests (FIT) in screening programs. Effectiveness, however, is limited in the setting of low participation rates, which has prompted growing research into blood-based screening. While blood testing is anticipated to improve participation due to greater population acceptability, its readiness for widespread implementation remains unclear, and comparative accuracy data against FIT is needed. This article provides a systematic review and meta-analysis on blood-based CRC screening tests that have been directly compared to FIT, and summarises the evidence for broader program considerations, including analytical quality, consumer preferences, participation rates and cost effectiveness. The findings show that blood tests currently lack the sensitivity and cost-effectiveness to replace FIT in screening programs, and that their use should be limited to individuals unable or unwilling to complete FIT.",
-              "title_ko": "피가 새로운 의자입니까? CRC 선별 검사를 위한 혈액 검사 상태."
-            },
-            {
-              "pmid": "41724540",
-              "title": "Global impact of COVID-19 on organized CRC screening programs: lessons learned.",
-              "journal": "Best practice & research. Clinical gastroenterology",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2025-09-05",
-              "authors": [
-                "de Jonge L",
-                "Lansdorp-Vogelaar I",
-                "Doria-Rose VP"
-              ],
-              "citation_count": 0,
-              "rcr": null,
-              "volume": "80",
-              "issue": "",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/41724540/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": false,
-              "hot_score": 0.0,
-              "field": "preventive",
-              "field_label": "예방의학",
-              "abstract": "Using a standardized data template, this study retrospectively collected data about colorectal cancer (CRC) screening activity in 2020 and 2021 to estimate the impact of the COVID-19 pandemic compared to the pre-pandemic period (2018 or 2019). Data were collected from 17 programs in 14 countries of which 15 were population-based programs. Invitation coverage was decreased by up to 53.7 % in 2020. Participation among those invited was similar in both periods for all programs. The maximum backlog in invitations was less than 7.4 months in 2020 and 3.3 months for 2021. Nine out of 15 programs observed a decrease in the number of detected CRCs in 2020. Four programs showed a positive percentage change in CRCs detected in 2021 relative to the pre-pandemic period. Half of the countries observed a worse stage-distribution in 2020/2021. Overall, organized CRC screening programs operated at lower screening activity, but screening outcomes were similar compared to the pre-pandemic period.",
-              "title_ko": "코로나19가 조직화된 CRC 선별 검사 프로그램에 미치는 전 세계적인 영향: 교훈."
-            }
-          ]
         }
       ],
       "hot_topics": [
@@ -5105,34 +4963,35 @@
         {
           "phrase": "genetic testing",
           "score": 52.7,
+          "paper_count": 6,
+          "pmids": [
+            "40262446",
+            "39920027",
+            "41690212",
+            "40024009",
+            "40225932",
+            "42908544"
+          ]
+        },
+        {
+          "phrase": "preimplantation genetic",
+          "score": 41.7,
           "paper_count": 5,
           "pmids": [
             "40262446",
             "39920027",
             "41690212",
             "40024009",
-            "40225932"
+            "42908544"
           ]
         },
         {
           "phrase": "quality life",
-          "score": 50.7,
-          "paper_count": 3,
+          "score": 40.7,
+          "paper_count": 2,
           "pmids": [
             "39959334",
-            "42860772",
             "39874052"
-          ]
-        },
-        {
-          "phrase": "preimplantation genetic",
-          "score": 41.7,
-          "paper_count": 4,
-          "pmids": [
-            "40262446",
-            "39920027",
-            "41690212",
-            "40024009"
           ]
         },
         {
@@ -5151,6 +5010,15 @@
           "pmids": [
             "41696708",
             "40224806"
+          ]
+        },
+        {
+          "phrase": "knowledge attitude",
+          "score": 33.0,
+          "paper_count": 2,
+          "pmids": [
+            "39949339",
+            "42905874"
           ]
         },
         {
@@ -5189,15 +5057,6 @@
             "40929445",
             "40465920"
           ]
-        },
-        {
-          "phrase": "feasibility acceptability",
-          "score": 21.0,
-          "paper_count": 2,
-          "pmids": [
-            "40302974",
-            "42879626"
-          ]
         }
       ],
       "topic_trends": {
@@ -5212,36 +5071,18 @@
             "phrase": "type diabetes",
             "scores": [
               0.0,
-              71.4,
+              81.4,
               11.0,
-              31.0
-            ]
-          },
-          {
-            "phrase": "breast cancer",
-            "scores": [
-              16.9,
-              0.0,
-              16.9,
-              50.0
+              11.0
             ]
           },
           {
             "phrase": "diabetes mellitus",
             "scores": [
               0.0,
-              34.8,
+              44.8,
               11.0,
-              31.0
-            ]
-          },
-          {
-            "phrase": "hpv vaccination",
-            "scores": [
-              0.0,
-              0.0,
-              27.0,
-              36.9
+              11.0
             ]
           },
           {
@@ -5254,12 +5095,30 @@
             ]
           },
           {
+            "phrase": "breast cancer",
+            "scores": [
+              16.9,
+              0.0,
+              16.9,
+              20.0
+            ]
+          },
+          {
             "phrase": "genetic testing",
             "scores": [
               0.0,
               42.7,
               10.0,
               0.0
+            ]
+          },
+          {
+            "phrase": "covid- vaccination",
+            "scores": [
+              0.0,
+              11.0,
+              30.7,
+              10.0
             ]
           }
         ]
@@ -5268,7 +5127,7 @@
     {
       "key": "emergency",
       "label": "응급의학",
-      "paper_count": 462,
+      "paper_count": 461,
       "journals": [
         {
           "journal": "Resuscitation",
@@ -5496,7 +5355,7 @@
             "field": "emergency",
             "field_label": "응급의학",
             "abstract": "Worldwide, there has been a dramatic increase in the use of paediatric home mechanical ventilation (HMV). In this review, we examine this rapid evolution in clinical practice through the prism of two distinct groups of children: those with neurodisability/medical complexity and patients with neuromuscular disease. We illustrate the changes in service provision for these two groups that are driven by a recognition that early intervention with HMV can enhance quality of life for these children and may complement the beneficial effects of novel disease-modifying medications to improve survival. Alongside this, we highlight the importance of balancing patient expectations with clinical need and discuss the ethical challenges that may be encountered when delivering HMV to this increasing population of children.",
-            "title_ko": ""
+            "title_ko": "어린이의 가정 기계 환기: 새로운 치료 옵션의 시대에 진화하는 적응증."
           },
           "papers": [
             {
@@ -5524,7 +5383,7 @@
               "field": "emergency",
               "field_label": "응급의학",
               "abstract": "Worldwide, there has been a dramatic increase in the use of paediatric home mechanical ventilation (HMV). In this review, we examine this rapid evolution in clinical practice through the prism of two distinct groups of children: those with neurodisability/medical complexity and patients with neuromuscular disease. We illustrate the changes in service provision for these two groups that are driven by a recognition that early intervention with HMV can enhance quality of life for these children and may complement the beneficial effects of novel disease-modifying medications to improve survival. Alongside this, we highlight the importance of balancing patient expectations with clinical need and discuss the ethical challenges that may be encountered when delivering HMV to this increasing population of children.",
-              "title_ko": ""
+              "title_ko": "어린이의 가정 기계 환기: 새로운 치료 옵션의 시대에 진화하는 적응증."
             }
           ]
         },
@@ -5560,7 +5419,7 @@
             "field": "emergency",
             "field_label": "응급의학",
             "abstract": "OBJECTIVE: Sleep disturbance (SD) is common after pediatric mild traumatic brain injury (mTBI) and may predict increased postconcussive symptoms (PCS) and prolonged recovery. Our objective was to investigate the relation of SD with PCS in children with mTBI and those with orthopedic injury (OI). SETTING: Emergency departments (EDs) at 2 children's hospitals in the Midwestern United States. PARTICIPANTS: Children and adolescents aged 8 to 16 years old diagnosed with either a mTBI ( n = 143) or OI ( n = 74) and recruited within 24 hours postinjury. DESIGN: Observational, prospective, concurrent cohort study with longitudinal follow-up. MAIN MEASURES: Parents rated children's preinjury sleep retrospectively shortly after injury, and postinjury sleep at 3 and 6 months postinjury, using the Sleep Disorders Inventory for Students. Parents rated children's preinjury symptoms retrospectively in the emergency department, and parents and children rated PCS at 3 and 6 months, using the Health and Behavior Inventory and the Postconcussive Symptom Interview. Weekly ratings on the Health and Behavior Inventory were also obtained remotely. RESULTS: Postinjury SD was modestly but not significantly higher in the mTBI group compared to the OI group ( P = .060, d = 0.32). Children with mTBI who were symptomatic postacutely based on parent ratings had worse parent-rated sleep outcomes at 3 and 6 months postinjury compared to children who were not symptomatic. Greater preinjury SD also predicted more postinjury SD and more severe PCS regardless of injury type. CONCLUSIONS: The results suggest potential bidirectional associations between SD and PCS after mTBI. Studies of treatments for SD following pediatric mTBI are needed.",
-            "title_ko": ""
+            "title_ko": "소아 경증 외상성 뇌손상 및 정형외과적 손상의 수면 장애 및 뇌진탕 후 증상."
           },
           "papers": [
             {
@@ -5589,7 +5448,7 @@
               "field": "emergency",
               "field_label": "응급의학",
               "abstract": "OBJECTIVE: Sleep disturbance (SD) is common after pediatric mild traumatic brain injury (mTBI) and may predict increased postconcussive symptoms (PCS) and prolonged recovery. Our objective was to investigate the relation of SD with PCS in children with mTBI and those with orthopedic injury (OI). SETTING: Emergency departments (EDs) at 2 children's hospitals in the Midwestern United States. PARTICIPANTS: Children and adolescents aged 8 to 16 years old diagnosed with either a mTBI ( n = 143) or OI ( n = 74) and recruited within 24 hours postinjury. DESIGN: Observational, prospective, concurrent cohort study with longitudinal follow-up. MAIN MEASURES: Parents rated children's preinjury sleep retrospectively shortly after injury, and postinjury sleep at 3 and 6 months postinjury, using the Sleep Disorders Inventory for Students. Parents rated children's preinjury symptoms retrospectively in the emergency department, and parents and children rated PCS at 3 and 6 months, using the Health and Behavior Inventory and the Postconcussive Symptom Interview. Weekly ratings on the Health and Behavior Inventory were also obtained remotely. RESULTS: Postinjury SD was modestly but not significantly higher in the mTBI group compared to the OI group ( P = .060, d = 0.32). Children with mTBI who were symptomatic postacutely based on parent ratings had worse parent-rated sleep outcomes at 3 and 6 months postinjury compared to children who were not symptomatic. Greater preinjury SD also predicted more postinjury SD and more severe PCS regardless of injury type. CONCLUSIONS: The results suggest potential bidirectional associations between SD and PCS after mTBI. Studies of treatments for SD following pediatric mTBI are needed.",
-              "title_ko": ""
+              "title_ko": "소아 경증 외상성 뇌손상 및 정형외과적 손상의 수면 장애 및 뇌진탕 후 증상."
             }
           ]
         },
@@ -5625,7 +5484,7 @@
             "field": "emergency",
             "field_label": "응급의학",
             "abstract": "BACKGROUND: Patients with severe dengue who develop severe respiratory failure requiring mechanical ventilation (MV) support have significantly increased mortality rates. This study aimed to develop a robust machine learning-based risk score to predict the need for MV in children with dengue shock syndrome (DSS) who developed acute respiratory failure. METHODS: This single-institution retrospective study was conducted at a tertiary pediatric hospital in Vietnam between 2013 and 2022. The primary outcome was severe respiratory failure requiring MV in the children with DSS. Key covariables were predetermined by the LASSO method, literature review, and clinical expertise, including age (< 5 years), female patients, early onset day of DSS (≤ day 4), large cumulative fluid infusion, higher colloid-to-crystalloid fluid infusion ratio, severe bleeding, severe transaminitis, low platelet counts (< 20 x 109/L), elevated hematocrit, and high vasoactive-inotropic score. These covariables were analyzed using supervised models, including Logistic Regression (LR), Random Forest (RF), Support Vector Machine (SVM), k-Nearest Neighbor (KNN), and eXtreme Gradient Boosting (XGBoost). Shapley Additive Explanations (SHAP) analysis was used to assess feature contribution. RESULTS: A total of 1,278 patients were included, with a median patient age of 8.1 years (IQR: 5.4-10.7). Among them, 170 patients (13.3%) with DSS required mechanical ventilation. A significantly higher fatality rate was observed in the MV group than that in the non-MV group (22.4% vs. 0.1%). The RF and SVM models showed the highest model discrimination. The SHAP model explained the significant predictors. Internal validation of the predictive model showed high consistency between the predicted and observed data, with a good slope calibration in training (test) sets 1.0 (0.934), and a low Brier score of 0.04. Complete-case analysis was used to construct the risk score. CONCLUSIONS: We developed a robust machine learning-based risk score to estimate the need for MV in hospitalized children with DSS.",
-            "title_ko": ""
+            "title_ko": "뎅기 쇼크 증후군 아동의 기계 환기 예측을 위한 기계 학습 기반 위험 점수: 후향적 코호트 연구."
           },
           "papers": [
             {
@@ -5654,7 +5513,7 @@
               "field": "emergency",
               "field_label": "응급의학",
               "abstract": "BACKGROUND: Patients with severe dengue who develop severe respiratory failure requiring mechanical ventilation (MV) support have significantly increased mortality rates. This study aimed to develop a robust machine learning-based risk score to predict the need for MV in children with dengue shock syndrome (DSS) who developed acute respiratory failure. METHODS: This single-institution retrospective study was conducted at a tertiary pediatric hospital in Vietnam between 2013 and 2022. The primary outcome was severe respiratory failure requiring MV in the children with DSS. Key covariables were predetermined by the LASSO method, literature review, and clinical expertise, including age (< 5 years), female patients, early onset day of DSS (≤ day 4), large cumulative fluid infusion, higher colloid-to-crystalloid fluid infusion ratio, severe bleeding, severe transaminitis, low platelet counts (< 20 x 109/L), elevated hematocrit, and high vasoactive-inotropic score. These covariables were analyzed using supervised models, including Logistic Regression (LR), Random Forest (RF), Support Vector Machine (SVM), k-Nearest Neighbor (KNN), and eXtreme Gradient Boosting (XGBoost). Shapley Additive Explanations (SHAP) analysis was used to assess feature contribution. RESULTS: A total of 1,278 patients were included, with a median patient age of 8.1 years (IQR: 5.4-10.7). Among them, 170 patients (13.3%) with DSS required mechanical ventilation. A significantly higher fatality rate was observed in the MV group than that in the non-MV group (22.4% vs. 0.1%). The RF and SVM models showed the highest model discrimination. The SHAP model explained the significant predictors. Internal validation of the predictive model showed high consistency between the predicted and observed data, with a good slope calibration in training (test) sets 1.0 (0.934), and a low Brier score of 0.04. Complete-case analysis was used to construct the risk score. CONCLUSIONS: We developed a robust machine learning-based risk score to estimate the need for MV in hospitalized children with DSS.",
-              "title_ko": ""
+              "title_ko": "뎅기 쇼크 증후군 아동의 기계 환기 예측을 위한 기계 학습 기반 위험 점수: 후향적 코호트 연구."
             },
             {
               "pmid": "39671440",
@@ -6744,6 +6603,211 @@
           ]
         },
         {
+          "journal": "Revista gaucha de enfermagem",
+          "impact_factor": 1.5,
+          "index_type": "미상",
+          "quartile": "미상",
+          "paper_count": 6,
+          "top_paper": {
+            "pmid": "39699333",
+            "title": "Educational intervention in first aid for early childhood education professional: a quasi-experimental study.",
+            "journal": "Revista gaucha de enfermagem",
+            "impact_factor": 1.5,
+            "index_type": "미상",
+            "quartile": "미상",
+            "pubdate": "2024-12-16",
+            "authors": [
+              "Cruz KBD",
+              "Cesário ES",
+              "Gomes JL"
+            ],
+            "citation_count": 2,
+            "rcr": 0.6268378997600945,
+            "volume": "45",
+            "issue": "spe1",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/39699333/",
+            "altmetric_score": 0,
+            "altmetric_news": 0,
+            "altmetric_social": 0,
+            "is_current_issue": true,
+            "hot_score": 20.7,
+            "field": "emergency",
+            "field_label": "응급의학",
+            "abstract": "OBJECTIVE: To evaluate the effect of a first aid educational intervention on the aptitude, knowledge, and practices of professionals in early childhood education. METHOD: Quasi-experimental study of the pre and post-test type carried out in the brazilian municipality of Três Lagoas, MS. It was developed in three stages: 1) application of an online instrument to assess aptitude, knowledge, and practices about situations that require first aid; 2) educational intervention, with four theoretical meetings online and a face-to-face meeting with practical training; 3) reapplying the questionnaire. Data were analyzed using the McNemar and Bowker tests with a significance level of 5%. RESULTS: 112 professionals participated. After the educational intervention, there was an increase in the number of correct answers for all questions related to the professionals' feeling of aptitude for all urgent and emergency situations evaluated (p≤0.05); knowledge regarding concepts related to first aid (p≤0.05); and practices in situations requiring first aid (p≤0.05). CONCLUSION: The educational intervention provided a significant improvement in the aptitude, knowledge, and practices of the participants. In this way, the relevance of educational actions on this theme is verified, emphasizing the importance of intersectoriality, in which health and education professionals articulate strategies to optimize first aid training actions.",
+            "title_ko": ""
+          },
+          "papers": [
+            {
+              "pmid": "39699333",
+              "title": "Educational intervention in first aid for early childhood education professional: a quasi-experimental study.",
+              "journal": "Revista gaucha de enfermagem",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2024-12-16",
+              "authors": [
+                "Cruz KBD",
+                "Cesário ES",
+                "Gomes JL"
+              ],
+              "citation_count": 2,
+              "rcr": 0.6268378997600945,
+              "volume": "45",
+              "issue": "spe1",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/39699333/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": true,
+              "hot_score": 20.7,
+              "field": "emergency",
+              "field_label": "응급의학",
+              "abstract": "OBJECTIVE: To evaluate the effect of a first aid educational intervention on the aptitude, knowledge, and practices of professionals in early childhood education. METHOD: Quasi-experimental study of the pre and post-test type carried out in the brazilian municipality of Três Lagoas, MS. It was developed in three stages: 1) application of an online instrument to assess aptitude, knowledge, and practices about situations that require first aid; 2) educational intervention, with four theoretical meetings online and a face-to-face meeting with practical training; 3) reapplying the questionnaire. Data were analyzed using the McNemar and Bowker tests with a significance level of 5%. RESULTS: 112 professionals participated. After the educational intervention, there was an increase in the number of correct answers for all questions related to the professionals' feeling of aptitude for all urgent and emergency situations evaluated (p≤0.05); knowledge regarding concepts related to first aid (p≤0.05); and practices in situations requiring first aid (p≤0.05). CONCLUSION: The educational intervention provided a significant improvement in the aptitude, knowledge, and practices of the participants. In this way, the relevance of educational actions on this theme is verified, emphasizing the importance of intersectoriality, in which health and education professionals articulate strategies to optimize first aid training actions.",
+              "title_ko": ""
+            },
+            {
+              "pmid": "39699331",
+              "title": "Knowledge of the nursing team about cardiac arrest and cardiopulmonary resuscitation: mixed methods studies.",
+              "journal": "Revista gaucha de enfermagem",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2024-12-16",
+              "authors": [
+                "Turra L",
+                "Lazzari DD",
+                "Martini JG"
+              ],
+              "citation_count": 2,
+              "rcr": 0.9148567610825694,
+              "volume": "45",
+              "issue": "spe1",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/39699331/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": true,
+              "hot_score": 20.7,
+              "field": "emergency",
+              "field_label": "응급의학",
+              "abstract": "OBJECTIVE: To analyze the knowledge and perceptions of the nursing team about arrest and cardiopulmonary resuscitation in adults before and after in situ simulation in emergency care. METHOD: A sequential explanatory mixed methods study conducted in an Emergency Care Unit. Quantitative data were obtained through pre- and post-simulation questionnaire answered by 21 professionals and analyzed using descriptive and inferential statistics. The qualitative data was obtained through individual structured interviews with 19 professionals, analyzed according to thematic content analysis. The data was combined through connection. RESULTS: In situ simulation did not significantly change pre- and post-simulation knowledge. Hand positioning for cardiac compressions and handling the automatic external defibrillator had the lowest number of correct answers. The qualitative data indicated difficulties related to knowledge, such as lack of training and insufficient experience with cardiopulmonary resuscitation. CONCLUSION: No statistically significant differences were identified in the proportions of answers obtained through the pre- and post-simulation in situ questionnaire regarding correct answers and wrong answers. Furthermore, the qualitative data reinforced the professionals' lack of experience in critical situations, the lack of training and ongoing studies on the subject.",
+              "title_ko": ""
+            },
+            {
+              "pmid": "39699429",
+              "title": "Incidence of pressure injuries in critically ill patients with and without covid-19: study of Cohort.",
+              "journal": "Revista gaucha de enfermagem",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2024-12-13",
+              "authors": [
+                "Buffon MR",
+                "Severo IM",
+                "Azzolin KO"
+              ],
+              "citation_count": 1,
+              "rcr": 0.20943051910155883,
+              "volume": "45",
+              "issue": "",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/39699429/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 6.8,
+              "field": "emergency",
+              "field_label": "응급의학",
+              "abstract": "OBJECTIVE: To compare the incidence, characteristics, and risk factors of pressure injuries among critically ill patients with and without Covid-19 in an intensive care unit. METHOD: Retrospective cohort study in an intensive care unit by collecting data from electronic medical records of patients admitted in 2021. Sample of 302 patients, 151 with Covid-19 and 151 without Covid-19. Poisson's regression with robust variance and p < 0.05 as a significant value was used to analyze the data. RESULTS: The incidence of pressure injuries in patients with Covid-19 was 60.3% and in those without Covid-19 were 35.8%. Stage 2 and the sacral region were predominant in both groups and patients with Covid-19 developed lesions earlier compared to those without Covid-19. An increase in pressure injuries was observed in patients with chronic diseases, on mechanical ventilation and in the prone position The clinical variables associated were \"obesity,\" \"Braden ≤ 12,\" and \"sedation time.\" CONCLUSION: The incidence of pressure injuries was higher in patients with Covid-19.The variables \"obesity,\" \"Braden ≤ 12,\" and \"sedation time\" were associated with pressure injuries, regardless of whether the patient had Covid-19 or not, corroborating risk factors for pressure injuries.",
+              "title_ko": ""
+            },
+            {
+              "pmid": "39607242",
+              "title": "Analysis of structural empowerment of nurses in the context of an emergency hospital.",
+              "journal": "Revista gaucha de enfermagem",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2024-11-22",
+              "authors": [
+                "Moura AA",
+                "Souza AACF",
+                "Silva PKAD"
+              ],
+              "citation_count": 1,
+              "rcr": 0.8966893927773835,
+              "volume": "45",
+              "issue": "",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/39607242/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 6.8,
+              "field": "emergency",
+              "field_label": "응급의학",
+              "abstract": "OBJECTIVE: To analyze the relationship between structural empowerment and sociodemographic and professional factors of nurses at a reference hospital providing emergency care. METHOD: Analytical, cross-sectional study, with 124 nurses from an emergency hospital, applying the questionnaires: sociodemographic and professional data and the Conditions of Effectiveness at Work II (CET-II) questionnaire. The Spearman or Kruskal Wallis statistical tests were used and the significance level was updated to 5% for the study's statistical analyses. RESULTS: Structural empowerment was moderate among nurses and \"opportunity\" presented greater mean among the dimensions. Although the correlations were weak, support was the dimension that showed the greatest results with the other variables. It is more noticeable when: shorter training time; greater age and; longer time at the institution. There was no difference between the dimensions of the instrument and the qualitative variables of the study, except between Opportunity and the surgical hospitalization unit and the total score of the instrument and the burns unit, compared with the other units of the hospital. CONCLUSION: The structural empowerment of nurses in the hospital was moderate and influenced by variables such as: age, time since graduation, time at the institution and with differences between sectors.",
+              "title_ko": ""
+            },
+            {
+              "pmid": "42912023",
+              "title": "Video-mediated teaching for the development of competences in cardiopulmonary resuscitation by nursing undergraduates: a systematic review.",
+              "journal": "Revista gaucha de enfermagem",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2026-10-16",
+              "authors": [
+                "Oliveira JLG",
+                "Silva MD",
+                "Batista DFG"
+              ],
+              "citation_count": 0,
+              "rcr": null,
+              "volume": "47",
+              "issue": "",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/42912023/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 0.0,
+              "field": "emergency",
+              "field_label": "응급의학",
+              "abstract": "OBJECTIVE: To identify the effectiveness of videos as tools for developing clinical competence in cardiopulmonary resuscitation, comparing them with different teaching and learning strategies used in undergraduate nursing education. METHOD: Systematic review conducted in the PubMed®/Medline®, LILACS, Scopus, CINAHL, and Web of Science databases. Study selection and duplicate removal were performed using Rayyan®, with methodological quality assessment conducted using the JBI and the Medical Education Research Study Quality Instrument. Extracted data were analyzed using descriptive and comparative synthesis across the included studies. RESULTS: A total of 378 studies were identified, of which five composed the final sample. Most studies had good methodological quality. Videos were mainly compared with traditional teaching and clinical simulations. Effectiveness was measured using tests of knowledge, practical assessments using mannequins, and structured checklists. The results indicated comparable performance between methods, with statistically significant differences occasionally found in specific skills and participants' satisfaction levels. CONCLUSION: Video-mediated teaching proved effective for the development of clinical competence in cardiopulmonary resuscitation, particularly in specific skills, with greater potential when integrated with other strategies. More methodologically robust research is needed, especially regarding attitudinal competencies.",
+              "title_ko": ""
+            },
+            {
+              "pmid": "39607233",
+              "title": "Profile of the attention provided to suicide attempts by adolescents in emergency rooms and associated factors.",
+              "journal": "Revista gaucha de enfermagem",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2024-11-25",
+              "authors": [
+                "Souza DM",
+                "Treichel CADS",
+                "Ribeiro LGM"
+              ],
+              "citation_count": 0,
+              "rcr": 0.0,
+              "volume": "45",
+              "issue": "",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/39607233/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 0.0,
+              "field": "emergency",
+              "field_label": "응급의학",
+              "abstract": "OBJECTIVE: to identify the profile of emergency department visits for suicide attempts by adolescents and their associated factors. METHOD: a cross-sectional, documentary, and retrospective study was conducted with 140 medical records of adolescents treated for suicide attempts in an emergency department linked to a teaching hospital in the municipality of São Paulo, Brazil, between January 2015 and May 2023. Data was collected between August and November 2023. Descriptive and inferential analysis (Pearson's chi-square test) was performed, considering a p-value≤0.05 as statistically significant. National ethical guidelines were respected. RESULTS: drug intoxications were the most common, associated with females (p<0.001) and continuous use of psychotropic medications (p=0.01). Poisonings were associated with the absence of continuous psychotropic medication use (p=0.02) and treatment in the emergency room (p=0.01). Males were associated with intoxications from alcohol and drugs (p<0.001), wounds from sharp objects (p<0.05), and precipitation (p=0.03). CONCLUSION: this study found a prevalence of emergency department visits for suicide attempts through intoxications associated with sex, medication use, and treatment in the emergency room. We hope that his profile can help professionals structure action plans to improve clinical care, mental health care, prevention, and post-attempt strategies.",
+              "title_ko": ""
+            }
+          ]
+        },
+        {
           "journal": "Air medical journal",
           "impact_factor": 1.5,
           "index_type": "미상",
@@ -7049,183 +7113,6 @@
           ]
         },
         {
-          "journal": "Revista gaucha de enfermagem",
-          "impact_factor": 1.5,
-          "index_type": "미상",
-          "quartile": "미상",
-          "paper_count": 5,
-          "top_paper": {
-            "pmid": "39699333",
-            "title": "Educational intervention in first aid for early childhood education professional: a quasi-experimental study.",
-            "journal": "Revista gaucha de enfermagem",
-            "impact_factor": 1.5,
-            "index_type": "미상",
-            "quartile": "미상",
-            "pubdate": "2024-12-16",
-            "authors": [
-              "Cruz KBD",
-              "Cesário ES",
-              "Gomes JL"
-            ],
-            "citation_count": 2,
-            "rcr": 0.6268378997600945,
-            "volume": "45",
-            "issue": "spe1",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/39699333/",
-            "altmetric_score": 0,
-            "altmetric_news": 0,
-            "altmetric_social": 0,
-            "is_current_issue": true,
-            "hot_score": 20.7,
-            "field": "emergency",
-            "field_label": "응급의학",
-            "abstract": "OBJECTIVE: To evaluate the effect of a first aid educational intervention on the aptitude, knowledge, and practices of professionals in early childhood education. METHOD: Quasi-experimental study of the pre and post-test type carried out in the brazilian municipality of Três Lagoas, MS. It was developed in three stages: 1) application of an online instrument to assess aptitude, knowledge, and practices about situations that require first aid; 2) educational intervention, with four theoretical meetings online and a face-to-face meeting with practical training; 3) reapplying the questionnaire. Data were analyzed using the McNemar and Bowker tests with a significance level of 5%. RESULTS: 112 professionals participated. After the educational intervention, there was an increase in the number of correct answers for all questions related to the professionals' feeling of aptitude for all urgent and emergency situations evaluated (p≤0.05); knowledge regarding concepts related to first aid (p≤0.05); and practices in situations requiring first aid (p≤0.05). CONCLUSION: The educational intervention provided a significant improvement in the aptitude, knowledge, and practices of the participants. In this way, the relevance of educational actions on this theme is verified, emphasizing the importance of intersectoriality, in which health and education professionals articulate strategies to optimize first aid training actions.",
-            "title_ko": ""
-          },
-          "papers": [
-            {
-              "pmid": "39699333",
-              "title": "Educational intervention in first aid for early childhood education professional: a quasi-experimental study.",
-              "journal": "Revista gaucha de enfermagem",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2024-12-16",
-              "authors": [
-                "Cruz KBD",
-                "Cesário ES",
-                "Gomes JL"
-              ],
-              "citation_count": 2,
-              "rcr": 0.6268378997600945,
-              "volume": "45",
-              "issue": "spe1",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/39699333/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": true,
-              "hot_score": 20.7,
-              "field": "emergency",
-              "field_label": "응급의학",
-              "abstract": "OBJECTIVE: To evaluate the effect of a first aid educational intervention on the aptitude, knowledge, and practices of professionals in early childhood education. METHOD: Quasi-experimental study of the pre and post-test type carried out in the brazilian municipality of Três Lagoas, MS. It was developed in three stages: 1) application of an online instrument to assess aptitude, knowledge, and practices about situations that require first aid; 2) educational intervention, with four theoretical meetings online and a face-to-face meeting with practical training; 3) reapplying the questionnaire. Data were analyzed using the McNemar and Bowker tests with a significance level of 5%. RESULTS: 112 professionals participated. After the educational intervention, there was an increase in the number of correct answers for all questions related to the professionals' feeling of aptitude for all urgent and emergency situations evaluated (p≤0.05); knowledge regarding concepts related to first aid (p≤0.05); and practices in situations requiring first aid (p≤0.05). CONCLUSION: The educational intervention provided a significant improvement in the aptitude, knowledge, and practices of the participants. In this way, the relevance of educational actions on this theme is verified, emphasizing the importance of intersectoriality, in which health and education professionals articulate strategies to optimize first aid training actions.",
-              "title_ko": ""
-            },
-            {
-              "pmid": "39699331",
-              "title": "Knowledge of the nursing team about cardiac arrest and cardiopulmonary resuscitation: mixed methods studies.",
-              "journal": "Revista gaucha de enfermagem",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2024-12-16",
-              "authors": [
-                "Turra L",
-                "Lazzari DD",
-                "Martini JG"
-              ],
-              "citation_count": 2,
-              "rcr": 0.9148567610825694,
-              "volume": "45",
-              "issue": "spe1",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/39699331/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": true,
-              "hot_score": 20.7,
-              "field": "emergency",
-              "field_label": "응급의학",
-              "abstract": "OBJECTIVE: To analyze the knowledge and perceptions of the nursing team about arrest and cardiopulmonary resuscitation in adults before and after in situ simulation in emergency care. METHOD: A sequential explanatory mixed methods study conducted in an Emergency Care Unit. Quantitative data were obtained through pre- and post-simulation questionnaire answered by 21 professionals and analyzed using descriptive and inferential statistics. The qualitative data was obtained through individual structured interviews with 19 professionals, analyzed according to thematic content analysis. The data was combined through connection. RESULTS: In situ simulation did not significantly change pre- and post-simulation knowledge. Hand positioning for cardiac compressions and handling the automatic external defibrillator had the lowest number of correct answers. The qualitative data indicated difficulties related to knowledge, such as lack of training and insufficient experience with cardiopulmonary resuscitation. CONCLUSION: No statistically significant differences were identified in the proportions of answers obtained through the pre- and post-simulation in situ questionnaire regarding correct answers and wrong answers. Furthermore, the qualitative data reinforced the professionals' lack of experience in critical situations, the lack of training and ongoing studies on the subject.",
-              "title_ko": ""
-            },
-            {
-              "pmid": "39699429",
-              "title": "Incidence of pressure injuries in critically ill patients with and without covid-19: study of Cohort.",
-              "journal": "Revista gaucha de enfermagem",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2024-12-13",
-              "authors": [
-                "Buffon MR",
-                "Severo IM",
-                "Azzolin KO"
-              ],
-              "citation_count": 1,
-              "rcr": 0.20943051910155883,
-              "volume": "45",
-              "issue": "",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/39699429/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": false,
-              "hot_score": 6.8,
-              "field": "emergency",
-              "field_label": "응급의학",
-              "abstract": "OBJECTIVE: To compare the incidence, characteristics, and risk factors of pressure injuries among critically ill patients with and without Covid-19 in an intensive care unit. METHOD: Retrospective cohort study in an intensive care unit by collecting data from electronic medical records of patients admitted in 2021. Sample of 302 patients, 151 with Covid-19 and 151 without Covid-19. Poisson's regression with robust variance and p < 0.05 as a significant value was used to analyze the data. RESULTS: The incidence of pressure injuries in patients with Covid-19 was 60.3% and in those without Covid-19 were 35.8%. Stage 2 and the sacral region were predominant in both groups and patients with Covid-19 developed lesions earlier compared to those without Covid-19. An increase in pressure injuries was observed in patients with chronic diseases, on mechanical ventilation and in the prone position The clinical variables associated were \"obesity,\" \"Braden ≤ 12,\" and \"sedation time.\" CONCLUSION: The incidence of pressure injuries was higher in patients with Covid-19.The variables \"obesity,\" \"Braden ≤ 12,\" and \"sedation time\" were associated with pressure injuries, regardless of whether the patient had Covid-19 or not, corroborating risk factors for pressure injuries.",
-              "title_ko": ""
-            },
-            {
-              "pmid": "39607242",
-              "title": "Analysis of structural empowerment of nurses in the context of an emergency hospital.",
-              "journal": "Revista gaucha de enfermagem",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2024-11-22",
-              "authors": [
-                "Moura AA",
-                "Souza AACF",
-                "Silva PKAD"
-              ],
-              "citation_count": 1,
-              "rcr": 0.8966893927773835,
-              "volume": "45",
-              "issue": "",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/39607242/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": false,
-              "hot_score": 6.8,
-              "field": "emergency",
-              "field_label": "응급의학",
-              "abstract": "OBJECTIVE: To analyze the relationship between structural empowerment and sociodemographic and professional factors of nurses at a reference hospital providing emergency care. METHOD: Analytical, cross-sectional study, with 124 nurses from an emergency hospital, applying the questionnaires: sociodemographic and professional data and the Conditions of Effectiveness at Work II (CET-II) questionnaire. The Spearman or Kruskal Wallis statistical tests were used and the significance level was updated to 5% for the study's statistical analyses. RESULTS: Structural empowerment was moderate among nurses and \"opportunity\" presented greater mean among the dimensions. Although the correlations were weak, support was the dimension that showed the greatest results with the other variables. It is more noticeable when: shorter training time; greater age and; longer time at the institution. There was no difference between the dimensions of the instrument and the qualitative variables of the study, except between Opportunity and the surgical hospitalization unit and the total score of the instrument and the burns unit, compared with the other units of the hospital. CONCLUSION: The structural empowerment of nurses in the hospital was moderate and influenced by variables such as: age, time since graduation, time at the institution and with differences between sectors.",
-              "title_ko": ""
-            },
-            {
-              "pmid": "39607233",
-              "title": "Profile of the attention provided to suicide attempts by adolescents in emergency rooms and associated factors.",
-              "journal": "Revista gaucha de enfermagem",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2024-11-25",
-              "authors": [
-                "Souza DM",
-                "Treichel CADS",
-                "Ribeiro LGM"
-              ],
-              "citation_count": 0,
-              "rcr": 0.0,
-              "volume": "45",
-              "issue": "",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/39607233/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": false,
-              "hot_score": 0.0,
-              "field": "emergency",
-              "field_label": "응급의학",
-              "abstract": "OBJECTIVE: to identify the profile of emergency department visits for suicide attempts by adolescents and their associated factors. METHOD: a cross-sectional, documentary, and retrospective study was conducted with 140 medical records of adolescents treated for suicide attempts in an emergency department linked to a teaching hospital in the municipality of São Paulo, Brazil, between January 2015 and May 2023. Data was collected between August and November 2023. Descriptive and inferential analysis (Pearson's chi-square test) was performed, considering a p-value≤0.05 as statistically significant. National ethical guidelines were respected. RESULTS: drug intoxications were the most common, associated with females (p<0.001) and continuous use of psychotropic medications (p=0.01). Poisonings were associated with the absence of continuous psychotropic medication use (p=0.02) and treatment in the emergency room (p=0.01). Males were associated with intoxications from alcohol and drugs (p<0.001), wounds from sharp objects (p<0.05), and precipitation (p=0.03). CONCLUSION: this study found a prevalence of emergency department visits for suicide attempts through intoxications associated with sex, medication use, and treatment in the emergency room. We hope that his profile can help professionals structure action plans to improve clinical care, mental health care, prevention, and post-attempt strategies.",
-              "title_ko": ""
-            }
-          ]
-        },
-        {
           "journal": "Jornal brasileiro de pneumologia : publicacao oficial da Sociedade Brasileira de Pneumologia e Tisilogia",
           "impact_factor": 1.5,
           "index_type": "미상",
@@ -7467,11 +7354,104 @@
           ]
         },
         {
+          "journal": "Critical care (London, England)",
+          "impact_factor": 1.5,
+          "index_type": "미상",
+          "quartile": "미상",
+          "paper_count": 2,
+          "top_paper": {
+            "pmid": "41345654",
+            "title": "Unlocking survival in traumatic cardiac arrest: global insights, innovations, and unmet needs.",
+            "journal": "Critical care (London, England)",
+            "impact_factor": 1.5,
+            "index_type": "미상",
+            "quartile": "미상",
+            "pubdate": "2025-10-24",
+            "authors": [
+              "Jiang S",
+              "Wei J",
+              "Rao T"
+            ],
+            "citation_count": 6,
+            "rcr": 2.3312323267331734,
+            "volume": "29",
+            "issue": "1",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/41345654/",
+            "altmetric_score": 0,
+            "altmetric_news": 0,
+            "altmetric_social": 0,
+            "is_current_issue": false,
+            "hot_score": 18.9,
+            "field": "emergency",
+            "field_label": "응급의학",
+            "abstract": "Traumatic cardiac arrest (TCA) remains one of the most formidable challenges in acute care, with global survival rates persistently below 7.5% despite significant advances in trauma systems and resuscitative strategies. Through a comprehensive scoping review of literature from 2016 to 2025, this study delineates the shifting epidemiology, modern management, and key determinants of outcomes in TCA. Our synthesis reveals that TCA predominantly affects young males and results primarily from blunt mechanisms, with severe hemorrhage and traumatic brain injury as leading critical lesions. While pioneering interventions such as resuscitative endovascular balloon occlusion of the aorta and emergency resuscitative thoracotomy have been widely adopted, robust evidence for their survival benefit remains limited and context dependent. Early identification and correction of reversible causes, targeted hemorrhage control, and timely application of advanced life support measures-especially prehospital thoracostomy and vascular access-significantly increase the likelihood of return of spontaneous circulation and favorable neurological outcomes. Conversely, routine use of epinephrine shows at best inconsistent benefits and may be detrimental in blunt trauma. Survival is further influenced by initial rhythm, presence of signs of life, rapid patient triage to trauma centers, and tailored protocols for pediatric and older populations. Notwithstanding notable progress, major knowledge gaps persist in defining optimal intervention timing, reporting standards, and long-term neurologic recovery. The findings underscore the critical need for multicenter, prospective research, harmonized trauma registries, and global consensus to inform future guidelines and optimize outcomes for TCA patients.",
+            "title_ko": ""
+          },
+          "papers": [
+            {
+              "pmid": "41345654",
+              "title": "Unlocking survival in traumatic cardiac arrest: global insights, innovations, and unmet needs.",
+              "journal": "Critical care (London, England)",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2025-10-24",
+              "authors": [
+                "Jiang S",
+                "Wei J",
+                "Rao T"
+              ],
+              "citation_count": 6,
+              "rcr": 2.3312323267331734,
+              "volume": "29",
+              "issue": "1",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/41345654/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 18.9,
+              "field": "emergency",
+              "field_label": "응급의학",
+              "abstract": "Traumatic cardiac arrest (TCA) remains one of the most formidable challenges in acute care, with global survival rates persistently below 7.5% despite significant advances in trauma systems and resuscitative strategies. Through a comprehensive scoping review of literature from 2016 to 2025, this study delineates the shifting epidemiology, modern management, and key determinants of outcomes in TCA. Our synthesis reveals that TCA predominantly affects young males and results primarily from blunt mechanisms, with severe hemorrhage and traumatic brain injury as leading critical lesions. While pioneering interventions such as resuscitative endovascular balloon occlusion of the aorta and emergency resuscitative thoracotomy have been widely adopted, robust evidence for their survival benefit remains limited and context dependent. Early identification and correction of reversible causes, targeted hemorrhage control, and timely application of advanced life support measures-especially prehospital thoracostomy and vascular access-significantly increase the likelihood of return of spontaneous circulation and favorable neurological outcomes. Conversely, routine use of epinephrine shows at best inconsistent benefits and may be detrimental in blunt trauma. Survival is further influenced by initial rhythm, presence of signs of life, rapid patient triage to trauma centers, and tailored protocols for pediatric and older populations. Notwithstanding notable progress, major knowledge gaps persist in defining optimal intervention timing, reporting standards, and long-term neurologic recovery. The findings underscore the critical need for multicenter, prospective research, harmonized trauma registries, and global consensus to inform future guidelines and optimize outcomes for TCA patients.",
+              "title_ko": ""
+            },
+            {
+              "pmid": "42902295",
+              "title": "Toward targeted assessment of inspiratory muscle weakness before extubation: a pooled individual patient data analysis from multiple observational cohorts in critically ill ventilated patients.",
+              "journal": "Critical care (London, England)",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2026-09-15",
+              "authors": [
+                "Medrinal C",
+                "Machefert M",
+                "Dubois C"
+              ],
+              "citation_count": 0,
+              "rcr": null,
+              "volume": "30",
+              "issue": "1",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/42902295/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": true,
+              "hot_score": 10.0,
+              "field": "emergency",
+              "field_label": "응급의학",
+              "abstract": "BACKGROUND: Bedside neuromuscular tests are commonly proposed to assess readiness for extubation in critically ill patients. However, when used in unselected populations, their ability to predict clinically relevant outcomes such as extubation failure has been inconsistent. A more targeted use of these tests, restricted to patients in whom neuromuscular weakness is more likely to contribute to weaning failure, may improve their clinical relevance. METHODS: We conducted a pooled individual patient data analysis of multiple observational cohorts including adult ICU patients receiving invasive mechanical ventilation. The primary outcome was extubation failure, defined as reintubation or death within 48 h after extubation. Available neuromuscular assessments included maximal inspiratory pressure (MIP), maximal expiratory pressure (MEP), peak cough flow (PCF), and Medical Research Council (MRC) sum score. Prespecified thresholds were MIP ≤ 30 cmH₂O, MEP ≤ 50 cmH₂O, PCF ≤ 60 L/min, and MRC < 48/60. Associations with extubation failure were assessed in the overall population and according to prior mechanical ventilation duration. RESULTS: Among 494 included patients, 458 had an available extubation outcome and 72 (16%) experienced extubation failure. MIP was available in 230 patients, MEP in 124, PCF in 156, and MRC score in 252. In the overall population, MIP ≤ 30 cmH₂O showed only a borderline association with extubation failure (24% vs. 14%; OR 1.94, 95% CI 0.98 to 3.84; p = 0.06). In patients ventilated for more than 5 days, extubation failure occurred in 33% with MIP ≤ 30 cmH₂O versus 14% with MIP > 30 cmH₂O. After adjustment, MIP ≤ 30 cmH₂O remained associated with extubation failure (adjusted OR 3.52, 95% CI 1.37 to 9.03; p = 0.009). No significant adjusted association was observed for MEP, PCF, or MRC. CONCLUSIONS: Neuromuscular tests may have limited prognostic value when applied broadly before extubation. Low MIP appears more informative after prolonged mechanical ventilation, supporting a targeted rather than systematic use of respiratory neuromuscular assessment before extubation.",
+              "title_ko": ""
+            }
+          ]
+        },
+        {
           "journal": "Frontiers in public health",
           "impact_factor": 1.5,
           "index_type": "미상",
           "quartile": "미상",
-          "paper_count": 42,
+          "paper_count": 41,
           "top_paper": {
             "pmid": "39872099",
             "title": "Addressing the overuse of hospital emergency departments in the Portuguese NHS: a new paradigm.",
@@ -8026,99 +8006,6 @@
               "field": "emergency",
               "field_label": "응급의학",
               "abstract": "BACKGROUND: The association between air pollution and an increased risk of cardiovascular diseases, including stroke, is well-established. However, it remains unclear how reductions in pollutant levels-resulting from clean air policies and the COVID-19 lockdown-affect this relationship. METHODS: A time-series study was conducted using data from Shanghai, China, spanning from 2013 to 2022, divided into two periods (2013-2019 and 2020-2022). Daily air pollution data were obtained from China's air quality platform, while stroke emergency department (ED) visits were sourced from Renhe Hospital. We employed quasi-Poisson regression to analyze the relationship between daily pollutant levels and stroke ED visits, with stratified analyses by sex, age, season, and period. The study identified significant reductions in six pollutants (PM2.5, PM10-2.5, PM10, SO2, NO2, CO) during the 2020-2022 period compared to 2013-2019. RESULTS: Significant reductions in six air pollutants (NO2, PM2.5, PM10-2.5, PM10, SO2, CO) were observed during 2020-2022 compared to 2013-2019. Higher daily NO2 levels were associated with an increased risk of stroke and its subtypes throughout the study, with a stronger correlation observed in the 2020-2022 period (P < 0.001). Subgroup analyses indicated that females and individuals aged 65-74 experienced the highest risks. The elevated stroke risk was particularly pronounced in the summer during 2020-2022. A two-factor model demonstrated that combined exposure to NO2 and other pollutants increased stroke risk. CONCLUSIONS: This study heightened that reduced NO2 levels generally mitigate the adverse effects of short-term exposure to air pollutants on stroke risk, although the benefits vary among subgroups. The persistent stroke risk despite lower pollutant levels underscores the complex factors influencing stroke risk, highlighting the need for comprehensive intervention strategies.",
-              "title_ko": ""
-            }
-          ]
-        },
-        {
-          "journal": "Canadian journal of gastroenterology & hepatology",
-          "impact_factor": 1.5,
-          "index_type": "미상",
-          "quartile": "미상",
-          "paper_count": 2,
-          "top_paper": {
-            "pmid": "42675878",
-            "title": "Predictors of Mortality After Liver Transplantation for Acute Liver Failure: A Multicenter Cohort Study.",
-            "journal": "Canadian journal of gastroenterology & hepatology",
-            "impact_factor": 1.5,
-            "index_type": "미상",
-            "quartile": "미상",
-            "pubdate": "2026-01-01",
-            "authors": [
-              "Domingos MF",
-              "Coelho JCU",
-              "Ramos EJB"
-            ],
-            "citation_count": 1,
-            "rcr": null,
-            "volume": "2026",
-            "issue": "1",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/42675878/",
-            "altmetric_score": 0,
-            "altmetric_news": 0,
-            "altmetric_social": 0,
-            "is_current_issue": true,
-            "hot_score": 16.8,
-            "field": "emergency",
-            "field_label": "응급의학",
-            "abstract": "INTRODUCTION: Acute liver failure (ALF) is a rare and life-threatening condition characterized by rapid deterioration of liver function and often requires urgent liver transplantation (LT). This study aimed to evaluate donor and recipient factors associated with 30-day mortality after LT for ALF. METHODS: Medical records of patients who underwent LT for ALF at seven Brazilian transplant centers were reviewed. Patient data were obtained from electronic medical records. The primary outcome was 30-day mortality after LT. RESULTS: Ninety patients who underwent LT for ALF were included. Thirty-day mortality occurred in 46 of 90 patients (51%). In multivariable analysis, higher pretransplant serum creatinine levels (OR 3.49, 95% CI 1.69-8.72; p = 0.003) and the need for mechanical ventilation prior to transplantation (OR 5.46, 95% CI 1.21-28.9; p = 0.033) were independently associated with early mortality. Donor age ≥ 50 years and pretransplant vasoactive drug use were associated with mortality in univariate analysis. CONCLUSION: Higher pretransplant serum creatinine levels and the need for mechanical ventilation were independently associated with 30-day mortality, whereas donor age ≥ 50 years and pretransplant vasoactive drug use were associated with mortality only in the univariate analysis. These findings support improved pretransplant risk stratification and perioperative management in patients undergoing LT for ALF.",
-            "title_ko": ""
-          },
-          "papers": [
-            {
-              "pmid": "42675878",
-              "title": "Predictors of Mortality After Liver Transplantation for Acute Liver Failure: A Multicenter Cohort Study.",
-              "journal": "Canadian journal of gastroenterology & hepatology",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2026-01-01",
-              "authors": [
-                "Domingos MF",
-                "Coelho JCU",
-                "Ramos EJB"
-              ],
-              "citation_count": 1,
-              "rcr": null,
-              "volume": "2026",
-              "issue": "1",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/42675878/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": true,
-              "hot_score": 16.8,
-              "field": "emergency",
-              "field_label": "응급의학",
-              "abstract": "INTRODUCTION: Acute liver failure (ALF) is a rare and life-threatening condition characterized by rapid deterioration of liver function and often requires urgent liver transplantation (LT). This study aimed to evaluate donor and recipient factors associated with 30-day mortality after LT for ALF. METHODS: Medical records of patients who underwent LT for ALF at seven Brazilian transplant centers were reviewed. Patient data were obtained from electronic medical records. The primary outcome was 30-day mortality after LT. RESULTS: Ninety patients who underwent LT for ALF were included. Thirty-day mortality occurred in 46 of 90 patients (51%). In multivariable analysis, higher pretransplant serum creatinine levels (OR 3.49, 95% CI 1.69-8.72; p = 0.003) and the need for mechanical ventilation prior to transplantation (OR 5.46, 95% CI 1.21-28.9; p = 0.033) were independently associated with early mortality. Donor age ≥ 50 years and pretransplant vasoactive drug use were associated with mortality in univariate analysis. CONCLUSION: Higher pretransplant serum creatinine levels and the need for mechanical ventilation were independently associated with 30-day mortality, whereas donor age ≥ 50 years and pretransplant vasoactive drug use were associated with mortality only in the univariate analysis. These findings support improved pretransplant risk stratification and perioperative management in patients undergoing LT for ALF.",
-              "title_ko": ""
-            },
-            {
-              "pmid": "41328288",
-              "title": "Impact of Urgent Versus Early Endoscopy on Outcomes in Acute Upper Gastrointestinal Bleeding: A Retrospective Study.",
-              "journal": "Canadian journal of gastroenterology & hepatology",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2025-11-30",
-              "authors": [
-                "Stasik K",
-                "Ferenc K",
-                "Partyka K"
-              ],
-              "citation_count": 2,
-              "rcr": null,
-              "volume": "2025",
-              "issue": "",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/41328288/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": false,
-              "hot_score": 10.7,
-              "field": "emergency",
-              "field_label": "응급의학",
-              "abstract": "BACKGROUND AND AIMS: Acute upper gastrointestinal (UGI) bleeding from variceal and nonvariceal sources is a leading cause of morbidity and mortality. Although current international guidelines recommend performing endoscopy within 24 h of presentation, the added value of very early (\"urgent,\" < 6 h) versus \"early\" (6-24 h) endoscopy remains unclear. Therefore, this study aimed to analyze the impact of urgent versus early endoscopy on clinical outcomes. METHODS: In this retrospective cohort study, we reviewed the medical records of 599 patients admitted to the emergency or gastroenterology department who underwent UGI endoscopy. Patients were stratified by timing, urgent endoscopy within 6 h of specialist consultation and early endoscopy between 6-24 h postconsultation. The protocol was approved by the University of Rzeszów Ethics Committee and conducted in accordance with the Declaration of Helsinki. RESULTS: Compared to the early group, patients undergoing urgent endoscopy were younger (p = 0.013), predominantly male, and had higher baseline heart rates (p = 0.0371). Apart from more frequent hypertension in the early group (p = 0.0007), comorbiditiy profiles were otherwise similar. The urgent endoscopy group had longer hospital stays (6.88 vs. 5.95, p = 0.774), more frequent rebleeding within 7 days (p = 0.0213), and slightly higher 30-day all-cause mortality rates. Factors associated with poor prognosis included increases in Rockall's and GB's scores (42% and 19% higher risk per point, respectively) and the presence of active bleeding (105% higher odds). CONCLUSIONS: In unadjusted analyses, urgent endoscopy (< 6 h) was associated with worse outcomes, likely reflecting the selection of more severely ill patients. After propensity-score matching for baseline risk factors, however, the timing of endoscopy (< 6 h vs. 6-24 h) was no longer an independent predictor of outcomes. These findings suggest that clinicians' decisions and outcome differences are driven by overall severity of presentation and comorbid burden, rather than the effect of ultra-early endoscopy itself.",
               "title_ko": ""
             }
           ]
@@ -10043,11 +9930,12 @@
         {
           "phrase": "cardiopulmonary resuscitation",
           "score": 75.9,
-          "paper_count": 6,
+          "paper_count": 7,
           "pmids": [
             "41343612",
             "39689069",
             "39699331",
+            "42912023",
             "41487620",
             "40224792",
             "39583157"
@@ -10071,6 +9959,16 @@
             "39808542",
             "39733294",
             "41410885"
+          ]
+        },
+        {
+          "phrase": "cardiac arrest",
+          "score": 46.4,
+          "paper_count": 3,
+          "pmids": [
+            "39699331",
+            "41345654",
+            "39583157"
           ]
         },
         {
@@ -10122,30 +10020,22 @@
           ]
         },
         {
+          "phrase": "critically ill",
+          "score": 38.2,
+          "paper_count": 3,
+          "pmids": [
+            "39671440",
+            "39699429",
+            "42902295"
+          ]
+        },
+        {
           "phrase": "first aid",
           "score": 36.4,
           "paper_count": 2,
           "pmids": [
             "39699333",
             "40224798"
-          ]
-        },
-        {
-          "phrase": "trauma center",
-          "score": 33.6,
-          "paper_count": 2,
-          "pmids": [
-            "39668536",
-            "39648775"
-          ]
-        },
-        {
-          "phrase": "covid- triage",
-          "score": 30.3,
-          "paper_count": 2,
-          "pmids": [
-            "39689150",
-            "40561321"
           ]
         }
       ],
@@ -10163,7 +10053,7 @@
               0.0,
               91.5,
               67.9,
-              20.0
+              10.0
             ]
           },
           {
@@ -10176,39 +10066,39 @@
             ]
           },
           {
+            "phrase": "cardiac arrest",
+            "scores": [
+              0.0,
+              37.5,
+              36.4,
+              10.0
+            ]
+          },
+          {
             "phrase": "critically ill",
             "scores": [
               0.0,
               45.0,
               6.8,
-              20.0
+              30.0
             ]
           },
           {
-            "phrase": "intensive unit",
+            "phrase": "trauma center",
             "scores": [
               0.0,
-              36.4,
-              23.5,
-              10.0
+              33.6,
+              10.0,
+              30.0
             ]
           },
           {
-            "phrase": "traumatic brain",
+            "phrase": "first aid",
             "scores": [
               0.0,
-              40.9,
-              16.8,
-              10.0
-            ]
-          },
-          {
-            "phrase": "brain injury",
-            "scores": [
-              0.0,
-              40.9,
-              16.8,
-              10.0
+              46.4,
+              26.8,
+              0.0
             ]
           }
         ]
