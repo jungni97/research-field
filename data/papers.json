@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-23T23:03:21.601079Z",
+  "generated_at": "2026-10-24T22:25:21.437053Z",
   "window_days": 1095,
   "fields": [
     {
       "key": "preventive",
       "label": "예방의학",
-      "paper_count": 439,
+      "paper_count": 446,
       "journals": [
         {
           "journal": "The Orthopedic clinics of North America",
@@ -1085,7 +1085,7 @@
           "impact_factor": 1.5,
           "index_type": "미상",
           "quartile": "미상",
-          "paper_count": 3,
+          "paper_count": 2,
           "top_paper": {
             "pmid": "40010911",
             "title": "Evaluating the Effectiveness of Safety Plans for Mitigating Suicide Risk in Two Samples of Psychiatrically Hospitalized Military Veterans.",
@@ -1170,34 +1170,6 @@
               "field_label": "예방의학",
               "abstract": "Brief cognitive behavioral therapy (BCBT) for suicide prevention has been shown to significantly reduce suicide attempts in multiple clinical settings and populations. Despite its efficacy, some patients will nonetheless engage in suicidal behaviors, typically within months of starting treatment, before they have received all treatment components. Accelerating the pace of BCBT with daily sessions during a compressed timeframe (e.g., 1-3 weeks) could lead to faster reductions in suicide risk. To date, no studies have examined the potential benefits of intensive or \"massed\" suicide prevention therapies. In this nonrandomized observational study, we examined change in multiple clinical outcomes (suicidal cognitions, suicidal ideation, depression, anxiety, and social-occupational functioning) during and after BCBT among treatment-seeking adult patients with recent suicidal ideation and/or suicidal behaviors. Of 55 patients, 30 chose to attend daily sessions of BCBT over 2 weeks (massed BCBT, or mBCBT) and 25 chose to attend weekly sessions (standard BCBT). Patients in both formats reported improvements in suicidal cognitions, suicidal ideation, depression, and social-occupational functioning by treatment end (week 3 in mBCBT and week 10 in standard BCBT). Anxiety symptoms improved more in standard BCBT than mBCBT. Relative to baseline, clinical gains at the end of mBCBT were maintained at the 3-month follow-up (week 15) but were smaller in magnitude than the gains reported 3 months after standard BCBT (week 22). Results suggest clinical outcomes improved in the short term during mBCBT. Additional research is warranted to evaluate change trajectories over longer follow-up periods.",
               "title_ko": "자살 예방을 위한 Massed Brief Cognitive Behavioral Therapy (mBCBT): 실용주의 임상 시험 결과."
-            },
-            {
-              "pmid": "41620246",
-              "title": "Treatment of Youth Misophonia: A Randomized Controlled Trial Comparing Transdiagnostic Cognitive-Behavioral Therapy to Psychoeducation and Relaxation Training.",
-              "journal": "Behavior therapy",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2025-06-26",
-              "authors": [
-                "Lewin AB",
-                "Milgram L",
-                "Cepeda SL"
-              ],
-              "citation_count": 2,
-              "rcr": null,
-              "volume": "57",
-              "issue": "1",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/41620246/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": false,
-              "hot_score": 11.0,
-              "field": "preventive",
-              "field_label": "예방의학",
-              "abstract": "Misophonia is a distinct clinical disorder that lacks official diagnostic classification. Despite growing evidence of the prevalence and impairment associated with this condition, little research has tested possible evidence-based interventions. The current study presents outcomes from a two-site randomized controlled trial (N = 43) comparing the efficacy of the Unified Protocols for Transdiagnostic Treatment of Emotional Disorders in Children and Adolescents (UP-C/A; n = 29) to a psychoeducation and relaxation training (PRT; n = 14) intervention for youth with misophonia. Participants in each condition received 10 telehealth treatment sessions and completed symptom assessments at 5- and 10-weeks postenrollment. Across both conditions, 47% of youth were treatment responders. Approximately half (54%) of youth receiving UP-C/A were treatment responders, and approximately one quarter (25%) of youth receiving PRT were treatment responders. Compared to those receiving PRT, participants receiving UP-C/A treatment exhibited greater improvement in misophonia symptoms and global functioning on some but not all outcome measures. Participants in each condition reported comparable treatment satisfaction. Results suggest that existing evidence-based interventions may be effectively applied, in a brief format, to treat youth misophonia. Moreover, findings highlight the high acceptability of cognitive-behavioral intervention (i.e., UP-C/A) for this youth sample. Future large-scale trials with a longer treatment duration and a follow-up period are needed to inform the development of evidence-based interventions for youth misophonia.",
-              "title_ko": "청소년 미소포니아의 치료: Transdiagnostic Cognitive-Behavioral Therapy를 정신교육 및 이완 훈련과 비교하는 무작위 대조 시험."
             }
           ]
         },
@@ -4613,7 +4585,7 @@
           "impact_factor": 1.5,
           "index_type": "미상",
           "quartile": "미상",
-          "paper_count": 31,
+          "paper_count": 30,
           "top_paper": {
             "pmid": "39879454",
             "title": "The politicisation of vaccines and its influence on Brazilian caregivers' opinions on childhood routine vaccination.",
@@ -5086,21 +5058,21 @@
             ]
           },
           {
-            "phrase": "quality life",
-            "scores": [
-              0.0,
-              40.7,
-              10.0,
-              10.0
-            ]
-          },
-          {
             "phrase": "breast cancer",
             "scores": [
               16.9,
               0.0,
               16.9,
-              20.0
+              30.0
+            ]
+          },
+          {
+            "phrase": "physical activity",
+            "scores": [
+              0.0,
+              13.8,
+              10.0,
+              30.0
             ]
           },
           {
@@ -5541,7 +5513,7 @@
               "field": "emergency",
               "field_label": "응급의학",
               "abstract": "Oral hygiene care is important for ventilator-associated pneumonia prevention. However, the optimal oral hygiene care approach remains unclear. A network meta-analysis was conducted to compare the efficacy of various oral hygiene care methods for ventilator-associated pneumonia prevention in critically ill patients, and the methods were ranked. A literature search of three representative databases was conducted. We only analyzed parallel randomized controlled trials conducted to analyze the use antiseptics or toothbrushes in oral hygiene care for adult patients undergoing invasive mechanical ventilation in the intensive care unit. The outcome measure was the incidence of ventilator-associated pneumonia. Bias risk was assessed using the Cochrane Risk of Bias 2 tool, and the confidence in the evidence was evaluated using the CINeMA approach. Statistical analyses were performed using R 4.2.0., GeMTC package, and JAGS 4.3.1. The review protocol was registered in PROSPERO (registration number: CRD42022333270). Thirteen randomized controlled trials were included in the qualitative synthesis and twelve randomized controlled trials (2395 participants) were included in the network meta-analysis. Over 50% of the included studies were conducted in medical-surgical intensive care units. Ten treatments were analyzed and 12 pairwise comparisons were conducted in the 12 included studies. Analysis using surface under the cumulative ranking curves revealed that brushing combined with chlorhexidine 0.12% was most likely the optimal intervention for preventing ventilator-associated pneumonia (88.4%), followed by the use of chlorhexidine 0.12% alone (76.1%), and brushing alone (73.2%). Oral hygiene care methods that included brushing had high rankings. In conclusion, brushing combined with chlorhexidine 0.12% may be an effective intervention for preventing ventilator-associated pneumonia in critically ill patients. Furthermore, brushing may be the optimal oral hygiene care method for preventing ventilator-associated pneumonia in the intensive care unit. Further research is needed to verify these findings as the CINeMA confidence rate was low for each comparison.",
-              "title_ko": ""
+              "title_ko": "중증환자의 인공호흡기 관련 폐렴 예방을 위한 다양한 구강위생관리 방법의 비교 효능: 체계적 검토 및 네트워크 메타분석."
             },
             {
               "pmid": "39729465",
@@ -6983,71 +6955,6 @@
           ]
         },
         {
-          "journal": "Journal of the American Board of Family Medicine : JABFM",
-          "impact_factor": 1.5,
-          "index_type": "미상",
-          "quartile": "미상",
-          "paper_count": 1,
-          "top_paper": {
-            "pmid": "41491567",
-            "title": "Primary Care Physician Continuity Is a Consistent Measure Associated with Lower Costs and Hospitalizations.",
-            "journal": "Journal of the American Board of Family Medicine : JABFM",
-            "impact_factor": 1.5,
-            "index_type": "미상",
-            "quartile": "미상",
-            "pubdate": "2025-09-01",
-            "authors": [
-              "Chung Y",
-              "Petterson S",
-              "Dai M"
-            ],
-            "citation_count": 2,
-            "rcr": null,
-            "volume": "38",
-            "issue": "5",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/41491567/",
-            "altmetric_score": 0,
-            "altmetric_news": 0,
-            "altmetric_social": 0,
-            "is_current_issue": true,
-            "hot_score": 20.7,
-            "field": "emergency",
-            "field_label": "응급의학",
-            "abstract": "OBJECTIVE: Continuity of primary care reduces costs and hospitalizations over 1-year periods, but its long-term effects remain unclear, a key concern for value-based payment. We examined associations between physician-level continuity and health care expenditures/utilization across single- and multi-year measurement periods. DESIGN: Retrospective cohort study using 2011 to 2017 Medicare Fee-for-Service (FFS) claims. We constructed physician-level continuity measures over 1- to 5-year lookback periods. Generalized linear models estimated associations with total Medicare Part A & B expenditures, and logit models assessed hospitalization and emergency department (ED) visits, adjusting for patient and physician characteristics. SETTING & PARTICIPANTS: Nationally representative sample of 4,940 primary care practices, including 1.1 to 2.5 million Medicare FFS beneficiaries seen by 6,758-14,949 physicians. RESULTS: Beneficiaries in the highest continuity quintile had 7.4%-10.4% lower total expenditures than those in the lowest quintile, with the greatest difference in the 1-year lookback. Hospitalization and ED visit odds were 5.5%-8.6% and 4.9%-6.3% lower, respectively, for high-continuity physicians. Effects attenuated slightly with longer lookbacks. CONCLUSION: Physician continuity is consistently associated with lower costs, hospitalizations, and ED visits across lookback periods. Given this stability and the complexity of multi-year claims measurement, a 1-year assessment may be sufficient for physician continuity evaluation and value-based payment programs.",
-            "title_ko": ""
-          },
-          "papers": [
-            {
-              "pmid": "41491567",
-              "title": "Primary Care Physician Continuity Is a Consistent Measure Associated with Lower Costs and Hospitalizations.",
-              "journal": "Journal of the American Board of Family Medicine : JABFM",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2025-09-01",
-              "authors": [
-                "Chung Y",
-                "Petterson S",
-                "Dai M"
-              ],
-              "citation_count": 2,
-              "rcr": null,
-              "volume": "38",
-              "issue": "5",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/41491567/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": true,
-              "hot_score": 20.7,
-              "field": "emergency",
-              "field_label": "응급의학",
-              "abstract": "OBJECTIVE: Continuity of primary care reduces costs and hospitalizations over 1-year periods, but its long-term effects remain unclear, a key concern for value-based payment. We examined associations between physician-level continuity and health care expenditures/utilization across single- and multi-year measurement periods. DESIGN: Retrospective cohort study using 2011 to 2017 Medicare Fee-for-Service (FFS) claims. We constructed physician-level continuity measures over 1- to 5-year lookback periods. Generalized linear models estimated associations with total Medicare Part A & B expenditures, and logit models assessed hospitalization and emergency department (ED) visits, adjusting for patient and physician characteristics. SETTING & PARTICIPANTS: Nationally representative sample of 4,940 primary care practices, including 1.1 to 2.5 million Medicare FFS beneficiaries seen by 6,758-14,949 physicians. RESULTS: Beneficiaries in the highest continuity quintile had 7.4%-10.4% lower total expenditures than those in the lowest quintile, with the greatest difference in the 1-year lookback. Hospitalization and ED visit odds were 5.5%-8.6% and 4.9%-6.3% lower, respectively, for high-continuity physicians. Effects attenuated slightly with longer lookbacks. CONCLUSION: Physician continuity is consistently associated with lower costs, hospitalizations, and ED visits across lookback periods. Given this stability and the complexity of multi-year claims measurement, a 1-year assessment may be sufficient for physician continuity evaluation and value-based payment programs.",
-              "title_ko": ""
-            }
-          ]
-        },
-        {
           "journal": "Polski przeglad chirurgiczny",
           "impact_factor": 1.5,
           "index_type": "미상",
@@ -7451,7 +7358,7 @@
           "impact_factor": 1.5,
           "index_type": "미상",
           "quartile": "미상",
-          "paper_count": 41,
+          "paper_count": 40,
           "top_paper": {
             "pmid": "39872099",
             "title": "Addressing the overuse of hospital emergency departments in the Portuguese NHS: a new paradigm.",
@@ -9913,6 +9820,99 @@
               "title_ko": ""
             }
           ]
+        },
+        {
+          "journal": "Journal of the American Board of Family Medicine : JABFM",
+          "impact_factor": 1.5,
+          "index_type": "미상",
+          "quartile": "미상",
+          "paper_count": 2,
+          "top_paper": {
+            "pmid": "41491567",
+            "title": "Primary Care Physician Continuity Is a Consistent Measure Associated with Lower Costs and Hospitalizations.",
+            "journal": "Journal of the American Board of Family Medicine : JABFM",
+            "impact_factor": 1.5,
+            "index_type": "미상",
+            "quartile": "미상",
+            "pubdate": "2025-09-01",
+            "authors": [
+              "Chung Y",
+              "Petterson S",
+              "Dai M"
+            ],
+            "citation_count": 2,
+            "rcr": null,
+            "volume": "38",
+            "issue": "5",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/41491567/",
+            "altmetric_score": 0,
+            "altmetric_news": 0,
+            "altmetric_social": 0,
+            "is_current_issue": false,
+            "hot_score": 10.7,
+            "field": "emergency",
+            "field_label": "응급의학",
+            "abstract": "OBJECTIVE: Continuity of primary care reduces costs and hospitalizations over 1-year periods, but its long-term effects remain unclear, a key concern for value-based payment. We examined associations between physician-level continuity and health care expenditures/utilization across single- and multi-year measurement periods. DESIGN: Retrospective cohort study using 2011 to 2017 Medicare Fee-for-Service (FFS) claims. We constructed physician-level continuity measures over 1- to 5-year lookback periods. Generalized linear models estimated associations with total Medicare Part A & B expenditures, and logit models assessed hospitalization and emergency department (ED) visits, adjusting for patient and physician characteristics. SETTING & PARTICIPANTS: Nationally representative sample of 4,940 primary care practices, including 1.1 to 2.5 million Medicare FFS beneficiaries seen by 6,758-14,949 physicians. RESULTS: Beneficiaries in the highest continuity quintile had 7.4%-10.4% lower total expenditures than those in the lowest quintile, with the greatest difference in the 1-year lookback. Hospitalization and ED visit odds were 5.5%-8.6% and 4.9%-6.3% lower, respectively, for high-continuity physicians. Effects attenuated slightly with longer lookbacks. CONCLUSION: Physician continuity is consistently associated with lower costs, hospitalizations, and ED visits across lookback periods. Given this stability and the complexity of multi-year claims measurement, a 1-year assessment may be sufficient for physician continuity evaluation and value-based payment programs.",
+            "title_ko": ""
+          },
+          "papers": [
+            {
+              "pmid": "41491567",
+              "title": "Primary Care Physician Continuity Is a Consistent Measure Associated with Lower Costs and Hospitalizations.",
+              "journal": "Journal of the American Board of Family Medicine : JABFM",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2025-09-01",
+              "authors": [
+                "Chung Y",
+                "Petterson S",
+                "Dai M"
+              ],
+              "citation_count": 2,
+              "rcr": null,
+              "volume": "38",
+              "issue": "5",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/41491567/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 10.7,
+              "field": "emergency",
+              "field_label": "응급의학",
+              "abstract": "OBJECTIVE: Continuity of primary care reduces costs and hospitalizations over 1-year periods, but its long-term effects remain unclear, a key concern for value-based payment. We examined associations between physician-level continuity and health care expenditures/utilization across single- and multi-year measurement periods. DESIGN: Retrospective cohort study using 2011 to 2017 Medicare Fee-for-Service (FFS) claims. We constructed physician-level continuity measures over 1- to 5-year lookback periods. Generalized linear models estimated associations with total Medicare Part A & B expenditures, and logit models assessed hospitalization and emergency department (ED) visits, adjusting for patient and physician characteristics. SETTING & PARTICIPANTS: Nationally representative sample of 4,940 primary care practices, including 1.1 to 2.5 million Medicare FFS beneficiaries seen by 6,758-14,949 physicians. RESULTS: Beneficiaries in the highest continuity quintile had 7.4%-10.4% lower total expenditures than those in the lowest quintile, with the greatest difference in the 1-year lookback. Hospitalization and ED visit odds were 5.5%-8.6% and 4.9%-6.3% lower, respectively, for high-continuity physicians. Effects attenuated slightly with longer lookbacks. CONCLUSION: Physician continuity is consistently associated with lower costs, hospitalizations, and ED visits across lookback periods. Given this stability and the complexity of multi-year claims measurement, a 1-year assessment may be sufficient for physician continuity evaluation and value-based payment programs.",
+              "title_ko": ""
+            },
+            {
+              "pmid": "42914567",
+              "title": "Association of Patient-to-Primary Care Physician Language Concordance with Outcomes.",
+              "journal": "Journal of the American Board of Family Medicine : JABFM",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2026-10-01",
+              "authors": [
+                "Gershengorn HB",
+                "Patel S",
+                "Carlotto AC"
+              ],
+              "citation_count": 0,
+              "rcr": null,
+              "volume": "39",
+              "issue": "1",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/42914567/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": true,
+              "hot_score": 10.0,
+              "field": "emergency",
+              "field_label": "응급의학",
+              "abstract": "BACKGROUND: Patient-clinician language concordance impacts healthcare experiences and outcomes. The association of patient-primary care physician (PCP) language concordance with resource use is understudied. METHODS: We conducted a retrospective study of adults with a PCP visit from January 2020 through March 2023 at UHealth. Our primary exposure was patient-PCP language concordance. Our primary outcome was emergency department (ED) visit within 1 year after PCP encounter. We used multivariable regression modeling, with sensitivity and exploratory analyses to investigate the interplay of language concordance, preferred language (English/Spanish), and ethnicity. RESULTS: We included 22,093 patients across 48 PCPs (29 [60.4%] with Spanish language ability). 21,034 (95.2%) were in language concordant patient-PCP dyads and 3,155 (15.0%) preferred Spanish; language concordant patients were less commonly Hispanic (45.8% vs 94.4%, SMD 1.29). Language concordance was associated with lower odds of 1-year ED visit (unadjusted rate: 6.7% vs 9.3%, SMD 0.09, P = 0.002; adjusted OR [95% CI]: 0.77 [0.61, 0.97]). Sensitivity analyses using a more nuanced exposure (English-English concordance = reference; Spanish-Spanish concordance, OR [95% CI]: 1.43 [1.23, 1.66]; discordance, OR [95% CI]: 1.43 [1.13, 1.80]) and, separately, restricting the cohort to Spanish-speaking patients (language concordance, OR [95% CI]: 0.99 [0.76, 1.29]) as well as an exploratory analysis adding preferred language to the primary model (language concordance, OR [95% CI]: 1.00 [0.78, 1.29]) suggested the association of language concordance was fully confounded by preferred language. Ethnicity had less of an effect. CONCLUSIONS: Patient-PCP language concordance is associated with a reduced odds of 1-year ED visit. But as this association was not observed within the subcohort of only Spanish-speaking patients, it appears to be fully confounded by patient preferred language.",
+              "title_ko": ""
+            }
+          ]
         }
       ],
       "hot_topics": [
@@ -10084,21 +10084,21 @@
             ]
           },
           {
+            "phrase": "brain injury",
+            "scores": [
+              0.0,
+              40.9,
+              26.8,
+              10.0
+            ]
+          },
+          {
             "phrase": "trauma center",
             "scores": [
               0.0,
               33.6,
               10.0,
               30.0
-            ]
-          },
-          {
-            "phrase": "first aid",
-            "scores": [
-              0.0,
-              46.4,
-              26.8,
-              0.0
             ]
           }
         ]
