@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-24T22:25:21.437053Z",
+  "generated_at": "2026-10-25T22:27:09.573431Z",
   "window_days": 1095,
   "fields": [
     {
       "key": "preventive",
       "label": "예방의학",
-      "paper_count": 446,
+      "paper_count": 444,
       "journals": [
         {
           "journal": "The Orthopedic clinics of North America",
@@ -490,7 +490,7 @@
           "impact_factor": 1.5,
           "index_type": "미상",
           "quartile": "미상",
-          "paper_count": 98,
+          "paper_count": 90,
           "top_paper": {
             "pmid": "39949340",
             "title": "Analysis of factors influencing HPV vaccination intention among Chinese college students: structural equation modeling based on health belief theory.",
@@ -2755,7 +2755,7 @@
           "impact_factor": 1.5,
           "index_type": "미상",
           "quartile": "미상",
-          "paper_count": 16,
+          "paper_count": 18,
           "top_paper": {
             "pmid": "39981298",
             "title": "Staphylococcus aureus-specific TIGIT(+) Treg are present in the blood of healthy subjects - a hurdle for vaccination?",
@@ -4585,7 +4585,7 @@
           "impact_factor": 1.5,
           "index_type": "미상",
           "quartile": "미상",
-          "paper_count": 30,
+          "paper_count": 29,
           "top_paper": {
             "pmid": "39879454",
             "title": "The politicisation of vaccines and its influence on Brazilian caregivers' opinions on childhood routine vaccination.",
@@ -4644,23 +4644,23 @@
               "title_ko": "백신의 정치화와 소아 정기 예방 접종에 대한 브라질 간병인의 의견에 미치는 영향."
             },
             {
-              "pmid": "42879626",
-              "title": "[Feasibility and acceptability of actions on physical activity and health promotion from the perspective of different school actors].",
+              "pmid": "42615736",
+              "title": "Social inequalities in the use of preventive healthcare among older women (50+): evidence from ELSI-Brazil.",
               "journal": "Ciencia & saude coletiva",
               "impact_factor": 1.5,
               "index_type": "미상",
               "quartile": "미상",
-              "pubdate": "2026-10-09",
+              "pubdate": "2025-05-02",
               "authors": [
-                "Felício JF",
-                "Teixeira INP",
-                "Araújo LL"
+                "Carvalho PF",
+                "Braga LS",
+                "Lima-Costa MF"
               ],
               "citation_count": 0,
               "rcr": null,
               "volume": "31",
-              "issue": "9",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/42879626/",
+              "issue": "8",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/42615736/",
               "altmetric_score": 0,
               "altmetric_news": 0,
               "altmetric_social": 0,
@@ -4668,8 +4668,120 @@
               "hot_score": 10.0,
               "field": "preventive",
               "field_label": "예방의학",
-              "abstract": "This study aimed to compare the perception of different school actors regarding the acceptability and feasibility of actions about physical activity and health promotion which were based on the Health-Promoting Schools framework from the World Health Organization (HPS-WHO). This is a cross-sectional study, with convenience sampling from all five regions of Brazil. The \"snowball\" strategy was used. A standardized list with actions from the eight HPS-WHO categories was used, including 20 actions on governance and 16 on school organization. For each action, acceptability and feasibility scores were calculated with a standardized scale A total of 121 participants were included in this study from all regions of Brazil: 15 school managers, 23 researchers, 37 schoolteachers and 46 school health professionals. Lower acceptability scores were observed among managers in comparison to other groups for four actions on government policies, one action on school policies and resources, and one action on the school health services. In conclusion, reducing disparities between school actors on how HPS-WHO's governance actions can be implemented is needed to promote physical activity and health in the school context.",
-              "title_ko": "[다른 학교 배우의 관점에서 본 신체 활동 및 건강 증진에 대한 행동의 타당성과 수용 가능성]."
+              "abstract": "Considering the scenario of Brazilian population aging, marked by the feminization of old age and persistent social inequality in access to and use of health services, this study aims to investigate the association between socioeconomic variables and preventive healthcare among older women (50+), according to the source of health care. This is a cross-sectional study, based on ELSI-Brazil (2015-2016) baseline data. The outcomes were Pap smear; mammography; measurements of cholesterol, blood glucose, and blood pressure; and the exposures of interest were educational level, self-reported skin color, and per capita household income. Odds ratio (OR) were estimated in Logistic regression models. Self-reported skin color, educational level, and per capita household income were frequently associated with outcomes for women with and without private health plans, with a higher prevalence of exams among those who were white and those who had higher educational and income levels. The implementation of public policies and multisectoral actions that tackle the structural determinants of health and improve people's living and working conditions is essential to reducing health inequalities and ensuring the universal right to health.",
+              "title_ko": "고령 여성 (50세 이상) 의 예방 건강 관리 사용에 대한 사회적 불평등: ELSI-Brazil의 증거."
+            },
+            {
+              "pmid": "42615735",
+              "title": "Effect of satisfaction with social support, food literacy, and empowerment concerning the consumption of ultra-processed foods.",
+              "journal": "Ciencia & saude coletiva",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2025-05-24",
+              "authors": [
+                "Gomes AT",
+                "Farias PKS",
+                "Eleutério TP"
+              ],
+              "citation_count": 0,
+              "rcr": null,
+              "volume": "31",
+              "issue": "8",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/42615735/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": true,
+              "hot_score": 10.0,
+              "field": "preventive",
+              "field_label": "예방의학",
+              "abstract": "The present study aimed to evaluate the effect of satisfaction with social support (SSS), food literacy (FL), and empowerment (E) concerning the consumption of ultra-processed foods (UPFs) among adults and elderly individuals with diabetes mellitus (DM). This is a subset of a larger cross-sectional study conducted between 2016 and 2018. Two out of 73 clusters were randomly selected. Socioeconomic conditions were assessed, and the scales used to evaluate SSS, FL, and E have been previously validated in Brazil. UPF consumption was estimated using a semi-structured food frequency questionnaire. A hypothetical theoretical model was developed. The SPSS and JASP programs were used for data analysis. Structural Equation Modeling estimated the effects of the latent variables SSS, FL, and E on UPF consumption. Bartlett's test, the Kaiser-Meyer-Olkin (KMO) measure, and the following fit indices were calculated: chi-square (X²), chi-square per degrees of freedom ratio (X²/df), Comparative Fit Index (CFI), Tucker-Lewis Index (TLI), Goodness-of-Fit Index (GFI), and Root-Mean-Square Error of Approximation (RMSEA). The average age was 62.25 ± 12.11 years, with the majority being women (68.10%). The fit indices indicated that the hypothetical model is plausible. Thus, SSS does have an effect on UPF consumption mediated by FL and E.",
+              "title_ko": "초가공 식품의 섭취에 대한 사회적 지지, 식품 리터러시 및 권한 부여에 대한 만족의 효과."
+            },
+            {
+              "pmid": "42615734",
+              "title": "[Analysis of health literacy demands in the Food Guide for the Brazilian Population].",
+              "journal": "Ciencia & saude coletiva",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2025-05-24",
+              "authors": [
+                "Peres F",
+                "Brandão AL",
+                "Casemiro JP"
+              ],
+              "citation_count": 0,
+              "rcr": null,
+              "volume": "31",
+              "issue": "8",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/42615734/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": true,
+              "hot_score": 10.0,
+              "field": "preventive",
+              "field_label": "예방의학",
+              "abstract": "The present study aims to identify the health literacy demands, organized based on their different domains, present in the second edition of the Dietary Guidelines for the Brazilian Population (2014). It is an exploratory-descriptive study, based on the application of a protocol, previously validated for the national context, for health literacy load analysis of the material, with subsequent content analysis of selected excerpts, organized in a matrix. The analysis of the results identified possible barriers to understanding and make meaning of the Guide recommendations, organized according to the fundamental, scientific, civic, and cultural domains of health literacy, which ranged from the use of non-colloquial language and jargon to the impossibility of following the recommendations present therein, due to the context of the social group. The results point to the need to bring the form and content of the material closer to the health literacy demands of its potential beneficiaries, facilitating access, understanding, evaluation and significance of its recommendations by health workers and groups of the population for whom it is intended.",
+              "title_ko": "[브라질 인구를 위한 식품 가이드의 건강 리터러시 요구 분석]."
+            },
+            {
+              "pmid": "42525037",
+              "title": "Spatial distribution of human papillomavirus vaccination coverage in the state of Maranhão, Brazil.",
+              "journal": "Ciencia & saude coletiva",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2025-04-29",
+              "authors": [
+                "Fernandes RPP",
+                "Coutinho NPS",
+                "Caldas AJM"
+              ],
+              "citation_count": 0,
+              "rcr": null,
+              "volume": "31",
+              "issue": "6",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/42525037/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": true,
+              "hot_score": 10.0,
+              "field": "preventive",
+              "field_label": "예방의학",
+              "abstract": "The aim of this study was to describe the spatial distribution of human papillomavirus (HPV) vaccination coverage in the state of Maranhão, Brazil. We conducted a retrospective ecological study using data from three age cohorts of boys (age 16, 17 and 18) and girls (age 13, 14 and 15). The units of analysis were municipalities and health regions. A spatial analysis of distribution of adequate and inadequate coverage was conducted. 84.2% of the state's health regions achieved adequate coverage for the first dose among girls in cohort 1, but only 26.3% of these regions achieved the same coverage target for the second dose. This percentage was lower in boys across all cohorts, with only 26% of the health regions achieving adequate coverage in each dose. Spatial distribution of vaccination coverage was uneven. The study revealed important gaps in vaccination coverage in the state among both boys and girls. The heterogeneity of the spatial distribution of vaccination coverage reinforces the challenges that need to be overcome to ensure the effective implementation of the vaccination program across the state's municipalities.",
+              "title_ko": "브라질 마라냥주에서 인유두종바이러스 백신 접종 범위의 공간적 분포."
+            },
+            {
+              "pmid": "42525042",
+              "title": "Measures and indicators of physical activity in surveillance, monitoring, and evaluation of primary health care in Brazil: a scoping review.",
+              "journal": "Ciencia & saude coletiva",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2025-04-13",
+              "authors": [
+                "Barbosa Filho VC",
+                "Silva JAD",
+                "Lopes MVV"
+              ],
+              "citation_count": 0,
+              "rcr": null,
+              "volume": "31",
+              "issue": "6",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/42525042/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": true,
+              "hot_score": 10.0,
+              "field": "preventive",
+              "field_label": "예방의학",
+              "abstract": "The study aimed to map physical activity (PA)-related measures and indicators that are considered in Primary Health Care (PHC/SUS) surveillance, monitoring and assessment. This scoping review was conducted in January 2024 in electronic portals, searching for government materials that aimed at these strategies of PHC/SUS with PA indicators. The selection and extraction processes were performed in pairs, and a thematic synthesis was used. Of the 239 potentially eligible documents, 95 were included on surveillance (n = 39), plans/policies (n = 7), user (n = 34) and service (n = 15) monitoring/assessment. A total of 69 measures and 38 different indicators were addressed in health surveillance. Service monitoring/assessment includes general and specific PA programs (17 and 13 indicators, respectively). User monitoring/assessment included indicators aimed at people from different groups (e.g., people with chronic diseases) and their application, primarily in initial examinations and therapeutic planning. This study reinforces a call for government actions aiming to qualify the acquisition and implementation of PA-related health information; this may be one the main pathways of strengthening PA promotion on the SUS agenda.",
+              "title_ko": "브라질의 일차 의료 감시, 모니터링 및 평가에서 신체 활동의 측정 및 지표: 범위 검토."
             },
             {
               "pmid": "41615110",
@@ -4726,117 +4838,6 @@
               "field_label": "예방의학",
               "abstract": "In Brazil, studies and practices around the concept of health literacy are recent and linked to the application of internationally validated instruments. From this perspective, a more conservative emphasis on the adoption of health literacy practices can be observed. This article explores possibilities for a Brazilian model of health literacy, considering the marked presence of the Brazilian community in public health in the promotion of health, popular education and educommunication, by linking timelines of these four areas of knowledge and practices. Having established these timelines, it seeks to highlight the main national and international historical, academic and political milestones, of each of these areas, over a specific period (1970-2023), against the backdrop of four political scenarios: \"military governments,\" \"redemocratization and neoliberalism,\" \"progressive governments\" and \"conservatism.\" Based on the identification of significant national and international milestones and the confluence between the fields of health promotion, popular health education, and educommunication, the possibility of a Brazilian model is postulated for promoting health literacy.",
               "title_ko": "[건강증진, 공중보건교육, 에듀커뮤니케이션, 건강리터러시 간의 융합]."
-            },
-            {
-              "pmid": "40929445",
-              "title": "Physical activity and salutogenesis: a necessary dialogue.",
-              "journal": "Ciencia & saude coletiva",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2024-07-18",
-              "authors": [
-                "Oliveira VJM",
-                "Costa RMD"
-              ],
-              "citation_count": 1,
-              "rcr": null,
-              "volume": "30",
-              "issue": "8",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/40929445/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": false,
-              "hot_score": 6.9,
-              "field": "preventive",
-              "field_label": "예방의학",
-              "abstract": "This essay aims to broaden the dialogue between physical activity (PA) and health by a salutogenesis-oriented concept, which emphasizes the origins of health, as opposed to the pathogenic model, which focuses on the origin of diseases. It presents the foundations of the theory, created by Aaron Antonovsky, whose health promotion model is centered on the sense of coherence (SOC), which consists of significance, comprehensibility, and manageability. Then, it explores the relationships between PA and salutogenesis, demonstrating how this framework can be applied in various life stages and practice settings. Studies indicate that people with a strengthened SOC will likely remain physically active. However, this relationship is not instrumental and depends on contextual, cognitive, and affective factors. This essay concludes by advocating for further research in Brazil and highlighting salutogenesis as a promising perspective to guide a new understanding of PA and health.",
-              "title_ko": "신체 활동 및 인사 생성: 필요한 대화."
-            },
-            {
-              "pmid": "40465920",
-              "title": "[Awareness and participation in public physical activity programs among adults in the Northeast region of Brazil].",
-              "journal": "Ciencia & saude coletiva",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2024-04-13",
-              "authors": [
-                "Santos EMM",
-                "Andrade ACS",
-                "Portela DS"
-              ],
-              "citation_count": 1,
-              "rcr": null,
-              "volume": "30",
-              "issue": "5",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/40465920/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": false,
-              "hot_score": 6.9,
-              "field": "preventive",
-              "field_label": "예방의학",
-              "abstract": "The scope of the study was to investigate the factors associated with awareness and participation of the adult population of the Northeast region of Brazil in public physical activity (PA) programs. It involved a cross-sectional study with data from the Brazilian National Health Survey (2019). The dependent variables were awareness and participation in public PA programs. The independent variables were household, sociodemographic, social support and health characteristics. Prevalence ratios were estimated using Poisson regression with robust variance. The prevalence of awareness was 24.3%, of which 9.7% participated in public PA programs. Higher per capita family income, visits from family health teams, female gender, age over 34, more schooling, paid work, participation in social mobilization groups, being overweight or obese and diagnosed with one or more chronic non-communicable diseases were positively associated with public PA programs. Having a paid job was negatively associated and participation in social mobilization groups was positively associated. Public PA programs need to consider dissemination strategies and the characteristics of the local context.",
-              "title_ko": "[브라질 동북부 지역 성인들의 공공 신체 활동 프로그램에 대한 인식과 참여]."
-            },
-            {
-              "pmid": "39936667",
-              "title": "Promoting and competing factors of adequate and healthy food in the school food environment.",
-              "journal": "Ciencia & saude coletiva",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2023-11-29",
-              "authors": [
-                "Henriques P",
-                "Alvarenga CRT",
-                "Almeida GV"
-              ],
-              "citation_count": 1,
-              "rcr": null,
-              "volume": "30",
-              "issue": "2",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/39936667/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": false,
-              "hot_score": 6.9,
-              "field": "preventive",
-              "field_label": "예방의학",
-              "abstract": "This study aimed to characterize and evaluate the food environment of public schools regarding identified healthy eating competing and promoting factors. A quantitative descriptive and observational study was conducted in 14 public schools in a municipality in Rio de Janeiro and their surrounding areas. Photographic records and field diaries were adopted for this purpose. Food-related murals, vegetable gardens, school cafeterias, and teachers sitting along during meals were considered components that promote a healthy food environment. Competing components were snacks brought by students, canteens, informal food sale and packaging, and ultra-processed foods circulating in schools. A 500-meter radius from the school gate was considered to characterize outlets in the school surroundings. The foods sold were categorized per the NOVA classification. The study identified a predominance of healthy eating-promoting factors against competing factors. However, we identified available ultra-processed foods inside schools, and their availability prevailed in the school's surrounding areas.",
-              "title_ko": "학교급식 환경에서 적절하고 건강한 음식의 촉진 및 경쟁 요인."
-            },
-            {
-              "pmid": "42615736",
-              "title": "Social inequalities in the use of preventive healthcare among older women (50+): evidence from ELSI-Brazil.",
-              "journal": "Ciencia & saude coletiva",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2025-05-02",
-              "authors": [
-                "Carvalho PF",
-                "Braga LS",
-                "Lima-Costa MF"
-              ],
-              "citation_count": 0,
-              "rcr": null,
-              "volume": "31",
-              "issue": "8",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/42615736/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": false,
-              "hot_score": 0.0,
-              "field": "preventive",
-              "field_label": "예방의학",
-              "abstract": "Considering the scenario of Brazilian population aging, marked by the feminization of old age and persistent social inequality in access to and use of health services, this study aims to investigate the association between socioeconomic variables and preventive healthcare among older women (50+), according to the source of health care. This is a cross-sectional study, based on ELSI-Brazil (2015-2016) baseline data. The outcomes were Pap smear; mammography; measurements of cholesterol, blood glucose, and blood pressure; and the exposures of interest were educational level, self-reported skin color, and per capita household income. Odds ratio (OR) were estimated in Logistic regression models. Self-reported skin color, educational level, and per capita household income were frequently associated with outcomes for women with and without private health plans, with a higher prevalence of exams among those who were white and those who had higher educational and income levels. The implementation of public policies and multisectoral actions that tackle the structural determinants of health and improve people's living and working conditions is essential to reducing health inequalities and ensuring the universal right to health.",
-              "title_ko": "고령 여성 (50세 이상) 의 예방 건강 관리 사용에 대한 사회적 불평등: ELSI-Brazil의 증거."
             }
           ]
         },
@@ -5021,13 +5022,12 @@
           ]
         },
         {
-          "phrase": "physical activity",
-          "score": 23.8,
-          "paper_count": 3,
+          "phrase": "vaccination coverage",
+          "score": 26.9,
+          "paper_count": 2,
           "pmids": [
-            "42879626",
-            "40929445",
-            "40465920"
+            "41906511",
+            "42525037"
           ]
         }
       ],
@@ -5067,12 +5067,21 @@
             ]
           },
           {
+            "phrase": "quality life",
+            "scores": [
+              0.0,
+              40.7,
+              10.0,
+              10.0
+            ]
+          },
+          {
             "phrase": "physical activity",
             "scores": [
               0.0,
               13.8,
-              10.0,
-              30.0
+              20.0,
+              20.0
             ]
           },
           {
@@ -5083,15 +5092,6 @@
               10.0,
               0.0
             ]
-          },
-          {
-            "phrase": "covid- vaccination",
-            "scores": [
-              0.0,
-              11.0,
-              30.7,
-              10.0
-            ]
           }
         ]
       }
@@ -5099,7 +5099,7 @@
     {
       "key": "emergency",
       "label": "응급의학",
-      "paper_count": 461,
+      "paper_count": 459,
       "journals": [
         {
           "journal": "Resuscitation",
@@ -5429,7 +5429,7 @@
           "impact_factor": 1.5,
           "index_type": "미상",
           "quartile": "미상",
-          "paper_count": 56,
+          "paper_count": 55,
           "top_paper": {
             "pmid": "39642139",
             "title": "A machine learning-based risk score for prediction of mechanical ventilation in children with dengue shock syndrome: A retrospective cohort study.",
@@ -7261,99 +7261,6 @@
           ]
         },
         {
-          "journal": "Critical care (London, England)",
-          "impact_factor": 1.5,
-          "index_type": "미상",
-          "quartile": "미상",
-          "paper_count": 2,
-          "top_paper": {
-            "pmid": "41345654",
-            "title": "Unlocking survival in traumatic cardiac arrest: global insights, innovations, and unmet needs.",
-            "journal": "Critical care (London, England)",
-            "impact_factor": 1.5,
-            "index_type": "미상",
-            "quartile": "미상",
-            "pubdate": "2025-10-24",
-            "authors": [
-              "Jiang S",
-              "Wei J",
-              "Rao T"
-            ],
-            "citation_count": 6,
-            "rcr": 2.3312323267331734,
-            "volume": "29",
-            "issue": "1",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/41345654/",
-            "altmetric_score": 0,
-            "altmetric_news": 0,
-            "altmetric_social": 0,
-            "is_current_issue": false,
-            "hot_score": 18.9,
-            "field": "emergency",
-            "field_label": "응급의학",
-            "abstract": "Traumatic cardiac arrest (TCA) remains one of the most formidable challenges in acute care, with global survival rates persistently below 7.5% despite significant advances in trauma systems and resuscitative strategies. Through a comprehensive scoping review of literature from 2016 to 2025, this study delineates the shifting epidemiology, modern management, and key determinants of outcomes in TCA. Our synthesis reveals that TCA predominantly affects young males and results primarily from blunt mechanisms, with severe hemorrhage and traumatic brain injury as leading critical lesions. While pioneering interventions such as resuscitative endovascular balloon occlusion of the aorta and emergency resuscitative thoracotomy have been widely adopted, robust evidence for their survival benefit remains limited and context dependent. Early identification and correction of reversible causes, targeted hemorrhage control, and timely application of advanced life support measures-especially prehospital thoracostomy and vascular access-significantly increase the likelihood of return of spontaneous circulation and favorable neurological outcomes. Conversely, routine use of epinephrine shows at best inconsistent benefits and may be detrimental in blunt trauma. Survival is further influenced by initial rhythm, presence of signs of life, rapid patient triage to trauma centers, and tailored protocols for pediatric and older populations. Notwithstanding notable progress, major knowledge gaps persist in defining optimal intervention timing, reporting standards, and long-term neurologic recovery. The findings underscore the critical need for multicenter, prospective research, harmonized trauma registries, and global consensus to inform future guidelines and optimize outcomes for TCA patients.",
-            "title_ko": ""
-          },
-          "papers": [
-            {
-              "pmid": "41345654",
-              "title": "Unlocking survival in traumatic cardiac arrest: global insights, innovations, and unmet needs.",
-              "journal": "Critical care (London, England)",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2025-10-24",
-              "authors": [
-                "Jiang S",
-                "Wei J",
-                "Rao T"
-              ],
-              "citation_count": 6,
-              "rcr": 2.3312323267331734,
-              "volume": "29",
-              "issue": "1",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/41345654/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": false,
-              "hot_score": 18.9,
-              "field": "emergency",
-              "field_label": "응급의학",
-              "abstract": "Traumatic cardiac arrest (TCA) remains one of the most formidable challenges in acute care, with global survival rates persistently below 7.5% despite significant advances in trauma systems and resuscitative strategies. Through a comprehensive scoping review of literature from 2016 to 2025, this study delineates the shifting epidemiology, modern management, and key determinants of outcomes in TCA. Our synthesis reveals that TCA predominantly affects young males and results primarily from blunt mechanisms, with severe hemorrhage and traumatic brain injury as leading critical lesions. While pioneering interventions such as resuscitative endovascular balloon occlusion of the aorta and emergency resuscitative thoracotomy have been widely adopted, robust evidence for their survival benefit remains limited and context dependent. Early identification and correction of reversible causes, targeted hemorrhage control, and timely application of advanced life support measures-especially prehospital thoracostomy and vascular access-significantly increase the likelihood of return of spontaneous circulation and favorable neurological outcomes. Conversely, routine use of epinephrine shows at best inconsistent benefits and may be detrimental in blunt trauma. Survival is further influenced by initial rhythm, presence of signs of life, rapid patient triage to trauma centers, and tailored protocols for pediatric and older populations. Notwithstanding notable progress, major knowledge gaps persist in defining optimal intervention timing, reporting standards, and long-term neurologic recovery. The findings underscore the critical need for multicenter, prospective research, harmonized trauma registries, and global consensus to inform future guidelines and optimize outcomes for TCA patients.",
-              "title_ko": ""
-            },
-            {
-              "pmid": "42902295",
-              "title": "Toward targeted assessment of inspiratory muscle weakness before extubation: a pooled individual patient data analysis from multiple observational cohorts in critically ill ventilated patients.",
-              "journal": "Critical care (London, England)",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2026-09-15",
-              "authors": [
-                "Medrinal C",
-                "Machefert M",
-                "Dubois C"
-              ],
-              "citation_count": 0,
-              "rcr": null,
-              "volume": "30",
-              "issue": "1",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/42902295/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": true,
-              "hot_score": 10.0,
-              "field": "emergency",
-              "field_label": "응급의학",
-              "abstract": "BACKGROUND: Bedside neuromuscular tests are commonly proposed to assess readiness for extubation in critically ill patients. However, when used in unselected populations, their ability to predict clinically relevant outcomes such as extubation failure has been inconsistent. A more targeted use of these tests, restricted to patients in whom neuromuscular weakness is more likely to contribute to weaning failure, may improve their clinical relevance. METHODS: We conducted a pooled individual patient data analysis of multiple observational cohorts including adult ICU patients receiving invasive mechanical ventilation. The primary outcome was extubation failure, defined as reintubation or death within 48 h after extubation. Available neuromuscular assessments included maximal inspiratory pressure (MIP), maximal expiratory pressure (MEP), peak cough flow (PCF), and Medical Research Council (MRC) sum score. Prespecified thresholds were MIP ≤ 30 cmH₂O, MEP ≤ 50 cmH₂O, PCF ≤ 60 L/min, and MRC < 48/60. Associations with extubation failure were assessed in the overall population and according to prior mechanical ventilation duration. RESULTS: Among 494 included patients, 458 had an available extubation outcome and 72 (16%) experienced extubation failure. MIP was available in 230 patients, MEP in 124, PCF in 156, and MRC score in 252. In the overall population, MIP ≤ 30 cmH₂O showed only a borderline association with extubation failure (24% vs. 14%; OR 1.94, 95% CI 0.98 to 3.84; p = 0.06). In patients ventilated for more than 5 days, extubation failure occurred in 33% with MIP ≤ 30 cmH₂O versus 14% with MIP > 30 cmH₂O. After adjustment, MIP ≤ 30 cmH₂O remained associated with extubation failure (adjusted OR 3.52, 95% CI 1.37 to 9.03; p = 0.009). No significant adjusted association was observed for MEP, PCF, or MRC. CONCLUSIONS: Neuromuscular tests may have limited prognostic value when applied broadly before extubation. Low MIP appears more informative after prolonged mechanical ventilation, supporting a targeted rather than systematic use of respiratory neuromuscular assessment before extubation.",
-              "title_ko": ""
-            }
-          ]
-        },
-        {
           "journal": "Frontiers in public health",
           "impact_factor": 1.5,
           "index_type": "미상",
@@ -7609,6 +7516,99 @@
               "field": "emergency",
               "field_label": "응급의학",
               "abstract": "Early identification of trauma patients at risk of in-hospital death is essential for guiding time-critical resuscitation and operative strategies. We developed and evaluated a multi-model machine learning framework that integrates vital signs, and routine laboratory and blood-gas metrics indices obtained within 30 min of emergency department arrival to predict in-hospital mortality. This single-center retrospective study included 408 critically injured trauma patients treated at the Emergency Department of the Affiliated Kunshan Hospital of Jiangsu University (January 2020-December 2021). We implemented multiple machine learning models [logistic regression, Random Forest, Gradient Boosting, XGBoost, LightGBM, and multilayer perceptron (MLP)], and constructed stacking and soft-voting ensembles. On the test set, single-model AUROC ranged from 0.743 to 0.927, with corresponding AUPRC spanning 0.438 to 0.904. The stacking ensemble achieved AUROC 0.9462 and AUPRC 0.8679; the voting ensemble achieved AUROC 0.9506 and AUPRC 0.8715. Permutation importance in the stacking model prioritized Injury Severity Score (ISS) (mean AUROC decrease 0.0360), base excess (BE) (0.0258), Glasgow Coma Scale (GCS) (0.0247), and pH (0.0153). In conclusion, an ensemble machine learning approach integrating early vital signs and laboratory data provides excellent discrimination and calibration for in-hospital mortality after severe trauma, with dominant contributions from ISS, GCS, and acid-base variables. These findings support the feasibility of interpretable ensemble learning for early mortality risk stratification in severe trauma.",
+              "title_ko": ""
+            }
+          ]
+        },
+        {
+          "journal": "Critical care (London, England)",
+          "impact_factor": 1.5,
+          "index_type": "미상",
+          "quartile": "미상",
+          "paper_count": 2,
+          "top_paper": {
+            "pmid": "41345654",
+            "title": "Unlocking survival in traumatic cardiac arrest: global insights, innovations, and unmet needs.",
+            "journal": "Critical care (London, England)",
+            "impact_factor": 1.5,
+            "index_type": "미상",
+            "quartile": "미상",
+            "pubdate": "2025-10-24",
+            "authors": [
+              "Jiang S",
+              "Wei J",
+              "Rao T"
+            ],
+            "citation_count": 6,
+            "rcr": 2.3312323267331734,
+            "volume": "29",
+            "issue": "1",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/41345654/",
+            "altmetric_score": 0,
+            "altmetric_news": 0,
+            "altmetric_social": 0,
+            "is_current_issue": false,
+            "hot_score": 18.9,
+            "field": "emergency",
+            "field_label": "응급의학",
+            "abstract": "Traumatic cardiac arrest (TCA) remains one of the most formidable challenges in acute care, with global survival rates persistently below 7.5% despite significant advances in trauma systems and resuscitative strategies. Through a comprehensive scoping review of literature from 2016 to 2025, this study delineates the shifting epidemiology, modern management, and key determinants of outcomes in TCA. Our synthesis reveals that TCA predominantly affects young males and results primarily from blunt mechanisms, with severe hemorrhage and traumatic brain injury as leading critical lesions. While pioneering interventions such as resuscitative endovascular balloon occlusion of the aorta and emergency resuscitative thoracotomy have been widely adopted, robust evidence for their survival benefit remains limited and context dependent. Early identification and correction of reversible causes, targeted hemorrhage control, and timely application of advanced life support measures-especially prehospital thoracostomy and vascular access-significantly increase the likelihood of return of spontaneous circulation and favorable neurological outcomes. Conversely, routine use of epinephrine shows at best inconsistent benefits and may be detrimental in blunt trauma. Survival is further influenced by initial rhythm, presence of signs of life, rapid patient triage to trauma centers, and tailored protocols for pediatric and older populations. Notwithstanding notable progress, major knowledge gaps persist in defining optimal intervention timing, reporting standards, and long-term neurologic recovery. The findings underscore the critical need for multicenter, prospective research, harmonized trauma registries, and global consensus to inform future guidelines and optimize outcomes for TCA patients.",
+            "title_ko": ""
+          },
+          "papers": [
+            {
+              "pmid": "41345654",
+              "title": "Unlocking survival in traumatic cardiac arrest: global insights, innovations, and unmet needs.",
+              "journal": "Critical care (London, England)",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2025-10-24",
+              "authors": [
+                "Jiang S",
+                "Wei J",
+                "Rao T"
+              ],
+              "citation_count": 6,
+              "rcr": 2.3312323267331734,
+              "volume": "29",
+              "issue": "1",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/41345654/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 18.9,
+              "field": "emergency",
+              "field_label": "응급의학",
+              "abstract": "Traumatic cardiac arrest (TCA) remains one of the most formidable challenges in acute care, with global survival rates persistently below 7.5% despite significant advances in trauma systems and resuscitative strategies. Through a comprehensive scoping review of literature from 2016 to 2025, this study delineates the shifting epidemiology, modern management, and key determinants of outcomes in TCA. Our synthesis reveals that TCA predominantly affects young males and results primarily from blunt mechanisms, with severe hemorrhage and traumatic brain injury as leading critical lesions. While pioneering interventions such as resuscitative endovascular balloon occlusion of the aorta and emergency resuscitative thoracotomy have been widely adopted, robust evidence for their survival benefit remains limited and context dependent. Early identification and correction of reversible causes, targeted hemorrhage control, and timely application of advanced life support measures-especially prehospital thoracostomy and vascular access-significantly increase the likelihood of return of spontaneous circulation and favorable neurological outcomes. Conversely, routine use of epinephrine shows at best inconsistent benefits and may be detrimental in blunt trauma. Survival is further influenced by initial rhythm, presence of signs of life, rapid patient triage to trauma centers, and tailored protocols for pediatric and older populations. Notwithstanding notable progress, major knowledge gaps persist in defining optimal intervention timing, reporting standards, and long-term neurologic recovery. The findings underscore the critical need for multicenter, prospective research, harmonized trauma registries, and global consensus to inform future guidelines and optimize outcomes for TCA patients.",
+              "title_ko": ""
+            },
+            {
+              "pmid": "42902295",
+              "title": "Toward targeted assessment of inspiratory muscle weakness before extubation: a pooled individual patient data analysis from multiple observational cohorts in critically ill ventilated patients.",
+              "journal": "Critical care (London, England)",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2026-09-15",
+              "authors": [
+                "Medrinal C",
+                "Machefert M",
+                "Dubois C"
+              ],
+              "citation_count": 0,
+              "rcr": null,
+              "volume": "30",
+              "issue": "1",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/42902295/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": true,
+              "hot_score": 10.0,
+              "field": "emergency",
+              "field_label": "응급의학",
+              "abstract": "BACKGROUND: Bedside neuromuscular tests are commonly proposed to assess readiness for extubation in critically ill patients. However, when used in unselected populations, their ability to predict clinically relevant outcomes such as extubation failure has been inconsistent. A more targeted use of these tests, restricted to patients in whom neuromuscular weakness is more likely to contribute to weaning failure, may improve their clinical relevance. METHODS: We conducted a pooled individual patient data analysis of multiple observational cohorts including adult ICU patients receiving invasive mechanical ventilation. The primary outcome was extubation failure, defined as reintubation or death within 48 h after extubation. Available neuromuscular assessments included maximal inspiratory pressure (MIP), maximal expiratory pressure (MEP), peak cough flow (PCF), and Medical Research Council (MRC) sum score. Prespecified thresholds were MIP ≤ 30 cmH₂O, MEP ≤ 50 cmH₂O, PCF ≤ 60 L/min, and MRC < 48/60. Associations with extubation failure were assessed in the overall population and according to prior mechanical ventilation duration. RESULTS: Among 494 included patients, 458 had an available extubation outcome and 72 (16%) experienced extubation failure. MIP was available in 230 patients, MEP in 124, PCF in 156, and MRC score in 252. In the overall population, MIP ≤ 30 cmH₂O showed only a borderline association with extubation failure (24% vs. 14%; OR 1.94, 95% CI 0.98 to 3.84; p = 0.06). In patients ventilated for more than 5 days, extubation failure occurred in 33% with MIP ≤ 30 cmH₂O versus 14% with MIP > 30 cmH₂O. After adjustment, MIP ≤ 30 cmH₂O remained associated with extubation failure (adjusted OR 3.52, 95% CI 1.37 to 9.03; p = 0.009). No significant adjusted association was observed for MEP, PCF, or MRC. CONCLUSIONS: Neuromuscular tests may have limited prognostic value when applied broadly before extubation. Low MIP appears more informative after prolonged mechanical ventilation, supporting a targeted rather than systematic use of respiratory neuromuscular assessment before extubation.",
               "title_ko": ""
             }
           ]
