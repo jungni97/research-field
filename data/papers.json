@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-25T22:27:09.573431Z",
+  "generated_at": "2026-10-26T23:43:35.168353Z",
   "window_days": 1095,
   "fields": [
     {
       "key": "preventive",
       "label": "예방의학",
-      "paper_count": 444,
+      "paper_count": 454,
       "journals": [
         {
           "journal": "The Orthopedic clinics of North America",
@@ -2755,7 +2755,7 @@
           "impact_factor": 1.5,
           "index_type": "미상",
           "quartile": "미상",
-          "paper_count": 18,
+          "paper_count": 17,
           "top_paper": {
             "pmid": "39981298",
             "title": "Staphylococcus aureus-specific TIGIT(+) Treg are present in the blood of healthy subjects - a hurdle for vaccination?",
@@ -5045,7 +5045,16 @@
               0.0,
               81.4,
               11.0,
-              11.0
+              21.0
+            ]
+          },
+          {
+            "phrase": "cancer screening",
+            "scores": [
+              0.0,
+              0.0,
+              10.0,
+              56.9
             ]
           },
           {
@@ -5058,12 +5067,12 @@
             ]
           },
           {
-            "phrase": "breast cancer",
+            "phrase": "genetic testing",
             "scores": [
-              16.9,
               0.0,
-              16.9,
-              30.0
+              42.7,
+              10.0,
+              10.0
             ]
           },
           {
@@ -5083,15 +5092,6 @@
               20.0,
               20.0
             ]
-          },
-          {
-            "phrase": "genetic testing",
-            "scores": [
-              0.0,
-              42.7,
-              10.0,
-              0.0
-            ]
           }
         ]
       }
@@ -5099,7 +5099,7 @@
     {
       "key": "emergency",
       "label": "응급의학",
-      "paper_count": 459,
+      "paper_count": 457,
       "journals": [
         {
           "journal": "Resuscitation",
@@ -5429,7 +5429,7 @@
           "impact_factor": 1.5,
           "index_type": "미상",
           "quartile": "미상",
-          "paper_count": 55,
+          "paper_count": 56,
           "top_paper": {
             "pmid": "39642139",
             "title": "A machine learning-based risk score for prediction of mechanical ventilation in children with dengue shock syndrome: A retrospective cohort study.",
@@ -6158,99 +6158,6 @@
           ]
         },
         {
-          "journal": "The Journal of frailty & aging",
-          "impact_factor": 1.5,
-          "index_type": "미상",
-          "quartile": "미상",
-          "paper_count": 2,
-          "top_paper": {
-            "pmid": "39574267",
-            "title": "Utilisation and Outcome of Cranial CT Imaging in Older Adults Attending ED Following a Fall.",
-            "journal": "The Journal of frailty & aging",
-            "impact_factor": 1.5,
-            "index_type": "미상",
-            "quartile": "미상",
-            "pubdate": "2024-01-01",
-            "authors": [
-              "Warren K",
-              "Akinola T",
-              "Bailey K"
-            ],
-            "citation_count": 3,
-            "rcr": 0.6601107085708897,
-            "volume": "13",
-            "issue": "4",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/39574267/",
-            "altmetric_score": 0,
-            "altmetric_news": 0,
-            "altmetric_social": 0,
-            "is_current_issue": true,
-            "hot_score": 23.5,
-            "field": "emergency",
-            "field_label": "응급의학",
-            "abstract": "Healthcare demand from falls in older adults is increasing, but guidance from the literature is lacking on the value of neuroimaging, particularly for those who have fallen but have no head injury or an unclear history. We carried out retrospective analysis of data from Emergency Department attendances at a large English hospital to assess compliance with guidelines and explore utility of CT scans for those not covered by existing guidance. Following a fall, 49% (577) of older adults received a cranial CT scan, 4.9% (28) of whom had an intracranial haemorrhage and only 2 received neurosurgical intervention. Only 59% who had a CT had a clear history of head injury, unwitnessed falls were common (71%) and there was a high prevalence of dementia (23%); those scanned without a clear history of head injury were significantly more frail, but not older. There was some indication that seizure, reduced GCS and neurological signs are predictive of intracranial haemorrhage regardless of head injury history, but further research is recommended to provide clarity on which groups stand to benefit most and how clinicians can be supported in decision making that balances diagnostic yield, patient benefit and imaging demand.",
-            "title_ko": ""
-          },
-          "papers": [
-            {
-              "pmid": "39574267",
-              "title": "Utilisation and Outcome of Cranial CT Imaging in Older Adults Attending ED Following a Fall.",
-              "journal": "The Journal of frailty & aging",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2024-01-01",
-              "authors": [
-                "Warren K",
-                "Akinola T",
-                "Bailey K"
-              ],
-              "citation_count": 3,
-              "rcr": 0.6601107085708897,
-              "volume": "13",
-              "issue": "4",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/39574267/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": true,
-              "hot_score": 23.5,
-              "field": "emergency",
-              "field_label": "응급의학",
-              "abstract": "Healthcare demand from falls in older adults is increasing, but guidance from the literature is lacking on the value of neuroimaging, particularly for those who have fallen but have no head injury or an unclear history. We carried out retrospective analysis of data from Emergency Department attendances at a large English hospital to assess compliance with guidelines and explore utility of CT scans for those not covered by existing guidance. Following a fall, 49% (577) of older adults received a cranial CT scan, 4.9% (28) of whom had an intracranial haemorrhage and only 2 received neurosurgical intervention. Only 59% who had a CT had a clear history of head injury, unwitnessed falls were common (71%) and there was a high prevalence of dementia (23%); those scanned without a clear history of head injury were significantly more frail, but not older. There was some indication that seizure, reduced GCS and neurological signs are predictive of intracranial haemorrhage regardless of head injury history, but further research is recommended to provide clarity on which groups stand to benefit most and how clinicians can be supported in decision making that balances diagnostic yield, patient benefit and imaging demand.",
-              "title_ko": ""
-            },
-            {
-              "pmid": "39574275",
-              "title": "Admission of Older Patients to Geriatric Inpatient Care from the Emergency Department Compared with Admission through Acute Medical Unit: Cost and Length of Stay Outcomes.",
-              "journal": "The Journal of frailty & aging",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2024-01-01",
-              "authors": [
-                "Merchant RA",
-                "Chan YH",
-                "Ling NMW"
-              ],
-              "citation_count": 0,
-              "rcr": 0.0,
-              "volume": "13",
-              "issue": "4",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/39574275/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": true,
-              "hot_score": 10.0,
-              "field": "emergency",
-              "field_label": "응급의학",
-              "abstract": "OBJECTIVE: To investigate whether direct admission to geriatric inpatient care from the emergency department (EMD) was associated with lower length of stay (LOS) and cost compared to patients admitted through an acute medical unit (AMU). METHODS: Retrospective single-centre cohort study conducted using hospital database on older patients ≥ 75 years discharged from geriatric inpatient service in a tertiary academic centre from March 2021 to September 2021 who were admitted through AMU or direct from EMD. INTERVENTION: Traditional AMU run by internists followed by geriatrician led-care compared with geriatrician led-care. MEASURE: We evaluated the difference in median length of stay (LOS), and cost using quantile regression adjusted for primary discharge diagnoses, hospital frailty risk score (HFRS) and Age-adjusted Charlson Comorbidity Index (ACCI). RESULTS: Among 574 older patients, 140 (24.4%) were admitted from AMU. Mean age was 84.0 ± 6.3 years and 83.8% were categorized as high or intermediate frailty risk based on HFRS. 46% of patients admitted through EMD were discharged within three days. After adjusting for primary diagnoses, HFRS, and ACCI, patients admitted through AMU had a longer median LOS of 1.6 days (95% confidence interval (CI): 0.86-2.4, p<0.001), higher total cost $1386.0 (95% CI 733-2038, p<0.001), laboratory cost $226.0 (95% CI 131-322, p<0.001), medication cost $65.0 (95% CI 15-115, p<0.010), physiotherapy cost $45.0 (95% CI 16-75, p=0.002) and occupational therapy cost $35.0 (95% CI 12-58, p=0.003). CONCLUSION: Older adults admitted through AMU had significantly longer median LOS, higher total cost, physiotherapy and occupational therapy costs, medication, and laboratory costs.",
-              "title_ko": ""
-            }
-          ]
-        },
-        {
           "journal": "The Journal of emergency medicine",
           "impact_factor": 1.5,
           "index_type": "미상",
@@ -6950,6 +6857,71 @@
               "field": "emergency",
               "field_label": "응급의학",
               "abstract": "BACKGROUND: Duke LifeFlight, established in 1985, has provided four decades of exceptional critical care transport to patients across the Southeast. As one of the first hospital-based air medical programs in North Carolina, it has set the standard for safety, innovation, and clinical excellence. OBJECTIVE: To commemorate the 40-year anniversary, celebrated last year, of Duke LifeFlight by highlighting its historical milestones, evolving capabilities, and lasting impact on patient outcomes and prehospital care. METHODS/APPROACH: A retrospective review of archival data, program development timelines, and patient care advancements. Key performance indicators and patient transport volumes were analyzed to illustrate growth and effectiveness. RESULTS: Since inception, Duke LifeFlight has completed thousands of transports, expanded to include rotor- and fixed-wing aircraft capabilities as well as critical care ground teams, and maintained accreditation from the Commission on Accreditation of Medical Transport Systems (CAMTS). Innovations in training, telemedicine, and trauma care have further elevated its regional and national standing. CONCLUSION: Over 40 years, Duke LifeFlight has exemplified resilience, clinical excellence, and leadership in critical care transport. As it enters a new era, the program remains dedicated to advancing prehospital medicine and continuing its mission of delivering lifesaving care when seconds matter most.",
+              "title_ko": ""
+            }
+          ]
+        },
+        {
+          "journal": "Journal of the American Board of Family Medicine : JABFM",
+          "impact_factor": 1.5,
+          "index_type": "미상",
+          "quartile": "미상",
+          "paper_count": 1,
+          "top_paper": {
+            "pmid": "41491567",
+            "title": "Primary Care Physician Continuity Is a Consistent Measure Associated with Lower Costs and Hospitalizations.",
+            "journal": "Journal of the American Board of Family Medicine : JABFM",
+            "impact_factor": 1.5,
+            "index_type": "미상",
+            "quartile": "미상",
+            "pubdate": "2025-09-01",
+            "authors": [
+              "Chung Y",
+              "Petterson S",
+              "Dai M"
+            ],
+            "citation_count": 2,
+            "rcr": null,
+            "volume": "38",
+            "issue": "5",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/41491567/",
+            "altmetric_score": 0,
+            "altmetric_news": 0,
+            "altmetric_social": 0,
+            "is_current_issue": true,
+            "hot_score": 20.7,
+            "field": "emergency",
+            "field_label": "응급의학",
+            "abstract": "OBJECTIVE: Continuity of primary care reduces costs and hospitalizations over 1-year periods, but its long-term effects remain unclear, a key concern for value-based payment. We examined associations between physician-level continuity and health care expenditures/utilization across single- and multi-year measurement periods. DESIGN: Retrospective cohort study using 2011 to 2017 Medicare Fee-for-Service (FFS) claims. We constructed physician-level continuity measures over 1- to 5-year lookback periods. Generalized linear models estimated associations with total Medicare Part A & B expenditures, and logit models assessed hospitalization and emergency department (ED) visits, adjusting for patient and physician characteristics. SETTING & PARTICIPANTS: Nationally representative sample of 4,940 primary care practices, including 1.1 to 2.5 million Medicare FFS beneficiaries seen by 6,758-14,949 physicians. RESULTS: Beneficiaries in the highest continuity quintile had 7.4%-10.4% lower total expenditures than those in the lowest quintile, with the greatest difference in the 1-year lookback. Hospitalization and ED visit odds were 5.5%-8.6% and 4.9%-6.3% lower, respectively, for high-continuity physicians. Effects attenuated slightly with longer lookbacks. CONCLUSION: Physician continuity is consistently associated with lower costs, hospitalizations, and ED visits across lookback periods. Given this stability and the complexity of multi-year claims measurement, a 1-year assessment may be sufficient for physician continuity evaluation and value-based payment programs.",
+            "title_ko": ""
+          },
+          "papers": [
+            {
+              "pmid": "41491567",
+              "title": "Primary Care Physician Continuity Is a Consistent Measure Associated with Lower Costs and Hospitalizations.",
+              "journal": "Journal of the American Board of Family Medicine : JABFM",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2025-09-01",
+              "authors": [
+                "Chung Y",
+                "Petterson S",
+                "Dai M"
+              ],
+              "citation_count": 2,
+              "rcr": null,
+              "volume": "38",
+              "issue": "5",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/41491567/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": true,
+              "hot_score": 20.7,
+              "field": "emergency",
+              "field_label": "응급의학",
+              "abstract": "OBJECTIVE: Continuity of primary care reduces costs and hospitalizations over 1-year periods, but its long-term effects remain unclear, a key concern for value-based payment. We examined associations between physician-level continuity and health care expenditures/utilization across single- and multi-year measurement periods. DESIGN: Retrospective cohort study using 2011 to 2017 Medicare Fee-for-Service (FFS) claims. We constructed physician-level continuity measures over 1- to 5-year lookback periods. Generalized linear models estimated associations with total Medicare Part A & B expenditures, and logit models assessed hospitalization and emergency department (ED) visits, adjusting for patient and physician characteristics. SETTING & PARTICIPANTS: Nationally representative sample of 4,940 primary care practices, including 1.1 to 2.5 million Medicare FFS beneficiaries seen by 6,758-14,949 physicians. RESULTS: Beneficiaries in the highest continuity quintile had 7.4%-10.4% lower total expenditures than those in the lowest quintile, with the greatest difference in the 1-year lookback. Hospitalization and ED visit odds were 5.5%-8.6% and 4.9%-6.3% lower, respectively, for high-continuity physicians. Effects attenuated slightly with longer lookbacks. CONCLUSION: Physician continuity is consistently associated with lower costs, hospitalizations, and ED visits across lookback periods. Given this stability and the complexity of multi-year claims measurement, a 1-year assessment may be sufficient for physician continuity evaluation and value-based payment programs.",
               "title_ko": ""
             }
           ]
@@ -8998,7 +8970,7 @@
           "impact_factor": 1.5,
           "index_type": "미상",
           "quartile": "미상",
-          "paper_count": 11,
+          "paper_count": 12,
           "top_paper": {
             "pmid": "41362590",
             "title": "Cognitive Burden in Emergency Care: A Qualitative Exploratory Study of Emergency Nurses.",
@@ -9168,6 +9140,34 @@
               "title_ko": ""
             },
             {
+              "pmid": "42929229",
+              "title": "Phubbing and Caring Behaviors Among Emergency Nurses: The Mediating Role of Emotional Exhaustion.",
+              "journal": "Journal of nursing management",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2026-01-01",
+              "authors": [
+                "Lin T",
+                "Ye Q",
+                "Gao Y"
+              ],
+              "citation_count": 0,
+              "rcr": null,
+              "volume": "2026",
+              "issue": "1",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/42929229/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": true,
+              "hot_score": 10.0,
+              "field": "emergency",
+              "field_label": "응급의학",
+              "abstract": "BACKGROUND: Phubbing (phone snubbing) in high-pressure emergency department (ED) settings is associated with nurse-patient interaction challenges and patient safety concerns; however, its underlying process remains unclear. AIM: Grounded in the job demands-resources model, in this study, we explored the relationship between phubbing and caring behaviors among ED nurses, tested the mediating role of emotional exhaustion, and identified potential intervention targets to inform nursing management practice. DESIGN: A multicenter cross-sectional study. METHODS: Between March and June 2025, 512 ED nurses from 18 hospitals across five geographic-economic tiers in Sichuan Province, China, were recruited via stratified multistage cluster sampling. Data were collected using the Chinese versions of the generic scale of phubbing (GSP), caring behaviors scale-24 (CBS-24), Maslach Burnout Inventory-General Survey (MBI-GS), and a demographic questionnaire. Common method bias was assessed using Harman's single-factor test and the marker-variable technique. Hierarchical regression and bootstrap methods were used to test the mediating effect of emotional exhaustion. RESULTS: The mean GSP, CBS-24, and emotional exhaustion scores were 4.28 ± 0.88, 4.52 ± 0.46, and 3.18 ± 0.82, respectively. Hierarchical regression showed that, after controlling for demographics, phubbing was negatively associated with caring behaviors (β = -0.203, p < 0.001), explaining an additional 5.2% of variance. After emotional exhaustion was added, the direct association of phubbing decreased to β = -0.138 (p = 0.002). Emotional exhaustion was negatively associated with caring behaviors (β = -0.267, p < 0.001), explaining an additional 6.8% of variance. Bootstrap analysis indicated that emotional exhaustion partially mediated the relationship (indirect effect = -0.089, 95% CI [-0.126, -0.056]), accounting for 43.8% of the total effect. CONCLUSIONS: Phubbing is significantly associated with lower caring behaviors among ED nurses and is indirectly associated with lower caring behaviors through emotional exhaustion. Emotional exhaustion is a potential intervening node for nursing managers.",
+              "title_ko": ""
+            },
+            {
               "pmid": "42897819",
               "title": "Experiences and Coping Strategies of Emergency Department Nurses Regarding Unethical Pro-Organizational Behavior: A Descriptive Qualitative Study.",
               "journal": "Journal of nursing management",
@@ -9221,34 +9221,6 @@
               "field": "emergency",
               "field_label": "응급의학",
               "abstract": "BACKGROUND: Telephone triage at emergency medical dispatch centers (EMDCs) is often challenging for registered nurses (RNs), and some calls may be difficult to handle. To enable education and interventions for call-taking RNs, lessons can be learned by studying authentic calls. AIM: The aim of this study was to describe the strategies used by RNs in difficult calls to EMDCs. METHODS: Call data from 2022 to 2023 were extracted for 14 RNs at three EMDCs in Sweden. Difficult calls were identified based on prior research and operationalized primarily using keyword searches in the free text call notes. During the study period, the 14 RNs handled 27,805 calls. Of these calls, 4888 (17.6%) were identified as potentially difficult and RNs needed to apply different strategies to handle them. A purposive selection of 123 calls was extracted, anonymized, and a deductive content analysis was performed. RESULTS: The present RNs used eight strategies to handle difficult calls. The most used strategies among the 123 calls were \"pick up signs to understand the cause of the caller's problem\" (used in 76% of calls) and \"stay calm and focused\" (55%). It was common that RNs applied several strategies during one call, especially if the call was about psychiatric illnesses, including expressions of suicidal intent and calls with vague descriptions of symptoms. Single strategies were used in 20% of calls, combinations of two strategies were used in 50% of calls, while three or more strategies were used in 29% of calls. CONCLUSIONS: RNs typically used combinations of several strategies in handling difficult calls. It is, however, unknown if these strategies were the most appropriate and how they were experienced by callers. IMPLICATIONS FOR NURSING MANAGEMENT: RNs need continuous professional development, support from nurse managers and their organization, and further improvements in technical aids to support their handling of difficult calls.",
-              "title_ko": ""
-            },
-            {
-              "pmid": "41355852",
-              "title": "Head Nurses' Leadership Styles and Emergency Department Nurses' Clinical Professional Autonomy in Iranian University Hospitals: A Cross-Sectional Study.",
-              "journal": "Journal of nursing management",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2025-11-29",
-              "authors": [
-                "Omidvar M",
-                "Norouzinia R",
-                "Aghabarary M"
-              ],
-              "citation_count": 1,
-              "rcr": null,
-              "volume": "2025",
-              "issue": "",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/41355852/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": false,
-              "hot_score": 6.8,
-              "field": "emergency",
-              "field_label": "응급의학",
-              "abstract": "INTRODUCTION: Nurses' clinical professional autonomy is strongly influenced by organizational management and leadership environments. This study aims to examine the relationship between head nurses' leadership styles and the level of clinical autonomy perceived by emergency department (ED) nurses in Iranian university hospitals. METHODS: This cross-sectional study recruited 221 ED nurses from Alborz province (Iran) university hospitals through convenience sampling from February to March 2022. Data were collected using a three-section questionnaire that covered demographic and work-related characteristics, the Multifactor Leadership Questionnaire (MLQ), and the Clinical Professional Autonomy Scale. Following psychometric validation in our sample, the MLQ consisted of 32 items assessing transformational, transactional, and laissez-faire leadership (Cronbach's α = 0.71-0.95). Clinical professional autonomy was measured with the 31-item Clinical Professional Autonomy Scale (α > 0.70), with total scores classified as low, moderate, or high. RESULTS: The mean (SD) of clinical professional autonomy (0-100 scale) was 78.68 (12.73). Transformational leadership was reported as the dominant style among head nurses (72.41 ± 18.58). The results showed the strongest correlation between transformational leadership style and clinical professional autonomy (r = 0.57). Furthermore, the multivariable linear regression analysis showed that clinical professional autonomy was significantly associated with job satisfaction (β = 0.17, p=0.026) and nurses' years of work experience (β = 0.23, p=0.002). CONCLUSION: This study highlights that head nurses' transformational leadership style significantly enhances nurses' clinical professional autonomy. The findings underscore the need for targeted leadership development programs to strengthen head nurses' transformational leadership competencies. By fostering a supportive leadership environment, clinical professional nursing autonomy can be promoted, contributing to improved patient care quality and overall organizational performance.",
               "title_ko": ""
             }
           ]
@@ -9822,29 +9794,29 @@
           ]
         },
         {
-          "journal": "Journal of the American Board of Family Medicine : JABFM",
+          "journal": "Critical care science",
           "impact_factor": 1.5,
           "index_type": "미상",
           "quartile": "미상",
-          "paper_count": 2,
+          "paper_count": 10,
           "top_paper": {
-            "pmid": "41491567",
-            "title": "Primary Care Physician Continuity Is a Consistent Measure Associated with Lower Costs and Hospitalizations.",
-            "journal": "Journal of the American Board of Family Medicine : JABFM",
+            "pmid": "41417414",
+            "title": "Stepwise positive end-expiratory pressure titration modulates respiratory mechanics and mechanical power in mechanically ventilated adults.",
+            "journal": "Critical care science",
             "impact_factor": 1.5,
             "index_type": "미상",
             "quartile": "미상",
-            "pubdate": "2025-09-01",
+            "pubdate": "2025-12-19",
             "authors": [
-              "Chung Y",
-              "Petterson S",
-              "Dai M"
+              "Gallardo A",
+              "Alcaráz M",
+              "Díaz-Cabrera A"
             ],
             "citation_count": 2,
             "rcr": null,
-            "volume": "38",
-            "issue": "5",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/41491567/",
+            "volume": "37",
+            "issue": "",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/41417414/",
             "altmetric_score": 0,
             "altmetric_news": 0,
             "altmetric_social": 0,
@@ -9852,28 +9824,28 @@
             "hot_score": 10.7,
             "field": "emergency",
             "field_label": "응급의학",
-            "abstract": "OBJECTIVE: Continuity of primary care reduces costs and hospitalizations over 1-year periods, but its long-term effects remain unclear, a key concern for value-based payment. We examined associations between physician-level continuity and health care expenditures/utilization across single- and multi-year measurement periods. DESIGN: Retrospective cohort study using 2011 to 2017 Medicare Fee-for-Service (FFS) claims. We constructed physician-level continuity measures over 1- to 5-year lookback periods. Generalized linear models estimated associations with total Medicare Part A & B expenditures, and logit models assessed hospitalization and emergency department (ED) visits, adjusting for patient and physician characteristics. SETTING & PARTICIPANTS: Nationally representative sample of 4,940 primary care practices, including 1.1 to 2.5 million Medicare FFS beneficiaries seen by 6,758-14,949 physicians. RESULTS: Beneficiaries in the highest continuity quintile had 7.4%-10.4% lower total expenditures than those in the lowest quintile, with the greatest difference in the 1-year lookback. Hospitalization and ED visit odds were 5.5%-8.6% and 4.9%-6.3% lower, respectively, for high-continuity physicians. Effects attenuated slightly with longer lookbacks. CONCLUSION: Physician continuity is consistently associated with lower costs, hospitalizations, and ED visits across lookback periods. Given this stability and the complexity of multi-year claims measurement, a 1-year assessment may be sufficient for physician continuity evaluation and value-based payment programs.",
+            "abstract": "OBJECTIVE: To evaluate the impact of an ascending positive end-expiratory pressure titration strategy on respiratory mechanics and mechanical power in patients without lung injury. METHODS: An incremental positive end-expiratory pressure titration was performed in 4cmH2O steps, starting from zero end-expiratory pressure and progressing to 16cmH2O. Differences (Δ) in respiratory system static compliance, plateau pressure, driving pressure, and mechanical power were assessed during lung-protective ventilation. Mechanical power formulas proposed by Gattinoni et al. and Costa et al. were used. Analyses were also performed on the static elastic components, dynamic elastic components, total elastic power, and resistive components. RESULTS: Increasing positive end-expiratory pressure levels were associated with a progressive rise in mechanical power, plateau pressure, total and static elastic power, and a decline in compliance. Mechanical power showed strong positive correlations with: ΔPplat (p < 0.001); Δelastic dynamic power (p < 0.001); Δdriving pressure (p < 0.001); and Δtotal elastic power (p < 0.001). Δmechanical power correlated strongly with Δresistive power (p < 0.001), but not with other mechanical power components or mechanics. CONCLUSION: Progressive positive end-expiratory pressure increase in patients without lung disease significantly raises total mechanical power and its elastic components, particularly static elastic power. These changes may occur silently and without significant alterations in driving pressure or compliance.",
             "title_ko": ""
           },
           "papers": [
             {
-              "pmid": "41491567",
-              "title": "Primary Care Physician Continuity Is a Consistent Measure Associated with Lower Costs and Hospitalizations.",
-              "journal": "Journal of the American Board of Family Medicine : JABFM",
+              "pmid": "41417414",
+              "title": "Stepwise positive end-expiratory pressure titration modulates respiratory mechanics and mechanical power in mechanically ventilated adults.",
+              "journal": "Critical care science",
               "impact_factor": 1.5,
               "index_type": "미상",
               "quartile": "미상",
-              "pubdate": "2025-09-01",
+              "pubdate": "2025-12-19",
               "authors": [
-                "Chung Y",
-                "Petterson S",
-                "Dai M"
+                "Gallardo A",
+                "Alcaráz M",
+                "Díaz-Cabrera A"
               ],
               "citation_count": 2,
               "rcr": null,
-              "volume": "38",
-              "issue": "5",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/41491567/",
+              "volume": "37",
+              "issue": "",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/41417414/",
               "altmetric_score": 0,
               "altmetric_news": 0,
               "altmetric_social": 0,
@@ -9881,35 +9853,203 @@
               "hot_score": 10.7,
               "field": "emergency",
               "field_label": "응급의학",
-              "abstract": "OBJECTIVE: Continuity of primary care reduces costs and hospitalizations over 1-year periods, but its long-term effects remain unclear, a key concern for value-based payment. We examined associations between physician-level continuity and health care expenditures/utilization across single- and multi-year measurement periods. DESIGN: Retrospective cohort study using 2011 to 2017 Medicare Fee-for-Service (FFS) claims. We constructed physician-level continuity measures over 1- to 5-year lookback periods. Generalized linear models estimated associations with total Medicare Part A & B expenditures, and logit models assessed hospitalization and emergency department (ED) visits, adjusting for patient and physician characteristics. SETTING & PARTICIPANTS: Nationally representative sample of 4,940 primary care practices, including 1.1 to 2.5 million Medicare FFS beneficiaries seen by 6,758-14,949 physicians. RESULTS: Beneficiaries in the highest continuity quintile had 7.4%-10.4% lower total expenditures than those in the lowest quintile, with the greatest difference in the 1-year lookback. Hospitalization and ED visit odds were 5.5%-8.6% and 4.9%-6.3% lower, respectively, for high-continuity physicians. Effects attenuated slightly with longer lookbacks. CONCLUSION: Physician continuity is consistently associated with lower costs, hospitalizations, and ED visits across lookback periods. Given this stability and the complexity of multi-year claims measurement, a 1-year assessment may be sufficient for physician continuity evaluation and value-based payment programs.",
+              "abstract": "OBJECTIVE: To evaluate the impact of an ascending positive end-expiratory pressure titration strategy on respiratory mechanics and mechanical power in patients without lung injury. METHODS: An incremental positive end-expiratory pressure titration was performed in 4cmH2O steps, starting from zero end-expiratory pressure and progressing to 16cmH2O. Differences (Δ) in respiratory system static compliance, plateau pressure, driving pressure, and mechanical power were assessed during lung-protective ventilation. Mechanical power formulas proposed by Gattinoni et al. and Costa et al. were used. Analyses were also performed on the static elastic components, dynamic elastic components, total elastic power, and resistive components. RESULTS: Increasing positive end-expiratory pressure levels were associated with a progressive rise in mechanical power, plateau pressure, total and static elastic power, and a decline in compliance. Mechanical power showed strong positive correlations with: ΔPplat (p < 0.001); Δelastic dynamic power (p < 0.001); Δdriving pressure (p < 0.001); and Δtotal elastic power (p < 0.001). Δmechanical power correlated strongly with Δresistive power (p < 0.001), but not with other mechanical power components or mechanics. CONCLUSION: Progressive positive end-expiratory pressure increase in patients without lung disease significantly raises total mechanical power and its elastic components, particularly static elastic power. These changes may occur silently and without significant alterations in driving pressure or compliance.",
               "title_ko": ""
             },
             {
-              "pmid": "42914567",
-              "title": "Association of Patient-to-Primary Care Physician Language Concordance with Outcomes.",
-              "journal": "Journal of the American Board of Family Medicine : JABFM",
+              "pmid": "41417397",
+              "title": "The impact of a multicomponent telemedicine-based intervention on quality of life in adults with respiratory failure requiring mechanical ventilation: protocol for a cluster stepped-wedge randomized clinical trial (Tele-Rehab MV Trial).",
+              "journal": "Critical care science",
               "impact_factor": 1.5,
               "index_type": "미상",
               "quartile": "미상",
-              "pubdate": "2026-10-01",
+              "pubdate": "2025-12-15",
               "authors": [
-                "Gershengorn HB",
-                "Patel S",
-                "Carlotto AC"
+                "Pereira AJ",
+                "Moraes RB",
+                "Trott G"
               ],
-              "citation_count": 0,
+              "citation_count": 2,
               "rcr": null,
-              "volume": "39",
-              "issue": "1",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/42914567/",
+              "volume": "37",
+              "issue": "",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/41417397/",
               "altmetric_score": 0,
               "altmetric_news": 0,
               "altmetric_social": 0,
-              "is_current_issue": true,
-              "hot_score": 10.0,
+              "is_current_issue": false,
+              "hot_score": 10.7,
               "field": "emergency",
               "field_label": "응급의학",
-              "abstract": "BACKGROUND: Patient-clinician language concordance impacts healthcare experiences and outcomes. The association of patient-primary care physician (PCP) language concordance with resource use is understudied. METHODS: We conducted a retrospective study of adults with a PCP visit from January 2020 through March 2023 at UHealth. Our primary exposure was patient-PCP language concordance. Our primary outcome was emergency department (ED) visit within 1 year after PCP encounter. We used multivariable regression modeling, with sensitivity and exploratory analyses to investigate the interplay of language concordance, preferred language (English/Spanish), and ethnicity. RESULTS: We included 22,093 patients across 48 PCPs (29 [60.4%] with Spanish language ability). 21,034 (95.2%) were in language concordant patient-PCP dyads and 3,155 (15.0%) preferred Spanish; language concordant patients were less commonly Hispanic (45.8% vs 94.4%, SMD 1.29). Language concordance was associated with lower odds of 1-year ED visit (unadjusted rate: 6.7% vs 9.3%, SMD 0.09, P = 0.002; adjusted OR [95% CI]: 0.77 [0.61, 0.97]). Sensitivity analyses using a more nuanced exposure (English-English concordance = reference; Spanish-Spanish concordance, OR [95% CI]: 1.43 [1.23, 1.66]; discordance, OR [95% CI]: 1.43 [1.13, 1.80]) and, separately, restricting the cohort to Spanish-speaking patients (language concordance, OR [95% CI]: 0.99 [0.76, 1.29]) as well as an exploratory analysis adding preferred language to the primary model (language concordance, OR [95% CI]: 1.00 [0.78, 1.29]) suggested the association of language concordance was fully confounded by preferred language. Ethnicity had less of an effect. CONCLUSIONS: Patient-PCP language concordance is associated with a reduced odds of 1-year ED visit. But as this association was not observed within the subcohort of only Spanish-speaking patients, it appears to be fully confounded by patient preferred language.",
+              "abstract": "OBJECTIVE: To assess the impact of a multicomponent intervention on the health-related quality of life of patients with hypoxemic respiratory failure requiring invasive mechanical ventilation. METHODS: A cluster stepped-wedge randomized clinical trial will be conducted in intensive care units across Brazil. Intensive care units with ≥ 8 beds and the capacity to admit patients with acute hypoxemic respiratory failure will be included. Within each intensive care unit, adult patients with acute hypoxemic respiratory failure requiring invasive mechanical ventilation, in whom SARS-CoV-2 infection is part of the differential diagnosis, will be enrolled. The intervention consists of a telemedicine-based quality improvement program focused on disability prevention and rehabilitation strategies, implemented during the patient's intensive care unit stay, continued through ward admission, and extending up to 2 months post-hospital discharge. The primary outcome is health-related quality of life assessed using the EuroQol 5-Dimension 3-Level scale 90 days after discharge from the hospital. Secondary outcomes include rehospitalization within 30 days from hospital discharge, as well as all-cause mortality, anxiety, depression, cognitive impairment, new disabilities for instrumental activities of daily living, and return to work or studies 90 days after discharge from the hospital. RESULTS: The study protocol has been approved by the research ethics committees of all participant institutions. It was registered at ClinicalTrials.gov (NCT06343545) before the first participant was included. We aim to disseminate the findings through conferences and peer-reviewed journals. CONCLUSION: The \"Tele-Rehab MV trial\" may provide further information on the role of early multicomponent interventions aimed at disability prevention and rehabilitation for critically ill patients with acute hypoxemic respiratory failure.",
+              "title_ko": ""
+            },
+            {
+              "pmid": "39775432",
+              "title": "Long-term mortality of Dutch COVID-19 patients admitted to the intensive care medicine: a retrospective analysis from a national quality registry.",
+              "journal": "Critical care science",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2024-12-20",
+              "authors": [
+                "Wortel SA",
+                "Bakhshi-Raiez F",
+                "Abu-Hanna A"
+              ],
+              "citation_count": 2,
+              "rcr": 0.5430979569656833,
+              "volume": "36",
+              "issue": "",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/39775432/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 10.7,
+              "field": "emergency",
+              "field_label": "응급의학",
+              "abstract": "OBJECTIVE: To describe the 12-month mortality of Dutch COVID-19 intensive care unit patients, the total COVID-19 population and various subgroups on the basis of the number of comorbidities, age, sex, mechanical ventilation, and vasoactive medication use. METHODS: We included all patients admitted with COVID-19 between March 1, 2020, and March 29, 2022, from the Dutch National Intensive Care (NICE) database. The crude 12-month mortality rate is presented via Kaplan-Meier survival curves for each patient subgroup. We used Cox regression models to analyze the effects of patient characteristics on 12-month mortality after hospital discharge. RESULTS: We included 16,605 COVID-19 patients. The in-hospital mortality rate was 28.1%, and the 12-month mortality rate after intensive care unit admission was 29.8%. Among hospital survivors, 12-month mortality after hospital discharge was 2.5% (300/11,931). The hazard of death at 12 months after hospital discharge was greater in patients between 60 and 79 years (HR 4.74; 95%CI 2.23 - 10.06) and ≥ 80 years (HR 22.77; 95%CI 9.91 - 52.28) than in patients < 40 years of age; in male patients than in female patients (HR 1.38; 95%CI 1.07 - 1.78); and in patients with one (adjusted HR 1.95; 95%CI 1.5 - 2.53), two (adjusted HR 4.49; 95%CI 3.27 - 6.16) or more than two comorbidities (adjusted HR 4.99; 95%CI 2.62 - 9.5) than in patients with no comorbidities. Neither vasoactive medication use nor mechanical ventilation resulted in statistically significant results. CONCLUSION: For Dutch COVID-19 intensive care unit patients, most deaths occurred during their hospital stay. For hospital survivors, the crude 12-month mortality rate was low. Patient age (older than 60), sex and the number of comorbidities were associated with a greater hazard of death at 12 months after hospital discharge, whereas mechanical ventilation and vasoactive medication were not.",
+              "title_ko": ""
+            },
+            {
+              "pmid": "41416916",
+              "title": "Comparison of the effect of a lower versus a higher PEEP strategy on clinically relevant outcomes in invasively ventilated patients without acute respiratory distress syndrome: statistical re-analysis plan of the RELAx trial using a Bayesian framework.",
+              "journal": "Critical care science",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2025-12-15",
+              "authors": [
+                "Caroli A",
+                "Algera AG",
+                "Meenen DV"
+              ],
+              "citation_count": 1,
+              "rcr": null,
+              "volume": "37",
+              "issue": "",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/41416916/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 6.8,
+              "field": "emergency",
+              "field_label": "응급의학",
+              "abstract": "BACKGROUND: The effect of different levels of positive end-expiratory pressure in invasively ventilated critically ill patients remains a matter of debate. The REstricted versus Liberal Positive End-Expiratory Pressure in Patients Without ARDS (RELAx) is a multicentric, randomized trial comparing a lower positive end-expiratory pressure strategy versus a higher positive end-expiratory pressure strategy in ventilated patients without acute respiratory distress syndrome, which demonstrated non-inferiority of lower positive end-expiratory pressure compared to higher positive end-expiratory pressure on ventilator-free days. The primary analysis was published in 2020, and a frequentist statistical approach was applied. AIM: To present the protocol of the Bayesian analysis plan that will be used to re-analyse the RELAx trial to provide complementary and additional insight into this clinical trial. METHODS: This re-analysis will focus on the probability of superiority of the intervention. As an ordinal variable, the primary outcome will be ventilator-free days at day 28, and posterior estimates will be obtained by fitting a hierarchical cumulative logistic regression model. Secondary outcomes will be mortality at day 28, as a binary outcome, and ventilation duration, as a continuous outcome. We will adopt neutral, pessimistic, and optimistic priors informed by current literature, and a fourth prior derived from an expert's survey. Probability thresholds will be defined for superiority, severe harm, and a region of practical equivalence. DISCUSSION: The RELAx trial findings raise the hypothesis that a lower positive end-expiratory pressure strategy may be at least as effective, if not superior, in specific patient-centred outcomes. This analysis is designed to augment and contextualize the original frequentist analysis of the largest randomized trial comparing positive end-expiratory pressure strategies in non-acute respiratory distress syndrome patients. Results will be presented with a continuum of credible intervals and probabilities of effects to facilitate a nuanced interpretation. We offer clinically meaningful insights that complement and extend the trial's original analysis by reporting probabilities of benefit, harm, and equivalence.",
+              "title_ko": ""
+            },
+            {
+              "pmid": "39630830",
+              "title": "Differences in the relative importance of predictors of short- and long-term mortality among critically ill patients with cancer.",
+              "journal": "Critical care science",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2024-12-02",
+              "authors": [
+                "Silva CMDD",
+                "Bettim BB",
+                "Besen BAMP"
+              ],
+              "citation_count": 1,
+              "rcr": 0.25892525984356146,
+              "volume": "36",
+              "issue": "",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/39630830/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 6.8,
+              "field": "emergency",
+              "field_label": "응급의학",
+              "abstract": "OBJECTIVE: To identify the relative importance of several clinical variables present at intensive care unit admission on the short- and long-term mortality of critically ill patients with cancer after unplanned intensive care unit admission. METHODS: This was a retrospective cohort study of patients with cancer with unplanned intensive care unit admission from January 2017 to December 2018. We developed models to analyze the relative importance of well-known predictors of mortality in patients with cancer admitted to the intensive care unit compared with mortality at 28, 90, and 360 days after intensive care unit admission, both in the full cohort and stratified by the type of cancer when the patient was admitted to the intensive care unit. RESULTS: Among 3,592 patients, 3,136 (87.3%) had solid tumors, and metastatic disease was observed in 60.8% of those patients. A total of 1,196 (33.3%), 1,738 (48.4%), and 2,435 patients (67.8%) died at 28, 90, and 360 days, respectively. An impaired functional status was the greatest contribution to mortality in the short term for all patients and in the short and long term for the subgroups of patients with solid tumors. For patients with hematologic malignancies, the use of mechanical ventilation was the most important variable associated with mortality in all study periods. The SOFA score at admission was important for mortality prediction only for patients with solid metastatic tumors and hematological malignancies. The use of vasopressors and renal replacement therapy had a small importance in predicting mortality at every time point analyzed after the SOFA score was accounted for. CONCLUSION: Healthcare providers must consider performance status, the use of mechanical ventilation, and the severity of illness when discussing prognosis, preferences for care, and end-of-life care planning with patients or their families during intensive care unit stays.",
+              "title_ko": ""
+            },
+            {
+              "pmid": "39630827",
+              "title": "Changes in central venous pressure during a fluid challenge have limited value for guiding fluid therapy.",
+              "journal": "Critical care science",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2024-12-02",
+              "authors": [
+                "de Oliveira PS",
+                "Ramos FJDS",
+                "Tomotani DYV"
+              ],
+              "citation_count": 1,
+              "rcr": 0.34820491429802003,
+              "volume": "36",
+              "issue": "",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/39630827/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 6.8,
+              "field": "emergency",
+              "field_label": "응급의학",
+              "abstract": "OBJECTIVE: To evaluate whether changes in central venous pressure during fluid expansion and baseline cyclic respiratory variation in the central venous pressure amplitude (RespCVP) curve could be used to discriminate between fluid responders and nonresponders. METHODS: This prospective observational study included critically ill adult patients who underwent fluid expansion in the form of a fluid bolus or fluid challenge with crystalloids. All patients were under mechanical ventilation and adequately sedated. We determined the central venous pressure at baseline (CVPT0) and the changes at 5 (ΔCVPT5), 10 (ΔCVPT10) and 15 (ΔCVPT15) minutes during fluid infusion. We also measured the RespCVP at baseline. Fluid responsiveness was defined as a cardiac index increase of ≥ 15%. RESULTS: The study included 30 patients (11 responders and 19 nonresponders). The CVPT0 and the changes after a fluid challenge at all three time points did not adequately predict fluid responsiveness, as determined by their area under the curve values (CVPT0: 0.70, (95%CI: 0.49 - 0.90; ΔCVPT5: 0.78, (95%CI: 0.57 - 0.99; ΔCVPT10: 0.63, (95%CI: 0.39 - 0.88; ΔCVPT15: 0.68, ((95%CI: 0.45 - 0.92). The RespCVP at baseline also had a poor performance (area under the curve: 0.70; 95%CI: 0.50 - 0.91). CONCLUSION: Changes in central venous pressure have limited value in predicting fluid responsiveness.",
+              "title_ko": ""
+            },
+            {
+              "pmid": "42912021",
+              "title": "Statistical analysis plan for transfusion of modified whole blood versus blood components therapy in patients with severe trauma: randomized controlled trial - WEBSTER trial.",
+              "journal": "Critical care science",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2026-10-16",
+              "authors": [
+                "García AF",
+                "Gempeler A",
+                "Caicedo EY"
+              ],
+              "citation_count": 0,
+              "rcr": null,
+              "volume": "38",
+              "issue": "",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/42912021/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 0.0,
+              "field": "emergency",
+              "field_label": "응급의학",
+              "abstract": "BACKGROUND: Hemostatic resuscitation with modified whole blood is an alternative to balanced blood-component therapy for trauma patients with hemorrhagic shock, with potential efficacy and logistical advantages. The WEBSTER trial was designed to compare these interventions in patients with trauma hemorrhagic shock. METHODS: Single-center, open-label, parallel-group randomized clinical trial comparing whole blood with blood components in adults with trauma hemorrhagic shock. PRIMARY OUTCOME: hierarchical composite of all-cause 28-day mortality and SOFA score during the first 5 days after randomization. We will estimate treatment effects using a win-ratio analysis that prioritizes mortality. Primary analysis follows the intention-to-treat principle; secondary analyses in as-treated and per-protocol populations are planned. Secondary outcomes include mortality at additional time points, organ dysfunction metrics, coagulation parameters, transfusion requirements, and adverse events. RESULTS: Primary outcome analyses will report win ratios, and secondary outcomes will be analyzed with hypothesis tests or regression time-to-event models; 95% confidence intervals will accompany all estimates. We do not plan formal adjustment for multiplicity because the outcomes share the same underlying construct. All outcomes will be interpreted in the context of the overall pattern of results. CONCLUSION: This statistical analysis plan prespecifies transparent methods to assess the effect of whole blood versus blood-component therapy in trauma patients. The hierarchical framework, complementary sensitivity analyses and comprehensive interpretation are intended to provide a robust and clinically meaningful assessment of whole blood effects.",
+              "title_ko": ""
+            },
+            {
+              "pmid": "42820513",
+              "title": "Invasive mechanical ventilation, functional decline at pediatric intensive care unit discharge, and post-discharge mortality in critically ill pediatric cancer patients: a retrospective cohort study.",
+              "journal": "Critical care science",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2026-09-28",
+              "authors": [
+                "da Cunha-Martins BSM",
+                "da Cunha RSM",
+                "Lanziotti VS"
+              ],
+              "citation_count": 0,
+              "rcr": null,
+              "volume": "38",
+              "issue": "",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/42820513/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 0.0,
+              "field": "emergency",
+              "field_label": "응급의학",
+              "abstract": "OBJECTIVE: To evaluate the association between invasive mechanical ventilation use, functional capacity, and 12-month mortality in critically ill children with cancer after a pediatric intensive care unit stay. METHODS: We conducted a single-center, retrospective cohort study of critically ill children with cancer admitted to the pediatric intensive care unit from January 2018 to December 2022. We applied the Functional Status Scale to classify functional capacity before pediatric intensive care unit admission and at discharge, and to determine the onset of new morbidities. We assessed the association between invasive mechanical ventilation use and the development of new morbidity (defined as an increase of at least three points in the Functional Status Scale at discharge, and as an increase of at least two points in any domain of Functional Status Scale at discharge), between invasive mechanical ventilation use and 12-month mortality after pediatric intensive care unit discharge, and of the onset of new morbidities and mortality during the same period. RESULTS: We included 423 patients, of whom 176 (41%) used invasive mechanical ventilation. The frequency of new morbidities was higher in the mechanically ventilated patients (39.2% versus 4.8%; p < 0.001). Invasive mechanical ventilation use was associated with the development of new morbidity (adjusted OR = 13; 95%CI = 6.6 - 27.3; p < 0.001). New morbidity was associated with increased mortality at 12 months after pediatric intensive care unit discharge (adjusted OR = 2.1; 95%CI = 1.2 - 3.7; p = 0.013), but mechanical ventilation was not. CONCLUSION: Critically ill children with cancer who required invasive mechanical ventilation during pediatric intensive care unit stay had 13-fold higher odds of developing new morbidities. The onset of new morbidity was associated with doubled odds of death within 12 months after pediatric intensive care unit discharge. However, invasive mechanical ventilation use was not directly associated with 12-month mortality.",
               "title_ko": ""
             }
           ]
@@ -9918,13 +10058,15 @@
       "hot_topics": [
         {
           "phrase": "mechanical ventilation",
-          "score": 94.7,
-          "paper_count": 4,
+          "score": 105.4,
+          "paper_count": 6,
           "pmids": [
             "39694585",
             "39642139",
             "39661844",
-            "41905394"
+            "41905394",
+            "41417397",
+            "42820513"
           ]
         },
         {
@@ -9972,6 +10114,18 @@
           ]
         },
         {
+          "phrase": "critically ill",
+          "score": 45.0,
+          "paper_count": 5,
+          "pmids": [
+            "39671440",
+            "39699429",
+            "42902295",
+            "39630830",
+            "42820513"
+          ]
+        },
+        {
           "phrase": "deep learning",
           "score": 44.6,
           "paper_count": 2,
@@ -10004,10 +10158,11 @@
         {
           "phrase": "intensive unit",
           "score": 39.2,
-          "paper_count": 2,
+          "paper_count": 3,
           "pmids": [
             "39787549",
-            "41370468"
+            "41370468",
+            "42820513"
           ]
         },
         {
@@ -10017,16 +10172,6 @@
           "pmids": [
             "39671440",
             "41938541"
-          ]
-        },
-        {
-          "phrase": "critically ill",
-          "score": 38.2,
-          "paper_count": 3,
-          "pmids": [
-            "39671440",
-            "39699429",
-            "42902295"
           ]
         },
         {
@@ -10093,12 +10238,12 @@
             ]
           },
           {
-            "phrase": "trauma center",
+            "phrase": "first aid",
             "scores": [
               0.0,
-              33.6,
-              10.0,
-              30.0
+              46.4,
+              26.8,
+              0.0
             ]
           }
         ]
