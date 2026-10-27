@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-26T23:43:35.168353Z",
+  "generated_at": "2026-10-27T23:39:13.664165Z",
   "window_days": 1095,
   "fields": [
     {
       "key": "preventive",
       "label": "예방의학",
-      "paper_count": 454,
+      "paper_count": 455,
       "journals": [
         {
           "journal": "The Orthopedic clinics of North America",
@@ -490,7 +490,7 @@
           "impact_factor": 1.5,
           "index_type": "미상",
           "quartile": "미상",
-          "paper_count": 90,
+          "paper_count": 83,
           "top_paper": {
             "pmid": "39949340",
             "title": "Analysis of factors influencing HPV vaccination intention among Chinese college students: structural equation modeling based on health belief theory.",
@@ -1961,6 +1961,71 @@
           ]
         },
         {
+          "journal": "Journal of the Indian Society of Pedodontics and Preventive Dentistry",
+          "impact_factor": 1.5,
+          "index_type": "미상",
+          "quartile": "미상",
+          "paper_count": 1,
+          "top_paper": {
+            "pmid": "39798110",
+            "title": "Effectiveness of visual pedagogy in improving toothbrushing skills, oral hygiene and gingival health among children with autism- A randomised controlled trial.",
+            "journal": "Journal of the Indian Society of Pedodontics and Preventive Dentistry",
+            "impact_factor": 1.5,
+            "index_type": "미상",
+            "quartile": "미상",
+            "pubdate": "2025-01-11",
+            "authors": [
+              "Subhashree T",
+              "Yashoda R",
+              "Puranik MP"
+            ],
+            "citation_count": 2,
+            "rcr": 1.178864376518518,
+            "volume": "42",
+            "issue": "4",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/39798110/",
+            "altmetric_score": 0,
+            "altmetric_news": 0,
+            "altmetric_social": 0,
+            "is_current_issue": true,
+            "hot_score": 21.0,
+            "field": "preventive",
+            "field_label": "예방의학",
+            "abstract": "BACKGROUND: Autism is a neurodevelopmental disability that diminishes social interactions and communication. Maintaining good oral hygiene in them is a significant task. OBJECTIVES: The objective of this study was to evaluate the effectiveness of a toothbrushing visual pedagogy (TBVP) in improving brushing skills, oral hygiene, and gingival status among children with autism. MATERIALS AND METHODS: This cluster randomized controlled trial was conducted among 200 children with autism, aged 6-17 years. TBVP and conventional oral hygiene instructions were administered as an intervention in the test group (TBVP). The control group (oral health education [OHE]) received conventional oral hygiene instructions. Assessment of toothbrushing skills, plaque, and gingival status were carried out at baseline, 30-, 60-, and 90-days. The data were analyzed using t-tests in SPSS version 26 software at P < 0.05. RESULTS: At baseline, there was no significant difference between the groups in toothbrushing skills, plaque, and gingival scores. Postintervention, there was a significant improvement in the TBVP group compared to the OHE group. At 90 days, the mean toothbrushing scores of TBVP group were significantly higher (22.49 ± 6.70) than the OHE group (18.35 ± 6.82). Plaque scores were significantly lower (1.31 ± 0.48) in the TBVP group than the OHE group (1.47 ± 0.50). Gingival scores were significantly lower (1.38 ± 0.48) in the TBVP group than the OHE group (1.56 ± 0.51) (P < 0.05). CONCLUSION: The TBVP was effective in improving the toothbrushing skills, oral hygiene, and gingival health of the children with autism. Hence, it can be used for behavioural guidance in toothbrushing for these children to maintain their oral hygiene.",
+            "title_ko": "자폐 아동의 칫솔질 기술, 구강 위생 및 잇몸 건강 개선에 대한 시각 교육학의 효과- 무작위 대조 시험."
+          },
+          "papers": [
+            {
+              "pmid": "39798110",
+              "title": "Effectiveness of visual pedagogy in improving toothbrushing skills, oral hygiene and gingival health among children with autism- A randomised controlled trial.",
+              "journal": "Journal of the Indian Society of Pedodontics and Preventive Dentistry",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2025-01-11",
+              "authors": [
+                "Subhashree T",
+                "Yashoda R",
+                "Puranik MP"
+              ],
+              "citation_count": 2,
+              "rcr": 1.178864376518518,
+              "volume": "42",
+              "issue": "4",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/39798110/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": true,
+              "hot_score": 21.0,
+              "field": "preventive",
+              "field_label": "예방의학",
+              "abstract": "BACKGROUND: Autism is a neurodevelopmental disability that diminishes social interactions and communication. Maintaining good oral hygiene in them is a significant task. OBJECTIVES: The objective of this study was to evaluate the effectiveness of a toothbrushing visual pedagogy (TBVP) in improving brushing skills, oral hygiene, and gingival status among children with autism. MATERIALS AND METHODS: This cluster randomized controlled trial was conducted among 200 children with autism, aged 6-17 years. TBVP and conventional oral hygiene instructions were administered as an intervention in the test group (TBVP). The control group (oral health education [OHE]) received conventional oral hygiene instructions. Assessment of toothbrushing skills, plaque, and gingival status were carried out at baseline, 30-, 60-, and 90-days. The data were analyzed using t-tests in SPSS version 26 software at P < 0.05. RESULTS: At baseline, there was no significant difference between the groups in toothbrushing skills, plaque, and gingival scores. Postintervention, there was a significant improvement in the TBVP group compared to the OHE group. At 90 days, the mean toothbrushing scores of TBVP group were significantly higher (22.49 ± 6.70) than the OHE group (18.35 ± 6.82). Plaque scores were significantly lower (1.31 ± 0.48) in the TBVP group than the OHE group (1.47 ± 0.50). Gingival scores were significantly lower (1.38 ± 0.48) in the TBVP group than the OHE group (1.56 ± 0.51) (P < 0.05). CONCLUSION: The TBVP was effective in improving the toothbrushing skills, oral hygiene, and gingival health of the children with autism. Hence, it can be used for behavioural guidance in toothbrushing for these children to maintain their oral hygiene.",
+              "title_ko": "자폐 아동의 칫솔질 기술, 구강 위생 및 잇몸 건강 개선에 대한 시각 교육학의 효과- 무작위 대조 시험."
+            }
+          ]
+        },
+        {
           "journal": "Pharmacogenomics",
           "impact_factor": 1.5,
           "index_type": "미상",
@@ -2755,7 +2820,7 @@
           "impact_factor": 1.5,
           "index_type": "미상",
           "quartile": "미상",
-          "paper_count": 17,
+          "paper_count": 15,
           "top_paper": {
             "pmid": "39981298",
             "title": "Staphylococcus aureus-specific TIGIT(+) Treg are present in the blood of healthy subjects - a hurdle for vaccination?",
@@ -3075,34 +3140,6 @@
               "title_ko": "Hereditary Hemorrhagic Telangiectasia Genes-ENG and ACVRL1에 대한 ACMG/AMP Variant Curation Guidelines의 사양."
             },
             {
-              "pmid": "40225936",
-              "title": "CAVaLRi: An Algorithm for Rapid Identification of Diagnostic Germline Variation.",
-              "journal": "Human mutation",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2024-04-29",
-              "authors": [
-                "Schuetz RJ",
-                "Antoniou AA",
-                "Lammi GE"
-              ],
-              "citation_count": 2,
-              "rcr": 0.17208820522881593,
-              "volume": "2024",
-              "issue": "",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/40225936/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": false,
-              "hot_score": 11.0,
-              "field": "preventive",
-              "field_label": "예방의학",
-              "abstract": "Clinical exome and genome sequencing (ES/GS) have become indispensable diagnostic tools for rare genetic diseases (RGD). However, the interpretation of ES/GS presents a substantial operational challenge in clinical settings. Test interpretation requires the review of hundreds of genetic variants, a task that has become increasingly challenging given the rising use of ES/GS. In response, we present Clinical Assessment of Variants by Likelihood Ratios (CAVaLRi), which employ a modified likelihood ratio (LR) framework to assign diagnostic probabilities to candidate germline disease genes. CAVaLRi models aspects of the clinical variant assessment process, taking into consideration the predicted impact of the variant, the proband and parental genotypes, and the proband's clinical characteristics. It also factors in computational phenotype noise and weighs the relative significance of genotype, phenotype, and variant segregation information. We trained and tested CAVaLRi on variant and phenotype data from an internal cohort of 655 clinical ES cases. For validation, CAVaLRi's performance was benchmarked against four leading gene prioritization algorithms (Exomiser's hiPHIVE and PhenIX prioritizers, LIRICAL, and XRare) using a distinct cohort of 12,832 ES cases. Our findings reveal that CAVaLRi significantly outperforms its counterparts when clinician-curated phenotype sets are used, as evidenced by its superior precision-recall curve (PR AUC: 0.701) and average diagnostic gene rank (1.59). Notably, even when substituting highly focused clinician-curated phenotype sets with large and potentially nonspecific computationally derived phenotypes, CAVaLRi retains its precision (PR AUC: 0.658; diagnostic gene average rank: 1.68) and markedly outperforms other tools. In a large, heterogeneous validation cohort, CAVaLRi stood out as the most precise prioritization algorithm (PR AUC: 0.335; average diagnostic rank: 1.91). In conclusion, CAVaLRi presents a robust solution for prioritizing diagnostic genes, surpassing current methods. It demonstrates resilience to noisy, computationally-derived phenotypes, providing a scalable strategy to help labs focus on the most diagnostically relevant variants, thus addressing the growing demand for ES/GS interpretation.",
-              "title_ko": "CAVaLRi: 진단 생식계열 변이의 신속한 식별을 위한 알고리즘."
-            },
-            {
               "pmid": "40225932",
               "title": "Biochemical and Genetic Testing of GAA in Over 30.000 Symptomatic Patients Suspected to Be Affected With Pompe Disease.",
               "journal": "Human mutation",
@@ -3157,6 +3194,34 @@
               "field_label": "예방의학",
               "abstract": "Recent advancements in the next-generation sequencing have illuminated the occurrence of multiple genetic diagnoses (MGD). While exome sequencing has provided insights, genome sequencing (GS), the most comprehensive diagnostic tool, remains underexplored for studying MGD prevalence. We retrospectively analyzed 1487 pediatric cases from our laboratory, employing GS to investigate the incidence of single definitive genetic diagnosis (SDD) and MGD in children suspected of having a genetic disease. Of these patients, 273 received at least one definitive diagnosis, including 245 with SDD (16.5%) and 28 with MGD (1.9%). Diagnostic yield was consistent across genders and unaffected by previous testing in SDD cases. Notably, prior testing significantly increased the diagnostic yield in MGD cases to 2.7% overall and 14.4% among diagnosed cases, compared to 1.1% for those with GS as a first-tier test. Age was a significant factor in diagnostic outcome for both SDD and MGD cases with neonates showing the highest diagnostic yield of 24.5% in SDD and a notably higher yield in MGD at 4.9%, representing 16.7% of the diagnosed cases. Of the 28 MGD cases, 17 exhibited distinct phenotypes, 9 had overlapping features, and 2 presented a mix, underscoring the genetic and phenotypic heterogeneity within this group. This study is the first to exclusively use GS to assess MGD prevalence. Our findings highlight the complexity of rare diseases and emphasize the importance of comprehensive, genome-level diagnostics. Clinicians must ensure that diagnoses fully account for the observed phenotypes to inform optimal therapeutic strategies and management.",
               "title_ko": "Beyond Single Diagnosis: Exploring Multidiagnostic Realities in Pediatric Patients through Genome Sequencing."
+            },
+            {
+              "pmid": "40225936",
+              "title": "CAVaLRi: An Algorithm for Rapid Identification of Diagnostic Germline Variation.",
+              "journal": "Human mutation",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2024-04-29",
+              "authors": [
+                "Schuetz RJ",
+                "Antoniou AA",
+                "Lammi GE"
+              ],
+              "citation_count": 2,
+              "rcr": 0.17208820522881593,
+              "volume": "2024",
+              "issue": "",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/40225936/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 11.0,
+              "field": "preventive",
+              "field_label": "예방의학",
+              "abstract": "Clinical exome and genome sequencing (ES/GS) have become indispensable diagnostic tools for rare genetic diseases (RGD). However, the interpretation of ES/GS presents a substantial operational challenge in clinical settings. Test interpretation requires the review of hundreds of genetic variants, a task that has become increasingly challenging given the rising use of ES/GS. In response, we present Clinical Assessment of Variants by Likelihood Ratios (CAVaLRi), which employ a modified likelihood ratio (LR) framework to assign diagnostic probabilities to candidate germline disease genes. CAVaLRi models aspects of the clinical variant assessment process, taking into consideration the predicted impact of the variant, the proband and parental genotypes, and the proband's clinical characteristics. It also factors in computational phenotype noise and weighs the relative significance of genotype, phenotype, and variant segregation information. We trained and tested CAVaLRi on variant and phenotype data from an internal cohort of 655 clinical ES cases. For validation, CAVaLRi's performance was benchmarked against four leading gene prioritization algorithms (Exomiser's hiPHIVE and PhenIX prioritizers, LIRICAL, and XRare) using a distinct cohort of 12,832 ES cases. Our findings reveal that CAVaLRi significantly outperforms its counterparts when clinician-curated phenotype sets are used, as evidenced by its superior precision-recall curve (PR AUC: 0.701) and average diagnostic gene rank (1.59). Notably, even when substituting highly focused clinician-curated phenotype sets with large and potentially nonspecific computationally derived phenotypes, CAVaLRi retains its precision (PR AUC: 0.658; diagnostic gene average rank: 1.68) and markedly outperforms other tools. In a large, heterogeneous validation cohort, CAVaLRi stood out as the most precise prioritization algorithm (PR AUC: 0.335; average diagnostic rank: 1.91). In conclusion, CAVaLRi presents a robust solution for prioritizing diagnostic genes, surpassing current methods. It demonstrates resilience to noisy, computationally-derived phenotypes, providing a scalable strategy to help labs focus on the most diagnostically relevant variants, thus addressing the growing demand for ES/GS interpretation.",
+              "title_ko": "CAVaLRi: 진단 생식계열 변이의 신속한 식별을 위한 알고리즘."
             }
           ]
         },
@@ -4840,71 +4905,6 @@
               "title_ko": "[건강증진, 공중보건교육, 에듀커뮤니케이션, 건강리터러시 간의 융합]."
             }
           ]
-        },
-        {
-          "journal": "Nutrition (Burbank, Los Angeles County, Calif.)",
-          "impact_factor": 1.5,
-          "index_type": "미상",
-          "quartile": "미상",
-          "paper_count": 1,
-          "top_paper": {
-            "pmid": "42048757",
-            "title": "Mediterranean diet for the primary prevention of cardiometabolic diseases: evidence from a systematic review and meta-analysis featured in the Italian National Guidelines \"La Dieta Mediterranea\".",
-            "journal": "Nutrition (Burbank, Los Angeles County, Calif.)",
-            "impact_factor": 1.5,
-            "index_type": "미상",
-            "quartile": "미상",
-            "pubdate": "2025-08-27",
-            "authors": [
-              "Muscogiuri G",
-              "Maiorino MI",
-              "Paolini B"
-            ],
-            "citation_count": 3,
-            "rcr": null,
-            "volume": "148",
-            "issue": "",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/42048757/",
-            "altmetric_score": 0,
-            "altmetric_news": 0,
-            "altmetric_social": 0,
-            "is_current_issue": false,
-            "hot_score": 13.8,
-            "field": "preventive",
-            "field_label": "예방의학",
-            "abstract": "OBJECTIVES: The Mediterranean diet (MD) is widely recognized for its potential health benefits, yet the extent and certainty of its association with metabolic outcomes remains incompletely understood. The aim of this systematic review and meta-analysis was to evaluate the relationship between adherence to the MD and the risk or prevalence of cardiometabolic disorders in the general population, with a focus on its role in primordial and primary prevention. METHODS: This review followed PRISMA 2020 and MOOSE guidelines. A systematic search of PubMed/MEDLINE, Scopus, Embase, and the Cochrane Library was conducted through February 28, 2024. Eligible studies examined adherence to the MD in relation to the risk or prevalence of metabolic disorders. Study quality was assessed using the Newcastle-Ottawa Scale, and evidence certainty was rated with the NUTRI-GRADE framework. Pooled effect estimates were calculated using a random-effects model and reported as risk ratios (RR), hazard ratios (HR), or odds ratios (OR), as appropriate. RESULTS: Sixty studies comprising over 1.1 million participants were included. Higher MD adherence was consistently associated with a reduced risk of T2DM (RR: 0.96; 95% CI: 0.95-0.97), supported by moderate to high certainty of evidence. Similar inverse associations were observed for overweight (OR: 0.94; 95% CI: 0.91-0.97) and adult obesity (OR: 0.95; 95% CI: 0.93-0.97). The PREDIMED randomized trial further demonstrated a 20% reduction in diabetes incidence with MD intervention. Evidence for metabolic syndrome (RR: 0.98; 95% CI: 0.98-0.99) and hyperuricemia (OR: 0.43; 95% CI: 0.25-0.75) was suggestive of protective effects, though with lower certainty. Associations with hypercholesterolemia and hypertriglyceridemia were inconsistent and inconclusive. CONCLUSIONS: Adherence to the Mediterranean diet is associated with a lower risk of several metabolic disorders, particularly T2DM and obesity in adults. These findings support the inclusion of the MD in public health strategies for metabolic disease prevention. Further high-quality longitudinal and interventional studies are warranted to clarify its effects on other metabolic outcomes.",
-            "title_ko": "심대사 질환의 일차 예방을 위한 지중해 식단: 이탈리아 국가 가이드라인 \"La Dieta Mediterranea\" 에 소개된 체계적인 검토 및 메타 분석의 증거."
-          },
-          "papers": [
-            {
-              "pmid": "42048757",
-              "title": "Mediterranean diet for the primary prevention of cardiometabolic diseases: evidence from a systematic review and meta-analysis featured in the Italian National Guidelines \"La Dieta Mediterranea\".",
-              "journal": "Nutrition (Burbank, Los Angeles County, Calif.)",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2025-08-27",
-              "authors": [
-                "Muscogiuri G",
-                "Maiorino MI",
-                "Paolini B"
-              ],
-              "citation_count": 3,
-              "rcr": null,
-              "volume": "148",
-              "issue": "",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/42048757/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": false,
-              "hot_score": 13.8,
-              "field": "preventive",
-              "field_label": "예방의학",
-              "abstract": "OBJECTIVES: The Mediterranean diet (MD) is widely recognized for its potential health benefits, yet the extent and certainty of its association with metabolic outcomes remains incompletely understood. The aim of this systematic review and meta-analysis was to evaluate the relationship between adherence to the MD and the risk or prevalence of cardiometabolic disorders in the general population, with a focus on its role in primordial and primary prevention. METHODS: This review followed PRISMA 2020 and MOOSE guidelines. A systematic search of PubMed/MEDLINE, Scopus, Embase, and the Cochrane Library was conducted through February 28, 2024. Eligible studies examined adherence to the MD in relation to the risk or prevalence of metabolic disorders. Study quality was assessed using the Newcastle-Ottawa Scale, and evidence certainty was rated with the NUTRI-GRADE framework. Pooled effect estimates were calculated using a random-effects model and reported as risk ratios (RR), hazard ratios (HR), or odds ratios (OR), as appropriate. RESULTS: Sixty studies comprising over 1.1 million participants were included. Higher MD adherence was consistently associated with a reduced risk of T2DM (RR: 0.96; 95% CI: 0.95-0.97), supported by moderate to high certainty of evidence. Similar inverse associations were observed for overweight (OR: 0.94; 95% CI: 0.91-0.97) and adult obesity (OR: 0.95; 95% CI: 0.93-0.97). The PREDIMED randomized trial further demonstrated a 20% reduction in diabetes incidence with MD intervention. Evidence for metabolic syndrome (RR: 0.98; 95% CI: 0.98-0.99) and hyperuricemia (OR: 0.43; 95% CI: 0.25-0.75) was suggestive of protective effects, though with lower certainty. Associations with hypercholesterolemia and hypertriglyceridemia were inconsistent and inconclusive. CONCLUSIONS: Adherence to the Mediterranean diet is associated with a lower risk of several metabolic disorders, particularly T2DM and obesity in adults. These findings support the inclusion of the MD in public health strategies for metabolic disease prevention. Further high-quality longitudinal and interventional studies are warranted to clarify its effects on other metabolic outcomes.",
-              "title_ko": "심대사 질환의 일차 예방을 위한 지중해 식단: 이탈리아 국가 가이드라인 \"La Dieta Mediterranea\" 에 소개된 체계적인 검토 및 메타 분석의 증거."
-            }
-          ]
         }
       ],
       "hot_topics": [
@@ -5049,12 +5049,12 @@
             ]
           },
           {
-            "phrase": "cancer screening",
+            "phrase": "genetic testing",
             "scores": [
               0.0,
-              0.0,
+              42.7,
               10.0,
-              56.9
+              40.0
             ]
           },
           {
@@ -5067,12 +5067,12 @@
             ]
           },
           {
-            "phrase": "genetic testing",
+            "phrase": "breast cancer",
             "scores": [
+              16.9,
               0.0,
-              42.7,
-              10.0,
-              10.0
+              16.9,
+              20.0
             ]
           },
           {
@@ -5081,16 +5081,16 @@
               0.0,
               40.7,
               10.0,
-              10.0
+              0.0
             ]
           },
           {
-            "phrase": "physical activity",
+            "phrase": "hpv vaccination",
             "scores": [
               0.0,
-              13.8,
-              20.0,
-              20.0
+              0.0,
+              27.0,
+              16.9
             ]
           }
         ]
@@ -5099,7 +5099,7 @@
     {
       "key": "emergency",
       "label": "응급의학",
-      "paper_count": 457,
+      "paper_count": 458,
       "journals": [
         {
           "journal": "Resuscitation",
@@ -6687,6 +6687,267 @@
           ]
         },
         {
+          "journal": "The western journal of emergency medicine",
+          "impact_factor": 1.5,
+          "index_type": "미상",
+          "quartile": "미상",
+          "paper_count": 8,
+          "top_paper": {
+            "pmid": "41380046",
+            "title": "Sociodemographic and Health Behaviour of Frequent, Avoidable Emergency Department Users in Ontario, Canada: A Population-based Descriptive Study.",
+            "journal": "The western journal of emergency medicine",
+            "impact_factor": 1.5,
+            "index_type": "미상",
+            "quartile": "미상",
+            "pubdate": "2025-10-21",
+            "authors": [
+              "Thompson C",
+              "Watson T",
+              "Schull MJ"
+            ],
+            "citation_count": 2,
+            "rcr": null,
+            "volume": "26",
+            "issue": "6",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/41380046/",
+            "altmetric_score": 0,
+            "altmetric_news": 0,
+            "altmetric_social": 0,
+            "is_current_issue": true,
+            "hot_score": 20.7,
+            "field": "emergency",
+            "field_label": "응급의학",
+            "abstract": "INTRODUCTION: Frequent users are a small but important group of patients in the emergency department (ED). This group is often the target of interventions that redirect visits to other areas of the healthcare system under the premise that some of these visits could be best managed elsewhere. Most existing interventions do not consider sociodemographic factors when targeting specific populations, while larger scale policy initiatives often do not reach those who would most benefit from alternative points of healthcare access. In this study we use population-level survey data linked to health administrative data to describe frequent ED users and those whose visits are potentially avoidable and could benefit from additional points of healthcare access. METHODS: This was a population-based cohort study of responses from 18-74 year-old Ontario residents to the Canadian Community Health Survey from 2001-2014, which we linked to administrative health data for one-year following survey completion. We categorized participants according to the frequency of their ED use in the year following survey date and whether any of their visits were potentially avoidable. Associations between category of ED use and various sociodemographic, health, and behavioural factors were examined with multinomial logistic regression. RESULTS: A total of 181,369 eligible respondents were included in this study. Of these, 1,460 (0.8%) were frequent users (four or more visits) with one or more potentially avoidable visits in the year following survey date. Compared to non-ED users, frequent users with avoidable visits were associated with the lowest quintile of household income (aOR: 1.91, 95% CI: 1.37, 2.65), rural-dwelling (aOR: 1.44, 95% CI: 1.18, 1.77), and the highest quintile of material resource deprived neighbourhoods (aOR: 2.23, 95% CI: 1.47, 3.36). They were more likely to have poor self-reported physical (17.2% vs 9.0%) and mental health (4.1% vs 2.7%) compared to total cohort, and more likely to have comorbidities (63.3% vs 48.7%), but less likely to access a usual provider of care for their healthcare needs (33.3% vs 28.2% without a usual provider of care). CONCLUSION: This study provides a novel description of frequent ED users for whom some of their visits were potentially avoidable. As efforts are made to redesign access to primary and community care, and with increasing emphasis on virtual care and other initiatives to reduce avoidable ED use, the healthcare system should ensure that these interventions are responsive to the needs of the people at higher likelihood of needing them.",
+            "title_ko": ""
+          },
+          "papers": [
+            {
+              "pmid": "41380046",
+              "title": "Sociodemographic and Health Behaviour of Frequent, Avoidable Emergency Department Users in Ontario, Canada: A Population-based Descriptive Study.",
+              "journal": "The western journal of emergency medicine",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2025-10-21",
+              "authors": [
+                "Thompson C",
+                "Watson T",
+                "Schull MJ"
+              ],
+              "citation_count": 2,
+              "rcr": null,
+              "volume": "26",
+              "issue": "6",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/41380046/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": true,
+              "hot_score": 20.7,
+              "field": "emergency",
+              "field_label": "응급의학",
+              "abstract": "INTRODUCTION: Frequent users are a small but important group of patients in the emergency department (ED). This group is often the target of interventions that redirect visits to other areas of the healthcare system under the premise that some of these visits could be best managed elsewhere. Most existing interventions do not consider sociodemographic factors when targeting specific populations, while larger scale policy initiatives often do not reach those who would most benefit from alternative points of healthcare access. In this study we use population-level survey data linked to health administrative data to describe frequent ED users and those whose visits are potentially avoidable and could benefit from additional points of healthcare access. METHODS: This was a population-based cohort study of responses from 18-74 year-old Ontario residents to the Canadian Community Health Survey from 2001-2014, which we linked to administrative health data for one-year following survey completion. We categorized participants according to the frequency of their ED use in the year following survey date and whether any of their visits were potentially avoidable. Associations between category of ED use and various sociodemographic, health, and behavioural factors were examined with multinomial logistic regression. RESULTS: A total of 181,369 eligible respondents were included in this study. Of these, 1,460 (0.8%) were frequent users (four or more visits) with one or more potentially avoidable visits in the year following survey date. Compared to non-ED users, frequent users with avoidable visits were associated with the lowest quintile of household income (aOR: 1.91, 95% CI: 1.37, 2.65), rural-dwelling (aOR: 1.44, 95% CI: 1.18, 1.77), and the highest quintile of material resource deprived neighbourhoods (aOR: 2.23, 95% CI: 1.47, 3.36). They were more likely to have poor self-reported physical (17.2% vs 9.0%) and mental health (4.1% vs 2.7%) compared to total cohort, and more likely to have comorbidities (63.3% vs 48.7%), but less likely to access a usual provider of care for their healthcare needs (33.3% vs 28.2% without a usual provider of care). CONCLUSION: This study provides a novel description of frequent ED users for whom some of their visits were potentially avoidable. As efforts are made to redesign access to primary and community care, and with increasing emphasis on virtual care and other initiatives to reduce avoidable ED use, the healthcare system should ensure that these interventions are responsive to the needs of the people at higher likelihood of needing them.",
+              "title_ko": ""
+            },
+            {
+              "pmid": "41380043",
+              "title": "The State of Simulation in Emergency Medicine Residency Programs in the United States.",
+              "journal": "The western journal of emergency medicine",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2025-10-21",
+              "authors": [
+                "Miller BD",
+                "Khoury C",
+                "Raper J"
+              ],
+              "citation_count": 2,
+              "rcr": null,
+              "volume": "26",
+              "issue": "6",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/41380043/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": true,
+              "hot_score": 20.7,
+              "field": "emergency",
+              "field_label": "응급의학",
+              "abstract": "INTRODUCTION: Using simulation-based medical education has proven to be an effective instructional strategy both procedurally and clinically. Emergency medicine (EM) residency programs use simulation in a variety of ways and settings. Given the ongoing development of the field and the recent expansion of EM training programs, our objective was to assess the current state of simulation use in Accreditation Council for Graduate Medical Education (ACGME)-approved EM residency programs in the United States. METHODS: We performed this cross-sectional national survey from July-September 2022. The survey was sent to the residency program directors of all 277 ACGME-accredited EM residency programs in the US. The survey focused on simulation use, technology, types of simulation (procedural vs case-based), barriers to growth, and overall sentiments regarding simulation in EM. RESULTS: We attempted to contact 277 programs, successfully reaching 244. We received a total of 100 responses (36%). Nearly all responding programs reported access to a dedicated sim center (95.8%), with available high-fidelity manikin simulators (93%) and task trainers (90%). Most programs engage in simulation didactics monthly (50%), followed by more than monthly (22%) and quarterly (19%). Barriers to simulation implementation included funding, simulation lab availability, and equipment. Programs frequently used simulation to perform the majority of rare but required procedures, and about half of the programs responding reported simulation fellowship-trained faculty on staff. CONCLUSION: Simulation education is an important aspect of EM residency and training. Most residency programs reported dedication and resources to developing and integrating simulation into their curriculum. There is likely room for its further use in residency program training in the coming years as residency programs continue to expand.",
+              "title_ko": ""
+            },
+            {
+              "pmid": "41380079",
+              "title": "Pediatric Upper Extremity Firearm-related Injuries: A Level I Pediatric Trauma Center Experience.",
+              "journal": "The western journal of emergency medicine",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2025-10-09",
+              "authors": [
+                "Braswell AC",
+                "Soto E",
+                "Bloom AD"
+              ],
+              "citation_count": 0,
+              "rcr": null,
+              "volume": "26",
+              "issue": "6",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/41380079/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": true,
+              "hot_score": 10.0,
+              "field": "emergency",
+              "field_label": "응급의학",
+              "abstract": "INTRODUCTION: Firearm injuries have become increasingly more common in the pediatric population; however, there is a paucity of literature examining the management of these pediatric firearm-related injuries (FRI) specifically as they affect the upper extremity. This study identifies demographic and environmental risk factors in pediatric upper extremity FRIs and evaluates the severity of injury, concomitant injuries, and rates of surgical intervention in pediatric patients treated at a Level I pediatric trauma center over 20 years. METHODS: We completed a retrospective analysis on 540 patients <18 years of age with FRIs at a single institution from 2001 - 2020. Of these, 72 (13%) had FRIs involving the upper extremity. The patients were stratified into groups based on whether they had received operative intervention or a bedside procedure for their injury and on their year of presentation between two decades (2001 - 2010 vs. 2011 - 2020). We obtained upper extremity injury-specific variables along with hospital demographics. The primary outcomes in this study included hospital length of stay, number of bullet wounds, motor and sensory deficits, and amputation. RESULTS: In the last 10 years, the rate of upper extremity FRIs observed in the pediatric population has increased by 380% at our institution (15 vs. 57, P < .001). After 2010, cases were more likely to present with an increased number of gunshot wounds per patient (1.14 vs. 1.98, 95% confidence interval [CI] -0.94 - 0.24, P = .03) but were less likely to require admission to the intensive care unit (19% vs. 67%, P < .001). When stratifying by intervention, both the operative intervention and bedside procedure groups had a similar number of gunshot wounds (1.86 vs 1.76, 95% CI -0.52 - 0.43, P = .86). The operative intervention group was more likely to have had a soft tissue injury (68% vs. 35%, P = .005) and motor deficit at follow-up (45% vs.15%, P =.02). Patients in the operative intervention group had longer lengths of stay (9.66 vs. 2.25 days, 95% CI -1.16 - -0.21, P < .01) and more morbid injuries despite similar patient demographics. CONCLUSION: In the last decade, an increased frequency of pediatric upper extremity firearm-related injuries was noted despite a stagnant state population. Emphasis should continue to be placed on education and improving firearm safety in settings in which children are present.",
+              "title_ko": ""
+            },
+            {
+              "pmid": "41380077",
+              "title": "Comparison of Pretreatment in European Society of Cardiology Acute Coronary Syndrome Guidelines.",
+              "journal": "The western journal of emergency medicine",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2025-10-22",
+              "authors": [
+                "Ataş İ",
+                "Yazıcı MM",
+                "Çakır AN"
+              ],
+              "citation_count": 0,
+              "rcr": null,
+              "volume": "26",
+              "issue": "6",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/41380077/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": true,
+              "hot_score": 10.0,
+              "field": "emergency",
+              "field_label": "응급의학",
+              "abstract": "INTRODUCTION: Most patients with acute coronary syndrome (ACS) die before hospitalization. Early diagnosis and effective interventions can prevent the disease from worsening. In this single-center, retrospective study we aimed to investigate the appropriateness of the pretreatment of patients referred to the emergency department of our hospital, a percutaneous cardiac intervention (PCI) center, with a prediagnosis of ACS under the previously published European Society of Cardiology guidelines (2017 and 2020) and the new guidelines published in 2023. METHODS: Based on the date of publication of the European Society of Cardiology's most recent ACS guidelines (August 25, 2023), we divided patients admitted between August 25, 2022-August 24, 2024, into two groups: patients who were evaluated and received pretreatment under the previous guidelines; and patients who were evaluated and received pretreatment under the new guidelines. RESULTS: Of 1,675 patients screened for enrollment who were referred to our PCI center with prediagnosis of ACS, after exclusion criteria, we report on 1,450 (86.6%). Pretreatment (before PCI) compliance rate with all aspects of the previous and new guidelines was low, at 9.8%. Study patients were 69.9% (n = 1,013) male with mean age of 63.9 ± 13.0 years. Comparing the compliance rate between the new versus previous guidelines, for individual components, we found better compliance for aspirin administration (72.6 vs. 66.2%) and anticoagulants (40.3 vs. 22.7%), while for P2Y12 inhibitors, we found lower compliance (58.9 vs. 70.0%, all p< .001). For the subset of patients with ST-elevation myocardial infarction, P2Y12 inhibitors were used less appropriately under the new vs. previous guidelines (31.4 vs. 55.0%, p < .001). CONCLUSION: The compliance rates with the previous and new guidelines for ACS pretreatment by physicians working in hospitals without PCI centers were low. Pretreatment compliance during the new guideline period was lower than compliance during the prior guideline period.",
+              "title_ko": ""
+            },
+            {
+              "pmid": "41380074",
+              "title": "Demographic and Clinical Characteristics of Pediculosis-associated Severe Anemia in the Emergency Department.",
+              "journal": "The western journal of emergency medicine",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2025-10-21",
+              "authors": [
+                "Plowe W",
+                "Colling R",
+                "Mohan S"
+              ],
+              "citation_count": 0,
+              "rcr": null,
+              "volume": "26",
+              "issue": "6",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/41380074/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": true,
+              "hot_score": 10.0,
+              "field": "emergency",
+              "field_label": "응급의학",
+              "abstract": "INTRODUCTION: Infestation with Pediculus species, or common lice, is frequently diagnosed in the emergency department (ED). Because lice ingest human blood, prolonged and heavy infestation can plausibly lead to iron deficiency anemia. Severe anemia attributable to lice infestation has infrequently been reported to date. Our objective in this study was to retrospectively review cases of lice-related anemia at a single public hospital to identify risk factors and associated demographic and clinical features of this disease process. METHODS: We screened the medical records for patients presenting to the ED of an urban public hospital between 2016-2024 for the diagnoses of lice infestation and severe anemia (hemoglobin < 7 grams per deciliter (g/dL). Cases were reviewed for clinical and demographic characteristics. RESULTS: A total of 932 patients were diagnosed with pediculosis infestation in the ED during the study period; 332 (35.6%) of those patients had a complete blood count obtained by the treating team. Thirty-seven cases of severe anemia were identified (3.9% of total pediculosis cases, 11.1% of those for whom a complete blood count was obtained); 84% were microcytic, indicating iron deficiency anemia. Twenty-five patients (68%) were undomiciled, and nine patients (24%) were shelter domiciled. Twenty-three patients (62%) had comorbid psychiatric diagnoses, and 21 (51%) had substance use disorders. The median hemoglobin was 4.4 g/dL (range 2.4-6.9 g/dL). Thirty patients (81%) were admitted to a medical floor and seven patients (19%) to an intensive care unit, each with a comorbid primary condition. CONCLUSION: In this cohort, anemia secondary to lice infestation was seen in patients with unstable housing, substance use disorders, and psychiatric disease. Most patients were hemodynamically stable, consistent with the proposed mechanism of chronic blood loss. The prevalence of this condition may be higher than previously noted among this vulnerable population. Emergency physicians should be aware of this rare but potentially serious disease process.",
+              "title_ko": ""
+            },
+            {
+              "pmid": "41380065",
+              "title": "Emergency Medicine Residents' Performance with National Institutes of Health Stroke Scale and Its Impact on Key Stroke-care Metrics.",
+              "journal": "The western journal of emergency medicine",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2025-10-21",
+              "authors": [
+                "Roces M",
+                "Alacala-Arcos T",
+                "Addo N"
+              ],
+              "citation_count": 0,
+              "rcr": null,
+              "volume": "26",
+              "issue": "6",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/41380065/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": true,
+              "hot_score": 10.0,
+              "field": "emergency",
+              "field_label": "응급의학",
+              "abstract": "BACKGROUND: Emergency medicine (EM) physicians commonly use the National Institutes of Health Stroke Scale (NIHSS) to assess acute ischemic strokes in community settings. However, this assessment is often led by neurology residents in academic teaching hospitals. We implemented a quality improvement intervention to improve EM resident comfort with the NIHSS and to assess if EM resident-led NIHSS evaluation prolonged key stroke metrics, such as door-to-CT (DTCT), door-to-needle (DTN), or door-to-groin puncture (DTGP) times, which may affect stroke outcomes. METHODS: This prospective observational comparison analyzed all patients with acute ischemic strokes at the Zuckerberg San Francisco General Hospital, a Level I trauma center from April 2021-October 2022. We implemented the intervention from April 2022 -October 2022 which included NIHSS certification for all residents and attendings. Both EM and neurology residents recorded NIHSS scores separately for each patient and scores were revealed to each resident during patient care once completed. We then compared stroke metrics between pre- and post-intervention periods. RESULTS: There were 247 and 122 strokes included in our analysis, pre- and post-intervention, respectively. Overall, 58% (n=213) of all patients were female, 33% were Asian (n=123), and Cantonese was the second most common language after English (15%, n=54). Mean overall NIHSS scores were similar between EM and neurology residents, 6.6 (IQR = 2, 10) and 6.7 (IQR = 1, 10), (p < 0.001), respectively, with substantial agreement between groups (84.4%, κ = 0.63). Median DTCT times were 25 and 28 minutes (p=0.2), DTN times were 38 and 35 minutes (p=0.7), and DTGP times were 94 and 110 minutes (p=0.1) for pre- and post-intervention groups, respectively. CONCLUSION: The NIHSS is one element of stroke evaluation and management that can impact stroke metrics. Our intervention found that EM resident-led NIHSS assessment did not prolong DTCT, DTN, and DTGP times and met nationally established goals.",
+              "title_ko": ""
+            },
+            {
+              "pmid": "41380058",
+              "title": "Prevalence and Impact of Violence Against Healthcare Workers in Brazilian Emergency Departments: A National Survey.",
+              "journal": "The western journal of emergency medicine",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2025-10-17",
+              "authors": [
+                "Dorn de Carvalho JM",
+                "McGuire SS",
+                "Oliveira LLR"
+              ],
+              "citation_count": 0,
+              "rcr": null,
+              "volume": "26",
+              "issue": "6",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/41380058/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": true,
+              "hot_score": 10.0,
+              "field": "emergency",
+              "field_label": "응급의학",
+              "abstract": "INTRODUCTION: Workplace violence (WPV) is a significant occupational hazard in healthcare, with emergency departments (EDs) recognized as high-risk environments. Although globally significant, data from Latin America remain scarce. In this study we aimed to evaluate the prevalence and effects of WPV on healthcare workers in Brazilian EDs. METHODS: We conducted a cross-sectional survey of healthcare workers in Brazilian EDs. Respondents indicated verbal and physical violence experienced within the preceding six months, along with associated psychological and occupational impacts. Univariable models identified significant associated factors, followed by multivariable models to determine independent associated factors of WPV. We reported results as adjusted odds ratios (aOR) with 95% confidence intervals. Statistical analyses were performed in R v4.4.1, and significance was defined as P < .05. RESULTS: The response rate was 19.1% (1,255/6,570), Of those responses, 61.3% (769/1,255) met the inclusion criteria and were included in the analysis. Of all respondents, 84.0% were physicians. Respondents indicated 79.6% (612/769) occurrence of WPV, including verbal abuse (79.5%) and physical assault (12.1%). Physical assaults against co-workers were witnessed by 40.3% of respondents. Perpetrators included visitors (85.3%), patients (80.7%), and co-workers (35.8%). The absence of institutional preventive measures was associated with increased WPV (aOR, 2.47; 95% CI, 1.71-3.57; P < .001), while the presence of security staff reduced WPV (aOR, 0.61; 95% CI, 0.42-0.89; P = .01). Indicated impact included post-traumatic stress symptoms (88.4%), considering leaving their job (49.5%), impaired workplace performance (75.2%), and time off work (10%), including 11.5% permanently leaving. CONCLUSION: Workplace violence is highly prevalent in Brazilian EDs, with substantial psychological and occupational consequences. The absence of protocols or preventive measures may increase WPV risk, emphasizing the urgent need for public policies to protect healthcare workers in emergency settings.",
+              "title_ko": ""
+            },
+            {
+              "pmid": "42054115",
+              "title": "Gender- and Sex-equitable Submission Guidelines in Emergency Medicine Journals Are Associated with Enhanced Publication Metrics.",
+              "journal": "The western journal of emergency medicine",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2025-06-10",
+              "authors": [
+                "Manes A",
+                "Lall MD",
+                "Knight S"
+              ],
+              "citation_count": 0,
+              "rcr": null,
+              "volume": "27",
+              "issue": "2",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/42054115/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 0.0,
+              "field": "emergency",
+              "field_label": "응급의학",
+              "abstract": "INTRODUCTION: Gender and sex equity-promoting (GSEP) clinical research is essential to improving diversity and inclusivity in medicine. In this study we aimed to compare journal impact metrics in emergency medicine (EM) between journals that integrated gender- and sex-based considerations and those that did not. METHODS: We searched the 2023 Journal Citations Report (Clarivate Analytics) for EM journals. Submission guidelines of each EM journal were examined according to the SAGER (Sex and Gender Equity in Research) guidelines and stratified as conforming or non-conforming depending on whether at least one SAGER criterion was met. Our primary outcome measure was the journal impact factor. Secondary outcome measures included other citation and influence metrics: total citations; 5-year journal impact factor; journal citation indicator; article influence score, normalized Eigenfactor score; citable items; total articles; and immediacy index. RESULTS: Based on our classification system informed by the SAGER criteria, most journals (66%, 31/47) were classified as non-compliant. The EM journals that conformed to the sex and gender equity guidelines were rated higher than non-conforming journals across all studied journal metrics. We found that conforming journals had a significantly higher median difference (MD) than non-conforming EM journals in total citations (MD 1,586; GSEP: 3,599 vs non-GSEP: 901); 2023 2-year journal impact factor (MD 0.8; 2.3 vs 1.4); 5-year journal impact factor (MD 0.7; 2.5 vs 1.9); article influence score (MD 0.26; 0.76 vs 0.47); normalized Eigenfactor score (MD 0.79; 1.06 vs 0.26); citable items (MD 37; 103 vs 56), and total articles (MD 41; 87 vs 42). All differences were statistically significant (P < 0.05). CONCLUSION: Using criteria informed by the Sex and Gender Equity in Research guidelines, most EM journals (66%) were classified as non-conforming to these guidelines. This indicates a significant gap in the integration of gender- and sex-based considerations in EM research publication practices.",
+              "title_ko": ""
+            }
+          ]
+        },
+        {
           "journal": "Air medical journal",
           "impact_factor": 1.5,
           "index_type": "미상",
@@ -7890,6 +8151,99 @@
           ]
         },
         {
+          "journal": "The Cochrane database of systematic reviews",
+          "impact_factor": 1.5,
+          "index_type": "미상",
+          "quartile": "미상",
+          "paper_count": 2,
+          "top_paper": {
+            "pmid": "39908073",
+            "title": "Parenteral medication for the management of acute severe behavioural disturbance (ASBD) in the emergency department.",
+            "journal": "The Cochrane database of systematic reviews",
+            "impact_factor": 1.5,
+            "index_type": "미상",
+            "quartile": "미상",
+            "pubdate": "2024-05-29",
+            "authors": [
+              "Bourke E",
+              "Klein K",
+              "Knott J"
+            ],
+            "citation_count": 1,
+            "rcr": 0.47837005063038623,
+            "volume": "5",
+            "issue": "5",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/39908073/",
+            "altmetric_score": 0,
+            "altmetric_news": 0,
+            "altmetric_social": 0,
+            "is_current_issue": true,
+            "hot_score": 16.8,
+            "field": "emergency",
+            "field_label": "응급의학",
+            "abstract": "This is a protocol for a Cochrane Review (intervention). The objectives are as follows: To assess the effectiveness and safety profiles of different parenteral medications for the management of acute severe behavioural disturbance in the emergency department setting. These medications are required following the failure of less restrictive means of controlling the patient's behavioural disturbance.",
+            "title_ko": ""
+          },
+          "papers": [
+            {
+              "pmid": "39908073",
+              "title": "Parenteral medication for the management of acute severe behavioural disturbance (ASBD) in the emergency department.",
+              "journal": "The Cochrane database of systematic reviews",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2024-05-29",
+              "authors": [
+                "Bourke E",
+                "Klein K",
+                "Knott J"
+              ],
+              "citation_count": 1,
+              "rcr": 0.47837005063038623,
+              "volume": "5",
+              "issue": "5",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/39908073/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": true,
+              "hot_score": 16.8,
+              "field": "emergency",
+              "field_label": "응급의학",
+              "abstract": "This is a protocol for a Cochrane Review (intervention). The objectives are as follows: To assess the effectiveness and safety profiles of different parenteral medications for the management of acute severe behavioural disturbance in the emergency department setting. These medications are required following the failure of less restrictive means of controlling the patient's behavioural disturbance.",
+              "title_ko": ""
+            },
+            {
+              "pmid": "42937251",
+              "title": "Air versus supplemental oxygen for resuscitation of term or late preterm infants at birth.",
+              "journal": "The Cochrane database of systematic reviews",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2026-10-27",
+              "authors": [
+                "Rüegger CM",
+                "Dawson JA",
+                "Cracknell J"
+              ],
+              "citation_count": 0,
+              "rcr": null,
+              "volume": "10",
+              "issue": "",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/42937251/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 0.0,
+              "field": "emergency",
+              "field_label": "응급의학",
+              "abstract": "RATIONALE: Approximately 1% to 5% of newly born infants require some form of respiratory support, including supplemental oxygen for the respiratory transition immediately after birth. Despite a long-standing debate, the optimal concentration of oxygen at initiation of resuscitation of late preterm and term infants immediately after birth is still unknown. OBJECTIVES: Primary objective To assess the benefits and harms of air compared with supplemental oxygen for resuscitation of term or late preterm infants at birth in reducing rates of mortality and long-term neurodevelopmental impairment (NDI). Secondary objectives To assess whether the benefits and harms of air compared with supplemental oxygen differ according to different oxygen concentrations, gestational age (GA), whether oxygen was titrated to saturation targets and the income of the study country. SEARCH METHODS: We searched CENTRAL, MEDLINE, Embase, CINAHL, two trials registries, Epistemonikos and the Directory of Open Access Journals (DOAJ) up to 12 January 2026. We checked reference lists of included studies and other publications related to the topic of this review, and conducted forward/backward citation searching. ELIGIBILITY CRITERIA: We included randomised controlled trials (RCTs), quasi-RCTs or cluster-RCTs in term and late preterm infants who received respiratory support at birth comparing air with any supplemental oxygen. We excluded studies of oxygen saturation targeting, studies not taking place in the delivery room and studies of infants with antenatally diagnosed congenital anomalies. OUTCOMES: Our outcomes of interest were all-cause mortality prior to discharge, in-hospital hypoxic-ischaemic encephalopathy (HIE) (Sarnat stage II to III), post-discharge moderate to severe NDI based on pre-specified criteria, number of days on invasive (endotracheal) respiratory support, length of hospitalisation (days), all-cause mortality of infants followed beyond hospital discharge and moderate to severe NDI based on best available data. RISK OF BIAS: We used the Cochrane RoB 2 tool to assess risk of bias. SYNTHESIS METHODS: We synthesised results for each outcome using meta-analysis where possible. We calculated risk ratio (RR) and risk difference, each with its 95% confidence interval (CI), for categorical outcomes. We used a fixed-effect model to combine data for meta-analysis. Where this was not possible due to the nature of the data, we synthesised results by summarising any available effect estimates. We used GRADE to assess the certainty of evidence for each outcome. INCLUDED STUDIES: We included a total of 12 studies with 2054 participants. The included studies enrolled term (born at a gestational age of 37 weeks 0 days to 43 weeks 6 days) and late preterm (born at a gestational age of 35 weeks 0 days to 36 weeks 6 days) infants who received any form of invasive (endotracheal) or non-invasive respiratory support at birth. SYNTHESIS OF RESULTS: Using air compared to supplemental oxygen for resuscitation of term and late preterm infants may reduce all-cause mortality prior to discharge (RR 0.72, 95% CI 0.57 to 0.91; I² = 0%; 10 studies, 1879 participants; low-certainty evidence). The evidence suggests that using air compared to supplemental oxygen for resuscitation of term and late preterm infants results in little to no difference in in-hospital HIE stage II to III (RR 0.88, 95% CI 0.71 to 1.10; I² = 0%; 5 studies, 1384 participants; low-certainty evidence). The evidence suggests that using air compared to supplemental oxygen for resuscitation of term and late preterm infants results in little to no difference in all-cause mortality among infants followed beyond hospital discharge (RR 0.82, 95% CI 0.58 to 1.16; I² = 0%; 3 studies, 668 participants; low-certainty evidence). The evidence is very uncertain about the effect of using air compared to supplemental oxygen for resuscitation of term and late preterm infants on moderate to severe NDI based on best available data (RR 1.24, 95% CI 0.74 to 2.10; I² = 0%; 3 studies, 414 participants; very low-certainty evidence). None of the studies reported the following outcomes: moderate to severe NDI after at least 12 months' postnatal age as defined in the protocol, the number of days on invasive (endotracheal) respiratory support and the length of hospitalisation (days). Overall, the risk of bias was high for most studies. AUTHORS' CONCLUSIONS: The use of air compared to 100% oxygen may reduce all-cause mortality prior to discharge, but there may be little to no difference in HIE stage II to III and NDI at 12 months or later based on best available data. No study reported moderate to severe NDI after at least 12 months' postnatal age, the number of days on invasive respiratory support or the length of hospitalisation. All 12 included studies compared air with 100% oxygen without titration to available oxygen saturation targets. Therefore, we are unable to draw conclusions about the optimal starting oxygen concentration when titration is available. Subgroup analyses based on gestational ages were not possible. There were no differences between studies from high-income and low- and middle-income countries. FUNDING: This Cochrane review had no dedicated funding. REGISTRATION: Protocol available via DOI: 10.1002/14651858.CD014781.",
+              "title_ko": ""
+            }
+          ]
+        },
+        {
           "journal": "Anesthesia progress",
           "impact_factor": 1.5,
           "index_type": "미상",
@@ -8422,71 +8776,6 @@
               "field": "emergency",
               "field_label": "응급의학",
               "abstract": "The use of inflammatory markers (IMs) in the pediatric emergency department (PED) is broad and non-specific. This retrospective, cross-sectional study of children aged 3 months to 18 years evaluated the use of IMs in the PED. The reasons for IM use were provider practice (38%), ruling out a differential diagnosis (36%), and presence of comorbidities (18%). IMs are commonly used for gastroenterology, infectious diseases, and orthopedic diseases. A third had IMs without an indication. Forty-six percent of IM testing was indicated based on medical documentation, of which only 21% had abnormal IMs. Compared to the abnormal IM values by the on-site laboratory, the IM assessment using a receiver operating characteristic (ROC) curve threshold criterion had improved specificity and negative predictive value (NPV) based on the reason for IM use. This study suggests that the rate of abnormal IMs is low and does not affect patient outcomes in the PED.",
-              "title_ko": ""
-            }
-          ]
-        },
-        {
-          "journal": "The Cochrane database of systematic reviews",
-          "impact_factor": 1.5,
-          "index_type": "미상",
-          "quartile": "미상",
-          "paper_count": 1,
-          "top_paper": {
-            "pmid": "39908073",
-            "title": "Parenteral medication for the management of acute severe behavioural disturbance (ASBD) in the emergency department.",
-            "journal": "The Cochrane database of systematic reviews",
-            "impact_factor": 1.5,
-            "index_type": "미상",
-            "quartile": "미상",
-            "pubdate": "2024-05-29",
-            "authors": [
-              "Bourke E",
-              "Klein K",
-              "Knott J"
-            ],
-            "citation_count": 1,
-            "rcr": 0.47837005063038623,
-            "volume": "5",
-            "issue": "5",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/39908073/",
-            "altmetric_score": 0,
-            "altmetric_news": 0,
-            "altmetric_social": 0,
-            "is_current_issue": true,
-            "hot_score": 16.8,
-            "field": "emergency",
-            "field_label": "응급의학",
-            "abstract": "This is a protocol for a Cochrane Review (intervention). The objectives are as follows: To assess the effectiveness and safety profiles of different parenteral medications for the management of acute severe behavioural disturbance in the emergency department setting. These medications are required following the failure of less restrictive means of controlling the patient's behavioural disturbance.",
-            "title_ko": ""
-          },
-          "papers": [
-            {
-              "pmid": "39908073",
-              "title": "Parenteral medication for the management of acute severe behavioural disturbance (ASBD) in the emergency department.",
-              "journal": "The Cochrane database of systematic reviews",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2024-05-29",
-              "authors": [
-                "Bourke E",
-                "Klein K",
-                "Knott J"
-              ],
-              "citation_count": 1,
-              "rcr": 0.47837005063038623,
-              "volume": "5",
-              "issue": "5",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/39908073/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": true,
-              "hot_score": 16.8,
-              "field": "emergency",
-              "field_label": "응급의학",
-              "abstract": "This is a protocol for a Cochrane Review (intervention). The objectives are as follows: To assess the effectiveness and safety profiles of different parenteral medications for the management of acute severe behavioural disturbance in the emergency department setting. These medications are required following the failure of less restrictive means of controlling the patient's behavioural disturbance.",
               "title_ko": ""
             }
           ]
@@ -9792,281 +10081,18 @@
               "title_ko": ""
             }
           ]
-        },
-        {
-          "journal": "Critical care science",
-          "impact_factor": 1.5,
-          "index_type": "미상",
-          "quartile": "미상",
-          "paper_count": 10,
-          "top_paper": {
-            "pmid": "41417414",
-            "title": "Stepwise positive end-expiratory pressure titration modulates respiratory mechanics and mechanical power in mechanically ventilated adults.",
-            "journal": "Critical care science",
-            "impact_factor": 1.5,
-            "index_type": "미상",
-            "quartile": "미상",
-            "pubdate": "2025-12-19",
-            "authors": [
-              "Gallardo A",
-              "Alcaráz M",
-              "Díaz-Cabrera A"
-            ],
-            "citation_count": 2,
-            "rcr": null,
-            "volume": "37",
-            "issue": "",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/41417414/",
-            "altmetric_score": 0,
-            "altmetric_news": 0,
-            "altmetric_social": 0,
-            "is_current_issue": false,
-            "hot_score": 10.7,
-            "field": "emergency",
-            "field_label": "응급의학",
-            "abstract": "OBJECTIVE: To evaluate the impact of an ascending positive end-expiratory pressure titration strategy on respiratory mechanics and mechanical power in patients without lung injury. METHODS: An incremental positive end-expiratory pressure titration was performed in 4cmH2O steps, starting from zero end-expiratory pressure and progressing to 16cmH2O. Differences (Δ) in respiratory system static compliance, plateau pressure, driving pressure, and mechanical power were assessed during lung-protective ventilation. Mechanical power formulas proposed by Gattinoni et al. and Costa et al. were used. Analyses were also performed on the static elastic components, dynamic elastic components, total elastic power, and resistive components. RESULTS: Increasing positive end-expiratory pressure levels were associated with a progressive rise in mechanical power, plateau pressure, total and static elastic power, and a decline in compliance. Mechanical power showed strong positive correlations with: ΔPplat (p < 0.001); Δelastic dynamic power (p < 0.001); Δdriving pressure (p < 0.001); and Δtotal elastic power (p < 0.001). Δmechanical power correlated strongly with Δresistive power (p < 0.001), but not with other mechanical power components or mechanics. CONCLUSION: Progressive positive end-expiratory pressure increase in patients without lung disease significantly raises total mechanical power and its elastic components, particularly static elastic power. These changes may occur silently and without significant alterations in driving pressure or compliance.",
-            "title_ko": ""
-          },
-          "papers": [
-            {
-              "pmid": "41417414",
-              "title": "Stepwise positive end-expiratory pressure titration modulates respiratory mechanics and mechanical power in mechanically ventilated adults.",
-              "journal": "Critical care science",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2025-12-19",
-              "authors": [
-                "Gallardo A",
-                "Alcaráz M",
-                "Díaz-Cabrera A"
-              ],
-              "citation_count": 2,
-              "rcr": null,
-              "volume": "37",
-              "issue": "",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/41417414/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": false,
-              "hot_score": 10.7,
-              "field": "emergency",
-              "field_label": "응급의학",
-              "abstract": "OBJECTIVE: To evaluate the impact of an ascending positive end-expiratory pressure titration strategy on respiratory mechanics and mechanical power in patients without lung injury. METHODS: An incremental positive end-expiratory pressure titration was performed in 4cmH2O steps, starting from zero end-expiratory pressure and progressing to 16cmH2O. Differences (Δ) in respiratory system static compliance, plateau pressure, driving pressure, and mechanical power were assessed during lung-protective ventilation. Mechanical power formulas proposed by Gattinoni et al. and Costa et al. were used. Analyses were also performed on the static elastic components, dynamic elastic components, total elastic power, and resistive components. RESULTS: Increasing positive end-expiratory pressure levels were associated with a progressive rise in mechanical power, plateau pressure, total and static elastic power, and a decline in compliance. Mechanical power showed strong positive correlations with: ΔPplat (p < 0.001); Δelastic dynamic power (p < 0.001); Δdriving pressure (p < 0.001); and Δtotal elastic power (p < 0.001). Δmechanical power correlated strongly with Δresistive power (p < 0.001), but not with other mechanical power components or mechanics. CONCLUSION: Progressive positive end-expiratory pressure increase in patients without lung disease significantly raises total mechanical power and its elastic components, particularly static elastic power. These changes may occur silently and without significant alterations in driving pressure or compliance.",
-              "title_ko": ""
-            },
-            {
-              "pmid": "41417397",
-              "title": "The impact of a multicomponent telemedicine-based intervention on quality of life in adults with respiratory failure requiring mechanical ventilation: protocol for a cluster stepped-wedge randomized clinical trial (Tele-Rehab MV Trial).",
-              "journal": "Critical care science",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2025-12-15",
-              "authors": [
-                "Pereira AJ",
-                "Moraes RB",
-                "Trott G"
-              ],
-              "citation_count": 2,
-              "rcr": null,
-              "volume": "37",
-              "issue": "",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/41417397/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": false,
-              "hot_score": 10.7,
-              "field": "emergency",
-              "field_label": "응급의학",
-              "abstract": "OBJECTIVE: To assess the impact of a multicomponent intervention on the health-related quality of life of patients with hypoxemic respiratory failure requiring invasive mechanical ventilation. METHODS: A cluster stepped-wedge randomized clinical trial will be conducted in intensive care units across Brazil. Intensive care units with ≥ 8 beds and the capacity to admit patients with acute hypoxemic respiratory failure will be included. Within each intensive care unit, adult patients with acute hypoxemic respiratory failure requiring invasive mechanical ventilation, in whom SARS-CoV-2 infection is part of the differential diagnosis, will be enrolled. The intervention consists of a telemedicine-based quality improvement program focused on disability prevention and rehabilitation strategies, implemented during the patient's intensive care unit stay, continued through ward admission, and extending up to 2 months post-hospital discharge. The primary outcome is health-related quality of life assessed using the EuroQol 5-Dimension 3-Level scale 90 days after discharge from the hospital. Secondary outcomes include rehospitalization within 30 days from hospital discharge, as well as all-cause mortality, anxiety, depression, cognitive impairment, new disabilities for instrumental activities of daily living, and return to work or studies 90 days after discharge from the hospital. RESULTS: The study protocol has been approved by the research ethics committees of all participant institutions. It was registered at ClinicalTrials.gov (NCT06343545) before the first participant was included. We aim to disseminate the findings through conferences and peer-reviewed journals. CONCLUSION: The \"Tele-Rehab MV trial\" may provide further information on the role of early multicomponent interventions aimed at disability prevention and rehabilitation for critically ill patients with acute hypoxemic respiratory failure.",
-              "title_ko": ""
-            },
-            {
-              "pmid": "39775432",
-              "title": "Long-term mortality of Dutch COVID-19 patients admitted to the intensive care medicine: a retrospective analysis from a national quality registry.",
-              "journal": "Critical care science",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2024-12-20",
-              "authors": [
-                "Wortel SA",
-                "Bakhshi-Raiez F",
-                "Abu-Hanna A"
-              ],
-              "citation_count": 2,
-              "rcr": 0.5430979569656833,
-              "volume": "36",
-              "issue": "",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/39775432/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": false,
-              "hot_score": 10.7,
-              "field": "emergency",
-              "field_label": "응급의학",
-              "abstract": "OBJECTIVE: To describe the 12-month mortality of Dutch COVID-19 intensive care unit patients, the total COVID-19 population and various subgroups on the basis of the number of comorbidities, age, sex, mechanical ventilation, and vasoactive medication use. METHODS: We included all patients admitted with COVID-19 between March 1, 2020, and March 29, 2022, from the Dutch National Intensive Care (NICE) database. The crude 12-month mortality rate is presented via Kaplan-Meier survival curves for each patient subgroup. We used Cox regression models to analyze the effects of patient characteristics on 12-month mortality after hospital discharge. RESULTS: We included 16,605 COVID-19 patients. The in-hospital mortality rate was 28.1%, and the 12-month mortality rate after intensive care unit admission was 29.8%. Among hospital survivors, 12-month mortality after hospital discharge was 2.5% (300/11,931). The hazard of death at 12 months after hospital discharge was greater in patients between 60 and 79 years (HR 4.74; 95%CI 2.23 - 10.06) and ≥ 80 years (HR 22.77; 95%CI 9.91 - 52.28) than in patients < 40 years of age; in male patients than in female patients (HR 1.38; 95%CI 1.07 - 1.78); and in patients with one (adjusted HR 1.95; 95%CI 1.5 - 2.53), two (adjusted HR 4.49; 95%CI 3.27 - 6.16) or more than two comorbidities (adjusted HR 4.99; 95%CI 2.62 - 9.5) than in patients with no comorbidities. Neither vasoactive medication use nor mechanical ventilation resulted in statistically significant results. CONCLUSION: For Dutch COVID-19 intensive care unit patients, most deaths occurred during their hospital stay. For hospital survivors, the crude 12-month mortality rate was low. Patient age (older than 60), sex and the number of comorbidities were associated with a greater hazard of death at 12 months after hospital discharge, whereas mechanical ventilation and vasoactive medication were not.",
-              "title_ko": ""
-            },
-            {
-              "pmid": "41416916",
-              "title": "Comparison of the effect of a lower versus a higher PEEP strategy on clinically relevant outcomes in invasively ventilated patients without acute respiratory distress syndrome: statistical re-analysis plan of the RELAx trial using a Bayesian framework.",
-              "journal": "Critical care science",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2025-12-15",
-              "authors": [
-                "Caroli A",
-                "Algera AG",
-                "Meenen DV"
-              ],
-              "citation_count": 1,
-              "rcr": null,
-              "volume": "37",
-              "issue": "",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/41416916/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": false,
-              "hot_score": 6.8,
-              "field": "emergency",
-              "field_label": "응급의학",
-              "abstract": "BACKGROUND: The effect of different levels of positive end-expiratory pressure in invasively ventilated critically ill patients remains a matter of debate. The REstricted versus Liberal Positive End-Expiratory Pressure in Patients Without ARDS (RELAx) is a multicentric, randomized trial comparing a lower positive end-expiratory pressure strategy versus a higher positive end-expiratory pressure strategy in ventilated patients without acute respiratory distress syndrome, which demonstrated non-inferiority of lower positive end-expiratory pressure compared to higher positive end-expiratory pressure on ventilator-free days. The primary analysis was published in 2020, and a frequentist statistical approach was applied. AIM: To present the protocol of the Bayesian analysis plan that will be used to re-analyse the RELAx trial to provide complementary and additional insight into this clinical trial. METHODS: This re-analysis will focus on the probability of superiority of the intervention. As an ordinal variable, the primary outcome will be ventilator-free days at day 28, and posterior estimates will be obtained by fitting a hierarchical cumulative logistic regression model. Secondary outcomes will be mortality at day 28, as a binary outcome, and ventilation duration, as a continuous outcome. We will adopt neutral, pessimistic, and optimistic priors informed by current literature, and a fourth prior derived from an expert's survey. Probability thresholds will be defined for superiority, severe harm, and a region of practical equivalence. DISCUSSION: The RELAx trial findings raise the hypothesis that a lower positive end-expiratory pressure strategy may be at least as effective, if not superior, in specific patient-centred outcomes. This analysis is designed to augment and contextualize the original frequentist analysis of the largest randomized trial comparing positive end-expiratory pressure strategies in non-acute respiratory distress syndrome patients. Results will be presented with a continuum of credible intervals and probabilities of effects to facilitate a nuanced interpretation. We offer clinically meaningful insights that complement and extend the trial's original analysis by reporting probabilities of benefit, harm, and equivalence.",
-              "title_ko": ""
-            },
-            {
-              "pmid": "39630830",
-              "title": "Differences in the relative importance of predictors of short- and long-term mortality among critically ill patients with cancer.",
-              "journal": "Critical care science",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2024-12-02",
-              "authors": [
-                "Silva CMDD",
-                "Bettim BB",
-                "Besen BAMP"
-              ],
-              "citation_count": 1,
-              "rcr": 0.25892525984356146,
-              "volume": "36",
-              "issue": "",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/39630830/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": false,
-              "hot_score": 6.8,
-              "field": "emergency",
-              "field_label": "응급의학",
-              "abstract": "OBJECTIVE: To identify the relative importance of several clinical variables present at intensive care unit admission on the short- and long-term mortality of critically ill patients with cancer after unplanned intensive care unit admission. METHODS: This was a retrospective cohort study of patients with cancer with unplanned intensive care unit admission from January 2017 to December 2018. We developed models to analyze the relative importance of well-known predictors of mortality in patients with cancer admitted to the intensive care unit compared with mortality at 28, 90, and 360 days after intensive care unit admission, both in the full cohort and stratified by the type of cancer when the patient was admitted to the intensive care unit. RESULTS: Among 3,592 patients, 3,136 (87.3%) had solid tumors, and metastatic disease was observed in 60.8% of those patients. A total of 1,196 (33.3%), 1,738 (48.4%), and 2,435 patients (67.8%) died at 28, 90, and 360 days, respectively. An impaired functional status was the greatest contribution to mortality in the short term for all patients and in the short and long term for the subgroups of patients with solid tumors. For patients with hematologic malignancies, the use of mechanical ventilation was the most important variable associated with mortality in all study periods. The SOFA score at admission was important for mortality prediction only for patients with solid metastatic tumors and hematological malignancies. The use of vasopressors and renal replacement therapy had a small importance in predicting mortality at every time point analyzed after the SOFA score was accounted for. CONCLUSION: Healthcare providers must consider performance status, the use of mechanical ventilation, and the severity of illness when discussing prognosis, preferences for care, and end-of-life care planning with patients or their families during intensive care unit stays.",
-              "title_ko": ""
-            },
-            {
-              "pmid": "39630827",
-              "title": "Changes in central venous pressure during a fluid challenge have limited value for guiding fluid therapy.",
-              "journal": "Critical care science",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2024-12-02",
-              "authors": [
-                "de Oliveira PS",
-                "Ramos FJDS",
-                "Tomotani DYV"
-              ],
-              "citation_count": 1,
-              "rcr": 0.34820491429802003,
-              "volume": "36",
-              "issue": "",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/39630827/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": false,
-              "hot_score": 6.8,
-              "field": "emergency",
-              "field_label": "응급의학",
-              "abstract": "OBJECTIVE: To evaluate whether changes in central venous pressure during fluid expansion and baseline cyclic respiratory variation in the central venous pressure amplitude (RespCVP) curve could be used to discriminate between fluid responders and nonresponders. METHODS: This prospective observational study included critically ill adult patients who underwent fluid expansion in the form of a fluid bolus or fluid challenge with crystalloids. All patients were under mechanical ventilation and adequately sedated. We determined the central venous pressure at baseline (CVPT0) and the changes at 5 (ΔCVPT5), 10 (ΔCVPT10) and 15 (ΔCVPT15) minutes during fluid infusion. We also measured the RespCVP at baseline. Fluid responsiveness was defined as a cardiac index increase of ≥ 15%. RESULTS: The study included 30 patients (11 responders and 19 nonresponders). The CVPT0 and the changes after a fluid challenge at all three time points did not adequately predict fluid responsiveness, as determined by their area under the curve values (CVPT0: 0.70, (95%CI: 0.49 - 0.90; ΔCVPT5: 0.78, (95%CI: 0.57 - 0.99; ΔCVPT10: 0.63, (95%CI: 0.39 - 0.88; ΔCVPT15: 0.68, ((95%CI: 0.45 - 0.92). The RespCVP at baseline also had a poor performance (area under the curve: 0.70; 95%CI: 0.50 - 0.91). CONCLUSION: Changes in central venous pressure have limited value in predicting fluid responsiveness.",
-              "title_ko": ""
-            },
-            {
-              "pmid": "42912021",
-              "title": "Statistical analysis plan for transfusion of modified whole blood versus blood components therapy in patients with severe trauma: randomized controlled trial - WEBSTER trial.",
-              "journal": "Critical care science",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2026-10-16",
-              "authors": [
-                "García AF",
-                "Gempeler A",
-                "Caicedo EY"
-              ],
-              "citation_count": 0,
-              "rcr": null,
-              "volume": "38",
-              "issue": "",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/42912021/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": false,
-              "hot_score": 0.0,
-              "field": "emergency",
-              "field_label": "응급의학",
-              "abstract": "BACKGROUND: Hemostatic resuscitation with modified whole blood is an alternative to balanced blood-component therapy for trauma patients with hemorrhagic shock, with potential efficacy and logistical advantages. The WEBSTER trial was designed to compare these interventions in patients with trauma hemorrhagic shock. METHODS: Single-center, open-label, parallel-group randomized clinical trial comparing whole blood with blood components in adults with trauma hemorrhagic shock. PRIMARY OUTCOME: hierarchical composite of all-cause 28-day mortality and SOFA score during the first 5 days after randomization. We will estimate treatment effects using a win-ratio analysis that prioritizes mortality. Primary analysis follows the intention-to-treat principle; secondary analyses in as-treated and per-protocol populations are planned. Secondary outcomes include mortality at additional time points, organ dysfunction metrics, coagulation parameters, transfusion requirements, and adverse events. RESULTS: Primary outcome analyses will report win ratios, and secondary outcomes will be analyzed with hypothesis tests or regression time-to-event models; 95% confidence intervals will accompany all estimates. We do not plan formal adjustment for multiplicity because the outcomes share the same underlying construct. All outcomes will be interpreted in the context of the overall pattern of results. CONCLUSION: This statistical analysis plan prespecifies transparent methods to assess the effect of whole blood versus blood-component therapy in trauma patients. The hierarchical framework, complementary sensitivity analyses and comprehensive interpretation are intended to provide a robust and clinically meaningful assessment of whole blood effects.",
-              "title_ko": ""
-            },
-            {
-              "pmid": "42820513",
-              "title": "Invasive mechanical ventilation, functional decline at pediatric intensive care unit discharge, and post-discharge mortality in critically ill pediatric cancer patients: a retrospective cohort study.",
-              "journal": "Critical care science",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2026-09-28",
-              "authors": [
-                "da Cunha-Martins BSM",
-                "da Cunha RSM",
-                "Lanziotti VS"
-              ],
-              "citation_count": 0,
-              "rcr": null,
-              "volume": "38",
-              "issue": "",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/42820513/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": false,
-              "hot_score": 0.0,
-              "field": "emergency",
-              "field_label": "응급의학",
-              "abstract": "OBJECTIVE: To evaluate the association between invasive mechanical ventilation use, functional capacity, and 12-month mortality in critically ill children with cancer after a pediatric intensive care unit stay. METHODS: We conducted a single-center, retrospective cohort study of critically ill children with cancer admitted to the pediatric intensive care unit from January 2018 to December 2022. We applied the Functional Status Scale to classify functional capacity before pediatric intensive care unit admission and at discharge, and to determine the onset of new morbidities. We assessed the association between invasive mechanical ventilation use and the development of new morbidity (defined as an increase of at least three points in the Functional Status Scale at discharge, and as an increase of at least two points in any domain of Functional Status Scale at discharge), between invasive mechanical ventilation use and 12-month mortality after pediatric intensive care unit discharge, and of the onset of new morbidities and mortality during the same period. RESULTS: We included 423 patients, of whom 176 (41%) used invasive mechanical ventilation. The frequency of new morbidities was higher in the mechanically ventilated patients (39.2% versus 4.8%; p < 0.001). Invasive mechanical ventilation use was associated with the development of new morbidity (adjusted OR = 13; 95%CI = 6.6 - 27.3; p < 0.001). New morbidity was associated with increased mortality at 12 months after pediatric intensive care unit discharge (adjusted OR = 2.1; 95%CI = 1.2 - 3.7; p = 0.013), but mechanical ventilation was not. CONCLUSION: Critically ill children with cancer who required invasive mechanical ventilation during pediatric intensive care unit stay had 13-fold higher odds of developing new morbidities. The onset of new morbidity was associated with doubled odds of death within 12 months after pediatric intensive care unit discharge. However, invasive mechanical ventilation use was not directly associated with 12-month mortality.",
-              "title_ko": ""
-            }
-          ]
         }
       ],
       "hot_topics": [
         {
           "phrase": "mechanical ventilation",
-          "score": 105.4,
-          "paper_count": 6,
+          "score": 94.7,
+          "paper_count": 4,
           "pmids": [
             "39694585",
             "39642139",
             "39661844",
-            "41905394",
-            "41417397",
-            "42820513"
+            "41905394"
           ]
         },
         {
@@ -10114,18 +10140,6 @@
           ]
         },
         {
-          "phrase": "critically ill",
-          "score": 45.0,
-          "paper_count": 5,
-          "pmids": [
-            "39671440",
-            "39699429",
-            "42902295",
-            "39630830",
-            "42820513"
-          ]
-        },
-        {
           "phrase": "deep learning",
           "score": 44.6,
           "paper_count": 2,
@@ -10144,6 +10158,16 @@
           ]
         },
         {
+          "phrase": "trauma center",
+          "score": 43.6,
+          "paper_count": 3,
+          "pmids": [
+            "41380079",
+            "39668536",
+            "39648775"
+          ]
+        },
+        {
           "phrase": "machine learning",
           "score": 41.0,
           "paper_count": 5,
@@ -10158,11 +10182,10 @@
         {
           "phrase": "intensive unit",
           "score": 39.2,
-          "paper_count": 3,
+          "paper_count": 2,
           "pmids": [
             "39787549",
-            "41370468",
-            "42820513"
+            "41370468"
           ]
         },
         {
@@ -10175,12 +10198,13 @@
           ]
         },
         {
-          "phrase": "first aid",
-          "score": 36.4,
-          "paper_count": 2,
+          "phrase": "critically ill",
+          "score": 38.2,
+          "paper_count": 3,
           "pmids": [
-            "39699333",
-            "40224798"
+            "39671440",
+            "39699429",
+            "42902295"
           ]
         }
       ],
@@ -10205,18 +10229,9 @@
             "phrase": "cardiopulmonary resuscitation",
             "scores": [
               0.0,
-              65.3,
+              75.3,
               31.0,
               0.0
-            ]
-          },
-          {
-            "phrase": "cardiac arrest",
-            "scores": [
-              0.0,
-              37.5,
-              36.4,
-              10.0
             ]
           },
           {
@@ -10225,16 +10240,25 @@
               0.0,
               45.0,
               6.8,
-              30.0
+              40.0
             ]
           },
           {
-            "phrase": "brain injury",
+            "phrase": "cardiac arrest",
             "scores": [
               0.0,
-              40.9,
-              26.8,
-              10.0
+              37.5,
+              36.4,
+              0.0
+            ]
+          },
+          {
+            "phrase": "trauma center",
+            "scores": [
+              0.0,
+              33.6,
+              20.0,
+              20.0
             ]
           },
           {
