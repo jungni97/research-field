@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-29T00:00:43.887201Z",
+  "generated_at": "2026-10-29T23:59:18.164984Z",
   "window_days": 1095,
   "fields": [
     {
       "key": "preventive",
       "label": "예방의학",
-      "paper_count": 456,
+      "paper_count": 447,
       "journals": [
         {
           "journal": "The Orthopedic clinics of North America",
@@ -490,7 +490,7 @@
           "impact_factor": 1.5,
           "index_type": "미상",
           "quartile": "미상",
-          "paper_count": 84,
+          "paper_count": 80,
           "top_paper": {
             "pmid": "39949340",
             "title": "Analysis of factors influencing HPV vaccination intention among Chinese college students: structural equation modeling based on health belief theory.",
@@ -750,7 +750,7 @@
           "impact_factor": 1.5,
           "index_type": "미상",
           "quartile": "미상",
-          "paper_count": 4,
+          "paper_count": 3,
           "top_paper": {
             "pmid": "39963235",
             "title": "Evaluating passive immunity in piglets from sows vaccinated with a PEDV S protein subunit vaccine.",
@@ -835,34 +835,6 @@
               "field_label": "예방의학",
               "abstract": "BACKGROUND: Despite global recommendations for maternal tetanus-diphtheria-acellular pertussis (Tdap) vaccination to protect neonates, safety concerns persist regarding pregnancy-specific adverse events (AEs). We conducted a 20-year analysis of U.S. Vaccine Adverse Event Reporting System (VAERS) data (2005-2024) to characterize Tdap-associated AEs during pregnancy, with emphasis on understudied outcomes like chorioamnionitis. METHODS: We analyzed 870 pregnancy-related reports (128 serious) from 20,358 Tdap submissions using disproportionality analysis (Reporting Odds Ratio, ROR). Cases were identified via MedDRA-coded terms and free-text mining. Outcomes were stratified by System Organ Class (SOC), trimester, and AE seriousness. Novel signals were evaluated against product labeling and prior studies. RESULTS: 71.9% of AEs occurred within 30 days post-vaccination. No AEs of maternal death were found. Strong safety signals stillbirth (ROR 285.77, IC 8.01), preterm delivery (ROR 196.8, IC 7.51), and fetal death (ROR 140.83, IC 7.06) were found via disproportionality from a passive surveillance system, which required further validation in active surveillance studies. Pregnancy-specific AEs represented 22.3% of significant PTs, including 6 chorioamnionitis cases with most cases having documented obstetric risk factors. Novel signals fetal hypokinesia and urinary tract infection emerged as unlabeled risks. CONCLUSION: This analysis affirms Tdap's favorable safety profile while detecting statistically significant signals that merit additional research. The low absolute risk supports continued maternal immunization, but warrants enhanced monitoring in high-risk pregnancies. The findings highlight the importance of ongoing post-marketing surveillance for evaluating vaccine safety in pregnant populations and contribute to evidence-based decision-making in clinical practice and public health policy.",
               "title_ko": "임산부의 Tdap 백신 단독 사용에 대한 위험 신호 평가: 업데이트된 약물 역학적 연구."
-            },
-            {
-              "pmid": "42903070",
-              "title": "An intravaginal ring for HIV pre-exposure prophylaxis: assessment of safety and pharmacokinetics in a randomized, placebo-controlled clinical trial.",
-              "journal": "Frontiers in cellular and infection microbiology",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2026-10-06",
-              "authors": [
-                "Vincent KL",
-                "Moss JA",
-                "Marzinke MA"
-              ],
-              "citation_count": 0,
-              "rcr": null,
-              "volume": "16",
-              "issue": "",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/42903070/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": false,
-              "hot_score": 0.0,
-              "field": "preventive",
-              "field_label": "예방의학",
-              "abstract": "INTRODUCTION: In Eastern and Southern Africa, 63% of new HIV infections occurred in women and girls, with adolescent girls and young women representing a particularly vulnerable subpopulation. Effective vaginal products for HIV prevention are desirable because they are underrepresented in the currently approved portfolio and have attributes motivating product use. In this trial, we evaluated an innovative intravaginal ring (pod-IVR) as a platform for HIV pre-exposure prophylaxis (PrEP). OBJECTIVE: To measure the safety and multicompartment pharmacokinetics (PKs) of a pod-IVR delivering tenofovir disoproxil fumarate (TDF) combined with emtricitabine (FTC) in healthy women over 28 days. METHODS: The Phase 1 clinical trial consisted of a randomized order, controlled, double-blinded, crossover design. Ten women received either an active TDF-FTC pod-IVR or a placebo pod-IVR for 28 days, determined by 1:1 randomization, followed by product crossover for another 28 days. Safety was assessed in terms of adverse events related to product use, colposcopic examination, cervicovaginal epithelium thickness measurement by optical coherence tomography, and culture-independent assessment of the vaginal microbiome. Drug and/or drug metabolite concentrations were measured in cervicovaginal fluid (CVF), vaginal tissue, rectal tissue, rectal fluid, and plasma. RESULTS: There was no evidence of a statistically significant difference in related adverse-event counts between study products. There also was no evidence suggesting the study product altered the vaginal microbiome systematically or reproducibly. Systemic plasma exposure to tenofovir (TFV) and FTC was low, consistent with topical delivery. High median CVF concentrations of TFV (38.9 ng mg-1; 135×103 fmol mg-1) and FTC (239 ng mg-1; 966×103 fmol mg-1) were measured. Median vaginal tissue concentrations of the anabolites responsible for inhibition of HIV reverse transcriptase exceeded our target concentrations: TFV diphosphate 0.651×103 fmol mg-1 and FTC triphosphate 0.180×103 fmol mg-1. Drug concentrations in rectal tissue samples generally were below the analytical lower limits of quantification, but were quantifiable in rectal fluids, 130 (TFV) and 300 (FTC) times lower than in CVF. CONCLUSIONS: The TDF-FTC pod-IVRs were safe and well-tolerated over the 28 days of consecutive use. The PK data met the target benchmarks associated with protection from vaginal HIV infection. CLINICAL TRIAL REGISTRATION: https://clinicaltrials.gov/study/NCT03255915, identifier NCT03255915.",
-              "title_ko": "A intravaginal ring for HIV pre-exposure prephylaxis: assessment of safety and pharmacokinetics in a randomized, placebo-controlled clinical trial."
             },
             {
               "pmid": "41635716",
@@ -2755,7 +2727,7 @@
           "impact_factor": 1.5,
           "index_type": "미상",
           "quartile": "미상",
-          "paper_count": 15,
+          "paper_count": 16,
           "top_paper": {
             "pmid": "39981298",
             "title": "Staphylococcus aureus-specific TIGIT(+) Treg are present in the blood of healthy subjects - a hurdle for vaccination?",
@@ -3157,6 +3129,71 @@
               "field_label": "예방의학",
               "abstract": "Clinical exome and genome sequencing (ES/GS) have become indispensable diagnostic tools for rare genetic diseases (RGD). However, the interpretation of ES/GS presents a substantial operational challenge in clinical settings. Test interpretation requires the review of hundreds of genetic variants, a task that has become increasingly challenging given the rising use of ES/GS. In response, we present Clinical Assessment of Variants by Likelihood Ratios (CAVaLRi), which employ a modified likelihood ratio (LR) framework to assign diagnostic probabilities to candidate germline disease genes. CAVaLRi models aspects of the clinical variant assessment process, taking into consideration the predicted impact of the variant, the proband and parental genotypes, and the proband's clinical characteristics. It also factors in computational phenotype noise and weighs the relative significance of genotype, phenotype, and variant segregation information. We trained and tested CAVaLRi on variant and phenotype data from an internal cohort of 655 clinical ES cases. For validation, CAVaLRi's performance was benchmarked against four leading gene prioritization algorithms (Exomiser's hiPHIVE and PhenIX prioritizers, LIRICAL, and XRare) using a distinct cohort of 12,832 ES cases. Our findings reveal that CAVaLRi significantly outperforms its counterparts when clinician-curated phenotype sets are used, as evidenced by its superior precision-recall curve (PR AUC: 0.701) and average diagnostic gene rank (1.59). Notably, even when substituting highly focused clinician-curated phenotype sets with large and potentially nonspecific computationally derived phenotypes, CAVaLRi retains its precision (PR AUC: 0.658; diagnostic gene average rank: 1.68) and markedly outperforms other tools. In a large, heterogeneous validation cohort, CAVaLRi stood out as the most precise prioritization algorithm (PR AUC: 0.335; average diagnostic rank: 1.91). In conclusion, CAVaLRi presents a robust solution for prioritizing diagnostic genes, surpassing current methods. It demonstrates resilience to noisy, computationally-derived phenotypes, providing a scalable strategy to help labs focus on the most diagnostically relevant variants, thus addressing the growing demand for ES/GS interpretation.",
               "title_ko": "CAVaLRi: 진단 생식계열 변이의 신속한 식별을 위한 알고리즘."
+            }
+          ]
+        },
+        {
+          "journal": "BMJ (Clinical research ed.)",
+          "impact_factor": 93.6,
+          "index_type": "SCIE",
+          "quartile": "Q1",
+          "paper_count": 1,
+          "top_paper": {
+            "pmid": "42951282",
+            "title": "Impact of a large measles outbreak associated with transmission in the Americas and Canada's loss of measles elimination status: descriptive cohort study.",
+            "journal": "BMJ (Clinical research ed.)",
+            "impact_factor": 93.6,
+            "index_type": "SCIE",
+            "quartile": "Q1",
+            "pubdate": "2026-10-28",
+            "authors": [
+              "Wilson SE",
+              "Lim GH",
+              "Aloosh M"
+            ],
+            "citation_count": 0,
+            "rcr": null,
+            "volume": "395",
+            "issue": "",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42951282/",
+            "altmetric_score": 0,
+            "altmetric_news": 0,
+            "altmetric_social": 0,
+            "is_current_issue": false,
+            "hot_score": 18.0,
+            "field": "preventive",
+            "field_label": "예방의학",
+            "abstract": "OBJECTIVE: To describe the epidemiological characteristics, public health response, and evidence of international spread of a large measles outbreak that contributed to the loss of Canada's measles elimination status. DESIGN: Descriptive analysis of the cohort of measles outbreak cases reported to Ontario's public health surveillance system during the outbreak period: epidemiological week of 28 October 2024 to 6 October 2025. SETTING: Ontario, Canada. PARTICIPANTS: Individuals meeting the outbreak case definition for confirmed or probable measles infection during the outbreak period. EXPOSURE: Exposure to measles virus associated with the Ontario outbreak and related transmission chains. MAIN OUTCOME MEASURES: Demographic characteristics, vaccination status, admission to hospital, complications, pregnancy associated outcomes, mortality, and evidence of international spread based on measles virus genotyping and sequencing. Cases were identified using an outbreak-specific case definition incorporating epidemiological, clinical, laboratory, and viral sequencing criteria. Phylogenetic analysis of measles virus sequences was used to assess evidence of onwards spread to other countries. RESULTS: The outbreak consisted of 2377 cases (2064 confirmed and 313 probable) over 49 weeks and contributed to the loss of Canada's measles elimination status. Most cases (2146/2377, 90.3%) occurred among members of historically under-vaccinated communities, with limited spillover into the broader population. Among the 2377 cases, approximately three quarters of cases (n=1736, 73.0%) occurred in individuals aged 19 years or younger, 2121 (89.2%) were unvaccinated, and 97 (4.1%) had unknown vaccination status. The outbreak was associated with 166 (7%) admissions to hospital, 13 (<1%) admissions to intensive care unit, 51 (2.1%) infections during pregnancy, 10 (<1%) congenital measles infections, one (<1%) case of encephalitis, and one (<1%) infant death. Sequencing identified a novel N450 distinct sequence identifier that was subsequently detected in countries including the United States of America, Mexico, and the Netherlands. The outbreak strain was designated a World Health Organization named strain (MVs/Ontario.CAN/47.24). CONCLUSIONS: These findings highlight the risk of measles re-establishment in countries that have attained elimination and underscore the importance of culturally appropriate community engagement to build trust in immunisation and prevent future outbreaks. This outbreak shows the fragility of measles elimination in the presence of long standing immunity gaps within interconnected communities across the Americas and the population-level protection that limited broader community transmission.",
+            "title_ko": "미주 및 캐나다의 홍역 제거 상태 상실과 관련된 대규모 홍역 발병의 영향: 기술적 코호트 연구."
+          },
+          "papers": [
+            {
+              "pmid": "42951282",
+              "title": "Impact of a large measles outbreak associated with transmission in the Americas and Canada's loss of measles elimination status: descriptive cohort study.",
+              "journal": "BMJ (Clinical research ed.)",
+              "impact_factor": 93.6,
+              "index_type": "SCIE",
+              "quartile": "Q1",
+              "pubdate": "2026-10-28",
+              "authors": [
+                "Wilson SE",
+                "Lim GH",
+                "Aloosh M"
+              ],
+              "citation_count": 0,
+              "rcr": null,
+              "volume": "395",
+              "issue": "",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/42951282/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 18.0,
+              "field": "preventive",
+              "field_label": "예방의학",
+              "abstract": "OBJECTIVE: To describe the epidemiological characteristics, public health response, and evidence of international spread of a large measles outbreak that contributed to the loss of Canada's measles elimination status. DESIGN: Descriptive analysis of the cohort of measles outbreak cases reported to Ontario's public health surveillance system during the outbreak period: epidemiological week of 28 October 2024 to 6 October 2025. SETTING: Ontario, Canada. PARTICIPANTS: Individuals meeting the outbreak case definition for confirmed or probable measles infection during the outbreak period. EXPOSURE: Exposure to measles virus associated with the Ontario outbreak and related transmission chains. MAIN OUTCOME MEASURES: Demographic characteristics, vaccination status, admission to hospital, complications, pregnancy associated outcomes, mortality, and evidence of international spread based on measles virus genotyping and sequencing. Cases were identified using an outbreak-specific case definition incorporating epidemiological, clinical, laboratory, and viral sequencing criteria. Phylogenetic analysis of measles virus sequences was used to assess evidence of onwards spread to other countries. RESULTS: The outbreak consisted of 2377 cases (2064 confirmed and 313 probable) over 49 weeks and contributed to the loss of Canada's measles elimination status. Most cases (2146/2377, 90.3%) occurred among members of historically under-vaccinated communities, with limited spillover into the broader population. Among the 2377 cases, approximately three quarters of cases (n=1736, 73.0%) occurred in individuals aged 19 years or younger, 2121 (89.2%) were unvaccinated, and 97 (4.1%) had unknown vaccination status. The outbreak was associated with 166 (7%) admissions to hospital, 13 (<1%) admissions to intensive care unit, 51 (2.1%) infections during pregnancy, 10 (<1%) congenital measles infections, one (<1%) case of encephalitis, and one (<1%) infant death. Sequencing identified a novel N450 distinct sequence identifier that was subsequently detected in countries including the United States of America, Mexico, and the Netherlands. The outbreak strain was designated a World Health Organization named strain (MVs/Ontario.CAN/47.24). CONCLUSIONS: These findings highlight the risk of measles re-establishment in countries that have attained elimination and underscore the importance of culturally appropriate community engagement to build trust in immunisation and prevent future outbreaks. This outbreak shows the fragility of measles elimination in the presence of long standing immunity gaps within interconnected communities across the Americas and the population-level protection that limited broader community transmission.",
+              "title_ko": "미주 및 캐나다의 홍역 제거 상태 상실과 관련된 대규모 홍역 발병의 영향: 기술적 코호트 연구."
             }
           ]
         },
@@ -3594,6 +3631,69 @@
               "field_label": "예방의학",
               "abstract": "INTRODUCTION: Data on the correlation between SARS-CoV-2 neutralizing activity and strain-specific anti-RBD IgG antibody (anti-RBD) titers is limited, particularly in the context of XBB.1.5-adapted vaccination. METHODS: A direct comparison of neutralizing activity, measured as 50 % neutralization (NT50), and anti-RBD titers, measured using an ELISA, was conducted using serum samples collected in Japan before and after XBB.1.5-adapted mRNA vaccination. RESULTS: A total of 108 serum samples from 54 patients were analyzed. A strong correlation between neutralizing activity and anti-RBD titers was observed for the wild-type (WT), XBB.1.5, JN.1, and KP.3 strains (r = 0.94, 0.87, 0.86, and 0.82, respectively). This correlation persisted when stratifying pre- and post-vaccination samples (r = 0.92, 0.83, 0.85, and 0.82, respectively, for pre-vaccination samples and r = 0.96, 0.85, 0.82, and 0.75, respectively, for post-vaccination samples). Both NT50 and anti-RBD titers significantly increased against all four tested strains after vaccination (p < 0.001), with the highest fold change observed for the XBB.1.5 variant. Additionally, variant specificity, defined as the ratio of variant to WT values, significantly increased for XBB.1.5, JN.1, and KP.3 after vaccination in NT50 and was also observed in anti-RBD titers. CONCLUSIONS: These findings, demonstrating a strong correlation with neutralizing activity not only against the WT strain but also against the XBB.1.5, JN.1, and KP.3 variants, suggest that strain-specific anti-RBD IgG antibody titers would be useful as an indicator of humoral immunity following XBB.1.5-adapted vaccination.",
               "title_ko": "WT, XBB.1.5, JN.1 및 KP.3 균주에 대한 균주-특이적 항-RBD IgG 항체 역가는 SARS-CoV-2 XBB.1.5-적응 mRNA 백신접종 후 중화 활성과 일관되게 상관관계가 있다."
+            }
+          ]
+        },
+        {
+          "journal": "North Carolina medical journal",
+          "impact_factor": 1.5,
+          "index_type": "미상",
+          "quartile": "미상",
+          "paper_count": 1,
+          "top_paper": {
+            "pmid": "41804066",
+            "title": "Promoting Third Grade Reading Proficiency in North Carolina: Policy Considerations.",
+            "journal": "North Carolina medical journal",
+            "impact_factor": 1.5,
+            "index_type": "미상",
+            "quartile": "미상",
+            "pubdate": "2025-10-30",
+            "authors": [
+              "Gopalan P",
+              "Siddiqi J"
+            ],
+            "citation_count": 1,
+            "rcr": null,
+            "volume": "86",
+            "issue": "3",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/41804066/",
+            "altmetric_score": 0,
+            "altmetric_news": 0,
+            "altmetric_social": 0,
+            "is_current_issue": true,
+            "hot_score": 16.9,
+            "field": "preventive",
+            "field_label": "예방의학",
+            "abstract": "North Carolina's NC Pre-K program currently meets 9 of the 10 benchmarks for high-quality preschools established by the National Institute for Early Education Research. Longitudinal studies consistently show improvements in students' third grade math and reading proficiency and reductions in special education placement and grade retention. Increasing investment in NC Pre-K will expand opportunities for North Carolina's children to attain school readiness, third grade reading proficiency, and longer-term academic and social outcomes.",
+            "title_ko": "노스캐롤라이나에서 3학년 읽기 능력 증진: 정책 고려 사항."
+          },
+          "papers": [
+            {
+              "pmid": "41804066",
+              "title": "Promoting Third Grade Reading Proficiency in North Carolina: Policy Considerations.",
+              "journal": "North Carolina medical journal",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2025-10-30",
+              "authors": [
+                "Gopalan P",
+                "Siddiqi J"
+              ],
+              "citation_count": 1,
+              "rcr": null,
+              "volume": "86",
+              "issue": "3",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/41804066/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": true,
+              "hot_score": 16.9,
+              "field": "preventive",
+              "field_label": "예방의학",
+              "abstract": "North Carolina's NC Pre-K program currently meets 9 of the 10 benchmarks for high-quality preschools established by the National Institute for Early Education Research. Longitudinal studies consistently show improvements in students' third grade math and reading proficiency and reductions in special education placement and grade retention. Increasing investment in NC Pre-K will expand opportunities for North Carolina's children to attain school readiness, third grade reading proficiency, and longer-term academic and social outcomes.",
+              "title_ko": "노스캐롤라이나에서 3학년 읽기 능력 증진: 정책 고려 사항."
             }
           ]
         },
@@ -4408,7 +4508,7 @@
           "impact_factor": 1.5,
           "index_type": "미상",
           "quartile": "미상",
-          "paper_count": 5,
+          "paper_count": 6,
           "top_paper": {
             "pmid": "39877848",
             "title": "Shifting paradigms in primary aldosteronism: reconsideration of screening strategy via integrating pathophysiological insights.",
@@ -4523,6 +4623,34 @@
               "title_ko": "시기적절한 진단과 치료가 선천성 갑상선 기능 저하증 아동의 성장과 신체 비례에 미치는 영향."
             },
             {
+              "pmid": "42952624",
+              "title": "Association between serum estradiol levels on the hCG trigger day and euploid blastocyst rate in preimplantation genetic testing cycles: a retrospective cohort study.",
+              "journal": "Frontiers in endocrinology",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2026-10-14",
+              "authors": [
+                "Shuai J",
+                "Liu W",
+                "Sun X"
+              ],
+              "citation_count": 0,
+              "rcr": null,
+              "volume": "17",
+              "issue": "",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/42952624/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 0.0,
+              "field": "preventive",
+              "field_label": "예방의학",
+              "abstract": "BACKGROUND: While serum estradiol (E2) predicts ovarian response and endometrial receptivity, its role in embryonic development remains unclear. This study assessed the association between E2 levels on the day of human chorionic gonadotropin (hCG) trigger and the euploid blastocyst rate (EBR) in preimplantation genetic testing (PGT) cycles. METHODS: This retrospective study included 3,082 couples who underwent PGT between 2017 and 2022, comprising 18,036 oocytes and 5,009 blastocysts screened using next-generation sequencing. Oocytes were stratified into tertiles based on serum E2 levels on the hCG trigger day: Group 1 (<3149 pg/mL), Group 2 (3149-4725.66 pg/mL), and Group 3 (≥4725.67 pg/mL). Associations between serum E2 levels and both blastocyst formation rate (BFR) and EBR were assessed using univariate stratified analyses and multivariable generalized estimating equation (GEE) models (crude, Model I, Model II) accounting for patient-level clustering. Restricted cubic spline (RCS) analysis with three knots, collinearity diagnostics (variance inflation factor, VIF), and formal E2 × total gonadotropin (Gn) dose interaction tests were additionally performed. RESULTS: Univariate stratified analyses showed subgroup-specific patterns: higher E2 generally correlated with lower blastocyst formation rate (BFR) yet higher EBR. In fully adjusted GEE Model II, E2 was not associated with BFR (Group3 vs Group1: aOR 1.050, 95%CI 0.910-1.212, P = 0.502; P-trend=0.653), while high E2 was associated with higher EBR (aOR 1.295, 95%CI 1.028-1.631, P = 0.028; P-trend=0.047). RCS revealed no significant overall E2-BFR (P-overall=0.107; P-nonlinearity=0.055) or E2-EBR associations (P-overall=0.100; P-nonlinearity=0.119), although the EBR curve showed an upward high-E2 trend consistent with tertile results. No multicollinearity was detected (all VIF <6, range 1.137-5.399), and no significant E2-Gn interactions existed (all P>0.05). Sensitivity analysis excluding oocyte number yielded consistent EBR estimates (aOR 1.232, 95%CI 1.006-1.508, P = 0.044). CONCLUSION: In PGT cycles, elevated hCG-trigger-day E2 was not associated with BFR but was modestly associated with higher EBR. These observational findings require prospective validation and should not be interpreted as evidence of a causal or protective effect of E2 on embryonic chromosomal integrity.",
+              "title_ko": "이식 전 유전자 검사 주기에서 HCG 유발일에 대한 혈청 에스트라디올 수준과 유수체 배반포 비율 간의 연관성: 후향적 코호트 연구."
+            },
+            {
               "pmid": "42908667",
               "title": "Development and external validation of a nomogram for identifying patients with thyroid eye disease who screen positive for depressive symptoms: a two-center study.",
               "journal": "Frontiers in endocrinology",
@@ -4579,276 +4707,6 @@
               "title_ko": "무정자증이 있는 부부의 임신 결과 개선에 있어서 이수성에 대한 착상 전 유전자 검사의 효능: 다기관 무작위배정 대조 시험을 위한 임상시험 계획서."
             }
           ]
-        },
-        {
-          "journal": "Nutrition (Burbank, Los Angeles County, Calif.)",
-          "impact_factor": 1.5,
-          "index_type": "미상",
-          "quartile": "미상",
-          "paper_count": 1,
-          "top_paper": {
-            "pmid": "42048757",
-            "title": "Mediterranean diet for the primary prevention of cardiometabolic diseases: evidence from a systematic review and meta-analysis featured in the Italian National Guidelines \"La Dieta Mediterranea\".",
-            "journal": "Nutrition (Burbank, Los Angeles County, Calif.)",
-            "impact_factor": 1.5,
-            "index_type": "미상",
-            "quartile": "미상",
-            "pubdate": "2025-08-27",
-            "authors": [
-              "Muscogiuri G",
-              "Maiorino MI",
-              "Paolini B"
-            ],
-            "citation_count": 3,
-            "rcr": null,
-            "volume": "148",
-            "issue": "",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/42048757/",
-            "altmetric_score": 0,
-            "altmetric_news": 0,
-            "altmetric_social": 0,
-            "is_current_issue": false,
-            "hot_score": 13.8,
-            "field": "preventive",
-            "field_label": "예방의학",
-            "abstract": "OBJECTIVES: The Mediterranean diet (MD) is widely recognized for its potential health benefits, yet the extent and certainty of its association with metabolic outcomes remains incompletely understood. The aim of this systematic review and meta-analysis was to evaluate the relationship between adherence to the MD and the risk or prevalence of cardiometabolic disorders in the general population, with a focus on its role in primordial and primary prevention. METHODS: This review followed PRISMA 2020 and MOOSE guidelines. A systematic search of PubMed/MEDLINE, Scopus, Embase, and the Cochrane Library was conducted through February 28, 2024. Eligible studies examined adherence to the MD in relation to the risk or prevalence of metabolic disorders. Study quality was assessed using the Newcastle-Ottawa Scale, and evidence certainty was rated with the NUTRI-GRADE framework. Pooled effect estimates were calculated using a random-effects model and reported as risk ratios (RR), hazard ratios (HR), or odds ratios (OR), as appropriate. RESULTS: Sixty studies comprising over 1.1 million participants were included. Higher MD adherence was consistently associated with a reduced risk of T2DM (RR: 0.96; 95% CI: 0.95-0.97), supported by moderate to high certainty of evidence. Similar inverse associations were observed for overweight (OR: 0.94; 95% CI: 0.91-0.97) and adult obesity (OR: 0.95; 95% CI: 0.93-0.97). The PREDIMED randomized trial further demonstrated a 20% reduction in diabetes incidence with MD intervention. Evidence for metabolic syndrome (RR: 0.98; 95% CI: 0.98-0.99) and hyperuricemia (OR: 0.43; 95% CI: 0.25-0.75) was suggestive of protective effects, though with lower certainty. Associations with hypercholesterolemia and hypertriglyceridemia were inconsistent and inconclusive. CONCLUSIONS: Adherence to the Mediterranean diet is associated with a lower risk of several metabolic disorders, particularly T2DM and obesity in adults. These findings support the inclusion of the MD in public health strategies for metabolic disease prevention. Further high-quality longitudinal and interventional studies are warranted to clarify its effects on other metabolic outcomes.",
-            "title_ko": "심대사 질환의 일차 예방을 위한 지중해 식단: 이탈리아 국가 가이드라인 \"La Dieta Mediterranea\" 에 소개된 체계적인 검토 및 메타 분석의 증거."
-          },
-          "papers": [
-            {
-              "pmid": "42048757",
-              "title": "Mediterranean diet for the primary prevention of cardiometabolic diseases: evidence from a systematic review and meta-analysis featured in the Italian National Guidelines \"La Dieta Mediterranea\".",
-              "journal": "Nutrition (Burbank, Los Angeles County, Calif.)",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2025-08-27",
-              "authors": [
-                "Muscogiuri G",
-                "Maiorino MI",
-                "Paolini B"
-              ],
-              "citation_count": 3,
-              "rcr": null,
-              "volume": "148",
-              "issue": "",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/42048757/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": false,
-              "hot_score": 13.8,
-              "field": "preventive",
-              "field_label": "예방의학",
-              "abstract": "OBJECTIVES: The Mediterranean diet (MD) is widely recognized for its potential health benefits, yet the extent and certainty of its association with metabolic outcomes remains incompletely understood. The aim of this systematic review and meta-analysis was to evaluate the relationship between adherence to the MD and the risk or prevalence of cardiometabolic disorders in the general population, with a focus on its role in primordial and primary prevention. METHODS: This review followed PRISMA 2020 and MOOSE guidelines. A systematic search of PubMed/MEDLINE, Scopus, Embase, and the Cochrane Library was conducted through February 28, 2024. Eligible studies examined adherence to the MD in relation to the risk or prevalence of metabolic disorders. Study quality was assessed using the Newcastle-Ottawa Scale, and evidence certainty was rated with the NUTRI-GRADE framework. Pooled effect estimates were calculated using a random-effects model and reported as risk ratios (RR), hazard ratios (HR), or odds ratios (OR), as appropriate. RESULTS: Sixty studies comprising over 1.1 million participants were included. Higher MD adherence was consistently associated with a reduced risk of T2DM (RR: 0.96; 95% CI: 0.95-0.97), supported by moderate to high certainty of evidence. Similar inverse associations were observed for overweight (OR: 0.94; 95% CI: 0.91-0.97) and adult obesity (OR: 0.95; 95% CI: 0.93-0.97). The PREDIMED randomized trial further demonstrated a 20% reduction in diabetes incidence with MD intervention. Evidence for metabolic syndrome (RR: 0.98; 95% CI: 0.98-0.99) and hyperuricemia (OR: 0.43; 95% CI: 0.25-0.75) was suggestive of protective effects, though with lower certainty. Associations with hypercholesterolemia and hypertriglyceridemia were inconsistent and inconclusive. CONCLUSIONS: Adherence to the Mediterranean diet is associated with a lower risk of several metabolic disorders, particularly T2DM and obesity in adults. These findings support the inclusion of the MD in public health strategies for metabolic disease prevention. Further high-quality longitudinal and interventional studies are warranted to clarify its effects on other metabolic outcomes.",
-              "title_ko": "심대사 질환의 일차 예방을 위한 지중해 식단: 이탈리아 국가 가이드라인 \"La Dieta Mediterranea\" 에 소개된 체계적인 검토 및 메타 분석의 증거."
-            }
-          ]
-        },
-        {
-          "journal": "Best practice & research. Clinical gastroenterology",
-          "impact_factor": 1.5,
-          "index_type": "미상",
-          "quartile": "미상",
-          "paper_count": 6,
-          "top_paper": {
-            "pmid": "41724536",
-            "title": "Developments in the roll-out and performance of CRC screening in Europe.",
-            "journal": "Best practice & research. Clinical gastroenterology",
-            "impact_factor": 1.5,
-            "index_type": "미상",
-            "quartile": "미상",
-            "pubdate": "2025-08-05",
-            "authors": [
-              "Carbotti G",
-              "van den Berg DM",
-              "Carvalho AL"
-            ],
-            "citation_count": 3,
-            "rcr": null,
-            "volume": "80",
-            "issue": "",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/41724536/",
-            "altmetric_score": 0,
-            "altmetric_news": 0,
-            "altmetric_social": 0,
-            "is_current_issue": false,
-            "hot_score": 13.8,
-            "field": "preventive",
-            "field_label": "예방의학",
-            "abstract": "The heterogeneous implementation of colorectal cancer screening programs across Europe makes performance comparison challenging. This study computed and analyzed seven key indicators of screening performance for eighteen European programs between 2011 and 2022. Trends in colorectal cancer incidence and mortality were also examined in relation to when each screening program was introduced. Coverage indicators showed considerable variation across programs but generally increased until the onset of the COVID pandemic. Yield indicators remained stable overall, whereas jumps were associated to protocol changes. In most countries, a decline in incidence followed the introduction of the screening program, whereas the connection of screening with mortality was less evident. The analysis of comparable screening performance indicators over time allows for cross-country and longitudinal monitoring of the programs. The observed decline in incidence following the implementation of fully rolled-out programs highlights the importance and effectiveness of well-organized screening in reducing the burden of the disease.",
-            "title_ko": "유럽에서 CRC 스크리닝의 출시 및 성능의 발전."
-          },
-          "papers": [
-            {
-              "pmid": "41724536",
-              "title": "Developments in the roll-out and performance of CRC screening in Europe.",
-              "journal": "Best practice & research. Clinical gastroenterology",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2025-08-05",
-              "authors": [
-                "Carbotti G",
-                "van den Berg DM",
-                "Carvalho AL"
-              ],
-              "citation_count": 3,
-              "rcr": null,
-              "volume": "80",
-              "issue": "",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/41724536/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": false,
-              "hot_score": 13.8,
-              "field": "preventive",
-              "field_label": "예방의학",
-              "abstract": "The heterogeneous implementation of colorectal cancer screening programs across Europe makes performance comparison challenging. This study computed and analyzed seven key indicators of screening performance for eighteen European programs between 2011 and 2022. Trends in colorectal cancer incidence and mortality were also examined in relation to when each screening program was introduced. Coverage indicators showed considerable variation across programs but generally increased until the onset of the COVID pandemic. Yield indicators remained stable overall, whereas jumps were associated to protocol changes. In most countries, a decline in incidence followed the introduction of the screening program, whereas the connection of screening with mortality was less evident. The analysis of comparable screening performance indicators over time allows for cross-country and longitudinal monitoring of the programs. The observed decline in incidence following the implementation of fully rolled-out programs highlights the importance and effectiveness of well-organized screening in reducing the burden of the disease.",
-              "title_ko": "유럽에서 CRC 스크리닝의 출시 및 성능의 발전."
-            },
-            {
-              "pmid": "41724542",
-              "title": "Elements of screening and early diagnosis of lower GI neoplastic lesions - an overview.",
-              "journal": "Best practice & research. Clinical gastroenterology",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2025-09-30",
-              "authors": [
-                "Sheridan B",
-                "Rabeneck L",
-                "Toes-Zoutendijk E"
-              ],
-              "citation_count": 1,
-              "rcr": null,
-              "volume": "80",
-              "issue": "",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/41724542/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": false,
-              "hot_score": 6.9,
-              "field": "preventive",
-              "field_label": "예방의학",
-              "abstract": "Dobrow's 12 consolidated principles were applied to evaluate the extent to which colorectal cancer (CRC) screening programmes align with these established screening principles. The principles within the first domain - disease and conditions - are fully met. CRC represents a significant global public health burden with a well-understood natural history, including a long preclinical phase. These features make CRC suitable for population-based screening. Current guidelines recommend screening average-risk individuals, with starting ages as early as 45 years and stopping ages up to 85 years in some programs, although most programs target those aged 50-75 years. For Dobrow's second domain - test or intervention - we found that established CRC screening methods (faecal immunochemical testing (FIT), colonoscopy, and flexible sigmoidoscopy) have known and acceptable sensitivity and specificity. These tests have clear thresholds for interpretation and follow-up and are associated with reductions in both CRC incidence and mortality, confirming their clinical effectiveness in organised programmes. Dobrow's third domain - programme or system - addresses how screening programmes should be structured, implemented, and integrated into health systems. Unlike the other domains, this is fully achieved in only a small minority of programmes. While implementation may vary from country to country, the principles provide benchmarks for well-organised programmes. CRC screening is generally cost-effective and widely accepted by patients, providers, and society. Successful programmes require dedicated teams, infrastructure, and systems for coordination and quality assurance. Before implementation, a CRC screening initiative must meet, or have a clear plan to meet 12 principles. In summary, robust infrastructure and governance are essential for organised CRC screening programmes to align with the Dobrow principles and achieve long-term success.",
-              "title_ko": "하부 위장관 신생물 병변의 스크리닝 및 조기 진단의 요소 - 개요."
-            },
-            {
-              "pmid": "41724538",
-              "title": "Evidence-based decision analysis guiding clinical guidelines for an organized population-based screening for colorectal cancer.",
-              "journal": "Best practice & research. Clinical gastroenterology",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2025-08-08",
-              "authors": [
-                "Jahn B",
-                "Sroczynski G",
-                "Santamaria J"
-              ],
-              "citation_count": 1,
-              "rcr": null,
-              "volume": "80",
-              "issue": "",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/41724538/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": false,
-              "hot_score": 6.9,
-              "field": "preventive",
-              "field_label": "예방의학",
-              "abstract": "BACKGROUND: This study includes the long-term benefit-harm analysis of population-wide colorectal cancer (CRC) screening strategies commissioned by the Austrian National Committee for Cancer Screening (ANCCS). In addition, we present the related cost-effectiveness analysis. METHODS: Using a validated decision-analytic Markov state transition model, we evaluated 17 by the ANCCS suggested CRC-screening strategies differing in tests (fecal-immunochemical test (FIT), guaiac-based fecal occult blood test (gFOBT), colonoscopy (COL)), age at start (40,45,50 years) and end (COL: 65,70,75 years, FIT/gFOBT 75 years), and intervals (2,5,10 years). Positive FIT/gFOBT tests are followed by colonoscopy. Evaluated outcomes included health benefits (life-years gained (LYG), CRC-cases/CRC-deaths avoided), harms (severe colonoscopy complications, psychological harms due to positive test results (PTR), additional colonoscopies), stepwise evaluated incremental harm-benefit ratios (IHBR), and incremental cost-effectiveness ratios (ICER). We applied the Austrian healthcare system perspective, a lifelong-time horizon and conducted sensitivity analyses. RESULTS: The most effective colonoscopy-based screening strategy is colonoscopy at age 40/50/60/70 (449 LYG per 1000 individuals) with an IHBR of 3 PTR/LYG compared to COL45/55/65 (ICER: 13,032 Euro/LYG vs. COL45/55/65/75). The most effective fecal blood-test-based strategy is annual FIT testing starting at age 40 years (488 LYG per 1000 individuals) and an IHBR of 30 PTR/LYG compared to FIT40+2y (biennial FIT starting age 40). All biennial FIT-based screening strategies represent alternative options on the harm-benefit efficiency frontier with IHBR of PTR/LYG: 2 (FIT50+2y vs. no screening), 5 (FIT45+2y vs. FIT50+2y), and 7 (FIT40+2y vs. FIT45+2y). The cost-effectiveness analyses provided stepwise ICERs ranging from 3391 Euro/LYG (FIT45+2y vs. FIT50+2y) to 47,812 Euro/LYG (FIT40+1y vs. FIT40+2y). CONCLUSIONS: Our decision analysis shows benefit-harm and cost-effectiveness trade-offs. In the consensus meeting of the ANCCS, colonoscopy- and FIT-based screening starting at age 45 were selected as suggested screening strategies, accounting for benefit-harm balance, evidence level, and implementation aspects.",
-              "title_ko": "대장암에 대한 조직화된 모집단 기반 선별 검사를 위한 임상 가이드라인을 안내하는 증거 기반 의사결정 분석."
-            },
-            {
-              "pmid": "41724531",
-              "title": "Risk-based screening for early detection of colorectal cancer: an overview.",
-              "journal": "Best practice & research. Clinical gastroenterology",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2025-05-08",
-              "authors": [
-                "Brück CC",
-                "Mwangi LW",
-                "van Wifferen F"
-              ],
-              "citation_count": 1,
-              "rcr": null,
-              "volume": "80",
-              "issue": "",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/41724531/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": false,
-              "hot_score": 6.9,
-              "field": "preventive",
-              "field_label": "예방의학",
-              "abstract": "Screening programs for colorectal cancer (CRC) reduce CRC incidence and mortality, while balancing benefits and harms of the population. However, benefits vary widely among individuals. Low-risk individuals may face unnecessary burdens, while high-risk individuals could benefit from more intensive screening. Risk-based screening addresses these issues by tailoring screening strategies using risk factors such as age, sex, race, ethnicity, lifestyle factors, genetic predisposition, and previous screening results. Potential benefits of risk-based screening include improved cost-effectiveness, efficient resource use and reduced unnecessary procedures. Challenges include a lack of validated risk stratification tools, data availability, healthcare capacity, and ethical considerations. Several countries started to evaluate risk-based screening programs with optimistic results. While promising, further research is necessary to address the remaining challenges. Nevertheless, risk-based screening has the potential to enhance patient experiences, optimize the balance of individual-level benefits and harms, and positively impact the overall burden and costs associated with CRC screening.",
-              "title_ko": "대장암의 조기 발견을 위한 위험 기반 선별검사: 개요."
-            },
-            {
-              "pmid": "41724541",
-              "title": "Is blood the new stool? Status of blood tests for CRC screening.",
-              "journal": "Best practice & research. Clinical gastroenterology",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2025-09-08",
-              "authors": [
-                "Symonds EL",
-                "Dix M",
-                "Wassie MM"
-              ],
-              "citation_count": 0,
-              "rcr": null,
-              "volume": "80",
-              "issue": "",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/41724541/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": false,
-              "hot_score": 0.0,
-              "field": "preventive",
-              "field_label": "예방의학",
-              "abstract": "Colorectal cancer (CRC) screening has proven to decrease CRC incidence and mortality, with many countries providing faecal immunochemical tests (FIT) in screening programs. Effectiveness, however, is limited in the setting of low participation rates, which has prompted growing research into blood-based screening. While blood testing is anticipated to improve participation due to greater population acceptability, its readiness for widespread implementation remains unclear, and comparative accuracy data against FIT is needed. This article provides a systematic review and meta-analysis on blood-based CRC screening tests that have been directly compared to FIT, and summarises the evidence for broader program considerations, including analytical quality, consumer preferences, participation rates and cost effectiveness. The findings show that blood tests currently lack the sensitivity and cost-effectiveness to replace FIT in screening programs, and that their use should be limited to individuals unable or unwilling to complete FIT.",
-              "title_ko": "피가 새로운 의자입니까? CRC 선별 검사를 위한 혈액 검사 상태."
-            },
-            {
-              "pmid": "41724540",
-              "title": "Global impact of COVID-19 on organized CRC screening programs: lessons learned.",
-              "journal": "Best practice & research. Clinical gastroenterology",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2025-09-05",
-              "authors": [
-                "de Jonge L",
-                "Lansdorp-Vogelaar I",
-                "Doria-Rose VP"
-              ],
-              "citation_count": 0,
-              "rcr": null,
-              "volume": "80",
-              "issue": "",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/41724540/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": false,
-              "hot_score": 0.0,
-              "field": "preventive",
-              "field_label": "예방의학",
-              "abstract": "Using a standardized data template, this study retrospectively collected data about colorectal cancer (CRC) screening activity in 2020 and 2021 to estimate the impact of the COVID-19 pandemic compared to the pre-pandemic period (2018 or 2019). Data were collected from 17 programs in 14 countries of which 15 were population-based programs. Invitation coverage was decreased by up to 53.7 % in 2020. Participation among those invited was similar in both periods for all programs. The maximum backlog in invitations was less than 7.4 months in 2020 and 3.3 months for 2021. Nine out of 15 programs observed a decrease in the number of detected CRCs in 2020. Four programs showed a positive percentage change in CRCs detected in 2021 relative to the pre-pandemic period. Half of the countries observed a worse stage-distribution in 2020/2021. Overall, organized CRC screening programs operated at lower screening activity, but screening outcomes were similar compared to the pre-pandemic period.",
-              "title_ko": "코로나19가 조직화된 CRC 선별 검사 프로그램에 미치는 전 세계적인 영향: 교훈."
-            }
-          ]
         }
       ],
       "hot_topics": [
@@ -4880,25 +4738,27 @@
         {
           "phrase": "genetic testing",
           "score": 52.7,
-          "paper_count": 6,
+          "paper_count": 7,
           "pmids": [
             "40262446",
             "39920027",
             "41690212",
             "40024009",
             "40225932",
+            "42952624",
             "42908544"
           ]
         },
         {
           "phrase": "preimplantation genetic",
           "score": 41.7,
-          "paper_count": 5,
+          "paper_count": 6,
           "pmids": [
             "40262446",
             "39920027",
             "41690212",
             "40024009",
+            "42952624",
             "42908544"
           ]
         },
@@ -5002,21 +4862,21 @@
             ]
           },
           {
+            "phrase": "physical activity",
+            "scores": [
+              0.0,
+              13.8,
+              20.0,
+              20.0
+            ]
+          },
+          {
             "phrase": "genetic testing",
             "scores": [
               0.0,
               42.7,
               10.0,
-              20.0
-            ]
-          },
-          {
-            "phrase": "breast cancer",
-            "scores": [
-              16.9,
-              0.0,
-              16.9,
-              20.0
+              0.0
             ]
           },
           {
@@ -5043,7 +4903,7 @@
     {
       "key": "emergency",
       "label": "응급의학",
-      "paper_count": 456,
+      "paper_count": 451,
       "journals": [
         {
           "journal": "Resuscitation",
@@ -5606,7 +5466,7 @@
               "field": "emergency",
               "field_label": "응급의학",
               "abstract": "OBJECTIVE: Cardiac arrest is a leading cause of global mortality, for which timely cardiopulmonary resuscitation (CPR) is a critical intervention. However, public competence in CPR remains low. Grounded in the Theory of Planned Behavior (TPB), this study investigated the factors influencing CPR implementation among college freshmen by examining their behavioral intention. METHODS: A cross-sectional study was conducted among college freshmen undergoing a basic entrance physical health screening at Fuzhou First General Hospital between September 2 and 9, 2024. Participants were randomly selected to complete an electronic questionnaire, which included a general information sheet and the validated Public Behavior Intention Scale for Performing CPR, adapted with input from emergency medicine experts. Statistical analyses included correlation, regression, and mediation analysis. RESULTS: Among 4,929 valid questionnaires analyzed, a higher willingness to perform CPR was associated with undergraduate enrollment, good personal and family health status, prior CPR performance, and no history of transient loss of consciousness. Multiple linear regression identified behavioral attitude (β = 0.439), subjective norm (β = 0.272), CPR knowledge (β = 0.027), and perceived behavioral control (β = 0.070) as significant predictors of CPR behavioral intention (all P < 0.01). Mediation analysis further revealed that CPR knowledge influenced behavioral intention primarily through its effects on behavioral attitude (79.43% of the total effect), subjective norm (61.31%), and perceived behavioral control (43.67%). CONCLUSION: Behavioral attitude serves as the principal pathway through which CPR knowledge translates into intention to act. These findings underscore that targeted CPR training in universities should address both knowledge and psychosocial factors to strengthen students' willingness to act.",
-              "title_ko": ""
+              "title_ko": "대학 신입생의 심폐소생술 시행에 영향을 미치는 요인: 계획된 행동 이론에 근거."
             },
             {
               "pmid": "41329785",
@@ -5634,7 +5494,7 @@
               "field": "emergency",
               "field_label": "응급의학",
               "abstract": "BACKGROUND: Emergency department (ED) overcrowding remains a significant national issue in Canada. To address this issue, SurgeCon, a quality improvement program, was implemented to enhance patient flow, improve communication, and reduce wait times. Despite their potential, interventions like SurgeCon lack evidence on real-world implementation and sustainability in high-pressure, resource-limited ED settings. OBJECTIVE: This study explores the factors influencing the implementation of SurgeCon in four Canadian EDs using the Consolidated Framework for Implementation Research (CFIR) to identify facilitators and barriers. METHODS: Data were collected over 2.5 years-before, during, and after SurgeCon implementation-in two rural and two urban EDs in Canada using a longitudinal qualitative research (LQR) design. Forty-two semi-structured interviews with physicians, nurses, and hospital managers were analyzed through inductive and deductive thematic analysis, guided by the CFIR framework. RESULTS: Facilitators were predominantly associated with CFIR's Innovation Characteristics, particularly the perceived benefits of real-time data collection, workflow optimization, and enhanced communication. However, barriers-mainly linked to outer setting (COVID-19 disruptions), inner setting (resource constraints and fragmented communication), and individual characteristics (leadership engagement and motivation)-outweighed these advantages. CONCLUSION: To strengthen adoption, this study proposes eight strategic action plans focusing on leadership commitment, automation, cross-departmental collaboration, feedback loops and change management strategies to maximize facilitators and address implementation barriers. TRIAL REGISTRATION: ClinicalTrials.gov. NCT04789902. 10/03/2021.",
-              "title_ko": ""
+              "title_ko": "구현 연구를 위한 통합 프레임워크에 의해 안내되는 4개의 캐나다 응급 부서에서 SurgeCon 구현에 영향을 미치는 요인."
             },
             {
               "pmid": "39689150",
@@ -5662,7 +5522,7 @@
               "field": "emergency",
               "field_label": "응급의학",
               "abstract": "COVID-19 triage protocols are resource allocation processes to deal with the potential lack of resources in Intensive Care Units (ICU). They have given rise to numerous ethical issues and controversies. Among them is the fear that people will be denied access to ICU on the basis of judgments about their quality of life, social value, frailty or age. This online Democratic Deliberation (DD) with members of the public aimed to discover the necessary considerations and conditions that make triage protocols more acceptable to guide future decisions in terms of the values and criteria that must underpin triage protocols. We simultaneously conducted the online DD in Quebec and Ontario on May 28th and June 4th, 2022, among adults who do not work in the healthcare sector, recruited randomly among the members of the public registered on Leger Opinion poll website to favor sociodemographic diversity. Data was analyzed using thematic analysis. Among the participants who took part in the study, 27 participants were from Ontario and 20 from Quebec. Three main themes emerged: 1) Acceptance of the protocol and values, 2) Considerations to be integrated in triage protocols, 3) Conditions which may favor a greater public acceptance of these protocols. Participants supported the idea of prioritizing patients with the best prognosis of survival under extreme conditions. The maximization of benefits was the most predominant approach. Participants considered that triage protocols are necessary to reduce arbitrariness in decision making and to facilitate these tragic decisions by health professionals.",
-              "title_ko": ""
+              "title_ko": "극심한 전염병 상황에서 중환자 치료에 대한 접근을 위한 코로나19 분류 프로토콜에 대한 대중의 시각."
             },
             {
               "pmid": "39689069",
@@ -7305,7 +7165,7 @@
           "impact_factor": 1.5,
           "index_type": "미상",
           "quartile": "미상",
-          "paper_count": 40,
+          "paper_count": 38,
           "top_paper": {
             "pmid": "39872099",
             "title": "Addressing the overuse of hospital emergency departments in the Portuguese NHS: a new paradigm.",
@@ -8880,7 +8740,7 @@
           "impact_factor": 1.5,
           "index_type": "미상",
           "quartile": "미상",
-          "paper_count": 12,
+          "paper_count": 13,
           "top_paper": {
             "pmid": "41362590",
             "title": "Cognitive Burden in Emergency Care: A Qualitative Exploratory Study of Emergency Nurses.",
@@ -9050,6 +8910,34 @@
               "title_ko": ""
             },
             {
+              "pmid": "42954191",
+              "title": "\"Growth From Failure\": A Qualitative Study of NICU Nurses' Psychological Experiences Following Failed Neonatal Resuscitation.",
+              "journal": "Journal of nursing management",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2026-01-01",
+              "authors": [
+                "Chen X",
+                "Yang R",
+                "Shi Z"
+              ],
+              "citation_count": 0,
+              "rcr": null,
+              "volume": "2026",
+              "issue": "1",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/42954191/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": true,
+              "hot_score": 10.0,
+              "field": "emergency",
+              "field_label": "응급의학",
+              "abstract": "AIM: This study investigated the emotional responses and underlying psychological processes experienced by nurses in the neonatal intensive care unit (NICU) following unsuccessful neonatal resuscitation. BACKGROUND: Nurses, particularly neonatal nurses, experience substantial psychological pressure and multifaceted challenges in the aftermath of resuscitation failure. Although existing literature has examined nurses' emotional responses to neonatal death, a significant gap persists in understanding the distinct psychological experiences of neonatal nurses following unsuccessful resuscitation attempts. METHODS: This was a descriptive phenomenological study. Purposive sampling was employed to recruit 14 NICU nurses from a tertiary hospital in Chengdu, Sichuan Province. Participants were selected based on their firsthand experiences of neonatal resuscitation failure and participated in semistructured, face-to-face interviews. The interviews were audio-recorded, transcribed verbatim, and analyzed using Colaizzi's seven-step method. RESULTS: NICU nurses described their personal experiences following failed neonatal resuscitation. Four themes emerged concerning nurses' experiences and growth following resuscitation failure: (1) physical and mental exhaustion; (2) communication challenges; (3) reflection and support needs; and (4) achievements and growth. CONCLUSION: This study revealed the complex psychological experiences of NICU nurses following resuscitation failure. These findings highlight opportunities to support nurses' professional growth and improve team culture and care systems. Consequently, establishing a multidimensional support system is important to support nurses involved in neonatal resuscitation. IMPLICATIONS FOR NURSING MANAGEMENT: Nurse managers and hospital administrators should establish a comprehensive, multidimensional support system to improve nursing competencies. This system should prioritize standardized training in the theoretical knowledge and practical skills needed for emergency care, while also strengthening nurses' capacity to provide humanistic care.",
+              "title_ko": ""
+            },
+            {
               "pmid": "42929229",
               "title": "Phubbing and Caring Behaviors Among Emergency Nurses: The Mediating Role of Emotional Exhaustion.",
               "journal": "Journal of nursing management",
@@ -9103,34 +8991,6 @@
               "field": "emergency",
               "field_label": "응급의학",
               "abstract": "BACKGROUND: Emergency nurses' unethical pro-organizational behaviors (UPBs) exert detrimental effects on individual well-being, professional performance, and clinical workplace atmosphere; nevertheless, qualitative evidence systematically exploring the underlying mechanisms and coping strategies of such behaviors in the Chinese nursing context remains scarce. AIM: This study aimed to qualitatively explore the sources, perceived impacts, and coping strategies of UPBs among emergency department nurses in China. DESIGN: Descriptive qualitative study. METHODS: This study was conducted in the emergency department nurses of five hospitals in China between February and March 2026. A total of 21 registered nurses aged ≥ 18 years who were currently in practice were recruited using purposive sampling. Data were collected using semistructured interviews until thematic saturation was achieved. Data analysis was performed using qualitative content analysis. RESULTS: Three main themes emerged-sources, impacts, and coping-highlighting that UPBs arose from high-pressure environments and distorted loyalty, led to moral distress and normalization, and was managed with adaptive and self-rationalizing strategies. CONCLUSIONS: UPBs among emergency nurses constitute a vicious cycle fueled by workplace stressors, implicit cues, and coping strategies, which profoundly affects individual well-being and organizational ethics. These findings suggest that source-oriented humanistic interventions, including environmental optimization, ethical support, competence enhancement, and cultural reshaping, are essential for practice. IMPLICATIONS FOR NURSING MANAGEMENT: Nursing managers should target systemic and cultural drivers of UPBs, clarify ambiguous expectations, establish ethical support (e.g., confidential reporting and debriefings), model integrity-based leadership, and decouple loyalty from unethical compliance. These actions are designed to alleviate ethical distress, reduce rule-bending, and break the vicious cycle in emergency settings. REPORTING METHOD: This study was reported in accordance with the Consolidated Criteria for Reporting Qualitative Research guidelines. PATIENT OR PUBLIC CONTRIBUTION: No patient or public contributions.",
-              "title_ko": ""
-            },
-            {
-              "pmid": "42808345",
-              "title": "\"Stay Calm and Pick Up Signs to Understand the Cause\": Registered Nurses Use Multiple Strategies for Handling Difficult Emergency Calls.",
-              "journal": "Journal of nursing management",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2026-01-01",
-              "authors": [
-                "Holmström IK",
-                "Blomberg H",
-                "Winblad U"
-              ],
-              "citation_count": 0,
-              "rcr": null,
-              "volume": "2026",
-              "issue": "1",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/42808345/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": true,
-              "hot_score": 10.0,
-              "field": "emergency",
-              "field_label": "응급의학",
-              "abstract": "BACKGROUND: Telephone triage at emergency medical dispatch centers (EMDCs) is often challenging for registered nurses (RNs), and some calls may be difficult to handle. To enable education and interventions for call-taking RNs, lessons can be learned by studying authentic calls. AIM: The aim of this study was to describe the strategies used by RNs in difficult calls to EMDCs. METHODS: Call data from 2022 to 2023 were extracted for 14 RNs at three EMDCs in Sweden. Difficult calls were identified based on prior research and operationalized primarily using keyword searches in the free text call notes. During the study period, the 14 RNs handled 27,805 calls. Of these calls, 4888 (17.6%) were identified as potentially difficult and RNs needed to apply different strategies to handle them. A purposive selection of 123 calls was extracted, anonymized, and a deductive content analysis was performed. RESULTS: The present RNs used eight strategies to handle difficult calls. The most used strategies among the 123 calls were \"pick up signs to understand the cause of the caller's problem\" (used in 76% of calls) and \"stay calm and focused\" (55%). It was common that RNs applied several strategies during one call, especially if the call was about psychiatric illnesses, including expressions of suicidal intent and calls with vague descriptions of symptoms. Single strategies were used in 20% of calls, combinations of two strategies were used in 50% of calls, while three or more strategies were used in 29% of calls. CONCLUSIONS: RNs typically used combinations of several strategies in handling difficult calls. It is, however, unknown if these strategies were the most appropriate and how they were experienced by callers. IMPLICATIONS FOR NURSING MANAGEMENT: RNs need continuous professional development, support from nurse managers and their organization, and further improvements in technical aids to support their handling of difficult calls.",
               "title_ko": ""
             }
           ]
@@ -10371,30 +10231,21 @@
             ]
           },
           {
-            "phrase": "cardiopulmonary resuscitation",
-            "scores": [
-              0.0,
-              75.3,
-              31.0,
-              0.0
-            ]
-          },
-          {
             "phrase": "cardiac arrest",
             "scores": [
               0.0,
               37.5,
               46.4,
-              20.0
+              40.0
             ]
           },
           {
-            "phrase": "critically ill",
+            "phrase": "cardiopulmonary resuscitation",
             "scores": [
               0.0,
-              45.0,
-              6.8,
-              30.0
+              75.3,
+              31.0,
+              10.0
             ]
           },
           {
@@ -10413,6 +10264,15 @@
               46.4,
               26.8,
               0.0
+            ]
+          },
+          {
+            "phrase": "critically ill",
+            "scores": [
+              0.0,
+              45.0,
+              6.8,
+              20.0
             ]
           }
         ]
