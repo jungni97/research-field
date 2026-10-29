@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-27T23:39:13.664165Z",
+  "generated_at": "2026-10-29T00:00:43.887201Z",
   "window_days": 1095,
   "fields": [
     {
       "key": "preventive",
       "label": "예방의학",
-      "paper_count": 455,
+      "paper_count": 456,
       "journals": [
         {
           "journal": "The Orthopedic clinics of North America",
@@ -490,7 +490,7 @@
           "impact_factor": 1.5,
           "index_type": "미상",
           "quartile": "미상",
-          "paper_count": 83,
+          "paper_count": 84,
           "top_paper": {
             "pmid": "39949340",
             "title": "Analysis of factors influencing HPV vaccination intention among Chinese college students: structural equation modeling based on health belief theory.",
@@ -1957,71 +1957,6 @@
               "field_label": "예방의학",
               "abstract": "OBJECTIVE: The first-episode psychosis (FEP) and clinical high-risk (CHR) team within the child and adolescent mental health (CAMH) service receives referrals by psychiatric units, CAMH service, schools, and general practitioners. This audit evaluated the implementation of the FEP-CHR team in Ferrara, Italy. METHODS: The FEP-CHR team provides standardised assessment and up to 2-year individualised treatment including pharmacological prescription, cognitive-behavioral psychotherapy, and vocational activities. Data regarding access and pathways to care, assessment, and outcome of all patients admitted to this service from January 2019 to June 2023 were analysed. Descriptive statistics were reported and discussed. RESULTS: The service admitted 29 patients (19 FEP, 10 CHR), mostly females. FEP referrals primarily came from families via general practitioners, while half of CHR patients were already receiving CAMH care. One in three in the total sample had psychiatric hospitalisation during treatment. At discharge, most transitioned to usual or specialised mental health care and five patients achieved full recovery. CONCLUSIONS: The audit revealed a lower-than-expected incidence rate, a sub-optimal adherence to the standardised assessment, and a need for improved outcome monitoring. It promoted quality improvement initiatives including professional training to improve psychiatric differential diagnosis, drug prescribing, and transition to adult psychiatric services.",
               "title_ko": "페라라 지방에서 첫 번째 에피소드 정신병 및 임상적 고위험 청소년: 전문화된 조기 개입 프로그램의 시행에 대한 감사."
-            }
-          ]
-        },
-        {
-          "journal": "Journal of the Indian Society of Pedodontics and Preventive Dentistry",
-          "impact_factor": 1.5,
-          "index_type": "미상",
-          "quartile": "미상",
-          "paper_count": 1,
-          "top_paper": {
-            "pmid": "39798110",
-            "title": "Effectiveness of visual pedagogy in improving toothbrushing skills, oral hygiene and gingival health among children with autism- A randomised controlled trial.",
-            "journal": "Journal of the Indian Society of Pedodontics and Preventive Dentistry",
-            "impact_factor": 1.5,
-            "index_type": "미상",
-            "quartile": "미상",
-            "pubdate": "2025-01-11",
-            "authors": [
-              "Subhashree T",
-              "Yashoda R",
-              "Puranik MP"
-            ],
-            "citation_count": 2,
-            "rcr": 1.178864376518518,
-            "volume": "42",
-            "issue": "4",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/39798110/",
-            "altmetric_score": 0,
-            "altmetric_news": 0,
-            "altmetric_social": 0,
-            "is_current_issue": true,
-            "hot_score": 21.0,
-            "field": "preventive",
-            "field_label": "예방의학",
-            "abstract": "BACKGROUND: Autism is a neurodevelopmental disability that diminishes social interactions and communication. Maintaining good oral hygiene in them is a significant task. OBJECTIVES: The objective of this study was to evaluate the effectiveness of a toothbrushing visual pedagogy (TBVP) in improving brushing skills, oral hygiene, and gingival status among children with autism. MATERIALS AND METHODS: This cluster randomized controlled trial was conducted among 200 children with autism, aged 6-17 years. TBVP and conventional oral hygiene instructions were administered as an intervention in the test group (TBVP). The control group (oral health education [OHE]) received conventional oral hygiene instructions. Assessment of toothbrushing skills, plaque, and gingival status were carried out at baseline, 30-, 60-, and 90-days. The data were analyzed using t-tests in SPSS version 26 software at P < 0.05. RESULTS: At baseline, there was no significant difference between the groups in toothbrushing skills, plaque, and gingival scores. Postintervention, there was a significant improvement in the TBVP group compared to the OHE group. At 90 days, the mean toothbrushing scores of TBVP group were significantly higher (22.49 ± 6.70) than the OHE group (18.35 ± 6.82). Plaque scores were significantly lower (1.31 ± 0.48) in the TBVP group than the OHE group (1.47 ± 0.50). Gingival scores were significantly lower (1.38 ± 0.48) in the TBVP group than the OHE group (1.56 ± 0.51) (P < 0.05). CONCLUSION: The TBVP was effective in improving the toothbrushing skills, oral hygiene, and gingival health of the children with autism. Hence, it can be used for behavioural guidance in toothbrushing for these children to maintain their oral hygiene.",
-            "title_ko": "자폐 아동의 칫솔질 기술, 구강 위생 및 잇몸 건강 개선에 대한 시각 교육학의 효과- 무작위 대조 시험."
-          },
-          "papers": [
-            {
-              "pmid": "39798110",
-              "title": "Effectiveness of visual pedagogy in improving toothbrushing skills, oral hygiene and gingival health among children with autism- A randomised controlled trial.",
-              "journal": "Journal of the Indian Society of Pedodontics and Preventive Dentistry",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2025-01-11",
-              "authors": [
-                "Subhashree T",
-                "Yashoda R",
-                "Puranik MP"
-              ],
-              "citation_count": 2,
-              "rcr": 1.178864376518518,
-              "volume": "42",
-              "issue": "4",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/39798110/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": true,
-              "hot_score": 21.0,
-              "field": "preventive",
-              "field_label": "예방의학",
-              "abstract": "BACKGROUND: Autism is a neurodevelopmental disability that diminishes social interactions and communication. Maintaining good oral hygiene in them is a significant task. OBJECTIVES: The objective of this study was to evaluate the effectiveness of a toothbrushing visual pedagogy (TBVP) in improving brushing skills, oral hygiene, and gingival status among children with autism. MATERIALS AND METHODS: This cluster randomized controlled trial was conducted among 200 children with autism, aged 6-17 years. TBVP and conventional oral hygiene instructions were administered as an intervention in the test group (TBVP). The control group (oral health education [OHE]) received conventional oral hygiene instructions. Assessment of toothbrushing skills, plaque, and gingival status were carried out at baseline, 30-, 60-, and 90-days. The data were analyzed using t-tests in SPSS version 26 software at P < 0.05. RESULTS: At baseline, there was no significant difference between the groups in toothbrushing skills, plaque, and gingival scores. Postintervention, there was a significant improvement in the TBVP group compared to the OHE group. At 90 days, the mean toothbrushing scores of TBVP group were significantly higher (22.49 ± 6.70) than the OHE group (18.35 ± 6.82). Plaque scores were significantly lower (1.31 ± 0.48) in the TBVP group than the OHE group (1.47 ± 0.50). Gingival scores were significantly lower (1.38 ± 0.48) in the TBVP group than the OHE group (1.56 ± 0.51) (P < 0.05). CONCLUSION: The TBVP was effective in improving the toothbrushing skills, oral hygiene, and gingival health of the children with autism. Hence, it can be used for behavioural guidance in toothbrushing for these children to maintain their oral hygiene.",
-              "title_ko": "자폐 아동의 칫솔질 기술, 구강 위생 및 잇몸 건강 개선에 대한 시각 교육학의 효과- 무작위 대조 시험."
             }
           ]
         },
@@ -4646,29 +4581,29 @@
           ]
         },
         {
-          "journal": "Ciencia & saude coletiva",
+          "journal": "Nutrition (Burbank, Los Angeles County, Calif.)",
           "impact_factor": 1.5,
           "index_type": "미상",
           "quartile": "미상",
-          "paper_count": 29,
+          "paper_count": 1,
           "top_paper": {
-            "pmid": "39879454",
-            "title": "The politicisation of vaccines and its influence on Brazilian caregivers' opinions on childhood routine vaccination.",
-            "journal": "Ciencia & saude coletiva",
+            "pmid": "42048757",
+            "title": "Mediterranean diet for the primary prevention of cardiometabolic diseases: evidence from a systematic review and meta-analysis featured in the Italian National Guidelines \"La Dieta Mediterranea\".",
+            "journal": "Nutrition (Burbank, Los Angeles County, Calif.)",
             "impact_factor": 1.5,
             "index_type": "미상",
             "quartile": "미상",
-            "pubdate": "2023-10-28",
+            "pubdate": "2025-08-27",
             "authors": [
-              "Matos CCSA",
-              "Avelino-Silva VI",
-              "Couto MT"
+              "Muscogiuri G",
+              "Maiorino MI",
+              "Paolini B"
             ],
             "citation_count": 3,
             "rcr": null,
-            "volume": "30",
-            "issue": "1",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/39879454/",
+            "volume": "148",
+            "issue": "",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42048757/",
             "altmetric_score": 0,
             "altmetric_news": 0,
             "altmetric_social": 0,
@@ -4676,28 +4611,28 @@
             "hot_score": 13.8,
             "field": "preventive",
             "field_label": "예방의학",
-            "abstract": "Progressive declines in vaccination coverage have been recorded in Brazil in recent years. The COVID-19 pandemic has introduced even more challenges to this scenario. Considering the pandemic as an event, the scope of this article was to analyze the politicization of vaccines from the perspective of caregivers of young children. This qualitative research was conducted in two Brazilian state capitals, namely São Luís (Maranhão) and Florianópolis (Santa Catarina). The study included families with children up to 6 years of age who were fully or partially vaccinated, as well as children who had never been vaccinated. Snowball sampling was used and in-depth interviews were conducted between March 2021 and April 2022. Forty-eight caregivers, most of them mothers, were interviewed. The study revealed that, regardless of their previous stance regarding vaccines, the health-political event of the COVID-19 pandemic shook beliefs and attitudes about childhood vaccination. The results also showed that the pandemic led to delays in routine childhood immunization and caused caregivers to seek private health services. Finally, the results reveal the politicization of vaccines as a new phenomenon to be addressed in the Brazilian context.",
-            "title_ko": "백신의 정치화와 소아 정기 예방 접종에 대한 브라질 간병인의 의견에 미치는 영향."
+            "abstract": "OBJECTIVES: The Mediterranean diet (MD) is widely recognized for its potential health benefits, yet the extent and certainty of its association with metabolic outcomes remains incompletely understood. The aim of this systematic review and meta-analysis was to evaluate the relationship between adherence to the MD and the risk or prevalence of cardiometabolic disorders in the general population, with a focus on its role in primordial and primary prevention. METHODS: This review followed PRISMA 2020 and MOOSE guidelines. A systematic search of PubMed/MEDLINE, Scopus, Embase, and the Cochrane Library was conducted through February 28, 2024. Eligible studies examined adherence to the MD in relation to the risk or prevalence of metabolic disorders. Study quality was assessed using the Newcastle-Ottawa Scale, and evidence certainty was rated with the NUTRI-GRADE framework. Pooled effect estimates were calculated using a random-effects model and reported as risk ratios (RR), hazard ratios (HR), or odds ratios (OR), as appropriate. RESULTS: Sixty studies comprising over 1.1 million participants were included. Higher MD adherence was consistently associated with a reduced risk of T2DM (RR: 0.96; 95% CI: 0.95-0.97), supported by moderate to high certainty of evidence. Similar inverse associations were observed for overweight (OR: 0.94; 95% CI: 0.91-0.97) and adult obesity (OR: 0.95; 95% CI: 0.93-0.97). The PREDIMED randomized trial further demonstrated a 20% reduction in diabetes incidence with MD intervention. Evidence for metabolic syndrome (RR: 0.98; 95% CI: 0.98-0.99) and hyperuricemia (OR: 0.43; 95% CI: 0.25-0.75) was suggestive of protective effects, though with lower certainty. Associations with hypercholesterolemia and hypertriglyceridemia were inconsistent and inconclusive. CONCLUSIONS: Adherence to the Mediterranean diet is associated with a lower risk of several metabolic disorders, particularly T2DM and obesity in adults. These findings support the inclusion of the MD in public health strategies for metabolic disease prevention. Further high-quality longitudinal and interventional studies are warranted to clarify its effects on other metabolic outcomes.",
+            "title_ko": "심대사 질환의 일차 예방을 위한 지중해 식단: 이탈리아 국가 가이드라인 \"La Dieta Mediterranea\" 에 소개된 체계적인 검토 및 메타 분석의 증거."
           },
           "papers": [
             {
-              "pmid": "39879454",
-              "title": "The politicisation of vaccines and its influence on Brazilian caregivers' opinions on childhood routine vaccination.",
-              "journal": "Ciencia & saude coletiva",
+              "pmid": "42048757",
+              "title": "Mediterranean diet for the primary prevention of cardiometabolic diseases: evidence from a systematic review and meta-analysis featured in the Italian National Guidelines \"La Dieta Mediterranea\".",
+              "journal": "Nutrition (Burbank, Los Angeles County, Calif.)",
               "impact_factor": 1.5,
               "index_type": "미상",
               "quartile": "미상",
-              "pubdate": "2023-10-28",
+              "pubdate": "2025-08-27",
               "authors": [
-                "Matos CCSA",
-                "Avelino-Silva VI",
-                "Couto MT"
+                "Muscogiuri G",
+                "Maiorino MI",
+                "Paolini B"
               ],
               "citation_count": 3,
               "rcr": null,
-              "volume": "30",
-              "issue": "1",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/39879454/",
+              "volume": "148",
+              "issue": "",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/42048757/",
               "altmetric_score": 0,
               "altmetric_news": 0,
               "altmetric_social": 0,
@@ -4705,167 +4640,92 @@
               "hot_score": 13.8,
               "field": "preventive",
               "field_label": "예방의학",
-              "abstract": "Progressive declines in vaccination coverage have been recorded in Brazil in recent years. The COVID-19 pandemic has introduced even more challenges to this scenario. Considering the pandemic as an event, the scope of this article was to analyze the politicization of vaccines from the perspective of caregivers of young children. This qualitative research was conducted in two Brazilian state capitals, namely São Luís (Maranhão) and Florianópolis (Santa Catarina). The study included families with children up to 6 years of age who were fully or partially vaccinated, as well as children who had never been vaccinated. Snowball sampling was used and in-depth interviews were conducted between March 2021 and April 2022. Forty-eight caregivers, most of them mothers, were interviewed. The study revealed that, regardless of their previous stance regarding vaccines, the health-political event of the COVID-19 pandemic shook beliefs and attitudes about childhood vaccination. The results also showed that the pandemic led to delays in routine childhood immunization and caused caregivers to seek private health services. Finally, the results reveal the politicization of vaccines as a new phenomenon to be addressed in the Brazilian context.",
-              "title_ko": "백신의 정치화와 소아 정기 예방 접종에 대한 브라질 간병인의 의견에 미치는 영향."
-            },
+              "abstract": "OBJECTIVES: The Mediterranean diet (MD) is widely recognized for its potential health benefits, yet the extent and certainty of its association with metabolic outcomes remains incompletely understood. The aim of this systematic review and meta-analysis was to evaluate the relationship between adherence to the MD and the risk or prevalence of cardiometabolic disorders in the general population, with a focus on its role in primordial and primary prevention. METHODS: This review followed PRISMA 2020 and MOOSE guidelines. A systematic search of PubMed/MEDLINE, Scopus, Embase, and the Cochrane Library was conducted through February 28, 2024. Eligible studies examined adherence to the MD in relation to the risk or prevalence of metabolic disorders. Study quality was assessed using the Newcastle-Ottawa Scale, and evidence certainty was rated with the NUTRI-GRADE framework. Pooled effect estimates were calculated using a random-effects model and reported as risk ratios (RR), hazard ratios (HR), or odds ratios (OR), as appropriate. RESULTS: Sixty studies comprising over 1.1 million participants were included. Higher MD adherence was consistently associated with a reduced risk of T2DM (RR: 0.96; 95% CI: 0.95-0.97), supported by moderate to high certainty of evidence. Similar inverse associations were observed for overweight (OR: 0.94; 95% CI: 0.91-0.97) and adult obesity (OR: 0.95; 95% CI: 0.93-0.97). The PREDIMED randomized trial further demonstrated a 20% reduction in diabetes incidence with MD intervention. Evidence for metabolic syndrome (RR: 0.98; 95% CI: 0.98-0.99) and hyperuricemia (OR: 0.43; 95% CI: 0.25-0.75) was suggestive of protective effects, though with lower certainty. Associations with hypercholesterolemia and hypertriglyceridemia were inconsistent and inconclusive. CONCLUSIONS: Adherence to the Mediterranean diet is associated with a lower risk of several metabolic disorders, particularly T2DM and obesity in adults. These findings support the inclusion of the MD in public health strategies for metabolic disease prevention. Further high-quality longitudinal and interventional studies are warranted to clarify its effects on other metabolic outcomes.",
+              "title_ko": "심대사 질환의 일차 예방을 위한 지중해 식단: 이탈리아 국가 가이드라인 \"La Dieta Mediterranea\" 에 소개된 체계적인 검토 및 메타 분석의 증거."
+            }
+          ]
+        },
+        {
+          "journal": "Best practice & research. Clinical gastroenterology",
+          "impact_factor": 1.5,
+          "index_type": "미상",
+          "quartile": "미상",
+          "paper_count": 6,
+          "top_paper": {
+            "pmid": "41724536",
+            "title": "Developments in the roll-out and performance of CRC screening in Europe.",
+            "journal": "Best practice & research. Clinical gastroenterology",
+            "impact_factor": 1.5,
+            "index_type": "미상",
+            "quartile": "미상",
+            "pubdate": "2025-08-05",
+            "authors": [
+              "Carbotti G",
+              "van den Berg DM",
+              "Carvalho AL"
+            ],
+            "citation_count": 3,
+            "rcr": null,
+            "volume": "80",
+            "issue": "",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/41724536/",
+            "altmetric_score": 0,
+            "altmetric_news": 0,
+            "altmetric_social": 0,
+            "is_current_issue": false,
+            "hot_score": 13.8,
+            "field": "preventive",
+            "field_label": "예방의학",
+            "abstract": "The heterogeneous implementation of colorectal cancer screening programs across Europe makes performance comparison challenging. This study computed and analyzed seven key indicators of screening performance for eighteen European programs between 2011 and 2022. Trends in colorectal cancer incidence and mortality were also examined in relation to when each screening program was introduced. Coverage indicators showed considerable variation across programs but generally increased until the onset of the COVID pandemic. Yield indicators remained stable overall, whereas jumps were associated to protocol changes. In most countries, a decline in incidence followed the introduction of the screening program, whereas the connection of screening with mortality was less evident. The analysis of comparable screening performance indicators over time allows for cross-country and longitudinal monitoring of the programs. The observed decline in incidence following the implementation of fully rolled-out programs highlights the importance and effectiveness of well-organized screening in reducing the burden of the disease.",
+            "title_ko": "유럽에서 CRC 스크리닝의 출시 및 성능의 발전."
+          },
+          "papers": [
             {
-              "pmid": "42615736",
-              "title": "Social inequalities in the use of preventive healthcare among older women (50+): evidence from ELSI-Brazil.",
-              "journal": "Ciencia & saude coletiva",
+              "pmid": "41724536",
+              "title": "Developments in the roll-out and performance of CRC screening in Europe.",
+              "journal": "Best practice & research. Clinical gastroenterology",
               "impact_factor": 1.5,
               "index_type": "미상",
               "quartile": "미상",
-              "pubdate": "2025-05-02",
+              "pubdate": "2025-08-05",
               "authors": [
-                "Carvalho PF",
-                "Braga LS",
-                "Lima-Costa MF"
+                "Carbotti G",
+                "van den Berg DM",
+                "Carvalho AL"
               ],
-              "citation_count": 0,
+              "citation_count": 3,
               "rcr": null,
-              "volume": "31",
-              "issue": "8",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/42615736/",
+              "volume": "80",
+              "issue": "",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/41724536/",
               "altmetric_score": 0,
               "altmetric_news": 0,
               "altmetric_social": 0,
-              "is_current_issue": true,
-              "hot_score": 10.0,
+              "is_current_issue": false,
+              "hot_score": 13.8,
               "field": "preventive",
               "field_label": "예방의학",
-              "abstract": "Considering the scenario of Brazilian population aging, marked by the feminization of old age and persistent social inequality in access to and use of health services, this study aims to investigate the association between socioeconomic variables and preventive healthcare among older women (50+), according to the source of health care. This is a cross-sectional study, based on ELSI-Brazil (2015-2016) baseline data. The outcomes were Pap smear; mammography; measurements of cholesterol, blood glucose, and blood pressure; and the exposures of interest were educational level, self-reported skin color, and per capita household income. Odds ratio (OR) were estimated in Logistic regression models. Self-reported skin color, educational level, and per capita household income were frequently associated with outcomes for women with and without private health plans, with a higher prevalence of exams among those who were white and those who had higher educational and income levels. The implementation of public policies and multisectoral actions that tackle the structural determinants of health and improve people's living and working conditions is essential to reducing health inequalities and ensuring the universal right to health.",
-              "title_ko": "고령 여성 (50세 이상) 의 예방 건강 관리 사용에 대한 사회적 불평등: ELSI-Brazil의 증거."
+              "abstract": "The heterogeneous implementation of colorectal cancer screening programs across Europe makes performance comparison challenging. This study computed and analyzed seven key indicators of screening performance for eighteen European programs between 2011 and 2022. Trends in colorectal cancer incidence and mortality were also examined in relation to when each screening program was introduced. Coverage indicators showed considerable variation across programs but generally increased until the onset of the COVID pandemic. Yield indicators remained stable overall, whereas jumps were associated to protocol changes. In most countries, a decline in incidence followed the introduction of the screening program, whereas the connection of screening with mortality was less evident. The analysis of comparable screening performance indicators over time allows for cross-country and longitudinal monitoring of the programs. The observed decline in incidence following the implementation of fully rolled-out programs highlights the importance and effectiveness of well-organized screening in reducing the burden of the disease.",
+              "title_ko": "유럽에서 CRC 스크리닝의 출시 및 성능의 발전."
             },
             {
-              "pmid": "42615735",
-              "title": "Effect of satisfaction with social support, food literacy, and empowerment concerning the consumption of ultra-processed foods.",
-              "journal": "Ciencia & saude coletiva",
+              "pmid": "41724542",
+              "title": "Elements of screening and early diagnosis of lower GI neoplastic lesions - an overview.",
+              "journal": "Best practice & research. Clinical gastroenterology",
               "impact_factor": 1.5,
               "index_type": "미상",
               "quartile": "미상",
-              "pubdate": "2025-05-24",
+              "pubdate": "2025-09-30",
               "authors": [
-                "Gomes AT",
-                "Farias PKS",
-                "Eleutério TP"
-              ],
-              "citation_count": 0,
-              "rcr": null,
-              "volume": "31",
-              "issue": "8",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/42615735/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": true,
-              "hot_score": 10.0,
-              "field": "preventive",
-              "field_label": "예방의학",
-              "abstract": "The present study aimed to evaluate the effect of satisfaction with social support (SSS), food literacy (FL), and empowerment (E) concerning the consumption of ultra-processed foods (UPFs) among adults and elderly individuals with diabetes mellitus (DM). This is a subset of a larger cross-sectional study conducted between 2016 and 2018. Two out of 73 clusters were randomly selected. Socioeconomic conditions were assessed, and the scales used to evaluate SSS, FL, and E have been previously validated in Brazil. UPF consumption was estimated using a semi-structured food frequency questionnaire. A hypothetical theoretical model was developed. The SPSS and JASP programs were used for data analysis. Structural Equation Modeling estimated the effects of the latent variables SSS, FL, and E on UPF consumption. Bartlett's test, the Kaiser-Meyer-Olkin (KMO) measure, and the following fit indices were calculated: chi-square (X²), chi-square per degrees of freedom ratio (X²/df), Comparative Fit Index (CFI), Tucker-Lewis Index (TLI), Goodness-of-Fit Index (GFI), and Root-Mean-Square Error of Approximation (RMSEA). The average age was 62.25 ± 12.11 years, with the majority being women (68.10%). The fit indices indicated that the hypothetical model is plausible. Thus, SSS does have an effect on UPF consumption mediated by FL and E.",
-              "title_ko": "초가공 식품의 섭취에 대한 사회적 지지, 식품 리터러시 및 권한 부여에 대한 만족의 효과."
-            },
-            {
-              "pmid": "42615734",
-              "title": "[Analysis of health literacy demands in the Food Guide for the Brazilian Population].",
-              "journal": "Ciencia & saude coletiva",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2025-05-24",
-              "authors": [
-                "Peres F",
-                "Brandão AL",
-                "Casemiro JP"
-              ],
-              "citation_count": 0,
-              "rcr": null,
-              "volume": "31",
-              "issue": "8",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/42615734/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": true,
-              "hot_score": 10.0,
-              "field": "preventive",
-              "field_label": "예방의학",
-              "abstract": "The present study aims to identify the health literacy demands, organized based on their different domains, present in the second edition of the Dietary Guidelines for the Brazilian Population (2014). It is an exploratory-descriptive study, based on the application of a protocol, previously validated for the national context, for health literacy load analysis of the material, with subsequent content analysis of selected excerpts, organized in a matrix. The analysis of the results identified possible barriers to understanding and make meaning of the Guide recommendations, organized according to the fundamental, scientific, civic, and cultural domains of health literacy, which ranged from the use of non-colloquial language and jargon to the impossibility of following the recommendations present therein, due to the context of the social group. The results point to the need to bring the form and content of the material closer to the health literacy demands of its potential beneficiaries, facilitating access, understanding, evaluation and significance of its recommendations by health workers and groups of the population for whom it is intended.",
-              "title_ko": "[브라질 인구를 위한 식품 가이드의 건강 리터러시 요구 분석]."
-            },
-            {
-              "pmid": "42525037",
-              "title": "Spatial distribution of human papillomavirus vaccination coverage in the state of Maranhão, Brazil.",
-              "journal": "Ciencia & saude coletiva",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2025-04-29",
-              "authors": [
-                "Fernandes RPP",
-                "Coutinho NPS",
-                "Caldas AJM"
-              ],
-              "citation_count": 0,
-              "rcr": null,
-              "volume": "31",
-              "issue": "6",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/42525037/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": true,
-              "hot_score": 10.0,
-              "field": "preventive",
-              "field_label": "예방의학",
-              "abstract": "The aim of this study was to describe the spatial distribution of human papillomavirus (HPV) vaccination coverage in the state of Maranhão, Brazil. We conducted a retrospective ecological study using data from three age cohorts of boys (age 16, 17 and 18) and girls (age 13, 14 and 15). The units of analysis were municipalities and health regions. A spatial analysis of distribution of adequate and inadequate coverage was conducted. 84.2% of the state's health regions achieved adequate coverage for the first dose among girls in cohort 1, but only 26.3% of these regions achieved the same coverage target for the second dose. This percentage was lower in boys across all cohorts, with only 26% of the health regions achieving adequate coverage in each dose. Spatial distribution of vaccination coverage was uneven. The study revealed important gaps in vaccination coverage in the state among both boys and girls. The heterogeneity of the spatial distribution of vaccination coverage reinforces the challenges that need to be overcome to ensure the effective implementation of the vaccination program across the state's municipalities.",
-              "title_ko": "브라질 마라냥주에서 인유두종바이러스 백신 접종 범위의 공간적 분포."
-            },
-            {
-              "pmid": "42525042",
-              "title": "Measures and indicators of physical activity in surveillance, monitoring, and evaluation of primary health care in Brazil: a scoping review.",
-              "journal": "Ciencia & saude coletiva",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2025-04-13",
-              "authors": [
-                "Barbosa Filho VC",
-                "Silva JAD",
-                "Lopes MVV"
-              ],
-              "citation_count": 0,
-              "rcr": null,
-              "volume": "31",
-              "issue": "6",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/42525042/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": true,
-              "hot_score": 10.0,
-              "field": "preventive",
-              "field_label": "예방의학",
-              "abstract": "The study aimed to map physical activity (PA)-related measures and indicators that are considered in Primary Health Care (PHC/SUS) surveillance, monitoring and assessment. This scoping review was conducted in January 2024 in electronic portals, searching for government materials that aimed at these strategies of PHC/SUS with PA indicators. The selection and extraction processes were performed in pairs, and a thematic synthesis was used. Of the 239 potentially eligible documents, 95 were included on surveillance (n = 39), plans/policies (n = 7), user (n = 34) and service (n = 15) monitoring/assessment. A total of 69 measures and 38 different indicators were addressed in health surveillance. Service monitoring/assessment includes general and specific PA programs (17 and 13 indicators, respectively). User monitoring/assessment included indicators aimed at people from different groups (e.g., people with chronic diseases) and their application, primarily in initial examinations and therapeutic planning. This study reinforces a call for government actions aiming to qualify the acquisition and implementation of PA-related health information; this may be one the main pathways of strengthening PA promotion on the SUS agenda.",
-              "title_ko": "브라질의 일차 의료 감시, 모니터링 및 평가에서 신체 활동의 측정 및 지표: 범위 검토."
-            },
-            {
-              "pmid": "41615110",
-              "title": "[The sinuosities in the line of induction, institutionalisation and implementation of National Health Promotion Policy].",
-              "journal": "Ciencia & saude coletiva",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2024-11-07",
-              "authors": [
-                "Dias MSA",
-                "Silva LCCD",
-                "Vieira-Meyer APGF"
+                "Sheridan B",
+                "Rabeneck L",
+                "Toes-Zoutendijk E"
               ],
               "citation_count": 1,
               "rcr": null,
-              "volume": "31",
-              "issue": "1",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/41615110/",
+              "volume": "80",
+              "issue": "",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/41724542/",
               "altmetric_score": 0,
               "altmetric_news": 0,
               "altmetric_social": 0,
@@ -4873,27 +4733,27 @@
               "hot_score": 6.9,
               "field": "preventive",
               "field_label": "예방의학",
-              "abstract": "Historical, documentary and bibliographical research, adopting the coalition theory as a reference to analyze the sinuosity of the trajectory of the National Health Promotion Policy (PNPS). The time frame covered the period between 1986 and 2023. Among the documents available in official websites and scientific journals, and with the aid of an expert and snowball technique, 31 milestones/events related to the institutionalization, implementation and related movements of the national and international historical context of health promotion were identified. The analysis elucidated PNPS itineraries demarcated into three periods: from 1986 to 2006, the paths of construction of PNPS; from 2006 to 2014, from institutionalization to policy review; and from 2014 to 2023, PNPS implementation movements. The tortuous timeline of the PNPS reveals gaps, slowdowns and advances in the period analyzed. These call for the recognition of the influences of global governance instruments (WHO and UN) and the search for sustainability mechanisms. The counter-hegemonic and complex nature of the PNPS calls for new institutional arrangements to address inequalities. Furthermore, movements are identified to resume coordination with segments and groups of the population.",
-              "title_ko": "[국민건강증진정책의 유도, 제도화, 시행 선에서의 시누오스]."
+              "abstract": "Dobrow's 12 consolidated principles were applied to evaluate the extent to which colorectal cancer (CRC) screening programmes align with these established screening principles. The principles within the first domain - disease and conditions - are fully met. CRC represents a significant global public health burden with a well-understood natural history, including a long preclinical phase. These features make CRC suitable for population-based screening. Current guidelines recommend screening average-risk individuals, with starting ages as early as 45 years and stopping ages up to 85 years in some programs, although most programs target those aged 50-75 years. For Dobrow's second domain - test or intervention - we found that established CRC screening methods (faecal immunochemical testing (FIT), colonoscopy, and flexible sigmoidoscopy) have known and acceptable sensitivity and specificity. These tests have clear thresholds for interpretation and follow-up and are associated with reductions in both CRC incidence and mortality, confirming their clinical effectiveness in organised programmes. Dobrow's third domain - programme or system - addresses how screening programmes should be structured, implemented, and integrated into health systems. Unlike the other domains, this is fully achieved in only a small minority of programmes. While implementation may vary from country to country, the principles provide benchmarks for well-organised programmes. CRC screening is generally cost-effective and widely accepted by patients, providers, and society. Successful programmes require dedicated teams, infrastructure, and systems for coordination and quality assurance. Before implementation, a CRC screening initiative must meet, or have a clear plan to meet 12 principles. In summary, robust infrastructure and governance are essential for organised CRC screening programmes to align with the Dobrow principles and achieve long-term success.",
+              "title_ko": "하부 위장관 신생물 병변의 스크리닝 및 조기 진단의 요소 - 개요."
             },
             {
-              "pmid": "41538603",
-              "title": "[Convergences between promotion of health, public health education, educommunication and health literacy].",
-              "journal": "Ciencia & saude coletiva",
+              "pmid": "41724538",
+              "title": "Evidence-based decision analysis guiding clinical guidelines for an organized population-based screening for colorectal cancer.",
+              "journal": "Best practice & research. Clinical gastroenterology",
               "impact_factor": 1.5,
               "index_type": "미상",
               "quartile": "미상",
-              "pubdate": "2024-10-18",
+              "pubdate": "2025-08-08",
               "authors": [
-                "Akerman M",
-                "Castro AM",
-                "Santos CA"
+                "Jahn B",
+                "Sroczynski G",
+                "Santamaria J"
               ],
               "citation_count": 1,
               "rcr": null,
-              "volume": "30",
-              "issue": "12",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/41538603/",
+              "volume": "80",
+              "issue": "",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/41724538/",
               "altmetric_score": 0,
               "altmetric_news": 0,
               "altmetric_social": 0,
@@ -4901,8 +4761,92 @@
               "hot_score": 6.9,
               "field": "preventive",
               "field_label": "예방의학",
-              "abstract": "In Brazil, studies and practices around the concept of health literacy are recent and linked to the application of internationally validated instruments. From this perspective, a more conservative emphasis on the adoption of health literacy practices can be observed. This article explores possibilities for a Brazilian model of health literacy, considering the marked presence of the Brazilian community in public health in the promotion of health, popular education and educommunication, by linking timelines of these four areas of knowledge and practices. Having established these timelines, it seeks to highlight the main national and international historical, academic and political milestones, of each of these areas, over a specific period (1970-2023), against the backdrop of four political scenarios: \"military governments,\" \"redemocratization and neoliberalism,\" \"progressive governments\" and \"conservatism.\" Based on the identification of significant national and international milestones and the confluence between the fields of health promotion, popular health education, and educommunication, the possibility of a Brazilian model is postulated for promoting health literacy.",
-              "title_ko": "[건강증진, 공중보건교육, 에듀커뮤니케이션, 건강리터러시 간의 융합]."
+              "abstract": "BACKGROUND: This study includes the long-term benefit-harm analysis of population-wide colorectal cancer (CRC) screening strategies commissioned by the Austrian National Committee for Cancer Screening (ANCCS). In addition, we present the related cost-effectiveness analysis. METHODS: Using a validated decision-analytic Markov state transition model, we evaluated 17 by the ANCCS suggested CRC-screening strategies differing in tests (fecal-immunochemical test (FIT), guaiac-based fecal occult blood test (gFOBT), colonoscopy (COL)), age at start (40,45,50 years) and end (COL: 65,70,75 years, FIT/gFOBT 75 years), and intervals (2,5,10 years). Positive FIT/gFOBT tests are followed by colonoscopy. Evaluated outcomes included health benefits (life-years gained (LYG), CRC-cases/CRC-deaths avoided), harms (severe colonoscopy complications, psychological harms due to positive test results (PTR), additional colonoscopies), stepwise evaluated incremental harm-benefit ratios (IHBR), and incremental cost-effectiveness ratios (ICER). We applied the Austrian healthcare system perspective, a lifelong-time horizon and conducted sensitivity analyses. RESULTS: The most effective colonoscopy-based screening strategy is colonoscopy at age 40/50/60/70 (449 LYG per 1000 individuals) with an IHBR of 3 PTR/LYG compared to COL45/55/65 (ICER: 13,032 Euro/LYG vs. COL45/55/65/75). The most effective fecal blood-test-based strategy is annual FIT testing starting at age 40 years (488 LYG per 1000 individuals) and an IHBR of 30 PTR/LYG compared to FIT40+2y (biennial FIT starting age 40). All biennial FIT-based screening strategies represent alternative options on the harm-benefit efficiency frontier with IHBR of PTR/LYG: 2 (FIT50+2y vs. no screening), 5 (FIT45+2y vs. FIT50+2y), and 7 (FIT40+2y vs. FIT45+2y). The cost-effectiveness analyses provided stepwise ICERs ranging from 3391 Euro/LYG (FIT45+2y vs. FIT50+2y) to 47,812 Euro/LYG (FIT40+1y vs. FIT40+2y). CONCLUSIONS: Our decision analysis shows benefit-harm and cost-effectiveness trade-offs. In the consensus meeting of the ANCCS, colonoscopy- and FIT-based screening starting at age 45 were selected as suggested screening strategies, accounting for benefit-harm balance, evidence level, and implementation aspects.",
+              "title_ko": "대장암에 대한 조직화된 모집단 기반 선별 검사를 위한 임상 가이드라인을 안내하는 증거 기반 의사결정 분석."
+            },
+            {
+              "pmid": "41724531",
+              "title": "Risk-based screening for early detection of colorectal cancer: an overview.",
+              "journal": "Best practice & research. Clinical gastroenterology",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2025-05-08",
+              "authors": [
+                "Brück CC",
+                "Mwangi LW",
+                "van Wifferen F"
+              ],
+              "citation_count": 1,
+              "rcr": null,
+              "volume": "80",
+              "issue": "",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/41724531/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 6.9,
+              "field": "preventive",
+              "field_label": "예방의학",
+              "abstract": "Screening programs for colorectal cancer (CRC) reduce CRC incidence and mortality, while balancing benefits and harms of the population. However, benefits vary widely among individuals. Low-risk individuals may face unnecessary burdens, while high-risk individuals could benefit from more intensive screening. Risk-based screening addresses these issues by tailoring screening strategies using risk factors such as age, sex, race, ethnicity, lifestyle factors, genetic predisposition, and previous screening results. Potential benefits of risk-based screening include improved cost-effectiveness, efficient resource use and reduced unnecessary procedures. Challenges include a lack of validated risk stratification tools, data availability, healthcare capacity, and ethical considerations. Several countries started to evaluate risk-based screening programs with optimistic results. While promising, further research is necessary to address the remaining challenges. Nevertheless, risk-based screening has the potential to enhance patient experiences, optimize the balance of individual-level benefits and harms, and positively impact the overall burden and costs associated with CRC screening.",
+              "title_ko": "대장암의 조기 발견을 위한 위험 기반 선별검사: 개요."
+            },
+            {
+              "pmid": "41724541",
+              "title": "Is blood the new stool? Status of blood tests for CRC screening.",
+              "journal": "Best practice & research. Clinical gastroenterology",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2025-09-08",
+              "authors": [
+                "Symonds EL",
+                "Dix M",
+                "Wassie MM"
+              ],
+              "citation_count": 0,
+              "rcr": null,
+              "volume": "80",
+              "issue": "",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/41724541/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 0.0,
+              "field": "preventive",
+              "field_label": "예방의학",
+              "abstract": "Colorectal cancer (CRC) screening has proven to decrease CRC incidence and mortality, with many countries providing faecal immunochemical tests (FIT) in screening programs. Effectiveness, however, is limited in the setting of low participation rates, which has prompted growing research into blood-based screening. While blood testing is anticipated to improve participation due to greater population acceptability, its readiness for widespread implementation remains unclear, and comparative accuracy data against FIT is needed. This article provides a systematic review and meta-analysis on blood-based CRC screening tests that have been directly compared to FIT, and summarises the evidence for broader program considerations, including analytical quality, consumer preferences, participation rates and cost effectiveness. The findings show that blood tests currently lack the sensitivity and cost-effectiveness to replace FIT in screening programs, and that their use should be limited to individuals unable or unwilling to complete FIT.",
+              "title_ko": "피가 새로운 의자입니까? CRC 선별 검사를 위한 혈액 검사 상태."
+            },
+            {
+              "pmid": "41724540",
+              "title": "Global impact of COVID-19 on organized CRC screening programs: lessons learned.",
+              "journal": "Best practice & research. Clinical gastroenterology",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2025-09-05",
+              "authors": [
+                "de Jonge L",
+                "Lansdorp-Vogelaar I",
+                "Doria-Rose VP"
+              ],
+              "citation_count": 0,
+              "rcr": null,
+              "volume": "80",
+              "issue": "",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/41724540/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 0.0,
+              "field": "preventive",
+              "field_label": "예방의학",
+              "abstract": "Using a standardized data template, this study retrospectively collected data about colorectal cancer (CRC) screening activity in 2020 and 2021 to estimate the impact of the COVID-19 pandemic compared to the pre-pandemic period (2018 or 2019). Data were collected from 17 programs in 14 countries of which 15 were population-based programs. Invitation coverage was decreased by up to 53.7 % in 2020. Participation among those invited was similar in both periods for all programs. The maximum backlog in invitations was less than 7.4 months in 2020 and 3.3 months for 2021. Nine out of 15 programs observed a decrease in the number of detected CRCs in 2020. Four programs showed a positive percentage change in CRCs detected in 2021 relative to the pre-pandemic period. Half of the countries observed a worse stage-distribution in 2020/2021. Overall, organized CRC screening programs operated at lower screening activity, but screening outcomes were similar compared to the pre-pandemic period.",
+              "title_ko": "코로나19가 조직화된 CRC 선별 검사 프로그램에 미치는 전 세계적인 영향: 교훈."
             }
           ]
         }
@@ -5022,12 +4966,12 @@
           ]
         },
         {
-          "phrase": "vaccination coverage",
-          "score": 26.9,
+          "phrase": "challenges solutions",
+          "score": 20.7,
           "paper_count": 2,
           "pmids": [
-            "41906511",
-            "42525037"
+            "39890380",
+            "42457288"
           ]
         }
       ],
@@ -5049,21 +4993,21 @@
             ]
           },
           {
-            "phrase": "genetic testing",
-            "scores": [
-              0.0,
-              42.7,
-              10.0,
-              40.0
-            ]
-          },
-          {
             "phrase": "diabetes mellitus",
             "scores": [
               0.0,
               44.8,
               11.0,
-              11.0
+              21.0
+            ]
+          },
+          {
+            "phrase": "genetic testing",
+            "scores": [
+              0.0,
+              42.7,
+              10.0,
+              20.0
             ]
           },
           {
@@ -5085,12 +5029,12 @@
             ]
           },
           {
-            "phrase": "hpv vaccination",
+            "phrase": "diabetic retinopathy",
             "scores": [
               0.0,
+              26.0,
               0.0,
-              27.0,
-              16.9
+              20.0
             ]
           }
         ]
@@ -5099,7 +5043,7 @@
     {
       "key": "emergency",
       "label": "응급의학",
-      "paper_count": 458,
+      "paper_count": 456,
       "journals": [
         {
           "journal": "Resuscitation",
@@ -5360,6 +5304,71 @@
           ]
         },
         {
+          "journal": "Critical care (London, England)",
+          "impact_factor": 1.5,
+          "index_type": "미상",
+          "quartile": "미상",
+          "paper_count": 1,
+          "top_paper": {
+            "pmid": "41345654",
+            "title": "Unlocking survival in traumatic cardiac arrest: global insights, innovations, and unmet needs.",
+            "journal": "Critical care (London, England)",
+            "impact_factor": 1.5,
+            "index_type": "미상",
+            "quartile": "미상",
+            "pubdate": "2025-10-24",
+            "authors": [
+              "Jiang S",
+              "Wei J",
+              "Rao T"
+            ],
+            "citation_count": 6,
+            "rcr": 2.3312323267331734,
+            "volume": "29",
+            "issue": "1",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/41345654/",
+            "altmetric_score": 0,
+            "altmetric_news": 0,
+            "altmetric_social": 0,
+            "is_current_issue": true,
+            "hot_score": 28.9,
+            "field": "emergency",
+            "field_label": "응급의학",
+            "abstract": "Traumatic cardiac arrest (TCA) remains one of the most formidable challenges in acute care, with global survival rates persistently below 7.5% despite significant advances in trauma systems and resuscitative strategies. Through a comprehensive scoping review of literature from 2016 to 2025, this study delineates the shifting epidemiology, modern management, and key determinants of outcomes in TCA. Our synthesis reveals that TCA predominantly affects young males and results primarily from blunt mechanisms, with severe hemorrhage and traumatic brain injury as leading critical lesions. While pioneering interventions such as resuscitative endovascular balloon occlusion of the aorta and emergency resuscitative thoracotomy have been widely adopted, robust evidence for their survival benefit remains limited and context dependent. Early identification and correction of reversible causes, targeted hemorrhage control, and timely application of advanced life support measures-especially prehospital thoracostomy and vascular access-significantly increase the likelihood of return of spontaneous circulation and favorable neurological outcomes. Conversely, routine use of epinephrine shows at best inconsistent benefits and may be detrimental in blunt trauma. Survival is further influenced by initial rhythm, presence of signs of life, rapid patient triage to trauma centers, and tailored protocols for pediatric and older populations. Notwithstanding notable progress, major knowledge gaps persist in defining optimal intervention timing, reporting standards, and long-term neurologic recovery. The findings underscore the critical need for multicenter, prospective research, harmonized trauma registries, and global consensus to inform future guidelines and optimize outcomes for TCA patients.",
+            "title_ko": "외상성 심정지에서의 생존 잠금 해제: 글로벌 통찰력, 혁신 및 충족되지 않은 요구."
+          },
+          "papers": [
+            {
+              "pmid": "41345654",
+              "title": "Unlocking survival in traumatic cardiac arrest: global insights, innovations, and unmet needs.",
+              "journal": "Critical care (London, England)",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2025-10-24",
+              "authors": [
+                "Jiang S",
+                "Wei J",
+                "Rao T"
+              ],
+              "citation_count": 6,
+              "rcr": 2.3312323267331734,
+              "volume": "29",
+              "issue": "1",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/41345654/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": true,
+              "hot_score": 28.9,
+              "field": "emergency",
+              "field_label": "응급의학",
+              "abstract": "Traumatic cardiac arrest (TCA) remains one of the most formidable challenges in acute care, with global survival rates persistently below 7.5% despite significant advances in trauma systems and resuscitative strategies. Through a comprehensive scoping review of literature from 2016 to 2025, this study delineates the shifting epidemiology, modern management, and key determinants of outcomes in TCA. Our synthesis reveals that TCA predominantly affects young males and results primarily from blunt mechanisms, with severe hemorrhage and traumatic brain injury as leading critical lesions. While pioneering interventions such as resuscitative endovascular balloon occlusion of the aorta and emergency resuscitative thoracotomy have been widely adopted, robust evidence for their survival benefit remains limited and context dependent. Early identification and correction of reversible causes, targeted hemorrhage control, and timely application of advanced life support measures-especially prehospital thoracostomy and vascular access-significantly increase the likelihood of return of spontaneous circulation and favorable neurological outcomes. Conversely, routine use of epinephrine shows at best inconsistent benefits and may be detrimental in blunt trauma. Survival is further influenced by initial rhythm, presence of signs of life, rapid patient triage to trauma centers, and tailored protocols for pediatric and older populations. Notwithstanding notable progress, major knowledge gaps persist in defining optimal intervention timing, reporting standards, and long-term neurologic recovery. The findings underscore the critical need for multicenter, prospective research, harmonized trauma registries, and global consensus to inform future guidelines and optimize outcomes for TCA patients.",
+              "title_ko": "외상성 심정지에서의 생존 잠금 해제: 글로벌 통찰력, 혁신 및 충족되지 않은 요구."
+            }
+          ]
+        },
+        {
           "journal": "The Journal of head trauma rehabilitation",
           "impact_factor": 1.5,
           "index_type": "미상",
@@ -5429,7 +5438,7 @@
           "impact_factor": 1.5,
           "index_type": "미상",
           "quartile": "미상",
-          "paper_count": 56,
+          "paper_count": 57,
           "top_paper": {
             "pmid": "39642139",
             "title": "A machine learning-based risk score for prediction of mechanical ventilation in children with dengue shock syndrome: A retrospective cohort study.",
@@ -5541,7 +5550,7 @@
               "field": "emergency",
               "field_label": "응급의학",
               "abstract": "BACKGROUND: Dyspnoea is one of the emergency department's (ED) most common and deadly chief complaints, but frequently misdiagnosed and mistreated. We aimed to design a diagnostic decision support which classifies dyspnoeic ED visits into acute heart failure (AHF), exacerbation of chronic obstructive pulmonary disease (eCOPD), pneumonia and \"other diagnoses\" by using deep learning and complete, unselected data from an entire regional health care system. METHODS: In this cross-sectional study, we included all dyspnoeic ED visits of patients ≥ 18 years of age at the two EDs in the region of Halland, Sweden, 07/01/2017-12/31/2019. Data from the complete regional health care system within five years prior to the ED visit were analysed. Gold standard diagnoses were defined as the subsequent in-hospital or ED discharge notes, and a subsample was manually reviewed by emergency medicine experts. A novel deep learning model, the clinical attention-based recurrent encoder network (CareNet), was developed. Cohort performance was compared to a simpler CatBoost model. A list of all variables and their importance for diagnosis was created. For each unique patient visit, the model selected the most important variables, analysed them and presented them to the clinician interpretably by taking event time and clinical context into account. AUROC, sensitivity and specificity were compared. FINDINGS: The most prevalent diagnoses among the 10,315 dyspnoeic ED visits were AHF (15.5%), eCOPD (14.0%) and pneumonia (13.3%). Median number of unique events, i.e., registered clinical data with time stamps, per ED visit was 1,095 (IQR 459-2,310). CareNet median AUROC was 87.0%, substantially higher than the CatBoost model´s (81.4%). CareNet median sensitivity for AHF, eCOPD, and pneumonia was 74.5%, 92.6%, and 54.1%, respectively, with a specificity set above 75.0, slightly inferior to that of the CatBoost baseline model. The model assembled a list of 1,596 variables by importance for diagnosis, on top were prior diagnoses of heart failure or COPD, daily smoking, atrial fibrillation/flutter, life management difficulties and maternity care. Each patient visit received their own unique attention plot, graphically displaying important clinical events for the diagnosis. INTERPRETATION: We designed a novel interpretable deep learning model for diagnosis in emergency department dyspnoea patients by analysing unselected data from a complete regional health care system.",
-              "title_ko": ""
+              "title_ko": "전체 의료 시스템의 전체 데이터를 기반으로 한 응급실 호흡곤란 환자의 진단을 위한 새로운 해석 가능한 딥 러닝 모델."
             },
             {
               "pmid": "39636963",
@@ -5569,7 +5578,7 @@
               "field": "emergency",
               "field_label": "응급의학",
               "abstract": "INTRODUCTION: Workplace violence is a relevant social problem due to its high prevalence and serious consequences. A quarter of workplace violence occurs in the healthcare sector. Evidence shows differences among professionals, with emergency department workers being especially vulnerable, presenting a higher risk of suffering mental and physical health problems, as well as threats to their professional and social integrity. OBJECTIVE: To explore the frequency with which emergency department professionals are exposed to user violence and violence by their own coworkers; as well as to analyze the differences between different professionals in exposure to violence in the workplace and some of its most studied consequences such as burnout, job satisfaction, engagement, and general health. METHODS: A descriptive comparative study was carried out with a sample of 120 emergency department workers from three hospitals in Alicante. The majority were healthcare professionals (84.2%), women (61.7%), obtaining a mean age of 41.8 years (SD = 10.8). Sociodemographic and occupational variables, user violence, violence among colleagues and superiors, general health, burnout, engagement, and job satisfaction were evaluated. RESULTS: A high prevalence of both physical and non-physical user violence in the healthcare setting was observed, especially affecting nursing and administrative assistants. In addition, significant differences were identified between professionals in terms of non-physical user violence, burnout, engagement, and job satisfaction. Administrative staff suffer greater non-physical user violence, while nursing assistants show higher levels of engagement. Regarding job satisfaction, nurses report higher intrinsic satisfaction. Medical staff, nurses and nursing assistants show higher levels of extrinsic satisfaction compared to administrative staff. DISCUSSION: Our results are consistent with other studies in which a relationship between exposure to violence and job satisfaction is observed. In addition, administrative staff appear to be the professionals most exposed to violence from both patients and coworkers. These results provide evidence for future research focused on improving the work environment and health of emergency department professionals.",
-              "title_ko": ""
+              "title_ko": "병원 응급실 전문가들의 직장 내 폭력과 건강 변수의 차이: 서술적 비교 연구."
             },
             {
               "pmid": "41343612",
@@ -6948,181 +6957,6 @@
           ]
         },
         {
-          "journal": "Air medical journal",
-          "impact_factor": 1.5,
-          "index_type": "미상",
-          "quartile": "미상",
-          "paper_count": 5,
-          "top_paper": {
-            "pmid": "41534963",
-            "title": "Effects of Transport Team Composition on Neonatal Intubation Success.",
-            "journal": "Air medical journal",
-            "impact_factor": 1.5,
-            "index_type": "미상",
-            "quartile": "미상",
-            "pubdate": "2025-10-13",
-            "authors": [
-              "Averhoff AJ",
-              "Lee J",
-              "Sawyer R"
-            ],
-            "citation_count": 2,
-            "rcr": null,
-            "volume": "45",
-            "issue": "1",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/41534963/",
-            "altmetric_score": 0,
-            "altmetric_news": 0,
-            "altmetric_social": 0,
-            "is_current_issue": true,
-            "hot_score": 20.7,
-            "field": "emergency",
-            "field_label": "응급의학",
-            "abstract": "OBJECTIVE: Neonatal transport is necessary to move the smallest and sickest patients. Transport team configuration can vary among institutions. One major concern with varied team composition is the ability to intubate neonates. This study investigates team composition effects on neonatal intubation success when performed by a neonatal nurse practitioner (NNP) or critical care transport (CCT) registered nurses (RNs) and paramedics. METHODS: Neonates <4 weeks of age who were intubated on transport between 2016 and 2023 were analyzed by retrospective chart review. Intubation success and number of attempts were compared between NNP and CCT, while controlling for confounding factors such as birth weight, age, and use of premedication or video laryngoscope. RESULTS: A total of 111 neonates were included in the study with 119 intubation procedures by transport team members. There was no difference in the overall intubation success rate between the NNP and CCT with an average of 84% (P = .68). An increase in first-attempt success rate with the CCT was found, which was not significant after controlling for the use of premedication and video laryngoscope. CONCLUSION: During the study period, neonatal intubation success on transport did not differ when comparing NNP with CCT. This result supports staffing neonatal transport teams based on staffing availability.",
-            "title_ko": ""
-          },
-          "papers": [
-            {
-              "pmid": "41534963",
-              "title": "Effects of Transport Team Composition on Neonatal Intubation Success.",
-              "journal": "Air medical journal",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2025-10-13",
-              "authors": [
-                "Averhoff AJ",
-                "Lee J",
-                "Sawyer R"
-              ],
-              "citation_count": 2,
-              "rcr": null,
-              "volume": "45",
-              "issue": "1",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/41534963/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": true,
-              "hot_score": 20.7,
-              "field": "emergency",
-              "field_label": "응급의학",
-              "abstract": "OBJECTIVE: Neonatal transport is necessary to move the smallest and sickest patients. Transport team configuration can vary among institutions. One major concern with varied team composition is the ability to intubate neonates. This study investigates team composition effects on neonatal intubation success when performed by a neonatal nurse practitioner (NNP) or critical care transport (CCT) registered nurses (RNs) and paramedics. METHODS: Neonates <4 weeks of age who were intubated on transport between 2016 and 2023 were analyzed by retrospective chart review. Intubation success and number of attempts were compared between NNP and CCT, while controlling for confounding factors such as birth weight, age, and use of premedication or video laryngoscope. RESULTS: A total of 111 neonates were included in the study with 119 intubation procedures by transport team members. There was no difference in the overall intubation success rate between the NNP and CCT with an average of 84% (P = .68). An increase in first-attempt success rate with the CCT was found, which was not significant after controlling for the use of premedication and video laryngoscope. CONCLUSION: During the study period, neonatal intubation success on transport did not differ when comparing NNP with CCT. This result supports staffing neonatal transport teams based on staffing availability.",
-              "title_ko": ""
-            },
-            {
-              "pmid": "41534962",
-              "title": "Prospective Development and Validation of a Weight Prediction Tool for Patients With Obesity Undergoing Critical Care Transport Using Width and Arm Circumference.",
-              "journal": "Air medical journal",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2025-10-12",
-              "authors": [
-                "Williams K",
-                "Peddle M",
-                "Smith J"
-              ],
-              "citation_count": 1,
-              "rcr": null,
-              "volume": "45",
-              "issue": "1",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/41534962/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": true,
-              "hot_score": 16.8,
-              "field": "emergency",
-              "field_label": "응급의학",
-              "abstract": "OBJECTIVE: Obesity rates are rising, affecting health care systems and causing potential delays in critical care transfers. Accurate weights are important for critical care transport to ensure the appropriate transport asset is selected and dispatched in a timely fashion. Inaccurate weight measurements can lead to various unnecessary delays, including not sending appropriate nonbariatric assets, delays due to secondary dispatch, and delays due to systemic overuse of these bariatric capable assets. The primary objective of this study was to develop and validate a weight prediction tool for patients with obesity undergoing critical care transport. The secondary objective was to compare the performance of this model to the Crandall weight prediction tool. METHODS: A prospective observational study was conducted, collecting data from patients transported by Ornge air ambulance between May 2022 and April 2023. Adults weighing >100 kg undergoing interfacility transfers were included. Four predictive models, using height, arm circumference, width, and girth measurements, were evaluated against actual patient weights and analyzed separately for males and females. Model performance was evaluated by mean squared error, mean absolute error (MAE), mean absolute percentage error, R2, and F-statistic. RESULTS: The Ornge model using arm circumference and width demonstrated the highest accuracy and stability in predicting patient weight for both males and females. This model exhibited the lowest MAE of 12.2 kg, was within a margin of 20% error 91.2% of the time, and had an overall false negative error of 6.9%, outperforming all other models. CONCLUSION: The Ornge arm circumference and width-based model offers a reliable method for predicting patient weight in air ambulance settings. Implementing this tool could improve the efficiency and safety of patient transfers by reducing delays caused by inaccurate weight estimations, thereby expediting access to critical care. Further research is recommended to validate these findings in larger and more diverse populations.",
-              "title_ko": ""
-            },
-            {
-              "pmid": "41534959",
-              "title": "External Ventricular Devices in Air Medical Retrievals.",
-              "journal": "Air medical journal",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2025-09-24",
-              "authors": [
-                "Wall A",
-                "Gibbs C",
-                "Quick L"
-              ],
-              "citation_count": 1,
-              "rcr": null,
-              "volume": "45",
-              "issue": "1",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/41534959/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": true,
-              "hot_score": 16.8,
-              "field": "emergency",
-              "field_label": "응급의학",
-              "abstract": "OBJECTIVE: Describe the clinical characteristics of patients with an external ventricular drain (EVD) air medically retrieved. METHODS: A retrospective chart audit of adults with an EVD air medically retrieved between January 2018 and June 2022 was conducted using the Retrieval Services Queensland database. Patients with a diagnosis of subarachnoid hemorrhage were identified, and then a manual review was conducted to identify EVD cases. RESULTS: A total of 60 patients met the review criteria. However, 34 patients did not have an EVD in situ, 1 was not transported, and 2 charts were non-retrievable, leaving 21 patients in this review. Of the patients, 76% were mechanically ventilated and 10% had no EVD drainage (suspected to be blocked). Blood pressure fluctuations occurred in 67% of the cases (79% during flight). Separate analgesia/anesthetic infusions were administered in 75% of the patients, with 83% requiring rate increases and 100% requiring boluses for increases in blood pressure. Hypertension in 3 patients occurred post-EVD being turned off and resolved when EVD was turned back on, and bolus sedation/analgesia was provided. CONCLUSION: The air medical transport of patients with an EVD is a low-frequency transfer. Therefore, the use of clinical practice guidelines will enable best practice assessment and management.",
-              "title_ko": ""
-            },
-            {
-              "pmid": "41534961",
-              "title": "Boosting Confidence Through Interagency Air Medical Simulation: A Quality Assurance Exercise of a Critical Care Helicopter Landing at a Tertiary Trauma Hospital.",
-              "journal": "Air medical journal",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2025-10-05",
-              "authors": [
-                "Iliff J",
-                "Spring B",
-                "Kumaradevan S"
-              ],
-              "citation_count": 0,
-              "rcr": null,
-              "volume": "45",
-              "issue": "1",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/41534961/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": true,
-              "hot_score": 10.0,
-              "field": "emergency",
-              "field_label": "응급의학",
-              "abstract": "OBJECTIVE: Emergency preparedness training in health care improves patient outcomes. For critically unwell patients outside the hospital setting, air medical helicopter hospital landings expedite emergency health care access. However, little is known of interagency staff experiences during this multifaceted health care provision. We captured staff experiences during the first interagency air medical helicopter landing simulation exercise between the Royal Flying Doctor Service of Australia and Royal Perth Hospital in Western Australia as a quality assurance exercise. METHODS: The simulation exercise yielded 21 participants (hospital and air medical clinicians, logisticians, and pilots) and 8 simulation facilitators who consented to provide data between June and October 2023. Data were collected by phone interviews and surveys and analyzed descriptively and qualitatively. RESULTS: Facilitators reported that conducting successful interagency helicopter retrieval simulations requires extensive planning and preparation. After the simulation, participants reported increased clinical confidence in their specific role, with a desire for greater exposure to diverse simulation training to optimize their future performances for real scenarios. Simulation debriefs allow for further participant clarification surrounding the overall process. They provide a medium for valuable feedback to health service providers in process refinement in the management of the critically unwell, enhancing a culture of safety. CONCLUSION: This study highlighted that interagency simulations are a valuable exercise when multiple health service providers are involved in the management of individual patients who are critically unwell. The significant effort to organize and coordinate to create high-fidelity scenarios by facilitators is rewarded with significant benefit found by the participants in their ability to be prepared for the real-life scenario. Such findings have important implications for ongoing interagency collaboration and ongoing health care and educational strategy.",
-              "title_ko": ""
-            },
-            {
-              "pmid": "41534957",
-              "title": "One Mission, One Team: Celebrating 40 Years of Duke Life Flight.",
-              "journal": "Air medical journal",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2025-07-04",
-              "authors": [
-                "Sapp A"
-              ],
-              "citation_count": 0,
-              "rcr": null,
-              "volume": "45",
-              "issue": "1",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/41534957/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": false,
-              "hot_score": 0.0,
-              "field": "emergency",
-              "field_label": "응급의학",
-              "abstract": "BACKGROUND: Duke LifeFlight, established in 1985, has provided four decades of exceptional critical care transport to patients across the Southeast. As one of the first hospital-based air medical programs in North Carolina, it has set the standard for safety, innovation, and clinical excellence. OBJECTIVE: To commemorate the 40-year anniversary, celebrated last year, of Duke LifeFlight by highlighting its historical milestones, evolving capabilities, and lasting impact on patient outcomes and prehospital care. METHODS/APPROACH: A retrospective review of archival data, program development timelines, and patient care advancements. Key performance indicators and patient transport volumes were analyzed to illustrate growth and effectiveness. RESULTS: Since inception, Duke LifeFlight has completed thousands of transports, expanded to include rotor- and fixed-wing aircraft capabilities as well as critical care ground teams, and maintained accreditation from the Commission on Accreditation of Medical Transport Systems (CAMTS). Innovations in training, telemedicine, and trauma care have further elevated its regional and national standing. CONCLUSION: Over 40 years, Duke LifeFlight has exemplified resilience, clinical excellence, and leadership in critical care transport. As it enters a new era, the program remains dedicated to advancing prehospital medicine and continuing its mission of delivering lifesaving care when seconds matter most.",
-              "title_ko": ""
-            }
-          ]
-        },
-        {
           "journal": "Journal of the American Board of Family Medicine : JABFM",
           "impact_factor": 1.5,
           "index_type": "미상",
@@ -7322,7 +7156,7 @@
           "impact_factor": 1.5,
           "index_type": "미상",
           "quartile": "미상",
-          "paper_count": 5,
+          "paper_count": 4,
           "top_paper": {
             "pmid": "39630735",
             "title": "Predictive efficacy of immature granulocytes in acute complicated appendicitis.",
@@ -7434,33 +7268,6 @@
               "field": "emergency",
               "field_label": "응급의학",
               "abstract": "OBJECTIVE: In emergency departments, accurate and timely triage plays a critical role in prioritizing patient care. Traditional triage often suffers from subjectivity and inconsistency, especially under time pressure and overcrowded conditions. The aim of this study was to evaluate the predictive potential of multiple supervised machine learning models for three-class emergency department triage classification and compare their performance using routinely available triage variables. METHODS: We conducted a comparative analysis of eight supervised machine learning models using a retrospective dataset comprising 510 patient records from the emergency department triage. The dataset included demographic features, vital signs, and chief complaints. A 10-fold cross-validation strategy was employed to evaluate performance in a three-class triage outcome scenario based on urgency levels using accuracy, precision, recall, and F1-score. RESULTS: Among the evaluated models, logistic regression, random forest, support vector machine, and majority voting achieved the highest predictive performance, with overall accuracies exceeding 89%. The confusion matrix analysis revealed that low-urgency cases were consistently classified with the highest accuracy across all models, while misclassifications occurred primarily between high-urgency and medium-urgency cases. CONCLUSION: The results show that machine learning models appear well-suited to support the emergency departments triage decision-making process. Integrating such models into emergency departments workflows can improve patient prioritization, streamline clinical operations, and ultimately contribute to better quality of care.",
-              "title_ko": ""
-            },
-            {
-              "pmid": "42690362",
-              "title": "Predictors of procedural intervention in otolaryngology consultations: a retrospective multivariable analysis of 1,366 cases.",
-              "journal": "Revista da Associacao Medica Brasileira (1992)",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2026-08-24",
-              "authors": [
-                "Altıparmak S",
-                "Kars A"
-              ],
-              "citation_count": 0,
-              "rcr": null,
-              "volume": "72",
-              "issue": "8",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/42690362/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": true,
-              "hot_score": 10.0,
-              "field": "emergency",
-              "field_label": "응급의학",
-              "abstract": "OBJECTIVE: The objective of this study is to evaluate the demographic and clinical characteristics of cases consulted with the ear, nose, and throat department in a tertiary hospital, the consultation indications, and independent factors associated with the need for procedural intervention. METHODS: This retrospective single-center study included patients undergoing ear, nose, and throat consultation. Demographics, consultation characteristics, indications, imaging, procedures, and hospitalization were recorded. Procedural intervention rates and independent factors associated with intervention requirements were also examined. RESULTS: Consultations for 1,366 patients were analyzed. The great majority of consultations (76.5%) originated from the emergency department, and procedural interventions were performed in approximately half the cases (48.8%). The most common reasons for consultation were suspected foreign bodies (n=248, 18.2%), nasal fracture (n=231, 16.9%), and epistaxis (n=132, 9.7%). The highest procedural intervention requirements were in the soft tissue trauma group (n=118; 90.7%) and in the epistaxis (87.9%) and nasal fracture (78.3%) cases. Consultation indication was the strongest independent predictor. Epistaxis, trauma-related consultations, and suspected foreign bodies were significantly associated with the need for procedural intervention. CONCLUSION: Consultation indication was the main determinant of intervention. Epistaxis, trauma-related conditions, and suspected foreign bodies were significantly independently associated with intervention requirements. Early identification of these high-risk indications may assist in the optimization of ear, nose, and throat emergency resource planning and consultation triage.",
               "title_ko": ""
             },
             {
@@ -7749,99 +7556,6 @@
               "field": "emergency",
               "field_label": "응급의학",
               "abstract": "Early identification of trauma patients at risk of in-hospital death is essential for guiding time-critical resuscitation and operative strategies. We developed and evaluated a multi-model machine learning framework that integrates vital signs, and routine laboratory and blood-gas metrics indices obtained within 30 min of emergency department arrival to predict in-hospital mortality. This single-center retrospective study included 408 critically injured trauma patients treated at the Emergency Department of the Affiliated Kunshan Hospital of Jiangsu University (January 2020-December 2021). We implemented multiple machine learning models [logistic regression, Random Forest, Gradient Boosting, XGBoost, LightGBM, and multilayer perceptron (MLP)], and constructed stacking and soft-voting ensembles. On the test set, single-model AUROC ranged from 0.743 to 0.927, with corresponding AUPRC spanning 0.438 to 0.904. The stacking ensemble achieved AUROC 0.9462 and AUPRC 0.8679; the voting ensemble achieved AUROC 0.9506 and AUPRC 0.8715. Permutation importance in the stacking model prioritized Injury Severity Score (ISS) (mean AUROC decrease 0.0360), base excess (BE) (0.0258), Glasgow Coma Scale (GCS) (0.0247), and pH (0.0153). In conclusion, an ensemble machine learning approach integrating early vital signs and laboratory data provides excellent discrimination and calibration for in-hospital mortality after severe trauma, with dominant contributions from ISS, GCS, and acid-base variables. These findings support the feasibility of interpretable ensemble learning for early mortality risk stratification in severe trauma.",
-              "title_ko": ""
-            }
-          ]
-        },
-        {
-          "journal": "Critical care (London, England)",
-          "impact_factor": 1.5,
-          "index_type": "미상",
-          "quartile": "미상",
-          "paper_count": 2,
-          "top_paper": {
-            "pmid": "41345654",
-            "title": "Unlocking survival in traumatic cardiac arrest: global insights, innovations, and unmet needs.",
-            "journal": "Critical care (London, England)",
-            "impact_factor": 1.5,
-            "index_type": "미상",
-            "quartile": "미상",
-            "pubdate": "2025-10-24",
-            "authors": [
-              "Jiang S",
-              "Wei J",
-              "Rao T"
-            ],
-            "citation_count": 6,
-            "rcr": 2.3312323267331734,
-            "volume": "29",
-            "issue": "1",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/41345654/",
-            "altmetric_score": 0,
-            "altmetric_news": 0,
-            "altmetric_social": 0,
-            "is_current_issue": false,
-            "hot_score": 18.9,
-            "field": "emergency",
-            "field_label": "응급의학",
-            "abstract": "Traumatic cardiac arrest (TCA) remains one of the most formidable challenges in acute care, with global survival rates persistently below 7.5% despite significant advances in trauma systems and resuscitative strategies. Through a comprehensive scoping review of literature from 2016 to 2025, this study delineates the shifting epidemiology, modern management, and key determinants of outcomes in TCA. Our synthesis reveals that TCA predominantly affects young males and results primarily from blunt mechanisms, with severe hemorrhage and traumatic brain injury as leading critical lesions. While pioneering interventions such as resuscitative endovascular balloon occlusion of the aorta and emergency resuscitative thoracotomy have been widely adopted, robust evidence for their survival benefit remains limited and context dependent. Early identification and correction of reversible causes, targeted hemorrhage control, and timely application of advanced life support measures-especially prehospital thoracostomy and vascular access-significantly increase the likelihood of return of spontaneous circulation and favorable neurological outcomes. Conversely, routine use of epinephrine shows at best inconsistent benefits and may be detrimental in blunt trauma. Survival is further influenced by initial rhythm, presence of signs of life, rapid patient triage to trauma centers, and tailored protocols for pediatric and older populations. Notwithstanding notable progress, major knowledge gaps persist in defining optimal intervention timing, reporting standards, and long-term neurologic recovery. The findings underscore the critical need for multicenter, prospective research, harmonized trauma registries, and global consensus to inform future guidelines and optimize outcomes for TCA patients.",
-            "title_ko": ""
-          },
-          "papers": [
-            {
-              "pmid": "41345654",
-              "title": "Unlocking survival in traumatic cardiac arrest: global insights, innovations, and unmet needs.",
-              "journal": "Critical care (London, England)",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2025-10-24",
-              "authors": [
-                "Jiang S",
-                "Wei J",
-                "Rao T"
-              ],
-              "citation_count": 6,
-              "rcr": 2.3312323267331734,
-              "volume": "29",
-              "issue": "1",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/41345654/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": false,
-              "hot_score": 18.9,
-              "field": "emergency",
-              "field_label": "응급의학",
-              "abstract": "Traumatic cardiac arrest (TCA) remains one of the most formidable challenges in acute care, with global survival rates persistently below 7.5% despite significant advances in trauma systems and resuscitative strategies. Through a comprehensive scoping review of literature from 2016 to 2025, this study delineates the shifting epidemiology, modern management, and key determinants of outcomes in TCA. Our synthesis reveals that TCA predominantly affects young males and results primarily from blunt mechanisms, with severe hemorrhage and traumatic brain injury as leading critical lesions. While pioneering interventions such as resuscitative endovascular balloon occlusion of the aorta and emergency resuscitative thoracotomy have been widely adopted, robust evidence for their survival benefit remains limited and context dependent. Early identification and correction of reversible causes, targeted hemorrhage control, and timely application of advanced life support measures-especially prehospital thoracostomy and vascular access-significantly increase the likelihood of return of spontaneous circulation and favorable neurological outcomes. Conversely, routine use of epinephrine shows at best inconsistent benefits and may be detrimental in blunt trauma. Survival is further influenced by initial rhythm, presence of signs of life, rapid patient triage to trauma centers, and tailored protocols for pediatric and older populations. Notwithstanding notable progress, major knowledge gaps persist in defining optimal intervention timing, reporting standards, and long-term neurologic recovery. The findings underscore the critical need for multicenter, prospective research, harmonized trauma registries, and global consensus to inform future guidelines and optimize outcomes for TCA patients.",
-              "title_ko": ""
-            },
-            {
-              "pmid": "42902295",
-              "title": "Toward targeted assessment of inspiratory muscle weakness before extubation: a pooled individual patient data analysis from multiple observational cohorts in critically ill ventilated patients.",
-              "journal": "Critical care (London, England)",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2026-09-15",
-              "authors": [
-                "Medrinal C",
-                "Machefert M",
-                "Dubois C"
-              ],
-              "citation_count": 0,
-              "rcr": null,
-              "volume": "30",
-              "issue": "1",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/42902295/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": true,
-              "hot_score": 10.0,
-              "field": "emergency",
-              "field_label": "응급의학",
-              "abstract": "BACKGROUND: Bedside neuromuscular tests are commonly proposed to assess readiness for extubation in critically ill patients. However, when used in unselected populations, their ability to predict clinically relevant outcomes such as extubation failure has been inconsistent. A more targeted use of these tests, restricted to patients in whom neuromuscular weakness is more likely to contribute to weaning failure, may improve their clinical relevance. METHODS: We conducted a pooled individual patient data analysis of multiple observational cohorts including adult ICU patients receiving invasive mechanical ventilation. The primary outcome was extubation failure, defined as reintubation or death within 48 h after extubation. Available neuromuscular assessments included maximal inspiratory pressure (MIP), maximal expiratory pressure (MEP), peak cough flow (PCF), and Medical Research Council (MRC) sum score. Prespecified thresholds were MIP ≤ 30 cmH₂O, MEP ≤ 50 cmH₂O, PCF ≤ 60 L/min, and MRC < 48/60. Associations with extubation failure were assessed in the overall population and according to prior mechanical ventilation duration. RESULTS: Among 494 included patients, 458 had an available extubation outcome and 72 (16%) experienced extubation failure. MIP was available in 230 patients, MEP in 124, PCF in 156, and MRC score in 252. In the overall population, MIP ≤ 30 cmH₂O showed only a borderline association with extubation failure (24% vs. 14%; OR 1.94, 95% CI 0.98 to 3.84; p = 0.06). In patients ventilated for more than 5 days, extubation failure occurred in 33% with MIP ≤ 30 cmH₂O versus 14% with MIP > 30 cmH₂O. After adjustment, MIP ≤ 30 cmH₂O remained associated with extubation failure (adjusted OR 3.52, 95% CI 1.37 to 9.03; p = 0.009). No significant adjusted association was observed for MEP, PCF, or MRC. CONCLUSIONS: Neuromuscular tests may have limited prognostic value when applied broadly before extubation. Low MIP appears more informative after prolonged mechanical ventilation, supporting a targeted rather than systematic use of respiratory neuromuscular assessment before extubation.",
               "title_ko": ""
             }
           ]
@@ -8146,99 +7860,6 @@
               "field": "emergency",
               "field_label": "응급의학",
               "abstract": "BACKGROUND: The association between air pollution and an increased risk of cardiovascular diseases, including stroke, is well-established. However, it remains unclear how reductions in pollutant levels-resulting from clean air policies and the COVID-19 lockdown-affect this relationship. METHODS: A time-series study was conducted using data from Shanghai, China, spanning from 2013 to 2022, divided into two periods (2013-2019 and 2020-2022). Daily air pollution data were obtained from China's air quality platform, while stroke emergency department (ED) visits were sourced from Renhe Hospital. We employed quasi-Poisson regression to analyze the relationship between daily pollutant levels and stroke ED visits, with stratified analyses by sex, age, season, and period. The study identified significant reductions in six pollutants (PM2.5, PM10-2.5, PM10, SO2, NO2, CO) during the 2020-2022 period compared to 2013-2019. RESULTS: Significant reductions in six air pollutants (NO2, PM2.5, PM10-2.5, PM10, SO2, CO) were observed during 2020-2022 compared to 2013-2019. Higher daily NO2 levels were associated with an increased risk of stroke and its subtypes throughout the study, with a stronger correlation observed in the 2020-2022 period (P < 0.001). Subgroup analyses indicated that females and individuals aged 65-74 experienced the highest risks. The elevated stroke risk was particularly pronounced in the summer during 2020-2022. A two-factor model demonstrated that combined exposure to NO2 and other pollutants increased stroke risk. CONCLUSIONS: This study heightened that reduced NO2 levels generally mitigate the adverse effects of short-term exposure to air pollutants on stroke risk, although the benefits vary among subgroups. The persistent stroke risk despite lower pollutant levels underscores the complex factors influencing stroke risk, highlighting the need for comprehensive intervention strategies.",
-              "title_ko": ""
-            }
-          ]
-        },
-        {
-          "journal": "The Cochrane database of systematic reviews",
-          "impact_factor": 1.5,
-          "index_type": "미상",
-          "quartile": "미상",
-          "paper_count": 2,
-          "top_paper": {
-            "pmid": "39908073",
-            "title": "Parenteral medication for the management of acute severe behavioural disturbance (ASBD) in the emergency department.",
-            "journal": "The Cochrane database of systematic reviews",
-            "impact_factor": 1.5,
-            "index_type": "미상",
-            "quartile": "미상",
-            "pubdate": "2024-05-29",
-            "authors": [
-              "Bourke E",
-              "Klein K",
-              "Knott J"
-            ],
-            "citation_count": 1,
-            "rcr": 0.47837005063038623,
-            "volume": "5",
-            "issue": "5",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/39908073/",
-            "altmetric_score": 0,
-            "altmetric_news": 0,
-            "altmetric_social": 0,
-            "is_current_issue": true,
-            "hot_score": 16.8,
-            "field": "emergency",
-            "field_label": "응급의학",
-            "abstract": "This is a protocol for a Cochrane Review (intervention). The objectives are as follows: To assess the effectiveness and safety profiles of different parenteral medications for the management of acute severe behavioural disturbance in the emergency department setting. These medications are required following the failure of less restrictive means of controlling the patient's behavioural disturbance.",
-            "title_ko": ""
-          },
-          "papers": [
-            {
-              "pmid": "39908073",
-              "title": "Parenteral medication for the management of acute severe behavioural disturbance (ASBD) in the emergency department.",
-              "journal": "The Cochrane database of systematic reviews",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2024-05-29",
-              "authors": [
-                "Bourke E",
-                "Klein K",
-                "Knott J"
-              ],
-              "citation_count": 1,
-              "rcr": 0.47837005063038623,
-              "volume": "5",
-              "issue": "5",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/39908073/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": true,
-              "hot_score": 16.8,
-              "field": "emergency",
-              "field_label": "응급의학",
-              "abstract": "This is a protocol for a Cochrane Review (intervention). The objectives are as follows: To assess the effectiveness and safety profiles of different parenteral medications for the management of acute severe behavioural disturbance in the emergency department setting. These medications are required following the failure of less restrictive means of controlling the patient's behavioural disturbance.",
-              "title_ko": ""
-            },
-            {
-              "pmid": "42937251",
-              "title": "Air versus supplemental oxygen for resuscitation of term or late preterm infants at birth.",
-              "journal": "The Cochrane database of systematic reviews",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2026-10-27",
-              "authors": [
-                "Rüegger CM",
-                "Dawson JA",
-                "Cracknell J"
-              ],
-              "citation_count": 0,
-              "rcr": null,
-              "volume": "10",
-              "issue": "",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/42937251/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": false,
-              "hot_score": 0.0,
-              "field": "emergency",
-              "field_label": "응급의학",
-              "abstract": "RATIONALE: Approximately 1% to 5% of newly born infants require some form of respiratory support, including supplemental oxygen for the respiratory transition immediately after birth. Despite a long-standing debate, the optimal concentration of oxygen at initiation of resuscitation of late preterm and term infants immediately after birth is still unknown. OBJECTIVES: Primary objective To assess the benefits and harms of air compared with supplemental oxygen for resuscitation of term or late preterm infants at birth in reducing rates of mortality and long-term neurodevelopmental impairment (NDI). Secondary objectives To assess whether the benefits and harms of air compared with supplemental oxygen differ according to different oxygen concentrations, gestational age (GA), whether oxygen was titrated to saturation targets and the income of the study country. SEARCH METHODS: We searched CENTRAL, MEDLINE, Embase, CINAHL, two trials registries, Epistemonikos and the Directory of Open Access Journals (DOAJ) up to 12 January 2026. We checked reference lists of included studies and other publications related to the topic of this review, and conducted forward/backward citation searching. ELIGIBILITY CRITERIA: We included randomised controlled trials (RCTs), quasi-RCTs or cluster-RCTs in term and late preterm infants who received respiratory support at birth comparing air with any supplemental oxygen. We excluded studies of oxygen saturation targeting, studies not taking place in the delivery room and studies of infants with antenatally diagnosed congenital anomalies. OUTCOMES: Our outcomes of interest were all-cause mortality prior to discharge, in-hospital hypoxic-ischaemic encephalopathy (HIE) (Sarnat stage II to III), post-discharge moderate to severe NDI based on pre-specified criteria, number of days on invasive (endotracheal) respiratory support, length of hospitalisation (days), all-cause mortality of infants followed beyond hospital discharge and moderate to severe NDI based on best available data. RISK OF BIAS: We used the Cochrane RoB 2 tool to assess risk of bias. SYNTHESIS METHODS: We synthesised results for each outcome using meta-analysis where possible. We calculated risk ratio (RR) and risk difference, each with its 95% confidence interval (CI), for categorical outcomes. We used a fixed-effect model to combine data for meta-analysis. Where this was not possible due to the nature of the data, we synthesised results by summarising any available effect estimates. We used GRADE to assess the certainty of evidence for each outcome. INCLUDED STUDIES: We included a total of 12 studies with 2054 participants. The included studies enrolled term (born at a gestational age of 37 weeks 0 days to 43 weeks 6 days) and late preterm (born at a gestational age of 35 weeks 0 days to 36 weeks 6 days) infants who received any form of invasive (endotracheal) or non-invasive respiratory support at birth. SYNTHESIS OF RESULTS: Using air compared to supplemental oxygen for resuscitation of term and late preterm infants may reduce all-cause mortality prior to discharge (RR 0.72, 95% CI 0.57 to 0.91; I² = 0%; 10 studies, 1879 participants; low-certainty evidence). The evidence suggests that using air compared to supplemental oxygen for resuscitation of term and late preterm infants results in little to no difference in in-hospital HIE stage II to III (RR 0.88, 95% CI 0.71 to 1.10; I² = 0%; 5 studies, 1384 participants; low-certainty evidence). The evidence suggests that using air compared to supplemental oxygen for resuscitation of term and late preterm infants results in little to no difference in all-cause mortality among infants followed beyond hospital discharge (RR 0.82, 95% CI 0.58 to 1.16; I² = 0%; 3 studies, 668 participants; low-certainty evidence). The evidence is very uncertain about the effect of using air compared to supplemental oxygen for resuscitation of term and late preterm infants on moderate to severe NDI based on best available data (RR 1.24, 95% CI 0.74 to 2.10; I² = 0%; 3 studies, 414 participants; very low-certainty evidence). None of the studies reported the following outcomes: moderate to severe NDI after at least 12 months' postnatal age as defined in the protocol, the number of days on invasive (endotracheal) respiratory support and the length of hospitalisation (days). Overall, the risk of bias was high for most studies. AUTHORS' CONCLUSIONS: The use of air compared to 100% oxygen may reduce all-cause mortality prior to discharge, but there may be little to no difference in HIE stage II to III and NDI at 12 months or later based on best available data. No study reported moderate to severe NDI after at least 12 months' postnatal age, the number of days on invasive respiratory support or the length of hospitalisation. All 12 included studies compared air with 100% oxygen without titration to available oxygen saturation targets. Therefore, we are unable to draw conclusions about the optimal starting oxygen concentration when titration is available. Subgroup analyses based on gestational ages were not possible. There were no differences between studies from high-income and low- and middle-income countries. FUNDING: This Cochrane review had no dedicated funding. REGISTRATION: Protocol available via DOI: 10.1002/14651858.CD014781.",
               "title_ko": ""
             }
           ]
@@ -10081,18 +9702,541 @@
               "title_ko": ""
             }
           ]
+        },
+        {
+          "journal": "Air medical journal",
+          "impact_factor": 1.5,
+          "index_type": "미상",
+          "quartile": "미상",
+          "paper_count": 11,
+          "top_paper": {
+            "pmid": "41534963",
+            "title": "Effects of Transport Team Composition on Neonatal Intubation Success.",
+            "journal": "Air medical journal",
+            "impact_factor": 1.5,
+            "index_type": "미상",
+            "quartile": "미상",
+            "pubdate": "2025-10-13",
+            "authors": [
+              "Averhoff AJ",
+              "Lee J",
+              "Sawyer R"
+            ],
+            "citation_count": 2,
+            "rcr": null,
+            "volume": "45",
+            "issue": "1",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/41534963/",
+            "altmetric_score": 0,
+            "altmetric_news": 0,
+            "altmetric_social": 0,
+            "is_current_issue": false,
+            "hot_score": 10.7,
+            "field": "emergency",
+            "field_label": "응급의학",
+            "abstract": "OBJECTIVE: Neonatal transport is necessary to move the smallest and sickest patients. Transport team configuration can vary among institutions. One major concern with varied team composition is the ability to intubate neonates. This study investigates team composition effects on neonatal intubation success when performed by a neonatal nurse practitioner (NNP) or critical care transport (CCT) registered nurses (RNs) and paramedics. METHODS: Neonates <4 weeks of age who were intubated on transport between 2016 and 2023 were analyzed by retrospective chart review. Intubation success and number of attempts were compared between NNP and CCT, while controlling for confounding factors such as birth weight, age, and use of premedication or video laryngoscope. RESULTS: A total of 111 neonates were included in the study with 119 intubation procedures by transport team members. There was no difference in the overall intubation success rate between the NNP and CCT with an average of 84% (P = .68). An increase in first-attempt success rate with the CCT was found, which was not significant after controlling for the use of premedication and video laryngoscope. CONCLUSION: During the study period, neonatal intubation success on transport did not differ when comparing NNP with CCT. This result supports staffing neonatal transport teams based on staffing availability.",
+            "title_ko": ""
+          },
+          "papers": [
+            {
+              "pmid": "41534963",
+              "title": "Effects of Transport Team Composition on Neonatal Intubation Success.",
+              "journal": "Air medical journal",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2025-10-13",
+              "authors": [
+                "Averhoff AJ",
+                "Lee J",
+                "Sawyer R"
+              ],
+              "citation_count": 2,
+              "rcr": null,
+              "volume": "45",
+              "issue": "1",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/41534963/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 10.7,
+              "field": "emergency",
+              "field_label": "응급의학",
+              "abstract": "OBJECTIVE: Neonatal transport is necessary to move the smallest and sickest patients. Transport team configuration can vary among institutions. One major concern with varied team composition is the ability to intubate neonates. This study investigates team composition effects on neonatal intubation success when performed by a neonatal nurse practitioner (NNP) or critical care transport (CCT) registered nurses (RNs) and paramedics. METHODS: Neonates <4 weeks of age who were intubated on transport between 2016 and 2023 were analyzed by retrospective chart review. Intubation success and number of attempts were compared between NNP and CCT, while controlling for confounding factors such as birth weight, age, and use of premedication or video laryngoscope. RESULTS: A total of 111 neonates were included in the study with 119 intubation procedures by transport team members. There was no difference in the overall intubation success rate between the NNP and CCT with an average of 84% (P = .68). An increase in first-attempt success rate with the CCT was found, which was not significant after controlling for the use of premedication and video laryngoscope. CONCLUSION: During the study period, neonatal intubation success on transport did not differ when comparing NNP with CCT. This result supports staffing neonatal transport teams based on staffing availability.",
+              "title_ko": ""
+            },
+            {
+              "pmid": "42946514",
+              "title": "Flight Physician Training and Workforce Sustainability Within an Integrated Emergency Department-Intensive Care Unit-Helicopter Emergency Medical Services Staffing Model: A Rural Helicopter Emergency Medical Services Experience in Japan.",
+              "journal": "Air medical journal",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2026-09-12",
+              "authors": [
+                "Tanizaki S",
+                "Maeda S"
+              ],
+              "citation_count": 0,
+              "rcr": null,
+              "volume": "45",
+              "issue": "6",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/42946514/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": true,
+              "hot_score": 10.0,
+              "field": "emergency",
+              "field_label": "응급의학",
+              "abstract": "OBJECTIVE: Maintaining physician-staffed helicopter emergency medical services (HEMS) in rural regions is increasingly challenging because of physician shortages, workforce sustainability concerns, and limited opportunities for dedicated flight physician staffing. We developed an integrated staffing and training model in which emergency physicians collectively provide emergency department (ED), intensive care unit (ICU), pediatric emergency, and HEMS care while participating in a regional physician-sharing collaboration. METHODS: This single-center retrospective study evaluated all consecutive HEMS missions conducted between April 2021 and March 2026 at a rural tertiary emergency and critical care center in Japan. Flight physician training was conducted through on-the-job training (OJT) embedded within routine ED, ICU, pediatric emergency, and HEMS practices. Missions performed during supervised OJT were compared with those performed after independent certification. Operational performance was assessed using on-scene time, scene intervention rates, intubation rates, cardiopulmonary resuscitation rates, and hospital mortality. RESULTS: Six physicians completed training; 4 achieved independent practice within 6 months and 2 within 12 months. The average annual flight volume was approximately 30 missions per physician. A total of 189 missions were analyzed. Patient characteristics were comparable between 98 OJT and 91 independent missions. No differences were observed across operational performance measures; no procedural, medication, or operational incidents occurred. CONCLUSIONS: Despite relatively limited individual flight exposure, most trainees achieved independent practice within 6 months, and operational performance following certification was not inferior to that of supervised training. Integrated acute care practice may support the development and maintenance of flight physician competency in resource-limited rural environments.",
+              "title_ko": ""
+            },
+            {
+              "pmid": "42946512",
+              "title": "REBOAHEMS: A Standardized, Competency-Based Operational Training Model for Air Medical REBOA Implementation.",
+              "journal": "Air medical journal",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2026-09-09",
+              "authors": [
+                "García AM",
+                "Ortega-Deballon I",
+                "Roldán JML"
+              ],
+              "citation_count": 0,
+              "rcr": null,
+              "volume": "45",
+              "issue": "6",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/42946512/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": true,
+              "hot_score": 10.0,
+              "field": "emergency",
+              "field_label": "응급의학",
+              "abstract": "OBJECTIVE: Massive hemorrhage remains a leading cause of preventable trauma mortality. Resuscitative endovascular balloon occlusion of the aorta (REBOA) has been proposed as a potential prehospital intervention, including within helicopter emergency medical services (HEMS). However, safe REBOA implementation in air medical environments poses unique operational challenges, and training models specifically adapted to these conditions remain scarce. The objective of this study is to develop and evaluate the operational feasibility of a structured training program designed to prepare HEMS crews for REBOA implementation under real air medical constraints. METHODS: REBOAHEMS was designed as a competency-based, blended-learning program consisting of a 12-hour online phase and a 12-hour in-person high-contextual-fidelity simulation phase conducted in helicopter cabin simulators (Bell 412 and AW109). A prospective educational evaluation was performed in HEMS physicians and nurses, assessing knowledge acquisition (pre-/post-test), procedural performance in simulation (Objective Structured Assessment of Prehospital REBOA Application scores and time to aortic occlusion), participant satisfaction, and early indicators of perceived transfer to clinical practice. RESULTS: A total of 14 HEMS clinicians completed the program. Participants demonstrated significant improvement in theoretical knowledge and consistent procedural performance during simulated air medical scenarios. The mean time to aortic occlusion was 9.0 ± 3.6 minutes. Overall satisfaction was high. Although participants reported increased identification of potential REBOA candidates after training, no clinical REBOA deployments occurred due to a lack of device availability. CONCLUSION: REBOAHEMS represents a feasible approach to preparing HEMS crews for REBOA performance under air medical operational constraints. The findings highlight that training alone is insufficient for clinical implementation, emphasizing the critical role of organizational readiness, equipment availability, and governance structures. This model offers a reproducible framework for air medical programs seeking to safely advance REBOA readiness and implementation.",
+              "title_ko": ""
+            },
+            {
+              "pmid": "42946511",
+              "title": "Peer Support for a Specialty Critical Care Transport Team.",
+              "journal": "Air medical journal",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2026-08-26",
+              "authors": [
+                "Smith BS",
+                "Pruitt LM",
+                "Flint JL"
+              ],
+              "citation_count": 0,
+              "rcr": null,
+              "volume": "45",
+              "issue": "6",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/42946511/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": true,
+              "hot_score": 10.0,
+              "field": "emergency",
+              "field_label": "응급의학",
+              "abstract": "OBJECTIVE: First responders experience higher rates of psychological distress than the general population, driven by repeated exposure to traumatic events and limited recovery time. Members of neonatal and pediatric critical care transport teams face additional cumulative stressors related to high-acuity patients and emotionally challenging transports. This study describes the development, implementation, and utilization of a peer-led support program within a hospital-based neonatal and pediatric critical care transport service. METHODS: Following a 2019 internal survey that identified a preference for peer-based emotional support, the Children's Mercy Critical Care Transport Team implemented a structured peer support program. Peer Support Persons (PSPs) were selected from a multidisciplinary transport team and completed standardized initial and ongoing training. Peer support was accessed through self-referral, leadership referral, and a confidential QR code (Quick Response Code) request system. Minimal, non-identifiable encounter data were tracked in a secure database. Descriptive analysis was used to evaluate program utilization from March 2023 to August 2025. RESULTS: During the study period, 209 peer support encounters were documented, including 11 formal debriefings and 199 informal interactions. Encounters involved registered nurses, respiratory therapists, emergency medical technicians, communication specialists, and other team members, most of which were related to difficult transports, patient deaths, and emotional distress. Program utilization increased over time, demonstrating the integration of peer support into routine team culture. Staff feedback was consistently positive, highlighting the value of timely, confidential, peer-led support. CONCLUSION: A structured, confidential, peer-led support program is feasible and sustainable in a neonatal and pediatric critical care transport setting. This model promotes resilience, reduces stigma, and may serve as a framework for similar first-responder programs.",
+              "title_ko": ""
+            },
+            {
+              "pmid": "42946510",
+              "title": "Helicopter and Fixed-Wing Air Medical Transport in a Resource-Limited Region of Eastern Anatolia: Epidemiological Patterns and Operational Challenges in Van Province, Turkey (2022-2025).",
+              "journal": "Air medical journal",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2026-08-19",
+              "authors": [
+                "Tatlı M",
+                "Bilmez KD",
+                "Tosun M"
+              ],
+              "citation_count": 0,
+              "rcr": null,
+              "volume": "45",
+              "issue": "6",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/42946510/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": true,
+              "hot_score": 10.0,
+              "field": "emergency",
+              "field_label": "응급의학",
+              "abstract": "OBJECTIVE: Air ambulance services are essential for patient transport in geographically isolated and resource-limited regions. Van Province, located in the easternmost part of Turkey, features mountainous terrain, harsh winters, and frequent road closures. Despite the critical role of air medical transport in such challenging environments, epidemiological data from these regions remain scarce. This study aimed to characterize the distinct operational roles, patient demographics, and clinical indications for helicopter versus fixed-wing air ambulance transport in a geographically challenging, resource-limited region. METHODS: We conducted a retrospective, descriptive epidemiological study analyzing all air ambulance transports (n = 940) coordinated by the Van Provincial Emergency Medical Services between January 1, 2022, and December 31, 2025. Demographic, clinical, and operational data were compared between helicopter and fixed-wing transports. To address the well-known limitation that the Glasgow Coma Scale (GCS) is not interpretable in patients who are pharmacologically sedated or intubated, the primary GCS comparison was performed in a subset of 738 patients after excluding 190 patients who were intubated, mechanically ventilated, or sedated at the time of preflight assessment; the excluded group is described separately. RESULTS: Of 940 patients, 537 (57.1%) were transported by helicopter and 403 (42.9%) by fixed-wing aircraft. Helicopter patients were significantly older (38.4 vs. 18.4 years, P < .001) and predominantly adults (70.9%). Fixed-wing aircraft primarily transported neonates and children (71.0%), particularly those with congenital heart disease (n = 147, 92.5% fixed-wing). After excluding patients who were intubated, mechanically ventilated, or sedated (n = 190), mean preflight GCS was 14.7 ± 1.4 in the helicopter group versus 14.2 ± 1.6 in the fixed-wing group (P < .001); although this difference was statistically significant, the magnitude of this difference is unlikely to be clinically meaningful, as both groups were essentially alert. The geographically isolated Bahçesaray district accounted for 295 patients (31.4%), all of whom were transported by helicopter. All 52 scene responses were performed exclusively by helicopters. CONCLUSION: Helicopter and fixed-wing aircraft serve distinct and complementary roles in the air medical system of eastern Turkey. These findings provide an operational reference for resource-limited regions and underscore the need for outcome-linked research to evaluate clinical effectiveness.",
+              "title_ko": ""
+            },
+            {
+              "pmid": "42946509",
+              "title": "International Fixed-Wing Air Ambulance Repatriation: A Retrospective Observational Cohort Analysis With Regression Modeling of Fox Flight Air Ambulance Inc. Patient Repatriation Characteristics 2009 to 2024.",
+              "journal": "Air medical journal",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2026-08-12",
+              "authors": [
+                "Kao V",
+                "Yeo IB",
+                "Priestap F"
+              ],
+              "citation_count": 0,
+              "rcr": null,
+              "volume": "45",
+              "issue": "6",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/42946509/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": true,
+              "hot_score": 10.0,
+              "field": "emergency",
+              "field_label": "응급의학",
+              "abstract": "OBJECTIVE: As international travel rises globally, particularly among older adults with chronic conditions, illness or injury abroad may require air medical repatriation. Contemporary data describing patient characteristics, transport practices, and in-flight events are limited. The objective of this study is to describe the patient demographics, clinical indications, transport characteristics, and in-flight events associated with international fixed-wing air medical repatriation by a single Canadian provider. METHODS: We conducted a retrospective observational cohort study of all international repatriations completed by Fox Flight Air Ambulance Inc. between 2009 and 2024. Extracted chart data included demographics, diagnoses, transport modality, team composition, interventions, and in-flight events. Outcomes included repatriation completion, mortality, and in-flight events that required intervention. Multivariable logistic regression identified factors associated with in-flight events. RESULTS: A total of 3,905 transports were included. Patients were predominantly older adults (61.5 ± 21.5 years), with orthopedic/trauma, cardiovascular, neurovascular, and infectious disease diagnoses comprising most repatriations. In-flight events occurred in 26.7% of transports; major events represented 15.0% of all events (3.9% of transports). Subgroup analyses demonstrated significant associations (P < .001) between in-flight interventions and mechanical ventilation, team composition, age group, and transport era. Over time, patients required stretchers and oxygen therapy more frequently, consistent with increasing acuity. In multivariable analysis, independent predictors of in-flight events included age, orthopedic/trauma and neoplasm-related diagnoses, oxygen therapy, invasive mechanical ventilation, and year of transport. CONCLUSION: Serious in-flight events were infrequent and occurred within transports staffed by experienced teams, although causality cannot be inferred. The findings support risk-informed planning, team composition decisions, and operational strategies to optimize safety and resource utilization.",
+              "title_ko": ""
+            },
+            {
+              "pmid": "42946504",
+              "title": "Feasibility of Prehospital Central Venous Cannulation During Cardiac Arrest in an Ambulance.",
+              "journal": "Air medical journal",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2026-09-11",
+              "authors": [
+                "Shekhar AC",
+                "Altman-Ezzard M",
+                "Ashley E"
+              ],
+              "citation_count": 0,
+              "rcr": null,
+              "volume": "45",
+              "issue": "6",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/42946504/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": true,
+              "hot_score": 10.0,
+              "field": "emergency",
+              "field_label": "응급의학",
+              "abstract": "Central venous cannulation is routinely performed in hospital settings but is rarely considered in the prehospital environment, where confined workspaces and concurrent resuscitative demands may limit procedural feasibility. We conducted a simulation-based feasibility study to evaluate whether central venous cannulation could be performed during ongoing cardiac arrest resuscitation within a standard ambulance. A multidisciplinary team consisting of emergency medical services clinicians and a physician participated in repeated simulations using a resuscitation manikin. A refractory shockable cardiac arrest scenario requiring ongoing advanced cardiac life support was simulated, while airway management, medication administration, cardiac monitoring, and chest compressions continued uninterrupted. Central venous cannulation was successfully completed in all simulations using standard sterile technique. The technical aspects of cannulation were largely unchanged from hospital-based practice, and left femoral venous access was identified as the most practical site. The primary challenges were limited workspace and unfavorable ergonomics related to the fixed stretcher height, which required the operator performing cannulation to work in an awkward position. Despite these constraints, all major advanced cardiac life support interventions were maintained throughout the procedure. These findings suggest that central venous cannulation during ongoing cardiac arrest resuscitation is technically feasible within a standard ambulance environment and support further investigation into advanced vascular access procedures in prehospital critical care.",
+              "title_ko": ""
+            },
+            {
+              "pmid": "41534962",
+              "title": "Prospective Development and Validation of a Weight Prediction Tool for Patients With Obesity Undergoing Critical Care Transport Using Width and Arm Circumference.",
+              "journal": "Air medical journal",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2025-10-12",
+              "authors": [
+                "Williams K",
+                "Peddle M",
+                "Smith J"
+              ],
+              "citation_count": 1,
+              "rcr": null,
+              "volume": "45",
+              "issue": "1",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/41534962/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 6.8,
+              "field": "emergency",
+              "field_label": "응급의학",
+              "abstract": "OBJECTIVE: Obesity rates are rising, affecting health care systems and causing potential delays in critical care transfers. Accurate weights are important for critical care transport to ensure the appropriate transport asset is selected and dispatched in a timely fashion. Inaccurate weight measurements can lead to various unnecessary delays, including not sending appropriate nonbariatric assets, delays due to secondary dispatch, and delays due to systemic overuse of these bariatric capable assets. The primary objective of this study was to develop and validate a weight prediction tool for patients with obesity undergoing critical care transport. The secondary objective was to compare the performance of this model to the Crandall weight prediction tool. METHODS: A prospective observational study was conducted, collecting data from patients transported by Ornge air ambulance between May 2022 and April 2023. Adults weighing >100 kg undergoing interfacility transfers were included. Four predictive models, using height, arm circumference, width, and girth measurements, were evaluated against actual patient weights and analyzed separately for males and females. Model performance was evaluated by mean squared error, mean absolute error (MAE), mean absolute percentage error, R2, and F-statistic. RESULTS: The Ornge model using arm circumference and width demonstrated the highest accuracy and stability in predicting patient weight for both males and females. This model exhibited the lowest MAE of 12.2 kg, was within a margin of 20% error 91.2% of the time, and had an overall false negative error of 6.9%, outperforming all other models. CONCLUSION: The Ornge arm circumference and width-based model offers a reliable method for predicting patient weight in air ambulance settings. Implementing this tool could improve the efficiency and safety of patient transfers by reducing delays caused by inaccurate weight estimations, thereby expediting access to critical care. Further research is recommended to validate these findings in larger and more diverse populations.",
+              "title_ko": ""
+            }
+          ]
+        },
+        {
+          "journal": "Critical care science",
+          "impact_factor": 1.5,
+          "index_type": "미상",
+          "quartile": "미상",
+          "paper_count": 10,
+          "top_paper": {
+            "pmid": "41417414",
+            "title": "Stepwise positive end-expiratory pressure titration modulates respiratory mechanics and mechanical power in mechanically ventilated adults.",
+            "journal": "Critical care science",
+            "impact_factor": 1.5,
+            "index_type": "미상",
+            "quartile": "미상",
+            "pubdate": "2025-12-19",
+            "authors": [
+              "Gallardo A",
+              "Alcaráz M",
+              "Díaz-Cabrera A"
+            ],
+            "citation_count": 2,
+            "rcr": null,
+            "volume": "37",
+            "issue": "",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/41417414/",
+            "altmetric_score": 0,
+            "altmetric_news": 0,
+            "altmetric_social": 0,
+            "is_current_issue": false,
+            "hot_score": 10.7,
+            "field": "emergency",
+            "field_label": "응급의학",
+            "abstract": "OBJECTIVE: To evaluate the impact of an ascending positive end-expiratory pressure titration strategy on respiratory mechanics and mechanical power in patients without lung injury. METHODS: An incremental positive end-expiratory pressure titration was performed in 4cmH2O steps, starting from zero end-expiratory pressure and progressing to 16cmH2O. Differences (Δ) in respiratory system static compliance, plateau pressure, driving pressure, and mechanical power were assessed during lung-protective ventilation. Mechanical power formulas proposed by Gattinoni et al. and Costa et al. were used. Analyses were also performed on the static elastic components, dynamic elastic components, total elastic power, and resistive components. RESULTS: Increasing positive end-expiratory pressure levels were associated with a progressive rise in mechanical power, plateau pressure, total and static elastic power, and a decline in compliance. Mechanical power showed strong positive correlations with: ΔPplat (p < 0.001); Δelastic dynamic power (p < 0.001); Δdriving pressure (p < 0.001); and Δtotal elastic power (p < 0.001). Δmechanical power correlated strongly with Δresistive power (p < 0.001), but not with other mechanical power components or mechanics. CONCLUSION: Progressive positive end-expiratory pressure increase in patients without lung disease significantly raises total mechanical power and its elastic components, particularly static elastic power. These changes may occur silently and without significant alterations in driving pressure or compliance.",
+            "title_ko": ""
+          },
+          "papers": [
+            {
+              "pmid": "41417414",
+              "title": "Stepwise positive end-expiratory pressure titration modulates respiratory mechanics and mechanical power in mechanically ventilated adults.",
+              "journal": "Critical care science",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2025-12-19",
+              "authors": [
+                "Gallardo A",
+                "Alcaráz M",
+                "Díaz-Cabrera A"
+              ],
+              "citation_count": 2,
+              "rcr": null,
+              "volume": "37",
+              "issue": "",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/41417414/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 10.7,
+              "field": "emergency",
+              "field_label": "응급의학",
+              "abstract": "OBJECTIVE: To evaluate the impact of an ascending positive end-expiratory pressure titration strategy on respiratory mechanics and mechanical power in patients without lung injury. METHODS: An incremental positive end-expiratory pressure titration was performed in 4cmH2O steps, starting from zero end-expiratory pressure and progressing to 16cmH2O. Differences (Δ) in respiratory system static compliance, plateau pressure, driving pressure, and mechanical power were assessed during lung-protective ventilation. Mechanical power formulas proposed by Gattinoni et al. and Costa et al. were used. Analyses were also performed on the static elastic components, dynamic elastic components, total elastic power, and resistive components. RESULTS: Increasing positive end-expiratory pressure levels were associated with a progressive rise in mechanical power, plateau pressure, total and static elastic power, and a decline in compliance. Mechanical power showed strong positive correlations with: ΔPplat (p < 0.001); Δelastic dynamic power (p < 0.001); Δdriving pressure (p < 0.001); and Δtotal elastic power (p < 0.001). Δmechanical power correlated strongly with Δresistive power (p < 0.001), but not with other mechanical power components or mechanics. CONCLUSION: Progressive positive end-expiratory pressure increase in patients without lung disease significantly raises total mechanical power and its elastic components, particularly static elastic power. These changes may occur silently and without significant alterations in driving pressure or compliance.",
+              "title_ko": ""
+            },
+            {
+              "pmid": "41417397",
+              "title": "The impact of a multicomponent telemedicine-based intervention on quality of life in adults with respiratory failure requiring mechanical ventilation: protocol for a cluster stepped-wedge randomized clinical trial (Tele-Rehab MV Trial).",
+              "journal": "Critical care science",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2025-12-15",
+              "authors": [
+                "Pereira AJ",
+                "Moraes RB",
+                "Trott G"
+              ],
+              "citation_count": 2,
+              "rcr": null,
+              "volume": "37",
+              "issue": "",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/41417397/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 10.7,
+              "field": "emergency",
+              "field_label": "응급의학",
+              "abstract": "OBJECTIVE: To assess the impact of a multicomponent intervention on the health-related quality of life of patients with hypoxemic respiratory failure requiring invasive mechanical ventilation. METHODS: A cluster stepped-wedge randomized clinical trial will be conducted in intensive care units across Brazil. Intensive care units with ≥ 8 beds and the capacity to admit patients with acute hypoxemic respiratory failure will be included. Within each intensive care unit, adult patients with acute hypoxemic respiratory failure requiring invasive mechanical ventilation, in whom SARS-CoV-2 infection is part of the differential diagnosis, will be enrolled. The intervention consists of a telemedicine-based quality improvement program focused on disability prevention and rehabilitation strategies, implemented during the patient's intensive care unit stay, continued through ward admission, and extending up to 2 months post-hospital discharge. The primary outcome is health-related quality of life assessed using the EuroQol 5-Dimension 3-Level scale 90 days after discharge from the hospital. Secondary outcomes include rehospitalization within 30 days from hospital discharge, as well as all-cause mortality, anxiety, depression, cognitive impairment, new disabilities for instrumental activities of daily living, and return to work or studies 90 days after discharge from the hospital. RESULTS: The study protocol has been approved by the research ethics committees of all participant institutions. It was registered at ClinicalTrials.gov (NCT06343545) before the first participant was included. We aim to disseminate the findings through conferences and peer-reviewed journals. CONCLUSION: The \"Tele-Rehab MV trial\" may provide further information on the role of early multicomponent interventions aimed at disability prevention and rehabilitation for critically ill patients with acute hypoxemic respiratory failure.",
+              "title_ko": ""
+            },
+            {
+              "pmid": "39775432",
+              "title": "Long-term mortality of Dutch COVID-19 patients admitted to the intensive care medicine: a retrospective analysis from a national quality registry.",
+              "journal": "Critical care science",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2024-12-20",
+              "authors": [
+                "Wortel SA",
+                "Bakhshi-Raiez F",
+                "Abu-Hanna A"
+              ],
+              "citation_count": 2,
+              "rcr": 0.5430979569656833,
+              "volume": "36",
+              "issue": "",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/39775432/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 10.7,
+              "field": "emergency",
+              "field_label": "응급의학",
+              "abstract": "OBJECTIVE: To describe the 12-month mortality of Dutch COVID-19 intensive care unit patients, the total COVID-19 population and various subgroups on the basis of the number of comorbidities, age, sex, mechanical ventilation, and vasoactive medication use. METHODS: We included all patients admitted with COVID-19 between March 1, 2020, and March 29, 2022, from the Dutch National Intensive Care (NICE) database. The crude 12-month mortality rate is presented via Kaplan-Meier survival curves for each patient subgroup. We used Cox regression models to analyze the effects of patient characteristics on 12-month mortality after hospital discharge. RESULTS: We included 16,605 COVID-19 patients. The in-hospital mortality rate was 28.1%, and the 12-month mortality rate after intensive care unit admission was 29.8%. Among hospital survivors, 12-month mortality after hospital discharge was 2.5% (300/11,931). The hazard of death at 12 months after hospital discharge was greater in patients between 60 and 79 years (HR 4.74; 95%CI 2.23 - 10.06) and ≥ 80 years (HR 22.77; 95%CI 9.91 - 52.28) than in patients < 40 years of age; in male patients than in female patients (HR 1.38; 95%CI 1.07 - 1.78); and in patients with one (adjusted HR 1.95; 95%CI 1.5 - 2.53), two (adjusted HR 4.49; 95%CI 3.27 - 6.16) or more than two comorbidities (adjusted HR 4.99; 95%CI 2.62 - 9.5) than in patients with no comorbidities. Neither vasoactive medication use nor mechanical ventilation resulted in statistically significant results. CONCLUSION: For Dutch COVID-19 intensive care unit patients, most deaths occurred during their hospital stay. For hospital survivors, the crude 12-month mortality rate was low. Patient age (older than 60), sex and the number of comorbidities were associated with a greater hazard of death at 12 months after hospital discharge, whereas mechanical ventilation and vasoactive medication were not.",
+              "title_ko": ""
+            },
+            {
+              "pmid": "41416916",
+              "title": "Comparison of the effect of a lower versus a higher PEEP strategy on clinically relevant outcomes in invasively ventilated patients without acute respiratory distress syndrome: statistical re-analysis plan of the RELAx trial using a Bayesian framework.",
+              "journal": "Critical care science",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2025-12-15",
+              "authors": [
+                "Caroli A",
+                "Algera AG",
+                "Meenen DV"
+              ],
+              "citation_count": 1,
+              "rcr": null,
+              "volume": "37",
+              "issue": "",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/41416916/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 6.8,
+              "field": "emergency",
+              "field_label": "응급의학",
+              "abstract": "BACKGROUND: The effect of different levels of positive end-expiratory pressure in invasively ventilated critically ill patients remains a matter of debate. The REstricted versus Liberal Positive End-Expiratory Pressure in Patients Without ARDS (RELAx) is a multicentric, randomized trial comparing a lower positive end-expiratory pressure strategy versus a higher positive end-expiratory pressure strategy in ventilated patients without acute respiratory distress syndrome, which demonstrated non-inferiority of lower positive end-expiratory pressure compared to higher positive end-expiratory pressure on ventilator-free days. The primary analysis was published in 2020, and a frequentist statistical approach was applied. AIM: To present the protocol of the Bayesian analysis plan that will be used to re-analyse the RELAx trial to provide complementary and additional insight into this clinical trial. METHODS: This re-analysis will focus on the probability of superiority of the intervention. As an ordinal variable, the primary outcome will be ventilator-free days at day 28, and posterior estimates will be obtained by fitting a hierarchical cumulative logistic regression model. Secondary outcomes will be mortality at day 28, as a binary outcome, and ventilation duration, as a continuous outcome. We will adopt neutral, pessimistic, and optimistic priors informed by current literature, and a fourth prior derived from an expert's survey. Probability thresholds will be defined for superiority, severe harm, and a region of practical equivalence. DISCUSSION: The RELAx trial findings raise the hypothesis that a lower positive end-expiratory pressure strategy may be at least as effective, if not superior, in specific patient-centred outcomes. This analysis is designed to augment and contextualize the original frequentist analysis of the largest randomized trial comparing positive end-expiratory pressure strategies in non-acute respiratory distress syndrome patients. Results will be presented with a continuum of credible intervals and probabilities of effects to facilitate a nuanced interpretation. We offer clinically meaningful insights that complement and extend the trial's original analysis by reporting probabilities of benefit, harm, and equivalence.",
+              "title_ko": ""
+            },
+            {
+              "pmid": "39630830",
+              "title": "Differences in the relative importance of predictors of short- and long-term mortality among critically ill patients with cancer.",
+              "journal": "Critical care science",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2024-12-02",
+              "authors": [
+                "Silva CMDD",
+                "Bettim BB",
+                "Besen BAMP"
+              ],
+              "citation_count": 1,
+              "rcr": 0.25892525984356146,
+              "volume": "36",
+              "issue": "",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/39630830/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 6.8,
+              "field": "emergency",
+              "field_label": "응급의학",
+              "abstract": "OBJECTIVE: To identify the relative importance of several clinical variables present at intensive care unit admission on the short- and long-term mortality of critically ill patients with cancer after unplanned intensive care unit admission. METHODS: This was a retrospective cohort study of patients with cancer with unplanned intensive care unit admission from January 2017 to December 2018. We developed models to analyze the relative importance of well-known predictors of mortality in patients with cancer admitted to the intensive care unit compared with mortality at 28, 90, and 360 days after intensive care unit admission, both in the full cohort and stratified by the type of cancer when the patient was admitted to the intensive care unit. RESULTS: Among 3,592 patients, 3,136 (87.3%) had solid tumors, and metastatic disease was observed in 60.8% of those patients. A total of 1,196 (33.3%), 1,738 (48.4%), and 2,435 patients (67.8%) died at 28, 90, and 360 days, respectively. An impaired functional status was the greatest contribution to mortality in the short term for all patients and in the short and long term for the subgroups of patients with solid tumors. For patients with hematologic malignancies, the use of mechanical ventilation was the most important variable associated with mortality in all study periods. The SOFA score at admission was important for mortality prediction only for patients with solid metastatic tumors and hematological malignancies. The use of vasopressors and renal replacement therapy had a small importance in predicting mortality at every time point analyzed after the SOFA score was accounted for. CONCLUSION: Healthcare providers must consider performance status, the use of mechanical ventilation, and the severity of illness when discussing prognosis, preferences for care, and end-of-life care planning with patients or their families during intensive care unit stays.",
+              "title_ko": ""
+            },
+            {
+              "pmid": "39630827",
+              "title": "Changes in central venous pressure during a fluid challenge have limited value for guiding fluid therapy.",
+              "journal": "Critical care science",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2024-12-02",
+              "authors": [
+                "de Oliveira PS",
+                "Ramos FJDS",
+                "Tomotani DYV"
+              ],
+              "citation_count": 1,
+              "rcr": 0.34820491429802003,
+              "volume": "36",
+              "issue": "",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/39630827/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 6.8,
+              "field": "emergency",
+              "field_label": "응급의학",
+              "abstract": "OBJECTIVE: To evaluate whether changes in central venous pressure during fluid expansion and baseline cyclic respiratory variation in the central venous pressure amplitude (RespCVP) curve could be used to discriminate between fluid responders and nonresponders. METHODS: This prospective observational study included critically ill adult patients who underwent fluid expansion in the form of a fluid bolus or fluid challenge with crystalloids. All patients were under mechanical ventilation and adequately sedated. We determined the central venous pressure at baseline (CVPT0) and the changes at 5 (ΔCVPT5), 10 (ΔCVPT10) and 15 (ΔCVPT15) minutes during fluid infusion. We also measured the RespCVP at baseline. Fluid responsiveness was defined as a cardiac index increase of ≥ 15%. RESULTS: The study included 30 patients (11 responders and 19 nonresponders). The CVPT0 and the changes after a fluid challenge at all three time points did not adequately predict fluid responsiveness, as determined by their area under the curve values (CVPT0: 0.70, (95%CI: 0.49 - 0.90; ΔCVPT5: 0.78, (95%CI: 0.57 - 0.99; ΔCVPT10: 0.63, (95%CI: 0.39 - 0.88; ΔCVPT15: 0.68, ((95%CI: 0.45 - 0.92). The RespCVP at baseline also had a poor performance (area under the curve: 0.70; 95%CI: 0.50 - 0.91). CONCLUSION: Changes in central venous pressure have limited value in predicting fluid responsiveness.",
+              "title_ko": ""
+            },
+            {
+              "pmid": "42912021",
+              "title": "Statistical analysis plan for transfusion of modified whole blood versus blood components therapy in patients with severe trauma: randomized controlled trial - WEBSTER trial.",
+              "journal": "Critical care science",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2026-10-16",
+              "authors": [
+                "García AF",
+                "Gempeler A",
+                "Caicedo EY"
+              ],
+              "citation_count": 0,
+              "rcr": null,
+              "volume": "38",
+              "issue": "",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/42912021/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 0.0,
+              "field": "emergency",
+              "field_label": "응급의학",
+              "abstract": "BACKGROUND: Hemostatic resuscitation with modified whole blood is an alternative to balanced blood-component therapy for trauma patients with hemorrhagic shock, with potential efficacy and logistical advantages. The WEBSTER trial was designed to compare these interventions in patients with trauma hemorrhagic shock. METHODS: Single-center, open-label, parallel-group randomized clinical trial comparing whole blood with blood components in adults with trauma hemorrhagic shock. PRIMARY OUTCOME: hierarchical composite of all-cause 28-day mortality and SOFA score during the first 5 days after randomization. We will estimate treatment effects using a win-ratio analysis that prioritizes mortality. Primary analysis follows the intention-to-treat principle; secondary analyses in as-treated and per-protocol populations are planned. Secondary outcomes include mortality at additional time points, organ dysfunction metrics, coagulation parameters, transfusion requirements, and adverse events. RESULTS: Primary outcome analyses will report win ratios, and secondary outcomes will be analyzed with hypothesis tests or regression time-to-event models; 95% confidence intervals will accompany all estimates. We do not plan formal adjustment for multiplicity because the outcomes share the same underlying construct. All outcomes will be interpreted in the context of the overall pattern of results. CONCLUSION: This statistical analysis plan prespecifies transparent methods to assess the effect of whole blood versus blood-component therapy in trauma patients. The hierarchical framework, complementary sensitivity analyses and comprehensive interpretation are intended to provide a robust and clinically meaningful assessment of whole blood effects.",
+              "title_ko": ""
+            },
+            {
+              "pmid": "42820513",
+              "title": "Invasive mechanical ventilation, functional decline at pediatric intensive care unit discharge, and post-discharge mortality in critically ill pediatric cancer patients: a retrospective cohort study.",
+              "journal": "Critical care science",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2026-09-28",
+              "authors": [
+                "da Cunha-Martins BSM",
+                "da Cunha RSM",
+                "Lanziotti VS"
+              ],
+              "citation_count": 0,
+              "rcr": null,
+              "volume": "38",
+              "issue": "",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/42820513/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 0.0,
+              "field": "emergency",
+              "field_label": "응급의학",
+              "abstract": "OBJECTIVE: To evaluate the association between invasive mechanical ventilation use, functional capacity, and 12-month mortality in critically ill children with cancer after a pediatric intensive care unit stay. METHODS: We conducted a single-center, retrospective cohort study of critically ill children with cancer admitted to the pediatric intensive care unit from January 2018 to December 2022. We applied the Functional Status Scale to classify functional capacity before pediatric intensive care unit admission and at discharge, and to determine the onset of new morbidities. We assessed the association between invasive mechanical ventilation use and the development of new morbidity (defined as an increase of at least three points in the Functional Status Scale at discharge, and as an increase of at least two points in any domain of Functional Status Scale at discharge), between invasive mechanical ventilation use and 12-month mortality after pediatric intensive care unit discharge, and of the onset of new morbidities and mortality during the same period. RESULTS: We included 423 patients, of whom 176 (41%) used invasive mechanical ventilation. The frequency of new morbidities was higher in the mechanically ventilated patients (39.2% versus 4.8%; p < 0.001). Invasive mechanical ventilation use was associated with the development of new morbidity (adjusted OR = 13; 95%CI = 6.6 - 27.3; p < 0.001). New morbidity was associated with increased mortality at 12 months after pediatric intensive care unit discharge (adjusted OR = 2.1; 95%CI = 1.2 - 3.7; p = 0.013), but mechanical ventilation was not. CONCLUSION: Critically ill children with cancer who required invasive mechanical ventilation during pediatric intensive care unit stay had 13-fold higher odds of developing new morbidities. The onset of new morbidity was associated with doubled odds of death within 12 months after pediatric intensive care unit discharge. However, invasive mechanical ventilation use was not directly associated with 12-month mortality.",
+              "title_ko": ""
+            }
+          ]
         }
       ],
       "hot_topics": [
         {
           "phrase": "mechanical ventilation",
-          "score": 94.7,
-          "paper_count": 4,
+          "score": 105.4,
+          "paper_count": 6,
           "pmids": [
             "39694585",
             "39642139",
             "39661844",
-            "41905394"
+            "41905394",
+            "41417397",
+            "42820513"
           ]
         },
         {
@@ -10107,6 +10251,17 @@
             "41487620",
             "40224792",
             "39583157"
+          ]
+        },
+        {
+          "phrase": "cardiac arrest",
+          "score": 66.4,
+          "paper_count": 4,
+          "pmids": [
+            "41345654",
+            "39699331",
+            "39583157",
+            "42946504"
           ]
         },
         {
@@ -10127,16 +10282,6 @@
             "39808542",
             "39733294",
             "41410885"
-          ]
-        },
-        {
-          "phrase": "cardiac arrest",
-          "score": 46.4,
-          "paper_count": 3,
-          "pmids": [
-            "39699331",
-            "41345654",
-            "39583157"
           ]
         },
         {
@@ -10182,10 +10327,11 @@
         {
           "phrase": "intensive unit",
           "score": 39.2,
-          "paper_count": 2,
+          "paper_count": 3,
           "pmids": [
             "39787549",
-            "41370468"
+            "41370468",
+            "42820513"
           ]
         },
         {
@@ -10198,13 +10344,12 @@
           ]
         },
         {
-          "phrase": "critically ill",
-          "score": 38.2,
-          "paper_count": 3,
+          "phrase": "first aid",
+          "score": 36.4,
+          "paper_count": 2,
           "pmids": [
-            "39671440",
-            "39699429",
-            "42902295"
+            "39699333",
+            "40224798"
           ]
         }
       ],
@@ -10222,7 +10367,7 @@
               0.0,
               91.5,
               67.9,
-              10.0
+              20.0
             ]
           },
           {
@@ -10235,21 +10380,21 @@
             ]
           },
           {
+            "phrase": "cardiac arrest",
+            "scores": [
+              0.0,
+              37.5,
+              46.4,
+              20.0
+            ]
+          },
+          {
             "phrase": "critically ill",
             "scores": [
               0.0,
               45.0,
               6.8,
-              40.0
-            ]
-          },
-          {
-            "phrase": "cardiac arrest",
-            "scores": [
-              0.0,
-              37.5,
-              36.4,
-              0.0
+              30.0
             ]
           },
           {
