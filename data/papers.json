@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-30T23:38:09.963032Z",
+  "generated_at": "2026-10-31T23:12:28.915522Z",
   "window_days": 1095,
   "fields": [
     {
       "key": "preventive",
       "label": "예방의학",
-      "paper_count": 444,
+      "paper_count": 446,
       "journals": [
         {
           "journal": "Journal of neuromuscular diseases",
@@ -1684,155 +1684,6 @@
           ]
         },
         {
-          "journal": "Journal of the American Board of Family Medicine : JABFM",
-          "impact_factor": 1.5,
-          "index_type": "미상",
-          "quartile": "미상",
-          "paper_count": 4,
-          "top_paper": {
-            "pmid": "40118544",
-            "title": "Improving Care for Unhealthy Alcohol Use: Results from the Facilitating Alcohol Screening and Treatment (FAST) Colorado Study.",
-            "journal": "Journal of the American Board of Family Medicine : JABFM",
-            "impact_factor": 1.5,
-            "index_type": "미상",
-            "quartile": "미상",
-            "pubdate": "2024-11-01",
-            "authors": [
-              "Jortberg BT",
-              "Dickinson LM",
-              "Fernald DH"
-            ],
-            "citation_count": 2,
-            "rcr": 0.5825072765796409,
-            "volume": "37",
-            "issue": "6",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/40118544/",
-            "altmetric_score": 0,
-            "altmetric_news": 0,
-            "altmetric_social": 0,
-            "is_current_issue": true,
-            "hot_score": 18.2,
-            "field": "preventive",
-            "field_label": "예방의학",
-            "abstract": "INTRODUCTION: Unhealthy alcohol use (UAU) is associated with preventable morbidity and mortality and accounted for more than 140,000 deaths per year in the US during 2015 to 2019. The United States Preventive Services Task Force recommends routine screening for UAU in adults aged 18 years and older and pregnant persons, followed by brief counseling for a positive screening (B recommendation). Primary care clinicians can improve UAU outcomes by universally screening and offering brief counseling. This study aimed to increase screening, brief intervention, medication-assisted treatment (MAT), or referral for treatment (SBI/RT + MAT) in primary care practices. METHODS: Cluster-randomized study to investigate 1) the effectiveness of virtual practice facilitation as a method to enhance implementation of SBI/RT + MAT and 2) the potential added benefit of using alcohol use eLearning modules to guide and focus the process and content of virtual practice facilitation. RESULTS: Sixty-one primary care practices in Colorado enrolled in the study, with 43 primary practices completing the intervention and reporting 9-month data. Results show significant overall improvements in SBI/RT + MAT practice implementation scores from baseline to 9-month follow-up (P < .0001) and no differences between groups. The number of patients screened for UAU and/or Alcohol Use Disorder (AUD), receiving brief intervention, receiving an AUD diagnosis all significantly increased from baseline (P < .0001); and number receiving MAT also significantly increased (P < .0014). DISCUSSION: Practice facilitation can assist primary care practices in improving SBI/RT + MAT processes and patient outcomes, with the results providing initial evidence for successful use of virtual practice facilitation.",
-            "title_ko": "건강에 해로운 알코올 사용에 대한 관리 개선: 촉진 알코올 스크리닝 및 치료 (F.A.S.T.) 콜로라도 연구 결과."
-          },
-          "papers": [
-            {
-              "pmid": "40118544",
-              "title": "Improving Care for Unhealthy Alcohol Use: Results from the Facilitating Alcohol Screening and Treatment (FAST) Colorado Study.",
-              "journal": "Journal of the American Board of Family Medicine : JABFM",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2024-11-01",
-              "authors": [
-                "Jortberg BT",
-                "Dickinson LM",
-                "Fernald DH"
-              ],
-              "citation_count": 2,
-              "rcr": 0.5825072765796409,
-              "volume": "37",
-              "issue": "6",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/40118544/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": true,
-              "hot_score": 18.2,
-              "field": "preventive",
-              "field_label": "예방의학",
-              "abstract": "INTRODUCTION: Unhealthy alcohol use (UAU) is associated with preventable morbidity and mortality and accounted for more than 140,000 deaths per year in the US during 2015 to 2019. The United States Preventive Services Task Force recommends routine screening for UAU in adults aged 18 years and older and pregnant persons, followed by brief counseling for a positive screening (B recommendation). Primary care clinicians can improve UAU outcomes by universally screening and offering brief counseling. This study aimed to increase screening, brief intervention, medication-assisted treatment (MAT), or referral for treatment (SBI/RT + MAT) in primary care practices. METHODS: Cluster-randomized study to investigate 1) the effectiveness of virtual practice facilitation as a method to enhance implementation of SBI/RT + MAT and 2) the potential added benefit of using alcohol use eLearning modules to guide and focus the process and content of virtual practice facilitation. RESULTS: Sixty-one primary care practices in Colorado enrolled in the study, with 43 primary practices completing the intervention and reporting 9-month data. Results show significant overall improvements in SBI/RT + MAT practice implementation scores from baseline to 9-month follow-up (P < .0001) and no differences between groups. The number of patients screened for UAU and/or Alcohol Use Disorder (AUD), receiving brief intervention, receiving an AUD diagnosis all significantly increased from baseline (P < .0001); and number receiving MAT also significantly increased (P < .0014). DISCUSSION: Practice facilitation can assist primary care practices in improving SBI/RT + MAT processes and patient outcomes, with the results providing initial evidence for successful use of virtual practice facilitation.",
-              "title_ko": "건강에 해로운 알코올 사용에 대한 관리 개선: 촉진 알코올 스크리닝 및 치료 (F.A.S.T.) 콜로라도 연구 결과."
-            },
-            {
-              "pmid": "39978849",
-              "title": "Screening and Diagnosis of Type 2 Diabetes in Sickle Cell Disease.",
-              "journal": "Journal of the American Board of Family Medicine : JABFM",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2024-09-01",
-              "authors": [
-                "Carrithers B",
-                "Klein R",
-                "Ovalle F"
-              ],
-              "citation_count": 3,
-              "rcr": 0.8705522449961743,
-              "volume": "37",
-              "issue": "5",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/39978849/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": false,
-              "hot_score": 10.4,
-              "field": "preventive",
-              "field_label": "예방의학",
-              "abstract": "BACKGROUND: Diagnosing type 2 diabetes mellitus (T2DM) in people with sickle cell disease (SCD) is complicated due to hemoglobin A variance in affected individuals. Accurate screening assessments are needed to prevent excessive morbidity and mortality. Primary care physicians need recommendations for screening and diagnosis in this unique population. PURPOSE: To synthesize recommendations regarding medical diagnosis criteria for T2DM in SCD. DATA SOURCES: PubMed, Standards of Medical Care in Diabetes, US Preventative Services Task Force, National Institute of Diabetes and Digestive and Kidney Diseases, searched on December 28, 2022. STUDY SELECTION: One reviewer searched each database to select applicable studies pertaining to \"sickle cell disease,\" \"type 2 diabetes,\" \"HbA1c,\" and \"fructosamine\" from December 28, 2022, to March 15, 2023. DATA EXTRACTION AND QUALITY ASSESSMENT: A comprehensive literature review was done to extract current data/facts and assess certainty of evidence. DATA SYNTHESIS: This review reviews 5 articles that met inclusion criteria to outline outpatient screening and diagnosis of T2DM in SCD. Based on these findings, we recommend fasting plasma glucose as the standard screening starting at age 35 based on USPSTF guidelines. We do not recommend using HbA1c, fructosamine, or glycated albumin for screening or diagnosis of T2DM in individuals with SCD; the latter entities have limited implications in their use. LIMITATIONS: There are limited studies available for diagnosis of T2DM in SCD. CONCLUSIONS: Fasting plasma glucose is the standard screening for T2DM for SCD to ensure early diagnosis and prevent worsening macro and microvascular complications from both comorbid conditions.",
-              "title_ko": "겸상적혈구 질환에서 제2형 당뇨병의 선별검사 및 진단."
-            },
-            {
-              "pmid": "40118550",
-              "title": "Effect of a Family Medicine Wellness Group Program on Long-Term Weight Loss Maintenance Outcomes.",
-              "journal": "Journal of the American Board of Family Medicine : JABFM",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2024-11-01",
-              "authors": [
-                "Brown H",
-                "Brandt DR",
-                "Chen J"
-              ],
-              "citation_count": 0,
-              "rcr": 0.0,
-              "volume": "37",
-              "issue": "6",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/40118550/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": true,
-              "hot_score": 10.0,
-              "field": "preventive",
-              "field_label": "예방의학",
-              "abstract": "INTRODUCTION: Both the prevalence of obesity and weight-related illness continue to rise. While weight loss strategies are plentiful, the weight loss is usually temporary and evidence-based strategies for sustaining weight loss remain elusive. METHODS: Weight loss outcomes of participants in a Wellness Group (WG) visit program, which provided education and support around healthful behavioral modification, led by a family physician and dietitian were analyzed. We performed a chart review to extract last recorded weights for participants. Using statistical analyses, we analyzed weight loss outcomes for all included participants in their initial group, as well as a subgroup analysis of weight loss maintenance 1 to 13 years after the initial group for those who initially lost clinically important (≥5%) weight. We examined the effects of gender, age, and starting Body Mass Index (BMI) on weight loss and weight loss maintenance outcomes. RESULTS: A total of 310 patients were included in the analysis. Participants lost a mean of 6.5% of their body weight in their first group. After an average of 6.6 years, participants had maintained an average of 3.5% weight loss. 58% of participants lost clinically important weight in their first group, and of those patients, 54% maintained clinically important weight loss. In addition, we found that participation in multiple groups was associated with improved CIWL, and that the participants with the highest starting BMIs (class III obesity) maintained more weight loss than those who were overweight. CONCLUSION: This retrospective observational study demonstrates sustainable weight loss achieved by the majority of participants who initially lost clinically important weight in a WG program.",
-              "title_ko": "장기적인 체중 감량 유지 결과에 대한 가정의학 웰니스 그룹 프로그램의 효과."
-            },
-            {
-              "pmid": "40118546",
-              "title": "Clinician and Staff Perspectives on a Social Drivers of Health Program Implementation.",
-              "journal": "Journal of the American Board of Family Medicine : JABFM",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2024-11-01",
-              "authors": [
-                "Vilendrer SM",
-                "Thomas SC",
-                "Brunisholz K"
-              ],
-              "citation_count": 0,
-              "rcr": 0.0,
-              "volume": "37",
-              "issue": "6",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/40118546/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": true,
-              "hot_score": 10.0,
-              "field": "preventive",
-              "field_label": "예방의학",
-              "abstract": "INTRODUCTION: Health systems are increasingly pursuing efforts to screen for and address social drivers of health (SDOH), the nonmedical factors that contribute to health outcomes and inequities. A large integrated health system (Intermountain Health) launched a program in 2019 to universally screen for and address SDOH. METHODS: Five primary care clinics within Intermountain were purposefully chosen for diversity of setting and practice type (family medicine and pediatric). We conducted 20 semistructured interviews with frontline clinicians and staff from 7/1/2020 to 9/1/2020 to explore attitudes related to feasibility, workflow processes, and facilitators and barriers to successful implementation. We conducted an inductive-deductive analysis to identify key themes and best practices. RESULTS: Five clinics conducted 16,659 SDOH patient screenings from 12/1/2019 to 11/30/2020 (705 to 7,723 screens per clinic with rates ranging from 7.4% to 52.8% per clinic). Respondent perspectives about the program were mixed. Dominant implementation barriers included staff time constraints, limited availability of social services, and reduced morale. Key facilitators included triage protocols for positive screens independent of the primary care clinician, standardizing previsit digital screening, and instilling a culture of shared ownership through education and team SDOH-focused huddles. CONCLUSIONS: This evaluation of an early systemwide SDOH program implementation called into question the feasibility of universal screening in primary care given staff time constraints and social service availability. Future investigations should explore the impact of targeted screening approaches in diverse clinical settings and quantifying trade offs between SDOH programs and other clinical and organizational priorities.",
-              "title_ko": "보건 프로그램 시행의 사회적 동인에 대한 임상의 및 직원의 관점."
-            }
-          ]
-        },
-        {
           "journal": "Pharmacogenomics",
           "impact_factor": 1.5,
           "index_type": "미상",
@@ -1894,71 +1745,6 @@
               "field_label": "예방의학",
               "abstract": "INTRODUCTION: Pharmacogenetic (PGx) screening is intended to optimize drug efficacy and reduce adverse drug reactions. Current screening options include genotyping assays for preselected PGx variants and broader next-generation sequencing panels (NGS). Few studies have directly compared preemptive PGx screening methods. MATERIALS AND METHODS: The two PGx methods were compared in a cross-sectional study of adult Military Health System (MHS) clinic beneficiaries. Participants had initial targeted CYP2C19/CYP2D6 genotyping at a Military Health System Laboratory. Genotyping was followed by multi-gene NGS testing. Current prescriptions were recorded and potential drug-drug interactions screened to evaluate prescribing risk. RESULTS: All participants (100%) had at least one clinically actionable NGS panel result compared to 81% with targeted CYP2C19/CYP2D6 genotyping. Participants (n = 162) had an average of 6.6 (range 0-22) prescriptions and 2.7 (range 0-24) drug-drug interactions. Among those with at least one clinically actionable NGS result, 42% were currently taking medication with actionable CPIC guidelines (Level A/B), compared with 24% with CYP2C19/CYP2D6 genotyping. Sixteen participants (10%) had uncertain NGS panel results, with none for CYP2C19/CYP2D6 genotyping. CONCLUSIONS: Preemptive multi-gene NGS detected more clinically actionable PGx results than targeted CYP2C19/CYP2D6 genotyping. Effective PGx screening in the MHS may decrease preventable adverse effects and improve military readiness.",
               "title_ko": "군 보건 시스템 성인 의학 클리닉에서 약물유전체 유전자형 분석과 차세대 염기서열 분석의 임상적 유용성 비교."
-            }
-          ]
-        },
-        {
-          "journal": "BMJ (Clinical research ed.)",
-          "impact_factor": 93.6,
-          "index_type": "SCIE",
-          "quartile": "Q1",
-          "paper_count": 1,
-          "top_paper": {
-            "pmid": "42951282",
-            "title": "Impact of a large measles outbreak associated with transmission in the Americas and Canada's loss of measles elimination status: descriptive cohort study.",
-            "journal": "BMJ (Clinical research ed.)",
-            "impact_factor": 93.6,
-            "index_type": "SCIE",
-            "quartile": "Q1",
-            "pubdate": "2026-10-28",
-            "authors": [
-              "Wilson SE",
-              "Lim GH",
-              "Aloosh M"
-            ],
-            "citation_count": 0,
-            "rcr": null,
-            "volume": "395",
-            "issue": "",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/42951282/",
-            "altmetric_score": 0,
-            "altmetric_news": 0,
-            "altmetric_social": 0,
-            "is_current_issue": false,
-            "hot_score": 18.0,
-            "field": "preventive",
-            "field_label": "예방의학",
-            "abstract": "OBJECTIVE: To describe the epidemiological characteristics, public health response, and evidence of international spread of a large measles outbreak that contributed to the loss of Canada's measles elimination status. DESIGN: Descriptive analysis of the cohort of measles outbreak cases reported to Ontario's public health surveillance system during the outbreak period: epidemiological week of 28 October 2024 to 6 October 2025. SETTING: Ontario, Canada. PARTICIPANTS: Individuals meeting the outbreak case definition for confirmed or probable measles infection during the outbreak period. EXPOSURE: Exposure to measles virus associated with the Ontario outbreak and related transmission chains. MAIN OUTCOME MEASURES: Demographic characteristics, vaccination status, admission to hospital, complications, pregnancy associated outcomes, mortality, and evidence of international spread based on measles virus genotyping and sequencing. Cases were identified using an outbreak-specific case definition incorporating epidemiological, clinical, laboratory, and viral sequencing criteria. Phylogenetic analysis of measles virus sequences was used to assess evidence of onwards spread to other countries. RESULTS: The outbreak consisted of 2377 cases (2064 confirmed and 313 probable) over 49 weeks and contributed to the loss of Canada's measles elimination status. Most cases (2146/2377, 90.3%) occurred among members of historically under-vaccinated communities, with limited spillover into the broader population. Among the 2377 cases, approximately three quarters of cases (n=1736, 73.0%) occurred in individuals aged 19 years or younger, 2121 (89.2%) were unvaccinated, and 97 (4.1%) had unknown vaccination status. The outbreak was associated with 166 (7%) admissions to hospital, 13 (<1%) admissions to intensive care unit, 51 (2.1%) infections during pregnancy, 10 (<1%) congenital measles infections, one (<1%) case of encephalitis, and one (<1%) infant death. Sequencing identified a novel N450 distinct sequence identifier that was subsequently detected in countries including the United States of America, Mexico, and the Netherlands. The outbreak strain was designated a World Health Organization named strain (MVs/Ontario.CAN/47.24). CONCLUSIONS: These findings highlight the risk of measles re-establishment in countries that have attained elimination and underscore the importance of culturally appropriate community engagement to build trust in immunisation and prevent future outbreaks. This outbreak shows the fragility of measles elimination in the presence of long standing immunity gaps within interconnected communities across the Americas and the population-level protection that limited broader community transmission.",
-            "title_ko": "미주 및 캐나다의 홍역 제거 상태 상실과 관련된 대규모 홍역 발병의 영향: 기술적 코호트 연구."
-          },
-          "papers": [
-            {
-              "pmid": "42951282",
-              "title": "Impact of a large measles outbreak associated with transmission in the Americas and Canada's loss of measles elimination status: descriptive cohort study.",
-              "journal": "BMJ (Clinical research ed.)",
-              "impact_factor": 93.6,
-              "index_type": "SCIE",
-              "quartile": "Q1",
-              "pubdate": "2026-10-28",
-              "authors": [
-                "Wilson SE",
-                "Lim GH",
-                "Aloosh M"
-              ],
-              "citation_count": 0,
-              "rcr": null,
-              "volume": "395",
-              "issue": "",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/42951282/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": false,
-              "hot_score": 18.0,
-              "field": "preventive",
-              "field_label": "예방의학",
-              "abstract": "OBJECTIVE: To describe the epidemiological characteristics, public health response, and evidence of international spread of a large measles outbreak that contributed to the loss of Canada's measles elimination status. DESIGN: Descriptive analysis of the cohort of measles outbreak cases reported to Ontario's public health surveillance system during the outbreak period: epidemiological week of 28 October 2024 to 6 October 2025. SETTING: Ontario, Canada. PARTICIPANTS: Individuals meeting the outbreak case definition for confirmed or probable measles infection during the outbreak period. EXPOSURE: Exposure to measles virus associated with the Ontario outbreak and related transmission chains. MAIN OUTCOME MEASURES: Demographic characteristics, vaccination status, admission to hospital, complications, pregnancy associated outcomes, mortality, and evidence of international spread based on measles virus genotyping and sequencing. Cases were identified using an outbreak-specific case definition incorporating epidemiological, clinical, laboratory, and viral sequencing criteria. Phylogenetic analysis of measles virus sequences was used to assess evidence of onwards spread to other countries. RESULTS: The outbreak consisted of 2377 cases (2064 confirmed and 313 probable) over 49 weeks and contributed to the loss of Canada's measles elimination status. Most cases (2146/2377, 90.3%) occurred among members of historically under-vaccinated communities, with limited spillover into the broader population. Among the 2377 cases, approximately three quarters of cases (n=1736, 73.0%) occurred in individuals aged 19 years or younger, 2121 (89.2%) were unvaccinated, and 97 (4.1%) had unknown vaccination status. The outbreak was associated with 166 (7%) admissions to hospital, 13 (<1%) admissions to intensive care unit, 51 (2.1%) infections during pregnancy, 10 (<1%) congenital measles infections, one (<1%) case of encephalitis, and one (<1%) infant death. Sequencing identified a novel N450 distinct sequence identifier that was subsequently detected in countries including the United States of America, Mexico, and the Netherlands. The outbreak strain was designated a World Health Organization named strain (MVs/Ontario.CAN/47.24). CONCLUSIONS: These findings highlight the risk of measles re-establishment in countries that have attained elimination and underscore the importance of culturally appropriate community engagement to build trust in immunisation and prevent future outbreaks. This outbreak shows the fragility of measles elimination in the presence of long standing immunity gaps within interconnected communities across the Americas and the population-level protection that limited broader community transmission.",
-              "title_ko": "미주 및 캐나다의 홍역 제거 상태 상실과 관련된 대규모 홍역 발병의 영향: 기술적 코호트 연구."
             }
           ]
         },
@@ -3029,6 +2815,211 @@
           ]
         },
         {
+          "journal": "Journal of the American Board of Family Medicine : JABFM",
+          "impact_factor": 1.5,
+          "index_type": "미상",
+          "quartile": "미상",
+          "paper_count": 6,
+          "top_paper": {
+            "pmid": "41720510",
+            "title": "Kennedy v Braidwood Ruling Affects Women and Cervical Cancer Screening.",
+            "journal": "Journal of the American Board of Family Medicine : JABFM",
+            "impact_factor": 1.5,
+            "index_type": "미상",
+            "quartile": "미상",
+            "pubdate": "2025-11-01",
+            "authors": [
+              "Young AP",
+              "O'Dwyer MC",
+              "Smith R"
+            ],
+            "citation_count": 1,
+            "rcr": null,
+            "volume": "38",
+            "issue": "6",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/41720510/",
+            "altmetric_score": 0,
+            "altmetric_news": 0,
+            "altmetric_social": 0,
+            "is_current_issue": true,
+            "hot_score": 15.2,
+            "field": "preventive",
+            "field_label": "예방의학",
+            "abstract": "The Affordable Care Act (ACA) requires private insurance plans to cover preventive services, receiving a Grade A or B rating by the United States Preventive Services Task Force (USPSTF) without cost sharing. Cervical cancer prevention is one such service. Family medicine provides more than half of all the cervical cancer screenings in the US. While the ACA has led to an increase in screening, half of the people assigned female at birth who develop cervical cancer have never been screened. In addition, 20 to 40% of screening-eligible people in the US do not participate in screening. Of those who do screen, and their screen is abnormal, only 34% attend their diagnostic colposcopy examination. Colposcopy with biopsy and endocervical curettage requires consequential copay for the examination and pathology, which increases financial toxicity. Beginning in 2027, policies similar to those in place for breast and colorectal cancer screening that require insurance plans to cover the entire diagnostic workup without cost sharing under the ACA preventive services provision, will be implemented for cervical cancer screening.",
+            "title_ko": "케네디 대 브레이드우드 판결은 여성과 자궁경부암 검진에 영향을 미칩니다."
+          },
+          "papers": [
+            {
+              "pmid": "41720510",
+              "title": "Kennedy v Braidwood Ruling Affects Women and Cervical Cancer Screening.",
+              "journal": "Journal of the American Board of Family Medicine : JABFM",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2025-11-01",
+              "authors": [
+                "Young AP",
+                "O'Dwyer MC",
+                "Smith R"
+              ],
+              "citation_count": 1,
+              "rcr": null,
+              "volume": "38",
+              "issue": "6",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/41720510/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": true,
+              "hot_score": 15.2,
+              "field": "preventive",
+              "field_label": "예방의학",
+              "abstract": "The Affordable Care Act (ACA) requires private insurance plans to cover preventive services, receiving a Grade A or B rating by the United States Preventive Services Task Force (USPSTF) without cost sharing. Cervical cancer prevention is one such service. Family medicine provides more than half of all the cervical cancer screenings in the US. While the ACA has led to an increase in screening, half of the people assigned female at birth who develop cervical cancer have never been screened. In addition, 20 to 40% of screening-eligible people in the US do not participate in screening. Of those who do screen, and their screen is abnormal, only 34% attend their diagnostic colposcopy examination. Colposcopy with biopsy and endocervical curettage requires consequential copay for the examination and pathology, which increases financial toxicity. Beginning in 2027, policies similar to those in place for breast and colorectal cancer screening that require insurance plans to cover the entire diagnostic workup without cost sharing under the ACA preventive services provision, will be implemented for cervical cancer screening.",
+              "title_ko": "케네디 대 브레이드우드 판결은 여성과 자궁경부암 검진에 영향을 미칩니다."
+            },
+            {
+              "pmid": "39978849",
+              "title": "Screening and Diagnosis of Type 2 Diabetes in Sickle Cell Disease.",
+              "journal": "Journal of the American Board of Family Medicine : JABFM",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2024-09-01",
+              "authors": [
+                "Carrithers B",
+                "Klein R",
+                "Ovalle F"
+              ],
+              "citation_count": 3,
+              "rcr": 0.8705522449961743,
+              "volume": "37",
+              "issue": "5",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/39978849/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 10.4,
+              "field": "preventive",
+              "field_label": "예방의학",
+              "abstract": "BACKGROUND: Diagnosing type 2 diabetes mellitus (T2DM) in people with sickle cell disease (SCD) is complicated due to hemoglobin A variance in affected individuals. Accurate screening assessments are needed to prevent excessive morbidity and mortality. Primary care physicians need recommendations for screening and diagnosis in this unique population. PURPOSE: To synthesize recommendations regarding medical diagnosis criteria for T2DM in SCD. DATA SOURCES: PubMed, Standards of Medical Care in Diabetes, US Preventative Services Task Force, National Institute of Diabetes and Digestive and Kidney Diseases, searched on December 28, 2022. STUDY SELECTION: One reviewer searched each database to select applicable studies pertaining to \"sickle cell disease,\" \"type 2 diabetes,\" \"HbA1c,\" and \"fructosamine\" from December 28, 2022, to March 15, 2023. DATA EXTRACTION AND QUALITY ASSESSMENT: A comprehensive literature review was done to extract current data/facts and assess certainty of evidence. DATA SYNTHESIS: This review reviews 5 articles that met inclusion criteria to outline outpatient screening and diagnosis of T2DM in SCD. Based on these findings, we recommend fasting plasma glucose as the standard screening starting at age 35 based on USPSTF guidelines. We do not recommend using HbA1c, fructosamine, or glycated albumin for screening or diagnosis of T2DM in individuals with SCD; the latter entities have limited implications in their use. LIMITATIONS: There are limited studies available for diagnosis of T2DM in SCD. CONCLUSIONS: Fasting plasma glucose is the standard screening for T2DM for SCD to ensure early diagnosis and prevent worsening macro and microvascular complications from both comorbid conditions.",
+              "title_ko": "겸상적혈구 질환에서 제2형 당뇨병의 선별검사 및 진단."
+            },
+            {
+              "pmid": "41720507",
+              "title": "Point-of-Care Ultrasound, Prevention and Screening, Family Medicine Workforce, Navigating Systems, and Improving Patient Care.",
+              "journal": "Journal of the American Board of Family Medicine : JABFM",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2025-11-01",
+              "authors": [
+                "LeFevre NM",
+                "Bowman MA",
+                "Seehusen DA"
+              ],
+              "citation_count": 0,
+              "rcr": null,
+              "volume": "38",
+              "issue": "6",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/41720507/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": true,
+              "hot_score": 10.0,
+              "field": "preventive",
+              "field_label": "예방의학",
+              "abstract": "Point-of-care ultrasound (POCUS) is flourishing in family medicine. This issue presents a collection of POCUS articles exploring its use among family physicians, including specific applications and barriers to implementation. In addition, 4 articles present screening considerations for common problems - anxiety, social determinants of health, cervical cancer, and prostate cancer. Common practice management issues include urine drug screening in the care of patients with opioid use disorder, improving Human Papilloma Virus vaccination rates, and enhancing patient portal use in low resource settings. A series of articles comments on family medicine workforce issues, discussing ongoing challenges facing the discipline. Two helpful clinical reviews round out the issue - well water safety and combination medications for hypertension.",
+              "title_ko": "현장 진료 초음파, 예방 및 선별 검사, 가정의학과 인력, 항해 시스템 및 환자 진료 개선."
+            },
+            {
+              "pmid": "40118544",
+              "title": "Improving Care for Unhealthy Alcohol Use: Results from the Facilitating Alcohol Screening and Treatment (FAST) Colorado Study.",
+              "journal": "Journal of the American Board of Family Medicine : JABFM",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2024-11-01",
+              "authors": [
+                "Jortberg BT",
+                "Dickinson LM",
+                "Fernald DH"
+              ],
+              "citation_count": 2,
+              "rcr": 0.5825072765796409,
+              "volume": "37",
+              "issue": "6",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/40118544/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 8.2,
+              "field": "preventive",
+              "field_label": "예방의학",
+              "abstract": "INTRODUCTION: Unhealthy alcohol use (UAU) is associated with preventable morbidity and mortality and accounted for more than 140,000 deaths per year in the US during 2015 to 2019. The United States Preventive Services Task Force recommends routine screening for UAU in adults aged 18 years and older and pregnant persons, followed by brief counseling for a positive screening (B recommendation). Primary care clinicians can improve UAU outcomes by universally screening and offering brief counseling. This study aimed to increase screening, brief intervention, medication-assisted treatment (MAT), or referral for treatment (SBI/RT + MAT) in primary care practices. METHODS: Cluster-randomized study to investigate 1) the effectiveness of virtual practice facilitation as a method to enhance implementation of SBI/RT + MAT and 2) the potential added benefit of using alcohol use eLearning modules to guide and focus the process and content of virtual practice facilitation. RESULTS: Sixty-one primary care practices in Colorado enrolled in the study, with 43 primary practices completing the intervention and reporting 9-month data. Results show significant overall improvements in SBI/RT + MAT practice implementation scores from baseline to 9-month follow-up (P < .0001) and no differences between groups. The number of patients screened for UAU and/or Alcohol Use Disorder (AUD), receiving brief intervention, receiving an AUD diagnosis all significantly increased from baseline (P < .0001); and number receiving MAT also significantly increased (P < .0014). DISCUSSION: Practice facilitation can assist primary care practices in improving SBI/RT + MAT processes and patient outcomes, with the results providing initial evidence for successful use of virtual practice facilitation.",
+              "title_ko": "건강에 해로운 알코올 사용에 대한 관리 개선: 촉진 알코올 스크리닝 및 치료 (F.A.S.T.) 콜로라도 연구 결과."
+            },
+            {
+              "pmid": "40118550",
+              "title": "Effect of a Family Medicine Wellness Group Program on Long-Term Weight Loss Maintenance Outcomes.",
+              "journal": "Journal of the American Board of Family Medicine : JABFM",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2024-11-01",
+              "authors": [
+                "Brown H",
+                "Brandt DR",
+                "Chen J"
+              ],
+              "citation_count": 0,
+              "rcr": 0.0,
+              "volume": "37",
+              "issue": "6",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/40118550/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 0.0,
+              "field": "preventive",
+              "field_label": "예방의학",
+              "abstract": "INTRODUCTION: Both the prevalence of obesity and weight-related illness continue to rise. While weight loss strategies are plentiful, the weight loss is usually temporary and evidence-based strategies for sustaining weight loss remain elusive. METHODS: Weight loss outcomes of participants in a Wellness Group (WG) visit program, which provided education and support around healthful behavioral modification, led by a family physician and dietitian were analyzed. We performed a chart review to extract last recorded weights for participants. Using statistical analyses, we analyzed weight loss outcomes for all included participants in their initial group, as well as a subgroup analysis of weight loss maintenance 1 to 13 years after the initial group for those who initially lost clinically important (≥5%) weight. We examined the effects of gender, age, and starting Body Mass Index (BMI) on weight loss and weight loss maintenance outcomes. RESULTS: A total of 310 patients were included in the analysis. Participants lost a mean of 6.5% of their body weight in their first group. After an average of 6.6 years, participants had maintained an average of 3.5% weight loss. 58% of participants lost clinically important weight in their first group, and of those patients, 54% maintained clinically important weight loss. In addition, we found that participation in multiple groups was associated with improved CIWL, and that the participants with the highest starting BMIs (class III obesity) maintained more weight loss than those who were overweight. CONCLUSION: This retrospective observational study demonstrates sustainable weight loss achieved by the majority of participants who initially lost clinically important weight in a WG program.",
+              "title_ko": "장기적인 체중 감량 유지 결과에 대한 가정의학 웰니스 그룹 프로그램의 효과."
+            },
+            {
+              "pmid": "40118546",
+              "title": "Clinician and Staff Perspectives on a Social Drivers of Health Program Implementation.",
+              "journal": "Journal of the American Board of Family Medicine : JABFM",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2024-11-01",
+              "authors": [
+                "Vilendrer SM",
+                "Thomas SC",
+                "Brunisholz K"
+              ],
+              "citation_count": 0,
+              "rcr": 0.0,
+              "volume": "37",
+              "issue": "6",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/40118546/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 0.0,
+              "field": "preventive",
+              "field_label": "예방의학",
+              "abstract": "INTRODUCTION: Health systems are increasingly pursuing efforts to screen for and address social drivers of health (SDOH), the nonmedical factors that contribute to health outcomes and inequities. A large integrated health system (Intermountain Health) launched a program in 2019 to universally screen for and address SDOH. METHODS: Five primary care clinics within Intermountain were purposefully chosen for diversity of setting and practice type (family medicine and pediatric). We conducted 20 semistructured interviews with frontline clinicians and staff from 7/1/2020 to 9/1/2020 to explore attitudes related to feasibility, workflow processes, and facilitators and barriers to successful implementation. We conducted an inductive-deductive analysis to identify key themes and best practices. RESULTS: Five clinics conducted 16,659 SDOH patient screenings from 12/1/2019 to 11/30/2020 (705 to 7,723 screens per clinic with rates ranging from 7.4% to 52.8% per clinic). Respondent perspectives about the program were mixed. Dominant implementation barriers included staff time constraints, limited availability of social services, and reduced morale. Key facilitators included triage protocols for positive screens independent of the primary care clinician, standardizing previsit digital screening, and instilling a culture of shared ownership through education and team SDOH-focused huddles. CONCLUSIONS: This evaluation of an early systemwide SDOH program implementation called into question the feasibility of universal screening in primary care given staff time constraints and social service availability. Future investigations should explore the impact of targeted screening approaches in diverse clinical settings and quantifying trade offs between SDOH programs and other clinical and organizational priorities.",
+              "title_ko": "보건 프로그램 시행의 사회적 동인에 대한 임상의 및 직원의 관점."
+            }
+          ]
+        },
+        {
           "journal": "Health promotion practice",
           "impact_factor": 1.5,
           "index_type": "미상",
@@ -3596,71 +3587,6 @@
               "field_label": "예방의학",
               "abstract": "BACKGROUND: Women with a family history of breast cancer at an early age (≤50 years) have an increased risk of breast cancer themselves. OBJECTIVE: To evaluate the effectiveness of a Breast Cancer Risk Reduction Program (BrCaRRP) on increasing risk reduction behaviors, developing health beliefs, and screening participation in high-risk women with a family history of breast cancer. METHODS: This is a single-center, single-blind, parallel-group, randomized controlled trial. First-degree biological relatives of breast cancer patients (aged ≤50 years) were divided into intervention (n = 38) and control (n = 39) groups. The intervention (BrCaRRP) group received multiple interventions including education, counseling, case management, and surveillance via face-to-face and telephone interviews throughout a 12-week period, within the framework of the Health Belief Model and Health Promotion Model. The control group was given an information note, and the routine practice of the clinic was performed. Results were measured at baseline and at week 12 when the interventions were finished. RESULTS: The probability of participation in breast cancer screenings in the BrCaRRP group was 5.11 times higher. Health motivation was found to have increased in the intervention group. There was no difference in susceptibility and nutritional behavior between the groups. Health responsibility and physical activity increased in the intervention group. The frequency of consulting genetic counseling increased in the BrCaRRP group. CONCLUSIONS: Breast Cancer Risk Reduction Program increased participation in screening in women and positively affected their health beliefs and behaviors. IMPLICATIONS FOR PRACTICE: Breast Cancer Risk Reduction Program could alter screening and health-promoting behaviors. However, other interventions are still needed to reduce the high level of fear.",
               "title_ko": "유방암 위험이 높은 여성에게 적용된 유방암 위험 감소 프로그램이 선별심사, 건강 신념 및 행동 참여에 미치는 영향: 무작위 대조 시험."
-            }
-          ]
-        },
-        {
-          "journal": "Rural and remote health",
-          "impact_factor": 1.5,
-          "index_type": "미상",
-          "quartile": "미상",
-          "paper_count": 1,
-          "top_paper": {
-            "pmid": "40101702",
-            "title": "Farmers' perceptions about the risk of suicide and the available help schemes: a qualitative study in France.",
-            "journal": "Rural and remote health",
-            "impact_factor": 1.5,
-            "index_type": "미상",
-            "quartile": "미상",
-            "pubdate": "2024-03-25",
-            "authors": [
-              "Priour A",
-              "Delalande E",
-              "Ricono JF"
-            ],
-            "citation_count": 1,
-            "rcr": 0.38070823360918715,
-            "volume": "24",
-            "issue": "1",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/40101702/",
-            "altmetric_score": 0,
-            "altmetric_news": 0,
-            "altmetric_social": 0,
-            "is_current_issue": true,
-            "hot_score": 15.2,
-            "field": "preventive",
-            "field_label": "예방의학",
-            "abstract": "INTRODUCTION: Farming communities are marked by high suicide rates, and this is characterised by multiple factors (working environment, use of lethal means, low use of health care). In France, help schemes have been implemented. The aim of this study was to analyse the perceptions of farmers in Brittany, France about suicide and the help offered to farmers at risk of suicide. METHODS: For this qualitative study, semi-structured interviews were carried out and analysed according to a reflexive thematic analysis in the framework of an inductive approach. RESULTS: Twenty-six farmers were interviewed. All had experienced the suicide of a relative or another farmer they knew. Interviewed farmers had a good knowledge of suicide, its risk factors and the signs that precede the suicidal act. Paradoxically, while some interviewed farmers had suicidal thoughts, they did not feel at risk of suicide because they did not have a 'suicidal temperament'. When experiencing difficulties, farmers first sought support from those around them, particularly their spouse. An improvement in a farm's financial situation was an important factor to boost their mental health. Participation in groups or training courses was also an important help. Sometimes, they thought about seeing a healthcare professional, particularly their GP, but not everyone saw the usefulness of this approach. Mental health professionals (psychologists and psychiatrists) often had a bad reputation among farmers, despite the help they could offer. They all spoke of the need to offer proactive help to farmers, being aware of the low spontaneous help-seeking by colleagues in difficulty. DISCUSSION: The interviewed farmers perceived that suicide was something that concerned others and represented a form of weakness. These specific features in the description of psychological pain by farmers may partly explain the low prevalence of depressive symptoms. Experiencing the suicide of a colleague was a traumatic experience with psychological consequences and negative health consequences. It can serve as a basis for preventive actions. A targeted and systematic screening of mental health problems in this population by GPs might improve the identification of farmers at high risk of suicide. CONCLUSION: These findings suggest that, given the low spontaneous help-seeking by farmers experiencing difficulties, proactive support could be an option to be developed.",
-            "title_ko": "자살 위험과 이용 가능한 지원 제도에 대한 농민의 인식: 프랑스의 질적 연구."
-          },
-          "papers": [
-            {
-              "pmid": "40101702",
-              "title": "Farmers' perceptions about the risk of suicide and the available help schemes: a qualitative study in France.",
-              "journal": "Rural and remote health",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2024-03-25",
-              "authors": [
-                "Priour A",
-                "Delalande E",
-                "Ricono JF"
-              ],
-              "citation_count": 1,
-              "rcr": 0.38070823360918715,
-              "volume": "24",
-              "issue": "1",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/40101702/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": true,
-              "hot_score": 15.2,
-              "field": "preventive",
-              "field_label": "예방의학",
-              "abstract": "INTRODUCTION: Farming communities are marked by high suicide rates, and this is characterised by multiple factors (working environment, use of lethal means, low use of health care). In France, help schemes have been implemented. The aim of this study was to analyse the perceptions of farmers in Brittany, France about suicide and the help offered to farmers at risk of suicide. METHODS: For this qualitative study, semi-structured interviews were carried out and analysed according to a reflexive thematic analysis in the framework of an inductive approach. RESULTS: Twenty-six farmers were interviewed. All had experienced the suicide of a relative or another farmer they knew. Interviewed farmers had a good knowledge of suicide, its risk factors and the signs that precede the suicidal act. Paradoxically, while some interviewed farmers had suicidal thoughts, they did not feel at risk of suicide because they did not have a 'suicidal temperament'. When experiencing difficulties, farmers first sought support from those around them, particularly their spouse. An improvement in a farm's financial situation was an important factor to boost their mental health. Participation in groups or training courses was also an important help. Sometimes, they thought about seeing a healthcare professional, particularly their GP, but not everyone saw the usefulness of this approach. Mental health professionals (psychologists and psychiatrists) often had a bad reputation among farmers, despite the help they could offer. They all spoke of the need to offer proactive help to farmers, being aware of the low spontaneous help-seeking by colleagues in difficulty. DISCUSSION: The interviewed farmers perceived that suicide was something that concerned others and represented a form of weakness. These specific features in the description of psychological pain by farmers may partly explain the low prevalence of depressive symptoms. Experiencing the suicide of a colleague was a traumatic experience with psychological consequences and negative health consequences. It can serve as a basis for preventive actions. A targeted and systematic screening of mental health problems in this population by GPs might improve the identification of farmers at high risk of suicide. CONCLUSION: These findings suggest that, given the low spontaneous help-seeking by farmers experiencing difficulties, proactive support could be an option to be developed.",
-              "title_ko": "자살 위험과 이용 가능한 지원 제도에 대한 농민의 인식: 프랑스의 질적 연구."
             }
           ]
         },
@@ -4510,6 +4436,276 @@
               "title_ko": "이식 전 유전자 검사 주기에서 HCG 유발일에 대한 혈청 에스트라디올 수준과 유수체 배반포 비율 간의 연관성: 후향적 코호트 연구."
             }
           ]
+        },
+        {
+          "journal": "Nutrition (Burbank, Los Angeles County, Calif.)",
+          "impact_factor": 1.5,
+          "index_type": "미상",
+          "quartile": "미상",
+          "paper_count": 1,
+          "top_paper": {
+            "pmid": "42048757",
+            "title": "Mediterranean diet for the primary prevention of cardiometabolic diseases: evidence from a systematic review and meta-analysis featured in the Italian National Guidelines \"La Dieta Mediterranea\".",
+            "journal": "Nutrition (Burbank, Los Angeles County, Calif.)",
+            "impact_factor": 1.5,
+            "index_type": "미상",
+            "quartile": "미상",
+            "pubdate": "2025-08-27",
+            "authors": [
+              "Muscogiuri G",
+              "Maiorino MI",
+              "Paolini B"
+            ],
+            "citation_count": 3,
+            "rcr": null,
+            "volume": "148",
+            "issue": "",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42048757/",
+            "altmetric_score": 0,
+            "altmetric_news": 0,
+            "altmetric_social": 0,
+            "is_current_issue": false,
+            "hot_score": 10.4,
+            "field": "preventive",
+            "field_label": "예방의학",
+            "abstract": "OBJECTIVES: The Mediterranean diet (MD) is widely recognized for its potential health benefits, yet the extent and certainty of its association with metabolic outcomes remains incompletely understood. The aim of this systematic review and meta-analysis was to evaluate the relationship between adherence to the MD and the risk or prevalence of cardiometabolic disorders in the general population, with a focus on its role in primordial and primary prevention. METHODS: This review followed PRISMA 2020 and MOOSE guidelines. A systematic search of PubMed/MEDLINE, Scopus, Embase, and the Cochrane Library was conducted through February 28, 2024. Eligible studies examined adherence to the MD in relation to the risk or prevalence of metabolic disorders. Study quality was assessed using the Newcastle-Ottawa Scale, and evidence certainty was rated with the NUTRI-GRADE framework. Pooled effect estimates were calculated using a random-effects model and reported as risk ratios (RR), hazard ratios (HR), or odds ratios (OR), as appropriate. RESULTS: Sixty studies comprising over 1.1 million participants were included. Higher MD adherence was consistently associated with a reduced risk of T2DM (RR: 0.96; 95% CI: 0.95-0.97), supported by moderate to high certainty of evidence. Similar inverse associations were observed for overweight (OR: 0.94; 95% CI: 0.91-0.97) and adult obesity (OR: 0.95; 95% CI: 0.93-0.97). The PREDIMED randomized trial further demonstrated a 20% reduction in diabetes incidence with MD intervention. Evidence for metabolic syndrome (RR: 0.98; 95% CI: 0.98-0.99) and hyperuricemia (OR: 0.43; 95% CI: 0.25-0.75) was suggestive of protective effects, though with lower certainty. Associations with hypercholesterolemia and hypertriglyceridemia were inconsistent and inconclusive. CONCLUSIONS: Adherence to the Mediterranean diet is associated with a lower risk of several metabolic disorders, particularly T2DM and obesity in adults. These findings support the inclusion of the MD in public health strategies for metabolic disease prevention. Further high-quality longitudinal and interventional studies are warranted to clarify its effects on other metabolic outcomes.",
+            "title_ko": "심대사 질환의 일차 예방을 위한 지중해 식단: 이탈리아 국가 가이드라인 \"La Dieta Mediterranea\" 에 소개된 체계적인 검토 및 메타 분석의 증거."
+          },
+          "papers": [
+            {
+              "pmid": "42048757",
+              "title": "Mediterranean diet for the primary prevention of cardiometabolic diseases: evidence from a systematic review and meta-analysis featured in the Italian National Guidelines \"La Dieta Mediterranea\".",
+              "journal": "Nutrition (Burbank, Los Angeles County, Calif.)",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2025-08-27",
+              "authors": [
+                "Muscogiuri G",
+                "Maiorino MI",
+                "Paolini B"
+              ],
+              "citation_count": 3,
+              "rcr": null,
+              "volume": "148",
+              "issue": "",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/42048757/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 10.4,
+              "field": "preventive",
+              "field_label": "예방의학",
+              "abstract": "OBJECTIVES: The Mediterranean diet (MD) is widely recognized for its potential health benefits, yet the extent and certainty of its association with metabolic outcomes remains incompletely understood. The aim of this systematic review and meta-analysis was to evaluate the relationship between adherence to the MD and the risk or prevalence of cardiometabolic disorders in the general population, with a focus on its role in primordial and primary prevention. METHODS: This review followed PRISMA 2020 and MOOSE guidelines. A systematic search of PubMed/MEDLINE, Scopus, Embase, and the Cochrane Library was conducted through February 28, 2024. Eligible studies examined adherence to the MD in relation to the risk or prevalence of metabolic disorders. Study quality was assessed using the Newcastle-Ottawa Scale, and evidence certainty was rated with the NUTRI-GRADE framework. Pooled effect estimates were calculated using a random-effects model and reported as risk ratios (RR), hazard ratios (HR), or odds ratios (OR), as appropriate. RESULTS: Sixty studies comprising over 1.1 million participants were included. Higher MD adherence was consistently associated with a reduced risk of T2DM (RR: 0.96; 95% CI: 0.95-0.97), supported by moderate to high certainty of evidence. Similar inverse associations were observed for overweight (OR: 0.94; 95% CI: 0.91-0.97) and adult obesity (OR: 0.95; 95% CI: 0.93-0.97). The PREDIMED randomized trial further demonstrated a 20% reduction in diabetes incidence with MD intervention. Evidence for metabolic syndrome (RR: 0.98; 95% CI: 0.98-0.99) and hyperuricemia (OR: 0.43; 95% CI: 0.25-0.75) was suggestive of protective effects, though with lower certainty. Associations with hypercholesterolemia and hypertriglyceridemia were inconsistent and inconclusive. CONCLUSIONS: Adherence to the Mediterranean diet is associated with a lower risk of several metabolic disorders, particularly T2DM and obesity in adults. These findings support the inclusion of the MD in public health strategies for metabolic disease prevention. Further high-quality longitudinal and interventional studies are warranted to clarify its effects on other metabolic outcomes.",
+              "title_ko": "심대사 질환의 일차 예방을 위한 지중해 식단: 이탈리아 국가 가이드라인 \"La Dieta Mediterranea\" 에 소개된 체계적인 검토 및 메타 분석의 증거."
+            }
+          ]
+        },
+        {
+          "journal": "Best practice & research. Clinical gastroenterology",
+          "impact_factor": 1.5,
+          "index_type": "미상",
+          "quartile": "미상",
+          "paper_count": 6,
+          "top_paper": {
+            "pmid": "41724536",
+            "title": "Developments in the roll-out and performance of CRC screening in Europe.",
+            "journal": "Best practice & research. Clinical gastroenterology",
+            "impact_factor": 1.5,
+            "index_type": "미상",
+            "quartile": "미상",
+            "pubdate": "2025-08-05",
+            "authors": [
+              "Carbotti G",
+              "van den Berg DM",
+              "Carvalho AL"
+            ],
+            "citation_count": 3,
+            "rcr": null,
+            "volume": "80",
+            "issue": "",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/41724536/",
+            "altmetric_score": 0,
+            "altmetric_news": 0,
+            "altmetric_social": 0,
+            "is_current_issue": false,
+            "hot_score": 10.4,
+            "field": "preventive",
+            "field_label": "예방의학",
+            "abstract": "The heterogeneous implementation of colorectal cancer screening programs across Europe makes performance comparison challenging. This study computed and analyzed seven key indicators of screening performance for eighteen European programs between 2011 and 2022. Trends in colorectal cancer incidence and mortality were also examined in relation to when each screening program was introduced. Coverage indicators showed considerable variation across programs but generally increased until the onset of the COVID pandemic. Yield indicators remained stable overall, whereas jumps were associated to protocol changes. In most countries, a decline in incidence followed the introduction of the screening program, whereas the connection of screening with mortality was less evident. The analysis of comparable screening performance indicators over time allows for cross-country and longitudinal monitoring of the programs. The observed decline in incidence following the implementation of fully rolled-out programs highlights the importance and effectiveness of well-organized screening in reducing the burden of the disease.",
+            "title_ko": "유럽에서 CRC 스크리닝의 출시 및 성능의 발전."
+          },
+          "papers": [
+            {
+              "pmid": "41724536",
+              "title": "Developments in the roll-out and performance of CRC screening in Europe.",
+              "journal": "Best practice & research. Clinical gastroenterology",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2025-08-05",
+              "authors": [
+                "Carbotti G",
+                "van den Berg DM",
+                "Carvalho AL"
+              ],
+              "citation_count": 3,
+              "rcr": null,
+              "volume": "80",
+              "issue": "",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/41724536/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 10.4,
+              "field": "preventive",
+              "field_label": "예방의학",
+              "abstract": "The heterogeneous implementation of colorectal cancer screening programs across Europe makes performance comparison challenging. This study computed and analyzed seven key indicators of screening performance for eighteen European programs between 2011 and 2022. Trends in colorectal cancer incidence and mortality were also examined in relation to when each screening program was introduced. Coverage indicators showed considerable variation across programs but generally increased until the onset of the COVID pandemic. Yield indicators remained stable overall, whereas jumps were associated to protocol changes. In most countries, a decline in incidence followed the introduction of the screening program, whereas the connection of screening with mortality was less evident. The analysis of comparable screening performance indicators over time allows for cross-country and longitudinal monitoring of the programs. The observed decline in incidence following the implementation of fully rolled-out programs highlights the importance and effectiveness of well-organized screening in reducing the burden of the disease.",
+              "title_ko": "유럽에서 CRC 스크리닝의 출시 및 성능의 발전."
+            },
+            {
+              "pmid": "41724542",
+              "title": "Elements of screening and early diagnosis of lower GI neoplastic lesions - an overview.",
+              "journal": "Best practice & research. Clinical gastroenterology",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2025-09-30",
+              "authors": [
+                "Sheridan B",
+                "Rabeneck L",
+                "Toes-Zoutendijk E"
+              ],
+              "citation_count": 1,
+              "rcr": null,
+              "volume": "80",
+              "issue": "",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/41724542/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 5.2,
+              "field": "preventive",
+              "field_label": "예방의학",
+              "abstract": "Dobrow's 12 consolidated principles were applied to evaluate the extent to which colorectal cancer (CRC) screening programmes align with these established screening principles. The principles within the first domain - disease and conditions - are fully met. CRC represents a significant global public health burden with a well-understood natural history, including a long preclinical phase. These features make CRC suitable for population-based screening. Current guidelines recommend screening average-risk individuals, with starting ages as early as 45 years and stopping ages up to 85 years in some programs, although most programs target those aged 50-75 years. For Dobrow's second domain - test or intervention - we found that established CRC screening methods (faecal immunochemical testing (FIT), colonoscopy, and flexible sigmoidoscopy) have known and acceptable sensitivity and specificity. These tests have clear thresholds for interpretation and follow-up and are associated with reductions in both CRC incidence and mortality, confirming their clinical effectiveness in organised programmes. Dobrow's third domain - programme or system - addresses how screening programmes should be structured, implemented, and integrated into health systems. Unlike the other domains, this is fully achieved in only a small minority of programmes. While implementation may vary from country to country, the principles provide benchmarks for well-organised programmes. CRC screening is generally cost-effective and widely accepted by patients, providers, and society. Successful programmes require dedicated teams, infrastructure, and systems for coordination and quality assurance. Before implementation, a CRC screening initiative must meet, or have a clear plan to meet 12 principles. In summary, robust infrastructure and governance are essential for organised CRC screening programmes to align with the Dobrow principles and achieve long-term success.",
+              "title_ko": "하부 위장관 신생물 병변의 스크리닝 및 조기 진단의 요소 - 개요."
+            },
+            {
+              "pmid": "41724538",
+              "title": "Evidence-based decision analysis guiding clinical guidelines for an organized population-based screening for colorectal cancer.",
+              "journal": "Best practice & research. Clinical gastroenterology",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2025-08-08",
+              "authors": [
+                "Jahn B",
+                "Sroczynski G",
+                "Santamaria J"
+              ],
+              "citation_count": 1,
+              "rcr": null,
+              "volume": "80",
+              "issue": "",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/41724538/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 5.2,
+              "field": "preventive",
+              "field_label": "예방의학",
+              "abstract": "BACKGROUND: This study includes the long-term benefit-harm analysis of population-wide colorectal cancer (CRC) screening strategies commissioned by the Austrian National Committee for Cancer Screening (ANCCS). In addition, we present the related cost-effectiveness analysis. METHODS: Using a validated decision-analytic Markov state transition model, we evaluated 17 by the ANCCS suggested CRC-screening strategies differing in tests (fecal-immunochemical test (FIT), guaiac-based fecal occult blood test (gFOBT), colonoscopy (COL)), age at start (40,45,50 years) and end (COL: 65,70,75 years, FIT/gFOBT 75 years), and intervals (2,5,10 years). Positive FIT/gFOBT tests are followed by colonoscopy. Evaluated outcomes included health benefits (life-years gained (LYG), CRC-cases/CRC-deaths avoided), harms (severe colonoscopy complications, psychological harms due to positive test results (PTR), additional colonoscopies), stepwise evaluated incremental harm-benefit ratios (IHBR), and incremental cost-effectiveness ratios (ICER). We applied the Austrian healthcare system perspective, a lifelong-time horizon and conducted sensitivity analyses. RESULTS: The most effective colonoscopy-based screening strategy is colonoscopy at age 40/50/60/70 (449 LYG per 1000 individuals) with an IHBR of 3 PTR/LYG compared to COL45/55/65 (ICER: 13,032 Euro/LYG vs. COL45/55/65/75). The most effective fecal blood-test-based strategy is annual FIT testing starting at age 40 years (488 LYG per 1000 individuals) and an IHBR of 30 PTR/LYG compared to FIT40+2y (biennial FIT starting age 40). All biennial FIT-based screening strategies represent alternative options on the harm-benefit efficiency frontier with IHBR of PTR/LYG: 2 (FIT50+2y vs. no screening), 5 (FIT45+2y vs. FIT50+2y), and 7 (FIT40+2y vs. FIT45+2y). The cost-effectiveness analyses provided stepwise ICERs ranging from 3391 Euro/LYG (FIT45+2y vs. FIT50+2y) to 47,812 Euro/LYG (FIT40+1y vs. FIT40+2y). CONCLUSIONS: Our decision analysis shows benefit-harm and cost-effectiveness trade-offs. In the consensus meeting of the ANCCS, colonoscopy- and FIT-based screening starting at age 45 were selected as suggested screening strategies, accounting for benefit-harm balance, evidence level, and implementation aspects.",
+              "title_ko": "대장암에 대한 조직화된 모집단 기반 선별 검사를 위한 임상 가이드라인을 안내하는 증거 기반 의사결정 분석."
+            },
+            {
+              "pmid": "41724531",
+              "title": "Risk-based screening for early detection of colorectal cancer: an overview.",
+              "journal": "Best practice & research. Clinical gastroenterology",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2025-05-08",
+              "authors": [
+                "Brück CC",
+                "Mwangi LW",
+                "van Wifferen F"
+              ],
+              "citation_count": 1,
+              "rcr": null,
+              "volume": "80",
+              "issue": "",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/41724531/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 5.2,
+              "field": "preventive",
+              "field_label": "예방의학",
+              "abstract": "Screening programs for colorectal cancer (CRC) reduce CRC incidence and mortality, while balancing benefits and harms of the population. However, benefits vary widely among individuals. Low-risk individuals may face unnecessary burdens, while high-risk individuals could benefit from more intensive screening. Risk-based screening addresses these issues by tailoring screening strategies using risk factors such as age, sex, race, ethnicity, lifestyle factors, genetic predisposition, and previous screening results. Potential benefits of risk-based screening include improved cost-effectiveness, efficient resource use and reduced unnecessary procedures. Challenges include a lack of validated risk stratification tools, data availability, healthcare capacity, and ethical considerations. Several countries started to evaluate risk-based screening programs with optimistic results. While promising, further research is necessary to address the remaining challenges. Nevertheless, risk-based screening has the potential to enhance patient experiences, optimize the balance of individual-level benefits and harms, and positively impact the overall burden and costs associated with CRC screening.",
+              "title_ko": "대장암의 조기 발견을 위한 위험 기반 선별검사: 개요."
+            },
+            {
+              "pmid": "41724541",
+              "title": "Is blood the new stool? Status of blood tests for CRC screening.",
+              "journal": "Best practice & research. Clinical gastroenterology",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2025-09-08",
+              "authors": [
+                "Symonds EL",
+                "Dix M",
+                "Wassie MM"
+              ],
+              "citation_count": 0,
+              "rcr": null,
+              "volume": "80",
+              "issue": "",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/41724541/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 0.0,
+              "field": "preventive",
+              "field_label": "예방의학",
+              "abstract": "Colorectal cancer (CRC) screening has proven to decrease CRC incidence and mortality, with many countries providing faecal immunochemical tests (FIT) in screening programs. Effectiveness, however, is limited in the setting of low participation rates, which has prompted growing research into blood-based screening. While blood testing is anticipated to improve participation due to greater population acceptability, its readiness for widespread implementation remains unclear, and comparative accuracy data against FIT is needed. This article provides a systematic review and meta-analysis on blood-based CRC screening tests that have been directly compared to FIT, and summarises the evidence for broader program considerations, including analytical quality, consumer preferences, participation rates and cost effectiveness. The findings show that blood tests currently lack the sensitivity and cost-effectiveness to replace FIT in screening programs, and that their use should be limited to individuals unable or unwilling to complete FIT.",
+              "title_ko": "피가 새로운 의자입니까? CRC 선별 검사를 위한 혈액 검사 상태."
+            },
+            {
+              "pmid": "41724540",
+              "title": "Global impact of COVID-19 on organized CRC screening programs: lessons learned.",
+              "journal": "Best practice & research. Clinical gastroenterology",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2025-09-05",
+              "authors": [
+                "de Jonge L",
+                "Lansdorp-Vogelaar I",
+                "Doria-Rose VP"
+              ],
+              "citation_count": 0,
+              "rcr": null,
+              "volume": "80",
+              "issue": "",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/41724540/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 0.0,
+              "field": "preventive",
+              "field_label": "예방의학",
+              "abstract": "Using a standardized data template, this study retrospectively collected data about colorectal cancer (CRC) screening activity in 2020 and 2021 to estimate the impact of the COVID-19 pandemic compared to the pre-pandemic period (2018 or 2019). Data were collected from 17 programs in 14 countries of which 15 were population-based programs. Invitation coverage was decreased by up to 53.7 % in 2020. Participation among those invited was similar in both periods for all programs. The maximum backlog in invitations was less than 7.4 months in 2020 and 3.3 months for 2021. Nine out of 15 programs observed a decrease in the number of detected CRCs in 2020. Four programs showed a positive percentage change in CRCs detected in 2021 relative to the pre-pandemic period. Half of the countries observed a worse stage-distribution in 2020/2021. Overall, organized CRC screening programs operated at lower screening activity, but screening outcomes were similar compared to the pre-pandemic period.",
+              "title_ko": "코로나19가 조직화된 CRC 선별 검사 프로그램에 미치는 전 세계적인 영향: 교훈."
+            }
+          ]
         }
       ],
       "hot_topics": [
@@ -4521,8 +4717,8 @@
             "40302946",
             "40302974",
             "40302970",
-            "39978849",
             "40655936",
+            "39978849",
             "41641034"
           ]
         },
@@ -4542,6 +4738,15 @@
           "pmids": [
             "39936065",
             "40053023"
+          ]
+        },
+        {
+          "phrase": "screening programs",
+          "score": 37.0,
+          "paper_count": 2,
+          "pmids": [
+            "39973463",
+            "41724540"
           ]
         },
         {
@@ -4611,23 +4816,12 @@
           ]
         },
         {
-          "phrase": "preimplantation genetic",
-          "score": 25.5,
-          "paper_count": 4,
-          "pmids": [
-            "40262446",
-            "41690212",
-            "40024009",
-            "42952624"
-          ]
-        },
-        {
-          "phrase": "vaccination status",
-          "score": 25.5,
+          "phrase": "cervical cancer",
+          "score": 25.6,
           "paper_count": 2,
           "pmids": [
-            "40028449",
-            "41906517"
+            "40469994",
+            "41720510"
           ]
         }
       ],
@@ -4654,7 +4848,7 @@
               0.0,
               22.0,
               20.4,
-              20.0
+              10.0
             ]
           },
           {
@@ -4676,21 +4870,21 @@
             ]
           },
           {
-            "phrase": "human papillomavirus",
-            "scores": [
-              0.0,
-              0.0,
-              40.4,
-              10.0
-            ]
-          },
-          {
             "phrase": "physical activity",
             "scores": [
               0.0,
               10.4,
               20.0,
               20.0
+            ]
+          },
+          {
+            "phrase": "breast cancer",
+            "scores": [
+              15.2,
+              0.0,
+              25.2,
+              10.0
             ]
           }
         ]
@@ -4699,7 +4893,7 @@
     {
       "key": "emergency",
       "label": "응급의학",
-      "paper_count": 449,
+      "paper_count": 451,
       "journals": [
         {
           "journal": "Resuscitation",
@@ -4893,71 +5087,6 @@
               "field_label": "응급의학",
               "abstract": "INTRODUCTION: In 2022, Alzheimer disease was the seventh leading cause of death in the United States and affected an estimated 6.5 million adults age 65 and older. Adults with Alzheimer disease have been shown to rely on emergency departments (EDs) as a source for care. This report describes ED visits by adults age 65 and older with Alzheimer disease according to selected patient and visit characteristics and compares them with visits by adults without Alzheimer disease. METHODS: Data in this report are from the National Hospital Ambulatory Medical Care Survey, a nationally representative annual survey of nonfederal general and short-stay hospitals. Results are presented by combining data for 2020, 2021, and 2022 for more detailed subgroup analyses. Estimates and their corresponding variances were calculated using SAS-callable SUDAAN software and were based on 3-year annual averages. Differences between rates and percentages were evaluated using two-sided significance  t  tests at the 0.05 level. KEY FINDINGS: During 2020-2022, the annual ED visit rate by adults age 65 and older with Alzheimer's disease was 36.1 visits per 1,000 adults and increased with age. ED visit rates were highest among Black non-Hispanic people. Ambulance arrival was more frequent for ED visits by adults with Alzheimer's disease (61.0%) compared with visits by those without Alzheimer's disease (34.9%). About one-third (29.6%) of ED visits by adults with Alzheimer's disease were made by nursing home residents, higher than the corresponding percentage of visits by adults without Alzheimer's disease (5.9%). Approximately 37.2% of ED visits made by adults with Alzheimer's disease resulted in hospital admission, which was higher than the corresponding percentage of visits by those without Alzheimer's disease (28.6%).",
               "title_ko": "65세 이상 알츠하이머 질환을 가진 성인의 응급실 방문: 미국, 2020-2022."
-            }
-          ]
-        },
-        {
-          "journal": "Critical care (London, England)",
-          "impact_factor": 1.5,
-          "index_type": "미상",
-          "quartile": "미상",
-          "paper_count": 1,
-          "top_paper": {
-            "pmid": "41345654",
-            "title": "Unlocking survival in traumatic cardiac arrest: global insights, innovations, and unmet needs.",
-            "journal": "Critical care (London, England)",
-            "impact_factor": 1.5,
-            "index_type": "미상",
-            "quartile": "미상",
-            "pubdate": "2025-10-24",
-            "authors": [
-              "Jiang S",
-              "Wei J",
-              "Rao T"
-            ],
-            "citation_count": 6,
-            "rcr": 2.3312323267331734,
-            "volume": "29",
-            "issue": "1",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/41345654/",
-            "altmetric_score": 0,
-            "altmetric_news": 0,
-            "altmetric_social": 0,
-            "is_current_issue": true,
-            "hot_score": 28.9,
-            "field": "emergency",
-            "field_label": "응급의학",
-            "abstract": "Traumatic cardiac arrest (TCA) remains one of the most formidable challenges in acute care, with global survival rates persistently below 7.5% despite significant advances in trauma systems and resuscitative strategies. Through a comprehensive scoping review of literature from 2016 to 2025, this study delineates the shifting epidemiology, modern management, and key determinants of outcomes in TCA. Our synthesis reveals that TCA predominantly affects young males and results primarily from blunt mechanisms, with severe hemorrhage and traumatic brain injury as leading critical lesions. While pioneering interventions such as resuscitative endovascular balloon occlusion of the aorta and emergency resuscitative thoracotomy have been widely adopted, robust evidence for their survival benefit remains limited and context dependent. Early identification and correction of reversible causes, targeted hemorrhage control, and timely application of advanced life support measures-especially prehospital thoracostomy and vascular access-significantly increase the likelihood of return of spontaneous circulation and favorable neurological outcomes. Conversely, routine use of epinephrine shows at best inconsistent benefits and may be detrimental in blunt trauma. Survival is further influenced by initial rhythm, presence of signs of life, rapid patient triage to trauma centers, and tailored protocols for pediatric and older populations. Notwithstanding notable progress, major knowledge gaps persist in defining optimal intervention timing, reporting standards, and long-term neurologic recovery. The findings underscore the critical need for multicenter, prospective research, harmonized trauma registries, and global consensus to inform future guidelines and optimize outcomes for TCA patients.",
-            "title_ko": "외상성 심정지에서의 생존 잠금 해제: 글로벌 통찰력, 혁신 및 충족되지 않은 요구."
-          },
-          "papers": [
-            {
-              "pmid": "41345654",
-              "title": "Unlocking survival in traumatic cardiac arrest: global insights, innovations, and unmet needs.",
-              "journal": "Critical care (London, England)",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2025-10-24",
-              "authors": [
-                "Jiang S",
-                "Wei J",
-                "Rao T"
-              ],
-              "citation_count": 6,
-              "rcr": 2.3312323267331734,
-              "volume": "29",
-              "issue": "1",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/41345654/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": true,
-              "hot_score": 28.9,
-              "field": "emergency",
-              "field_label": "응급의학",
-              "abstract": "Traumatic cardiac arrest (TCA) remains one of the most formidable challenges in acute care, with global survival rates persistently below 7.5% despite significant advances in trauma systems and resuscitative strategies. Through a comprehensive scoping review of literature from 2016 to 2025, this study delineates the shifting epidemiology, modern management, and key determinants of outcomes in TCA. Our synthesis reveals that TCA predominantly affects young males and results primarily from blunt mechanisms, with severe hemorrhage and traumatic brain injury as leading critical lesions. While pioneering interventions such as resuscitative endovascular balloon occlusion of the aorta and emergency resuscitative thoracotomy have been widely adopted, robust evidence for their survival benefit remains limited and context dependent. Early identification and correction of reversible causes, targeted hemorrhage control, and timely application of advanced life support measures-especially prehospital thoracostomy and vascular access-significantly increase the likelihood of return of spontaneous circulation and favorable neurological outcomes. Conversely, routine use of epinephrine shows at best inconsistent benefits and may be detrimental in blunt trauma. Survival is further influenced by initial rhythm, presence of signs of life, rapid patient triage to trauma centers, and tailored protocols for pediatric and older populations. Notwithstanding notable progress, major knowledge gaps persist in defining optimal intervention timing, reporting standards, and long-term neurologic recovery. The findings underscore the critical need for multicenter, prospective research, harmonized trauma registries, and global consensus to inform future guidelines and optimize outcomes for TCA patients.",
-              "title_ko": "외상성 심정지에서의 생존 잠금 해제: 글로벌 통찰력, 혁신 및 충족되지 않은 요구."
             }
           ]
         },
@@ -5292,7 +5421,7 @@
           "impact_factor": 1.5,
           "index_type": "미상",
           "quartile": "미상",
-          "paper_count": 4,
+          "paper_count": 3,
           "top_paper": {
             "pmid": "41589734",
             "title": "Do not forget the cryoprecipitate: The impact of the 2019 Joint Trauma System Damage Control Resuscitation Clinical Practice Guideline on mortality.",
@@ -5405,97 +5534,6 @@
               "field_label": "응급의학",
               "abstract": "BACKGROUND: The innate immune response is activated by tissue injury and may quickly become dysregulated in the setting of major trauma. Cytokines are a key component of this response and function to activate and mobilize neutrophils, macrophages, and natural killer cells. The purpose of this study was to understand how the kinetics of blood-based resuscitation may impact the cytokine response. Specifically, we hypothesize that transfusion kinetics make a fundamental contribution to the inflammatory response, beyond the volume of transfusion and injury severity. METHODS: The Pragmatic, Randomized Optimal Platelet and Plasma Ratio data set was used in this retrospective analysis. Transfusion kinetics were quantified by calculating the total critical administration threshold episodes in three time periods, 1 to 2 hours following injury, 3 to 4 hours, and 5 to 6 hours following injury. The longitudinal response of key cytokines over 72 hours was assessed with a multivariable linear growth model, using critical administration threshold status as a time-varying covariate. RESULTS: A total of 522 patients were included in this analysis. Pro-inflammatory cytokines interleukin (IL)-6 (p = 0.0354) and IL-8 (p < 0.0001) were significantly increased. Anti-inflammatory cytokines IL-1ra (p = 0.0001) and IL-10 (p < 0.0001) were significantly increased. Chemokines interferon-γ-inducible protein 10 (p = 0.0433), monocyte chemoattractant protein-1 (p = 0.0064), and macrophage inflammatory protein 1β (p = 0.0003) were significantly increased, while regulated up activation, normal T-cell expressed and secreted chemokine (p = 0.0216) was significantly decreased. Growth factors showed no significant response. CONCLUSION: The kinetics of packed red blood cell transfusion demonstrate a potential association with the expression of cytokines following injury, beyond the total transfusion requirement or the severity of injury. Because cytokines activate and mobilize neutrophils, macrophages, and natural killer cells, these alterations may have a profound effect on degree and coordination of the immune response. As the contribution of various components of major resuscitation to inflammatory activation is clarified, such as types of blood product, tempo of transfusion, and operative care, targets for intervention should become more apparent. LEVEL OF EVIDENCE: Therapeutic/Care Management; Level III.",
               "title_ko": "주요 손상 후 수혈 동역학이 염증 반응에 미치는 영향."
-            },
-            {
-              "pmid": "39733294",
-              "title": "Plasma treatment is associated with decreased brain lesion and resuscitation requirements after traumatic brain injury in a swine model of prolonged damage-control resuscitation.",
-              "journal": "The journal of trauma and acute care surgery",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2024-10-15",
-              "authors": [
-                "Jin G",
-                "Liggett MR",
-                "Ho JW"
-              ],
-              "citation_count": 3,
-              "rcr": 0.9921517476977065,
-              "volume": "97",
-              "issue": "6",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/39733294/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": false,
-              "hot_score": 13.5,
-              "field": "emergency",
-              "field_label": "응급의학",
-              "abstract": "BACKGROUND: Hemorrhage and traumatic brain injury (TBI) are the leading causes of death in trauma. Future military conflicts are likely to be in austere environments, where prolonged damage-control resuscitation (p-DCR) may be required for 72 hours before evacuation. Previous studies showed that early administration of fresh frozen plasma (FFP) during p-DCR can significantly decrease the volume of resuscitation required in models of hemorrhagic shock and also provide neuroprotection after TBI. In the current study, we hypothesized that the addition of FFP to p-DCR would decrease the resuscitation requirements and improve neurological outcomes in a large animal model of combined hemorrhagic shock and TBI. METHODS: Yorkshire swine (40-45 kg; n = 10) were subjected to TBI (controlled cortical impact) and 40% blood volume hemorrhage. After 2 hours of shock, they were randomized to either: (1) p-DCR-normal saline or (2) p-DCR-FFP (250 mL). Prolonged damage-control resuscitation targeted a systolic blood pressure of 90% of baseline, in line with Tactical Combat Casualty Care principles. At 72 hours, animals were transfused 1 U of packed red blood cells, simulating evacuation to higher echelons of care. Brain lesion size, physiologic parameters, resuscitation fluid requirements, and neurological severity score were used to compare the clinical outcomes. RESULTS: The p-DCR-FFP group required significantly less total volume (4,540.0 ± 151.7 mL vs. 974.0 ± 167.0 mL, p < 0.01) of resuscitation to maintain the target systolic blood pressure. Fresh frozen plasma-treated animals had significantly reduced brain lesion size (4,517.0 ± 180.0 mm 3 vs. 2,477.0 ± 1,191.0 mm 3 , p < 0.01) and showed significantly decreased functional neurologic impairment. CONCLUSION: In this exploratory study, treatment with FFP decreased resuscitation requirements, reduced brain lesion size, and improved neurological outcomes when added to prolonged DCR in a porcine model of combined hemorrhagic shock and TBI.",
-              "title_ko": "장기간 손상-대조군 소생의 돼지 모델에서 혈장 치료는 외상성 뇌 손상 후 뇌 병변 및 소생 요건 감소와 관련이 있다."
-            }
-          ]
-        },
-        {
-          "journal": "Noise & health",
-          "impact_factor": 1.5,
-          "index_type": "미상",
-          "quartile": "미상",
-          "paper_count": 1,
-          "top_paper": {
-            "pmid": "39787549",
-            "title": "Effect of the Levels and Sources of Noise on the Sleep Quality of Conscious Patients in Emergency Intensive Care Unit.",
-            "journal": "Noise & health",
-            "impact_factor": 1.5,
-            "index_type": "미상",
-            "quartile": "미상",
-            "pubdate": "2024-12-30",
-            "authors": [
-              "Yang J",
-              "Zhou J"
-            ],
-            "citation_count": 4,
-            "rcr": 1.2868519529934968,
-            "volume": "26",
-            "issue": "123",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/39787549/",
-            "altmetric_score": 0,
-            "altmetric_news": 0,
-            "altmetric_social": 0,
-            "is_current_issue": true,
-            "hot_score": 25.7,
-            "field": "emergency",
-            "field_label": "응급의학",
-            "abstract": "PURPOSE: This study aimed to assess the levels and sources of noise in the emergency intensive care unit (EICU) of an emergency department and investigate their effects on the sleep quality of conscious patients. METHODS: A study was conducted on patients admitted to the EICU from December 2020 to December 2023. They were categorised according to their sleep quality with the Pittsburgh Sleep Quality Index. Environmental noise levels were measured using precision sound level metres and environmental noise automatic monitoring instruments. Data analysis was performed using SPSS version 25.0, and Chi-square test, Fisher's exact probability and t-tests were conducted when applicable. The significance threshold was set at P < 0.05. Regression analysis was carried out for indicators with significant differences. RESULTS: A total of 200 patients were included in the study. Of them 96 in the ideal sleep group and 104 in the non-ideal sleep group. Patients with non-ideal sleep experienced significantly higher noise levels across various measures (P < 0.05). Additionally, patients with non-ideal sleep reported significantly higher occurrences of noise-related awakening, difficulty in falling asleep, nightmares or vivid dreams and sleepwalking episodes (P < 0.05). Significant differences in staff activities, including staff conversations, equipment noise exposure, cleaning activities, patient interventions and overhead pages, were observed between the groups (P < 0.05). Multivariate logistic regression analysis indicating that the average noise level, conversational speech, equipment alarms, ambient noise, peak noise levels, staff conversations, cleaning activities, patient interventions and overhead pages were significant contributors to poor sleep. CONCLUSION: The study suggested that high noise levels and staff-related activities affected the sleep quality of conscious patients in the EICU. Targeted measures could improve the prognoses of patients.",
-            "title_ko": "응급 중환자실의 의식 환자의 수면 질에 대한 소음의 수준과 원천의 영향."
-          },
-          "papers": [
-            {
-              "pmid": "39787549",
-              "title": "Effect of the Levels and Sources of Noise on the Sleep Quality of Conscious Patients in Emergency Intensive Care Unit.",
-              "journal": "Noise & health",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2024-12-30",
-              "authors": [
-                "Yang J",
-                "Zhou J"
-              ],
-              "citation_count": 4,
-              "rcr": 1.2868519529934968,
-              "volume": "26",
-              "issue": "123",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/39787549/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": true,
-              "hot_score": 25.7,
-              "field": "emergency",
-              "field_label": "응급의학",
-              "abstract": "PURPOSE: This study aimed to assess the levels and sources of noise in the emergency intensive care unit (EICU) of an emergency department and investigate their effects on the sleep quality of conscious patients. METHODS: A study was conducted on patients admitted to the EICU from December 2020 to December 2023. They were categorised according to their sleep quality with the Pittsburgh Sleep Quality Index. Environmental noise levels were measured using precision sound level metres and environmental noise automatic monitoring instruments. Data analysis was performed using SPSS version 25.0, and Chi-square test, Fisher's exact probability and t-tests were conducted when applicable. The significance threshold was set at P < 0.05. Regression analysis was carried out for indicators with significant differences. RESULTS: A total of 200 patients were included in the study. Of them 96 in the ideal sleep group and 104 in the non-ideal sleep group. Patients with non-ideal sleep experienced significantly higher noise levels across various measures (P < 0.05). Additionally, patients with non-ideal sleep reported significantly higher occurrences of noise-related awakening, difficulty in falling asleep, nightmares or vivid dreams and sleepwalking episodes (P < 0.05). Significant differences in staff activities, including staff conversations, equipment noise exposure, cleaning activities, patient interventions and overhead pages, were observed between the groups (P < 0.05). Multivariate logistic regression analysis indicating that the average noise level, conversational speech, equipment alarms, ambient noise, peak noise levels, staff conversations, cleaning activities, patient interventions and overhead pages were significant contributors to poor sleep. CONCLUSION: The study suggested that high noise levels and staff-related activities affected the sleep quality of conscious patients in the EICU. Targeted measures could improve the prognoses of patients.",
-              "title_ko": "응급 중환자실의 의식 환자의 수면 질에 대한 소음의 수준과 원천의 영향."
             }
           ]
         },
@@ -5596,7 +5634,7 @@
             "field": "emergency",
             "field_label": "응급의학",
             "abstract": "OBJECTIVE: To examine trends in children's emergency department (ED) visits' payer mix before and after Texas initiated Medicaid unwinding. STUDY SETTING AND DESIGN: We conducted a retrospective, secondary data analysis of children's ED visits in Texas, aggregated at the facility level. We analyzed trends in ED visit payer mix before and after Texas initiated unwinding and employed an interrupted time series design to examine the association between unwinding and ED visit payer mix. DATA SOURCES AND ANALYTIC SAMPLE: We used data from the Texas Emergency Department Public Use Data Files encompassing all children's ED visits between 2021 Q2 and 2024 Q2 and included 7.6 million visits from 472 facilities. PRINCIPAL FINDINGS: Average quarterly visits per facility increased from 1225.2 at baseline to 1254.8 visits during the post-unwinding period (p < 0.001). The average share of quarterly Medicaid visits declined by 11.7% (-7.2 pp.; from 64.3% to 57.1%, p < 0.001) in the post- relative to the pre-unwinding period. This decline was split between a 12.5% increase in the average share of quarterly ED visits attributed to commercial plans (3.4 pp.; from 26.0% to 29.4%, p < 0.001) and a 45.2% increase in the share attributed to uninsured children (3.8 pp.; from 6.9% to 10.7%, p < 0.001). CONCLUSIONS: Unwinding was associated with decreased ED visit share for Medicaid among children, while commercial and uninsured ED visit shares increased.",
-            "title_ko": "텍사스에서 Medicaid Unwinding에 따른 응급실 지불인 혼합의 변화."
+            "title_ko": ""
           },
           "papers": [
             {
@@ -5625,7 +5663,7 @@
               "field": "emergency",
               "field_label": "응급의학",
               "abstract": "OBJECTIVE: To examine trends in children's emergency department (ED) visits' payer mix before and after Texas initiated Medicaid unwinding. STUDY SETTING AND DESIGN: We conducted a retrospective, secondary data analysis of children's ED visits in Texas, aggregated at the facility level. We analyzed trends in ED visit payer mix before and after Texas initiated unwinding and employed an interrupted time series design to examine the association between unwinding and ED visit payer mix. DATA SOURCES AND ANALYTIC SAMPLE: We used data from the Texas Emergency Department Public Use Data Files encompassing all children's ED visits between 2021 Q2 and 2024 Q2 and included 7.6 million visits from 472 facilities. PRINCIPAL FINDINGS: Average quarterly visits per facility increased from 1225.2 at baseline to 1254.8 visits during the post-unwinding period (p < 0.001). The average share of quarterly Medicaid visits declined by 11.7% (-7.2 pp.; from 64.3% to 57.1%, p < 0.001) in the post- relative to the pre-unwinding period. This decline was split between a 12.5% increase in the average share of quarterly ED visits attributed to commercial plans (3.4 pp.; from 26.0% to 29.4%, p < 0.001) and a 45.2% increase in the share attributed to uninsured children (3.8 pp.; from 6.9% to 10.7%, p < 0.001). CONCLUSIONS: Unwinding was associated with decreased ED visit share for Medicaid among children, while commercial and uninsured ED visit shares increased.",
-              "title_ko": "텍사스에서 Medicaid Unwinding에 따른 응급실 지불인 혼합의 변화."
+              "title_ko": ""
             }
           ]
         },
@@ -5661,7 +5699,7 @@
             "field": "emergency",
             "field_label": "응급의학",
             "abstract": "BACKGROUND: Noncompressible truncal hemorrhage is a major contributor to preventable deaths in trauma patients and, despite advances in emergency care, still poses a big challenge. OBJECTIVES: This study aimed to assess the clinical efficacy of trauma resuscitation care incorporating Resuscitative Endovascular Balloon Occlusion of the Aorta (REBOA) compared to standard care for managing uncontrolled torso or lower body hemorrhage. METHODS: This study utilized a target trial design with a matched case-control methodology, emulating randomized 1 : 1 allocation for patients receiving trauma resuscitation care with or without the use of REBOA. The study was conducted at a high-volume trauma center in Southern Austria, including trauma patients treated between January 2019 and October 2023, aged 16 and above, with suspected severe non-compressible torso hemorrhage. The primary outcome was 30-day in-hospital mortality. Secondary outcomes were in-hospital mortality rates at 3, 6, 24 h, and 90 days, need for damage control procedures, time to these procedures, computed tomography (CT) scan rates during resuscitation, complications, length of intensive care and in-hospital stay, and causes of death. RESULTS: Median age was 55 [interquartile range (IQR) 42-64] years. Median total injury severity, assessed by Injury Severity Score, was 46.5 (IQR: 43-57). There was no significant difference in 30-day in-hospital mortality between groups [9/22 (41%) vs. 9/22 (41%), odds ratio: 1.00, 95% confidence interval (CI): 0.3-3.36, P  > 0.999]. Lower mortality rates within 3, 6, and 24 h were observed in the REBOA group; in a Cox proportional hazards model, hazard ratio (95% CI) for mortality in the REBOA group was 0.87 (0.35-2.15). Timing to damage control procedures did not significantly differ between groups, although patients in the REBOA group underwent significantly more CT scans. Bleeding was cited as the main cause of death less frequently in the REBOA group. CONCLUSION: In severely injured patients presenting with possible major non-compressible torso hemorrhage, a systematically implemented resuscitation strategy including REBOA during the initial hospital phase, is not associated with significant changes in mortality.",
-            "title_ko": "통제되지 않은 출혈을 가진 외상 환자를 위한 대동맥의 소생 혈관 내 풍선 폐색: 후향적 표적 시험 에뮬레이션 (AT-REBOA 표적 시험)."
+            "title_ko": ""
           },
           "papers": [
             {
@@ -5690,7 +5728,7 @@
               "field": "emergency",
               "field_label": "응급의학",
               "abstract": "BACKGROUND: Noncompressible truncal hemorrhage is a major contributor to preventable deaths in trauma patients and, despite advances in emergency care, still poses a big challenge. OBJECTIVES: This study aimed to assess the clinical efficacy of trauma resuscitation care incorporating Resuscitative Endovascular Balloon Occlusion of the Aorta (REBOA) compared to standard care for managing uncontrolled torso or lower body hemorrhage. METHODS: This study utilized a target trial design with a matched case-control methodology, emulating randomized 1 : 1 allocation for patients receiving trauma resuscitation care with or without the use of REBOA. The study was conducted at a high-volume trauma center in Southern Austria, including trauma patients treated between January 2019 and October 2023, aged 16 and above, with suspected severe non-compressible torso hemorrhage. The primary outcome was 30-day in-hospital mortality. Secondary outcomes were in-hospital mortality rates at 3, 6, 24 h, and 90 days, need for damage control procedures, time to these procedures, computed tomography (CT) scan rates during resuscitation, complications, length of intensive care and in-hospital stay, and causes of death. RESULTS: Median age was 55 [interquartile range (IQR) 42-64] years. Median total injury severity, assessed by Injury Severity Score, was 46.5 (IQR: 43-57). There was no significant difference in 30-day in-hospital mortality between groups [9/22 (41%) vs. 9/22 (41%), odds ratio: 1.00, 95% confidence interval (CI): 0.3-3.36, P  > 0.999]. Lower mortality rates within 3, 6, and 24 h were observed in the REBOA group; in a Cox proportional hazards model, hazard ratio (95% CI) for mortality in the REBOA group was 0.87 (0.35-2.15). Timing to damage control procedures did not significantly differ between groups, although patients in the REBOA group underwent significantly more CT scans. Bleeding was cited as the main cause of death less frequently in the REBOA group. CONCLUSION: In severely injured patients presenting with possible major non-compressible torso hemorrhage, a systematically implemented resuscitation strategy including REBOA during the initial hospital phase, is not associated with significant changes in mortality.",
-              "title_ko": "통제되지 않은 출혈을 가진 외상 환자를 위한 대동맥의 소생 혈관 내 풍선 폐색: 후향적 표적 시험 에뮬레이션 (AT-REBOA 표적 시험)."
+              "title_ko": ""
             }
           ]
         },
@@ -5699,7 +5737,7 @@
           "impact_factor": 1.5,
           "index_type": "미상",
           "quartile": "미상",
-          "paper_count": 34,
+          "paper_count": 35,
           "top_paper": {
             "pmid": "39947973",
             "title": "Promethazine: A Review of Therapeutic Uses and Toxicity.",
@@ -6252,267 +6290,6 @@
           ]
         },
         {
-          "journal": "The western journal of emergency medicine",
-          "impact_factor": 1.5,
-          "index_type": "미상",
-          "quartile": "미상",
-          "paper_count": 8,
-          "top_paper": {
-            "pmid": "41380046",
-            "title": "Sociodemographic and Health Behaviour of Frequent, Avoidable Emergency Department Users in Ontario, Canada: A Population-based Descriptive Study.",
-            "journal": "The western journal of emergency medicine",
-            "impact_factor": 1.5,
-            "index_type": "미상",
-            "quartile": "미상",
-            "pubdate": "2025-10-21",
-            "authors": [
-              "Thompson C",
-              "Watson T",
-              "Schull MJ"
-            ],
-            "citation_count": 2,
-            "rcr": null,
-            "volume": "26",
-            "issue": "6",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/41380046/",
-            "altmetric_score": 0,
-            "altmetric_news": 0,
-            "altmetric_social": 0,
-            "is_current_issue": true,
-            "hot_score": 20.7,
-            "field": "emergency",
-            "field_label": "응급의학",
-            "abstract": "INTRODUCTION: Frequent users are a small but important group of patients in the emergency department (ED). This group is often the target of interventions that redirect visits to other areas of the healthcare system under the premise that some of these visits could be best managed elsewhere. Most existing interventions do not consider sociodemographic factors when targeting specific populations, while larger scale policy initiatives often do not reach those who would most benefit from alternative points of healthcare access. In this study we use population-level survey data linked to health administrative data to describe frequent ED users and those whose visits are potentially avoidable and could benefit from additional points of healthcare access. METHODS: This was a population-based cohort study of responses from 18-74 year-old Ontario residents to the Canadian Community Health Survey from 2001-2014, which we linked to administrative health data for one-year following survey completion. We categorized participants according to the frequency of their ED use in the year following survey date and whether any of their visits were potentially avoidable. Associations between category of ED use and various sociodemographic, health, and behavioural factors were examined with multinomial logistic regression. RESULTS: A total of 181,369 eligible respondents were included in this study. Of these, 1,460 (0.8%) were frequent users (four or more visits) with one or more potentially avoidable visits in the year following survey date. Compared to non-ED users, frequent users with avoidable visits were associated with the lowest quintile of household income (aOR: 1.91, 95% CI: 1.37, 2.65), rural-dwelling (aOR: 1.44, 95% CI: 1.18, 1.77), and the highest quintile of material resource deprived neighbourhoods (aOR: 2.23, 95% CI: 1.47, 3.36). They were more likely to have poor self-reported physical (17.2% vs 9.0%) and mental health (4.1% vs 2.7%) compared to total cohort, and more likely to have comorbidities (63.3% vs 48.7%), but less likely to access a usual provider of care for their healthcare needs (33.3% vs 28.2% without a usual provider of care). CONCLUSION: This study provides a novel description of frequent ED users for whom some of their visits were potentially avoidable. As efforts are made to redesign access to primary and community care, and with increasing emphasis on virtual care and other initiatives to reduce avoidable ED use, the healthcare system should ensure that these interventions are responsive to the needs of the people at higher likelihood of needing them.",
-            "title_ko": ""
-          },
-          "papers": [
-            {
-              "pmid": "41380046",
-              "title": "Sociodemographic and Health Behaviour of Frequent, Avoidable Emergency Department Users in Ontario, Canada: A Population-based Descriptive Study.",
-              "journal": "The western journal of emergency medicine",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2025-10-21",
-              "authors": [
-                "Thompson C",
-                "Watson T",
-                "Schull MJ"
-              ],
-              "citation_count": 2,
-              "rcr": null,
-              "volume": "26",
-              "issue": "6",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/41380046/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": true,
-              "hot_score": 20.7,
-              "field": "emergency",
-              "field_label": "응급의학",
-              "abstract": "INTRODUCTION: Frequent users are a small but important group of patients in the emergency department (ED). This group is often the target of interventions that redirect visits to other areas of the healthcare system under the premise that some of these visits could be best managed elsewhere. Most existing interventions do not consider sociodemographic factors when targeting specific populations, while larger scale policy initiatives often do not reach those who would most benefit from alternative points of healthcare access. In this study we use population-level survey data linked to health administrative data to describe frequent ED users and those whose visits are potentially avoidable and could benefit from additional points of healthcare access. METHODS: This was a population-based cohort study of responses from 18-74 year-old Ontario residents to the Canadian Community Health Survey from 2001-2014, which we linked to administrative health data for one-year following survey completion. We categorized participants according to the frequency of their ED use in the year following survey date and whether any of their visits were potentially avoidable. Associations between category of ED use and various sociodemographic, health, and behavioural factors were examined with multinomial logistic regression. RESULTS: A total of 181,369 eligible respondents were included in this study. Of these, 1,460 (0.8%) were frequent users (four or more visits) with one or more potentially avoidable visits in the year following survey date. Compared to non-ED users, frequent users with avoidable visits were associated with the lowest quintile of household income (aOR: 1.91, 95% CI: 1.37, 2.65), rural-dwelling (aOR: 1.44, 95% CI: 1.18, 1.77), and the highest quintile of material resource deprived neighbourhoods (aOR: 2.23, 95% CI: 1.47, 3.36). They were more likely to have poor self-reported physical (17.2% vs 9.0%) and mental health (4.1% vs 2.7%) compared to total cohort, and more likely to have comorbidities (63.3% vs 48.7%), but less likely to access a usual provider of care for their healthcare needs (33.3% vs 28.2% without a usual provider of care). CONCLUSION: This study provides a novel description of frequent ED users for whom some of their visits were potentially avoidable. As efforts are made to redesign access to primary and community care, and with increasing emphasis on virtual care and other initiatives to reduce avoidable ED use, the healthcare system should ensure that these interventions are responsive to the needs of the people at higher likelihood of needing them.",
-              "title_ko": ""
-            },
-            {
-              "pmid": "41380043",
-              "title": "The State of Simulation in Emergency Medicine Residency Programs in the United States.",
-              "journal": "The western journal of emergency medicine",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2025-10-21",
-              "authors": [
-                "Miller BD",
-                "Khoury C",
-                "Raper J"
-              ],
-              "citation_count": 2,
-              "rcr": null,
-              "volume": "26",
-              "issue": "6",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/41380043/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": true,
-              "hot_score": 20.7,
-              "field": "emergency",
-              "field_label": "응급의학",
-              "abstract": "INTRODUCTION: Using simulation-based medical education has proven to be an effective instructional strategy both procedurally and clinically. Emergency medicine (EM) residency programs use simulation in a variety of ways and settings. Given the ongoing development of the field and the recent expansion of EM training programs, our objective was to assess the current state of simulation use in Accreditation Council for Graduate Medical Education (ACGME)-approved EM residency programs in the United States. METHODS: We performed this cross-sectional national survey from July-September 2022. The survey was sent to the residency program directors of all 277 ACGME-accredited EM residency programs in the US. The survey focused on simulation use, technology, types of simulation (procedural vs case-based), barriers to growth, and overall sentiments regarding simulation in EM. RESULTS: We attempted to contact 277 programs, successfully reaching 244. We received a total of 100 responses (36%). Nearly all responding programs reported access to a dedicated sim center (95.8%), with available high-fidelity manikin simulators (93%) and task trainers (90%). Most programs engage in simulation didactics monthly (50%), followed by more than monthly (22%) and quarterly (19%). Barriers to simulation implementation included funding, simulation lab availability, and equipment. Programs frequently used simulation to perform the majority of rare but required procedures, and about half of the programs responding reported simulation fellowship-trained faculty on staff. CONCLUSION: Simulation education is an important aspect of EM residency and training. Most residency programs reported dedication and resources to developing and integrating simulation into their curriculum. There is likely room for its further use in residency program training in the coming years as residency programs continue to expand.",
-              "title_ko": ""
-            },
-            {
-              "pmid": "41380079",
-              "title": "Pediatric Upper Extremity Firearm-related Injuries: A Level I Pediatric Trauma Center Experience.",
-              "journal": "The western journal of emergency medicine",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2025-10-09",
-              "authors": [
-                "Braswell AC",
-                "Soto E",
-                "Bloom AD"
-              ],
-              "citation_count": 0,
-              "rcr": null,
-              "volume": "26",
-              "issue": "6",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/41380079/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": true,
-              "hot_score": 10.0,
-              "field": "emergency",
-              "field_label": "응급의학",
-              "abstract": "INTRODUCTION: Firearm injuries have become increasingly more common in the pediatric population; however, there is a paucity of literature examining the management of these pediatric firearm-related injuries (FRI) specifically as they affect the upper extremity. This study identifies demographic and environmental risk factors in pediatric upper extremity FRIs and evaluates the severity of injury, concomitant injuries, and rates of surgical intervention in pediatric patients treated at a Level I pediatric trauma center over 20 years. METHODS: We completed a retrospective analysis on 540 patients <18 years of age with FRIs at a single institution from 2001 - 2020. Of these, 72 (13%) had FRIs involving the upper extremity. The patients were stratified into groups based on whether they had received operative intervention or a bedside procedure for their injury and on their year of presentation between two decades (2001 - 2010 vs. 2011 - 2020). We obtained upper extremity injury-specific variables along with hospital demographics. The primary outcomes in this study included hospital length of stay, number of bullet wounds, motor and sensory deficits, and amputation. RESULTS: In the last 10 years, the rate of upper extremity FRIs observed in the pediatric population has increased by 380% at our institution (15 vs. 57, P < .001). After 2010, cases were more likely to present with an increased number of gunshot wounds per patient (1.14 vs. 1.98, 95% confidence interval [CI] -0.94 - 0.24, P = .03) but were less likely to require admission to the intensive care unit (19% vs. 67%, P < .001). When stratifying by intervention, both the operative intervention and bedside procedure groups had a similar number of gunshot wounds (1.86 vs 1.76, 95% CI -0.52 - 0.43, P = .86). The operative intervention group was more likely to have had a soft tissue injury (68% vs. 35%, P = .005) and motor deficit at follow-up (45% vs.15%, P =.02). Patients in the operative intervention group had longer lengths of stay (9.66 vs. 2.25 days, 95% CI -1.16 - -0.21, P < .01) and more morbid injuries despite similar patient demographics. CONCLUSION: In the last decade, an increased frequency of pediatric upper extremity firearm-related injuries was noted despite a stagnant state population. Emphasis should continue to be placed on education and improving firearm safety in settings in which children are present.",
-              "title_ko": ""
-            },
-            {
-              "pmid": "41380077",
-              "title": "Comparison of Pretreatment in European Society of Cardiology Acute Coronary Syndrome Guidelines.",
-              "journal": "The western journal of emergency medicine",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2025-10-22",
-              "authors": [
-                "Ataş İ",
-                "Yazıcı MM",
-                "Çakır AN"
-              ],
-              "citation_count": 0,
-              "rcr": null,
-              "volume": "26",
-              "issue": "6",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/41380077/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": true,
-              "hot_score": 10.0,
-              "field": "emergency",
-              "field_label": "응급의학",
-              "abstract": "INTRODUCTION: Most patients with acute coronary syndrome (ACS) die before hospitalization. Early diagnosis and effective interventions can prevent the disease from worsening. In this single-center, retrospective study we aimed to investigate the appropriateness of the pretreatment of patients referred to the emergency department of our hospital, a percutaneous cardiac intervention (PCI) center, with a prediagnosis of ACS under the previously published European Society of Cardiology guidelines (2017 and 2020) and the new guidelines published in 2023. METHODS: Based on the date of publication of the European Society of Cardiology's most recent ACS guidelines (August 25, 2023), we divided patients admitted between August 25, 2022-August 24, 2024, into two groups: patients who were evaluated and received pretreatment under the previous guidelines; and patients who were evaluated and received pretreatment under the new guidelines. RESULTS: Of 1,675 patients screened for enrollment who were referred to our PCI center with prediagnosis of ACS, after exclusion criteria, we report on 1,450 (86.6%). Pretreatment (before PCI) compliance rate with all aspects of the previous and new guidelines was low, at 9.8%. Study patients were 69.9% (n = 1,013) male with mean age of 63.9 ± 13.0 years. Comparing the compliance rate between the new versus previous guidelines, for individual components, we found better compliance for aspirin administration (72.6 vs. 66.2%) and anticoagulants (40.3 vs. 22.7%), while for P2Y12 inhibitors, we found lower compliance (58.9 vs. 70.0%, all p< .001). For the subset of patients with ST-elevation myocardial infarction, P2Y12 inhibitors were used less appropriately under the new vs. previous guidelines (31.4 vs. 55.0%, p < .001). CONCLUSION: The compliance rates with the previous and new guidelines for ACS pretreatment by physicians working in hospitals without PCI centers were low. Pretreatment compliance during the new guideline period was lower than compliance during the prior guideline period.",
-              "title_ko": ""
-            },
-            {
-              "pmid": "41380074",
-              "title": "Demographic and Clinical Characteristics of Pediculosis-associated Severe Anemia in the Emergency Department.",
-              "journal": "The western journal of emergency medicine",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2025-10-21",
-              "authors": [
-                "Plowe W",
-                "Colling R",
-                "Mohan S"
-              ],
-              "citation_count": 0,
-              "rcr": null,
-              "volume": "26",
-              "issue": "6",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/41380074/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": true,
-              "hot_score": 10.0,
-              "field": "emergency",
-              "field_label": "응급의학",
-              "abstract": "INTRODUCTION: Infestation with Pediculus species, or common lice, is frequently diagnosed in the emergency department (ED). Because lice ingest human blood, prolonged and heavy infestation can plausibly lead to iron deficiency anemia. Severe anemia attributable to lice infestation has infrequently been reported to date. Our objective in this study was to retrospectively review cases of lice-related anemia at a single public hospital to identify risk factors and associated demographic and clinical features of this disease process. METHODS: We screened the medical records for patients presenting to the ED of an urban public hospital between 2016-2024 for the diagnoses of lice infestation and severe anemia (hemoglobin < 7 grams per deciliter (g/dL). Cases were reviewed for clinical and demographic characteristics. RESULTS: A total of 932 patients were diagnosed with pediculosis infestation in the ED during the study period; 332 (35.6%) of those patients had a complete blood count obtained by the treating team. Thirty-seven cases of severe anemia were identified (3.9% of total pediculosis cases, 11.1% of those for whom a complete blood count was obtained); 84% were microcytic, indicating iron deficiency anemia. Twenty-five patients (68%) were undomiciled, and nine patients (24%) were shelter domiciled. Twenty-three patients (62%) had comorbid psychiatric diagnoses, and 21 (51%) had substance use disorders. The median hemoglobin was 4.4 g/dL (range 2.4-6.9 g/dL). Thirty patients (81%) were admitted to a medical floor and seven patients (19%) to an intensive care unit, each with a comorbid primary condition. CONCLUSION: In this cohort, anemia secondary to lice infestation was seen in patients with unstable housing, substance use disorders, and psychiatric disease. Most patients were hemodynamically stable, consistent with the proposed mechanism of chronic blood loss. The prevalence of this condition may be higher than previously noted among this vulnerable population. Emergency physicians should be aware of this rare but potentially serious disease process.",
-              "title_ko": ""
-            },
-            {
-              "pmid": "41380065",
-              "title": "Emergency Medicine Residents' Performance with National Institutes of Health Stroke Scale and Its Impact on Key Stroke-care Metrics.",
-              "journal": "The western journal of emergency medicine",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2025-10-21",
-              "authors": [
-                "Roces M",
-                "Alacala-Arcos T",
-                "Addo N"
-              ],
-              "citation_count": 0,
-              "rcr": null,
-              "volume": "26",
-              "issue": "6",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/41380065/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": true,
-              "hot_score": 10.0,
-              "field": "emergency",
-              "field_label": "응급의학",
-              "abstract": "BACKGROUND: Emergency medicine (EM) physicians commonly use the National Institutes of Health Stroke Scale (NIHSS) to assess acute ischemic strokes in community settings. However, this assessment is often led by neurology residents in academic teaching hospitals. We implemented a quality improvement intervention to improve EM resident comfort with the NIHSS and to assess if EM resident-led NIHSS evaluation prolonged key stroke metrics, such as door-to-CT (DTCT), door-to-needle (DTN), or door-to-groin puncture (DTGP) times, which may affect stroke outcomes. METHODS: This prospective observational comparison analyzed all patients with acute ischemic strokes at the Zuckerberg San Francisco General Hospital, a Level I trauma center from April 2021-October 2022. We implemented the intervention from April 2022 -October 2022 which included NIHSS certification for all residents and attendings. Both EM and neurology residents recorded NIHSS scores separately for each patient and scores were revealed to each resident during patient care once completed. We then compared stroke metrics between pre- and post-intervention periods. RESULTS: There were 247 and 122 strokes included in our analysis, pre- and post-intervention, respectively. Overall, 58% (n=213) of all patients were female, 33% were Asian (n=123), and Cantonese was the second most common language after English (15%, n=54). Mean overall NIHSS scores were similar between EM and neurology residents, 6.6 (IQR = 2, 10) and 6.7 (IQR = 1, 10), (p < 0.001), respectively, with substantial agreement between groups (84.4%, κ = 0.63). Median DTCT times were 25 and 28 minutes (p=0.2), DTN times were 38 and 35 minutes (p=0.7), and DTGP times were 94 and 110 minutes (p=0.1) for pre- and post-intervention groups, respectively. CONCLUSION: The NIHSS is one element of stroke evaluation and management that can impact stroke metrics. Our intervention found that EM resident-led NIHSS assessment did not prolong DTCT, DTN, and DTGP times and met nationally established goals.",
-              "title_ko": ""
-            },
-            {
-              "pmid": "41380058",
-              "title": "Prevalence and Impact of Violence Against Healthcare Workers in Brazilian Emergency Departments: A National Survey.",
-              "journal": "The western journal of emergency medicine",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2025-10-17",
-              "authors": [
-                "Dorn de Carvalho JM",
-                "McGuire SS",
-                "Oliveira LLR"
-              ],
-              "citation_count": 0,
-              "rcr": null,
-              "volume": "26",
-              "issue": "6",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/41380058/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": true,
-              "hot_score": 10.0,
-              "field": "emergency",
-              "field_label": "응급의학",
-              "abstract": "INTRODUCTION: Workplace violence (WPV) is a significant occupational hazard in healthcare, with emergency departments (EDs) recognized as high-risk environments. Although globally significant, data from Latin America remain scarce. In this study we aimed to evaluate the prevalence and effects of WPV on healthcare workers in Brazilian EDs. METHODS: We conducted a cross-sectional survey of healthcare workers in Brazilian EDs. Respondents indicated verbal and physical violence experienced within the preceding six months, along with associated psychological and occupational impacts. Univariable models identified significant associated factors, followed by multivariable models to determine independent associated factors of WPV. We reported results as adjusted odds ratios (aOR) with 95% confidence intervals. Statistical analyses were performed in R v4.4.1, and significance was defined as P < .05. RESULTS: The response rate was 19.1% (1,255/6,570), Of those responses, 61.3% (769/1,255) met the inclusion criteria and were included in the analysis. Of all respondents, 84.0% were physicians. Respondents indicated 79.6% (612/769) occurrence of WPV, including verbal abuse (79.5%) and physical assault (12.1%). Physical assaults against co-workers were witnessed by 40.3% of respondents. Perpetrators included visitors (85.3%), patients (80.7%), and co-workers (35.8%). The absence of institutional preventive measures was associated with increased WPV (aOR, 2.47; 95% CI, 1.71-3.57; P < .001), while the presence of security staff reduced WPV (aOR, 0.61; 95% CI, 0.42-0.89; P = .01). Indicated impact included post-traumatic stress symptoms (88.4%), considering leaving their job (49.5%), impaired workplace performance (75.2%), and time off work (10%), including 11.5% permanently leaving. CONCLUSION: Workplace violence is highly prevalent in Brazilian EDs, with substantial psychological and occupational consequences. The absence of protocols or preventive measures may increase WPV risk, emphasizing the urgent need for public policies to protect healthcare workers in emergency settings.",
-              "title_ko": ""
-            },
-            {
-              "pmid": "42054115",
-              "title": "Gender- and Sex-equitable Submission Guidelines in Emergency Medicine Journals Are Associated with Enhanced Publication Metrics.",
-              "journal": "The western journal of emergency medicine",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2025-06-10",
-              "authors": [
-                "Manes A",
-                "Lall MD",
-                "Knight S"
-              ],
-              "citation_count": 0,
-              "rcr": null,
-              "volume": "27",
-              "issue": "2",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/42054115/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": false,
-              "hot_score": 0.0,
-              "field": "emergency",
-              "field_label": "응급의학",
-              "abstract": "INTRODUCTION: Gender and sex equity-promoting (GSEP) clinical research is essential to improving diversity and inclusivity in medicine. In this study we aimed to compare journal impact metrics in emergency medicine (EM) between journals that integrated gender- and sex-based considerations and those that did not. METHODS: We searched the 2023 Journal Citations Report (Clarivate Analytics) for EM journals. Submission guidelines of each EM journal were examined according to the SAGER (Sex and Gender Equity in Research) guidelines and stratified as conforming or non-conforming depending on whether at least one SAGER criterion was met. Our primary outcome measure was the journal impact factor. Secondary outcome measures included other citation and influence metrics: total citations; 5-year journal impact factor; journal citation indicator; article influence score, normalized Eigenfactor score; citable items; total articles; and immediacy index. RESULTS: Based on our classification system informed by the SAGER criteria, most journals (66%, 31/47) were classified as non-compliant. The EM journals that conformed to the sex and gender equity guidelines were rated higher than non-conforming journals across all studied journal metrics. We found that conforming journals had a significantly higher median difference (MD) than non-conforming EM journals in total citations (MD 1,586; GSEP: 3,599 vs non-GSEP: 901); 2023 2-year journal impact factor (MD 0.8; 2.3 vs 1.4); 5-year journal impact factor (MD 0.7; 2.5 vs 1.9); article influence score (MD 0.26; 0.76 vs 0.47); normalized Eigenfactor score (MD 0.79; 1.06 vs 0.26); citable items (MD 37; 103 vs 56), and total articles (MD 41; 87 vs 42). All differences were statistically significant (P < 0.05). CONCLUSION: Using criteria informed by the Sex and Gender Equity in Research guidelines, most EM journals (66%) were classified as non-conforming to these guidelines. This indicates a significant gap in the integration of gender- and sex-based considerations in EM research publication practices.",
-              "title_ko": ""
-            }
-          ]
-        },
-        {
           "journal": "Journal of the American Board of Family Medicine : JABFM",
           "impact_factor": 1.5,
           "index_type": "미상",
@@ -6573,6 +6350,127 @@
               "field": "emergency",
               "field_label": "응급의학",
               "abstract": "OBJECTIVE: Continuity of primary care reduces costs and hospitalizations over 1-year periods, but its long-term effects remain unclear, a key concern for value-based payment. We examined associations between physician-level continuity and health care expenditures/utilization across single- and multi-year measurement periods. DESIGN: Retrospective cohort study using 2011 to 2017 Medicare Fee-for-Service (FFS) claims. We constructed physician-level continuity measures over 1- to 5-year lookback periods. Generalized linear models estimated associations with total Medicare Part A & B expenditures, and logit models assessed hospitalization and emergency department (ED) visits, adjusting for patient and physician characteristics. SETTING & PARTICIPANTS: Nationally representative sample of 4,940 primary care practices, including 1.1 to 2.5 million Medicare FFS beneficiaries seen by 6,758-14,949 physicians. RESULTS: Beneficiaries in the highest continuity quintile had 7.4%-10.4% lower total expenditures than those in the lowest quintile, with the greatest difference in the 1-year lookback. Hospitalization and ED visit odds were 5.5%-8.6% and 4.9%-6.3% lower, respectively, for high-continuity physicians. Effects attenuated slightly with longer lookbacks. CONCLUSION: Physician continuity is consistently associated with lower costs, hospitalizations, and ED visits across lookback periods. Given this stability and the complexity of multi-year claims measurement, a 1-year assessment may be sufficient for physician continuity evaluation and value-based payment programs.",
+              "title_ko": ""
+            }
+          ]
+        },
+        {
+          "journal": "Journal of veterinary emergency and critical care (San Antonio, Tex. : 2001)",
+          "impact_factor": 1.5,
+          "index_type": "미상",
+          "quartile": "미상",
+          "paper_count": 3,
+          "top_paper": {
+            "pmid": "41386686",
+            "title": "Evaluation of a Cardiopulmonary Resuscitation Video Decision Aid for Pet Owners.",
+            "journal": "Journal of veterinary emergency and critical care (San Antonio, Tex. : 2001)",
+            "impact_factor": 1.5,
+            "index_type": "미상",
+            "quartile": "미상",
+            "pubdate": "2025-12-12",
+            "authors": [
+              "Gane KM",
+              "Wahlden L",
+              "Fayers BWN"
+            ],
+            "citation_count": 2,
+            "rcr": null,
+            "volume": "35",
+            "issue": "6",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/41386686/",
+            "altmetric_score": 0,
+            "altmetric_news": 0,
+            "altmetric_social": 0,
+            "is_current_issue": true,
+            "hot_score": 20.7,
+            "field": "emergency",
+            "field_label": "응급의학",
+            "abstract": "OBJECTIVE: To evaluate the impact of a Cardiopulmonary Resuscitation Video Decision Aid (CPR-VDA) on pet owners' resuscitation preferences, decisional confidence, conflict, and knowledge of CPR. DESIGN: Prospective, interventional survey study with data collected from January to March 2024. Owners of pets presenting through the Emergency Department completed a preintervention questionnaire. They then viewed a 7-min CPR-VDA and completed a postintervention questionnaire. Changes between pre- and postintervention scores were analyzed using Wilcoxon signed rank tests. SETTING: Private referral hospital SUBJECTS: Seventy-eight pet owners INTERVENTIONS: Viewing of a CPR-VDA MEASUREMENTS AND MAIN RESULTS: The preintervention questionnaire assessed pet owner demographics, resuscitation preferences, decisional confidence and conflict, and prior knowledge about CPR. The postintervention questionnaire reassessed resuscitation preferences, decisional confidence and conflict, and CPR knowledge, with additional questions evaluating owner' perceptions of the CPR-VDA. Preintervention, 56 of 78 (72%) participants expressed a preference for \"resuscitation\" of their pet, five of 78 (6%) opted for \"do not attempt resuscitation,\" and 17 of 78 (22%) were \"not sure.\" Most participants (56/78 [72%]) did not change their resuscitation preference following the intervention. Participants felt more confident in their decision after watching the CPR-VDA (p < 0.001). There was no difference in how conflicted they felt making this decision (median score on a rating scale of 1-5 was 2.25 preintervention and 2.42 postintervention; p = 0.192). Their knowledge of CPR improved (median correct answers increasing from 5.5/9 to 9/9; p < 0.001). Most participants rated the video \"good\" or \"excellent\" (72/78 [92%]), found the video helpful (62/78 [79%]), and were likely to recommend it to other pet owners (72/78 [92%]). CONCLUSIONS: The use of a CPR-VDA improved pet owner knowledge of CPR and increased their confidence in decision making. The CPR-VDA was well received by pet owners and may be a useful tool to facilitate discussions regarding this topic.",
+            "title_ko": ""
+          },
+          "papers": [
+            {
+              "pmid": "41386686",
+              "title": "Evaluation of a Cardiopulmonary Resuscitation Video Decision Aid for Pet Owners.",
+              "journal": "Journal of veterinary emergency and critical care (San Antonio, Tex. : 2001)",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2025-12-12",
+              "authors": [
+                "Gane KM",
+                "Wahlden L",
+                "Fayers BWN"
+              ],
+              "citation_count": 2,
+              "rcr": null,
+              "volume": "35",
+              "issue": "6",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/41386686/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": true,
+              "hot_score": 20.7,
+              "field": "emergency",
+              "field_label": "응급의학",
+              "abstract": "OBJECTIVE: To evaluate the impact of a Cardiopulmonary Resuscitation Video Decision Aid (CPR-VDA) on pet owners' resuscitation preferences, decisional confidence, conflict, and knowledge of CPR. DESIGN: Prospective, interventional survey study with data collected from January to March 2024. Owners of pets presenting through the Emergency Department completed a preintervention questionnaire. They then viewed a 7-min CPR-VDA and completed a postintervention questionnaire. Changes between pre- and postintervention scores were analyzed using Wilcoxon signed rank tests. SETTING: Private referral hospital SUBJECTS: Seventy-eight pet owners INTERVENTIONS: Viewing of a CPR-VDA MEASUREMENTS AND MAIN RESULTS: The preintervention questionnaire assessed pet owner demographics, resuscitation preferences, decisional confidence and conflict, and prior knowledge about CPR. The postintervention questionnaire reassessed resuscitation preferences, decisional confidence and conflict, and CPR knowledge, with additional questions evaluating owner' perceptions of the CPR-VDA. Preintervention, 56 of 78 (72%) participants expressed a preference for \"resuscitation\" of their pet, five of 78 (6%) opted for \"do not attempt resuscitation,\" and 17 of 78 (22%) were \"not sure.\" Most participants (56/78 [72%]) did not change their resuscitation preference following the intervention. Participants felt more confident in their decision after watching the CPR-VDA (p < 0.001). There was no difference in how conflicted they felt making this decision (median score on a rating scale of 1-5 was 2.25 preintervention and 2.42 postintervention; p = 0.192). Their knowledge of CPR improved (median correct answers increasing from 5.5/9 to 9/9; p < 0.001). Most participants rated the video \"good\" or \"excellent\" (72/78 [92%]), found the video helpful (62/78 [79%]), and were likely to recommend it to other pet owners (72/78 [92%]). CONCLUSIONS: The use of a CPR-VDA improved pet owner knowledge of CPR and increased their confidence in decision making. The CPR-VDA was well received by pet owners and may be a useful tool to facilitate discussions regarding this topic.",
+              "title_ko": ""
+            },
+            {
+              "pmid": "41432566",
+              "title": "Evaluation of Client Communication Regarding Cardiopulmonary Resuscitation and Do-Not-Resuscitate Orders: A Survey Study.",
+              "journal": "Journal of veterinary emergency and critical care (San Antonio, Tex. : 2001)",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2025-12-23",
+              "authors": [
+                "Horowitz AM",
+                "Conner BJ",
+                "Hofmeister EH"
+              ],
+              "citation_count": 0,
+              "rcr": null,
+              "volume": "35",
+              "issue": "6",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/41432566/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": true,
+              "hot_score": 10.0,
+              "field": "emergency",
+              "field_label": "응급의학",
+              "abstract": "OBJECTIVE: To document veterinary professionals' experiences discussing CPR and do-not-resuscitate (DNR) orders with clients. DESIGN: Internet-based survey. SETTING: Various small animal clinical practices. SUBJECTS: A total of 547 veterinary professionals, including veterinarians, medical support staff, and nonmedical support staff. MEASUREMENTS AND MAIN RESULTS: An electronic survey was distributed containing multiple-choice, Likert-type, and open-ended questions. Likert-type questions of interest were compared among groups of two using a Mann-Whitney U-test or a Kruskal-Wallis test with Dunn's test for post hoc analysis for groups of three or more. An ordinal regression model was fitted to explore factors that best predict greater comfort with discussing CPR, making recommendations, and offering specific advice. Most respondents (63.9%) reported working in hospitals with protocols for discussing CPR/DNR with clients, and the presence of a protocol increased the self-reported comfort with discussing CPR/DNR with clients (Estimate = 0.789, 95% CI: 0.354-1.224; p < 0.001). Respondents reported that most conversations about CPR/DNR are led by veterinarians (37.2%) or veterinary technicians/assistants (37.1%), followed by nonmedical support staff, such as receptionists or practice managers without medical training (23.1%), students (1.7%), and unspecified others (0.8%). From the open-ended questions, respondents commonly shared that they have never received formal training in how to discuss CPR/DNR with clients; rather, they learned from mentors or colleagues on the job. A greater number of years in emergency practice was correlated with greater self-reported comfort with making specific recommendations about CPR/DNR (Estimate = 0.067, 95% CI: 0.03-0.103; p < 0.001). CONCLUSIONS: Veterinary professionals' comfort with discussing code status with clients appears to benefit from both formal protocols and accumulated experience in emergency practice. The lack of formal training highlights a gap that could be addressed to support more effective and confident communication in critical care discussions, potentially improving veterinary staff well-being.",
+              "title_ko": ""
+            },
+            {
+              "pmid": "41386656",
+              "title": "Evaluation of a 5-Point Triage System for Veterinary Emergency Patients in 164 Cats and Dogs: VetTriS.",
+              "journal": "Journal of veterinary emergency and critical care (San Antonio, Tex. : 2001)",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2025-12-12",
+              "authors": [
+                "Groesser NH",
+                "Klootwijk L",
+                "Ruys LJ"
+              ],
+              "citation_count": 0,
+              "rcr": null,
+              "volume": "35",
+              "issue": "6",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/41386656/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": true,
+              "hot_score": 10.0,
+              "field": "emergency",
+              "field_label": "응급의학",
+              "abstract": "OBJECTIVE: To evaluate the applicability, reliability, and prioritization effectiveness of a 5-point Veterinary Triage System (VetTriS) in a busy primary and secondary emergency department. Additionally, it was determined whether target waiting times could be met. Triage assessments performed by veterinary technicians and veterinary students were retrospectively assessed by the authors. DESIGN: Prospective observational study with retrospective analysis of data on applicability, reliability, and prioritization. SETTING: Primary and secondary emergency department. ANIMALS: One hundred sixty-four cats and dogs presented at a primary and secondary emergency service. INTERVENTIONS: None. MEASUREMENTS AND MAIN RESULTS: Data from 164 dogs and cats admitted to a primary and secondary emergency department during the weekends of April to July of 2024 were analyzed. Triage performed using VetTriS by veterinary technicians and veterinary students demonstrated substantial interobserver agreement, with a kappa of 0.69. Overtriage occurred in 9.8% of patients and undertriage in 0.6%. The assigned target waiting time was met in 85.4%. VetTriS was unable to properly assess for prioritization within this study design and did not allow for good assessment of hydration status. CONCLUSIONS: VetTriS is a reliable tool for use in veterinary emergency departments to triage patients and has substantial interobserver agreement. Although performing triage is difficult in a busy emergency center, the results of this study are promising. Further adjustments to VetTriS are needed, and future studies are needed to test for applicability and prioritization.",
               "title_ko": ""
             }
           ]
@@ -8395,71 +8293,6 @@
           ]
         },
         {
-          "journal": "Ulusal travma ve acil cerrahi dergisi = Turkish journal of trauma & emergency surgery : TJTES",
-          "impact_factor": 1.5,
-          "index_type": "미상",
-          "quartile": "미상",
-          "paper_count": 1,
-          "top_paper": {
-            "pmid": "39668536",
-            "title": "Orthopaedic injuries and the use of protective equipment in commercial motorcycle couriers during the Coronavirus Disease 2019 (COVID-19) pandemic: A single level 1 trauma center experience.",
-            "journal": "Ulusal travma ve acil cerrahi dergisi = Turkish journal of trauma & emergency surgery : TJTES",
-            "impact_factor": 1.5,
-            "index_type": "미상",
-            "quartile": "미상",
-            "pubdate": "2024-01-01",
-            "authors": [
-              "Ekinci M",
-              "Günen E",
-              "Ataoglu C"
-            ],
-            "citation_count": 1,
-            "rcr": 0.8209948336468251,
-            "volume": "30",
-            "issue": "12",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/39668536/",
-            "altmetric_score": 0,
-            "altmetric_news": 0,
-            "altmetric_social": 0,
-            "is_current_issue": true,
-            "hot_score": 16.8,
-            "field": "emergency",
-            "field_label": "응급의학",
-            "abstract": "BACKGROUND: The aim of our study is to analyze the orthopedic injuries and the use of protective equipment among commercial motorcycle couriers during the Coronavirus Disease 2019 (COVID-19) pandemic in a level 1 trauma center in Istanbul, to provide epidemiological data, and to serve as a baseline for future studies. METHODS: Commercial motorcycle couriers involved in traffic accidents while working, and who were brought to the emergency department between April 2020 and April 2022, were included in our study. The protective equipment worn at the time of the accidents, including helmets, jackets, pants, gloves, and boots, were recorded. The orthopedic injuries and the applied treatments (both conservative and surgical) were documented, and injuries to other body regions and injury types were recorded in consultation with other medical departments. Additional data, including the duration of the driving license, the engine displacement of the motorcycle, any motorcyclist training, weather conditions, the estimated speed during the accident, and the time of the accident, were also noted. RESULTS: A total of 255 commercial motorcycle couriers were included in the study. Most of the injuries (56.9%) involved major trauma, with the foot and ankle region being the most commonly affected body area (31.8%). Helmets were the most commonly used protective equipment (n=197, 77.3%), while motorcycle boots were the least used (n=54, 21.2%). Fifty participants (19.6%) did not use any protective equipment, including helmets, while 22.7% of commercial motorcycle couriers wore only helmets. Only 27 couriers wore full protective gear for motorcycle riding. There were 157 fractures, of which seven were open fractures (4.5%). CONCLUSION: As wearing a helmet is mandatory when riding a motorcycle, the use of protective equipment other than helmets was relatively low, leading to a high prevalence of extremity injuries. Our study emphasizes the necessity of advanced motorcycle riding training for these professionals, raising awareness among motorcycle couriers about the importance of protective gear, and enhancing inspections through the implementation of legal regulations on this issue.",
-            "title_ko": ""
-          },
-          "papers": [
-            {
-              "pmid": "39668536",
-              "title": "Orthopaedic injuries and the use of protective equipment in commercial motorcycle couriers during the Coronavirus Disease 2019 (COVID-19) pandemic: A single level 1 trauma center experience.",
-              "journal": "Ulusal travma ve acil cerrahi dergisi = Turkish journal of trauma & emergency surgery : TJTES",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2024-01-01",
-              "authors": [
-                "Ekinci M",
-                "Günen E",
-                "Ataoglu C"
-              ],
-              "citation_count": 1,
-              "rcr": 0.8209948336468251,
-              "volume": "30",
-              "issue": "12",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/39668536/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": true,
-              "hot_score": 16.8,
-              "field": "emergency",
-              "field_label": "응급의학",
-              "abstract": "BACKGROUND: The aim of our study is to analyze the orthopedic injuries and the use of protective equipment among commercial motorcycle couriers during the Coronavirus Disease 2019 (COVID-19) pandemic in a level 1 trauma center in Istanbul, to provide epidemiological data, and to serve as a baseline for future studies. METHODS: Commercial motorcycle couriers involved in traffic accidents while working, and who were brought to the emergency department between April 2020 and April 2022, were included in our study. The protective equipment worn at the time of the accidents, including helmets, jackets, pants, gloves, and boots, were recorded. The orthopedic injuries and the applied treatments (both conservative and surgical) were documented, and injuries to other body regions and injury types were recorded in consultation with other medical departments. Additional data, including the duration of the driving license, the engine displacement of the motorcycle, any motorcyclist training, weather conditions, the estimated speed during the accident, and the time of the accident, were also noted. RESULTS: A total of 255 commercial motorcycle couriers were included in the study. Most of the injuries (56.9%) involved major trauma, with the foot and ankle region being the most commonly affected body area (31.8%). Helmets were the most commonly used protective equipment (n=197, 77.3%), while motorcycle boots were the least used (n=54, 21.2%). Fifty participants (19.6%) did not use any protective equipment, including helmets, while 22.7% of commercial motorcycle couriers wore only helmets. Only 27 couriers wore full protective gear for motorcycle riding. There were 157 fractures, of which seven were open fractures (4.5%). CONCLUSION: As wearing a helmet is mandatory when riding a motorcycle, the use of protective equipment other than helmets was relatively low, leading to a high prevalence of extremity injuries. Our study emphasizes the necessity of advanced motorcycle riding training for these professionals, raising awareness among motorcycle couriers about the importance of protective gear, and enhancing inspections through the implementation of legal regulations on this issue.",
-              "title_ko": ""
-            }
-          ]
-        },
-        {
           "journal": "American journal of disaster medicine",
           "impact_factor": 1.5,
           "index_type": "미상",
@@ -8836,6 +8669,97 @@
               "field": "emergency",
               "field_label": "응급의학",
               "abstract": "BACKGROUND: Emergency nurses' unethical pro-organizational behaviors (UPBs) exert detrimental effects on individual well-being, professional performance, and clinical workplace atmosphere; nevertheless, qualitative evidence systematically exploring the underlying mechanisms and coping strategies of such behaviors in the Chinese nursing context remains scarce. AIM: This study aimed to qualitatively explore the sources, perceived impacts, and coping strategies of UPBs among emergency department nurses in China. DESIGN: Descriptive qualitative study. METHODS: This study was conducted in the emergency department nurses of five hospitals in China between February and March 2026. A total of 21 registered nurses aged ≥ 18 years who were currently in practice were recruited using purposive sampling. Data were collected using semistructured interviews until thematic saturation was achieved. Data analysis was performed using qualitative content analysis. RESULTS: Three main themes emerged-sources, impacts, and coping-highlighting that UPBs arose from high-pressure environments and distorted loyalty, led to moral distress and normalization, and was managed with adaptive and self-rationalizing strategies. CONCLUSIONS: UPBs among emergency nurses constitute a vicious cycle fueled by workplace stressors, implicit cues, and coping strategies, which profoundly affects individual well-being and organizational ethics. These findings suggest that source-oriented humanistic interventions, including environmental optimization, ethical support, competence enhancement, and cultural reshaping, are essential for practice. IMPLICATIONS FOR NURSING MANAGEMENT: Nursing managers should target systemic and cultural drivers of UPBs, clarify ambiguous expectations, establish ethical support (e.g., confidential reporting and debriefings), model integrity-based leadership, and decouple loyalty from unethical compliance. These actions are designed to alleviate ethical distress, reduce rule-bending, and break the vicious cycle in emergency settings. REPORTING METHOD: This study was reported in accordance with the Consolidated Criteria for Reporting Qualitative Research guidelines. PATIENT OR PUBLIC CONTRIBUTION: No patient or public contributions.",
+              "title_ko": ""
+            }
+          ]
+        },
+        {
+          "journal": "Noise & health",
+          "impact_factor": 1.5,
+          "index_type": "미상",
+          "quartile": "미상",
+          "paper_count": 2,
+          "top_paper": {
+            "pmid": "39787549",
+            "title": "Effect of the Levels and Sources of Noise on the Sleep Quality of Conscious Patients in Emergency Intensive Care Unit.",
+            "journal": "Noise & health",
+            "impact_factor": 1.5,
+            "index_type": "미상",
+            "quartile": "미상",
+            "pubdate": "2024-12-30",
+            "authors": [
+              "Yang J",
+              "Zhou J"
+            ],
+            "citation_count": 4,
+            "rcr": 1.2868519529934968,
+            "volume": "26",
+            "issue": "123",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/39787549/",
+            "altmetric_score": 0,
+            "altmetric_news": 0,
+            "altmetric_social": 0,
+            "is_current_issue": false,
+            "hot_score": 15.7,
+            "field": "emergency",
+            "field_label": "응급의학",
+            "abstract": "PURPOSE: This study aimed to assess the levels and sources of noise in the emergency intensive care unit (EICU) of an emergency department and investigate their effects on the sleep quality of conscious patients. METHODS: A study was conducted on patients admitted to the EICU from December 2020 to December 2023. They were categorised according to their sleep quality with the Pittsburgh Sleep Quality Index. Environmental noise levels were measured using precision sound level metres and environmental noise automatic monitoring instruments. Data analysis was performed using SPSS version 25.0, and Chi-square test, Fisher's exact probability and t-tests were conducted when applicable. The significance threshold was set at P < 0.05. Regression analysis was carried out for indicators with significant differences. RESULTS: A total of 200 patients were included in the study. Of them 96 in the ideal sleep group and 104 in the non-ideal sleep group. Patients with non-ideal sleep experienced significantly higher noise levels across various measures (P < 0.05). Additionally, patients with non-ideal sleep reported significantly higher occurrences of noise-related awakening, difficulty in falling asleep, nightmares or vivid dreams and sleepwalking episodes (P < 0.05). Significant differences in staff activities, including staff conversations, equipment noise exposure, cleaning activities, patient interventions and overhead pages, were observed between the groups (P < 0.05). Multivariate logistic regression analysis indicating that the average noise level, conversational speech, equipment alarms, ambient noise, peak noise levels, staff conversations, cleaning activities, patient interventions and overhead pages were significant contributors to poor sleep. CONCLUSION: The study suggested that high noise levels and staff-related activities affected the sleep quality of conscious patients in the EICU. Targeted measures could improve the prognoses of patients.",
+            "title_ko": ""
+          },
+          "papers": [
+            {
+              "pmid": "39787549",
+              "title": "Effect of the Levels and Sources of Noise on the Sleep Quality of Conscious Patients in Emergency Intensive Care Unit.",
+              "journal": "Noise & health",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2024-12-30",
+              "authors": [
+                "Yang J",
+                "Zhou J"
+              ],
+              "citation_count": 4,
+              "rcr": 1.2868519529934968,
+              "volume": "26",
+              "issue": "123",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/39787549/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 15.7,
+              "field": "emergency",
+              "field_label": "응급의학",
+              "abstract": "PURPOSE: This study aimed to assess the levels and sources of noise in the emergency intensive care unit (EICU) of an emergency department and investigate their effects on the sleep quality of conscious patients. METHODS: A study was conducted on patients admitted to the EICU from December 2020 to December 2023. They were categorised according to their sleep quality with the Pittsburgh Sleep Quality Index. Environmental noise levels were measured using precision sound level metres and environmental noise automatic monitoring instruments. Data analysis was performed using SPSS version 25.0, and Chi-square test, Fisher's exact probability and t-tests were conducted when applicable. The significance threshold was set at P < 0.05. Regression analysis was carried out for indicators with significant differences. RESULTS: A total of 200 patients were included in the study. Of them 96 in the ideal sleep group and 104 in the non-ideal sleep group. Patients with non-ideal sleep experienced significantly higher noise levels across various measures (P < 0.05). Additionally, patients with non-ideal sleep reported significantly higher occurrences of noise-related awakening, difficulty in falling asleep, nightmares or vivid dreams and sleepwalking episodes (P < 0.05). Significant differences in staff activities, including staff conversations, equipment noise exposure, cleaning activities, patient interventions and overhead pages, were observed between the groups (P < 0.05). Multivariate logistic regression analysis indicating that the average noise level, conversational speech, equipment alarms, ambient noise, peak noise levels, staff conversations, cleaning activities, patient interventions and overhead pages were significant contributors to poor sleep. CONCLUSION: The study suggested that high noise levels and staff-related activities affected the sleep quality of conscious patients in the EICU. Targeted measures could improve the prognoses of patients.",
+              "title_ko": ""
+            },
+            {
+              "pmid": "41482908",
+              "title": "Influence of Ward Noise on Emotional State and Sleep Quality in Patients with Ventilator-induced Diaphragmatic Dysfunction.",
+              "journal": "Noise & health",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2025-12-31",
+              "authors": [
+                "Qiu Z",
+                "Zhang W",
+                "Yan Z"
+              ],
+              "citation_count": 0,
+              "rcr": null,
+              "volume": "27",
+              "issue": "129",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/41482908/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": true,
+              "hot_score": 10.0,
+              "field": "emergency",
+              "field_label": "응급의학",
+              "abstract": "OBJECTIVES: This study aimed to investigate the effect of noise control care on emotional state and sleep quality in patients with ventilator-induced diaphragmatic dysfunction (VIDD). METHODS: This retrospective study analysed 147 patients with VIDD between January 2023 and December 2023. Patients were grouped based on their admission period as follows: the standard care group (n = 63) comprised patients who received standard care in conventional wards between January 2023 and June 2023, whereas the noise control group (n = 84) included patients treated between July 2023 and December 2023 who additionally received noise reduction measures. Outcome measurements included Hamilton Anxiety Rating Scale (HAMA) and Hamilton Depression Rating Scale (HAMD) scores at baseline and Day 7. Other indicators included environmental sound levels (LAeq, LAmin and LAmax); Richards-Campbell Sleep Questionnaire (RCSQ) scores; haemodynamic measurements; duration of mechanical ventilation (MV) and incidence of delirium and hospital length of stay. RESULTS: Both groups showed comparable baseline characteristics. The noise control group experienced significantly lower noise levels at daytime and nighttime than the standard care group (P < 0.001). Both groups demonstrated improved HAMA and HAMD scores by Day 7, but the noise control group showed significantly greater reductions than the standard care group (P < 0.001). RCSQ scores were significantly higher in the noise control group across all five domains and total score (P < 0.001). The noise control group exhibited improved haemodynamic stability with significantly reduced heart rate and blood pressure on Day 7 (P < 0.001). A significantly lowered incidence of delirium was observed in the noise control group (10.71% vs. 25.40%, P < 0.05), accompanied with a shortened duration of MV (P < 0.001) and hospital length of stay (P < 0.05). CONCLUSION: Noise control was associated with reduced anxiety and depression, improved sleep quality and superior clinical outcomes in patients with VIDD.",
               "title_ko": ""
             }
           ]
@@ -10049,18 +9973,312 @@
               "title_ko": ""
             }
           ]
+        },
+        {
+          "journal": "Emergency medicine clinics of North America",
+          "impact_factor": 1.5,
+          "index_type": "미상",
+          "quartile": "미상",
+          "paper_count": 7,
+          "top_paper": {
+            "pmid": "40210340",
+            "title": "Evaluation of Older Adults in the Emergency Department Following a Fall.",
+            "journal": "Emergency medicine clinics of North America",
+            "impact_factor": 1.5,
+            "index_type": "미상",
+            "quartile": "미상",
+            "pubdate": "2024-09-17",
+            "authors": [
+              "Shih R",
+              "Shenvi C"
+            ],
+            "citation_count": 2,
+            "rcr": null,
+            "volume": "43",
+            "issue": "2",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/40210340/",
+            "altmetric_score": 0,
+            "altmetric_news": 0,
+            "altmetric_social": 0,
+            "is_current_issue": false,
+            "hot_score": 10.7,
+            "field": "emergency",
+            "field_label": "응급의학",
+            "abstract": "Falls are an important source of morbidity and mortality for older adults. The emergency department (ED) evaluation of an older patient who presents after a fall should include an assessment of events contributing to the acute fall, injuries sustained from it, as well as an underlying falls syndrome. ED measures and referrals to appropriate outpatient services on discharge can help ensure patients receive care and services that can help reduce future falls.",
+            "title_ko": ""
+          },
+          "papers": [
+            {
+              "pmid": "40210340",
+              "title": "Evaluation of Older Adults in the Emergency Department Following a Fall.",
+              "journal": "Emergency medicine clinics of North America",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2024-09-17",
+              "authors": [
+                "Shih R",
+                "Shenvi C"
+              ],
+              "citation_count": 2,
+              "rcr": null,
+              "volume": "43",
+              "issue": "2",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/40210340/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 10.7,
+              "field": "emergency",
+              "field_label": "응급의학",
+              "abstract": "Falls are an important source of morbidity and mortality for older adults. The emergency department (ED) evaluation of an older patient who presents after a fall should include an assessment of events contributing to the acute fall, injuries sustained from it, as well as an underlying falls syndrome. ED measures and referrals to appropriate outpatient services on discharge can help ensure patients receive care and services that can help reduce future falls.",
+              "title_ko": ""
+            },
+            {
+              "pmid": "42823012",
+              "title": "Titrating and Discontinuing Noninvasive Respiratory Support in the Emergency Department.",
+              "journal": "Emergency medicine clinics of North America",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2026-02-26",
+              "authors": [
+                "Gebreili D",
+                "Mosier JM"
+              ],
+              "citation_count": 0,
+              "rcr": null,
+              "volume": "44",
+              "issue": "4",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/42823012/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": true,
+              "hot_score": 10.0,
+              "field": "emergency",
+              "field_label": "응급의학",
+              "abstract": "Acute respiratory failure is common in the emergency department (ED), often requiring noninvasive respiratory support (NIRS). NIRS has become a cornerstone in the initial management of acute respiratory failure. Despite its growing use, significant variability in practice remains, and evidence-based guidance specific to the ED setting is limited. This article aims to provide emergency physicians with a practical, evidence-informed framework for initiating and managing NIRS in adults with acute respiratory failure, with a focus on initial settings, titration, monitoring for failure, and guidance on weaning and liberation.",
+              "title_ko": ""
+            },
+            {
+              "pmid": "42823006",
+              "title": "Modern Approach to Vascular Access in the Critically Ill Patient.",
+              "journal": "Emergency medicine clinics of North America",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2026-03-23",
+              "authors": [
+                "Jaffery SR",
+                "Qasim Z"
+              ],
+              "citation_count": 0,
+              "rcr": null,
+              "volume": "44",
+              "issue": "4",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/42823006/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": true,
+              "hot_score": 10.0,
+              "field": "emergency",
+              "field_label": "응급의학",
+              "abstract": "Vascular access is a key intervention in the management of critically ill emergency department patients. This can include peripheral or central venous access and intraosseous access. In combination with arterial catheterization, central venous access can provide key information to guide volume and vasoactive medication titration in isolation as well as in combination with dynamic measures of fluid responsiveness. This article will review the indications and contraindications as well as decision-making for the use of these modalities in light of the current evidence.",
+              "title_ko": ""
+            },
+            {
+              "pmid": "42823004",
+              "title": "Post-intubation Sedation and Analgesia in the Emergency Department: The Basics and Beyond.",
+              "journal": "Emergency medicine clinics of North America",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2026-03-19",
+              "authors": [
+                "Baumgartner K",
+                "Fuller BM"
+              ],
+              "citation_count": 0,
+              "rcr": null,
+              "volume": "44",
+              "issue": "4",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/42823004/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": true,
+              "hot_score": 10.0,
+              "field": "emergency",
+              "field_label": "응급의학",
+              "abstract": "Provision of postintubation sedation and analgesia is critical in emergency management of mechanically ventilated patients. Pain and sedation should be monitored using a validated scoring system, and medications titrated to a target sedation level, which should usually be light. Usually, fentanyl is the first-line analgesic and propofol is the first-line sedative. Dexmedetomidine and ketamine may be helpful in select populations, but further research is needed to define their role in the emergency department. Benzodiazepines should generally be avoided. Physicians should plan for postintubation sedation and analgesia in advance and consider using succinylcholine for intubation to avoid awareness with paralysis.",
+              "title_ko": ""
+            },
+            {
+              "pmid": "40210347",
+              "title": "The Importance of Addressing Social Drivers of Health and Unmet Social Needs in Optimizing Geriatric Emergency Care.",
+              "journal": "Emergency medicine clinics of North America",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2024-09-14",
+              "authors": [
+                "Shenvi C",
+                "Gottesman E",
+                "Rosen T"
+              ],
+              "citation_count": 1,
+              "rcr": null,
+              "volume": "43",
+              "issue": "2",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/40210347/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 6.8,
+              "field": "emergency",
+              "field_label": "응급의학",
+              "abstract": "Social factors and determinants have an immense impact on health. These \"social drivers of health\" have been broadly defined as economic and social conditions that influence the health of people and communities. Unmet social needs contribute to poor health outcomes, particularly for patients with poor access to outpatient care. Emergency departments (EDs) play a critical role in providing health care to vulnerable populations with these needs, and delivering this care is a central component of emergency medicine's public health mission. Here, the authors describe the major unmet social needs that may impact geriatric patients' care in the ED and provide some ways to address them.",
+              "title_ko": ""
+            },
+            {
+              "pmid": "40210341",
+              "title": "Frailty-aware Care in the Emergency Department.",
+              "journal": "Emergency medicine clinics of North America",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2024-09-27",
+              "authors": [
+                "Boreskie PE",
+                "Boreskie KF"
+              ],
+              "citation_count": 1,
+              "rcr": null,
+              "volume": "43",
+              "issue": "2",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/40210341/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 6.8,
+              "field": "emergency",
+              "field_label": "응급의학",
+              "abstract": "Older adults living with frailty are a growing population that will increasingly present to the emergency department (ED). This is a population that is at increased risk of adverse health outcomes and most EDs are not designed with their needs in mind. Instead of characterizing patients based on chronologic age or existing triage tools, frailty assessment offers an accurate, feasible, and patient-centered approach to improving care, and should be performed in the ED.",
+              "title_ko": ""
+            },
+            {
+              "pmid": "40210339",
+              "title": "Strategies for Improving Clinical Care of Older Adults in the Emergency Department.",
+              "journal": "Emergency medicine clinics of North America",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2024-09-25",
+              "authors": [
+                "Brousseau AA",
+                "Schonnop R",
+                "Melady D"
+              ],
+              "citation_count": 0,
+              "rcr": null,
+              "volume": "43",
+              "issue": "2",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/40210339/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 0.0,
+              "field": "emergency",
+              "field_label": "응급의학",
+              "abstract": "In the evolving landscape of emergency departments (EDs), the increasing number of older patients necessitates a paradigm shift. It is important for clinicians to have a working knowledge of geriatric syndromes, goals of care discussions, the importance of gathering collateral history, involving caregivers, assessing medication use, conducting a thorough physical examination, integrating an interdisciplinary team, ensuring basic equipment availability, and coordinating seamless transitions of care. Though nuanced, these strategies promise to enhance the quality of care for older adults in EDs.",
+              "title_ko": ""
+            }
+          ]
+        },
+        {
+          "journal": "Canadian journal of gastroenterology & hepatology",
+          "impact_factor": 1.5,
+          "index_type": "미상",
+          "quartile": "미상",
+          "paper_count": 1,
+          "top_paper": {
+            "pmid": "41328288",
+            "title": "Impact of Urgent Versus Early Endoscopy on Outcomes in Acute Upper Gastrointestinal Bleeding: A Retrospective Study.",
+            "journal": "Canadian journal of gastroenterology & hepatology",
+            "impact_factor": 1.5,
+            "index_type": "미상",
+            "quartile": "미상",
+            "pubdate": "2025-11-30",
+            "authors": [
+              "Stasik K",
+              "Ferenc K",
+              "Partyka K"
+            ],
+            "citation_count": 2,
+            "rcr": null,
+            "volume": "2025",
+            "issue": "",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/41328288/",
+            "altmetric_score": 0,
+            "altmetric_news": 0,
+            "altmetric_social": 0,
+            "is_current_issue": false,
+            "hot_score": 10.7,
+            "field": "emergency",
+            "field_label": "응급의학",
+            "abstract": "BACKGROUND AND AIMS: Acute upper gastrointestinal (UGI) bleeding from variceal and nonvariceal sources is a leading cause of morbidity and mortality. Although current international guidelines recommend performing endoscopy within 24 h of presentation, the added value of very early (\"urgent,\" < 6 h) versus \"early\" (6-24 h) endoscopy remains unclear. Therefore, this study aimed to analyze the impact of urgent versus early endoscopy on clinical outcomes. METHODS: In this retrospective cohort study, we reviewed the medical records of 599 patients admitted to the emergency or gastroenterology department who underwent UGI endoscopy. Patients were stratified by timing, urgent endoscopy within 6 h of specialist consultation and early endoscopy between 6-24 h postconsultation. The protocol was approved by the University of Rzeszów Ethics Committee and conducted in accordance with the Declaration of Helsinki. RESULTS: Compared to the early group, patients undergoing urgent endoscopy were younger (p = 0.013), predominantly male, and had higher baseline heart rates (p = 0.0371). Apart from more frequent hypertension in the early group (p = 0.0007), comorbiditiy profiles were otherwise similar. The urgent endoscopy group had longer hospital stays (6.88 vs. 5.95, p = 0.774), more frequent rebleeding within 7 days (p = 0.0213), and slightly higher 30-day all-cause mortality rates. Factors associated with poor prognosis included increases in Rockall's and GB's scores (42% and 19% higher risk per point, respectively) and the presence of active bleeding (105% higher odds). CONCLUSIONS: In unadjusted analyses, urgent endoscopy (< 6 h) was associated with worse outcomes, likely reflecting the selection of more severely ill patients. After propensity-score matching for baseline risk factors, however, the timing of endoscopy (< 6 h vs. 6-24 h) was no longer an independent predictor of outcomes. These findings suggest that clinicians' decisions and outcome differences are driven by overall severity of presentation and comorbid burden, rather than the effect of ultra-early endoscopy itself.",
+            "title_ko": ""
+          },
+          "papers": [
+            {
+              "pmid": "41328288",
+              "title": "Impact of Urgent Versus Early Endoscopy on Outcomes in Acute Upper Gastrointestinal Bleeding: A Retrospective Study.",
+              "journal": "Canadian journal of gastroenterology & hepatology",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2025-11-30",
+              "authors": [
+                "Stasik K",
+                "Ferenc K",
+                "Partyka K"
+              ],
+              "citation_count": 2,
+              "rcr": null,
+              "volume": "2025",
+              "issue": "",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/41328288/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 10.7,
+              "field": "emergency",
+              "field_label": "응급의학",
+              "abstract": "BACKGROUND AND AIMS: Acute upper gastrointestinal (UGI) bleeding from variceal and nonvariceal sources is a leading cause of morbidity and mortality. Although current international guidelines recommend performing endoscopy within 24 h of presentation, the added value of very early (\"urgent,\" < 6 h) versus \"early\" (6-24 h) endoscopy remains unclear. Therefore, this study aimed to analyze the impact of urgent versus early endoscopy on clinical outcomes. METHODS: In this retrospective cohort study, we reviewed the medical records of 599 patients admitted to the emergency or gastroenterology department who underwent UGI endoscopy. Patients were stratified by timing, urgent endoscopy within 6 h of specialist consultation and early endoscopy between 6-24 h postconsultation. The protocol was approved by the University of Rzeszów Ethics Committee and conducted in accordance with the Declaration of Helsinki. RESULTS: Compared to the early group, patients undergoing urgent endoscopy were younger (p = 0.013), predominantly male, and had higher baseline heart rates (p = 0.0371). Apart from more frequent hypertension in the early group (p = 0.0007), comorbiditiy profiles were otherwise similar. The urgent endoscopy group had longer hospital stays (6.88 vs. 5.95, p = 0.774), more frequent rebleeding within 7 days (p = 0.0213), and slightly higher 30-day all-cause mortality rates. Factors associated with poor prognosis included increases in Rockall's and GB's scores (42% and 19% higher risk per point, respectively) and the presence of active bleeding (105% higher odds). CONCLUSIONS: In unadjusted analyses, urgent endoscopy (< 6 h) was associated with worse outcomes, likely reflecting the selection of more severely ill patients. After propensity-score matching for baseline risk factors, however, the timing of endoscopy (< 6 h vs. 6-24 h) was no longer an independent predictor of outcomes. These findings suggest that clinicians' decisions and outcome differences are driven by overall severity of presentation and comorbid burden, rather than the effect of ultra-early endoscopy itself.",
+              "title_ko": ""
+            }
+          ]
         }
       ],
       "hot_topics": [
         {
           "phrase": "cardiopulmonary resuscitation",
-          "score": 75.9,
-          "paper_count": 7,
+          "score": 106.6,
+          "paper_count": 9,
           "pmids": [
             "41343612",
             "39689069",
             "39699331",
             "42912023",
+            "41386686",
+            "41432566",
             "41487620",
             "40224792",
             "39583157"
@@ -10078,34 +10296,15 @@
           ]
         },
         {
-          "phrase": "cardiac arrest",
-          "score": 66.4,
-          "paper_count": 4,
+          "phrase": "critically ill",
+          "score": 45.0,
+          "paper_count": 5,
           "pmids": [
-            "41345654",
-            "39699331",
-            "39583157",
-            "42946504"
-          ]
-        },
-        {
-          "phrase": "traumatic brain",
-          "score": 57.7,
-          "paper_count": 3,
-          "pmids": [
-            "39808542",
-            "39733294",
-            "41410885"
-          ]
-        },
-        {
-          "phrase": "brain injury",
-          "score": 57.7,
-          "paper_count": 3,
-          "pmids": [
-            "39808542",
-            "39733294",
-            "41410885"
+            "39671440",
+            "39699429",
+            "42961212",
+            "39630830",
+            "42823006"
           ]
         },
         {
@@ -10127,13 +10326,21 @@
           ]
         },
         {
-          "phrase": "trauma center",
-          "score": 43.6,
-          "paper_count": 3,
+          "phrase": "traumatic brain",
+          "score": 44.2,
+          "paper_count": 2,
           "pmids": [
-            "41380079",
-            "39668536",
-            "39648775"
+            "39808542",
+            "41410885"
+          ]
+        },
+        {
+          "phrase": "brain injury",
+          "score": 44.2,
+          "paper_count": 2,
+          "pmids": [
+            "39808542",
+            "41410885"
           ]
         },
         {
@@ -10149,15 +10356,6 @@
           ]
         },
         {
-          "phrase": "intensive unit",
-          "score": 39.2,
-          "paper_count": 2,
-          "pmids": [
-            "39787549",
-            "41370468"
-          ]
-        },
-        {
           "phrase": "ventilator-associated pneumonia",
           "score": 38.8,
           "paper_count": 2,
@@ -10167,12 +10365,31 @@
           ]
         },
         {
+          "phrase": "cardiac arrest",
+          "score": 37.5,
+          "paper_count": 3,
+          "pmids": [
+            "39699331",
+            "39583157",
+            "42946504"
+          ]
+        },
+        {
           "phrase": "first aid",
           "score": 36.4,
           "paper_count": 2,
           "pmids": [
             "39699333",
             "40224798"
+          ]
+        },
+        {
+          "phrase": "covid- triage",
+          "score": 30.3,
+          "paper_count": 2,
+          "pmids": [
+            "39689150",
+            "40561321"
           ]
         }
       ],
@@ -10189,17 +10406,8 @@
             "scores": [
               0.0,
               71.3,
-              67.9,
-              10.0
-            ]
-          },
-          {
-            "phrase": "cardiac arrest",
-            "scores": [
-              0.0,
-              37.5,
-              46.4,
-              40.0
+              61.1,
+              0.0
             ]
           },
           {
@@ -10207,17 +10415,8 @@
             "scores": [
               0.0,
               65.3,
-              31.0,
-              20.0
-            ]
-          },
-          {
-            "phrase": "first aid",
-            "scores": [
-              0.0,
-              46.4,
-              26.8,
-              0.0
+              54.9,
+              10.0
             ]
           },
           {
@@ -10225,17 +10424,35 @@
             "scores": [
               0.0,
               45.0,
-              6.8,
+              16.8,
               20.0
             ]
           },
           {
-            "phrase": "intensive unit",
+            "phrase": "cardiac arrest",
+            "scores": [
+              0.0,
+              37.5,
+              20.7,
+              20.0
+            ]
+          },
+          {
+            "phrase": "first aid",
             "scores": [
               0.0,
               36.4,
-              23.5,
-              10.0
+              26.8,
+              0.0
+            ]
+          },
+          {
+            "phrase": "trauma centre",
+            "scores": [
+              0.0,
+              20.7,
+              10.0,
+              30.0
             ]
           }
         ]
