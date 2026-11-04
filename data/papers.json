@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-03T02:12:09.767486Z",
+  "generated_at": "2026-11-04T00:32:41.891101Z",
   "window_days": 1095,
   "fields": [
     {
       "key": "preventive",
       "label": "예방의학",
-      "paper_count": 450,
+      "paper_count": 451,
       "journals": [
         {
           "journal": "Journal of neuromuscular diseases",
@@ -462,7 +462,7 @@
           "impact_factor": 1.5,
           "index_type": "미상",
           "quartile": "미상",
-          "paper_count": 4,
+          "paper_count": 5,
           "top_paper": {
             "pmid": "40015079",
             "title": "The investigation and management of recurrent early pregnancy loss: a Canadian Fertility and Andrology Society clinical practice guideline.",
@@ -547,6 +547,34 @@
               "field_label": "예방의학",
               "abstract": "RESEARCH QUESTION: Are some non-2PN zygotes normally fertilized, euploid and thus available for transfer? DESIGN: Retrospective cohort study of patient data from 1214 PGT-A cycles from a single private IVF clinic. A total of 152 non-2PN embryos were assessed by PGT-A with parent of origin assessment, and were compared with 4822 2PN embryos assessed by PGT-A. Transfer outcomes of euploid embryos were then compared. RESULTS: Over 40% of the tested non-2PN embryos were euploid. The 152 non-2PN (89 ICSI, 63 IVF), embryos were 2×0PN, 50×1PN, 24×2.1PN, 65×3PN, 9×4PN and 2×5PN. Of 4822 2PN embryos, 4737 (98.2%) were diploid, 1.4% polyploid and 0.4% haploid. Embryos resulting from 1PN zygotes were more likely to be haploid, and embryos resulting from 3PN and 4PN zygotes were more likely to be polyploid (P < 0.001). A total of 44 out of 89 (50%) ICSI embryos were either haploid or polyploid, significantly higher than those derived from IVF (16/63 [25.4%], P = 0.004). Maternal origin of polyploidy was more common in ICSI cases (P = 0.005). A total of 42% of the 93 diploid non-2PN embryos were also euploid, with diploid blastocysts from non-2PN zygotes likely to be euploid as those from diploid 2PN zygotes (P = 0.10). Twelve euploid 1PN, 2.1PN and 3PN embryos were transferred; two ongoing pregnancies and four live births have been reported. CONCLUSIONS: This approach extends the use of PGT-A in identifying more embryos available for transfer, has the potential to increase cumulative pregnancy rates and questions the value of the fertilization check.",
               "title_ko": "기존 수정 검사 재평가: 이수성에 대한 착상 전 유전자 검사를 활용하여 이전 가능한 배아의 수를 늘립니다."
+            },
+            {
+              "pmid": "39920027",
+              "title": "Influence of trophectoderm biopsy for preimplantation genetic testing in the serum level of first trimester biomarkers.",
+              "journal": "Reproductive biomedicine online",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2024-10-18",
+              "authors": [
+                "Prats P",
+                "Palacios-Verdú MG",
+                "Rodríguez-Melcón A"
+              ],
+              "citation_count": 2,
+              "rcr": 0.9739671788739122,
+              "volume": "50",
+              "issue": "3",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/39920027/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": true,
+              "hot_score": 18.0,
+              "field": "preventive",
+              "field_label": "예방의학",
+              "abstract": "RESEARCH QUESTION: Does trophectoderm biopsy for preimplantation genetic testing for aneuploidies (PGT-A) affect maternal serum first-trimester pregnancy biomarkers (pregnancy-associated plasma protein A [PAPP-A], free β-HCG and placental growth factor [PIGF])? DESIGN: Retrospective cohort study of all singleton pregnancies (n = 9794) after naturally conceived (n = 8005) IVF and fresh embryo transfers (n = 478), frozen embryo transfer of non PGT-A (FET) (n = 963) or PGT-A tested embryos (FET + PGT-A) (n = 348). Serum levels of free β-HCG and PAPP-A were measured in all women with a viable pregnancy at 8-13.6 weeks of pregnancy; PIGF was measured in 3784 women. Biomarkers were converted to a multiple of the expected normal median (MOM) for a pregnancy of the same gestational day. The medians for the multiple of the median were calculated and compared. RESULTS: Free β-HCG did not differ according to mode of conception. The PAPP-A concentrations were significantly lower in IVF and fresh embryo transfers (-0.1 Log10 MOM raw PAPP-A) compared with FET + PGT-A (-0.04 Log 10 MOM raw PAPP-A, P = 0.009) and natural conceptions (-0.0187 Log 10 MOM raw PAPP-A) (P < 0.001). The PIGF levels were significantly lower in the FET + PGTA group versus natural conception (P = 0.001). Difference in means adjusted by crown rump length was 4.6 pg/ml (95% CI 2.7 to 6.6) for natural conceptions, 3.5 pg/ml (95% CI 0.34 to 6.6) for IVF and 2.2 pg/ml (95% CI 0.06 to 4.4) for FET. CONCLUSION: Trophectoderm biopsy for PGT-A has a significant effect on first-trimester maternal serum PAPP-A and PIGF. This needs to be further validated, as it may mislead the estimation of the first-trimester risk of aneuploidies and pre-eclampsia.",
+              "title_ko": "첫 번째 임신 생체표지자의 혈청 수준에서 이식 전 유전자 검사를 위한 진피 생검의 영향."
             },
             {
               "pmid": "40024009",
@@ -1364,7 +1392,7 @@
           "impact_factor": 1.5,
           "index_type": "미상",
           "quartile": "미상",
-          "paper_count": 72,
+          "paper_count": 73,
           "top_paper": {
             "pmid": "39949340",
             "title": "Analysis of factors influencing HPV vaccination intention among Chinese college students: structural equation modeling based on health belief theory.",
@@ -4678,6 +4706,17 @@
       ],
       "hot_topics": [
         {
+          "phrase": "genetic testing",
+          "score": 63.3,
+          "paper_count": 4,
+          "pmids": [
+            "40262446",
+            "39920027",
+            "40024009",
+            "40225932"
+          ]
+        },
+        {
           "phrase": "type diabetes",
           "score": 55.5,
           "paper_count": 5,
@@ -4690,13 +4729,13 @@
           ]
         },
         {
-          "phrase": "genetic testing",
-          "score": 45.3,
+          "phrase": "preimplantation genetic",
+          "score": 53.2,
           "paper_count": 3,
           "pmids": [
             "40262446",
-            "40024009",
-            "40225932"
+            "39920027",
+            "40024009"
           ]
         },
         {
@@ -4715,15 +4754,6 @@
           "pmids": [
             "39936065",
             "40053023"
-          ]
-        },
-        {
-          "phrase": "preimplantation genetic",
-          "score": 35.2,
-          "paper_count": 2,
-          "pmids": [
-            "40262446",
-            "40024009"
           ]
         },
         {
@@ -4801,6 +4831,24 @@
         ],
         "series": [
           {
+            "phrase": "genetic testing",
+            "scores": [
+              0.0,
+              63.3,
+              0.0,
+              70.0
+            ]
+          },
+          {
+            "phrase": "preimplantation genetic",
+            "scores": [
+              0.0,
+              53.2,
+              0.0,
+              50.0
+            ]
+          },
+          {
             "phrase": "type diabetes",
             "scores": [
               0.0,
@@ -4819,30 +4867,12 @@
             ]
           },
           {
-            "phrase": "genetic testing",
-            "scores": [
-              0.0,
-              45.3,
-              0.0,
-              20.0
-            ]
-          },
-          {
             "phrase": "heart disease",
             "scores": [
               0.0,
               15.1,
               37.6,
               0.0
-            ]
-          },
-          {
-            "phrase": "diabetic retinopathy",
-            "scores": [
-              0.0,
-              21.8,
-              20.1,
-              10.0
             ]
           },
           {
@@ -4860,7 +4890,7 @@
     {
       "key": "emergency",
       "label": "응급의학",
-      "paper_count": 449,
+      "paper_count": 447,
       "journals": [
         {
           "journal": "Resuscitation",
@@ -5192,7 +5222,7 @@
           "impact_factor": 1.5,
           "index_type": "미상",
           "quartile": "미상",
-          "paper_count": 52,
+          "paper_count": 51,
           "top_paper": {
             "pmid": "39642139",
             "title": "A machine learning-based risk score for prediction of mechanical ventilation in children with dengue shock syndrome: A retrospective cohort study.",
@@ -5545,7 +5575,7 @@
             "field": "emergency",
             "field_label": "응급의학",
             "abstract": "OBJECTIVE: Continuity of primary care reduces costs and hospitalizations over 1-year periods, but its long-term effects remain unclear, a key concern for value-based payment. We examined associations between physician-level continuity and health care expenditures/utilization across single- and multi-year measurement periods. DESIGN: Retrospective cohort study using 2011 to 2017 Medicare Fee-for-Service (FFS) claims. We constructed physician-level continuity measures over 1- to 5-year lookback periods. Generalized linear models estimated associations with total Medicare Part A & B expenditures, and logit models assessed hospitalization and emergency department (ED) visits, adjusting for patient and physician characteristics. SETTING & PARTICIPANTS: Nationally representative sample of 4,940 primary care practices, including 1.1 to 2.5 million Medicare FFS beneficiaries seen by 6,758-14,949 physicians. RESULTS: Beneficiaries in the highest continuity quintile had 7.4%-10.4% lower total expenditures than those in the lowest quintile, with the greatest difference in the 1-year lookback. Hospitalization and ED visit odds were 5.5%-8.6% and 4.9%-6.3% lower, respectively, for high-continuity physicians. Effects attenuated slightly with longer lookbacks. CONCLUSION: Physician continuity is consistently associated with lower costs, hospitalizations, and ED visits across lookback periods. Given this stability and the complexity of multi-year claims measurement, a 1-year assessment may be sufficient for physician continuity evaluation and value-based payment programs.",
-            "title_ko": "일차 진료 의사의 연속성은 낮은 비용 및 입원과 관련된 일관된 조치입니다."
+            "title_ko": ""
           },
           "papers": [
             {
@@ -5574,127 +5604,6 @@
               "field": "emergency",
               "field_label": "응급의학",
               "abstract": "OBJECTIVE: Continuity of primary care reduces costs and hospitalizations over 1-year periods, but its long-term effects remain unclear, a key concern for value-based payment. We examined associations between physician-level continuity and health care expenditures/utilization across single- and multi-year measurement periods. DESIGN: Retrospective cohort study using 2011 to 2017 Medicare Fee-for-Service (FFS) claims. We constructed physician-level continuity measures over 1- to 5-year lookback periods. Generalized linear models estimated associations with total Medicare Part A & B expenditures, and logit models assessed hospitalization and emergency department (ED) visits, adjusting for patient and physician characteristics. SETTING & PARTICIPANTS: Nationally representative sample of 4,940 primary care practices, including 1.1 to 2.5 million Medicare FFS beneficiaries seen by 6,758-14,949 physicians. RESULTS: Beneficiaries in the highest continuity quintile had 7.4%-10.4% lower total expenditures than those in the lowest quintile, with the greatest difference in the 1-year lookback. Hospitalization and ED visit odds were 5.5%-8.6% and 4.9%-6.3% lower, respectively, for high-continuity physicians. Effects attenuated slightly with longer lookbacks. CONCLUSION: Physician continuity is consistently associated with lower costs, hospitalizations, and ED visits across lookback periods. Given this stability and the complexity of multi-year claims measurement, a 1-year assessment may be sufficient for physician continuity evaluation and value-based payment programs.",
-              "title_ko": "일차 진료 의사의 연속성은 낮은 비용 및 입원과 관련된 일관된 조치입니다."
-            }
-          ]
-        },
-        {
-          "journal": "The journal of trauma and acute care surgery",
-          "impact_factor": 1.5,
-          "index_type": "미상",
-          "quartile": "미상",
-          "paper_count": 3,
-          "top_paper": {
-            "pmid": "41589734",
-            "title": "Do not forget the cryoprecipitate: The impact of the 2019 Joint Trauma System Damage Control Resuscitation Clinical Practice Guideline on mortality.",
-            "journal": "The journal of trauma and acute care surgery",
-            "impact_factor": 1.5,
-            "index_type": "미상",
-            "quartile": "미상",
-            "pubdate": "2025-01-09",
-            "authors": [
-              "Hynes AM",
-              "Cannon JW",
-              "Yan R"
-            ],
-            "citation_count": 4,
-            "rcr": null,
-            "volume": "100",
-            "issue": "2",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/41589734/",
-            "altmetric_score": 0,
-            "altmetric_news": 0,
-            "altmetric_social": 0,
-            "is_current_issue": true,
-            "hot_score": 25.3,
-            "field": "emergency",
-            "field_label": "응급의학",
-            "abstract": "BACKGROUND: The benefit of transfusion of fresh frozen plasma (FFP) and platelets in a 1:1 ratio with packed red blood cells (PRBCs) is well established; however, the benefit of a particular ratio of cryoprecipitate to PRBC is not. The Joint Trauma System updated its 2019 Damage Control Resuscitation Guideline by recommending empiric 1:1 cryoprecipitate/PRBCs. We hypothesized that patients receiving product within the cryoprecipitate/PRBC guideline range (high ratio) would have an associated reduction in mortality. METHODS: We included adult patients in the Trauma Quality Improvement Program data registry (2013-2021) who received at least 5 U of PRBCs and 1 U of FFP within 4 hours. Death within 30 minutes, nonsurvivable injury patterns, preexisting coagulopathy, advanced directives, transfers, and burns were excluded. Patients were partitioned into high (≥1:1), medium (≥1:2 to <1:1), and low (<1:2) cryoprecipitate/PRBC ratios. Treatment effects were estimated with propensity score-weighted risk adjustment models, clustering by center. The primary outcome was 6-hour mortality. Secondary outcomes included 24-hour and inpatient mortality. Adjusting for FFP, platelets, and whole blood was included as a sensitivity analysis. RESULTS: A total of 49,301 patients (high, 5,284; medium, 3,630; low, 40,387) were included. The mean age was 39, 79% were male, 58% suffered blunt trauma, and the mean Injury Severity Score was 29. Unadjusted 6-hour mortality was 11.8%, 18.8%, and 21.3% for high, medium, and low ratios. High ratio was protective as compared with low at 6 hour (adjusted odds ratio [aOR], 0.52; 95% confidence interval [CI], 0.45-0.58) and 24 hours (aOR, 0.74; 95% CI, 0.67-0.82), and medium ratio was protective as compared with low ratio at 6 hours (aOR, 0.78; 95% CI, 0.70-0.87). Blood product sensitivity analysis demonstrated that high and medium ratios were protective of 6-hour, 24-hour, and inpatient mortality. CONCLUSION: High cryoprecipitate ratios were independently associated with decreased mortality in massively transfused civilian trauma patients during the first 24 hours. Future prospective multicenter randomized trials are warranted. LEVEL OF EVIDENCE: Prognostic and Epidemiological; Level III.",
-            "title_ko": ""
-          },
-          "papers": [
-            {
-              "pmid": "41589734",
-              "title": "Do not forget the cryoprecipitate: The impact of the 2019 Joint Trauma System Damage Control Resuscitation Clinical Practice Guideline on mortality.",
-              "journal": "The journal of trauma and acute care surgery",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2025-01-09",
-              "authors": [
-                "Hynes AM",
-                "Cannon JW",
-                "Yan R"
-              ],
-              "citation_count": 4,
-              "rcr": null,
-              "volume": "100",
-              "issue": "2",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/41589734/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": true,
-              "hot_score": 25.3,
-              "field": "emergency",
-              "field_label": "응급의학",
-              "abstract": "BACKGROUND: The benefit of transfusion of fresh frozen plasma (FFP) and platelets in a 1:1 ratio with packed red blood cells (PRBCs) is well established; however, the benefit of a particular ratio of cryoprecipitate to PRBC is not. The Joint Trauma System updated its 2019 Damage Control Resuscitation Guideline by recommending empiric 1:1 cryoprecipitate/PRBCs. We hypothesized that patients receiving product within the cryoprecipitate/PRBC guideline range (high ratio) would have an associated reduction in mortality. METHODS: We included adult patients in the Trauma Quality Improvement Program data registry (2013-2021) who received at least 5 U of PRBCs and 1 U of FFP within 4 hours. Death within 30 minutes, nonsurvivable injury patterns, preexisting coagulopathy, advanced directives, transfers, and burns were excluded. Patients were partitioned into high (≥1:1), medium (≥1:2 to <1:1), and low (<1:2) cryoprecipitate/PRBC ratios. Treatment effects were estimated with propensity score-weighted risk adjustment models, clustering by center. The primary outcome was 6-hour mortality. Secondary outcomes included 24-hour and inpatient mortality. Adjusting for FFP, platelets, and whole blood was included as a sensitivity analysis. RESULTS: A total of 49,301 patients (high, 5,284; medium, 3,630; low, 40,387) were included. The mean age was 39, 79% were male, 58% suffered blunt trauma, and the mean Injury Severity Score was 29. Unadjusted 6-hour mortality was 11.8%, 18.8%, and 21.3% for high, medium, and low ratios. High ratio was protective as compared with low at 6 hour (adjusted odds ratio [aOR], 0.52; 95% confidence interval [CI], 0.45-0.58) and 24 hours (aOR, 0.74; 95% CI, 0.67-0.82), and medium ratio was protective as compared with low ratio at 6 hours (aOR, 0.78; 95% CI, 0.70-0.87). Blood product sensitivity analysis demonstrated that high and medium ratios were protective of 6-hour, 24-hour, and inpatient mortality. CONCLUSION: High cryoprecipitate ratios were independently associated with decreased mortality in massively transfused civilian trauma patients during the first 24 hours. Future prospective multicenter randomized trials are warranted. LEVEL OF EVIDENCE: Prognostic and Epidemiological; Level III.",
-              "title_ko": ""
-            },
-            {
-              "pmid": "39787574",
-              "title": "Analysis of time to regulatory approval in an exception from informed consent trial in trauma patients.",
-              "journal": "The journal of trauma and acute care surgery",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2024-10-23",
-              "authors": [
-                "Stephens SW",
-                "Carroll-Ledbetter CR",
-                "Duckert S"
-              ],
-              "citation_count": 5,
-              "rcr": 3.334165688628834,
-              "volume": "98",
-              "issue": "3",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/39787574/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": false,
-              "hot_score": 17.1,
-              "field": "emergency",
-              "field_label": "응급의학",
-              "abstract": "BACKGROUND: The interactive media-based approach to community consultation and public disclosure (CC/PD), a key step when conducting exception from informed consent (EFIC) clinical trials, is intended to be completed in 4 months. This analysis characterizes the process, from initiation of CC/PD activities to institutional review board approval, to better understand the barriers and how these can be mitigated. METHODS: This is a retrospective post hoc analysis of data collected as part of the CC/PD campaigns conducted for a large trial involving up to 90 trauma centers in the United States. Each site was provided with templated materials that had been reviewed and approved by a central institutional review board (cIRB). We collected the dates of milestones, including the study \"kickoff call,\" start of the social media campaign, dates of online community meetings, date of submission of site report to the cIRB, and cIRB approval date. RESULTS: Sixty-two sites were cIRB approved at the time of this analysis. The median time from the kickoff call to the start of the social media campaign was 79 days, with an interquartile range of 33 to 126 days (range, 0-285 days). All social media campaigns ran for the prescribed period of at least 2 months. All sites conducted at least four online community meetings. The median number of days from the kickoff call to cIRB approval was 216 days (interquartile range, 168-281 days; range, 116-459 days). There was no significant difference between sites that had previous experience of EFIC trials. CONCLUSION: Using the interactive media-based approach, CC/PD can be completed quickly; however, there are barriers that can incur substantial delays. Greater harmonization of local administrative processes would shorten the time to conduct CC/PD activities and facilitate the timely commencement and execution of EFIC trials. LEVEL OF EVIDENCE: Prognostic and Epidemiological; Level IV.",
-              "title_ko": ""
-            },
-            {
-              "pmid": "40608534",
-              "title": "The impact of transfusion kinetics on the inflammatory response following major injury.",
-              "journal": "The journal of trauma and acute care surgery",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2024-05-27",
-              "authors": [
-                "Carney PR",
-                "Zarzaur BL",
-                "Holcomb JB"
-              ],
-              "citation_count": 3,
-              "rcr": 0.7389388417572936,
-              "volume": "97",
-              "issue": "6",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/40608534/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": false,
-              "hot_score": 13.2,
-              "field": "emergency",
-              "field_label": "응급의학",
-              "abstract": "BACKGROUND: The innate immune response is activated by tissue injury and may quickly become dysregulated in the setting of major trauma. Cytokines are a key component of this response and function to activate and mobilize neutrophils, macrophages, and natural killer cells. The purpose of this study was to understand how the kinetics of blood-based resuscitation may impact the cytokine response. Specifically, we hypothesize that transfusion kinetics make a fundamental contribution to the inflammatory response, beyond the volume of transfusion and injury severity. METHODS: The Pragmatic, Randomized Optimal Platelet and Plasma Ratio data set was used in this retrospective analysis. Transfusion kinetics were quantified by calculating the total critical administration threshold episodes in three time periods, 1 to 2 hours following injury, 3 to 4 hours, and 5 to 6 hours following injury. The longitudinal response of key cytokines over 72 hours was assessed with a multivariable linear growth model, using critical administration threshold status as a time-varying covariate. RESULTS: A total of 522 patients were included in this analysis. Pro-inflammatory cytokines interleukin (IL)-6 (p = 0.0354) and IL-8 (p < 0.0001) were significantly increased. Anti-inflammatory cytokines IL-1ra (p = 0.0001) and IL-10 (p < 0.0001) were significantly increased. Chemokines interferon-γ-inducible protein 10 (p = 0.0433), monocyte chemoattractant protein-1 (p = 0.0064), and macrophage inflammatory protein 1β (p = 0.0003) were significantly increased, while regulated up activation, normal T-cell expressed and secreted chemokine (p = 0.0216) was significantly decreased. Growth factors showed no significant response. CONCLUSION: The kinetics of packed red blood cell transfusion demonstrate a potential association with the expression of cytokines following injury, beyond the total transfusion requirement or the severity of injury. Because cytokines activate and mobilize neutrophils, macrophages, and natural killer cells, these alterations may have a profound effect on degree and coordination of the immune response. As the contribution of various components of major resuscitation to inflammatory activation is clarified, such as types of blood product, tempo of transfusion, and operative care, targets for intervention should become more apparent. LEVEL OF EVIDENCE: Therapeutic/Care Management; Level III.",
               "title_ko": ""
             }
           ]
@@ -5704,7 +5613,7 @@
           "impact_factor": 1.5,
           "index_type": "미상",
           "quartile": "미상",
-          "paper_count": 37,
+          "paper_count": 38,
           "top_paper": {
             "pmid": "39947973",
             "title": "Promethazine: A Review of Therapeutic Uses and Toxicity.",
@@ -5954,6 +5863,155 @@
               "field": "emergency",
               "field_label": "응급의학",
               "abstract": "BACKGROUND: Gastrointestinal bleeding (GIB) is a common condition in the emergency department (ED) with high incidence and mortality. OBJECTIVES: Very early risk stratification of GIB patients can sometimes be a challenge. The decision to intubate these patients is multifactorial and requires careful consideration. DISCUSSION: Gastric ultrasound (GUS) is an adjunct tool that may help make such decisions and is supported by anesthesiology society guidelines to assess aspiration risk. CONCLUSION: In this manuscript, we present a case series of ED patients with upper GIB in whom emergency physicians (2 fellowship-trained attendings and 2 senior residents facile with point-of-care ultrasound) performed GUS. As a supplement to the clinical examination, this sonographic \"lavage\" (i.e., using GUS in patients with upper GIB) helped predict aspiration risk, support diagnostic reasoning, and expedite early goal-directed management and appropriate disposition. We also provide a step-by-step tutorial using high-quality media, as well as a novel algorithm for translation of this technique to the bedside for emergency physicians.",
+              "title_ko": ""
+            }
+          ]
+        },
+        {
+          "journal": "The journal of trauma and acute care surgery",
+          "impact_factor": 1.5,
+          "index_type": "미상",
+          "quartile": "미상",
+          "paper_count": 4,
+          "top_paper": {
+            "pmid": "41417726",
+            "title": "Resuscitative thoracotomy: What you need to know.",
+            "journal": "The journal of trauma and acute care surgery",
+            "impact_factor": 1.5,
+            "index_type": "미상",
+            "quartile": "미상",
+            "pubdate": "2025-11-05",
+            "authors": [
+              "Dewey MG",
+              "Moore EE",
+              "Sauaia A"
+            ],
+            "citation_count": 3,
+            "rcr": null,
+            "volume": "100",
+            "issue": "2",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/41417726/",
+            "altmetric_score": 0,
+            "altmetric_news": 0,
+            "altmetric_social": 0,
+            "is_current_issue": true,
+            "hot_score": 23.2,
+            "field": "emergency",
+            "field_label": "응급의학",
+            "abstract": "Resuscitative thoracotomy (RT) is a time-critical procedure performed in the setting of traumatic cardiac arrest, primarily to address cardiac tamponade, control intrathoracic bleeding, and reduce infradiaphragmatic blood loss. Advances in trauma care have refined the indications and improved the outcomes of RT in select patient populations. This review focuses on current techniques, indications, outcomes, and future directions. The physiologic objectives are to release pericardial tamponade, repair cardiac injuries, control intrathoracic hemorrhage, perform open cardiac massage, and provide access for aortic cross-clamping and hilar clamping for control of bronchovenous air embolism. Resuscitative thoracotomy is indicated for profound hypotension (systolic blood pressure, <60 mm Hg) or patients with a traumatic cardiac arrest who have required less than 15 minutes of cardiopulmonary resuscitation. Patients with penetrating trauma in extremis, especially with cardiac tamponade, have improved survival with RT (>15%) compared with patients with blunt trauma with RT (<2%). Future directions include refining the indications of RT with the advent of resuscitative endovascular balloon occlusion of the aorta (REBOA), defining futility, establishing the role of extracorporeal membrane oxygenation (ECMO), suspended animation, and evaluating the role of RT in patients who will become organ donors. This review aims to provide an up-to-date, evidence-based overview of RT to guide trauma providers in optimizing patient selection, procedural technique, and informed decision making regarding patient outcomes.",
+            "title_ko": ""
+          },
+          "papers": [
+            {
+              "pmid": "41417726",
+              "title": "Resuscitative thoracotomy: What you need to know.",
+              "journal": "The journal of trauma and acute care surgery",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2025-11-05",
+              "authors": [
+                "Dewey MG",
+                "Moore EE",
+                "Sauaia A"
+              ],
+              "citation_count": 3,
+              "rcr": null,
+              "volume": "100",
+              "issue": "2",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/41417726/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": true,
+              "hot_score": 23.2,
+              "field": "emergency",
+              "field_label": "응급의학",
+              "abstract": "Resuscitative thoracotomy (RT) is a time-critical procedure performed in the setting of traumatic cardiac arrest, primarily to address cardiac tamponade, control intrathoracic bleeding, and reduce infradiaphragmatic blood loss. Advances in trauma care have refined the indications and improved the outcomes of RT in select patient populations. This review focuses on current techniques, indications, outcomes, and future directions. The physiologic objectives are to release pericardial tamponade, repair cardiac injuries, control intrathoracic hemorrhage, perform open cardiac massage, and provide access for aortic cross-clamping and hilar clamping for control of bronchovenous air embolism. Resuscitative thoracotomy is indicated for profound hypotension (systolic blood pressure, <60 mm Hg) or patients with a traumatic cardiac arrest who have required less than 15 minutes of cardiopulmonary resuscitation. Patients with penetrating trauma in extremis, especially with cardiac tamponade, have improved survival with RT (>15%) compared with patients with blunt trauma with RT (<2%). Future directions include refining the indications of RT with the advent of resuscitative endovascular balloon occlusion of the aorta (REBOA), defining futility, establishing the role of extracorporeal membrane oxygenation (ECMO), suspended animation, and evaluating the role of RT in patients who will become organ donors. This review aims to provide an up-to-date, evidence-based overview of RT to guide trauma providers in optimizing patient selection, procedural technique, and informed decision making regarding patient outcomes.",
+              "title_ko": ""
+            },
+            {
+              "pmid": "39787574",
+              "title": "Analysis of time to regulatory approval in an exception from informed consent trial in trauma patients.",
+              "journal": "The journal of trauma and acute care surgery",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2024-10-23",
+              "authors": [
+                "Stephens SW",
+                "Carroll-Ledbetter CR",
+                "Duckert S"
+              ],
+              "citation_count": 5,
+              "rcr": 3.334165688628834,
+              "volume": "98",
+              "issue": "3",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/39787574/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 17.1,
+              "field": "emergency",
+              "field_label": "응급의학",
+              "abstract": "BACKGROUND: The interactive media-based approach to community consultation and public disclosure (CC/PD), a key step when conducting exception from informed consent (EFIC) clinical trials, is intended to be completed in 4 months. This analysis characterizes the process, from initiation of CC/PD activities to institutional review board approval, to better understand the barriers and how these can be mitigated. METHODS: This is a retrospective post hoc analysis of data collected as part of the CC/PD campaigns conducted for a large trial involving up to 90 trauma centers in the United States. Each site was provided with templated materials that had been reviewed and approved by a central institutional review board (cIRB). We collected the dates of milestones, including the study \"kickoff call,\" start of the social media campaign, dates of online community meetings, date of submission of site report to the cIRB, and cIRB approval date. RESULTS: Sixty-two sites were cIRB approved at the time of this analysis. The median time from the kickoff call to the start of the social media campaign was 79 days, with an interquartile range of 33 to 126 days (range, 0-285 days). All social media campaigns ran for the prescribed period of at least 2 months. All sites conducted at least four online community meetings. The median number of days from the kickoff call to cIRB approval was 216 days (interquartile range, 168-281 days; range, 116-459 days). There was no significant difference between sites that had previous experience of EFIC trials. CONCLUSION: Using the interactive media-based approach, CC/PD can be completed quickly; however, there are barriers that can incur substantial delays. Greater harmonization of local administrative processes would shorten the time to conduct CC/PD activities and facilitate the timely commencement and execution of EFIC trials. LEVEL OF EVIDENCE: Prognostic and Epidemiological; Level IV.",
+              "title_ko": ""
+            },
+            {
+              "pmid": "41589734",
+              "title": "Do not forget the cryoprecipitate: The impact of the 2019 Joint Trauma System Damage Control Resuscitation Clinical Practice Guideline on mortality.",
+              "journal": "The journal of trauma and acute care surgery",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2025-01-09",
+              "authors": [
+                "Hynes AM",
+                "Cannon JW",
+                "Yan R"
+              ],
+              "citation_count": 4,
+              "rcr": null,
+              "volume": "100",
+              "issue": "2",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/41589734/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 15.3,
+              "field": "emergency",
+              "field_label": "응급의학",
+              "abstract": "BACKGROUND: The benefit of transfusion of fresh frozen plasma (FFP) and platelets in a 1:1 ratio with packed red blood cells (PRBCs) is well established; however, the benefit of a particular ratio of cryoprecipitate to PRBC is not. The Joint Trauma System updated its 2019 Damage Control Resuscitation Guideline by recommending empiric 1:1 cryoprecipitate/PRBCs. We hypothesized that patients receiving product within the cryoprecipitate/PRBC guideline range (high ratio) would have an associated reduction in mortality. METHODS: We included adult patients in the Trauma Quality Improvement Program data registry (2013-2021) who received at least 5 U of PRBCs and 1 U of FFP within 4 hours. Death within 30 minutes, nonsurvivable injury patterns, preexisting coagulopathy, advanced directives, transfers, and burns were excluded. Patients were partitioned into high (≥1:1), medium (≥1:2 to <1:1), and low (<1:2) cryoprecipitate/PRBC ratios. Treatment effects were estimated with propensity score-weighted risk adjustment models, clustering by center. The primary outcome was 6-hour mortality. Secondary outcomes included 24-hour and inpatient mortality. Adjusting for FFP, platelets, and whole blood was included as a sensitivity analysis. RESULTS: A total of 49,301 patients (high, 5,284; medium, 3,630; low, 40,387) were included. The mean age was 39, 79% were male, 58% suffered blunt trauma, and the mean Injury Severity Score was 29. Unadjusted 6-hour mortality was 11.8%, 18.8%, and 21.3% for high, medium, and low ratios. High ratio was protective as compared with low at 6 hour (adjusted odds ratio [aOR], 0.52; 95% confidence interval [CI], 0.45-0.58) and 24 hours (aOR, 0.74; 95% CI, 0.67-0.82), and medium ratio was protective as compared with low ratio at 6 hours (aOR, 0.78; 95% CI, 0.70-0.87). Blood product sensitivity analysis demonstrated that high and medium ratios were protective of 6-hour, 24-hour, and inpatient mortality. CONCLUSION: High cryoprecipitate ratios were independently associated with decreased mortality in massively transfused civilian trauma patients during the first 24 hours. Future prospective multicenter randomized trials are warranted. LEVEL OF EVIDENCE: Prognostic and Epidemiological; Level III.",
+              "title_ko": ""
+            },
+            {
+              "pmid": "40608534",
+              "title": "The impact of transfusion kinetics on the inflammatory response following major injury.",
+              "journal": "The journal of trauma and acute care surgery",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2024-05-27",
+              "authors": [
+                "Carney PR",
+                "Zarzaur BL",
+                "Holcomb JB"
+              ],
+              "citation_count": 3,
+              "rcr": 0.7389388417572936,
+              "volume": "97",
+              "issue": "6",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/40608534/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 13.2,
+              "field": "emergency",
+              "field_label": "응급의학",
+              "abstract": "BACKGROUND: The innate immune response is activated by tissue injury and may quickly become dysregulated in the setting of major trauma. Cytokines are a key component of this response and function to activate and mobilize neutrophils, macrophages, and natural killer cells. The purpose of this study was to understand how the kinetics of blood-based resuscitation may impact the cytokine response. Specifically, we hypothesize that transfusion kinetics make a fundamental contribution to the inflammatory response, beyond the volume of transfusion and injury severity. METHODS: The Pragmatic, Randomized Optimal Platelet and Plasma Ratio data set was used in this retrospective analysis. Transfusion kinetics were quantified by calculating the total critical administration threshold episodes in three time periods, 1 to 2 hours following injury, 3 to 4 hours, and 5 to 6 hours following injury. The longitudinal response of key cytokines over 72 hours was assessed with a multivariable linear growth model, using critical administration threshold status as a time-varying covariate. RESULTS: A total of 522 patients were included in this analysis. Pro-inflammatory cytokines interleukin (IL)-6 (p = 0.0354) and IL-8 (p < 0.0001) were significantly increased. Anti-inflammatory cytokines IL-1ra (p = 0.0001) and IL-10 (p < 0.0001) were significantly increased. Chemokines interferon-γ-inducible protein 10 (p = 0.0433), monocyte chemoattractant protein-1 (p = 0.0064), and macrophage inflammatory protein 1β (p = 0.0003) were significantly increased, while regulated up activation, normal T-cell expressed and secreted chemokine (p = 0.0216) was significantly decreased. Growth factors showed no significant response. CONCLUSION: The kinetics of packed red blood cell transfusion demonstrate a potential association with the expression of cytokines following injury, beyond the total transfusion requirement or the severity of injury. Because cytokines activate and mobilize neutrophils, macrophages, and natural killer cells, these alterations may have a profound effect on degree and coordination of the immune response. As the contribution of various components of major resuscitation to inflammatory activation is clarified, such as types of blood product, tempo of transfusion, and operative care, targets for intervention should become more apparent. LEVEL OF EVIDENCE: Therapeutic/Care Management; Level III.",
               "title_ko": ""
             }
           ]
@@ -6940,7 +6998,7 @@
           "impact_factor": 1.5,
           "index_type": "미상",
           "quartile": "미상",
-          "paper_count": 34,
+          "paper_count": 35,
           "top_paper": {
             "pmid": "39872099",
             "title": "Addressing the overuse of hospital emergency departments in the Portuguese NHS: a new paradigm.",
@@ -8592,71 +8650,6 @@
               "field": "emergency",
               "field_label": "응급의학",
               "abstract": "BACKGROUND: Emergency department (ED) encounters are often the only healthcare provider encounter for patients seeking care after a reported sexual assault (SA), making the encounter a crucial opportunity to connect patients to support services in the community. An opportunity existed at an urban Level II trauma center to standardize SA discharge planning. AIMS: This quality improvement project aimed to improve access to SA support services. METHODS: The Model for Improvement guided two plan-do-study-act (PDSA) cycles. Implementation included (a) creation of a QR-code-accessible SA resource website, (b) ED standardized patient print and electronic medical record after-visit summaries with follow-up guidelines and the QR code, (c) ED staff education, and (d) a community stakeholder survey to assess facilitators and barriers to support services. RESULTS: During the first PDSA cycle, 19 reported SA survivors were seen in the ED (18 adult, one pediatric) and 14 SA resource website visits. During the second PDSA cycle, 13 reported SA survivors (10 adult, three pediatric) were seen in the ED and 29 website visits. Stakeholder survey data revealed barriers to support services were transportation, overloaded support services, and survivor knowledge of existing services. CONCLUSION: The QR code intervention model is a discrete method of improving access to resources and is applicable to other vulnerable populations. The multiagency SA response team will utilize partner survey data to improve access to community resources such as housing and transportation.",
-              "title_ko": ""
-            }
-          ]
-        },
-        {
-          "journal": "Acta clinica Belgica",
-          "impact_factor": 1.5,
-          "index_type": "미상",
-          "quartile": "미상",
-          "paper_count": 1,
-          "top_paper": {
-            "pmid": "39750032",
-            "title": "Prevalence and risk factors of antibiotic resistance for urinary tract infections in patients presenting to a Belgian tertiary care emergency department: testing the national guidelines against the local setting.",
-            "journal": "Acta clinica Belgica",
-            "impact_factor": 1.5,
-            "index_type": "미상",
-            "quartile": "미상",
-            "pubdate": "2025-01-03",
-            "authors": [
-              "Schmitz L",
-              "Yepiskoposyan L",
-              "Bouteille A"
-            ],
-            "citation_count": 1,
-            "rcr": 0.645545725321549,
-            "volume": "79",
-            "issue": "5",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/39750032/",
-            "altmetric_score": 0,
-            "altmetric_news": 0,
-            "altmetric_social": 0,
-            "is_current_issue": true,
-            "hot_score": 16.6,
-            "field": "emergency",
-            "field_label": "응급의학",
-            "abstract": "OBJECTIVES: Urinary tract infections (UTIs) are an important cause of empiric antibiotic (over)treatment at the emergency department (ED). To enhance empiric antibiotic choices, mapping the national and local microbiology and antimicrobial resistance (AMR) patterns is crucial. This study aims to examine resistance patterns at a Brussels ED and to identify risk factors for AMR to evaluate current treatment guidelines and help combat AMR. METHODS: Adult patients undergoing urinalysis at the ED of a Brussels tertiary care hospital with positive urine cultures were included. Descriptive microbiological mapping of UTI or asymptomatic bacteriuria (ASB) micro-organisms was performed. Potential risk factors of antibiotic resistance in Gram-negative bacteria were assessed by using logistic regression analysis. RESULTS: Out of 96 patients with Gram-negative bacteria in urinary culture, the predominant uropathogen was Escherichia coli (58.3%), with 8.6% being extended spectrum beta-lactamase (ESBL)-producing strains. Overall, fosfomycin (29.2%) and nitrofurantoin (28.6%) showed the highest resistance rates. Ceftriaxone revealed lower resistance rates (13.1%) compared to ciprofloxacin (17.0%) and cefuroxime (18.4%). Temocillin exhibited the lowest resistance rate (8.2%) especially against ESBLs (0%). Ciprofloxacin resistance increased with age (OR 1.05 [1.01-1.10]) and recurrent UTIs (OR 4.79 [1.18-19.42]). Male gender was associated with higher odds of temocillin resistance (OR 5.79 [1.18-28.34]). CONCLUSION: In the studied Belgian ED setting, ceftriaxone seems slightly safer than ciprofloxacin, especially for recurrent UTI patients. However, overall, and especially in patients at risk for ESBL-producing bacteria, temocillin would be an even better choice in our setting. National microbiological data should be reviewed to support recommending temocillin as a first-line antibiotic in patients presenting with upper UTI.",
-            "title_ko": ""
-          },
-          "papers": [
-            {
-              "pmid": "39750032",
-              "title": "Prevalence and risk factors of antibiotic resistance for urinary tract infections in patients presenting to a Belgian tertiary care emergency department: testing the national guidelines against the local setting.",
-              "journal": "Acta clinica Belgica",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2025-01-03",
-              "authors": [
-                "Schmitz L",
-                "Yepiskoposyan L",
-                "Bouteille A"
-              ],
-              "citation_count": 1,
-              "rcr": 0.645545725321549,
-              "volume": "79",
-              "issue": "5",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/39750032/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": true,
-              "hot_score": 16.6,
-              "field": "emergency",
-              "field_label": "응급의학",
-              "abstract": "OBJECTIVES: Urinary tract infections (UTIs) are an important cause of empiric antibiotic (over)treatment at the emergency department (ED). To enhance empiric antibiotic choices, mapping the national and local microbiology and antimicrobial resistance (AMR) patterns is crucial. This study aims to examine resistance patterns at a Brussels ED and to identify risk factors for AMR to evaluate current treatment guidelines and help combat AMR. METHODS: Adult patients undergoing urinalysis at the ED of a Brussels tertiary care hospital with positive urine cultures were included. Descriptive microbiological mapping of UTI or asymptomatic bacteriuria (ASB) micro-organisms was performed. Potential risk factors of antibiotic resistance in Gram-negative bacteria were assessed by using logistic regression analysis. RESULTS: Out of 96 patients with Gram-negative bacteria in urinary culture, the predominant uropathogen was Escherichia coli (58.3%), with 8.6% being extended spectrum beta-lactamase (ESBL)-producing strains. Overall, fosfomycin (29.2%) and nitrofurantoin (28.6%) showed the highest resistance rates. Ceftriaxone revealed lower resistance rates (13.1%) compared to ciprofloxacin (17.0%) and cefuroxime (18.4%). Temocillin exhibited the lowest resistance rate (8.2%) especially against ESBLs (0%). Ciprofloxacin resistance increased with age (OR 1.05 [1.01-1.10]) and recurrent UTIs (OR 4.79 [1.18-19.42]). Male gender was associated with higher odds of temocillin resistance (OR 5.79 [1.18-28.34]). CONCLUSION: In the studied Belgian ED setting, ceftriaxone seems slightly safer than ciprofloxacin, especially for recurrent UTI patients. However, overall, and especially in patients at risk for ESBL-producing bacteria, temocillin would be an even better choice in our setting. National microbiological data should be reviewed to support recommending temocillin as a first-line antibiotic in patients presenting with upper UTI.",
               "title_ko": ""
             }
           ]
@@ -10316,6 +10309,267 @@
               "title_ko": ""
             }
           ]
+        },
+        {
+          "journal": "La Tunisie medicale",
+          "impact_factor": 1.5,
+          "index_type": "미상",
+          "quartile": "미상",
+          "paper_count": 8,
+          "top_paper": {
+            "pmid": "41712787",
+            "title": "Acute Carbon Monoxide Poisoning in the Emergency Department: A Descriptive Study of 660 Cases in Tunisia.",
+            "journal": "La Tunisie medicale",
+            "impact_factor": 1.5,
+            "index_type": "미상",
+            "quartile": "미상",
+            "pubdate": "2025-05-05",
+            "authors": [
+              "Khelifa S",
+              "Kilani M",
+              "Jeddi C"
+            ],
+            "citation_count": 2,
+            "rcr": 1.4735700745622784,
+            "volume": "103",
+            "issue": "5",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/41712787/",
+            "altmetric_score": 0,
+            "altmetric_news": 0,
+            "altmetric_social": 0,
+            "is_current_issue": false,
+            "hot_score": 10.5,
+            "field": "emergency",
+            "field_label": "응급의학",
+            "abstract": "INTRODUCTION: Carbon monoxide (CO) poisoning is a frequent and potentially fatal medical emergency, accounting for significant global morbidity and mortality. AIM: This study aims to determine the epidemiological and clinical characteristics of patients presenting to the emergency department (ED) with acute CO poisoning in Tunisia. METHODS: A retrospective, descriptive, single-center study was conducted at the ED of Mahmoud Yacoub Center for Urgent Medical Assistance in Tunis over two years. Patients aged over 12 years with acute CO poisoning were included. Epidemiological data, clinical presentation, severity, laboratory findings, and management were analyzed. RESULTS: A total of 660 cases were included, all secondary to accidental exposure. The mean age was 35 ±15 years, with a female predominance (73%). CO poisoning was most frequent during winter (70.4%). The main source was gas water heaters (78.2%). Severe cases of CO poisoning were observed in 27.9% of patients, with neurological symptoms in 90.8% of them. The median carboxyhemoglobin level was 21% [13-29]. In univariate analysis, age ≥50, asthenia, chest pain, carboxyhemoglobin ≥25%, and hyperleukocytosis were associated with severe CO poisoning, with hyperleukocytosis remaining an independent predictor in multivariate analysis. Oxygen therapy was administered to all patients, and hyperbaric oxygen therapy was performed in 10.6%. Hospitalization was required in 21% cases. No deaths were recorded in our series. CONCLUSION: CO poisoning remains a significant public health concern in Tunisia, predominantly affecting young adults, with water heaters as the leading source. Neurological and cardiac manifestations predominate in severe cases.",
+            "title_ko": ""
+          },
+          "papers": [
+            {
+              "pmid": "41712787",
+              "title": "Acute Carbon Monoxide Poisoning in the Emergency Department: A Descriptive Study of 660 Cases in Tunisia.",
+              "journal": "La Tunisie medicale",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2025-05-05",
+              "authors": [
+                "Khelifa S",
+                "Kilani M",
+                "Jeddi C"
+              ],
+              "citation_count": 2,
+              "rcr": 1.4735700745622784,
+              "volume": "103",
+              "issue": "5",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/41712787/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 10.5,
+              "field": "emergency",
+              "field_label": "응급의학",
+              "abstract": "INTRODUCTION: Carbon monoxide (CO) poisoning is a frequent and potentially fatal medical emergency, accounting for significant global morbidity and mortality. AIM: This study aims to determine the epidemiological and clinical characteristics of patients presenting to the emergency department (ED) with acute CO poisoning in Tunisia. METHODS: A retrospective, descriptive, single-center study was conducted at the ED of Mahmoud Yacoub Center for Urgent Medical Assistance in Tunis over two years. Patients aged over 12 years with acute CO poisoning were included. Epidemiological data, clinical presentation, severity, laboratory findings, and management were analyzed. RESULTS: A total of 660 cases were included, all secondary to accidental exposure. The mean age was 35 ±15 years, with a female predominance (73%). CO poisoning was most frequent during winter (70.4%). The main source was gas water heaters (78.2%). Severe cases of CO poisoning were observed in 27.9% of patients, with neurological symptoms in 90.8% of them. The median carboxyhemoglobin level was 21% [13-29]. In univariate analysis, age ≥50, asthenia, chest pain, carboxyhemoglobin ≥25%, and hyperleukocytosis were associated with severe CO poisoning, with hyperleukocytosis remaining an independent predictor in multivariate analysis. Oxygen therapy was administered to all patients, and hyperbaric oxygen therapy was performed in 10.6%. Hospitalization was required in 21% cases. No deaths were recorded in our series. CONCLUSION: CO poisoning remains a significant public health concern in Tunisia, predominantly affecting young adults, with water heaters as the leading source. Neurological and cardiac manifestations predominate in severe cases.",
+              "title_ko": ""
+            },
+            {
+              "pmid": "41949955",
+              "title": "Drowning Among Tunisian Children: Clinical Patterns and Outcomes.",
+              "journal": "La Tunisie medicale",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2025-11-01",
+              "authors": [
+                "Mdimegh S",
+                "Elleuch B",
+                "Abdelbari M"
+              ],
+              "citation_count": 0,
+              "rcr": 0.0,
+              "volume": "103",
+              "issue": "11",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/41949955/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": true,
+              "hot_score": 10.0,
+              "field": "emergency",
+              "field_label": "응급의학",
+              "abstract": "PURPOSE: Describe clinical and therapeutic aspects of pediatric drowning and analyse predictive factors of mortality. METHODS: We conducted a retrospective analysis of patients under 16 years of age admitted between 2018 and 2022 to the Pediatric Intensive Care Unit at Farhat Hached University Hospital. RESULTS: Our study included 64 patients. The sex ratio was 1.46. The mean age was 7.1 ± 4.3 years. Most drowning occurred during the summer (92.2%), in seawater (76.6%). The mean estimated immersion time was 4 ± 5.8 minutes. The majority of these drownings (70.3%) were severe (stage 3, 4, 5, or 6). The most frequent clinical signs were: tachypnea (93.8%), auscultation abnormalities (93.8%), oxygen saturation < 92% (73.4%), and tachycardia (71.9%). Chest X-ray was abnormal in 75% of cases. Mechanical ventilation was indicated in 14.1% of cases. Vasopressor drugs were used in 12.5% of cases. Antibiotic therapy was initiated in 70.3% of patients. The mortality rate was 10.9%. In multivariate analysis, predictive factors for mortality were: a Szpilman stage equal to 6 (p <0.005), a Glasgow score < 8 (p <0.005), pupillary abnormalities (p <0.005), hypothermia < 35 (p<0.005), hepatic cytolysis (p = 0.02), and blood pH < 7.1 (p <0.005). CONCLUSIONS: Drowning is a fatal, yet preventable global public health problem, particularly touching children and young adults. Mortality depends on several epidemiological, clinical and biological factors.",
+              "title_ko": ""
+            },
+            {
+              "pmid": "41949951",
+              "title": "The effect of simulation training on paramedical personnel knowledge and performance in basic life support in a developing country.",
+              "journal": "La Tunisie medicale",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2025-11-01",
+              "authors": [
+                "Yangui F",
+                "Antit S",
+                "Daly F"
+              ],
+              "citation_count": 0,
+              "rcr": 0.0,
+              "volume": "103",
+              "issue": "11",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/41949951/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": true,
+              "hot_score": 10.0,
+              "field": "emergency",
+              "field_label": "응급의학",
+              "abstract": "INTRODUCTION: Basic life support is important for increasing patient survival after a cardiac arrest. However, it was demonstrated that healthcare professionals lacked certain knowledge and skills in basic life support. This study aimed to evaluate the effectiveness of a low-fidelity simulation training session in improving paramedical personnel knowledge and performance in Basic life support. METHODS: A cross-sectional quasi-experimental single-group pre-post intervention study was conducted at the Internal Security Forces Hospital in Tunisia in January 2024. All paramedical personnel providing direct patient care were included. The training program involved a theoretical course and a simulation training session. Participants filled out pre-tests and post-tests before and after the theoretical course. A practical simulation test with a skill assessment sheet occurred after the basic life support simulation training session. RESULTS: Fifty-five paramedical personnel participated in the study. Participants' mean age was 39.7±10.3 years and 72.7% of the participants were women. Most participants were nurses (50.9%). Comparing the pre-test (M=1.73, SD= 0.7) with the post-test scores (M=2.77, SD=1.02,) showed a significant improvement in basic life support knowledge after the theoretical course (p< 10-6). After the basic life support simulation training session, a significant improvement in the practical test score (M=4.04, SD= 0.7) compared to the post-test score was observed (p< 10-6). CONCLUSIONS: Simulation training has a positive effect on improving paramedical personnel's knowledge and performance. To enhance their knowledge and practice in cardiopulmonary resuscitation, a basic life support training program is recommended for all paramedical personnel.",
+              "title_ko": ""
+            },
+            {
+              "pmid": "41848129",
+              "title": "Evaluation of Endostatin Levels in COVID-19 Patients Admitted to the Emergency Department.",
+              "journal": "La Tunisie medicale",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2025-09-09",
+              "authors": [
+                "Akdur G",
+                "Bardakci O",
+                "Das M"
+              ],
+              "citation_count": 1,
+              "rcr": 0.5216451092863592,
+              "volume": "103",
+              "issue": "9",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/41848129/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 6.6,
+              "field": "emergency",
+              "field_label": "응급의학",
+              "abstract": "INTRODUCTION: The COVID-19 is defined as a respiratory and endothelial disease caused by Severe Acute Respiratory Syndrome Coronavirus 2. Endostatin is a molecule bound to collagen in the basal membrane of endothelial cells. OBJECTIVE: The aim of this study was to measure the serum endostatin levels of patients diagnosed with COVID-19 in the emergency department. METHODS: This study was conducted in the emergency department with two groups: COVID-19 PCR-positive patients and healthy adults. Complete blood count, serum biochemistry values, and radiological imaging results were evaluated. Serum endostatin levels were measured from venous blood samples collected during the emergency department visits. Data were analyzed using the SPSS 19.0 software. RESULTS: A total of 148 COVID-19 patients and 35 healthy controls were included in the study. The serum endostatin levels of the COVID-19 patient group were significantly lower compared to the healthy control group (p<0.05). The Chest CT Severity Score, 4C-Mortality Score, Quick SOFA, and Quick COVID-19 Severity Index were significantly higher in the patients with a fatal outcome compared to those who survived (p<0.001). Although serum endostatin levels were slightly higher in the fatal outcome group, no statistically significant difference was observed (p>0.05). CONCLUSION: There is no increase in serum endostatin levels in patients with COVID-19 presenting to the emergency department. While a slight increase in endostatin levels was observed in patients with a fatal outcome, it is believed that endostatin will not be effective in predicting prognosis.",
+              "title_ko": ""
+            },
+            {
+              "pmid": "41832660",
+              "title": "Simulation learning in the emergency department: Impact on VideoLaryngoscope Intubation Skills.",
+              "journal": "La Tunisie medicale",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2025-08-01",
+              "authors": [
+                "Bahri B",
+                "Ghazali H",
+                "Sedghiani I"
+              ],
+              "citation_count": 0,
+              "rcr": 0.0,
+              "volume": "103",
+              "issue": "8",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/41832660/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 0.0,
+              "field": "emergency",
+              "field_label": "응급의학",
+              "abstract": "UNLABELLED: Introduction In the emergency department (ED), learning by simulation provides a safe acquisition of procedural skills. This study's objective was to evaluate the impact of the simulation-based learning on videolaryngoscope (VL) orotracheal intubation (OTI) skills among residents practicing in ED. METHODS: evaluative, prospective study, including residents practicing in teaching hospitals ED in Tunis. They were novices in direct laryngoscopy. We scheduled a procedural simulation session. Residents were evaluated before and after the session. The primary endpoint was the rate of successful OTI after learning session. RESULTS: 32 residents were enrolled. The mean age was 28 ± 2.5 years. Gender ratio was 0.18. The mean exercise seniority was 1.53 ± 0.7 years. The rate of successful OTI before and after the training was observed in 4 residents (12.5%) vs 23 (71.8), p=0.689. The average time of OTI was respectively 149.81±108 seconds (sec) vs. 51±96 sec (p<0.001). The rate of esophageal intubation was n (%): 16 (50%) vs 9 (28%) (p=0.49) and the mean number of attempts was 3.81 vs. 1.84 (p<0.001). Intubation time after the session more than 12 sec was an independent factor of intubation failure (Adjusted OR= 3.5, p=0.001 and 95%CI [1.018-10.69]). CONCLUSION: Learning by simulation in the ED provides residents with a skill that allows complete OTI in less time and a smaller number of attempts. Intubation time is an independent factor predicting intubation failure among doctors learning intubation by VL.",
+              "title_ko": ""
+            },
+            {
+              "pmid": "41712842",
+              "title": "The performance of the Evaluation of Guidelines in Syncope Study score in the diagnostic approach to syncope in emergency department.",
+              "journal": "La Tunisie medicale",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2025-03-05",
+              "authors": [
+                "Ghazali H",
+                "Chabbah H",
+                "Chermiti I"
+              ],
+              "citation_count": 0,
+              "rcr": 0.0,
+              "volume": "103",
+              "issue": "3",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/41712842/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 0.0,
+              "field": "emergency",
+              "field_label": "응급의학",
+              "abstract": "BACKGROUND: Management of syncope in the emergency department (ED) is not yet well codified. Several scores have been developed to facilitate diagnosis and management. According to the European Society of Cardiology, an EGSYS (Evaluation of Guidelines in Syncope Study) score ≥3 predicts cardiac origin. OBJECTIVE: Evaluate the performance of the EGSYS score in the diagnosis of cardiac syncope in ED. METHODS: We conducted a prospective study (2011-2021). Inclusion of patients who consult for syncope with calculation of the EGSYS score. Diagnosis of cardiac syncope was based on the results of the cardiological investigation. Patients were divided into two groups: SC+ group with cardiac syncope and SC- group with another etiology. RESULTS: Inclusion of 526 patients. Mean age =49± 20 years. Gender ratio=1.48. Two hundred and thirty-six patients (45%) had a cardiac syncope. Comparison between the two groups SC+ versus (vs. SC-) showed the following results: mean age (58 ±19 vs. 42 ±18 years), history of heart disease: 34 (14.5%) vs. 13 (4.5%), rhythm disorders 22(9.4%) vs. 4(1.4%), bradycardia: 40 (17%) vs. 17 (5.8%), atrioventricular block: 26 (11.1%) vs. 8 (2.7%), bundle branch block: 45 (19.1%) vs. 17 (5.8%), High risk criteria: 138 (58.7%) vs. 75 (25.8%). Diagnostic performance of the EGSYS score was satisfactory with AUC=0.769, CI95% [0.73 - 0.81], p 0.001. The threshold value was 3. Sensitivity, specificity, positive predictive value and negative predictive value were 79, 80, 76 and 83% respectively. Likelihood Ratio: Positive LR=4.04, negative LR=0.26. CONCLUSION: The EGSYS score showed good performance in predicting the cardiac syncope.",
+              "title_ko": ""
+            },
+            {
+              "pmid": "41712827",
+              "title": "Chronic obstructive pulmonary disease acute exacerbation: prognostic value of eosinophilia in terms of recurrence.",
+              "journal": "La Tunisie medicale",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2025-04-05",
+              "authors": [
+                "Chermiti I",
+                "Fadhel R",
+                "Ghazali H"
+              ],
+              "citation_count": 0,
+              "rcr": 0.0,
+              "volume": "103",
+              "issue": "4",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/41712827/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 0.0,
+              "field": "emergency",
+              "field_label": "응급의학",
+              "abstract": "INTRODUCTION: Chronic obstructive pulmonary disease (COPD) acute exacerbation (AE) increases morbidity and has an impact on health status. Inflammation plays a key role in these events. Current evidence supports use of biomarkers to guide corticosteroid therapy, which is included in the treatments of COPD AE. AIM: The aim of our study was to determine the prognostic value of hypereosinophilia (HEo +) in patients admitted to emergency department (ED) with COPD AE in terms of recurrence (Recurrence+). METHODS: A prospective and observational study was conducted over nine months including patients admitted to ED with COPD AE. Patient history, clinical, paraclinical and therapeutic data was collected. HEo+, was defined as blood eosinophil count (BEC)≥200 cells/mm3. One month follow-up was performed. We compared two groups: Recurrence+ vs Recurrence- patients and HEo+ vs HEo- patients. Both univariate and multivariate analysis were performed to identify factors associated with COPD AE recurrence at one month. RESULTS: We included 252 patients. Prevalence of HEo+ was 50%. Patients with HEo+ had less severe clinical signs on admission (p=0.03), less COPD AE recurrence (p <0.001) and required less hospitalization at one month (p=0.003). Mortality was higher in HEo- patients (p=0.05). Recurrence- patients had HEo+ more frequently (61% vs 19% ; p<0.001). In multivariate analysis, we identified two predictors of recurrence of COPD: COPD group D (adjusted OR 2,3; [95% IC 1,5-3,7]; p<0,001) and non-invasive ventilation on admission (adjusted OR 3,9; [95% IC 1,1-13]; p=0,03). HEo+ was a protective factor of COPD group D (adjusted OR 2,3; [95% IC 1,5-3,7]; p-0,001) and non-invasive ventilation on admission (adjusted OR 3,9; [95% IC 1,1-13]; p=0,03). HEo+ was a protective factor of COPD AE recurrence (adjusted OR 0,3; [95% CI] [0,17-0,4]; p-0,001). CONCLUSION: Recurrence of COPD AE one month after ED visit was less frequent in patients with HEo+. BEC may predict systemic corticosteroid treatment failure or success. Identification of responders to corticotherapy can lead to less prescription of prednisone or equivalent and could be integrated into a therapeutic management algorithm.",
+              "title_ko": ""
+            },
+            {
+              "pmid": "41712803",
+              "title": "Ultrasound-guided Fascia Iliaca Block (FIB) in the emergency department: Efficiency and safety.",
+              "journal": "La Tunisie medicale",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2025-05-05",
+              "authors": [
+                "Zoubli A",
+                "Ben Taher A",
+                "Fitouhi N"
+              ],
+              "citation_count": 0,
+              "rcr": 0.0,
+              "volume": "103",
+              "issue": "5",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/41712803/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 0.0,
+              "field": "emergency",
+              "field_label": "응급의학",
+              "abstract": "INTRODUCTION: Hip and femoral shaft fractures are extremely painful injuries, usually occurring in elderly, multimorbid patients who are vulnerable to opioids. In this context ultrasound-guided locoregional analgesia (LRA) could be an interesting alternative. AIM: To study pain variation (Delta numerical scale) in hip and thigh trauma patients treated with ultrasound-guided Fascia Iliaca block (FIB) in the emergency department. METHODS: We conducted an observational study over a period of 10 months, including all patients aged 16 and over, who consulted us for isolated hip or thigh trauma, in whom the numeric rating scale (NRS) could be assessed. The primary endpoint was a significant reduction in pain (ΔNRS ≥2). Secondary endpoints were local or general complications and the use of rescue analgesia. RESULTS: Forty-two patients were included. Mean age was 66±17 years, with a sex ratio of 0.9. The mean initial NRS was 9.12±1.3. Mean NRS value was 5.6 at 30 minutes and 3.9 at 120 minutes. Eighty-five percent of patients had a significant reduction in pain after 30 minutes of IFB, and six patients required rescue analgesia with morphine. No adverse effects were recorded. CONCLUSION: Ultrasound-guided FIB can be safely performed by emergency physicians in an emergency department, after appropriate training in the technique.",
+              "title_ko": ""
+            }
+          ]
         }
       ],
       "hot_topics": [
@@ -10487,21 +10741,21 @@
             ]
           },
           {
+            "phrase": "brain injury",
+            "scores": [
+              0.0,
+              37.1,
+              26.6,
+              0.0
+            ]
+          },
+          {
             "phrase": "first aid",
             "scores": [
               0.0,
               35.8,
               26.6,
               0.0
-            ]
-          },
-          {
-            "phrase": "trauma centre",
-            "scores": [
-              0.0,
-              20.5,
-              10.0,
-              30.0
             ]
           }
         ]
