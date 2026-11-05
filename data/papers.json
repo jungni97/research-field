@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-04T00:32:41.891101Z",
+  "generated_at": "2026-11-05T00:57:04.511060Z",
   "window_days": 1095,
   "fields": [
     {
       "key": "preventive",
       "label": "예방의학",
-      "paper_count": 451,
+      "paper_count": 443,
       "journals": [
         {
           "journal": "Journal of neuromuscular diseases",
@@ -1392,7 +1392,7 @@
           "impact_factor": 1.5,
           "index_type": "미상",
           "quartile": "미상",
-          "paper_count": 73,
+          "paper_count": 74,
           "top_paper": {
             "pmid": "39949340",
             "title": "Analysis of factors influencing HPV vaccination intention among Chinese college students: structural equation modeling based on health belief theory.",
@@ -4140,7 +4140,7 @@
           "impact_factor": 1.5,
           "index_type": "미상",
           "quartile": "미상",
-          "paper_count": 16,
+          "paper_count": 15,
           "top_paper": {
             "pmid": "39981298",
             "title": "Staphylococcus aureus-specific TIGIT(+) Treg are present in the blood of healthy subjects - a hurdle for vaccination?",
@@ -4836,7 +4836,7 @@
               0.0,
               63.3,
               0.0,
-              70.0
+              50.0
             ]
           },
           {
@@ -4845,7 +4845,7 @@
               0.0,
               53.2,
               0.0,
-              50.0
+              40.0
             ]
           },
           {
@@ -4854,16 +4854,7 @@
               0.0,
               45.4,
               10.1,
-              31.8
-            ]
-          },
-          {
-            "phrase": "breast cancer",
-            "scores": [
-              15.1,
-              0.0,
-              25.1,
-              30.0
+              21.8
             ]
           },
           {
@@ -4881,6 +4872,15 @@
               0.0,
               21.8,
               20.1,
+              10.0
+            ]
+          },
+          {
+            "phrase": "breast cancer",
+            "scores": [
+              15.1,
+              0.0,
+              25.1,
               10.0
             ]
           }
@@ -8406,99 +8406,6 @@
           ]
         },
         {
-          "journal": "WMJ : official publication of the State Medical Society of Wisconsin",
-          "impact_factor": 1.5,
-          "index_type": "미상",
-          "quartile": "미상",
-          "paper_count": 2,
-          "top_paper": {
-            "pmid": "41499613",
-            "title": "Violence Against Emergency Department Health Care Workers and the Effect of Wisconsin Act 209.",
-            "journal": "WMJ : official publication of the State Medical Society of Wisconsin",
-            "impact_factor": 1.5,
-            "index_type": "미상",
-            "quartile": "미상",
-            "pubdate": "2025-01-01",
-            "authors": [
-              "Nickel L",
-              "Sell C",
-              "Hiller M"
-            ],
-            "citation_count": 1,
-            "rcr": 0.8073631455393393,
-            "volume": "124",
-            "issue": "5",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/41499613/",
-            "altmetric_score": 0,
-            "altmetric_news": 0,
-            "altmetric_social": 0,
-            "is_current_issue": true,
-            "hot_score": 16.6,
-            "field": "emergency",
-            "field_label": "응급의학",
-            "abstract": "BACKGROUND: Health care settings are not immune to workplace violence, and emergency department workers are especially susceptible. In 2021, Wisconsin Act 209 made it a felony to \"intentionally cause bodily harm or threaten to cause bodily harm to a person who works in a health care facility.\" We conducted a study of emergency department workers to assess their experiences with violence and the perceived effects of Act 209. METHODS: We developed a survey for health care workers (nurses, physicians, and advanced practice providers) who were currently practicing in a Wisconsin emergency department. The reporting timeframe was March 23, 2022, through June 30, 2023. RESULTS: A total of 194 Wisconsin emergency department workers responded; 70.6% reported experiencing bodily harm, threats of bodily harm, or both. The median number of bodily harm incidents was 2, and 51.4% did not report these incidents. The median number of threats reported was 4, and 66.7% did not report them. Nurses experienced more threats of bodily harm than physicians. Overall, 40.2% of respondents were unaware of Act 209, and 67.6% indicated that abuse toward health care workers occurred at the same rate after its enactment as before. The most frequent barrier to reporting was \"Person has a medical condition that might complicate application of the law.\" DISCUSSION: Most workers reported experiencing bodily harm or threats, and most did not report these incidents. Beyond clinical factors and time constraints, limited law enforcement bandwidth and perceptions of law enforcement as obstructive were the next most cited barriers. Only 1.2% of respondents reported feeling \"definitely safer\" after Act 209. CONCLUSIONS: Violence against health care workers has become an expected consequence of working in the field. Legislative action is one tool to attempt to curb this trend. Further efforts to identify strategies that ensure the safety and wellness of health care workers should be a priority.",
-            "title_ko": ""
-          },
-          "papers": [
-            {
-              "pmid": "41499613",
-              "title": "Violence Against Emergency Department Health Care Workers and the Effect of Wisconsin Act 209.",
-              "journal": "WMJ : official publication of the State Medical Society of Wisconsin",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2025-01-01",
-              "authors": [
-                "Nickel L",
-                "Sell C",
-                "Hiller M"
-              ],
-              "citation_count": 1,
-              "rcr": 0.8073631455393393,
-              "volume": "124",
-              "issue": "5",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/41499613/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": true,
-              "hot_score": 16.6,
-              "field": "emergency",
-              "field_label": "응급의학",
-              "abstract": "BACKGROUND: Health care settings are not immune to workplace violence, and emergency department workers are especially susceptible. In 2021, Wisconsin Act 209 made it a felony to \"intentionally cause bodily harm or threaten to cause bodily harm to a person who works in a health care facility.\" We conducted a study of emergency department workers to assess their experiences with violence and the perceived effects of Act 209. METHODS: We developed a survey for health care workers (nurses, physicians, and advanced practice providers) who were currently practicing in a Wisconsin emergency department. The reporting timeframe was March 23, 2022, through June 30, 2023. RESULTS: A total of 194 Wisconsin emergency department workers responded; 70.6% reported experiencing bodily harm, threats of bodily harm, or both. The median number of bodily harm incidents was 2, and 51.4% did not report these incidents. The median number of threats reported was 4, and 66.7% did not report them. Nurses experienced more threats of bodily harm than physicians. Overall, 40.2% of respondents were unaware of Act 209, and 67.6% indicated that abuse toward health care workers occurred at the same rate after its enactment as before. The most frequent barrier to reporting was \"Person has a medical condition that might complicate application of the law.\" DISCUSSION: Most workers reported experiencing bodily harm or threats, and most did not report these incidents. Beyond clinical factors and time constraints, limited law enforcement bandwidth and perceptions of law enforcement as obstructive were the next most cited barriers. Only 1.2% of respondents reported feeling \"definitely safer\" after Act 209. CONCLUSIONS: Violence against health care workers has become an expected consequence of working in the field. Legislative action is one tool to attempt to curb this trend. Further efforts to identify strategies that ensure the safety and wellness of health care workers should be a priority.",
-              "title_ko": ""
-            },
-            {
-              "pmid": "41499614",
-              "title": "Putting Out Fires: The Experiences of Wisconsin Rural Health Officers During the COVID-19 Pandemic.",
-              "journal": "WMJ : official publication of the State Medical Society of Wisconsin",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2025-01-01",
-              "authors": [
-                "Crowley S",
-                "Hohl SD",
-                "Behling H"
-              ],
-              "citation_count": 0,
-              "rcr": 0.0,
-              "volume": "124",
-              "issue": "5",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/41499614/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": true,
-              "hot_score": 10.0,
-              "field": "emergency",
-              "field_label": "응급의학",
-              "abstract": "BACKGROUND: Health care settings are not immune to workplace violence, and emergency department workers are especially susceptible. In 2021, Wisconsin Act 209 made it a felony to \"intentionally cause bodily harm or threaten to cause bodily harm to a person who works in a health care facility.\" We conducted a study of emergency department workers to assess their experiences with violence and the perceived effects of Act 209. METHODS: We developed a survey for health care workers (nurses, physicians, and advanced practice providers) who were currently practicing in a Wisconsin emergency department. The reporting timeframe was March 23, 2022, through June 30, 2023. RESULTS: A total of 194 Wisconsin emergency department workers responded; 70.6% reported experiencing bodily harm, threats of bodily harm, or both. The median number of bodily harm incidents was 2, and 51.4% did not report these incidents. The median number of threats reported was 4, and 66.7% did not report them. Nurses experienced more threats of bodily harm than physicians. Overall, 40.2% of respondents were unaware of Act 209, and 67.6% indicated that abuse toward health care workers occurred at the same rate after its enactment as before. The most frequent barrier to reporting was \"Person has a medical condition that might complicate application of the law.\" DISCUSSION: Most workers reported experiencing bodily harm or threats, and most did not report these incidents. Beyond clinical factors and time constraints, limited law enforcement bandwidth and perceptions of law enforcement as obstructive were the next most cited barriers. Only 1.2% of respondents reported feeling \"definitely safer\" after Act 209. CONCLUSIONS: Violence against health care workers has become an expected consequence of working in the field. Legislative action is one tool to attempt to curb this trend. Further efforts to identify strategies that ensure the safety and wellness of health care workers should be a priority.",
-              "title_ko": ""
-            }
-          ]
-        },
-        {
           "journal": "Ciencia & saude coletiva",
           "impact_factor": 1.5,
           "index_type": "미상",
@@ -8585,6 +8492,71 @@
               "field": "emergency",
               "field_label": "응급의학",
               "abstract": "The scope of this study was to understand the elements involved in the communication of bad news in the context of medical practice in a Brazilian emergency hospital. It consisted of qualitative research, based on medical anthropology. Data collection was gathered over nine months of participant observation and interviews with 43 physicians. The emic analysis was based on the model of signs, meanings and actions. Two categories emerged from the analysis of the data: bottlenecks in communicating bad news relating to interaction one's own emotions and those of the family member; insufficient academic preparation in addressing death and the impossibility of a cure, with repercussions on professional practice. The difficulties in communicating bad news in the emergency hospital persist and the omission in training has repercussions on professional practice, and the professionals continue to feel ill-prepared. The difficulties are not only technical, didactic or theoretical. Communicating bad news is also permeated by tacit, experiential, relational, emotional, socio-cultural, human, ethical and reflective knowledge.",
+              "title_ko": ""
+            }
+          ]
+        },
+        {
+          "journal": "The Cochrane database of systematic reviews",
+          "impact_factor": 1.5,
+          "index_type": "미상",
+          "quartile": "미상",
+          "paper_count": 1,
+          "top_paper": {
+            "pmid": "39908073",
+            "title": "Parenteral medication for the management of acute severe behavioural disturbance (ASBD) in the emergency department.",
+            "journal": "The Cochrane database of systematic reviews",
+            "impact_factor": 1.5,
+            "index_type": "미상",
+            "quartile": "미상",
+            "pubdate": "2024-05-29",
+            "authors": [
+              "Bourke E",
+              "Klein K",
+              "Knott J"
+            ],
+            "citation_count": 1,
+            "rcr": 0.4618717240193149,
+            "volume": "5",
+            "issue": "5",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/39908073/",
+            "altmetric_score": 0,
+            "altmetric_news": 0,
+            "altmetric_social": 0,
+            "is_current_issue": true,
+            "hot_score": 16.6,
+            "field": "emergency",
+            "field_label": "응급의학",
+            "abstract": "This is a protocol for a Cochrane Review (intervention). The objectives are as follows: To assess the effectiveness and safety profiles of different parenteral medications for the management of acute severe behavioural disturbance in the emergency department setting. These medications are required following the failure of less restrictive means of controlling the patient's behavioural disturbance.",
+            "title_ko": ""
+          },
+          "papers": [
+            {
+              "pmid": "39908073",
+              "title": "Parenteral medication for the management of acute severe behavioural disturbance (ASBD) in the emergency department.",
+              "journal": "The Cochrane database of systematic reviews",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2024-05-29",
+              "authors": [
+                "Bourke E",
+                "Klein K",
+                "Knott J"
+              ],
+              "citation_count": 1,
+              "rcr": 0.4618717240193149,
+              "volume": "5",
+              "issue": "5",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/39908073/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": true,
+              "hot_score": 16.6,
+              "field": "emergency",
+              "field_label": "응급의학",
+              "abstract": "This is a protocol for a Cochrane Review (intervention). The objectives are as follows: To assess the effectiveness and safety profiles of different parenteral medications for the management of acute severe behavioural disturbance in the emergency department setting. These medications are required following the failure of less restrictive means of controlling the patient's behavioural disturbance.",
               "title_ko": ""
             }
           ]
@@ -10723,15 +10695,6 @@
             ]
           },
           {
-            "phrase": "critically ill",
-            "scores": [
-              0.0,
-              49.0,
-              16.6,
-              20.0
-            ]
-          },
-          {
             "phrase": "cardiac arrest",
             "scores": [
               0.0,
@@ -10741,19 +10704,28 @@
             ]
           },
           {
+            "phrase": "trauma centre",
+            "scores": [
+              0.0,
+              20.5,
+              10.0,
+              40.0
+            ]
+          },
+          {
+            "phrase": "critically ill",
+            "scores": [
+              0.0,
+              39.0,
+              16.6,
+              10.0
+            ]
+          },
+          {
             "phrase": "brain injury",
             "scores": [
               0.0,
               37.1,
-              26.6,
-              0.0
-            ]
-          },
-          {
-            "phrase": "first aid",
-            "scores": [
-              0.0,
-              35.8,
               26.6,
               0.0
             ]
