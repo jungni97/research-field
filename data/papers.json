@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-07T23:33:01.609823Z",
+  "generated_at": "2026-11-08T23:34:14.549607Z",
   "window_days": 1095,
   "fields": [
     {
       "key": "preventive",
       "label": "예방의학",
-      "paper_count": 442,
+      "paper_count": 448,
       "journals": [
         {
           "journal": "Journal of neuromuscular diseases",
@@ -899,7 +899,7 @@
           "impact_factor": 1.5,
           "index_type": "미상",
           "quartile": "미상",
-          "paper_count": 4,
+          "paper_count": 3,
           "top_paper": {
             "pmid": "39963235",
             "title": "Evaluating passive immunity in piglets from sows vaccinated with a PEDV S protein subunit vaccine.",
@@ -984,34 +984,6 @@
               "field_label": "예방의학",
               "abstract": "BACKGROUND: Despite global recommendations for maternal tetanus-diphtheria-acellular pertussis (Tdap) vaccination to protect neonates, safety concerns persist regarding pregnancy-specific adverse events (AEs). We conducted a 20-year analysis of U.S. Vaccine Adverse Event Reporting System (VAERS) data (2005-2024) to characterize Tdap-associated AEs during pregnancy, with emphasis on understudied outcomes like chorioamnionitis. METHODS: We analyzed 870 pregnancy-related reports (128 serious) from 20,358 Tdap submissions using disproportionality analysis (Reporting Odds Ratio, ROR). Cases were identified via MedDRA-coded terms and free-text mining. Outcomes were stratified by System Organ Class (SOC), trimester, and AE seriousness. Novel signals were evaluated against product labeling and prior studies. RESULTS: 71.9% of AEs occurred within 30 days post-vaccination. No AEs of maternal death were found. Strong safety signals stillbirth (ROR 285.77, IC 8.01), preterm delivery (ROR 196.8, IC 7.51), and fetal death (ROR 140.83, IC 7.06) were found via disproportionality from a passive surveillance system, which required further validation in active surveillance studies. Pregnancy-specific AEs represented 22.3% of significant PTs, including 6 chorioamnionitis cases with most cases having documented obstetric risk factors. Novel signals fetal hypokinesia and urinary tract infection emerged as unlabeled risks. CONCLUSION: This analysis affirms Tdap's favorable safety profile while detecting statistically significant signals that merit additional research. The low absolute risk supports continued maternal immunization, but warrants enhanced monitoring in high-risk pregnancies. The findings highlight the importance of ongoing post-marketing surveillance for evaluating vaccine safety in pregnant populations and contribute to evidence-based decision-making in clinical practice and public health policy.",
               "title_ko": "임산부의 Tdap 백신 단독 사용에 대한 위험 신호 평가: 업데이트된 약물 역학적 연구."
-            },
-            {
-              "pmid": "42964106",
-              "title": "Enhanced detection of occult and active infections using multiplex HIV/HBV/HCV nucleic acid testing in high-risk populations: a cross-sectional study.",
-              "journal": "Frontiers in cellular and infection microbiology",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2026-10-16",
-              "authors": [
-                "Jin C",
-                "Wang Y",
-                "Zhang Z"
-              ],
-              "citation_count": 0,
-              "rcr": null,
-              "volume": "16",
-              "issue": "",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/42964106/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": false,
-              "hot_score": 0.0,
-              "field": "preventive",
-              "field_label": "예방의학",
-              "abstract": "INTRODUCTION: Given the shared modes of transmission, HIV, HBV, and HCV confer a high risk of co-infection, particularly among key populations. Currently, clinical screening for these viruses still relies predominantly on serological assays, which fail to detect a substantial proportion of infections, including occult HBV infection (OBI, defined as HBsAg-negative but HBV DNA-positive) and current HCV infection. HIV/HBV/HCV multiplex nucleic acid testing (NAT) has been widely adopted in blood screening due to its superior sensitivity, specificity, and shorter window period. However, this highly effective screening assay has not yet been translated into routine clinical screening for high-risk populations. METHODS: To evaluate its clinical performance and feasibility, we conducted a cross-sectional study enrolling 802 people who use drugs (PWUD) and 400 men who have sex with men (MSM) in China. All participants underwent parallel serological screening and HIV/HBV/HCV multiplex NAT, with final infection status confirmed by supplementary testing, epidemiological history, and clinical symptoms. RESULTS: Upfront HIV/HBV/HCV multiplex NAT identified 12 additional OBI cases (incremental yield 12/1,202) that were missed by HBsAg-only screening and HBsAg-triggered reflex testing. HCV RNA testing distinguished current from non-current HCV infection, but this benefit was not specific to the multiplex strategy. Acceptance of multiplex NAT and post-diagnosis treatment was high among participants. CONCLUSION: Our findings suggest that HIV/HBV/HCV multiplex NAT could detect clinically relevant infections undetectable by serology in key populations, suggesting potential clinical benefits. However, further prospective implementation studies and cost-effectiveness analyses are warranted before routine integration into clinical practice.",
-              "title_ko": "고위험군에서 다중 HIV/HBV/HCV 핵산 검사를 사용하여 잠재성 및 활성 감염의 향상된 검출: 단면 연구."
             },
             {
               "pmid": "41635716",
@@ -1364,7 +1336,7 @@
           "impact_factor": 1.5,
           "index_type": "미상",
           "quartile": "미상",
-          "paper_count": 75,
+          "paper_count": 79,
           "top_paper": {
             "pmid": "39949340",
             "title": "Analysis of factors influencing HPV vaccination intention among Chinese college students: structural equation modeling based on health belief theory.",
@@ -3615,69 +3587,6 @@
           ]
         },
         {
-          "journal": "Cancer nursing",
-          "impact_factor": 1.5,
-          "index_type": "미상",
-          "quartile": "미상",
-          "paper_count": 1,
-          "top_paper": {
-            "pmid": "40838963",
-            "title": "The Effect of Breast Cancer Risk Reduction Program Applied to Women With High Breast Cancer Risk on Participation in Screening, Health Beliefs, and Behavior: A Randomized Controlled Trial.",
-            "journal": "Cancer nursing",
-            "impact_factor": 1.5,
-            "index_type": "미상",
-            "quartile": "미상",
-            "pubdate": "2023-11-08",
-            "authors": [
-              "Ozcelik H",
-              "Gozum S"
-            ],
-            "citation_count": 1,
-            "rcr": 0.9562084580273456,
-            "volume": "48",
-            "issue": "5",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/40838963/",
-            "altmetric_score": 0,
-            "altmetric_news": 0,
-            "altmetric_social": 0,
-            "is_current_issue": true,
-            "hot_score": 15.1,
-            "field": "preventive",
-            "field_label": "예방의학",
-            "abstract": "BACKGROUND: Women with a family history of breast cancer at an early age (≤50 years) have an increased risk of breast cancer themselves. OBJECTIVE: To evaluate the effectiveness of a Breast Cancer Risk Reduction Program (BrCaRRP) on increasing risk reduction behaviors, developing health beliefs, and screening participation in high-risk women with a family history of breast cancer. METHODS: This is a single-center, single-blind, parallel-group, randomized controlled trial. First-degree biological relatives of breast cancer patients (aged ≤50 years) were divided into intervention (n = 38) and control (n = 39) groups. The intervention (BrCaRRP) group received multiple interventions including education, counseling, case management, and surveillance via face-to-face and telephone interviews throughout a 12-week period, within the framework of the Health Belief Model and Health Promotion Model. The control group was given an information note, and the routine practice of the clinic was performed. Results were measured at baseline and at week 12 when the interventions were finished. RESULTS: The probability of participation in breast cancer screenings in the BrCaRRP group was 5.11 times higher. Health motivation was found to have increased in the intervention group. There was no difference in susceptibility and nutritional behavior between the groups. Health responsibility and physical activity increased in the intervention group. The frequency of consulting genetic counseling increased in the BrCaRRP group. CONCLUSIONS: Breast Cancer Risk Reduction Program increased participation in screening in women and positively affected their health beliefs and behaviors. IMPLICATIONS FOR PRACTICE: Breast Cancer Risk Reduction Program could alter screening and health-promoting behaviors. However, other interventions are still needed to reduce the high level of fear.",
-            "title_ko": "유방암 위험이 높은 여성에게 적용된 유방암 위험 감소 프로그램이 선별심사, 건강 신념 및 행동 참여에 미치는 영향: 무작위 대조 시험."
-          },
-          "papers": [
-            {
-              "pmid": "40838963",
-              "title": "The Effect of Breast Cancer Risk Reduction Program Applied to Women With High Breast Cancer Risk on Participation in Screening, Health Beliefs, and Behavior: A Randomized Controlled Trial.",
-              "journal": "Cancer nursing",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2023-11-08",
-              "authors": [
-                "Ozcelik H",
-                "Gozum S"
-              ],
-              "citation_count": 1,
-              "rcr": 0.9562084580273456,
-              "volume": "48",
-              "issue": "5",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/40838963/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": true,
-              "hot_score": 15.1,
-              "field": "preventive",
-              "field_label": "예방의학",
-              "abstract": "BACKGROUND: Women with a family history of breast cancer at an early age (≤50 years) have an increased risk of breast cancer themselves. OBJECTIVE: To evaluate the effectiveness of a Breast Cancer Risk Reduction Program (BrCaRRP) on increasing risk reduction behaviors, developing health beliefs, and screening participation in high-risk women with a family history of breast cancer. METHODS: This is a single-center, single-blind, parallel-group, randomized controlled trial. First-degree biological relatives of breast cancer patients (aged ≤50 years) were divided into intervention (n = 38) and control (n = 39) groups. The intervention (BrCaRRP) group received multiple interventions including education, counseling, case management, and surveillance via face-to-face and telephone interviews throughout a 12-week period, within the framework of the Health Belief Model and Health Promotion Model. The control group was given an information note, and the routine practice of the clinic was performed. Results were measured at baseline and at week 12 when the interventions were finished. RESULTS: The probability of participation in breast cancer screenings in the BrCaRRP group was 5.11 times higher. Health motivation was found to have increased in the intervention group. There was no difference in susceptibility and nutritional behavior between the groups. Health responsibility and physical activity increased in the intervention group. The frequency of consulting genetic counseling increased in the BrCaRRP group. CONCLUSIONS: Breast Cancer Risk Reduction Program increased participation in screening in women and positively affected their health beliefs and behaviors. IMPLICATIONS FOR PRACTICE: Breast Cancer Risk Reduction Program could alter screening and health-promoting behaviors. However, other interventions are still needed to reduce the high level of fear.",
-              "title_ko": "유방암 위험이 높은 여성에게 적용된 유방암 위험 감소 프로그램이 선별심사, 건강 신념 및 행동 참여에 미치는 영향: 무작위 대조 시험."
-            }
-          ]
-        },
-        {
           "journal": "Ceska a Slovenska farmacie : casopis Ceske farmaceuticke spolecnosti a Slovenske farmaceuticke spolecnosti",
           "impact_factor": 1.5,
           "index_type": "미상",
@@ -4698,6 +4607,211 @@
               "title_ko": "일상적인 건강 검진을 받는 고혈압 성인의 초음파 검출 신장 표면 결절성 및 신장 손상: 단면 연구."
             }
           ]
+        },
+        {
+          "journal": "Best practice & research. Clinical gastroenterology",
+          "impact_factor": 1.5,
+          "index_type": "미상",
+          "quartile": "미상",
+          "paper_count": 6,
+          "top_paper": {
+            "pmid": "41724536",
+            "title": "Developments in the roll-out and performance of CRC screening in Europe.",
+            "journal": "Best practice & research. Clinical gastroenterology",
+            "impact_factor": 1.5,
+            "index_type": "미상",
+            "quartile": "미상",
+            "pubdate": "2025-08-05",
+            "authors": [
+              "Carbotti G",
+              "van den Berg DM",
+              "Carvalho AL"
+            ],
+            "citation_count": 4,
+            "rcr": null,
+            "volume": "80",
+            "issue": "",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/41724536/",
+            "altmetric_score": 0,
+            "altmetric_news": 0,
+            "altmetric_social": 0,
+            "is_current_issue": false,
+            "hot_score": 11.8,
+            "field": "preventive",
+            "field_label": "예방의학",
+            "abstract": "The heterogeneous implementation of colorectal cancer screening programs across Europe makes performance comparison challenging. This study computed and analyzed seven key indicators of screening performance for eighteen European programs between 2011 and 2022. Trends in colorectal cancer incidence and mortality were also examined in relation to when each screening program was introduced. Coverage indicators showed considerable variation across programs but generally increased until the onset of the COVID pandemic. Yield indicators remained stable overall, whereas jumps were associated to protocol changes. In most countries, a decline in incidence followed the introduction of the screening program, whereas the connection of screening with mortality was less evident. The analysis of comparable screening performance indicators over time allows for cross-country and longitudinal monitoring of the programs. The observed decline in incidence following the implementation of fully rolled-out programs highlights the importance and effectiveness of well-organized screening in reducing the burden of the disease.",
+            "title_ko": "유럽에서 CRC 스크리닝의 출시 및 성능의 발전."
+          },
+          "papers": [
+            {
+              "pmid": "41724536",
+              "title": "Developments in the roll-out and performance of CRC screening in Europe.",
+              "journal": "Best practice & research. Clinical gastroenterology",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2025-08-05",
+              "authors": [
+                "Carbotti G",
+                "van den Berg DM",
+                "Carvalho AL"
+              ],
+              "citation_count": 4,
+              "rcr": null,
+              "volume": "80",
+              "issue": "",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/41724536/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 11.8,
+              "field": "preventive",
+              "field_label": "예방의학",
+              "abstract": "The heterogeneous implementation of colorectal cancer screening programs across Europe makes performance comparison challenging. This study computed and analyzed seven key indicators of screening performance for eighteen European programs between 2011 and 2022. Trends in colorectal cancer incidence and mortality were also examined in relation to when each screening program was introduced. Coverage indicators showed considerable variation across programs but generally increased until the onset of the COVID pandemic. Yield indicators remained stable overall, whereas jumps were associated to protocol changes. In most countries, a decline in incidence followed the introduction of the screening program, whereas the connection of screening with mortality was less evident. The analysis of comparable screening performance indicators over time allows for cross-country and longitudinal monitoring of the programs. The observed decline in incidence following the implementation of fully rolled-out programs highlights the importance and effectiveness of well-organized screening in reducing the burden of the disease.",
+              "title_ko": "유럽에서 CRC 스크리닝의 출시 및 성능의 발전."
+            },
+            {
+              "pmid": "41724531",
+              "title": "Risk-based screening for early detection of colorectal cancer: an overview.",
+              "journal": "Best practice & research. Clinical gastroenterology",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2025-05-08",
+              "authors": [
+                "Brück CC",
+                "Mwangi LW",
+                "van Wifferen F"
+              ],
+              "citation_count": 2,
+              "rcr": null,
+              "volume": "80",
+              "issue": "",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/41724531/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 8.0,
+              "field": "preventive",
+              "field_label": "예방의학",
+              "abstract": "Screening programs for colorectal cancer (CRC) reduce CRC incidence and mortality, while balancing benefits and harms of the population. However, benefits vary widely among individuals. Low-risk individuals may face unnecessary burdens, while high-risk individuals could benefit from more intensive screening. Risk-based screening addresses these issues by tailoring screening strategies using risk factors such as age, sex, race, ethnicity, lifestyle factors, genetic predisposition, and previous screening results. Potential benefits of risk-based screening include improved cost-effectiveness, efficient resource use and reduced unnecessary procedures. Challenges include a lack of validated risk stratification tools, data availability, healthcare capacity, and ethical considerations. Several countries started to evaluate risk-based screening programs with optimistic results. While promising, further research is necessary to address the remaining challenges. Nevertheless, risk-based screening has the potential to enhance patient experiences, optimize the balance of individual-level benefits and harms, and positively impact the overall burden and costs associated with CRC screening.",
+              "title_ko": "대장암의 조기 발견을 위한 위험 기반 선별검사: 개요."
+            },
+            {
+              "pmid": "41724542",
+              "title": "Elements of screening and early diagnosis of lower GI neoplastic lesions - an overview.",
+              "journal": "Best practice & research. Clinical gastroenterology",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2025-09-30",
+              "authors": [
+                "Sheridan B",
+                "Rabeneck L",
+                "Toes-Zoutendijk E"
+              ],
+              "citation_count": 1,
+              "rcr": null,
+              "volume": "80",
+              "issue": "",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/41724542/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 5.1,
+              "field": "preventive",
+              "field_label": "예방의학",
+              "abstract": "Dobrow's 12 consolidated principles were applied to evaluate the extent to which colorectal cancer (CRC) screening programmes align with these established screening principles. The principles within the first domain - disease and conditions - are fully met. CRC represents a significant global public health burden with a well-understood natural history, including a long preclinical phase. These features make CRC suitable for population-based screening. Current guidelines recommend screening average-risk individuals, with starting ages as early as 45 years and stopping ages up to 85 years in some programs, although most programs target those aged 50-75 years. For Dobrow's second domain - test or intervention - we found that established CRC screening methods (faecal immunochemical testing (FIT), colonoscopy, and flexible sigmoidoscopy) have known and acceptable sensitivity and specificity. These tests have clear thresholds for interpretation and follow-up and are associated with reductions in both CRC incidence and mortality, confirming their clinical effectiveness in organised programmes. Dobrow's third domain - programme or system - addresses how screening programmes should be structured, implemented, and integrated into health systems. Unlike the other domains, this is fully achieved in only a small minority of programmes. While implementation may vary from country to country, the principles provide benchmarks for well-organised programmes. CRC screening is generally cost-effective and widely accepted by patients, providers, and society. Successful programmes require dedicated teams, infrastructure, and systems for coordination and quality assurance. Before implementation, a CRC screening initiative must meet, or have a clear plan to meet 12 principles. In summary, robust infrastructure and governance are essential for organised CRC screening programmes to align with the Dobrow principles and achieve long-term success.",
+              "title_ko": "하부 위장관 신생물 병변의 스크리닝 및 조기 진단의 요소 - 개요."
+            },
+            {
+              "pmid": "41724538",
+              "title": "Evidence-based decision analysis guiding clinical guidelines for an organized population-based screening for colorectal cancer.",
+              "journal": "Best practice & research. Clinical gastroenterology",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2025-08-08",
+              "authors": [
+                "Jahn B",
+                "Sroczynski G",
+                "Santamaria J"
+              ],
+              "citation_count": 1,
+              "rcr": null,
+              "volume": "80",
+              "issue": "",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/41724538/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 5.1,
+              "field": "preventive",
+              "field_label": "예방의학",
+              "abstract": "BACKGROUND: This study includes the long-term benefit-harm analysis of population-wide colorectal cancer (CRC) screening strategies commissioned by the Austrian National Committee for Cancer Screening (ANCCS). In addition, we present the related cost-effectiveness analysis. METHODS: Using a validated decision-analytic Markov state transition model, we evaluated 17 by the ANCCS suggested CRC-screening strategies differing in tests (fecal-immunochemical test (FIT), guaiac-based fecal occult blood test (gFOBT), colonoscopy (COL)), age at start (40,45,50 years) and end (COL: 65,70,75 years, FIT/gFOBT 75 years), and intervals (2,5,10 years). Positive FIT/gFOBT tests are followed by colonoscopy. Evaluated outcomes included health benefits (life-years gained (LYG), CRC-cases/CRC-deaths avoided), harms (severe colonoscopy complications, psychological harms due to positive test results (PTR), additional colonoscopies), stepwise evaluated incremental harm-benefit ratios (IHBR), and incremental cost-effectiveness ratios (ICER). We applied the Austrian healthcare system perspective, a lifelong-time horizon and conducted sensitivity analyses. RESULTS: The most effective colonoscopy-based screening strategy is colonoscopy at age 40/50/60/70 (449 LYG per 1000 individuals) with an IHBR of 3 PTR/LYG compared to COL45/55/65 (ICER: 13,032 Euro/LYG vs. COL45/55/65/75). The most effective fecal blood-test-based strategy is annual FIT testing starting at age 40 years (488 LYG per 1000 individuals) and an IHBR of 30 PTR/LYG compared to FIT40+2y (biennial FIT starting age 40). All biennial FIT-based screening strategies represent alternative options on the harm-benefit efficiency frontier with IHBR of PTR/LYG: 2 (FIT50+2y vs. no screening), 5 (FIT45+2y vs. FIT50+2y), and 7 (FIT40+2y vs. FIT45+2y). The cost-effectiveness analyses provided stepwise ICERs ranging from 3391 Euro/LYG (FIT45+2y vs. FIT50+2y) to 47,812 Euro/LYG (FIT40+1y vs. FIT40+2y). CONCLUSIONS: Our decision analysis shows benefit-harm and cost-effectiveness trade-offs. In the consensus meeting of the ANCCS, colonoscopy- and FIT-based screening starting at age 45 were selected as suggested screening strategies, accounting for benefit-harm balance, evidence level, and implementation aspects.",
+              "title_ko": "대장암에 대한 조직화된 모집단 기반 선별 검사를 위한 임상 가이드라인을 안내하는 증거 기반 의사결정 분석."
+            },
+            {
+              "pmid": "41724541",
+              "title": "Is blood the new stool? Status of blood tests for CRC screening.",
+              "journal": "Best practice & research. Clinical gastroenterology",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2025-09-08",
+              "authors": [
+                "Symonds EL",
+                "Dix M",
+                "Wassie MM"
+              ],
+              "citation_count": 0,
+              "rcr": null,
+              "volume": "80",
+              "issue": "",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/41724541/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 0.0,
+              "field": "preventive",
+              "field_label": "예방의학",
+              "abstract": "Colorectal cancer (CRC) screening has proven to decrease CRC incidence and mortality, with many countries providing faecal immunochemical tests (FIT) in screening programs. Effectiveness, however, is limited in the setting of low participation rates, which has prompted growing research into blood-based screening. While blood testing is anticipated to improve participation due to greater population acceptability, its readiness for widespread implementation remains unclear, and comparative accuracy data against FIT is needed. This article provides a systematic review and meta-analysis on blood-based CRC screening tests that have been directly compared to FIT, and summarises the evidence for broader program considerations, including analytical quality, consumer preferences, participation rates and cost effectiveness. The findings show that blood tests currently lack the sensitivity and cost-effectiveness to replace FIT in screening programs, and that their use should be limited to individuals unable or unwilling to complete FIT.",
+              "title_ko": "피가 새로운 의자입니까? CRC 선별 검사를 위한 혈액 검사 상태."
+            },
+            {
+              "pmid": "41724540",
+              "title": "Global impact of COVID-19 on organized CRC screening programs: lessons learned.",
+              "journal": "Best practice & research. Clinical gastroenterology",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2025-09-05",
+              "authors": [
+                "de Jonge L",
+                "Lansdorp-Vogelaar I",
+                "Doria-Rose VP"
+              ],
+              "citation_count": 0,
+              "rcr": null,
+              "volume": "80",
+              "issue": "",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/41724540/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 0.0,
+              "field": "preventive",
+              "field_label": "예방의학",
+              "abstract": "Using a standardized data template, this study retrospectively collected data about colorectal cancer (CRC) screening activity in 2020 and 2021 to estimate the impact of the COVID-19 pandemic compared to the pre-pandemic period (2018 or 2019). Data were collected from 17 programs in 14 countries of which 15 were population-based programs. Invitation coverage was decreased by up to 53.7 % in 2020. Participation among those invited was similar in both periods for all programs. The maximum backlog in invitations was less than 7.4 months in 2020 and 3.3 months for 2021. Nine out of 15 programs observed a decrease in the number of detected CRCs in 2020. Four programs showed a positive percentage change in CRCs detected in 2021 relative to the pre-pandemic period. Half of the countries observed a worse stage-distribution in 2020/2021. Overall, organized CRC screening programs operated at lower screening activity, but screening outcomes were similar compared to the pre-pandemic period.",
+              "title_ko": "코로나19가 조직화된 CRC 선별 검사 프로그램에 미치는 전 세계적인 영향: 교훈."
+            }
+          ]
         }
       ],
       "hot_topics": [
@@ -4740,6 +4854,15 @@
           "pmids": [
             "39936065",
             "40053023"
+          ]
+        },
+        {
+          "phrase": "screening programs",
+          "score": 37.0,
+          "paper_count": 2,
+          "pmids": [
+            "39973463",
+            "41724540"
           ]
         },
         {
@@ -4797,15 +4920,6 @@
           ]
         },
         {
-          "phrase": "breast cancer",
-          "score": 30.2,
-          "paper_count": 2,
-          "pmids": [
-            "39960711",
-            "40838963"
-          ]
-        },
-        {
           "phrase": "adolescent mental",
           "score": 30.1,
           "paper_count": 2,
@@ -4851,30 +4965,30 @@
             ]
           },
           {
-            "phrase": "cervical cancer",
-            "scores": [
-              0.0,
-              5.1,
-              25.2,
-              30.0
-            ]
-          },
-          {
-            "phrase": "breast cancer",
-            "scores": [
-              15.1,
-              0.0,
-              25.1,
-              20.0
-            ]
-          },
-          {
             "phrase": "cancer screening",
             "scores": [
               0.0,
               0.0,
               25.1,
               35.1
+            ]
+          },
+          {
+            "phrase": "covid- vaccination",
+            "scores": [
+              0.0,
+              13.1,
+              26.1,
+              20.0
+            ]
+          },
+          {
+            "phrase": "quality life",
+            "scores": [
+              0.0,
+              35.2,
+              10.0,
+              10.0
             ]
           }
         ]
@@ -4883,7 +4997,7 @@
     {
       "key": "emergency",
       "label": "응급의학",
-      "paper_count": 448,
+      "paper_count": 446,
       "journals": [
         {
           "journal": "Resuscitation",
@@ -5439,7 +5553,7 @@
               "field": "emergency",
               "field_label": "응급의학",
               "abstract": "OBJECTIVES: Emergency department (ED) to community (ED2C) programs, which redirect patients from the pediatric ED to community healthcare professionals represent a promising strategy to reduce the impact of non-urgent visits on the pediatric ED. Given an ED2C program's potential impact on various care professionals, we completed a qualitative study to explore key informants' attitudes and perceptions of pediatric ED2C programs. METHODS: We conducted one-on-one semi-structured interviews with key informants in British Columbia, Canada. Participants included: pediatric ED staff - triage nurses and physicians; community professionals - pediatricians and family physicians; and health system leaders responsible for pediatric and emergency care in British Columbia. Interviews were recorded, transcribed verbatim, de-identified, and analyzed using reflexive thematic analysis within an interpretive description framework. A visual model was developed to depict key themes in attitudes and perceptions towards pediatric ED2C programs. RESULTS: We interviewed 24 participants: 6 community professionals, 11 pediatric ED professionals, and 7 healthcare leaders. Participants viewed the ED2C program as a valuable solution to address pediatric system strain provided that systemic barriers are addressed, and both emergency and community settings are equipped with adequate training and resources. Participants emphasized the need for clear guidelines on eligibility and operations to build confidence and enhance program effectiveness. CONCLUSIONS: Our findings suggest there is support for ED2C programs as a means to reduce the impact of non-urgent pediatric ED visits and strengthen community-based care. Successful implementation will require coordinated planning, resource investment, and clear operational frameworks.",
-              "title_ko": "소아 응급실에서 지역사회 진료 장소로 환자를 안내: 의료 전문가 및 리더 관점에 대한 질적 연구."
+              "title_ko": ""
             },
             {
               "pmid": "41343612",
@@ -7222,7 +7336,7 @@
           "impact_factor": 1.5,
           "index_type": "미상",
           "quartile": "미상",
-          "paper_count": 35,
+          "paper_count": 36,
           "top_paper": {
             "pmid": "39872099",
             "title": "Addressing the overuse of hospital emergency departments in the Portuguese NHS: a new paradigm.",
@@ -8911,7 +9025,7 @@
           "impact_factor": 1.5,
           "index_type": "미상",
           "quartile": "미상",
-          "paper_count": 13,
+          "paper_count": 12,
           "top_paper": {
             "pmid": "41362590",
             "title": "Cognitive Burden in Emergency Care: A Qualitative Exploratory Study of Emergency Nurses.",
@@ -10769,20 +10883,20 @@
             ]
           },
           {
-            "phrase": "cardiac arrest",
-            "scores": [
-              0.0,
-              37.1,
-              25.3,
-              10.0
-            ]
-          },
-          {
             "phrase": "critically ill",
             "scores": [
               0.0,
               39.0,
               16.6,
+              20.0
+            ]
+          },
+          {
+            "phrase": "cardiac arrest",
+            "scores": [
+              0.0,
+              37.1,
+              25.3,
               10.0
             ]
           },
