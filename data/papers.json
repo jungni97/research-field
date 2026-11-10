@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T23:34:14.549607Z",
+  "generated_at": "2026-11-10T02:44:29.178022Z",
   "window_days": 1095,
   "fields": [
     {
@@ -826,71 +826,6 @@
               "field_label": "예방의학",
               "abstract": "BACKGROUND: Screening methods are crucial in enabling prevention and early intervention for individuals with temporomandibular disorders (TMDs) in the general population. Several screening instruments for TMDs have been published, making it challenging to choose the best-suited one for identifying patients with TMDs in daily practice. OBJECTIVE: To evaluate the diagnostic accuracy of available screening instruments for TMDs in the general adult population. METHODS: The study's protocol was registered in PROSPERO (CRD42024527919). PubMed/Medline, Web of Science, and Scopus were searched on April 12, 2024, supplemented by a hand search, to identify studies reporting diagnostic accuracy of screening instruments for TMDs in the general adult population. Two independent reviewers performed abstract screening, full-text assessment, risk-of-bias assessment (QUADAS-2), and data extraction. RESULTS: The search identified 3608 studies. After abstract screening, 151 studies were reviewed in full text, and five studies on diagnostic accuracy with 2556 participants were included. Two included studies reported reliability measures for the Short Form Fonseca Amnestic Index (SFAI) compared with other questionnaires. Three studies included in the meta-analysis evaluated the Fonseca Amnestic Index (FAI), its short form (SFAI), and Three Screening Questions for TMDs (3Q/TMD): they report sensitivity of 86% (FAI and SFAI) and 81% (3Q/TMD), and specificity of 92% (FAI), 96 % (SFAI), and 79% (3Q/TMD) respectively. All included studies had high risk of bias for the index test but low risk of bias for patient selection. CONCLUSION: FAI, SFAI, and 3Q/TMD demonstrate high sensitivity and specificity, suggesting their suitability for screening for TMD in the general population.",
               "title_ko": "턱관절 장애 선별 도구: 체계적인 검토 및 메타 분석."
-            }
-          ]
-        },
-        {
-          "journal": "Romanian journal of ophthalmology",
-          "impact_factor": 1.5,
-          "index_type": "미상",
-          "quartile": "미상",
-          "paper_count": 1,
-          "top_paper": {
-            "pmid": "39936065",
-            "title": "Diabetic Retinopathy Screening Adherence.",
-            "journal": "Romanian journal of ophthalmology",
-            "impact_factor": 1.5,
-            "index_type": "미상",
-            "quartile": "미상",
-            "pubdate": "2024-10-01",
-            "authors": [
-              "Anvari P",
-              "Mirshahi R",
-              "Nezhad FH"
-            ],
-            "citation_count": 4,
-            "rcr": 1.4873310588888813,
-            "volume": "68",
-            "issue": "4",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/39936065/",
-            "altmetric_score": 0,
-            "altmetric_news": 0,
-            "altmetric_social": 0,
-            "is_current_issue": true,
-            "hot_score": 21.8,
-            "field": "preventive",
-            "field_label": "예방의학",
-            "abstract": "OBJECTIVE: To evaluate the adherence rate of diabetic subjects to the retinopathy screening program and to identify the characteristics associated with non-compliance to regular screening. METHODS: A cross-sectional study involving 240 patients with diabetes who attended outpatient non-ophthalmology clinics at four tertiary university hospitals between March 2020 and March 2021 was conducted. A validated questionnaire collected data that included socio-demographic variables, characteristics of diabetes, diabetes-related complications and comorbidities, knowledge and attitudes toward DR and its screening, and barriers to DR screening. Univariate and multivariate logistic regression was employed to identify the factors associated with adherence to the annual diabetic eye examination. Adherence was defined as a history of the dilated ophthalmic exam in the past year and subsequent follow-ups recommended by the ophthalmologist. RESULTS: The participants had an average age of 59 ± 14.2 years, and 53% were females. The average duration of diabetes was 108 ± 89.62 months. Based on the last ophthalmic examination, 50.8% of patients were non-adherent to the suggested DR screening guidelines. A history of smoking (p-value=0.013, 95%CI for OR: 1.21-5.10), lower education levels (p-value=0.045, 95%CI for OR: 1.02-3.82), and not clarifying the necessity of ophthalmic examination by primary physicians (p-value < 0.001, 95%CI for OR: 2.19-12.35) were significantly associated with non-adherence. Among non-adherent subjects, 38% reported fear of the COVID-19 pandemic, 21.3% cited the lack of information regarding DR screening, 10.7% cited lack of access to the ophthalmologist, 5.7% cited financial problems, and 10.7% noted a lack of support from family and friends as the main reason for non-attendance to the annual eye care. DISCUSSIONS: This study revealed a non-compliance rate with DR screening guidelines that surpasses pre-pandemic figures. Although younger participants demonstrated a higher likelihood of recent eye care, this correlation lost significance in multivariate analysis, potentially reflecting education and technology utilization disparities. Despite uniform insurance coverage, socioeconomic factors, such as transportation challenges, may impede adherence. Furthermore, individuals informed by healthcare providers about the necessity of eye exams exhibited greater compliance; however, many newly diagnosed patients remained unaware of the risks associated with DR. The COVID-19 pandemic emerged as a prominent barrier, with numerous patients citing it as a reason for their non-compliance due to disruptions in clinical care. CONCLUSIONS: Half of the diabetic subjects attending tertiary hospitals for non-ophthalmic complaints were non-adherent to recommended retinopathy screening. Lower education, smoking, and unawareness of the necessity of annual eye care had the strongest association with non-compliance. Fear of contracting COVID-19 was the most prevalent barrier to the eye examination. These findings underscore the necessity for targeted patient education initiatives, particularly among those with lower education levels and smokers.",
-            "title_ko": "당뇨망막병증 선별검사 순응도."
-          },
-          "papers": [
-            {
-              "pmid": "39936065",
-              "title": "Diabetic Retinopathy Screening Adherence.",
-              "journal": "Romanian journal of ophthalmology",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2024-10-01",
-              "authors": [
-                "Anvari P",
-                "Mirshahi R",
-                "Nezhad FH"
-              ],
-              "citation_count": 4,
-              "rcr": 1.4873310588888813,
-              "volume": "68",
-              "issue": "4",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/39936065/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": true,
-              "hot_score": 21.8,
-              "field": "preventive",
-              "field_label": "예방의학",
-              "abstract": "OBJECTIVE: To evaluate the adherence rate of diabetic subjects to the retinopathy screening program and to identify the characteristics associated with non-compliance to regular screening. METHODS: A cross-sectional study involving 240 patients with diabetes who attended outpatient non-ophthalmology clinics at four tertiary university hospitals between March 2020 and March 2021 was conducted. A validated questionnaire collected data that included socio-demographic variables, characteristics of diabetes, diabetes-related complications and comorbidities, knowledge and attitudes toward DR and its screening, and barriers to DR screening. Univariate and multivariate logistic regression was employed to identify the factors associated with adherence to the annual diabetic eye examination. Adherence was defined as a history of the dilated ophthalmic exam in the past year and subsequent follow-ups recommended by the ophthalmologist. RESULTS: The participants had an average age of 59 ± 14.2 years, and 53% were females. The average duration of diabetes was 108 ± 89.62 months. Based on the last ophthalmic examination, 50.8% of patients were non-adherent to the suggested DR screening guidelines. A history of smoking (p-value=0.013, 95%CI for OR: 1.21-5.10), lower education levels (p-value=0.045, 95%CI for OR: 1.02-3.82), and not clarifying the necessity of ophthalmic examination by primary physicians (p-value < 0.001, 95%CI for OR: 2.19-12.35) were significantly associated with non-adherence. Among non-adherent subjects, 38% reported fear of the COVID-19 pandemic, 21.3% cited the lack of information regarding DR screening, 10.7% cited lack of access to the ophthalmologist, 5.7% cited financial problems, and 10.7% noted a lack of support from family and friends as the main reason for non-attendance to the annual eye care. DISCUSSIONS: This study revealed a non-compliance rate with DR screening guidelines that surpasses pre-pandemic figures. Although younger participants demonstrated a higher likelihood of recent eye care, this correlation lost significance in multivariate analysis, potentially reflecting education and technology utilization disparities. Despite uniform insurance coverage, socioeconomic factors, such as transportation challenges, may impede adherence. Furthermore, individuals informed by healthcare providers about the necessity of eye exams exhibited greater compliance; however, many newly diagnosed patients remained unaware of the risks associated with DR. The COVID-19 pandemic emerged as a prominent barrier, with numerous patients citing it as a reason for their non-compliance due to disruptions in clinical care. CONCLUSIONS: Half of the diabetic subjects attending tertiary hospitals for non-ophthalmic complaints were non-adherent to recommended retinopathy screening. Lower education, smoking, and unawareness of the necessity of annual eye care had the strongest association with non-compliance. Fear of contracting COVID-19 was the most prevalent barrier to the eye examination. These findings underscore the necessity for targeted patient education initiatives, particularly among those with lower education levels and smokers.",
-              "title_ko": "당뇨망막병증 선별검사 순응도."
             }
           ]
         },
@@ -3109,6 +3044,71 @@
           ]
         },
         {
+          "journal": "Evidence & policy : a journal of research, debate and practice",
+          "impact_factor": 1.5,
+          "index_type": "미상",
+          "quartile": "미상",
+          "paper_count": 1,
+          "top_paper": {
+            "pmid": "40557678",
+            "title": "Facilitating knowledge transfer during Australia's COVID-19 vaccine rollout: an examination of 'Functional Dialogues' as an approach to bridge the evidence-policy gap.",
+            "journal": "Evidence & policy : a journal of research, debate and practice",
+            "impact_factor": 1.5,
+            "index_type": "미상",
+            "quartile": "미상",
+            "pubdate": "2024-11-11",
+            "authors": [
+              "Attwell K",
+              "Harper T",
+              "Carlson SJ"
+            ],
+            "citation_count": 1,
+            "rcr": 0.37981548431333206,
+            "volume": "21",
+            "issue": "3",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/40557678/",
+            "altmetric_score": 0,
+            "altmetric_news": 0,
+            "altmetric_social": 0,
+            "is_current_issue": true,
+            "hot_score": 15.1,
+            "field": "preventive",
+            "field_label": "예방의학",
+            "abstract": "BACKGROUND: Our interdisciplinary team initiated a project to inform the COVID-19 vaccination programme. We developed a novel research co-creation approach to share emerging findings with government. AIMS AND OBJECTIVES: We critically assess the 'Functional Dialogue' (FD) programme for future research translation practices in time-limited policy-making scenarios. We identify what factors helped us to put the FDs together and consider their effects on all aspects of the research programme. We draw out key moments of impact, weaknesses and challenges and identify how future FDs might be enhanced. METHODS: Between January 2021 and June 2022, we conducted 14 FDs with state and federal government, exploring attendees' attitudes, beliefs, experiences, roles and observations regarding our research. FDs and research team debriefs were audio-recorded, transcribed and analysed thematically. FINDINGS: FD processes proved invaluable to the timeliness, impact and flow of our research project by creating systems that helped to bridge the evidence-policy gap. Relationships and reciprocity helped, but other professional commitments of our government partners posed challenges and produced fluctuating engagement. FDs built the capacity of the research team, strengthening communication skills and creating opportunities to contribute to pandemic policies. DISCUSSION AND CONCLUSION: We struggled to quantify the impact of FDs on policy decisions due to the ethical requirements of academic research, barriers for policy makers in isolating and/or acknowledging impact, and the collaborative nature of dialogue. Nevertheless, the structures of knowledge transfer that we foresaw as necessary to ensure impact became the central plank of the project's broader success.",
+            "title_ko": "호주의 COVID-19 백신 출시 기간 동안 지식 전달 촉진: 증거 정책 격차를 해소하기 위한 접근법으로 '기능적 대화' 에 대한 조사."
+          },
+          "papers": [
+            {
+              "pmid": "40557678",
+              "title": "Facilitating knowledge transfer during Australia's COVID-19 vaccine rollout: an examination of 'Functional Dialogues' as an approach to bridge the evidence-policy gap.",
+              "journal": "Evidence & policy : a journal of research, debate and practice",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2024-11-11",
+              "authors": [
+                "Attwell K",
+                "Harper T",
+                "Carlson SJ"
+              ],
+              "citation_count": 1,
+              "rcr": 0.37981548431333206,
+              "volume": "21",
+              "issue": "3",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/40557678/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": true,
+              "hot_score": 15.1,
+              "field": "preventive",
+              "field_label": "예방의학",
+              "abstract": "BACKGROUND: Our interdisciplinary team initiated a project to inform the COVID-19 vaccination programme. We developed a novel research co-creation approach to share emerging findings with government. AIMS AND OBJECTIVES: We critically assess the 'Functional Dialogue' (FD) programme for future research translation practices in time-limited policy-making scenarios. We identify what factors helped us to put the FDs together and consider their effects on all aspects of the research programme. We draw out key moments of impact, weaknesses and challenges and identify how future FDs might be enhanced. METHODS: Between January 2021 and June 2022, we conducted 14 FDs with state and federal government, exploring attendees' attitudes, beliefs, experiences, roles and observations regarding our research. FDs and research team debriefs were audio-recorded, transcribed and analysed thematically. FINDINGS: FD processes proved invaluable to the timeliness, impact and flow of our research project by creating systems that helped to bridge the evidence-policy gap. Relationships and reciprocity helped, but other professional commitments of our government partners posed challenges and produced fluctuating engagement. FDs built the capacity of the research team, strengthening communication skills and creating opportunities to contribute to pandemic policies. DISCUSSION AND CONCLUSION: We struggled to quantify the impact of FDs on policy decisions due to the ethical requirements of academic research, barriers for policy makers in isolating and/or acknowledging impact, and the collaborative nature of dialogue. Nevertheless, the structures of knowledge transfer that we foresaw as necessary to ensure impact became the central plank of the project's broader success.",
+              "title_ko": "호주의 COVID-19 백신 출시 기간 동안 지식 전달 촉진: 증거 정책 격차를 해소하기 위한 접근법으로 '기능적 대화' 에 대한 조사."
+            }
+          ]
+        },
+        {
           "journal": "Prosthetics and orthotics international",
           "impact_factor": 1.5,
           "index_type": "미상",
@@ -3520,69 +3520,6 @@
               "field_label": "예방의학",
               "abstract": "BACKGROUND: Vaccination adherence among populations is a complex process involving, on the one hand, the expected benefit of a vaccine, and on the other, the perceived risk. To develop an evidence-based communication strategy aimed at improving vaccination coverage in Niger, we conducted a mixed socio-anthropological study of the perceptions among the population on the benefit and the risk of the childhood (Expanded Program on Immunization, EPI) and the Covid-19 vaccines. While the vaccine coverage for some of the EPI vaccines is above 80%, only 33% of the children are fully vaccinated, according to the national vaccination schedule. The first objective of our study was to understand the perceptions that might explain this drop off.The second objective was to identify the drivers of the low adherence to the Covid-19 vaccination, 22% of the illegible population being vaccinated. MATERIALS AND METHODS: In March 2023, we interviewed 509 people for the quantitative study and 40 people through focus groups and individual interviews for the qualitative one, in Niamey (80% of the interviewees) and two villages. RESULTS: 96.9% of the interviewees think that childhood vaccines are \"a good thing,\" even though 30.6% know that they might have negative side effects. While 87.8% think that it is \"easy\" or \"very easy\" to get children vaccinated, 21.4% point out as \"annoying\" the lack of amiability by the health care workers and 16.9% the waiting time. The qualitative study showed that these two complaints drive some women not to complete the vaccination schedule. We might also hypothesize that, given the perceived lack of amiability, some women don't get enough information on the side effects and their management. Surprisingly, 73.3% of the interviewees think that vaccines against the disease are a good thing, and 83% of those who have heard messages promoting the vaccination approve them. This apparent contradiction with the low vaccine uptake is explained by a very low perception of the Covid-19 risks. More than half of the population surveyed believe that the disease is not present in the country, a very large majority believe that only ill people can transmit the disease, while only 12.8% think they know anybody who has ever been sick with Covid-19. According to our results, the circulating rumors on the vaccines don't play a significant role in the low adherence to Covid-19 uptake, nor in the insufficient completeness of the EPI vaccination schedule. CONCLUSION: The communication efforts on EPI vaccination should focus on the explanation of the side effects and their management, as well as improving the organization of the vaccination sessions. The communication on Covid-19 vaccination should focus on the reality of the disease in the country and the groups at risk for severe forms.",
               "title_ko": "[소아 백신 접종 (EPI) 및 코로나19 예방 접종에 대한 장벽과 거부감: 니제르 설문 조사 결과]."
-            }
-          ]
-        },
-        {
-          "journal": "Pakistan journal of pharmaceutical sciences",
-          "impact_factor": 1.5,
-          "index_type": "미상",
-          "quartile": "미상",
-          "paper_count": 1,
-          "top_paper": {
-            "pmid": "39923146",
-            "title": "Factors affecting compliance with oral anticoagulant medication for secondary prevention in middle-aged and young patients with coronary heart disease after percutaneous coronary intervention and the establishment of a prediction model.",
-            "journal": "Pakistan journal of pharmaceutical sciences",
-            "impact_factor": 1.5,
-            "index_type": "미상",
-            "quartile": "미상",
-            "pubdate": "2024-11-01",
-            "authors": [
-              "Cao J",
-              "Ge J"
-            ],
-            "citation_count": 1,
-            "rcr": 0.4402188844511537,
-            "volume": "37",
-            "issue": "6",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/39923146/",
-            "altmetric_score": 0,
-            "altmetric_news": 0,
-            "altmetric_social": 0,
-            "is_current_issue": true,
-            "hot_score": 15.1,
-            "field": "preventive",
-            "field_label": "예방의학",
-            "abstract": "Patients with coronary heart disease (CHD) who undergo percutaneous coronary intervention (PCI) may exhibit suboptimal adherence to oral anticoagulant therapy due to various factors. This study aims to investigate the determinants influencing adherence to oral anticoagulant therapy in middle-aged and young CHD patients following PCI. We conducted a retrospective analysis on the clinical data of 310 middle-aged and young CHD patients who underwent PCI treatment at The Fourth Affiliated Hospital of Zhejiang University School of Medicine between 6 month 2023 and 8 month 2024, monitored for 6 months and categorized them into a non-compliance group (n=86) and a compliance group (n=224). Results indicated that factors such as older average age, longer duration of CHD, lower educational level, lower income and rural residence significantly impacted adherence in the non-compliance group. Univariate and multivariate logistic regression analyses identified age, duration of CHD, medication adherence score, non-compliance behavior score, marital status, income and employment status as key influencing factors. The predictive model developed demonstrated strong predictive capability (AUC=0.882) and was validated through decision curve analysis and calibration curves. These findings provide important insights for improving adherence to anticoagulant therapy among middle-aged and young CHD patients.",
-            "title_ko": "경피적 관상동맥 중재 후 관상동맥 심장 질환 중년 및 젊은 환자에서 2차 예방을 위한 경구용 항응고제 약물의 순응도에 영향을 미치는 인자 및 예측 모델의 확립."
-          },
-          "papers": [
-            {
-              "pmid": "39923146",
-              "title": "Factors affecting compliance with oral anticoagulant medication for secondary prevention in middle-aged and young patients with coronary heart disease after percutaneous coronary intervention and the establishment of a prediction model.",
-              "journal": "Pakistan journal of pharmaceutical sciences",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2024-11-01",
-              "authors": [
-                "Cao J",
-                "Ge J"
-              ],
-              "citation_count": 1,
-              "rcr": 0.4402188844511537,
-              "volume": "37",
-              "issue": "6",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/39923146/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": true,
-              "hot_score": 15.1,
-              "field": "preventive",
-              "field_label": "예방의학",
-              "abstract": "Patients with coronary heart disease (CHD) who undergo percutaneous coronary intervention (PCI) may exhibit suboptimal adherence to oral anticoagulant therapy due to various factors. This study aims to investigate the determinants influencing adherence to oral anticoagulant therapy in middle-aged and young CHD patients following PCI. We conducted a retrospective analysis on the clinical data of 310 middle-aged and young CHD patients who underwent PCI treatment at The Fourth Affiliated Hospital of Zhejiang University School of Medicine between 6 month 2023 and 8 month 2024, monitored for 6 months and categorized them into a non-compliance group (n=86) and a compliance group (n=224). Results indicated that factors such as older average age, longer duration of CHD, lower educational level, lower income and rural residence significantly impacted adherence in the non-compliance group. Univariate and multivariate logistic regression analyses identified age, duration of CHD, medication adherence score, non-compliance behavior score, marital status, income and employment status as key influencing factors. The predictive model developed demonstrated strong predictive capability (AUC=0.882) and was validated through decision curve analysis and calibration curves. These findings provide important insights for improving adherence to anticoagulant therapy among middle-aged and young CHD patients.",
-              "title_ko": "경피적 관상동맥 중재 후 관상동맥 심장 질환 중년 및 젊은 환자에서 2차 예방을 위한 경구용 항응고제 약물의 순응도에 영향을 미치는 인자 및 예측 모델의 확립."
             }
           ]
         },
@@ -4350,6 +4287,99 @@
           ]
         },
         {
+          "journal": "Romanian journal of ophthalmology",
+          "impact_factor": 1.5,
+          "index_type": "미상",
+          "quartile": "미상",
+          "paper_count": 2,
+          "top_paper": {
+            "pmid": "39936065",
+            "title": "Diabetic Retinopathy Screening Adherence.",
+            "journal": "Romanian journal of ophthalmology",
+            "impact_factor": 1.5,
+            "index_type": "미상",
+            "quartile": "미상",
+            "pubdate": "2024-10-01",
+            "authors": [
+              "Anvari P",
+              "Mirshahi R",
+              "Nezhad FH"
+            ],
+            "citation_count": 4,
+            "rcr": 1.4873310588888813,
+            "volume": "68",
+            "issue": "4",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/39936065/",
+            "altmetric_score": 0,
+            "altmetric_news": 0,
+            "altmetric_social": 0,
+            "is_current_issue": false,
+            "hot_score": 11.8,
+            "field": "preventive",
+            "field_label": "예방의학",
+            "abstract": "OBJECTIVE: To evaluate the adherence rate of diabetic subjects to the retinopathy screening program and to identify the characteristics associated with non-compliance to regular screening. METHODS: A cross-sectional study involving 240 patients with diabetes who attended outpatient non-ophthalmology clinics at four tertiary university hospitals between March 2020 and March 2021 was conducted. A validated questionnaire collected data that included socio-demographic variables, characteristics of diabetes, diabetes-related complications and comorbidities, knowledge and attitudes toward DR and its screening, and barriers to DR screening. Univariate and multivariate logistic regression was employed to identify the factors associated with adherence to the annual diabetic eye examination. Adherence was defined as a history of the dilated ophthalmic exam in the past year and subsequent follow-ups recommended by the ophthalmologist. RESULTS: The participants had an average age of 59 ± 14.2 years, and 53% were females. The average duration of diabetes was 108 ± 89.62 months. Based on the last ophthalmic examination, 50.8% of patients were non-adherent to the suggested DR screening guidelines. A history of smoking (p-value=0.013, 95%CI for OR: 1.21-5.10), lower education levels (p-value=0.045, 95%CI for OR: 1.02-3.82), and not clarifying the necessity of ophthalmic examination by primary physicians (p-value < 0.001, 95%CI for OR: 2.19-12.35) were significantly associated with non-adherence. Among non-adherent subjects, 38% reported fear of the COVID-19 pandemic, 21.3% cited the lack of information regarding DR screening, 10.7% cited lack of access to the ophthalmologist, 5.7% cited financial problems, and 10.7% noted a lack of support from family and friends as the main reason for non-attendance to the annual eye care. DISCUSSIONS: This study revealed a non-compliance rate with DR screening guidelines that surpasses pre-pandemic figures. Although younger participants demonstrated a higher likelihood of recent eye care, this correlation lost significance in multivariate analysis, potentially reflecting education and technology utilization disparities. Despite uniform insurance coverage, socioeconomic factors, such as transportation challenges, may impede adherence. Furthermore, individuals informed by healthcare providers about the necessity of eye exams exhibited greater compliance; however, many newly diagnosed patients remained unaware of the risks associated with DR. The COVID-19 pandemic emerged as a prominent barrier, with numerous patients citing it as a reason for their non-compliance due to disruptions in clinical care. CONCLUSIONS: Half of the diabetic subjects attending tertiary hospitals for non-ophthalmic complaints were non-adherent to recommended retinopathy screening. Lower education, smoking, and unawareness of the necessity of annual eye care had the strongest association with non-compliance. Fear of contracting COVID-19 was the most prevalent barrier to the eye examination. These findings underscore the necessity for targeted patient education initiatives, particularly among those with lower education levels and smokers.",
+            "title_ko": "당뇨망막병증 선별검사 순응도."
+          },
+          "papers": [
+            {
+              "pmid": "39936065",
+              "title": "Diabetic Retinopathy Screening Adherence.",
+              "journal": "Romanian journal of ophthalmology",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2024-10-01",
+              "authors": [
+                "Anvari P",
+                "Mirshahi R",
+                "Nezhad FH"
+              ],
+              "citation_count": 4,
+              "rcr": 1.4873310588888813,
+              "volume": "68",
+              "issue": "4",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/39936065/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 11.8,
+              "field": "preventive",
+              "field_label": "예방의학",
+              "abstract": "OBJECTIVE: To evaluate the adherence rate of diabetic subjects to the retinopathy screening program and to identify the characteristics associated with non-compliance to regular screening. METHODS: A cross-sectional study involving 240 patients with diabetes who attended outpatient non-ophthalmology clinics at four tertiary university hospitals between March 2020 and March 2021 was conducted. A validated questionnaire collected data that included socio-demographic variables, characteristics of diabetes, diabetes-related complications and comorbidities, knowledge and attitudes toward DR and its screening, and barriers to DR screening. Univariate and multivariate logistic regression was employed to identify the factors associated with adherence to the annual diabetic eye examination. Adherence was defined as a history of the dilated ophthalmic exam in the past year and subsequent follow-ups recommended by the ophthalmologist. RESULTS: The participants had an average age of 59 ± 14.2 years, and 53% were females. The average duration of diabetes was 108 ± 89.62 months. Based on the last ophthalmic examination, 50.8% of patients were non-adherent to the suggested DR screening guidelines. A history of smoking (p-value=0.013, 95%CI for OR: 1.21-5.10), lower education levels (p-value=0.045, 95%CI for OR: 1.02-3.82), and not clarifying the necessity of ophthalmic examination by primary physicians (p-value < 0.001, 95%CI for OR: 2.19-12.35) were significantly associated with non-adherence. Among non-adherent subjects, 38% reported fear of the COVID-19 pandemic, 21.3% cited the lack of information regarding DR screening, 10.7% cited lack of access to the ophthalmologist, 5.7% cited financial problems, and 10.7% noted a lack of support from family and friends as the main reason for non-attendance to the annual eye care. DISCUSSIONS: This study revealed a non-compliance rate with DR screening guidelines that surpasses pre-pandemic figures. Although younger participants demonstrated a higher likelihood of recent eye care, this correlation lost significance in multivariate analysis, potentially reflecting education and technology utilization disparities. Despite uniform insurance coverage, socioeconomic factors, such as transportation challenges, may impede adherence. Furthermore, individuals informed by healthcare providers about the necessity of eye exams exhibited greater compliance; however, many newly diagnosed patients remained unaware of the risks associated with DR. The COVID-19 pandemic emerged as a prominent barrier, with numerous patients citing it as a reason for their non-compliance due to disruptions in clinical care. CONCLUSIONS: Half of the diabetic subjects attending tertiary hospitals for non-ophthalmic complaints were non-adherent to recommended retinopathy screening. Lower education, smoking, and unawareness of the necessity of annual eye care had the strongest association with non-compliance. Fear of contracting COVID-19 was the most prevalent barrier to the eye examination. These findings underscore the necessity for targeted patient education initiatives, particularly among those with lower education levels and smokers.",
+              "title_ko": "당뇨망막병증 선별검사 순응도."
+            },
+            {
+              "pmid": "43001110",
+              "title": "Adjunctive Treatment with Subconjunctival and Topical Bevacizumab to Prevent Recurrence after Excision of Primary Pterygium: A Multi-centric Trial.",
+              "journal": "Romanian journal of ophthalmology",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2026-07-01",
+              "authors": [
+                "Pantola P",
+                "Gupta S",
+                "Kaur G"
+              ],
+              "citation_count": 0,
+              "rcr": null,
+              "volume": "70",
+              "issue": "3",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/43001110/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": true,
+              "hot_score": 10.0,
+              "field": "preventive",
+              "field_label": "예방의학",
+              "abstract": "OBJECTIVE: Pterygium is a common ocular condition, and excision with conjunctival autografting is the standard treatment. Recurrence after surgery is a known complication, and various adjunctive modalities are used along with excision to reduce recurrence. The use of vascular endothelial growth factor (VEGF) inhibitors, such as bevacizumab (Avastin), has been shown to reduce recurrence in several studies. This study was conducted to evaluate the efficacy of subconjunctival and topical Bevacizumab (BVZ) in preventing recurrence after pterygium surgery. METHODS: This was a multi-center randomized controlled trial in which 1,800 patients were recruited and divided into three groups. In Group C, standard treatment of pterygium excision and conjunctival autografting was performed. Additionally, in Group A, subconjunctival BVZ was administered post-operatively and again 1 week after surgery, whereas in Group B, topical BVZ was administered for 4 weeks post-operatively. Recurrence was assessed at six and twelve months, along with visual acuity and complication rates. RESULTS: Out of 1,800 patients recruited, 332 patients (18.44%) were lost to follow-up. Visual acuity in all three groups showed significant improvement at six and twelve months. The recurrence rate in Groups A and B was significantly lower than in Group C at both the six- and twelve-month follow-ups. The complication rates among the three groups were comparable. DISCUSSION: The findings demonstrate that both subconjunctival and topical bevacizumab significantly reduce pterygium recurrence when used as adjuncts to conjunctival autografting, without increasing complications. These results support the role of VEGF inhibition in limiting postoperative fibrovascular proliferation and are consistent with previous studies. Although follow-up losses occurred, the large multicenter design strengthens the reliability and clinical applicability of the findings. CONCLUSIONS: When used as an adjunct, both subconjunctival and topical bevacizumab reduce the recurrence rate following primary pterygium excision with conjunctival autografting.",
+              "title_ko": "원발성 익상편 절제술 후 재발을 방지하기 위한 결막하 및 국소 베바시주맙을 이용한 부가적 치료: 다기관 시험."
+            }
+          ]
+        },
+        {
           "journal": "Frontiers in endocrinology",
           "impact_factor": 1.5,
           "index_type": "미상",
@@ -4839,24 +4869,6 @@
           ]
         },
         {
-          "phrase": "diabetic retinopathy",
-          "score": 41.9,
-          "paper_count": 2,
-          "pmids": [
-            "39936065",
-            "40053023"
-          ]
-        },
-        {
-          "phrase": "retinopathy screening",
-          "score": 41.9,
-          "paper_count": 2,
-          "pmids": [
-            "39936065",
-            "40053023"
-          ]
-        },
-        {
           "phrase": "screening programs",
           "score": 37.0,
           "paper_count": 2,
@@ -4902,21 +4914,21 @@
           ]
         },
         {
-          "phrase": "coronary heart",
-          "score": 32.7,
+          "phrase": "diabetic retinopathy",
+          "score": 31.9,
           "paper_count": 2,
           "pmids": [
-            "39949339",
-            "39923146"
+            "40053023",
+            "39936065"
           ]
         },
         {
-          "phrase": "heart disease",
-          "score": 32.7,
+          "phrase": "retinopathy screening",
+          "score": 31.9,
           "paper_count": 2,
           "pmids": [
-            "39949339",
-            "39923146"
+            "40053023",
+            "39936065"
           ]
         },
         {
@@ -4926,6 +4938,25 @@
           "pmids": [
             "40708418",
             "42374679"
+          ]
+        },
+        {
+          "phrase": "diabetes mellitus",
+          "score": 29.9,
+          "paper_count": 3,
+          "pmids": [
+            "40302970",
+            "40655936",
+            "41641034"
+          ]
+        },
+        {
+          "phrase": "vaccination status",
+          "score": 26.1,
+          "paper_count": 2,
+          "pmids": [
+            "40028449",
+            "41906517"
           ]
         }
       ],
@@ -4943,7 +4974,7 @@
               0.0,
               45.3,
               0.0,
-              40.0
+              60.0
             ]
           },
           {
@@ -4952,7 +4983,7 @@
               0.0,
               45.4,
               10.1,
-              21.8
+              31.8
             ]
           },
           {
@@ -4965,21 +4996,12 @@
             ]
           },
           {
-            "phrase": "cancer screening",
-            "scores": [
-              0.0,
-              0.0,
-              25.1,
-              35.1
-            ]
-          },
-          {
             "phrase": "covid- vaccination",
             "scores": [
               0.0,
               13.1,
               26.1,
-              20.0
+              30.0
             ]
           },
           {
@@ -4990,6 +5012,15 @@
               10.0,
               10.0
             ]
+          },
+          {
+            "phrase": "heart disease",
+            "scores": [
+              0.0,
+              0.0,
+              37.6,
+              10.0
+            ]
           }
         ]
       }
@@ -4997,7 +5028,7 @@
     {
       "key": "emergency",
       "label": "응급의학",
-      "paper_count": 446,
+      "paper_count": 453,
       "journals": [
         {
           "journal": "Resuscitation",
@@ -5191,6 +5222,71 @@
               "field_label": "응급의학",
               "abstract": "INTRODUCTION: In 2022, Alzheimer disease was the seventh leading cause of death in the United States and affected an estimated 6.5 million adults age 65 and older. Adults with Alzheimer disease have been shown to rely on emergency departments (EDs) as a source for care. This report describes ED visits by adults age 65 and older with Alzheimer disease according to selected patient and visit characteristics and compares them with visits by adults without Alzheimer disease. METHODS: Data in this report are from the National Hospital Ambulatory Medical Care Survey, a nationally representative annual survey of nonfederal general and short-stay hospitals. Results are presented by combining data for 2020, 2021, and 2022 for more detailed subgroup analyses. Estimates and their corresponding variances were calculated using SAS-callable SUDAAN software and were based on 3-year annual averages. Differences between rates and percentages were evaluated using two-sided significance  t  tests at the 0.05 level. KEY FINDINGS: During 2020-2022, the annual ED visit rate by adults age 65 and older with Alzheimer's disease was 36.1 visits per 1,000 adults and increased with age. ED visit rates were highest among Black non-Hispanic people. Ambulance arrival was more frequent for ED visits by adults with Alzheimer's disease (61.0%) compared with visits by those without Alzheimer's disease (34.9%). About one-third (29.6%) of ED visits by adults with Alzheimer's disease were made by nursing home residents, higher than the corresponding percentage of visits by adults without Alzheimer's disease (5.9%). Approximately 37.2% of ED visits made by adults with Alzheimer's disease resulted in hospital admission, which was higher than the corresponding percentage of visits by those without Alzheimer's disease (28.6%).",
               "title_ko": "65세 이상 알츠하이머 질환을 가진 성인의 응급실 방문: 미국, 2020-2022."
+            }
+          ]
+        },
+        {
+          "journal": "Anesthesiology",
+          "impact_factor": 1.5,
+          "index_type": "미상",
+          "quartile": "미상",
+          "paper_count": 1,
+          "top_paper": {
+            "pmid": "41537508",
+            "title": "Perioperative Resuscitation and Life Support (PeRLS): An Update.",
+            "journal": "Anesthesiology",
+            "impact_factor": 1.5,
+            "index_type": "미상",
+            "quartile": "미상",
+            "pubdate": "2025-11-11",
+            "authors": [
+              "Moitra VK",
+              "Banerjee A",
+              "Ben-Jacob TK"
+            ],
+            "citation_count": 6,
+            "rcr": 2.330787629048384,
+            "volume": "143",
+            "issue": "6",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/41537508/",
+            "altmetric_score": 0,
+            "altmetric_news": 0,
+            "altmetric_social": 0,
+            "is_current_issue": true,
+            "hot_score": 28.5,
+            "field": "emergency",
+            "field_label": "응급의학",
+            "abstract": "Cardiovascular collapse and arrest in the periprocedural setting and intensive care unit differ from arrests in other contexts (such as out-of-hospital or hospital ward) because clinicians almost always witness the event, and the most likely precipitating cause may be known. In comparison to other settings, the response can be timelier and more focused on treating the underlying cause(s). Since many patients deteriorate over minutes to hours, clinicians can evaluate the patient expeditiously, generate a diagnosis, and initiate appropriate treatment more rapidly than in other arrest circumstances. This iteration of Perioperative Resuscitation and Life Support (PeRLS) employs Grading of Recommendations, Assessment, Development, and Evaluations (GRADE) methodology to review the most recent evidence on preventing and managing cardiac arrest during the perioperative period. Furthermore, many of the recommendations and algorithms may also be applicable to areas outside the operating room, such as the intensive care unit and emergency room.",
+            "title_ko": "수술 전 소생술 및 생명 유지 (PeRLS): 업데이트."
+          },
+          "papers": [
+            {
+              "pmid": "41537508",
+              "title": "Perioperative Resuscitation and Life Support (PeRLS): An Update.",
+              "journal": "Anesthesiology",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2025-11-11",
+              "authors": [
+                "Moitra VK",
+                "Banerjee A",
+                "Ben-Jacob TK"
+              ],
+              "citation_count": 6,
+              "rcr": 2.330787629048384,
+              "volume": "143",
+              "issue": "6",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/41537508/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": true,
+              "hot_score": 28.5,
+              "field": "emergency",
+              "field_label": "응급의학",
+              "abstract": "Cardiovascular collapse and arrest in the periprocedural setting and intensive care unit differ from arrests in other contexts (such as out-of-hospital or hospital ward) because clinicians almost always witness the event, and the most likely precipitating cause may be known. In comparison to other settings, the response can be timelier and more focused on treating the underlying cause(s). Since many patients deteriorate over minutes to hours, clinicians can evaluate the patient expeditiously, generate a diagnosis, and initiate appropriate treatment more rapidly than in other arrest circumstances. This iteration of Perioperative Resuscitation and Life Support (PeRLS) employs Grading of Recommendations, Assessment, Development, and Evaluations (GRADE) methodology to review the most recent evidence on preventing and managing cardiac arrest during the perioperative period. Furthermore, many of the recommendations and algorithms may also be applicable to areas outside the operating room, such as the intensive care unit and emergency room.",
+              "title_ko": "수술 전 소생술 및 생명 유지 (PeRLS): 업데이트."
             }
           ]
         },
@@ -5525,7 +5621,7 @@
               "field": "emergency",
               "field_label": "응급의학",
               "abstract": "BACKGROUND: Early cardiopulmonary resuscitation (CPR) and defibrillation with Automated External Defibrillators (AEDs) by the public at an out-of-hospital cardiac arrest (OHCA) increases patient survival, but AEDs are infrequently used. Using drones to deliver AEDs may be one way to increase uptake, but there is limited understanding about what members of the public think about this. The aim of the study was to explore public attitudes towards drone AED delivery for OHCA. METHODS: We conducted 14 remote, semi-structured interviews with real-life OHCA bystanders. Participants were recruited via social media, a UK cardiac arrest survivor charity and the Welsh Ambulance Services University NHS Trust. We analysed data using the Theoretical Domains Framework and mapped findings to the Capability, Opportunity and Motivation model of Behaviour (COM-B) to identify perceived barriers and facilitators to the retrieval and use of drone-delivered AEDs. We used The Behaviour Change Wheel to identify potential interventions to optimise use of drone-delivered AEDs. RESULTS: Participants experienced varying levels of physical and social opportunities in relation to (un)available AEDs and (in)appropriate support from the call-handler, affecting the likelihood of them performing CPR and/or using an AED effectively. Most participants were unsure about how to use an AED, and none knew how a drone-delivered AED system would work in practice. Many participants questioned whether they would possess sufficient capability and motivation to retrieve and/or operate a drone-delivered AED during a time-critical emergency. There were five key themes for potential interventions: incorporating information about drone-delivered AED use into pre-existing training programmes and materials; ensuring drone use complies with specific regulatory and/or legislative requirements; making the drone-delivered AED easy to identify and access; optimising call-handler scripts to incorporate drone-delivered AED use; providing social support via a robust co-responder model to complement drone-delivered AED use. CONCLUSIONS: Participants accepted drone-delivered AEDs for OHCA, but were unsure if it would be effective. They identified several issues that we addressed through the development of a comprehensive intervention framework. A comprehensive call-handler script that incorporates drone-delivered AED use and support for bystanders was the most salient potential intervention for future testing by relevant stakeholders.",
-              "title_ko": "드론에 대한 방관자들의 태도는 병원 밖 심정지를 위한 자동 외부 제세동기: 질적 인터뷰 연구로 전달되었습니다."
+              "title_ko": ""
             },
             {
               "pmid": "41385549",
@@ -5720,7 +5816,7 @@
           "impact_factor": 1.5,
           "index_type": "미상",
           "quartile": "미상",
-          "paper_count": 38,
+          "paper_count": 39,
           "top_paper": {
             "pmid": "39947973",
             "title": "Promethazine: A Review of Therapeutic Uses and Toxicity.",
@@ -7764,97 +7860,6 @@
               "field": "emergency",
               "field_label": "응급의학",
               "abstract": "We describe a partnership between a Tribally managed emergency department at Tsehootsooi Medical Center on the Navajo Nation and an academic medical center, establishing full-time emergency medicine faculty presence as a potentially scalable health care delivery model.",
-              "title_ko": ""
-            }
-          ]
-        },
-        {
-          "journal": "Noise & health",
-          "impact_factor": 1.5,
-          "index_type": "미상",
-          "quartile": "미상",
-          "paper_count": 2,
-          "top_paper": {
-            "pmid": "39787549",
-            "title": "Effect of the Levels and Sources of Noise on the Sleep Quality of Conscious Patients in Emergency Intensive Care Unit.",
-            "journal": "Noise & health",
-            "impact_factor": 1.5,
-            "index_type": "미상",
-            "quartile": "미상",
-            "pubdate": "2024-12-30",
-            "authors": [
-              "Yang J",
-              "Zhou J"
-            ],
-            "citation_count": 5,
-            "rcr": 1.7203029405059882,
-            "volume": "26",
-            "issue": "123",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/39787549/",
-            "altmetric_score": 0,
-            "altmetric_news": 0,
-            "altmetric_social": 0,
-            "is_current_issue": false,
-            "hot_score": 17.1,
-            "field": "emergency",
-            "field_label": "응급의학",
-            "abstract": "PURPOSE: This study aimed to assess the levels and sources of noise in the emergency intensive care unit (EICU) of an emergency department and investigate their effects on the sleep quality of conscious patients. METHODS: A study was conducted on patients admitted to the EICU from December 2020 to December 2023. They were categorised according to their sleep quality with the Pittsburgh Sleep Quality Index. Environmental noise levels were measured using precision sound level metres and environmental noise automatic monitoring instruments. Data analysis was performed using SPSS version 25.0, and Chi-square test, Fisher's exact probability and t-tests were conducted when applicable. The significance threshold was set at P < 0.05. Regression analysis was carried out for indicators with significant differences. RESULTS: A total of 200 patients were included in the study. Of them 96 in the ideal sleep group and 104 in the non-ideal sleep group. Patients with non-ideal sleep experienced significantly higher noise levels across various measures (P < 0.05). Additionally, patients with non-ideal sleep reported significantly higher occurrences of noise-related awakening, difficulty in falling asleep, nightmares or vivid dreams and sleepwalking episodes (P < 0.05). Significant differences in staff activities, including staff conversations, equipment noise exposure, cleaning activities, patient interventions and overhead pages, were observed between the groups (P < 0.05). Multivariate logistic regression analysis indicating that the average noise level, conversational speech, equipment alarms, ambient noise, peak noise levels, staff conversations, cleaning activities, patient interventions and overhead pages were significant contributors to poor sleep. CONCLUSION: The study suggested that high noise levels and staff-related activities affected the sleep quality of conscious patients in the EICU. Targeted measures could improve the prognoses of patients.",
-            "title_ko": ""
-          },
-          "papers": [
-            {
-              "pmid": "39787549",
-              "title": "Effect of the Levels and Sources of Noise on the Sleep Quality of Conscious Patients in Emergency Intensive Care Unit.",
-              "journal": "Noise & health",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2024-12-30",
-              "authors": [
-                "Yang J",
-                "Zhou J"
-              ],
-              "citation_count": 5,
-              "rcr": 1.7203029405059882,
-              "volume": "26",
-              "issue": "123",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/39787549/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": false,
-              "hot_score": 17.1,
-              "field": "emergency",
-              "field_label": "응급의학",
-              "abstract": "PURPOSE: This study aimed to assess the levels and sources of noise in the emergency intensive care unit (EICU) of an emergency department and investigate their effects on the sleep quality of conscious patients. METHODS: A study was conducted on patients admitted to the EICU from December 2020 to December 2023. They were categorised according to their sleep quality with the Pittsburgh Sleep Quality Index. Environmental noise levels were measured using precision sound level metres and environmental noise automatic monitoring instruments. Data analysis was performed using SPSS version 25.0, and Chi-square test, Fisher's exact probability and t-tests were conducted when applicable. The significance threshold was set at P < 0.05. Regression analysis was carried out for indicators with significant differences. RESULTS: A total of 200 patients were included in the study. Of them 96 in the ideal sleep group and 104 in the non-ideal sleep group. Patients with non-ideal sleep experienced significantly higher noise levels across various measures (P < 0.05). Additionally, patients with non-ideal sleep reported significantly higher occurrences of noise-related awakening, difficulty in falling asleep, nightmares or vivid dreams and sleepwalking episodes (P < 0.05). Significant differences in staff activities, including staff conversations, equipment noise exposure, cleaning activities, patient interventions and overhead pages, were observed between the groups (P < 0.05). Multivariate logistic regression analysis indicating that the average noise level, conversational speech, equipment alarms, ambient noise, peak noise levels, staff conversations, cleaning activities, patient interventions and overhead pages were significant contributors to poor sleep. CONCLUSION: The study suggested that high noise levels and staff-related activities affected the sleep quality of conscious patients in the EICU. Targeted measures could improve the prognoses of patients.",
-              "title_ko": ""
-            },
-            {
-              "pmid": "41482908",
-              "title": "Influence of Ward Noise on Emotional State and Sleep Quality in Patients with Ventilator-induced Diaphragmatic Dysfunction.",
-              "journal": "Noise & health",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2025-12-31",
-              "authors": [
-                "Qiu Z",
-                "Zhang W",
-                "Yan Z"
-              ],
-              "citation_count": 0,
-              "rcr": 0.0,
-              "volume": "27",
-              "issue": "129",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/41482908/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": true,
-              "hot_score": 10.0,
-              "field": "emergency",
-              "field_label": "응급의학",
-              "abstract": "OBJECTIVES: This study aimed to investigate the effect of noise control care on emotional state and sleep quality in patients with ventilator-induced diaphragmatic dysfunction (VIDD). METHODS: This retrospective study analysed 147 patients with VIDD between January 2023 and December 2023. Patients were grouped based on their admission period as follows: the standard care group (n = 63) comprised patients who received standard care in conventional wards between January 2023 and June 2023, whereas the noise control group (n = 84) included patients treated between July 2023 and December 2023 who additionally received noise reduction measures. Outcome measurements included Hamilton Anxiety Rating Scale (HAMA) and Hamilton Depression Rating Scale (HAMD) scores at baseline and Day 7. Other indicators included environmental sound levels (LAeq, LAmin and LAmax); Richards-Campbell Sleep Questionnaire (RCSQ) scores; haemodynamic measurements; duration of mechanical ventilation (MV) and incidence of delirium and hospital length of stay. RESULTS: Both groups showed comparable baseline characteristics. The noise control group experienced significantly lower noise levels at daytime and nighttime than the standard care group (P < 0.001). Both groups demonstrated improved HAMA and HAMD scores by Day 7, but the noise control group showed significantly greater reductions than the standard care group (P < 0.001). RCSQ scores were significantly higher in the noise control group across all five domains and total score (P < 0.001). The noise control group exhibited improved haemodynamic stability with significantly reduced heart rate and blood pressure on Day 7 (P < 0.001). A significantly lowered incidence of delirium was observed in the noise control group (10.71% vs. 25.40%, P < 0.05), accompanied with a shortened duration of MV (P < 0.001) and hospital length of stay (P < 0.05). CONCLUSION: Noise control was associated with reduced anxiety and depression, improved sleep quality and superior clinical outcomes in patients with VIDD.",
               "title_ko": ""
             }
           ]
@@ -10828,6 +10833,15 @@
           ]
         },
         {
+          "phrase": "life support",
+          "score": 38.5,
+          "paper_count": 2,
+          "pmids": [
+            "41537508",
+            "41949951"
+          ]
+        },
+        {
           "phrase": "first aid",
           "score": 35.8,
           "paper_count": 3,
@@ -10835,15 +10849,6 @@
             "39699333",
             "40224798",
             "39629315"
-          ]
-        },
-        {
-          "phrase": "intensive unit",
-          "score": 30.3,
-          "paper_count": 2,
-          "pmids": [
-            "39787549",
-            "41370468"
           ]
         },
         {
@@ -10870,7 +10875,7 @@
               0.0,
               64.0,
               60.8,
-              10.0
+              20.0
             ]
           },
           {
@@ -10883,6 +10888,15 @@
             ]
           },
           {
+            "phrase": "cardiac arrest",
+            "scores": [
+              0.0,
+              37.1,
+              25.3,
+              20.0
+            ]
+          },
+          {
             "phrase": "critically ill",
             "scores": [
               0.0,
@@ -10892,30 +10906,21 @@
             ]
           },
           {
-            "phrase": "cardiac arrest",
-            "scores": [
-              0.0,
-              37.1,
-              25.3,
-              10.0
-            ]
-          },
-          {
             "phrase": "brain injury",
             "scores": [
               0.0,
               37.1,
               26.6,
-              0.0
+              10.0
             ]
           },
           {
-            "phrase": "first aid",
+            "phrase": "life support",
             "scores": [
               0.0,
-              35.8,
-              26.6,
-              0.0
+              0.0,
+              48.5,
+              20.0
             ]
           }
         ]
