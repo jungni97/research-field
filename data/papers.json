@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-10T02:44:29.178022Z",
+  "generated_at": "2026-11-11T00:37:02.107974Z",
   "window_days": 1095,
   "fields": [
     {
       "key": "preventive",
       "label": "예방의학",
-      "paper_count": 448,
+      "paper_count": 450,
       "journals": [
         {
           "journal": "Journal of neuromuscular diseases",
@@ -462,7 +462,7 @@
           "impact_factor": 1.5,
           "index_type": "미상",
           "quartile": "미상",
-          "paper_count": 4,
+          "paper_count": 3,
           "top_paper": {
             "pmid": "40015079",
             "title": "The investigation and management of recurrent early pregnancy loss: a Canadian Fertility and Andrology Society clinical practice guideline.",
@@ -575,34 +575,6 @@
               "field_label": "예방의학",
               "abstract": "RESEARCH QUESTION: Can a single-nucleotide polymorphism array-based preimplantation genetic testing (PGT) platform routinely detect consanguinity in preimplantation embryos? DESIGN: A validation set consisting of 29 clinical PGT cases (five cases with confirmed consanguinity [positive control cases] and 24 randomly selected non-consanguineous cases [negative control cases]) was used to define a genetic threshold for the routine detection of consanguinity. PLINK software was used to identify all regions of homozygosity (ROH) greater than 5 Mb on each autosome. The percentage of ROH was then calculated and compared between the positive and negative control cases to determine a threshold. Next, the threshold was used to create a specific criterion that was applied to 6,380 clinical PGT cases (27,378 embryos in total) to calculate the prevalence of consanguineous cases within a single PGT laboratory. RESULTS: The selected criterion defined cases as consanguineous when they contained two or more embryos with ROH percentages of 0.5% or more. Positive and negative control cases from the validation set fulfilled and failed this criterion, respectively. Of the 6380 cases evaluated, 0.45% (29) were defined as consanguineous. CONCLUSIONS: This study describes a PGT platform that can routinely screen for parental consanguinity by evaluating regions of homozygosity in IVF-derived embryos during routine genetic testing. Consanguinity can be detected without prior knowledge of a parental relationship. This can help to improve the utility of PGT and identify embryos at increased risk of recessive disease associated with consanguinity.",
               "title_ko": "인간 배아에서 착상 전 유전자 검사를 통한 근친결합의 일상적인 검출."
-            },
-            {
-              "pmid": "39939197",
-              "title": "Derivative and non-derivative aneuploidy rates in PGT tested blastocysts from carriers of structural rearrangements.",
-              "journal": "Reproductive biomedicine online",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2024-08-16",
-              "authors": [
-                "Walters-Sen L",
-                "Neitzel D",
-                "Ellsworth RE"
-              ],
-              "citation_count": 1,
-              "rcr": 0.523148409313121,
-              "volume": "50",
-              "issue": "3",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/39939197/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": false,
-              "hot_score": 5.1,
-              "field": "preventive",
-              "field_label": "예방의학",
-              "abstract": "RESEARCH QUESTION: What is the likelihood of having an euploid embryo when undergoing preimplantation genetic testing for structural rearrangements (PGT-SR)? DESIGN: PGT-SR data from 364 couples (2822 trophectoderm biopsies) with a reciprocal translocation (RecT, n = 263), Robertsonian translocation (RobT, n = 79) or inversion (Inv, n = 22) were analysed retrospectively. Rates of euploid, derivative aneuploid or non-derivative aneuploid were evaluated for each cycle, stratified by the type of rearrangement and parent of origin. RESULTS: Inv had the highest rate of euploid embryos (47.0-52.5%), followed by RobT (34.1-45.2%) and RecT (24.0-28.2%). The rates of euploid embryos were significantly lower for carriers of RobT and RecT compared with age-matched controls (57.6-59.0%). Maternal versus paternal rearrangements had significantly higher rates of derivative-abnormal findings for RobT (41.6% versus 20.2%) and RecT (60.2% versus 52.7%). Aneuploidies involving other chromosomes did not differ significantly in frequency between rearrangement carriers (38.1-41.9%) and age-matched controls (40.6-42.4%). CONCLUSIONS: Data from this study demonstrated that Inv carriers have the highest rates of euploid embryos among all carriers of chromosomal rearrangements, that maternal rearrangements confer a higher risk of abnormal embryos, and that evidence for an interchromosomal effect on aneuploidy rates was not present in this cohort. This analysis of over 2700 PGT-SR biopsies enabled generation of likelihood-of-transfer tables stratified by type of translocation, parent of origin, and number of biopsies, which can be used to help counsel patients pursuing PGT-SR.",
-              "title_ko": "PGT에서 파생 및 비파생 이수성 비율은 구조적 재배열 담체로부터 배반포를 시험했습니다."
             }
           ]
         },
@@ -826,6 +798,71 @@
               "field_label": "예방의학",
               "abstract": "BACKGROUND: Screening methods are crucial in enabling prevention and early intervention for individuals with temporomandibular disorders (TMDs) in the general population. Several screening instruments for TMDs have been published, making it challenging to choose the best-suited one for identifying patients with TMDs in daily practice. OBJECTIVE: To evaluate the diagnostic accuracy of available screening instruments for TMDs in the general adult population. METHODS: The study's protocol was registered in PROSPERO (CRD42024527919). PubMed/Medline, Web of Science, and Scopus were searched on April 12, 2024, supplemented by a hand search, to identify studies reporting diagnostic accuracy of screening instruments for TMDs in the general adult population. Two independent reviewers performed abstract screening, full-text assessment, risk-of-bias assessment (QUADAS-2), and data extraction. RESULTS: The search identified 3608 studies. After abstract screening, 151 studies were reviewed in full text, and five studies on diagnostic accuracy with 2556 participants were included. Two included studies reported reliability measures for the Short Form Fonseca Amnestic Index (SFAI) compared with other questionnaires. Three studies included in the meta-analysis evaluated the Fonseca Amnestic Index (FAI), its short form (SFAI), and Three Screening Questions for TMDs (3Q/TMD): they report sensitivity of 86% (FAI and SFAI) and 81% (3Q/TMD), and specificity of 92% (FAI), 96 % (SFAI), and 79% (3Q/TMD) respectively. All included studies had high risk of bias for the index test but low risk of bias for patient selection. CONCLUSION: FAI, SFAI, and 3Q/TMD demonstrate high sensitivity and specificity, suggesting their suitability for screening for TMD in the general population.",
               "title_ko": "턱관절 장애 선별 도구: 체계적인 검토 및 메타 분석."
+            }
+          ]
+        },
+        {
+          "journal": "Sexually transmitted diseases",
+          "impact_factor": 1.5,
+          "index_type": "미상",
+          "quartile": "미상",
+          "paper_count": 1,
+          "top_paper": {
+            "pmid": "40053326",
+            "title": "A Qualitative Study of Doxycycline Postexposure Prophylaxis Knowledge, Attitudes, and Practices Among Health Care Providers in New York City.",
+            "journal": "Sexually transmitted diseases",
+            "impact_factor": 1.5,
+            "index_type": "미상",
+            "quartile": "미상",
+            "pubdate": "2024-11-13",
+            "authors": [
+              "D'Avanzo PA",
+              "Bosco J",
+              "Carnevale C"
+            ],
+            "citation_count": 5,
+            "rcr": 2.6641707771635685,
+            "volume": "52",
+            "issue": "4",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/40053326/",
+            "altmetric_score": 0,
+            "altmetric_news": 0,
+            "altmetric_social": 0,
+            "is_current_issue": true,
+            "hot_score": 23.1,
+            "field": "preventive",
+            "field_label": "예방의학",
+            "abstract": "BACKGROUND: Three randomized controlled trials have demonstrated the efficacy of doxycycline for bacterial sexually transmitted infection postexposure prophylaxis (Doxy PEP). Few studies have assessed provider knowledge, attitudes, and practices (KAP) regarding Doxy PEP implementation. Between July of 2023 and January 2024, this study qualitatively assessed KAP and intention to prescribe Doxy PEP among health care providers in the New York City area. METHODS: In-depth, semistructured individual interviews were conducted with 18 health care provider key informants including physicians, nurse practitioners, and physician assistants from various practice settings. Transcripts were analyzed using inductive KAP codes, with additional deductive coding used to identify emergent subthemes. RESULTS: The following themes were identified: (1) STI Disparities, (2) Doxy PEP Experience, (3) Doxy PEP Benefits, (4) Doxy PEP Concerns, and (5) Doxy PEP Implementation. Doxy PEP knowledge was high, with all providers being aware and most (78%) having prescribed it to at least one patient at the time of interview. Providers were knowledgeable of factors contributing to high rates of STIs. Benefits included reducing STI anxiety. Concerns included contributing to antimicrobial resistance and impacts on microbiota. Practice implications included challenges getting Doxy PEP approved by the pharmacy. These factors were shown to affect Doxy PEP's perceived acceptability. CONCLUSIONS: To ensure that Doxy PEP is implemented safely and equitably, KAP factors that may influence provider decision making should be examined. Understanding providers' KAP and how they affect intention to prescribe Doxy PEP, and to what patients, has important implications for successful implementation.",
+            "title_ko": "A Qualitative Study of Doxycycline Postexposure Prephylaxis Knowledge, Attitudes, and Practices Among Health Care Providers in New York City."
+          },
+          "papers": [
+            {
+              "pmid": "40053326",
+              "title": "A Qualitative Study of Doxycycline Postexposure Prophylaxis Knowledge, Attitudes, and Practices Among Health Care Providers in New York City.",
+              "journal": "Sexually transmitted diseases",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2024-11-13",
+              "authors": [
+                "D'Avanzo PA",
+                "Bosco J",
+                "Carnevale C"
+              ],
+              "citation_count": 5,
+              "rcr": 2.6641707771635685,
+              "volume": "52",
+              "issue": "4",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/40053326/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": true,
+              "hot_score": 23.1,
+              "field": "preventive",
+              "field_label": "예방의학",
+              "abstract": "BACKGROUND: Three randomized controlled trials have demonstrated the efficacy of doxycycline for bacterial sexually transmitted infection postexposure prophylaxis (Doxy PEP). Few studies have assessed provider knowledge, attitudes, and practices (KAP) regarding Doxy PEP implementation. Between July of 2023 and January 2024, this study qualitatively assessed KAP and intention to prescribe Doxy PEP among health care providers in the New York City area. METHODS: In-depth, semistructured individual interviews were conducted with 18 health care provider key informants including physicians, nurse practitioners, and physician assistants from various practice settings. Transcripts were analyzed using inductive KAP codes, with additional deductive coding used to identify emergent subthemes. RESULTS: The following themes were identified: (1) STI Disparities, (2) Doxy PEP Experience, (3) Doxy PEP Benefits, (4) Doxy PEP Concerns, and (5) Doxy PEP Implementation. Doxy PEP knowledge was high, with all providers being aware and most (78%) having prescribed it to at least one patient at the time of interview. Providers were knowledgeable of factors contributing to high rates of STIs. Benefits included reducing STI anxiety. Concerns included contributing to antimicrobial resistance and impacts on microbiota. Practice implications included challenges getting Doxy PEP approved by the pharmacy. These factors were shown to affect Doxy PEP's perceived acceptability. CONCLUSIONS: To ensure that Doxy PEP is implemented safely and equitably, KAP factors that may influence provider decision making should be examined. Understanding providers' KAP and how they affect intention to prescribe Doxy PEP, and to what patients, has important implications for successful implementation.",
+              "title_ko": "A Qualitative Study of Doxycycline Postexposure Prephylaxis Knowledge, Attitudes, and Practices Among Health Care Providers in New York City."
             }
           ]
         },
@@ -1271,7 +1308,7 @@
           "impact_factor": 1.5,
           "index_type": "미상",
           "quartile": "미상",
-          "paper_count": 79,
+          "paper_count": 80,
           "top_paper": {
             "pmid": "39949340",
             "title": "Analysis of factors influencing HPV vaccination intention among Chinese college students: structural equation modeling based on health belief theory.",
@@ -1736,6 +1773,71 @@
           ]
         },
         {
+          "journal": "Simulation in healthcare : journal of the Society for Simulation in Healthcare",
+          "impact_factor": 1.5,
+          "index_type": "미상",
+          "quartile": "미상",
+          "paper_count": 1,
+          "top_paper": {
+            "pmid": "40445070",
+            "title": "Standardized Patient Education Focused on Equity Deserving Groups: Ten Tips for Educators and Programs-A Qualitative Study.",
+            "journal": "Simulation in healthcare : journal of the Society for Simulation in Healthcare",
+            "impact_factor": 1.5,
+            "index_type": "미상",
+            "quartile": "미상",
+            "pubdate": "2024-11-13",
+            "authors": [
+              "Sheth UT",
+              "Last NA",
+              "Keuhl AC"
+            ],
+            "citation_count": 2,
+            "rcr": 1.4263659561266175,
+            "volume": "20",
+            "issue": "3",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/40445070/",
+            "altmetric_score": 0,
+            "altmetric_news": 0,
+            "altmetric_social": 0,
+            "is_current_issue": true,
+            "hot_score": 18.0,
+            "field": "preventive",
+            "field_label": "예방의학",
+            "abstract": "INTRODUCTION: Health professions training programs must train future healthcare providers to meet the needs of equity-deserving patient populations. Standardized patient (SP) programs are one mechanism by which this training can occur. Our aim was to develop a set of recommendations for SP programs and educators around planning, organizing, and delivering SP-based education involving equity-deserving groups. METHODS: We undertook a qualitative analysis of interview transcripts of SPs, educators, and trainers involved in SP work with equity-deserving groups. Subsequently, we conducted a three-stage modified Delphi process to generate recommendations. RESULTS: We derived 10 tips to help stakeholders improve SP-based education involving equity-deserving groups. The underlying themes included collaborative involvement, including co-creation and co-delivery of content with members of equity-deserving groups, as well as consistent prioritization of the needs of SPs throughout the process. CONCLUSIONS: Our findings suggest ways in which SP programs and educators can better train future healthcare providers to meet the needs of equity-deserving patient populations.",
+            "title_ko": "형평성에 합당한 집단에 초점을 맞춘 표준화된 환자 교육: 교육자 및 프로그램을 위한 10가지 팁-질적 연구."
+          },
+          "papers": [
+            {
+              "pmid": "40445070",
+              "title": "Standardized Patient Education Focused on Equity Deserving Groups: Ten Tips for Educators and Programs-A Qualitative Study.",
+              "journal": "Simulation in healthcare : journal of the Society for Simulation in Healthcare",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2024-11-13",
+              "authors": [
+                "Sheth UT",
+                "Last NA",
+                "Keuhl AC"
+              ],
+              "citation_count": 2,
+              "rcr": 1.4263659561266175,
+              "volume": "20",
+              "issue": "3",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/40445070/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": true,
+              "hot_score": 18.0,
+              "field": "preventive",
+              "field_label": "예방의학",
+              "abstract": "INTRODUCTION: Health professions training programs must train future healthcare providers to meet the needs of equity-deserving patient populations. Standardized patient (SP) programs are one mechanism by which this training can occur. Our aim was to develop a set of recommendations for SP programs and educators around planning, organizing, and delivering SP-based education involving equity-deserving groups. METHODS: We undertook a qualitative analysis of interview transcripts of SPs, educators, and trainers involved in SP work with equity-deserving groups. Subsequently, we conducted a three-stage modified Delphi process to generate recommendations. RESULTS: We derived 10 tips to help stakeholders improve SP-based education involving equity-deserving groups. The underlying themes included collaborative involvement, including co-creation and co-delivery of content with members of equity-deserving groups, as well as consistent prioritization of the needs of SPs throughout the process. CONCLUSIONS: Our findings suggest ways in which SP programs and educators can better train future healthcare providers to meet the needs of equity-deserving patient populations.",
+              "title_ko": "형평성에 합당한 집단에 초점을 맞춘 표준화된 환자 교육: 교육자 및 프로그램을 위한 10가지 팁-질적 연구."
+            }
+          ]
+        },
+        {
           "journal": "Yearbook of medical informatics",
           "impact_factor": 1.5,
           "index_type": "미상",
@@ -1852,6 +1954,71 @@
               "field_label": "예방의학",
               "abstract": "OBJECTIVE: To identify and summarize the top bioinformatics and translational informatics (BTI) papers published in 2023, focusing on the area of precision prevention. METHODS: We conducted a literature search to identify the top papers published in 2023 in the field of BTI. Candidate papers from the search were reviewed by the section co-editors and a panel of external reviewers to select the top three papers for this year. RESULTS: Our literature search returned a total of 550 candidate papers, from which we identified our top 10 papers for external review. The papers were evaluated based on their novelty, significance, and quality. After rigorous review, three papers were selected as the top BTI papers for 2023. These papers showcased innovative approaches in leveraging machine learning models, integrating multi-omics data, and developing new experimental techniques. Highlights include advancements in single-cell genomics, dynamic surveillance systems, and multimodal data integration. CONCLUSIONS: We found several trends in the ten candidate BTI papers, including the refinement of machine learning models, the expansion of diverse biological datasets, and the development of scalable experimental techniques. These trends reflect the growing importance of bioinformatics and translational informatics as a cornerstone for improving predictive and preventative healthcare measures.",
               "title_ko": "정밀 예방의 발전: 2023년 최고의 생물 정보학 및 번역 정보학 논문."
+            }
+          ]
+        },
+        {
+          "journal": "Przeglad epidemiologiczny",
+          "impact_factor": 1.5,
+          "index_type": "미상",
+          "quartile": "미상",
+          "paper_count": 1,
+          "top_paper": {
+            "pmid": "40101007",
+            "title": "Oral health literacy of patients attending community dental outreach program: A cross-sectional study.",
+            "journal": "Przeglad epidemiologiczny",
+            "impact_factor": 1.5,
+            "index_type": "미상",
+            "quartile": "미상",
+            "pubdate": "2024-11-13",
+            "authors": [
+              "Aggarwal R",
+              "Gambhir RS",
+              "SIngh R"
+            ],
+            "citation_count": 2,
+            "rcr": 0.6034241060717,
+            "volume": "78",
+            "issue": "4",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/40101007/",
+            "altmetric_score": 0,
+            "altmetric_news": 0,
+            "altmetric_social": 0,
+            "is_current_issue": true,
+            "hot_score": 18.0,
+            "field": "preventive",
+            "field_label": "예방의학",
+            "abstract": "BACKGROUND: Limited health literacy among adults contributes to poor health outcomes. Low health and oral health literacy (OHL) are particularly more visible among rural population of developing countries. OBJECTIVE: The present study was done to assess OHL among patients attending a community dental outreach program in Punjab, India. MATERIAL AND METHODS: A cross-sectional study was conducted on 652 patients who attended who attended community dental out-reach program regularly organized by the institute. A self-constructed questionnaire (divided into Section A and Section B) written in English and Punjabi language was given to each subject. OHL was graded on a 15-point Likert scale and was assessed as low, medium and high on the basis of sum of total responses. Statistical analysis was done using SPSS-21 statistical package. ANOVA and Student t-test were used to do comparisons between different groups. RESULTS: 52.4% of the study subjects had low OHL scores and only 19.3% of subjects had high scores. Dental terms like 'mouth-guard', 'abrasion' and 'abscess' were known to only 20.4%, 37.4% and 32.5% of the subjects respectively. The mean OHL score revealed a significant association with the occupation (p=0.035) of study subjects. Only 45.2% of study subjects were 'interested in seeking more information on oral health' and it was significantly associated with the educational qualification of study subjects. CONCLUSIONS: More than half of the subjects had low OHL scores. There is an urgent need to address this problem, especially among the rural population by taking appropriate measures by the government so that their health literacy level can be raised.",
+            "title_ko": "지역사회 치과 진료 프로그램에 참여하는 환자의 구강 건강 리터러시: 단면 연구."
+          },
+          "papers": [
+            {
+              "pmid": "40101007",
+              "title": "Oral health literacy of patients attending community dental outreach program: A cross-sectional study.",
+              "journal": "Przeglad epidemiologiczny",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2024-11-13",
+              "authors": [
+                "Aggarwal R",
+                "Gambhir RS",
+                "SIngh R"
+              ],
+              "citation_count": 2,
+              "rcr": 0.6034241060717,
+              "volume": "78",
+              "issue": "4",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/40101007/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": true,
+              "hot_score": 18.0,
+              "field": "preventive",
+              "field_label": "예방의학",
+              "abstract": "BACKGROUND: Limited health literacy among adults contributes to poor health outcomes. Low health and oral health literacy (OHL) are particularly more visible among rural population of developing countries. OBJECTIVE: The present study was done to assess OHL among patients attending a community dental outreach program in Punjab, India. MATERIAL AND METHODS: A cross-sectional study was conducted on 652 patients who attended who attended community dental out-reach program regularly organized by the institute. A self-constructed questionnaire (divided into Section A and Section B) written in English and Punjabi language was given to each subject. OHL was graded on a 15-point Likert scale and was assessed as low, medium and high on the basis of sum of total responses. Statistical analysis was done using SPSS-21 statistical package. ANOVA and Student t-test were used to do comparisons between different groups. RESULTS: 52.4% of the study subjects had low OHL scores and only 19.3% of subjects had high scores. Dental terms like 'mouth-guard', 'abrasion' and 'abscess' were known to only 20.4%, 37.4% and 32.5% of the subjects respectively. The mean OHL score revealed a significant association with the occupation (p=0.035) of study subjects. Only 45.2% of study subjects were 'interested in seeking more information on oral health' and it was significantly associated with the educational qualification of study subjects. CONCLUSIONS: More than half of the subjects had low OHL scores. There is an urgent need to address this problem, especially among the rural population by taking appropriate measures by the government so that their health literacy level can be raised.",
+              "title_ko": "지역사회 치과 진료 프로그램에 참여하는 환자의 구강 건강 리터러시: 단면 연구."
             }
           ]
         },
@@ -3459,71 +3626,6 @@
           ]
         },
         {
-          "journal": "Medecine tropicale et sante internationale",
-          "impact_factor": 1.5,
-          "index_type": "미상",
-          "quartile": "미상",
-          "paper_count": 1,
-          "top_paper": {
-            "pmid": "39931726",
-            "title": "[Barriers and reluctance to paediatric vaccination (EPI) and vaccination against Covid-19: results of a survey in Niger].",
-            "journal": "Medecine tropicale et sante internationale",
-            "impact_factor": 1.5,
-            "index_type": "미상",
-            "quartile": "미상",
-            "pubdate": "2024-07-03",
-            "authors": [
-              "Seytre B",
-              "Chaibou S",
-              "Chabot E"
-            ],
-            "citation_count": 1,
-            "rcr": 0.36244862428237806,
-            "volume": "4",
-            "issue": "3",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/39931726/",
-            "altmetric_score": 0,
-            "altmetric_news": 0,
-            "altmetric_social": 0,
-            "is_current_issue": true,
-            "hot_score": 15.1,
-            "field": "preventive",
-            "field_label": "예방의학",
-            "abstract": "BACKGROUND: Vaccination adherence among populations is a complex process involving, on the one hand, the expected benefit of a vaccine, and on the other, the perceived risk. To develop an evidence-based communication strategy aimed at improving vaccination coverage in Niger, we conducted a mixed socio-anthropological study of the perceptions among the population on the benefit and the risk of the childhood (Expanded Program on Immunization, EPI) and the Covid-19 vaccines. While the vaccine coverage for some of the EPI vaccines is above 80%, only 33% of the children are fully vaccinated, according to the national vaccination schedule. The first objective of our study was to understand the perceptions that might explain this drop off.The second objective was to identify the drivers of the low adherence to the Covid-19 vaccination, 22% of the illegible population being vaccinated. MATERIALS AND METHODS: In March 2023, we interviewed 509 people for the quantitative study and 40 people through focus groups and individual interviews for the qualitative one, in Niamey (80% of the interviewees) and two villages. RESULTS: 96.9% of the interviewees think that childhood vaccines are \"a good thing,\" even though 30.6% know that they might have negative side effects. While 87.8% think that it is \"easy\" or \"very easy\" to get children vaccinated, 21.4% point out as \"annoying\" the lack of amiability by the health care workers and 16.9% the waiting time. The qualitative study showed that these two complaints drive some women not to complete the vaccination schedule. We might also hypothesize that, given the perceived lack of amiability, some women don't get enough information on the side effects and their management. Surprisingly, 73.3% of the interviewees think that vaccines against the disease are a good thing, and 83% of those who have heard messages promoting the vaccination approve them. This apparent contradiction with the low vaccine uptake is explained by a very low perception of the Covid-19 risks. More than half of the population surveyed believe that the disease is not present in the country, a very large majority believe that only ill people can transmit the disease, while only 12.8% think they know anybody who has ever been sick with Covid-19. According to our results, the circulating rumors on the vaccines don't play a significant role in the low adherence to Covid-19 uptake, nor in the insufficient completeness of the EPI vaccination schedule. CONCLUSION: The communication efforts on EPI vaccination should focus on the explanation of the side effects and their management, as well as improving the organization of the vaccination sessions. The communication on Covid-19 vaccination should focus on the reality of the disease in the country and the groups at risk for severe forms.",
-            "title_ko": "[소아 백신 접종 (EPI) 및 코로나19 예방 접종에 대한 장벽과 거부감: 니제르 설문 조사 결과]."
-          },
-          "papers": [
-            {
-              "pmid": "39931726",
-              "title": "[Barriers and reluctance to paediatric vaccination (EPI) and vaccination against Covid-19: results of a survey in Niger].",
-              "journal": "Medecine tropicale et sante internationale",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2024-07-03",
-              "authors": [
-                "Seytre B",
-                "Chaibou S",
-                "Chabot E"
-              ],
-              "citation_count": 1,
-              "rcr": 0.36244862428237806,
-              "volume": "4",
-              "issue": "3",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/39931726/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": true,
-              "hot_score": 15.1,
-              "field": "preventive",
-              "field_label": "예방의학",
-              "abstract": "BACKGROUND: Vaccination adherence among populations is a complex process involving, on the one hand, the expected benefit of a vaccine, and on the other, the perceived risk. To develop an evidence-based communication strategy aimed at improving vaccination coverage in Niger, we conducted a mixed socio-anthropological study of the perceptions among the population on the benefit and the risk of the childhood (Expanded Program on Immunization, EPI) and the Covid-19 vaccines. While the vaccine coverage for some of the EPI vaccines is above 80%, only 33% of the children are fully vaccinated, according to the national vaccination schedule. The first objective of our study was to understand the perceptions that might explain this drop off.The second objective was to identify the drivers of the low adherence to the Covid-19 vaccination, 22% of the illegible population being vaccinated. MATERIALS AND METHODS: In March 2023, we interviewed 509 people for the quantitative study and 40 people through focus groups and individual interviews for the qualitative one, in Niamey (80% of the interviewees) and two villages. RESULTS: 96.9% of the interviewees think that childhood vaccines are \"a good thing,\" even though 30.6% know that they might have negative side effects. While 87.8% think that it is \"easy\" or \"very easy\" to get children vaccinated, 21.4% point out as \"annoying\" the lack of amiability by the health care workers and 16.9% the waiting time. The qualitative study showed that these two complaints drive some women not to complete the vaccination schedule. We might also hypothesize that, given the perceived lack of amiability, some women don't get enough information on the side effects and their management. Surprisingly, 73.3% of the interviewees think that vaccines against the disease are a good thing, and 83% of those who have heard messages promoting the vaccination approve them. This apparent contradiction with the low vaccine uptake is explained by a very low perception of the Covid-19 risks. More than half of the population surveyed believe that the disease is not present in the country, a very large majority believe that only ill people can transmit the disease, while only 12.8% think they know anybody who has ever been sick with Covid-19. According to our results, the circulating rumors on the vaccines don't play a significant role in the low adherence to Covid-19 uptake, nor in the insufficient completeness of the EPI vaccination schedule. CONCLUSION: The communication efforts on EPI vaccination should focus on the explanation of the side effects and their management, as well as improving the organization of the vaccination sessions. The communication on Covid-19 vaccination should focus on the reality of the disease in the country and the groups at risk for severe forms.",
-              "title_ko": "[소아 백신 접종 (EPI) 및 코로나19 예방 접종에 대한 장벽과 거부감: 니제르 설문 조사 결과]."
-            }
-          ]
-        },
-        {
           "journal": "Ceska a Slovenska farmacie : casopis Ceske farmaceuticke spolecnosti a Slovenske farmaceuticke spolecnosti",
           "impact_factor": 1.5,
           "index_type": "미상",
@@ -3723,7 +3825,7 @@
           "impact_factor": 1.5,
           "index_type": "미상",
           "quartile": "미상",
-          "paper_count": 14,
+          "paper_count": 16,
           "top_paper": {
             "pmid": "39981298",
             "title": "Staphylococcus aureus-specific TIGIT(+) Treg are present in the blood of healthy subjects - a hurdle for vaccination?",
@@ -3984,7 +4086,7 @@
           "impact_factor": 1.5,
           "index_type": "미상",
           "quartile": "미상",
-          "paper_count": 4,
+          "paper_count": 5,
           "top_paper": {
             "pmid": "40225928",
             "title": "Specifications of the ACMG/AMP Variant Curation Guidelines for Hereditary Hemorrhagic Telangiectasia Genes-ENG and ACVRL1.",
@@ -4125,6 +4227,34 @@
               "field_label": "예방의학",
               "abstract": "Recent advancements in the next-generation sequencing have illuminated the occurrence of multiple genetic diagnoses (MGD). While exome sequencing has provided insights, genome sequencing (GS), the most comprehensive diagnostic tool, remains underexplored for studying MGD prevalence. We retrospectively analyzed 1487 pediatric cases from our laboratory, employing GS to investigate the incidence of single definitive genetic diagnosis (SDD) and MGD in children suspected of having a genetic disease. Of these patients, 273 received at least one definitive diagnosis, including 245 with SDD (16.5%) and 28 with MGD (1.9%). Diagnostic yield was consistent across genders and unaffected by previous testing in SDD cases. Notably, prior testing significantly increased the diagnostic yield in MGD cases to 2.7% overall and 14.4% among diagnosed cases, compared to 1.1% for those with GS as a first-tier test. Age was a significant factor in diagnostic outcome for both SDD and MGD cases with neonates showing the highest diagnostic yield of 24.5% in SDD and a notably higher yield in MGD at 4.9%, representing 16.7% of the diagnosed cases. Of the 28 MGD cases, 17 exhibited distinct phenotypes, 9 had overlapping features, and 2 presented a mix, underscoring the genetic and phenotypic heterogeneity within this group. This study is the first to exclusively use GS to assess MGD prevalence. Our findings highlight the complexity of rare diseases and emphasize the importance of comprehensive, genome-level diagnostics. Clinicians must ensure that diagnoses fully account for the observed phenotypes to inform optimal therapeutic strategies and management.",
               "title_ko": "Beyond Single Diagnosis: Exploring Multidiagnostic Realities in Pediatric Patients through Genome Sequencing."
+            },
+            {
+              "pmid": "43005311",
+              "title": "Determining the Quality of Functional Evidence for Coding Variants in CYP1B1 for Use in Variant Classification.",
+              "journal": "Human mutation",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2026-11-08",
+              "authors": [
+                "Burdon KP",
+                "Hadler J",
+                "Graham P"
+              ],
+              "citation_count": 0,
+              "rcr": null,
+              "volume": "2026",
+              "issue": "",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/43005311/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 0.0,
+              "field": "preventive",
+              "field_label": "예방의학",
+              "abstract": "Biallelic variants in the CYP1B1 gene are associated with primary congenital glaucoma and some instances of anterior segment dysgenesis and juvenile open-angle glaucoma. Genetic testing is increasingly used in the diagnosis of these conditions and to inform future family planning decisions. Variant-specific functional data play a critical role in variant classification during the interpretation of genetic test results. In this study, the ClinGen Glaucoma Variant Curation Expert Panel (VCEP) evaluated published functional assays assessing CYP1B1 protein stability and enzymatic activity to determine which assays meet the recommended standards for use in variant classification, specifically when applying the PS3 or BS3 criteria from the ACMG/AMP variant interpretation guidelines. Following a comprehensive literature review, the panel identified assays that examined protein abundance and stability, as well as enzymatic activity across a range of substrates. The VCEP determined that BS3 (benign functional evidence) should not be applied to CYP1B1 as variants exhibit substrate-specific effects. After detailed review, the panel determined that two assays had an adequate number of validation controls and could distinguish between pathogenic and benign variants. The first measured 17β-estradiol activity using a commercially available luminescence kit in yeast microsomes. The second assessed benzo[a]pyrene activity via HPLC detection, also in yeast microsomes. A consensus review of additional assays recommends the inclusion of more clinical controls to either establish a significant OddsPath or to better define thresholds for applying pathogenic evidence. Incorporating validated functional data into the curation of CYP1B1 variants will enhance the accuracy of variant classification.",
+              "title_ko": "변이 분류에 사용하기 위한 CYP1B1의 코딩 변이에 대한 기능적 증거의 품질 결정."
             }
           ]
         },
@@ -4287,104 +4417,11 @@
           ]
         },
         {
-          "journal": "Romanian journal of ophthalmology",
-          "impact_factor": 1.5,
-          "index_type": "미상",
-          "quartile": "미상",
-          "paper_count": 2,
-          "top_paper": {
-            "pmid": "39936065",
-            "title": "Diabetic Retinopathy Screening Adherence.",
-            "journal": "Romanian journal of ophthalmology",
-            "impact_factor": 1.5,
-            "index_type": "미상",
-            "quartile": "미상",
-            "pubdate": "2024-10-01",
-            "authors": [
-              "Anvari P",
-              "Mirshahi R",
-              "Nezhad FH"
-            ],
-            "citation_count": 4,
-            "rcr": 1.4873310588888813,
-            "volume": "68",
-            "issue": "4",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/39936065/",
-            "altmetric_score": 0,
-            "altmetric_news": 0,
-            "altmetric_social": 0,
-            "is_current_issue": false,
-            "hot_score": 11.8,
-            "field": "preventive",
-            "field_label": "예방의학",
-            "abstract": "OBJECTIVE: To evaluate the adherence rate of diabetic subjects to the retinopathy screening program and to identify the characteristics associated with non-compliance to regular screening. METHODS: A cross-sectional study involving 240 patients with diabetes who attended outpatient non-ophthalmology clinics at four tertiary university hospitals between March 2020 and March 2021 was conducted. A validated questionnaire collected data that included socio-demographic variables, characteristics of diabetes, diabetes-related complications and comorbidities, knowledge and attitudes toward DR and its screening, and barriers to DR screening. Univariate and multivariate logistic regression was employed to identify the factors associated with adherence to the annual diabetic eye examination. Adherence was defined as a history of the dilated ophthalmic exam in the past year and subsequent follow-ups recommended by the ophthalmologist. RESULTS: The participants had an average age of 59 ± 14.2 years, and 53% were females. The average duration of diabetes was 108 ± 89.62 months. Based on the last ophthalmic examination, 50.8% of patients were non-adherent to the suggested DR screening guidelines. A history of smoking (p-value=0.013, 95%CI for OR: 1.21-5.10), lower education levels (p-value=0.045, 95%CI for OR: 1.02-3.82), and not clarifying the necessity of ophthalmic examination by primary physicians (p-value < 0.001, 95%CI for OR: 2.19-12.35) were significantly associated with non-adherence. Among non-adherent subjects, 38% reported fear of the COVID-19 pandemic, 21.3% cited the lack of information regarding DR screening, 10.7% cited lack of access to the ophthalmologist, 5.7% cited financial problems, and 10.7% noted a lack of support from family and friends as the main reason for non-attendance to the annual eye care. DISCUSSIONS: This study revealed a non-compliance rate with DR screening guidelines that surpasses pre-pandemic figures. Although younger participants demonstrated a higher likelihood of recent eye care, this correlation lost significance in multivariate analysis, potentially reflecting education and technology utilization disparities. Despite uniform insurance coverage, socioeconomic factors, such as transportation challenges, may impede adherence. Furthermore, individuals informed by healthcare providers about the necessity of eye exams exhibited greater compliance; however, many newly diagnosed patients remained unaware of the risks associated with DR. The COVID-19 pandemic emerged as a prominent barrier, with numerous patients citing it as a reason for their non-compliance due to disruptions in clinical care. CONCLUSIONS: Half of the diabetic subjects attending tertiary hospitals for non-ophthalmic complaints were non-adherent to recommended retinopathy screening. Lower education, smoking, and unawareness of the necessity of annual eye care had the strongest association with non-compliance. Fear of contracting COVID-19 was the most prevalent barrier to the eye examination. These findings underscore the necessity for targeted patient education initiatives, particularly among those with lower education levels and smokers.",
-            "title_ko": "당뇨망막병증 선별검사 순응도."
-          },
-          "papers": [
-            {
-              "pmid": "39936065",
-              "title": "Diabetic Retinopathy Screening Adherence.",
-              "journal": "Romanian journal of ophthalmology",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2024-10-01",
-              "authors": [
-                "Anvari P",
-                "Mirshahi R",
-                "Nezhad FH"
-              ],
-              "citation_count": 4,
-              "rcr": 1.4873310588888813,
-              "volume": "68",
-              "issue": "4",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/39936065/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": false,
-              "hot_score": 11.8,
-              "field": "preventive",
-              "field_label": "예방의학",
-              "abstract": "OBJECTIVE: To evaluate the adherence rate of diabetic subjects to the retinopathy screening program and to identify the characteristics associated with non-compliance to regular screening. METHODS: A cross-sectional study involving 240 patients with diabetes who attended outpatient non-ophthalmology clinics at four tertiary university hospitals between March 2020 and March 2021 was conducted. A validated questionnaire collected data that included socio-demographic variables, characteristics of diabetes, diabetes-related complications and comorbidities, knowledge and attitudes toward DR and its screening, and barriers to DR screening. Univariate and multivariate logistic regression was employed to identify the factors associated with adherence to the annual diabetic eye examination. Adherence was defined as a history of the dilated ophthalmic exam in the past year and subsequent follow-ups recommended by the ophthalmologist. RESULTS: The participants had an average age of 59 ± 14.2 years, and 53% were females. The average duration of diabetes was 108 ± 89.62 months. Based on the last ophthalmic examination, 50.8% of patients were non-adherent to the suggested DR screening guidelines. A history of smoking (p-value=0.013, 95%CI for OR: 1.21-5.10), lower education levels (p-value=0.045, 95%CI for OR: 1.02-3.82), and not clarifying the necessity of ophthalmic examination by primary physicians (p-value < 0.001, 95%CI for OR: 2.19-12.35) were significantly associated with non-adherence. Among non-adherent subjects, 38% reported fear of the COVID-19 pandemic, 21.3% cited the lack of information regarding DR screening, 10.7% cited lack of access to the ophthalmologist, 5.7% cited financial problems, and 10.7% noted a lack of support from family and friends as the main reason for non-attendance to the annual eye care. DISCUSSIONS: This study revealed a non-compliance rate with DR screening guidelines that surpasses pre-pandemic figures. Although younger participants demonstrated a higher likelihood of recent eye care, this correlation lost significance in multivariate analysis, potentially reflecting education and technology utilization disparities. Despite uniform insurance coverage, socioeconomic factors, such as transportation challenges, may impede adherence. Furthermore, individuals informed by healthcare providers about the necessity of eye exams exhibited greater compliance; however, many newly diagnosed patients remained unaware of the risks associated with DR. The COVID-19 pandemic emerged as a prominent barrier, with numerous patients citing it as a reason for their non-compliance due to disruptions in clinical care. CONCLUSIONS: Half of the diabetic subjects attending tertiary hospitals for non-ophthalmic complaints were non-adherent to recommended retinopathy screening. Lower education, smoking, and unawareness of the necessity of annual eye care had the strongest association with non-compliance. Fear of contracting COVID-19 was the most prevalent barrier to the eye examination. These findings underscore the necessity for targeted patient education initiatives, particularly among those with lower education levels and smokers.",
-              "title_ko": "당뇨망막병증 선별검사 순응도."
-            },
-            {
-              "pmid": "43001110",
-              "title": "Adjunctive Treatment with Subconjunctival and Topical Bevacizumab to Prevent Recurrence after Excision of Primary Pterygium: A Multi-centric Trial.",
-              "journal": "Romanian journal of ophthalmology",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2026-07-01",
-              "authors": [
-                "Pantola P",
-                "Gupta S",
-                "Kaur G"
-              ],
-              "citation_count": 0,
-              "rcr": null,
-              "volume": "70",
-              "issue": "3",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/43001110/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": true,
-              "hot_score": 10.0,
-              "field": "preventive",
-              "field_label": "예방의학",
-              "abstract": "OBJECTIVE: Pterygium is a common ocular condition, and excision with conjunctival autografting is the standard treatment. Recurrence after surgery is a known complication, and various adjunctive modalities are used along with excision to reduce recurrence. The use of vascular endothelial growth factor (VEGF) inhibitors, such as bevacizumab (Avastin), has been shown to reduce recurrence in several studies. This study was conducted to evaluate the efficacy of subconjunctival and topical Bevacizumab (BVZ) in preventing recurrence after pterygium surgery. METHODS: This was a multi-center randomized controlled trial in which 1,800 patients were recruited and divided into three groups. In Group C, standard treatment of pterygium excision and conjunctival autografting was performed. Additionally, in Group A, subconjunctival BVZ was administered post-operatively and again 1 week after surgery, whereas in Group B, topical BVZ was administered for 4 weeks post-operatively. Recurrence was assessed at six and twelve months, along with visual acuity and complication rates. RESULTS: Out of 1,800 patients recruited, 332 patients (18.44%) were lost to follow-up. Visual acuity in all three groups showed significant improvement at six and twelve months. The recurrence rate in Groups A and B was significantly lower than in Group C at both the six- and twelve-month follow-ups. The complication rates among the three groups were comparable. DISCUSSION: The findings demonstrate that both subconjunctival and topical bevacizumab significantly reduce pterygium recurrence when used as adjuncts to conjunctival autografting, without increasing complications. These results support the role of VEGF inhibition in limiting postoperative fibrovascular proliferation and are consistent with previous studies. Although follow-up losses occurred, the large multicenter design strengthens the reliability and clinical applicability of the findings. CONCLUSIONS: When used as an adjunct, both subconjunctival and topical bevacizumab reduce the recurrence rate following primary pterygium excision with conjunctival autografting.",
-              "title_ko": "원발성 익상편 절제술 후 재발을 방지하기 위한 결막하 및 국소 베바시주맙을 이용한 부가적 치료: 다기관 시험."
-            }
-          ]
-        },
-        {
           "journal": "Frontiers in endocrinology",
           "impact_factor": 1.5,
           "index_type": "미상",
           "quartile": "미상",
-          "paper_count": 9,
+          "paper_count": 7,
           "top_paper": {
             "pmid": "41641034",
             "title": "Assessment of screening tools for diabetic sarcopenia in type 2 diabetes mellitus: evidence from a scoping review.",
@@ -4607,239 +4644,6 @@
               "field_label": "예방의학",
               "abstract": "OBJECTIVE: To examine whether a theoretically grounded, 8-week physical literacy intervention incorporating salutogenic model components (sense of coherence, social support, and self-efficacy) could improve physical activity levels and clinical outcomes in young and middle-aged adults with Grade 1 hypertension, and to explore participants' subjective experiences of the program. METHODS: A mixed-methods quasi-experimental study was conducted between August and October 2024. Forty patients aged 18-59 years were recruited from a community healthcare center and allocated to the intervention group (n = 20) or control group (n = 20). The intervention group received a multidimensional physical-literacy program, while the control group received usual care. Five participants were lost to follow-up; 35 (intervention: n = 17; control: n = 18) completed all three assessments: baseline (T0), post-intervention (T1), and one-month follow-up (T2). Quantitative outcomes (SBP, BMI, physical-literacy scores, social support, sense of coherence, self-efficacy, and physical activity) were analyzed using independent t-tests or Mann-Whitney U tests for between-group comparisons and paired t-tests or Wilcoxon signed-rank tests for within-group changes, with significance set at α = 0.05 (two-tailed). Qualitative data from semi-structured interviews were analyzed using inductive content analysis. RESULTS: Of the 40 recruited participants, 35 (87.5%) completed the study. Post-intervention, the intervention group demonstrated significant reductions in systolic blood pressure (SBP), body weight, and BMI compared to baseline (all P < 0.05). Significant improvements were also observed in PL scores, social support, sense of coherence, and self-efficacy (P < 0.05). Qualitative findings corroborated these results, highlighting enhanced health literacy and stress alleviation, despite some logistical challenges. CONCLUSION: The PL intervention is a feasible and effective strategy to improve health outcomes and psychosocial resilience in hypertensive adults, offering a promising approach for community-based chronic disease management.",
               "title_ko": "고혈압을 가진 청년 및 중년 성인을 위한 신체적 문해력 중재 프로그램의 효과: 혼합 방법 준실험 연구."
-            },
-            {
-              "pmid": "42973686",
-              "title": "Ultrasound-detected renal surface nodularity and renal damage in hypertensive adults undergoing routine health screening: a cross-sectional study.",
-              "journal": "Frontiers in endocrinology",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2026-10-19",
-              "authors": [
-                "Wang X",
-                "Chen Y",
-                "Zhu H"
-              ],
-              "citation_count": 0,
-              "rcr": null,
-              "volume": "17",
-              "issue": "",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/42973686/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": false,
-              "hot_score": 0.0,
-              "field": "preventive",
-              "field_label": "예방의학",
-              "abstract": "OBJECTIVES: To develop an ultrasound-based grading system for renal surface nodularity (RSN), assess its reproducibility, and evaluate its association with renal damage in hypertensive adults undergoing routine health screening. METHODS: This retrospective cross-sectional study included 871 hypertensive adults who underwent renal ultrasound during routine health screening between October 2025 and March 2026. RSN was graded from stored standardized coronal-plane images on a three-point scale: grade 0 (smooth), grade 1 (mild, undulating), and grade 2 (severe, serrated). Multivariable logistic regression was used to identify factors independently associated with RSN and to evaluate the association between RSN grade and renal damage, defined as eGFR < 60 mL/min/1.73 m² or proteinuria (≥ 1+), with sequential adjustment that included eGFR as a continuous variable in the final model. RESULTS: RSN was detected in 410 of 871 patients (47.1%): 226 (25.9%) had grade 1 and 184 (21.1%) had grade 2 RSN. Interobserver and intraobserver agreement for image interpretation showed weighted κ values of 0.798 and 0.888, respectively (n = 80). In multivariable analysis, hypertension grade (OR, 2.40; P <.001), hypertension duration (OR, 1.62; P <.001), cortical echo intensity (OR, 1.63; P <.001), and lower eGFR (OR, 0.625 per 10 mL/min/1.73 m² increase; 95% CI: 0.53-0.74; P <.001) were independently associated with RSN (AUC = 0.815). Renal damage was present in 5.2%, 8.0%, and 27.2% of patients with RSN grades 0, 1, and 2, respectively (P for trend <.001). Grade 2 RSN remained associated with renal damage after adjustment for age, sex, hypertension grade, and diabetes (OR, 8.77; 95% CI: 4.49-17.13; P <.001) and after further adjustment for eGFR as a continuous variable (OR, 2.88; 95% CI: 1.26-6.61; P = .012). In a sensitivity analysis restricted to the non-eGFR components of the endpoint and adjusted for continuous eGFR, the association was attenuated and no longer significant (OR, 1.55; P = .30). Among the 779 patients without threshold-defined renal damage, grade 2 RSN was present in 134 (17.2%), and eGFR declined progressively across RSN grades (medians, 98.8, 93.1, and 87.4 mL/min/1.73 m²; P <.001). CONCLUSIONS: Ultrasound can detect and grade RSN, and RSN grade shows a dose-response association with renal damage in hypertensive adults. RSN was frequently present in patients whose eGFR and urinalysis remained within normal limits, suggesting that it may reflect structural change accompanying subclinical decline in renal function.",
-              "title_ko": "일상적인 건강 검진을 받는 고혈압 성인의 초음파 검출 신장 표면 결절성 및 신장 손상: 단면 연구."
-            }
-          ]
-        },
-        {
-          "journal": "Best practice & research. Clinical gastroenterology",
-          "impact_factor": 1.5,
-          "index_type": "미상",
-          "quartile": "미상",
-          "paper_count": 6,
-          "top_paper": {
-            "pmid": "41724536",
-            "title": "Developments in the roll-out and performance of CRC screening in Europe.",
-            "journal": "Best practice & research. Clinical gastroenterology",
-            "impact_factor": 1.5,
-            "index_type": "미상",
-            "quartile": "미상",
-            "pubdate": "2025-08-05",
-            "authors": [
-              "Carbotti G",
-              "van den Berg DM",
-              "Carvalho AL"
-            ],
-            "citation_count": 4,
-            "rcr": null,
-            "volume": "80",
-            "issue": "",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/41724536/",
-            "altmetric_score": 0,
-            "altmetric_news": 0,
-            "altmetric_social": 0,
-            "is_current_issue": false,
-            "hot_score": 11.8,
-            "field": "preventive",
-            "field_label": "예방의학",
-            "abstract": "The heterogeneous implementation of colorectal cancer screening programs across Europe makes performance comparison challenging. This study computed and analyzed seven key indicators of screening performance for eighteen European programs between 2011 and 2022. Trends in colorectal cancer incidence and mortality were also examined in relation to when each screening program was introduced. Coverage indicators showed considerable variation across programs but generally increased until the onset of the COVID pandemic. Yield indicators remained stable overall, whereas jumps were associated to protocol changes. In most countries, a decline in incidence followed the introduction of the screening program, whereas the connection of screening with mortality was less evident. The analysis of comparable screening performance indicators over time allows for cross-country and longitudinal monitoring of the programs. The observed decline in incidence following the implementation of fully rolled-out programs highlights the importance and effectiveness of well-organized screening in reducing the burden of the disease.",
-            "title_ko": "유럽에서 CRC 스크리닝의 출시 및 성능의 발전."
-          },
-          "papers": [
-            {
-              "pmid": "41724536",
-              "title": "Developments in the roll-out and performance of CRC screening in Europe.",
-              "journal": "Best practice & research. Clinical gastroenterology",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2025-08-05",
-              "authors": [
-                "Carbotti G",
-                "van den Berg DM",
-                "Carvalho AL"
-              ],
-              "citation_count": 4,
-              "rcr": null,
-              "volume": "80",
-              "issue": "",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/41724536/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": false,
-              "hot_score": 11.8,
-              "field": "preventive",
-              "field_label": "예방의학",
-              "abstract": "The heterogeneous implementation of colorectal cancer screening programs across Europe makes performance comparison challenging. This study computed and analyzed seven key indicators of screening performance for eighteen European programs between 2011 and 2022. Trends in colorectal cancer incidence and mortality were also examined in relation to when each screening program was introduced. Coverage indicators showed considerable variation across programs but generally increased until the onset of the COVID pandemic. Yield indicators remained stable overall, whereas jumps were associated to protocol changes. In most countries, a decline in incidence followed the introduction of the screening program, whereas the connection of screening with mortality was less evident. The analysis of comparable screening performance indicators over time allows for cross-country and longitudinal monitoring of the programs. The observed decline in incidence following the implementation of fully rolled-out programs highlights the importance and effectiveness of well-organized screening in reducing the burden of the disease.",
-              "title_ko": "유럽에서 CRC 스크리닝의 출시 및 성능의 발전."
-            },
-            {
-              "pmid": "41724531",
-              "title": "Risk-based screening for early detection of colorectal cancer: an overview.",
-              "journal": "Best practice & research. Clinical gastroenterology",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2025-05-08",
-              "authors": [
-                "Brück CC",
-                "Mwangi LW",
-                "van Wifferen F"
-              ],
-              "citation_count": 2,
-              "rcr": null,
-              "volume": "80",
-              "issue": "",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/41724531/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": false,
-              "hot_score": 8.0,
-              "field": "preventive",
-              "field_label": "예방의학",
-              "abstract": "Screening programs for colorectal cancer (CRC) reduce CRC incidence and mortality, while balancing benefits and harms of the population. However, benefits vary widely among individuals. Low-risk individuals may face unnecessary burdens, while high-risk individuals could benefit from more intensive screening. Risk-based screening addresses these issues by tailoring screening strategies using risk factors such as age, sex, race, ethnicity, lifestyle factors, genetic predisposition, and previous screening results. Potential benefits of risk-based screening include improved cost-effectiveness, efficient resource use and reduced unnecessary procedures. Challenges include a lack of validated risk stratification tools, data availability, healthcare capacity, and ethical considerations. Several countries started to evaluate risk-based screening programs with optimistic results. While promising, further research is necessary to address the remaining challenges. Nevertheless, risk-based screening has the potential to enhance patient experiences, optimize the balance of individual-level benefits and harms, and positively impact the overall burden and costs associated with CRC screening.",
-              "title_ko": "대장암의 조기 발견을 위한 위험 기반 선별검사: 개요."
-            },
-            {
-              "pmid": "41724542",
-              "title": "Elements of screening and early diagnosis of lower GI neoplastic lesions - an overview.",
-              "journal": "Best practice & research. Clinical gastroenterology",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2025-09-30",
-              "authors": [
-                "Sheridan B",
-                "Rabeneck L",
-                "Toes-Zoutendijk E"
-              ],
-              "citation_count": 1,
-              "rcr": null,
-              "volume": "80",
-              "issue": "",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/41724542/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": false,
-              "hot_score": 5.1,
-              "field": "preventive",
-              "field_label": "예방의학",
-              "abstract": "Dobrow's 12 consolidated principles were applied to evaluate the extent to which colorectal cancer (CRC) screening programmes align with these established screening principles. The principles within the first domain - disease and conditions - are fully met. CRC represents a significant global public health burden with a well-understood natural history, including a long preclinical phase. These features make CRC suitable for population-based screening. Current guidelines recommend screening average-risk individuals, with starting ages as early as 45 years and stopping ages up to 85 years in some programs, although most programs target those aged 50-75 years. For Dobrow's second domain - test or intervention - we found that established CRC screening methods (faecal immunochemical testing (FIT), colonoscopy, and flexible sigmoidoscopy) have known and acceptable sensitivity and specificity. These tests have clear thresholds for interpretation and follow-up and are associated with reductions in both CRC incidence and mortality, confirming their clinical effectiveness in organised programmes. Dobrow's third domain - programme or system - addresses how screening programmes should be structured, implemented, and integrated into health systems. Unlike the other domains, this is fully achieved in only a small minority of programmes. While implementation may vary from country to country, the principles provide benchmarks for well-organised programmes. CRC screening is generally cost-effective and widely accepted by patients, providers, and society. Successful programmes require dedicated teams, infrastructure, and systems for coordination and quality assurance. Before implementation, a CRC screening initiative must meet, or have a clear plan to meet 12 principles. In summary, robust infrastructure and governance are essential for organised CRC screening programmes to align with the Dobrow principles and achieve long-term success.",
-              "title_ko": "하부 위장관 신생물 병변의 스크리닝 및 조기 진단의 요소 - 개요."
-            },
-            {
-              "pmid": "41724538",
-              "title": "Evidence-based decision analysis guiding clinical guidelines for an organized population-based screening for colorectal cancer.",
-              "journal": "Best practice & research. Clinical gastroenterology",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2025-08-08",
-              "authors": [
-                "Jahn B",
-                "Sroczynski G",
-                "Santamaria J"
-              ],
-              "citation_count": 1,
-              "rcr": null,
-              "volume": "80",
-              "issue": "",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/41724538/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": false,
-              "hot_score": 5.1,
-              "field": "preventive",
-              "field_label": "예방의학",
-              "abstract": "BACKGROUND: This study includes the long-term benefit-harm analysis of population-wide colorectal cancer (CRC) screening strategies commissioned by the Austrian National Committee for Cancer Screening (ANCCS). In addition, we present the related cost-effectiveness analysis. METHODS: Using a validated decision-analytic Markov state transition model, we evaluated 17 by the ANCCS suggested CRC-screening strategies differing in tests (fecal-immunochemical test (FIT), guaiac-based fecal occult blood test (gFOBT), colonoscopy (COL)), age at start (40,45,50 years) and end (COL: 65,70,75 years, FIT/gFOBT 75 years), and intervals (2,5,10 years). Positive FIT/gFOBT tests are followed by colonoscopy. Evaluated outcomes included health benefits (life-years gained (LYG), CRC-cases/CRC-deaths avoided), harms (severe colonoscopy complications, psychological harms due to positive test results (PTR), additional colonoscopies), stepwise evaluated incremental harm-benefit ratios (IHBR), and incremental cost-effectiveness ratios (ICER). We applied the Austrian healthcare system perspective, a lifelong-time horizon and conducted sensitivity analyses. RESULTS: The most effective colonoscopy-based screening strategy is colonoscopy at age 40/50/60/70 (449 LYG per 1000 individuals) with an IHBR of 3 PTR/LYG compared to COL45/55/65 (ICER: 13,032 Euro/LYG vs. COL45/55/65/75). The most effective fecal blood-test-based strategy is annual FIT testing starting at age 40 years (488 LYG per 1000 individuals) and an IHBR of 30 PTR/LYG compared to FIT40+2y (biennial FIT starting age 40). All biennial FIT-based screening strategies represent alternative options on the harm-benefit efficiency frontier with IHBR of PTR/LYG: 2 (FIT50+2y vs. no screening), 5 (FIT45+2y vs. FIT50+2y), and 7 (FIT40+2y vs. FIT45+2y). The cost-effectiveness analyses provided stepwise ICERs ranging from 3391 Euro/LYG (FIT45+2y vs. FIT50+2y) to 47,812 Euro/LYG (FIT40+1y vs. FIT40+2y). CONCLUSIONS: Our decision analysis shows benefit-harm and cost-effectiveness trade-offs. In the consensus meeting of the ANCCS, colonoscopy- and FIT-based screening starting at age 45 were selected as suggested screening strategies, accounting for benefit-harm balance, evidence level, and implementation aspects.",
-              "title_ko": "대장암에 대한 조직화된 모집단 기반 선별 검사를 위한 임상 가이드라인을 안내하는 증거 기반 의사결정 분석."
-            },
-            {
-              "pmid": "41724541",
-              "title": "Is blood the new stool? Status of blood tests for CRC screening.",
-              "journal": "Best practice & research. Clinical gastroenterology",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2025-09-08",
-              "authors": [
-                "Symonds EL",
-                "Dix M",
-                "Wassie MM"
-              ],
-              "citation_count": 0,
-              "rcr": null,
-              "volume": "80",
-              "issue": "",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/41724541/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": false,
-              "hot_score": 0.0,
-              "field": "preventive",
-              "field_label": "예방의학",
-              "abstract": "Colorectal cancer (CRC) screening has proven to decrease CRC incidence and mortality, with many countries providing faecal immunochemical tests (FIT) in screening programs. Effectiveness, however, is limited in the setting of low participation rates, which has prompted growing research into blood-based screening. While blood testing is anticipated to improve participation due to greater population acceptability, its readiness for widespread implementation remains unclear, and comparative accuracy data against FIT is needed. This article provides a systematic review and meta-analysis on blood-based CRC screening tests that have been directly compared to FIT, and summarises the evidence for broader program considerations, including analytical quality, consumer preferences, participation rates and cost effectiveness. The findings show that blood tests currently lack the sensitivity and cost-effectiveness to replace FIT in screening programs, and that their use should be limited to individuals unable or unwilling to complete FIT.",
-              "title_ko": "피가 새로운 의자입니까? CRC 선별 검사를 위한 혈액 검사 상태."
-            },
-            {
-              "pmid": "41724540",
-              "title": "Global impact of COVID-19 on organized CRC screening programs: lessons learned.",
-              "journal": "Best practice & research. Clinical gastroenterology",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2025-09-05",
-              "authors": [
-                "de Jonge L",
-                "Lansdorp-Vogelaar I",
-                "Doria-Rose VP"
-              ],
-              "citation_count": 0,
-              "rcr": null,
-              "volume": "80",
-              "issue": "",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/41724540/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": false,
-              "hot_score": 0.0,
-              "field": "preventive",
-              "field_label": "예방의학",
-              "abstract": "Using a standardized data template, this study retrospectively collected data about colorectal cancer (CRC) screening activity in 2020 and 2021 to estimate the impact of the COVID-19 pandemic compared to the pre-pandemic period (2018 or 2019). Data were collected from 17 programs in 14 countries of which 15 were population-based programs. Invitation coverage was decreased by up to 53.7 % in 2020. Participation among those invited was similar in both periods for all programs. The maximum backlog in invitations was less than 7.4 months in 2020 and 3.3 months for 2021. Nine out of 15 programs observed a decrease in the number of detected CRCs in 2020. Four programs showed a positive percentage change in CRCs detected in 2021 relative to the pre-pandemic period. Half of the countries observed a worse stage-distribution in 2020/2021. Overall, organized CRC screening programs operated at lower screening activity, but screening outcomes were similar compared to the pre-pandemic period.",
-              "title_ko": "코로나19가 조직화된 CRC 선별 검사 프로그램에 미치는 전 세계적인 영향: 교훈."
             }
           ]
         }
@@ -4869,12 +4673,12 @@
           ]
         },
         {
-          "phrase": "screening programs",
-          "score": 37.0,
+          "phrase": "knowledge attitudes",
+          "score": 41.1,
           "paper_count": 2,
           "pmids": [
-            "39973463",
-            "41724540"
+            "41755708",
+            "40053326"
           ]
         },
         {
@@ -4914,24 +4718,6 @@
           ]
         },
         {
-          "phrase": "diabetic retinopathy",
-          "score": 31.9,
-          "paper_count": 2,
-          "pmids": [
-            "40053023",
-            "39936065"
-          ]
-        },
-        {
-          "phrase": "retinopathy screening",
-          "score": 31.9,
-          "paper_count": 2,
-          "pmids": [
-            "40053023",
-            "39936065"
-          ]
-        },
-        {
           "phrase": "adolescent mental",
           "score": 30.1,
           "paper_count": 2,
@@ -4958,6 +4744,24 @@
             "40028449",
             "41906517"
           ]
+        },
+        {
+          "phrase": "screening cervical",
+          "score": 25.2,
+          "paper_count": 2,
+          "pmids": [
+            "40469994",
+            "39960711"
+          ]
+        },
+        {
+          "phrase": "cervical cancer",
+          "score": 25.2,
+          "paper_count": 2,
+          "pmids": [
+            "40469994",
+            "41720510"
+          ]
         }
       ],
       "topic_trends": {
@@ -4969,30 +4773,21 @@
         ],
         "series": [
           {
-            "phrase": "genetic testing",
-            "scores": [
-              0.0,
-              45.3,
-              0.0,
-              60.0
-            ]
-          },
-          {
             "phrase": "type diabetes",
             "scores": [
               0.0,
               45.4,
               10.1,
-              31.8
+              41.8
             ]
           },
           {
-            "phrase": "preimplantation genetic",
+            "phrase": "genetic testing",
             "scores": [
               0.0,
-              35.2,
+              45.3,
               0.0,
-              40.0
+              30.0
             ]
           },
           {
@@ -5001,7 +4796,16 @@
               0.0,
               13.1,
               26.1,
-              30.0
+              20.0
+            ]
+          },
+          {
+            "phrase": "knowledge attitudes",
+            "scores": [
+              0.0,
+              23.1,
+              18.0,
+              15.1
             ]
           },
           {
@@ -5014,12 +4818,12 @@
             ]
           },
           {
-            "phrase": "heart disease",
+            "phrase": "hpv vaccination",
             "scores": [
               0.0,
               0.0,
-              37.6,
-              10.0
+              19.8,
+              35.1
             ]
           }
         ]
@@ -5028,43 +4832,71 @@
     {
       "key": "emergency",
       "label": "응급의학",
-      "paper_count": 453,
+      "paper_count": 455,
       "journals": [
         {
           "journal": "Resuscitation",
           "impact_factor": 5.4,
           "index_type": "SCIE",
           "quartile": "Q1",
-          "paper_count": 1,
+          "paper_count": 2,
           "top_paper": {
-            "pmid": "39840934",
-            "title": "The impact of pediatric post-cardiac arrest care on survival: A multicenter review from the AHA get with the Guidelines®-resuscitation post-cardiac arrest care registry.",
+            "pmid": "40071352",
+            "title": "Trends in Cardiac Arrest Outcomes & Management in Children with Cardiac Illness Category Compared to Non-Cardiac Illness Category: An Analysis from the AHA Get With The Guidelines®-Resuscitation Registry.",
             "journal": "Resuscitation",
             "impact_factor": 5.4,
             "index_type": "SCIE",
             "quartile": "Q1",
-            "pubdate": "2024-07-23",
+            "pubdate": "2024-11-13",
             "authors": [
-              "Fowler JC",
+              "Gardner MM",
               "Morgan RW",
-              "O'Halloran A"
+              "Reeder R"
             ],
-            "citation_count": 7,
-            "rcr": 1.7103860620659215,
-            "volume": "202",
+            "citation_count": 8,
+            "rcr": 1.6474048132024957,
+            "volume": "205",
             "issue": "",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/39840934/",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/40071352/",
             "altmetric_score": 0,
             "altmetric_news": 0,
             "altmetric_social": 0,
             "is_current_issue": false,
-            "hot_score": 37.8,
+            "hot_score": 38.9,
             "field": "emergency",
             "field_label": "응급의학",
-            "abstract": "AIM: Adherence to post-cardiac arrest care (PCAC) recommendations is associated with improved outcomes for adults. We aimed to describe the survival impact of meeting American Heart Association (AHA) PCAC guidelines in children after cardiac arrest. METHODS: We conducted a retrospective study using Get With The Guidelines® Resuscitation's (GWTG®-R) registry to describe the PCAC of patients ≤ 18 years old who suffered an in-hospital or out-of-hospital cardiac arrest (IHCA or OHCA). We evaluated the association between the absence of hypotension and fever in the initial 24 h following return of circulation (ROC) with survival to hospital discharge. We reviewed the utilization of monitoring/evaluation tools recommended in pediatric PCAC guidelines: electrocardiogram (ECG), electroencephalogram (EEG), and neuro-imaging. RESULTS: We found 385 pediatric patients who suffered an IHCA or OHCA from 2015 through 2019 and survived at least 6 h post-ROC. Sixty-six percent of patients survived to hospital discharge. Following ROC, 56% of patients had EEG monitoring, 80% had an ECG performed, 47% had a head CT, and 26% had a cerebral MRI. In the initial 24 h post-ROC, 92% of patients did not have hypotension and 79% were afebrile. Patients without hypotension in the initial 24 h post-ROC had higher odds of survival to hospital discharge than those with hypotension (aOR 4.96; 95% CI 2.07, 11.90; p = 0.0003), adjusting for age and cardiac arrest location. Patients without hypotension and without fever in the initial 24 h post-ROC had higher odds of survival to hospital discharge compared to patients who had either hypotension or fever or both (aOR 1.98; 95% CI 1.06,3.71; p = 0.034). CONCLUSION: In this retrospective multicenter registry study, absence of both post-cardiac arrest hypotension and fever were associated with increased odds of survival to hospital discharge. Further research is needed to understand the full impact of PCAC recommendation compliance on survival outcomes.",
-            "title_ko": "소아 심정지 후 치료가 생존에 미치는 영향: AHA의 다기관 검토 Guidelines ® -resuscitation post-cardiac arrest care registry."
+            "abstract": "INTRODUCTION: Contemporary rates of survival after pediatric in-hospital CPR events and trends in survival over the last 20 years have not been compared based on illness category. We hypothesized that survival to hospital discharge for surgical-cardiac category is higher than the non-cardiac category, and rates of survival after in-hospital CPR increased over time in all categories. METHODS: The AHA Get With The Guidelines®-Resuscitation registry was queried for index CPR events in children < 18 years of age from 2000 to 2021. Categories were surgical-cardiac (in-hospital CPR event following cardiac surgery); medical-cardiac (CPR event in non-surgical cardiac disease); and non-cardiac (CPR event in patients without cardiac disease). The primary outcome was survival to hospital discharge. We compared eras 2000-2004, 2005-2009, 2010-2014, and 2015-2021 with mixed logistic regression models, including event year as a continuous predictor and site as a random effect. RESULTS: Of 16,241 index events, in-hospital CPR event rates by illness category were: 19 % surgical-cardiac, 18 % medical-cardiac, and 63 % non-cardiac. Surgical-cardiac category had the highest rate of survival to hospital discharge compared to medical-cardiac and non-cardiac categories (56 % vs. 44 % vs. 46 %; p < 0.001). After controlling for age, location of event, and hospital size, the odds of survival were highest for surgical-cardiac category (aOR 1.28, 95 % CI 1.17-1.41) and lower for medical-cardiac category (aOR 0.90, 0.82-0.98), compared to the non-cardiac category. Odds of survival increased for all illness categories from the 2000-2004 era to the 2015-2021 era. Rates of improvement differed among illness categories with medical-cardiac having the lowest increased odds per era. Surgical-cardiac patients had the highest rates of extracorporeal resuscitation (ECPR) (20 % across the cohort), though the greatest increase in ECPR utilization was in the non-cardiac population (52 % increased odds per era). CONCLUSIONS: Over the last 20 years, both survival to hospital discharge and ECPR use has increased in all in-hospital CPR event illness categories. Children with surgical-cardiac CPR event have higher odds of survival to hospital discharge compared to non-cardiac CPR event categories, whereas odds of survival were lowest with medical-cardiac CPR events.",
+            "title_ko": "비심장 질환 범주와 비교한 심장 질환 범주 아동의 심장 체포 결과 및 관리 추세: AHA Get With The Guidelines ® -Resuscitation Registry의 분석."
           },
           "papers": [
+            {
+              "pmid": "40071352",
+              "title": "Trends in Cardiac Arrest Outcomes & Management in Children with Cardiac Illness Category Compared to Non-Cardiac Illness Category: An Analysis from the AHA Get With The Guidelines®-Resuscitation Registry.",
+              "journal": "Resuscitation",
+              "impact_factor": 5.4,
+              "index_type": "SCIE",
+              "quartile": "Q1",
+              "pubdate": "2024-11-13",
+              "authors": [
+                "Gardner MM",
+                "Morgan RW",
+                "Reeder R"
+              ],
+              "citation_count": 8,
+              "rcr": 1.6474048132024957,
+              "volume": "205",
+              "issue": "",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/40071352/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 38.9,
+              "field": "emergency",
+              "field_label": "응급의학",
+              "abstract": "INTRODUCTION: Contemporary rates of survival after pediatric in-hospital CPR events and trends in survival over the last 20 years have not been compared based on illness category. We hypothesized that survival to hospital discharge for surgical-cardiac category is higher than the non-cardiac category, and rates of survival after in-hospital CPR increased over time in all categories. METHODS: The AHA Get With The Guidelines®-Resuscitation registry was queried for index CPR events in children < 18 years of age from 2000 to 2021. Categories were surgical-cardiac (in-hospital CPR event following cardiac surgery); medical-cardiac (CPR event in non-surgical cardiac disease); and non-cardiac (CPR event in patients without cardiac disease). The primary outcome was survival to hospital discharge. We compared eras 2000-2004, 2005-2009, 2010-2014, and 2015-2021 with mixed logistic regression models, including event year as a continuous predictor and site as a random effect. RESULTS: Of 16,241 index events, in-hospital CPR event rates by illness category were: 19 % surgical-cardiac, 18 % medical-cardiac, and 63 % non-cardiac. Surgical-cardiac category had the highest rate of survival to hospital discharge compared to medical-cardiac and non-cardiac categories (56 % vs. 44 % vs. 46 %; p < 0.001). After controlling for age, location of event, and hospital size, the odds of survival were highest for surgical-cardiac category (aOR 1.28, 95 % CI 1.17-1.41) and lower for medical-cardiac category (aOR 0.90, 0.82-0.98), compared to the non-cardiac category. Odds of survival increased for all illness categories from the 2000-2004 era to the 2015-2021 era. Rates of improvement differed among illness categories with medical-cardiac having the lowest increased odds per era. Surgical-cardiac patients had the highest rates of extracorporeal resuscitation (ECPR) (20 % across the cohort), though the greatest increase in ECPR utilization was in the non-cardiac population (52 % increased odds per era). CONCLUSIONS: Over the last 20 years, both survival to hospital discharge and ECPR use has increased in all in-hospital CPR event illness categories. Children with surgical-cardiac CPR event have higher odds of survival to hospital discharge compared to non-cardiac CPR event categories, whereas odds of survival were lowest with medical-cardiac CPR events.",
+              "title_ko": "비심장 질환 범주와 비교한 심장 질환 범주 아동의 심장 체포 결과 및 관리 추세: AHA Get With The Guidelines ® -Resuscitation Registry의 분석."
+            },
             {
               "pmid": "39840934",
               "title": "The impact of pediatric post-cardiac arrest care on survival: A multicenter review from the AHA get with the Guidelines®-resuscitation post-cardiac arrest care registry.",
@@ -5287,71 +5119,6 @@
               "field_label": "응급의학",
               "abstract": "Cardiovascular collapse and arrest in the periprocedural setting and intensive care unit differ from arrests in other contexts (such as out-of-hospital or hospital ward) because clinicians almost always witness the event, and the most likely precipitating cause may be known. In comparison to other settings, the response can be timelier and more focused on treating the underlying cause(s). Since many patients deteriorate over minutes to hours, clinicians can evaluate the patient expeditiously, generate a diagnosis, and initiate appropriate treatment more rapidly than in other arrest circumstances. This iteration of Perioperative Resuscitation and Life Support (PeRLS) employs Grading of Recommendations, Assessment, Development, and Evaluations (GRADE) methodology to review the most recent evidence on preventing and managing cardiac arrest during the perioperative period. Furthermore, many of the recommendations and algorithms may also be applicable to areas outside the operating room, such as the intensive care unit and emergency room.",
               "title_ko": "수술 전 소생술 및 생명 유지 (PeRLS): 업데이트."
-            }
-          ]
-        },
-        {
-          "journal": "The Journal of head trauma rehabilitation",
-          "impact_factor": 1.5,
-          "index_type": "미상",
-          "quartile": "미상",
-          "paper_count": 1,
-          "top_paper": {
-            "pmid": "39808542",
-            "title": "Sleep Disturbance and Postconcussive Symptoms in Pediatric Mild Traumatic Brain Injury and Orthopedic Injury.",
-            "journal": "The Journal of head trauma rehabilitation",
-            "impact_factor": 1.5,
-            "index_type": "미상",
-            "quartile": "미상",
-            "pubdate": "2024-09-13",
-            "authors": [
-              "Luszawski CA",
-              "Minich NM",
-              "Bigler ED"
-            ],
-            "citation_count": 5,
-            "rcr": 3.0239908693125175,
-            "volume": "40",
-            "issue": "3",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/39808542/",
-            "altmetric_score": 0,
-            "altmetric_news": 0,
-            "altmetric_social": 0,
-            "is_current_issue": true,
-            "hot_score": 27.1,
-            "field": "emergency",
-            "field_label": "응급의학",
-            "abstract": "OBJECTIVE: Sleep disturbance (SD) is common after pediatric mild traumatic brain injury (mTBI) and may predict increased postconcussive symptoms (PCS) and prolonged recovery. Our objective was to investigate the relation of SD with PCS in children with mTBI and those with orthopedic injury (OI). SETTING: Emergency departments (EDs) at 2 children's hospitals in the Midwestern United States. PARTICIPANTS: Children and adolescents aged 8 to 16 years old diagnosed with either a mTBI ( n = 143) or OI ( n = 74) and recruited within 24 hours postinjury. DESIGN: Observational, prospective, concurrent cohort study with longitudinal follow-up. MAIN MEASURES: Parents rated children's preinjury sleep retrospectively shortly after injury, and postinjury sleep at 3 and 6 months postinjury, using the Sleep Disorders Inventory for Students. Parents rated children's preinjury symptoms retrospectively in the emergency department, and parents and children rated PCS at 3 and 6 months, using the Health and Behavior Inventory and the Postconcussive Symptom Interview. Weekly ratings on the Health and Behavior Inventory were also obtained remotely. RESULTS: Postinjury SD was modestly but not significantly higher in the mTBI group compared to the OI group ( P = .060, d = 0.32). Children with mTBI who were symptomatic postacutely based on parent ratings had worse parent-rated sleep outcomes at 3 and 6 months postinjury compared to children who were not symptomatic. Greater preinjury SD also predicted more postinjury SD and more severe PCS regardless of injury type. CONCLUSIONS: The results suggest potential bidirectional associations between SD and PCS after mTBI. Studies of treatments for SD following pediatric mTBI are needed.",
-            "title_ko": "소아 경증 외상성 뇌손상 및 정형외과적 손상의 수면 장애 및 뇌진탕 후 증상."
-          },
-          "papers": [
-            {
-              "pmid": "39808542",
-              "title": "Sleep Disturbance and Postconcussive Symptoms in Pediatric Mild Traumatic Brain Injury and Orthopedic Injury.",
-              "journal": "The Journal of head trauma rehabilitation",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2024-09-13",
-              "authors": [
-                "Luszawski CA",
-                "Minich NM",
-                "Bigler ED"
-              ],
-              "citation_count": 5,
-              "rcr": 3.0239908693125175,
-              "volume": "40",
-              "issue": "3",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/39808542/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": true,
-              "hot_score": 27.1,
-              "field": "emergency",
-              "field_label": "응급의학",
-              "abstract": "OBJECTIVE: Sleep disturbance (SD) is common after pediatric mild traumatic brain injury (mTBI) and may predict increased postconcussive symptoms (PCS) and prolonged recovery. Our objective was to investigate the relation of SD with PCS in children with mTBI and those with orthopedic injury (OI). SETTING: Emergency departments (EDs) at 2 children's hospitals in the Midwestern United States. PARTICIPANTS: Children and adolescents aged 8 to 16 years old diagnosed with either a mTBI ( n = 143) or OI ( n = 74) and recruited within 24 hours postinjury. DESIGN: Observational, prospective, concurrent cohort study with longitudinal follow-up. MAIN MEASURES: Parents rated children's preinjury sleep retrospectively shortly after injury, and postinjury sleep at 3 and 6 months postinjury, using the Sleep Disorders Inventory for Students. Parents rated children's preinjury symptoms retrospectively in the emergency department, and parents and children rated PCS at 3 and 6 months, using the Health and Behavior Inventory and the Postconcussive Symptom Interview. Weekly ratings on the Health and Behavior Inventory were also obtained remotely. RESULTS: Postinjury SD was modestly but not significantly higher in the mTBI group compared to the OI group ( P = .060, d = 0.32). Children with mTBI who were symptomatic postacutely based on parent ratings had worse parent-rated sleep outcomes at 3 and 6 months postinjury compared to children who were not symptomatic. Greater preinjury SD also predicted more postinjury SD and more severe PCS regardless of injury type. CONCLUSIONS: The results suggest potential bidirectional associations between SD and PCS after mTBI. Studies of treatments for SD following pediatric mTBI are needed.",
-              "title_ko": "소아 경증 외상성 뇌손상 및 정형외과적 손상의 수면 장애 및 뇌진탕 후 증상."
             }
           ]
         },
@@ -5621,7 +5388,7 @@
               "field": "emergency",
               "field_label": "응급의학",
               "abstract": "BACKGROUND: Early cardiopulmonary resuscitation (CPR) and defibrillation with Automated External Defibrillators (AEDs) by the public at an out-of-hospital cardiac arrest (OHCA) increases patient survival, but AEDs are infrequently used. Using drones to deliver AEDs may be one way to increase uptake, but there is limited understanding about what members of the public think about this. The aim of the study was to explore public attitudes towards drone AED delivery for OHCA. METHODS: We conducted 14 remote, semi-structured interviews with real-life OHCA bystanders. Participants were recruited via social media, a UK cardiac arrest survivor charity and the Welsh Ambulance Services University NHS Trust. We analysed data using the Theoretical Domains Framework and mapped findings to the Capability, Opportunity and Motivation model of Behaviour (COM-B) to identify perceived barriers and facilitators to the retrieval and use of drone-delivered AEDs. We used The Behaviour Change Wheel to identify potential interventions to optimise use of drone-delivered AEDs. RESULTS: Participants experienced varying levels of physical and social opportunities in relation to (un)available AEDs and (in)appropriate support from the call-handler, affecting the likelihood of them performing CPR and/or using an AED effectively. Most participants were unsure about how to use an AED, and none knew how a drone-delivered AED system would work in practice. Many participants questioned whether they would possess sufficient capability and motivation to retrieve and/or operate a drone-delivered AED during a time-critical emergency. There were five key themes for potential interventions: incorporating information about drone-delivered AED use into pre-existing training programmes and materials; ensuring drone use complies with specific regulatory and/or legislative requirements; making the drone-delivered AED easy to identify and access; optimising call-handler scripts to incorporate drone-delivered AED use; providing social support via a robust co-responder model to complement drone-delivered AED use. CONCLUSIONS: Participants accepted drone-delivered AEDs for OHCA, but were unsure if it would be effective. They identified several issues that we addressed through the development of a comprehensive intervention framework. A comprehensive call-handler script that incorporates drone-delivered AED use and support for bystanders was the most salient potential intervention for future testing by relevant stakeholders.",
-              "title_ko": ""
+              "title_ko": "드론에 대한 방관자들의 태도는 병원 밖 심정지를 위한 자동 외부 제세동기: 질적 인터뷰 연구로 전달되었습니다."
             },
             {
               "pmid": "41385549",
@@ -5649,7 +5416,7 @@
               "field": "emergency",
               "field_label": "응급의학",
               "abstract": "OBJECTIVES: Emergency department (ED) to community (ED2C) programs, which redirect patients from the pediatric ED to community healthcare professionals represent a promising strategy to reduce the impact of non-urgent visits on the pediatric ED. Given an ED2C program's potential impact on various care professionals, we completed a qualitative study to explore key informants' attitudes and perceptions of pediatric ED2C programs. METHODS: We conducted one-on-one semi-structured interviews with key informants in British Columbia, Canada. Participants included: pediatric ED staff - triage nurses and physicians; community professionals - pediatricians and family physicians; and health system leaders responsible for pediatric and emergency care in British Columbia. Interviews were recorded, transcribed verbatim, de-identified, and analyzed using reflexive thematic analysis within an interpretive description framework. A visual model was developed to depict key themes in attitudes and perceptions towards pediatric ED2C programs. RESULTS: We interviewed 24 participants: 6 community professionals, 11 pediatric ED professionals, and 7 healthcare leaders. Participants viewed the ED2C program as a valuable solution to address pediatric system strain provided that systemic barriers are addressed, and both emergency and community settings are equipped with adequate training and resources. Participants emphasized the need for clear guidelines on eligibility and operations to build confidence and enhance program effectiveness. CONCLUSIONS: Our findings suggest there is support for ED2C programs as a means to reduce the impact of non-urgent pediatric ED visits and strengthen community-based care. Successful implementation will require coordinated planning, resource investment, and clear operational frameworks.",
-              "title_ko": ""
+              "title_ko": "소아 응급실에서 지역사회 진료 장소로 환자를 안내: 의료 전문가 및 리더 관점에 대한 질적 연구."
             },
             {
               "pmid": "41343612",
@@ -5677,7 +5444,7 @@
               "field": "emergency",
               "field_label": "응급의학",
               "abstract": "OBJECTIVE: Cardiac arrest is a leading cause of global mortality, for which timely cardiopulmonary resuscitation (CPR) is a critical intervention. However, public competence in CPR remains low. Grounded in the Theory of Planned Behavior (TPB), this study investigated the factors influencing CPR implementation among college freshmen by examining their behavioral intention. METHODS: A cross-sectional study was conducted among college freshmen undergoing a basic entrance physical health screening at Fuzhou First General Hospital between September 2 and 9, 2024. Participants were randomly selected to complete an electronic questionnaire, which included a general information sheet and the validated Public Behavior Intention Scale for Performing CPR, adapted with input from emergency medicine experts. Statistical analyses included correlation, regression, and mediation analysis. RESULTS: Among 4,929 valid questionnaires analyzed, a higher willingness to perform CPR was associated with undergraduate enrollment, good personal and family health status, prior CPR performance, and no history of transient loss of consciousness. Multiple linear regression identified behavioral attitude (β = 0.439), subjective norm (β = 0.272), CPR knowledge (β = 0.027), and perceived behavioral control (β = 0.070) as significant predictors of CPR behavioral intention (all P < 0.01). Mediation analysis further revealed that CPR knowledge influenced behavioral intention primarily through its effects on behavioral attitude (79.43% of the total effect), subjective norm (61.31%), and perceived behavioral control (43.67%). CONCLUSION: Behavioral attitude serves as the principal pathway through which CPR knowledge translates into intention to act. These findings underscore that targeted CPR training in universities should address both knowledge and psychosocial factors to strengthen students' willingness to act.",
-              "title_ko": ""
+              "title_ko": "대학 신입생의 심폐소생술 시행에 영향을 미치는 요인: 계획된 행동 이론에 근거."
             }
           ]
         },
@@ -5713,7 +5480,7 @@
             "field": "emergency",
             "field_label": "응급의학",
             "abstract": "OBJECTIVE: To examine trends in children's emergency department (ED) visits' payer mix before and after Texas initiated Medicaid unwinding. STUDY SETTING AND DESIGN: We conducted a retrospective, secondary data analysis of children's ED visits in Texas, aggregated at the facility level. We analyzed trends in ED visit payer mix before and after Texas initiated unwinding and employed an interrupted time series design to examine the association between unwinding and ED visit payer mix. DATA SOURCES AND ANALYTIC SAMPLE: We used data from the Texas Emergency Department Public Use Data Files encompassing all children's ED visits between 2021 Q2 and 2024 Q2 and included 7.6 million visits from 472 facilities. PRINCIPAL FINDINGS: Average quarterly visits per facility increased from 1225.2 at baseline to 1254.8 visits during the post-unwinding period (p < 0.001). The average share of quarterly Medicaid visits declined by 11.7% (-7.2 pp.; from 64.3% to 57.1%, p < 0.001) in the post- relative to the pre-unwinding period. This decline was split between a 12.5% increase in the average share of quarterly ED visits attributed to commercial plans (3.4 pp.; from 26.0% to 29.4%, p < 0.001) and a 45.2% increase in the share attributed to uninsured children (3.8 pp.; from 6.9% to 10.7%, p < 0.001). CONCLUSIONS: Unwinding was associated with decreased ED visit share for Medicaid among children, while commercial and uninsured ED visit shares increased.",
-            "title_ko": ""
+            "title_ko": "텍사스에서 Medicaid Unwinding에 따른 응급실 지불인 혼합의 변화."
           },
           "papers": [
             {
@@ -5742,7 +5509,7 @@
               "field": "emergency",
               "field_label": "응급의학",
               "abstract": "OBJECTIVE: To examine trends in children's emergency department (ED) visits' payer mix before and after Texas initiated Medicaid unwinding. STUDY SETTING AND DESIGN: We conducted a retrospective, secondary data analysis of children's ED visits in Texas, aggregated at the facility level. We analyzed trends in ED visit payer mix before and after Texas initiated unwinding and employed an interrupted time series design to examine the association between unwinding and ED visit payer mix. DATA SOURCES AND ANALYTIC SAMPLE: We used data from the Texas Emergency Department Public Use Data Files encompassing all children's ED visits between 2021 Q2 and 2024 Q2 and included 7.6 million visits from 472 facilities. PRINCIPAL FINDINGS: Average quarterly visits per facility increased from 1225.2 at baseline to 1254.8 visits during the post-unwinding period (p < 0.001). The average share of quarterly Medicaid visits declined by 11.7% (-7.2 pp.; from 64.3% to 57.1%, p < 0.001) in the post- relative to the pre-unwinding period. This decline was split between a 12.5% increase in the average share of quarterly ED visits attributed to commercial plans (3.4 pp.; from 26.0% to 29.4%, p < 0.001) and a 45.2% increase in the share attributed to uninsured children (3.8 pp.; from 6.9% to 10.7%, p < 0.001). CONCLUSIONS: Unwinding was associated with decreased ED visit share for Medicaid among children, while commercial and uninsured ED visit shares increased.",
-              "title_ko": ""
+              "title_ko": "텍사스에서 Medicaid Unwinding에 따른 응급실 지불인 혼합의 변화."
             }
           ]
         },
@@ -5816,7 +5583,7 @@
           "impact_factor": 1.5,
           "index_type": "미상",
           "quartile": "미상",
-          "paper_count": 39,
+          "paper_count": 38,
           "top_paper": {
             "pmid": "39947973",
             "title": "Promethazine: A Review of Therapeutic Uses and Toxicity.",
@@ -6075,7 +5842,7 @@
           "impact_factor": 1.5,
           "index_type": "미상",
           "quartile": "미상",
-          "paper_count": 4,
+          "paper_count": 6,
           "top_paper": {
             "pmid": "41417726",
             "title": "Resuscitative thoracotomy: What you need to know.",
@@ -6134,23 +5901,23 @@
               "title_ko": ""
             },
             {
-              "pmid": "39787574",
-              "title": "Analysis of time to regulatory approval in an exception from informed consent trial in trauma patients.",
+              "pmid": "40122848",
+              "title": "Value in acute care surgery, part 4: The economic value of an acute care surgery service to a hospital system.",
               "journal": "The journal of trauma and acute care surgery",
               "impact_factor": 1.5,
               "index_type": "미상",
               "quartile": "미상",
-              "pubdate": "2024-10-23",
+              "pubdate": "2024-11-13",
               "authors": [
-                "Stephens SW",
-                "Carroll-Ledbetter CR",
-                "Duckert S"
+                "Leichtle S",
+                "Murphy P",
+                "Nahmias J"
               ],
               "citation_count": 5,
-              "rcr": 3.334165688628834,
+              "rcr": 3.7094034492478607,
               "volume": "98",
-              "issue": "3",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/39787574/",
+              "issue": "4",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/40122848/",
               "altmetric_score": 0,
               "altmetric_news": 0,
               "altmetric_social": 0,
@@ -6158,7 +5925,7 @@
               "hot_score": 17.1,
               "field": "emergency",
               "field_label": "응급의학",
-              "abstract": "BACKGROUND: The interactive media-based approach to community consultation and public disclosure (CC/PD), a key step when conducting exception from informed consent (EFIC) clinical trials, is intended to be completed in 4 months. This analysis characterizes the process, from initiation of CC/PD activities to institutional review board approval, to better understand the barriers and how these can be mitigated. METHODS: This is a retrospective post hoc analysis of data collected as part of the CC/PD campaigns conducted for a large trial involving up to 90 trauma centers in the United States. Each site was provided with templated materials that had been reviewed and approved by a central institutional review board (cIRB). We collected the dates of milestones, including the study \"kickoff call,\" start of the social media campaign, dates of online community meetings, date of submission of site report to the cIRB, and cIRB approval date. RESULTS: Sixty-two sites were cIRB approved at the time of this analysis. The median time from the kickoff call to the start of the social media campaign was 79 days, with an interquartile range of 33 to 126 days (range, 0-285 days). All social media campaigns ran for the prescribed period of at least 2 months. All sites conducted at least four online community meetings. The median number of days from the kickoff call to cIRB approval was 216 days (interquartile range, 168-281 days; range, 116-459 days). There was no significant difference between sites that had previous experience of EFIC trials. CONCLUSION: Using the interactive media-based approach, CC/PD can be completed quickly; however, there are barriers that can incur substantial delays. Greater harmonization of local administrative processes would shorten the time to conduct CC/PD activities and facilitate the timely commencement and execution of EFIC trials. LEVEL OF EVIDENCE: Prognostic and Epidemiological; Level IV.",
+              "abstract": "The Healthcare Economics Committee of the American Association for the Surgery of Trauma has published a series of three articles on the topic of value in acute care surgery (ACS). In this series, the key elements of value, cost and outcomes, and the impact of stakeholder perspective on what constitutes high-value care are discussed. The fourth article in this series continues the discussion by focusing on the unique economic value that an ACS service brings to a hospital system and its patients. Characterized by the immediate 24-hour availability of surgeons trained in trauma management, emergency general surgery, and surgical critical care, acute care surgeons extend the benefits of surgical rescue and critical care to all hospitalized patients. As such, an ACS service acts as a vital part of a hospital's infrastructure to successfully care for complex and seriously ill patients, in addition to enabling the establishment of other, high revenue-generating services such as vascular, transplant, and complex oncologic surgery programs. The trauma service acts as intake for patients that lead to downstream revenue creation by other disciplines such as orthopedic and neurological surgery, while trauma center designation itself results in dedicated state funding to ensure trauma readiness in many states in the United States. The traditional \"value equation\" in health care of outcomes achieved per dollar spent is ill-suited to capture many of these unique aspects and benefits of ACS. This article provides the background to understand the economic value of an ACS service and future directions toward improving overall value of care.",
               "title_ko": ""
             },
             {
@@ -6190,6 +5957,34 @@
               "title_ko": ""
             },
             {
+              "pmid": "40122847",
+              "title": "Hospital-based violence intervention programs: An analysis of costs and key components.",
+              "journal": "The journal of trauma and acute care surgery",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2024-11-13",
+              "authors": [
+                "O'Toole MJ",
+                "Schnippel K",
+                "Larson B"
+              ],
+              "citation_count": 4,
+              "rcr": 1.8451309416821648,
+              "volume": "98",
+              "issue": "4",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/40122847/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 15.3,
+              "field": "emergency",
+              "field_label": "응급의학",
+              "abstract": "BACKGROUND: Firearm assaults contribute to nearly 18,000 deaths and at least twice as many injuries annually, with immense human and financial costs. Gun violence survivors especially face unique and long-term physical, mental, economic, and safety-related challenges. Hospital-based violence intervention programs (HVIPs) connect survivors with violence prevention professionals at their hospital bedsides, then provide them with wraparound services in the months to come. Promising research shows that HVIPs reduce risks of reinjury, retaliation, and recidivism. METHODS: This report provides a cost analysis of HVIPs, to inform researchers and implementers of the budget and key resources necessary for the first three years of implementation. Researchers employ an ingredients-based costing approach and base-case assumptions for a hospital-linked HVIP situated in a mid-sized city emergency department, serving 100 participants annually. RESULTS: Results indicate that this base-case HVIP costs an estimated $1.1 million annually, or just under $10,800 per participant. Staffing accounts for the majority of HVIP budgets, followed by operations, crisis support, and finally transportation. Upfront costs are limited to technical assistance, first-time equipment, and accreditation courses, leaving annual costs relatively stable across the first 3 years of implementation. A customizable workbook is provided, through which users can adjust this study's assumptions to reflect their own program's specifications, which may vary. CONCLUSION: While a full cost-savings analysis remains needed, HVIP enrollment costs less per person than a single year of medical fees for nonfatal firearm assault-related injuries. This research can inform future cost, benefit, and savings analyses, and empower more communities to implement lifesaving HVIPs. LEVEL OF EVIDENCE: Economic and Value-Based Evaluation; Level III.",
+              "title_ko": ""
+            },
+            {
               "pmid": "40608534",
               "title": "The impact of transfusion kinetics on the inflammatory response following major injury.",
               "journal": "The journal of trauma and acute care surgery",
@@ -6215,6 +6010,34 @@
               "field": "emergency",
               "field_label": "응급의학",
               "abstract": "BACKGROUND: The innate immune response is activated by tissue injury and may quickly become dysregulated in the setting of major trauma. Cytokines are a key component of this response and function to activate and mobilize neutrophils, macrophages, and natural killer cells. The purpose of this study was to understand how the kinetics of blood-based resuscitation may impact the cytokine response. Specifically, we hypothesize that transfusion kinetics make a fundamental contribution to the inflammatory response, beyond the volume of transfusion and injury severity. METHODS: The Pragmatic, Randomized Optimal Platelet and Plasma Ratio data set was used in this retrospective analysis. Transfusion kinetics were quantified by calculating the total critical administration threshold episodes in three time periods, 1 to 2 hours following injury, 3 to 4 hours, and 5 to 6 hours following injury. The longitudinal response of key cytokines over 72 hours was assessed with a multivariable linear growth model, using critical administration threshold status as a time-varying covariate. RESULTS: A total of 522 patients were included in this analysis. Pro-inflammatory cytokines interleukin (IL)-6 (p = 0.0354) and IL-8 (p < 0.0001) were significantly increased. Anti-inflammatory cytokines IL-1ra (p = 0.0001) and IL-10 (p < 0.0001) were significantly increased. Chemokines interferon-γ-inducible protein 10 (p = 0.0433), monocyte chemoattractant protein-1 (p = 0.0064), and macrophage inflammatory protein 1β (p = 0.0003) were significantly increased, while regulated up activation, normal T-cell expressed and secreted chemokine (p = 0.0216) was significantly decreased. Growth factors showed no significant response. CONCLUSION: The kinetics of packed red blood cell transfusion demonstrate a potential association with the expression of cytokines following injury, beyond the total transfusion requirement or the severity of injury. Because cytokines activate and mobilize neutrophils, macrophages, and natural killer cells, these alterations may have a profound effect on degree and coordination of the immune response. As the contribution of various components of major resuscitation to inflammatory activation is clarified, such as types of blood product, tempo of transfusion, and operative care, targets for intervention should become more apparent. LEVEL OF EVIDENCE: Therapeutic/Care Management; Level III.",
+              "title_ko": ""
+            },
+            {
+              "pmid": "41701564",
+              "title": "Transfusion in transit: A decade of prehospital blood transfusion in pediatric trauma.",
+              "journal": "The journal of trauma and acute care surgery",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2025-11-12",
+              "authors": [
+                "Sutyak KM",
+                "Chen EC",
+                "Mock L"
+              ],
+              "citation_count": 0,
+              "rcr": null,
+              "volume": "100",
+              "issue": "4",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/41701564/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": true,
+              "hot_score": 10.0,
+              "field": "emergency",
+              "field_label": "응급의학",
+              "abstract": "BACKGROUND: Prehospital blood transfusion improves mortality in adults, with limited evidence in children. This study describes prehospital blood transfusion in pediatric trauma patients and the impact on shock index, pediatric adjusted (SIPA). METHODS: This study is a retrospective cohort study of trauma patients younger than 18 years who received blood transfusions during helicopter transport to a Level 1 pediatric trauma center from 2011 to 2023. Primary outcome was change in SIPA at time of emergency department (ED) arrival with prehospital transfusion. Secondary subgroup analysis was performed based on transport origin. RESULTS: Of 137 patients, 58% (80 of 137 patients) were male (median age, 9.3 years [interquartile range (IQR), 4.3-14.5 years]) with a median Injury Severity Score of 26 (IQR, 17-38); 57% (77 of 137 patients) were transported from the scene, and 43% (60 of 137 patients) from another hospital. The median blood volume administered was 300 mL (IQR, 200-535 mL) or 10 mL/kg (IQR, 7-16 mL/kg). Patients were more physiologically imbalanced prior to transfusion (median heart rate, 124 beats per minute [bpm; IQR, 102-150 bpm]; systolic blood pressure, 80 mm Hg [IQR, 63-99 mm Hg]) than at ED arrival (median heart rate, 112 bpm [IQR, 97-133 bpm]; systolic blood pressure, 102 mm Hg [IQR, 84-120 mm Hg]). Shock index, pediatric adjusted, was decreased at ED arrival (median SIPA preblood, 1.52 [IQR, 1.11-2.16]; median SIPA ED arrival, 1.10 [IQR, 0.89-1.38]). The SIPA transitioned from abnormal to normal at ED arrival in 24% (32 of 131 patients); hemodynamic improvement was more pronounced in patients from the scene. Death in the first 24 hours occurred in 43 patients; 25 presented in cardiac arrest and died on ED arrival. Most deaths (81%, 47 of 58 patients) were associated with traumatic brain injury. CONCLUSION: After receiving prehospital transfusion, 35% of children arrived with a normal shock index, and 24% converted from abnormal to normal SIPA by ED arrival, with significant hemodynamic improvement in patients transported from both the scene and other hospitals. These results support prehospital transfusion as critical for the treatment of hemorrhagic shock in children. LEVEL OF EVIDENCE: Therapeutic/Care Management; Level IV.",
               "title_ko": ""
             }
           ]
@@ -6550,7 +6373,7 @@
           "impact_factor": 1.5,
           "index_type": "미상",
           "quartile": "미상",
-          "paper_count": 5,
+          "paper_count": 6,
           "top_paper": {
             "pmid": "41534963",
             "title": "Effects of Transport Team Composition on Neonatal Intubation Success.",
@@ -6662,6 +6485,33 @@
               "field": "emergency",
               "field_label": "응급의학",
               "abstract": "OBJECTIVE: Describe the clinical characteristics of patients with an external ventricular drain (EVD) air medically retrieved. METHODS: A retrospective chart audit of adults with an EVD air medically retrieved between January 2018 and June 2022 was conducted using the Retrieval Services Queensland database. Patients with a diagnosis of subarachnoid hemorrhage were identified, and then a manual review was conducted to identify EVD cases. RESULTS: A total of 60 patients met the review criteria. However, 34 patients did not have an EVD in situ, 1 was not transported, and 2 charts were non-retrievable, leaving 21 patients in this review. Of the patients, 76% were mechanically ventilated and 10% had no EVD drainage (suspected to be blocked). Blood pressure fluctuations occurred in 67% of the cases (79% during flight). Separate analgesia/anesthetic infusions were administered in 75% of the patients, with 83% requiring rate increases and 100% requiring boluses for increases in blood pressure. Hypertension in 3 patients occurred post-EVD being turned off and resolved when EVD was turned back on, and bolus sedation/analgesia was provided. CONCLUSION: The air medical transport of patients with an EVD is a low-frequency transfer. Therefore, the use of clinical practice guidelines will enable best practice assessment and management.",
+              "title_ko": ""
+            },
+            {
+              "pmid": "39993867",
+              "title": "The Physiological Impact of Neonatal Air Transport: A Review of The Literature.",
+              "journal": "Air medical journal",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2024-11-13",
+              "authors": [
+                "Braithwaite I",
+                "Harrison C"
+              ],
+              "citation_count": 3,
+              "rcr": 2.6134246671223575,
+              "volume": "44",
+              "issue": "1",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/39993867/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 13.2,
+              "field": "emergency",
+              "field_label": "응급의학",
+              "abstract": "OBJECTIVE: This review aims to enhance our understanding around whether neonatal air transport has an adverse physiological impact on patients. METHODS: A literature search included articles describing both ground and air transport. Eligible studies had to include patient outcome and/or response to the journey in such a way that the physiological impact of neonatal transport could be compared between the 2 groups. RESULTS: The search produced 13 eligible studies. Six were prospective observational cohort studies, and the remainder were retrospective. When assessing outcome, studies used a physiological stability score, the rate and severity of intraventricular hemorrhage, the type and frequency of clinical interventions during the journey, or a specific clinical parameter. Three of the studies sought to understand the physiological impact of transport by investigating the variation in the physical forces experienced. CONCLUSION: The current published evidence does not suggest one mode of transport is preferable to another when considering patient stability and outcome. Neonatal fixed wing or helicopter transport has not been shown to be more physiologically challenging for the patient than road transport, even by teams who are regularly flying patients in the highest-risk groups (extremely preterm, in the first hours of life).",
               "title_ko": ""
             },
             {
@@ -8749,6 +8599,71 @@
           ]
         },
         {
+          "journal": "Journal of health organization and management",
+          "impact_factor": 1.5,
+          "index_type": "미상",
+          "quartile": "미상",
+          "paper_count": 1,
+          "top_paper": {
+            "pmid": "40934217",
+            "title": "An innovative model of access and triage to reduce waiting in an outpatient epilepsy clinic: a process evaluation.",
+            "journal": "Journal of health organization and management",
+            "impact_factor": 1.5,
+            "index_type": "미상",
+            "quartile": "미상",
+            "pubdate": "2024-11-13",
+            "authors": [
+              "Lewis AK",
+              "Taylor NF",
+              "Carney PW"
+            ],
+            "citation_count": 1,
+            "rcr": 1.02582098032189,
+            "volume": "38",
+            "issue": "8",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/40934217/",
+            "altmetric_score": 0,
+            "altmetric_news": 0,
+            "altmetric_social": 0,
+            "is_current_issue": true,
+            "hot_score": 16.6,
+            "field": "emergency",
+            "field_label": "응급의학",
+            "abstract": "PURPOSE: Interventions that improve timely access to outpatient health services are essential in managing demand. This process evaluation aimed to describe the implementation, mechanism of impact and context of an intervention to reduce waiting for first appointments in an outpatient epilepsy clinic. DESIGN/METHODOLOGY/APPROACH: The UK Medical Research Council framework was used as the theoretical basis for a process evaluation alongside an intervention trial. The intervention, Specific Timely Appointments for Triage (STAT), is a data-driven approach that combines a one-off backlog reduction strategy with methods to balance supply and demand. A mixed methods process evaluation synthesised routinely collected quantitative and qualitative data, which were mapped to the domains of implementation, mechanisms of impact and contextual elements. FINDINGS: The principles of the STAT model were implemented as intended without adaptation. The STAT model reached all patients referred, including long waiters and was likely generalisable to other medical outpatient clinics. Mechanisms of impact were increased clinic capacity and elimination of unwanted variation. Contextual elements included the complexity of healthcare systems and the two-tier triage practice that contributes to prolonged waiting for patients classified as non-urgent. ORIGINALITY/VALUE: This process evaluation shows how a data-driven strategy was applied in a medical outpatient setting to manage demand. Improving patient flow by reducing waiting in non-urgent, outpatient care is a complex problem. Understanding how and why interventions work is important for improved timeliness of care, and sustainability of public health services.",
+            "title_ko": ""
+          },
+          "papers": [
+            {
+              "pmid": "40934217",
+              "title": "An innovative model of access and triage to reduce waiting in an outpatient epilepsy clinic: a process evaluation.",
+              "journal": "Journal of health organization and management",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2024-11-13",
+              "authors": [
+                "Lewis AK",
+                "Taylor NF",
+                "Carney PW"
+              ],
+              "citation_count": 1,
+              "rcr": 1.02582098032189,
+              "volume": "38",
+              "issue": "8",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/40934217/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": true,
+              "hot_score": 16.6,
+              "field": "emergency",
+              "field_label": "응급의학",
+              "abstract": "PURPOSE: Interventions that improve timely access to outpatient health services are essential in managing demand. This process evaluation aimed to describe the implementation, mechanism of impact and context of an intervention to reduce waiting for first appointments in an outpatient epilepsy clinic. DESIGN/METHODOLOGY/APPROACH: The UK Medical Research Council framework was used as the theoretical basis for a process evaluation alongside an intervention trial. The intervention, Specific Timely Appointments for Triage (STAT), is a data-driven approach that combines a one-off backlog reduction strategy with methods to balance supply and demand. A mixed methods process evaluation synthesised routinely collected quantitative and qualitative data, which were mapped to the domains of implementation, mechanisms of impact and contextual elements. FINDINGS: The principles of the STAT model were implemented as intended without adaptation. The STAT model reached all patients referred, including long waiters and was likely generalisable to other medical outpatient clinics. Mechanisms of impact were increased clinic capacity and elimination of unwanted variation. Contextual elements included the complexity of healthcare systems and the two-tier triage practice that contributes to prolonged waiting for patients classified as non-urgent. ORIGINALITY/VALUE: This process evaluation shows how a data-driven strategy was applied in a medical outpatient setting to manage demand. Improving patient flow by reducing waiting in non-urgent, outpatient care is a complex problem. Understanding how and why interventions work is important for improved timeliness of care, and sustainability of public health services.",
+              "title_ko": ""
+            }
+          ]
+        },
+        {
           "journal": "Ciencia & saude coletiva",
           "impact_factor": 1.5,
           "index_type": "미상",
@@ -10741,6 +10656,17 @@
       ],
       "hot_topics": [
         {
+          "phrase": "cardiac arrest",
+          "score": 81.3,
+          "paper_count": 4,
+          "pmids": [
+            "40071352",
+            "41335586",
+            "39699331",
+            "39583157"
+          ]
+        },
+        {
           "phrase": "cardiopulmonary resuscitation",
           "score": 81.3,
           "paper_count": 7,
@@ -10752,6 +10678,33 @@
             "41432566",
             "40224792",
             "39583157"
+          ]
+        },
+        {
+          "phrase": "aha get",
+          "score": 76.7,
+          "paper_count": 2,
+          "pmids": [
+            "40071352",
+            "39840934"
+          ]
+        },
+        {
+          "phrase": "get guidelines",
+          "score": 76.7,
+          "paper_count": 2,
+          "pmids": [
+            "40071352",
+            "39840934"
+          ]
+        },
+        {
+          "phrase": "guidelines resuscitation",
+          "score": 76.7,
+          "paper_count": 2,
+          "pmids": [
+            "40071352",
+            "39840934"
           ]
         },
         {
@@ -10796,34 +10749,6 @@
           ]
         },
         {
-          "phrase": "traumatic brain",
-          "score": 43.7,
-          "paper_count": 2,
-          "pmids": [
-            "39808542",
-            "41410885"
-          ]
-        },
-        {
-          "phrase": "brain injury",
-          "score": 43.7,
-          "paper_count": 2,
-          "pmids": [
-            "39808542",
-            "41410885"
-          ]
-        },
-        {
-          "phrase": "cardiac arrest",
-          "score": 42.4,
-          "paper_count": 3,
-          "pmids": [
-            "41335586",
-            "39699331",
-            "39583157"
-          ]
-        },
-        {
           "phrase": "ventilator-associated pneumonia",
           "score": 39.0,
           "paper_count": 2,
@@ -10850,15 +10775,6 @@
             "40224798",
             "39629315"
           ]
-        },
-        {
-          "phrase": "development validation",
-          "score": 29.8,
-          "paper_count": 2,
-          "pmids": [
-            "41534962",
-            "41446521"
-          ]
         }
       ],
       "topic_trends": {
@@ -10879,48 +10795,48 @@
             ]
           },
           {
+            "phrase": "cardiac arrest",
+            "scores": [
+              0.0,
+              76.0,
+              25.3,
+              30.0
+            ]
+          },
+          {
             "phrase": "mechanical ventilation",
             "scores": [
               0.0,
               70.7,
-              60.3,
-              0.0
-            ]
-          },
-          {
-            "phrase": "cardiac arrest",
-            "scores": [
-              0.0,
-              37.1,
-              25.3,
-              20.0
-            ]
-          },
-          {
-            "phrase": "critically ill",
-            "scores": [
-              0.0,
-              39.0,
-              16.6,
-              20.0
-            ]
-          },
-          {
-            "phrase": "brain injury",
-            "scores": [
-              0.0,
-              37.1,
-              26.6,
+              50.3,
               10.0
             ]
           },
           {
-            "phrase": "life support",
+            "phrase": "aha get",
             "scores": [
               0.0,
+              76.7,
               0.0,
-              48.5,
-              20.0
+              0.0
+            ]
+          },
+          {
+            "phrase": "get guidelines",
+            "scores": [
+              0.0,
+              76.7,
+              0.0,
+              0.0
+            ]
+          },
+          {
+            "phrase": "guidelines resuscitation",
+            "scores": [
+              0.0,
+              76.7,
+              0.0,
+              0.0
             ]
           }
         ]
