@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-27T02:50:53.076555Z",
+  "generated_at": "2026-11-28T02:39:31.649800Z",
   "window_days": 1095,
   "fields": [
     {
       "key": "preventive",
       "label": "예방의학",
-      "paper_count": 453,
+      "paper_count": 450,
       "journals": [
         {
           "journal": "Vital and health statistics. Series 2, Data evaluation and methods research",
@@ -169,7 +169,7 @@
             "field": "preventive",
             "field_label": "예방의학",
             "abstract": "INTRODUCTION: Mobile mammography (MM) can reach women who otherwise would not or could not utilize facility-based mammography (FBM) due to various socioeconomic factors and access barriers. Most literature evaluates individual MM programs and has not explored the potential impact of MM in a large, nationally representative, claims dataset. OBJECTIVE: To examine factors associated with MM utilization among female Medicare beneficiaries and whether MM is associated with increased mammography utilization compared use of FBM only. MATERIALS AND METHODS: This retrospective analysis of Centers for Medicare & Medicaid Services (CMS) 5% Research Identifiable File data from years 2004 to 2021 used logistic regression to assess likelihood of receiving MM compared with FBM. Linear regression assessed factors associated with decreased mammography utilization. Heat maps demonstrated the geographic density of MM use compared with FBM-only use. RESULTS: Among 2,630,670 screening eligible women, 1,302,069 (49.5%) had a mammogram, of which 4,973 (0.4%) used MM. MM use was associated with age from 50 to 64 years, American Indians or Alaska Natives, fewer comorbidities, rural geography, residence in the West, and lower community income. On multivariate regression, American Indian or Alaska Native race was most predictive of MM (odds ratio 5.53; 95CI 4.73-6.47). Heat maps showed that areas of MM usage overlap areas of FBM-only usage. CONCLUSION: Our results suggest MM is utilized by traditionally underserved beneficiaries (ie, non-White in less economically resourced areas), but it is not a replacement for FBM. MM is an augmentative service, potentially offering screening mammography to women who may not have otherwise been screened due to access issues stemming from socioeconomic, geographic, or cultural barriers.",
-            "title_ko": "메디케어 행위별 수가제(Fee-for-Service) 수혜자들 사이의 이동식 유방촬영술 이용 및 유방암 검진 이행."
+            "title_ko": "메디케어 행위별 수가제(Fee-for-Service) 수혜자들 사이의 이동식 유방촬영술 이용 및 유방암 검진 준수."
           },
           "papers": [
             {
@@ -198,7 +198,7 @@
               "field": "preventive",
               "field_label": "예방의학",
               "abstract": "INTRODUCTION: Mobile mammography (MM) can reach women who otherwise would not or could not utilize facility-based mammography (FBM) due to various socioeconomic factors and access barriers. Most literature evaluates individual MM programs and has not explored the potential impact of MM in a large, nationally representative, claims dataset. OBJECTIVE: To examine factors associated with MM utilization among female Medicare beneficiaries and whether MM is associated with increased mammography utilization compared use of FBM only. MATERIALS AND METHODS: This retrospective analysis of Centers for Medicare & Medicaid Services (CMS) 5% Research Identifiable File data from years 2004 to 2021 used logistic regression to assess likelihood of receiving MM compared with FBM. Linear regression assessed factors associated with decreased mammography utilization. Heat maps demonstrated the geographic density of MM use compared with FBM-only use. RESULTS: Among 2,630,670 screening eligible women, 1,302,069 (49.5%) had a mammogram, of which 4,973 (0.4%) used MM. MM use was associated with age from 50 to 64 years, American Indians or Alaska Natives, fewer comorbidities, rural geography, residence in the West, and lower community income. On multivariate regression, American Indian or Alaska Native race was most predictive of MM (odds ratio 5.53; 95CI 4.73-6.47). Heat maps showed that areas of MM usage overlap areas of FBM-only usage. CONCLUSION: Our results suggest MM is utilized by traditionally underserved beneficiaries (ie, non-White in less economically resourced areas), but it is not a replacement for FBM. MM is an augmentative service, potentially offering screening mammography to women who may not have otherwise been screened due to access issues stemming from socioeconomic, geographic, or cultural barriers.",
-              "title_ko": "메디케어 행위별 수가제(Fee-for-Service) 수혜자들 사이의 이동식 유방촬영술 이용 및 유방암 검진 이행."
+              "title_ko": "메디케어 행위별 수가제(Fee-for-Service) 수혜자들 사이의 이동식 유방촬영술 이용 및 유방암 검진 준수."
             }
           ]
         },
@@ -291,7 +291,7 @@
               "field": "preventive",
               "field_label": "예방의학",
               "abstract": "PURPOSE: Advances in genetic applications within psychiatry offer promising benefits in diagnosis, treatment personalization, and risk prediction. However, ethical concerns-such as fear of discrimination and eugenics-and limited awareness hinder their widespread adoption. This review aims to evaluate the attitudes of psychiatric patients and their relatives toward genetics in psychiatry and to identify the key factors that influence these perceptions. METHODS: A systematic review and meta-analysis adhering to PRISMA guidelines was performed across databases including PubMed, Scopus, and CINAHL up to February 2024. Studies exploring attitudes toward genetics in psychiatry among patients and relatives were included; their quality was assessed using the Quality Assessment Tool for Diverse Studies tool. A qualitative meta-synthesis identified themes, whereas a meta-analysis estimated favorable attitudes. RESULTS: Seventy studies examined applications such as predictive testing, pharmacogenetics, and genetic counseling. Overall, 80% (95% CI = 0.72 to 0.87) expressed favorable attitudes toward genetic testing. Notable barriers included concerns about discrimination, limited knowledge, and ethical issues related to prenatal testing. Although genetic counseling was positively received, its use remained limited due to lack of awareness. CONCLUSION: Despite the promise genetics holds for psychiatry, addressing technical, ethical, and educational challenges is essential for wider acceptance. Future research should focus on underserved populations and prioritize enhancing genetic counseling and professional education to support the responsible integration of genetic advancements.",
-              "title_ko": "정신과 환자 및 그 친척들 사이의 유전학에 대한 인식, 지식 및 태도: 체계적 문헌고찰 및 메타분석."
+              "title_ko": "정신과 환자 및 그 친척들 사이의 유전학에 대한 인식, 지식 및 태도: 체계적 고찰 및 메타 분석."
             }
           ]
         },
@@ -392,7 +392,7 @@
             "field": "preventive",
             "field_label": "예방의학",
             "abstract": "BACKGROUND: Screening methods are crucial in enabling prevention and early intervention for individuals with temporomandibular disorders (TMDs) in the general population. Several screening instruments for TMDs have been published, making it challenging to choose the best-suited one for identifying patients with TMDs in daily practice. OBJECTIVE: To evaluate the diagnostic accuracy of available screening instruments for TMDs in the general adult population. METHODS: The study's protocol was registered in PROSPERO (CRD42024527919). PubMed/Medline, Web of Science, and Scopus were searched on April 12, 2024, supplemented by a hand search, to identify studies reporting diagnostic accuracy of screening instruments for TMDs in the general adult population. Two independent reviewers performed abstract screening, full-text assessment, risk-of-bias assessment (QUADAS-2), and data extraction. RESULTS: The search identified 3608 studies. After abstract screening, 151 studies were reviewed in full text, and five studies on diagnostic accuracy with 2556 participants were included. Two included studies reported reliability measures for the Short Form Fonseca Amnestic Index (SFAI) compared with other questionnaires. Three studies included in the meta-analysis evaluated the Fonseca Amnestic Index (FAI), its short form (SFAI), and Three Screening Questions for TMDs (3Q/TMD): they report sensitivity of 86% (FAI and SFAI) and 81% (3Q/TMD), and specificity of 92% (FAI), 96 % (SFAI), and 79% (3Q/TMD) respectively. All included studies had high risk of bias for the index test but low risk of bias for patient selection. CONCLUSION: FAI, SFAI, and 3Q/TMD demonstrate high sensitivity and specificity, suggesting their suitability for screening for TMD in the general population.",
-            "title_ko": "측두하악장애 선별 도구: 체계적 문헌고찰 및 메타분석."
+            "title_ko": "측두하악장애 선별 도구: 체계적 문헌고찰 및 메타 분석."
           },
           "papers": [
             {
@@ -421,7 +421,7 @@
               "field": "preventive",
               "field_label": "예방의학",
               "abstract": "BACKGROUND: Screening methods are crucial in enabling prevention and early intervention for individuals with temporomandibular disorders (TMDs) in the general population. Several screening instruments for TMDs have been published, making it challenging to choose the best-suited one for identifying patients with TMDs in daily practice. OBJECTIVE: To evaluate the diagnostic accuracy of available screening instruments for TMDs in the general adult population. METHODS: The study's protocol was registered in PROSPERO (CRD42024527919). PubMed/Medline, Web of Science, and Scopus were searched on April 12, 2024, supplemented by a hand search, to identify studies reporting diagnostic accuracy of screening instruments for TMDs in the general adult population. Two independent reviewers performed abstract screening, full-text assessment, risk-of-bias assessment (QUADAS-2), and data extraction. RESULTS: The search identified 3608 studies. After abstract screening, 151 studies were reviewed in full text, and five studies on diagnostic accuracy with 2556 participants were included. Two included studies reported reliability measures for the Short Form Fonseca Amnestic Index (SFAI) compared with other questionnaires. Three studies included in the meta-analysis evaluated the Fonseca Amnestic Index (FAI), its short form (SFAI), and Three Screening Questions for TMDs (3Q/TMD): they report sensitivity of 86% (FAI and SFAI) and 81% (3Q/TMD), and specificity of 92% (FAI), 96 % (SFAI), and 79% (3Q/TMD) respectively. All included studies had high risk of bias for the index test but low risk of bias for patient selection. CONCLUSION: FAI, SFAI, and 3Q/TMD demonstrate high sensitivity and specificity, suggesting their suitability for screening for TMD in the general population.",
-              "title_ko": "측두하악장애 선별 도구: 체계적 문헌고찰 및 메타분석."
+              "title_ko": "측두하악장애 선별 도구: 체계적 문헌고찰 및 메타 분석."
             }
           ]
         },
@@ -457,7 +457,7 @@
             "field": "preventive",
             "field_label": "예방의학",
             "abstract": "BACKGROUND: Three randomized controlled trials have demonstrated the efficacy of doxycycline for bacterial sexually transmitted infection postexposure prophylaxis (Doxy PEP). Few studies have assessed provider knowledge, attitudes, and practices (KAP) regarding Doxy PEP implementation. Between July of 2023 and January 2024, this study qualitatively assessed KAP and intention to prescribe Doxy PEP among health care providers in the New York City area. METHODS: In-depth, semistructured individual interviews were conducted with 18 health care provider key informants including physicians, nurse practitioners, and physician assistants from various practice settings. Transcripts were analyzed using inductive KAP codes, with additional deductive coding used to identify emergent subthemes. RESULTS: The following themes were identified: (1) STI Disparities, (2) Doxy PEP Experience, (3) Doxy PEP Benefits, (4) Doxy PEP Concerns, and (5) Doxy PEP Implementation. Doxy PEP knowledge was high, with all providers being aware and most (78%) having prescribed it to at least one patient at the time of interview. Providers were knowledgeable of factors contributing to high rates of STIs. Benefits included reducing STI anxiety. Concerns included contributing to antimicrobial resistance and impacts on microbiota. Practice implications included challenges getting Doxy PEP approved by the pharmacy. These factors were shown to affect Doxy PEP's perceived acceptability. CONCLUSIONS: To ensure that Doxy PEP is implemented safely and equitably, KAP factors that may influence provider decision making should be examined. Understanding providers' KAP and how they affect intention to prescribe Doxy PEP, and to what patients, has important implications for successful implementation.",
-            "title_ko": "뉴욕시 의료 서비스 제공자들 사이의 독시사이클린 노출 후 예방 요법에 대한 지식, 태도 및 실천에 대한 질적 연구."
+            "title_ko": "뉴욕시 의료 서비스 제공자들 사이의 독시사이클린 노출 후 예방에 대한 지식, 태도 및 관행에 대한 질적 연구."
           },
           "papers": [
             {
@@ -486,7 +486,7 @@
               "field": "preventive",
               "field_label": "예방의학",
               "abstract": "BACKGROUND: Three randomized controlled trials have demonstrated the efficacy of doxycycline for bacterial sexually transmitted infection postexposure prophylaxis (Doxy PEP). Few studies have assessed provider knowledge, attitudes, and practices (KAP) regarding Doxy PEP implementation. Between July of 2023 and January 2024, this study qualitatively assessed KAP and intention to prescribe Doxy PEP among health care providers in the New York City area. METHODS: In-depth, semistructured individual interviews were conducted with 18 health care provider key informants including physicians, nurse practitioners, and physician assistants from various practice settings. Transcripts were analyzed using inductive KAP codes, with additional deductive coding used to identify emergent subthemes. RESULTS: The following themes were identified: (1) STI Disparities, (2) Doxy PEP Experience, (3) Doxy PEP Benefits, (4) Doxy PEP Concerns, and (5) Doxy PEP Implementation. Doxy PEP knowledge was high, with all providers being aware and most (78%) having prescribed it to at least one patient at the time of interview. Providers were knowledgeable of factors contributing to high rates of STIs. Benefits included reducing STI anxiety. Concerns included contributing to antimicrobial resistance and impacts on microbiota. Practice implications included challenges getting Doxy PEP approved by the pharmacy. These factors were shown to affect Doxy PEP's perceived acceptability. CONCLUSIONS: To ensure that Doxy PEP is implemented safely and equitably, KAP factors that may influence provider decision making should be examined. Understanding providers' KAP and how they affect intention to prescribe Doxy PEP, and to what patients, has important implications for successful implementation.",
-              "title_ko": "뉴욕시 의료 서비스 제공자들 사이의 독시사이클린 노출 후 예방 요법에 대한 지식, 태도 및 실천에 대한 질적 연구."
+              "title_ko": "뉴욕시 의료 서비스 제공자들 사이의 독시사이클린 노출 후 예방에 대한 지식, 태도 및 관행에 대한 질적 연구."
             },
             {
               "pmid": "40488384",
@@ -514,7 +514,7 @@
               "field": "preventive",
               "field_label": "예방의학",
               "abstract": "We evaluated hepatitis C virus (HCV) screening practices at a sexually transmitted infection clinic in Rhode Island. Risk-based HCV screening generated fewer tests than universal screening but may have missed infections in men who have sex with men. Injection drug use was most strongly associated with positive HCV antibody test results.",
-              "title_ko": "성매개감염 클리닉에서 C형 간염 바이러스에 대한 위험 기반 선별검사 관행과 보편적 선별검사 관행 비교."
+              "title_ko": "성매개감염 클리닉에서 C형 간염 바이러스에 대한 위험 기반 선별검사 관행과 보편적 선별검사 관행의 비교."
             }
           ]
         },
@@ -550,7 +550,7 @@
             "field": "preventive",
             "field_label": "예방의학",
             "abstract": "Circulating cell-free DNA (cfDNA) is a powerful diagnostics tool that is widely studied in the context of liquid biopsy in oncology and other fields. In obstetrics, maternal plasma cfDNA have already proven its utility, enabling noninvasive prenatal testing (NIPT), which has become a standard for detecting chromosomal aberrations. However, identification of point mutations responsible for monogenic diseases (NIPT-M) remains limited, even when accounting to fragment specific characteristics (i.e. fragmentomics). While genotyping of individual genomes is performed today using deep learning (DL) algorithms, cfDNA-based noninvasive fetal genotyping is performed only using traditional statistical and machine-learning methods. This study introduces the first DL-based framework for cfDNA based genotyping, heralding a significant stride toward genome-wide NIPT-M. Using unique ultra-deep whole genome sequencing (WGS) data, we were motivated to develop an efficient model, especially when compared with current DL methods for WGS. This facilitates the integration of previously overlooked levels of information, encompassing DNA nucleotides, fragments, mutation regions, samples, and familial traits. Employing this novel approach, we surpass the performance of existing methodologies, successfully detecting three deleterious mutations, and allowing for NIPT-M as early as the 7th week of gestation. Our proposed approach brings genome-wide NIPT for all mutation types closer to clinical feasibility, enabling families and healthcare providers to make well-informed decisions and alleviating the anxieties and uncertainties associated with pregnancy.",
-            "title_ko": "심층 신경망을 이용한 비침습적 태아 유전자형 분석."
+            "title_ko": "심층 신경망을 사용한 비침습적 태아 유전자형 분석."
           },
           "papers": [
             {
@@ -579,7 +579,7 @@
               "field": "preventive",
               "field_label": "예방의학",
               "abstract": "Circulating cell-free DNA (cfDNA) is a powerful diagnostics tool that is widely studied in the context of liquid biopsy in oncology and other fields. In obstetrics, maternal plasma cfDNA have already proven its utility, enabling noninvasive prenatal testing (NIPT), which has become a standard for detecting chromosomal aberrations. However, identification of point mutations responsible for monogenic diseases (NIPT-M) remains limited, even when accounting to fragment specific characteristics (i.e. fragmentomics). While genotyping of individual genomes is performed today using deep learning (DL) algorithms, cfDNA-based noninvasive fetal genotyping is performed only using traditional statistical and machine-learning methods. This study introduces the first DL-based framework for cfDNA based genotyping, heralding a significant stride toward genome-wide NIPT-M. Using unique ultra-deep whole genome sequencing (WGS) data, we were motivated to develop an efficient model, especially when compared with current DL methods for WGS. This facilitates the integration of previously overlooked levels of information, encompassing DNA nucleotides, fragments, mutation regions, samples, and familial traits. Employing this novel approach, we surpass the performance of existing methodologies, successfully detecting three deleterious mutations, and allowing for NIPT-M as early as the 7th week of gestation. Our proposed approach brings genome-wide NIPT for all mutation types closer to clinical feasibility, enabling families and healthcare providers to make well-informed decisions and alleviating the anxieties and uncertainties associated with pregnancy.",
-              "title_ko": "심층 신경망을 이용한 비침습적 태아 유전자형 분석."
+              "title_ko": "심층 신경망을 사용한 비침습적 태아 유전자형 분석."
             }
           ]
         },
@@ -615,7 +615,7 @@
             "field": "preventive",
             "field_label": "예방의학",
             "abstract": "Porcine epidemic diarrhea virus (PEDV) is a highly contagious virus that causes severe diarrhea and high mortality in neonatal piglets. Current control measures, such as inactivated and live-attenuated vaccines, have limitations in providing complete protection. In this study, we evaluate the immunogenicity and protective efficacy of a PEDV S protein subunit vaccine compared to a traditional inactivated vaccine. Piglets and Sows were immunized with either the subunit vaccine or an inactivated vaccine, and serum samples were collected to assess IgG and neutralizing antibody levels. Results demonstrated that the S protein subunit vaccine induced significantly higher IgG and neutralizing antibody levels in both piglets and sows compared to the inactivated vaccine. Piglets born to immunized sows were challenged with a virulent PEDV strain. Piglets from the subunit vaccine group exhibited lower viral shedding, reduced clinical symptoms, and minimal intestinal lesions. These findings suggest that the PEDV S protein subunit vaccine provides enhanced immunity and protection against PEDV, making it a promising candidate for preventing PEDV infections in swine.",
-            "title_ko": "PEDV S 단백질 서브유닛 백신으로 예방접종한 모돈으로부터 자돈의 수동면역 평가."
+            "title_ko": "PEDV S 단백질 하위단위 백신으로 예방접종한 모돈으로부터 자돈의 수동면역 평가."
           },
           "papers": [
             {
@@ -644,7 +644,7 @@
               "field": "preventive",
               "field_label": "예방의학",
               "abstract": "Porcine epidemic diarrhea virus (PEDV) is a highly contagious virus that causes severe diarrhea and high mortality in neonatal piglets. Current control measures, such as inactivated and live-attenuated vaccines, have limitations in providing complete protection. In this study, we evaluate the immunogenicity and protective efficacy of a PEDV S protein subunit vaccine compared to a traditional inactivated vaccine. Piglets and Sows were immunized with either the subunit vaccine or an inactivated vaccine, and serum samples were collected to assess IgG and neutralizing antibody levels. Results demonstrated that the S protein subunit vaccine induced significantly higher IgG and neutralizing antibody levels in both piglets and sows compared to the inactivated vaccine. Piglets born to immunized sows were challenged with a virulent PEDV strain. Piglets from the subunit vaccine group exhibited lower viral shedding, reduced clinical symptoms, and minimal intestinal lesions. These findings suggest that the PEDV S protein subunit vaccine provides enhanced immunity and protection against PEDV, making it a promising candidate for preventing PEDV infections in swine.",
-              "title_ko": "PEDV S 단백질 서브유닛 백신으로 예방접종한 모돈으로부터 자돈의 수동면역 평가."
+              "title_ko": "PEDV S 단백질 하위단위 백신으로 예방접종한 모돈으로부터 자돈의 수동면역 평가."
             },
             {
               "pmid": "41675930",
@@ -700,7 +700,7 @@
               "field": "preventive",
               "field_label": "예방의학",
               "abstract": "OBJECTIVE: To investigate the influencing factors associated with the risk of latent tuberculosis infection (LTBI) among people living with HIV/AIDS (PLWHA). METHODS: A cross-sectional study was conducted from July 2023 to July 2024, recruiting PLWHA from Wuxi City and Yangzhou City, Jiangsu Province, China. Data were collected through on-site questionnaire surveys and review of patient disease management records. QuantiFERON-TB Gold In-Tube (QFT) was used to detect LTBI. Multivariate logistic regression analysis was performed to identify factors associated with LTBI among PLWHA. Restricted cubic splines (RCS) models were employed to analyze the dose-response relationships between CD4+ cell count, CD8+ cell count, and CD4/CD8 ratio with LTBI risk. RESULTS: A total of 1184 PLWHA were enrolled, with 8.4% having concomitant LTBI. Multivariate logistic regression revealed that age group 45-<60 years (OR = 2.158, 95% CI: 1.339-3.478, P = 0.002) and CD4/CD8 ratio ≥1 (OR = 3.562, 95% CI: 1.627-7.800, P = 0.001) were independent factors associated with LTBI. RCS model fitting results demonstrated a gradually increasing nonlinear dose-response relationship between continuous changes in CD4/CD8 ratio and LTBI. The dose-response relationship between CD4+ cell count and LTBI risk exhibited an \"initial increase followed by a decrease trend. The dose-response relationship between CD8+ cell count and LTBI risk showed a gradual declining trend. CONCLUSION: This study identified that middle-aged PLWHA (45-<60 years) might represent a subgroup with relatively higher LTBI prevalence, indicating that screening in this age group may hold greater potential value. Additionally, the CD4/CD8 ratio, in conjunction with QFT findings, could serve as a supplementary reference for LTBI risk assessment. These observations support a more tailored approach to LTBI screening in PLWHA, though their implementation should be validated in prospective studies.",
-              "title_ko": "HIV/AIDS 감염인에서 QuantiFERON-TB Gold In-Tube를 사용한 잠복 결핵 감염 선별 검사에 영향을 미치는 요인 분석."
+              "title_ko": "HIV/AIDS 감염인에서 QuantiFERON-TB Gold In-Tube를 사용한 잠복 결핵 감염 선별검사에 영향을 미치는 요인 분석."
             }
           ]
         },
@@ -709,7 +709,7 @@
           "impact_factor": 1.5,
           "index_type": "미상",
           "quartile": "미상",
-          "paper_count": 80,
+          "paper_count": 81,
           "top_paper": {
             "pmid": "39949340",
             "title": "Analysis of factors influencing HPV vaccination intention among Chinese college students: structural equation modeling based on health belief theory.",
@@ -793,7 +793,7 @@
               "field": "preventive",
               "field_label": "예방의학",
               "abstract": "OBJECTIVE: This research aimed to evaluate the effect of knowledge, attitude, and practice model-based health education on patients with cerebrovascular stenosis and coronary heart disease who underwent simultaneous interventional therapy. METHODS: Sixty patients with cerebrovascular stenosis complicated with coronary heart disease and treated in The Third People's Hospital of Hubei Province, from February 2019 to April 2021 participated in the study. Patients were randomly assigned to either a control group (n = 30) or an intervention group (n = 30). The control group received routine nursing care, while the intervention group received knowledge, attitude, and practice-based health education. Comparisons were made between the two groups regarding satisfaction rates, anxiety, depression, knowledge, attitude, practice scores. RESULTS: The intervention group exhibited a higher satisfaction level than the control group. Additionally, the intervention group showed improved self-efficacy and reduced anxiety and depression scores at discharge, 1 month, and 3 months after discharge. The intervention group achieved higher knowledge, attitude, and practice scores at all three time points compared to the control group (p < 0.05). CONCLUSION: The results suggest that the application of Knowledge, Attitude, and Practice Model in patients with cerebrovascular stenosis and coronary heart disease can effectively enhance psychological well-being, improve self-efficacy, and enhance understanding of the disease.",
-              "title_ko": "동시 발생한 뇌혈관 협착증 및 관상동맥성 심장질환 환자의 심리적 안녕과 자기효능감에 대한 지식, 태도 및 실천 모델 기반 건강교육의 효과: 준실험 연구."
+              "title_ko": "동시 발생한 뇌혈관 협착증 및 관상동맥 심장질환 환자의 심리적 안녕과 자기효능감에 대한 지식, 태도 및 실천 모델 기반 건강교육의 효과: 준실험 연구."
             },
             {
               "pmid": "39901914",
@@ -848,7 +848,7 @@
               "field": "preventive",
               "field_label": "예방의학",
               "abstract": "BACKGROUND: Vaccination is an effective measure to prevent herpes zoster and its related complications. The coverage of herpes zoster vaccination is extremely low in China, and there is a notable lack of research investigating the barriers to promoting the herpes zoster vaccine in China. OBJECTIVES: This study aims to survey the status of herpes zoster (HZ) vaccination and its associated factors among individuals aged 50 years and older, it also seeks to identify the barriers to vaccination and dissemination, thereby providing a scientific foundation for enhancing the vaccination rate of herpes zoster. METHODS: From March to August 2023, a questionnaire survey was conducted using a multi-stage sampling method on permanent residents aged 50 years and older in Chaoyang district of Beijing. Logistic regression analysis and decision tree models were employed to explore the predictors herpes zoster vaccination behavior. RESULTS: The herpes zoster vaccination coverage was 13.26% (403/3040), with 52.4% of respondents expressing willingness but not yet receiving the vaccine, while 34.31% (1,043/3040) were unwilling to be vaccinated. Among those willing but not vaccinated, 48.06% cited high cost as the reason for abstaining from vaccination. Multivariate logistic regression analysis revealed that certain factors were associated with lower vaccination coverage, including being female, having a low frequency of influenza episodes (less than twice per year), and having chronic diseases. On the other hand, higher vaccination coverage was observed among individuals whose spouses had a master's degree or higher, those awarded that a history of chickenpox may lead to potential herpes zoster infection, those who were knowledgeable about the herpes zoster vaccine, and those received recommendations from medical staff. Additionally, the decision tree model confirmed that recommendations from medical staff had the most significant impact on vaccination. CONCLUSION: The survey reveals a generally low vaccination coverage of the herpes zoster vaccine among residents aged over 50 in this area. It is recommended to enhance the role of medical staff in advocating for vaccination, conduct community-based educational initiatives that focus on varicella, herpes zoster, and related knowledge, and alleviate the financial burden to improve the herpes zoster vaccination coverage.",
-              "title_ko": "베이징시 조양구 50세 이상 주민을 대상으로 한 대상포진 예방접종 예측 요인에 대한 횡단면 연구."
+              "title_ko": "베이징시 조양구 50세 이상 주민을 대상으로 한 수두대상포진 예방접종 예측 요인 탐색을 위한 횡단면 연구."
             },
             {
               "pmid": "39877921",
@@ -876,7 +876,7 @@
               "field": "preventive",
               "field_label": "예방의학",
               "abstract": "BACKGROUND: Health literacy (HL) is a critical determinant of health outcomes. Improving HL stands as one of the most essential, cost-effective, and efficacious strategies for enhancing the overall health of the population. This study aims to analyze the status of HL among urban and rural residents in Anhui Province, explore the associated factors, and provide a scientific basis for the formulation of targeted health education and promotion strategies. METHODS: A cross-sectional survey was conducted on 16,080 non-collective residents in Anhui Province from July to September 2022. Participants were selected using a multi-stage stratified random sampling method. HL was measured using the Chinese Citizen Health Literacy Questionnaire. Multivariable logistic regression analysis was performed to identify factors associated with adequate HL. RESULTS: Overall, 29.60% of residents in Anhui Province had adequate HL. The proportion of adequate HL in the different cities ranged from 22.42 to 38.73%. Multivariable logistic regression analysis revealed that the proportion of individuals with adequate HL was higher for males than for females (adjusted odds ratio [aOR], 1.200; 95% confidence interval [CI], 1.086-1.326); married was higher than unmarried (aOR = 1.195, 95% CI: 1.021-1.398). Compared with illiterate/less literate, the aOR values for primary school, junior high school, senior high school, and college or above were 1.690 (1.326-2.155), 3.467 (2.760-4.356), 7.033 (5.516-8.968), and 17.895 (13.948-22.959), respectively; compared with the age group of 65-69 years, the aOR values for the age groups 15-24, 25-34, 35-44, 45-54 and 55-64 years were 2.384 (1.774-3.202), 2.598 (2.049-3.294), 2.862 (2.267-3.615), 2.135 (1.697-2.685), and 1.468 (1.157-1.863), respectively; compared with farmers, the aOR values were 1.244 (95% CI, 1.081-1.432) for technical/professional, 1.121 (95% CI, 1.003-1.254) for commercial/service, and 1.329 (95% CI, 1.163-1.518) for other occupations. CONCLUSION: Residents of Anhui Province exhibit relatively low levels of HL, with notable disparities observed among different education levels, age groups, genders, and marital statuses. It is essential for health policymakers and public health practitioners to develop targeted health education and promotion strategies tailored to distinct subpopulations of residents.",
-              "title_ko": "중국 안후이성 거주자들의 건강 문해력 상태 및 관련 요인: 횡단면 연구."
+              "title_ko": "중국 안후이성 주민들의 건강 문해력 상태 및 관련 요인: 횡단면 연구."
             },
             {
               "pmid": "41648760",
@@ -932,7 +932,7 @@
               "field": "preventive",
               "field_label": "예방의학",
               "abstract": "AIM: This study aimed to assess the impact of a mHealth and community health education intervention on diabetes awareness and promoting healthy dietary and lifestyle habits within a rural population in Andhra Pradesh, India. METHODS: Using a quasi-experimental design, the mDiabetes program was implemented for 1 year, among 1,03,538 rural individuals. Under this program, 56 diabetes prevention messages (twice a week) in local language) were disseminated among the participants via voice calls for a period of 6 months. Additionally, community health education meetings were facilitated by trained community health workers and educational leaflets were distributed among the community members. Questionnaires were administered at three different time points-baseline (before the intervention), endline (after intervention), and follow-up (3 months after endline) to collect demographic data, diabetes-related knowledge, attitudes, practices, physical activity, and dietary habits. Analysis compared data from 545 subjects who participated in all the three surveys. RESULTS: The cohort comprised 45.5% males and 54.5% females, aged 19-85 years (mean: 55.42; SD 10.3). Post-intervention, diabetes awareness rose to 97.43% at endline and 99.63% at follow-up from 82.75% at baseline. Belief in diabetes preventability increased from 25.5% to 69.5%, and awareness of lifestyle's impact on diabetes management improved from 72.6% to 80.9%. Over 90% recalled prevention messages, with significant lifestyle changes reported by 83% at endline and 73% at follow-up. Improved dietary and activity habits were evident, with fruit consumption and high-fat food avoidance at 78.5% and 67.7% in follow-up. Physical activity levels improved in both endline and follow-up groups compared to baseline. Daily participation in yoga, running, gym, and aerobics increased to 38.7% in endline and follow-up from 7.3% at baseline (p < 0.001). Outdoor sports engagement rose significantly to 15% in endline and follow-up from 0.5% at baseline (p < 0.001). Regular stair usage (59.8%), walking for chores (84.7%), and short walking breaks (93%) increased significantly in follow-up compared to baseline and endline (p < 0.001). CONCLUSION: The combined mHealth and community health education intervention improved diabetes awareness and healthy habits in rural areas, showing potential for lasting outcomes and guiding future public health efforts in similar settings.",
-              "title_ko": "인도 농촌 지역 일반인들 사이에서 당뇨병에 대한 인식을 제고하고 건강한 생활습관 변화를 촉진하는 데 있어 mDiabetes 개입의 효과."
+              "title_ko": "인도 농촌 지역 일반인들을 대상으로 당뇨병에 대한 인식 제고 및 건강한 생활습관 변화 촉진에 있어 mDiabetes 중재의 효과."
             },
             {
               "pmid": "39886390",
@@ -1053,7 +1053,7 @@
               "field": "preventive",
               "field_label": "예방의학",
               "abstract": "Objective: To assess the feasibility and acceptability of a virtual food skills program for children with type 1 diabetes. Methods: Forty-three patients, aged 6-14 years with type 1 diabetes, participated in an 8-week online programme, summerlunch+ At Home, that included weekly live cooking classes, asynchronous learning modules, and quizzes accessed through Google Classroom. Grocery delivery or gift cards were provided to all participants to support equitable access to participation. Descriptive results were summarized, and thematic analysis was performed on answers to a post-intervention questionnaire, parent/caregivers interview transcripts, and facilitators' field notes. Results: Participants reported having a positive experience and would recommend the programme to others. Acceptable elements included the online format, the cooking class demonstrations, and the well-organized content. Families enjoyed the recipes, expressed an improvement in the families' cooking skills and nutrition knowledge, and noted the program as a way to improve family bonding and reduce participants' sense of social isolation given the opportunity of meeting peers with diabetes. The intervention also appears to increase participants' independence, confidence, and self-esteem. While grocery cards were easier to coordinate compared with meal kits, both were deemed acceptable by caregivers. Barriers to participation include a distracting home environment and not feeling comfortable on camera. Factors that negatively impacted satisfaction were the large age range of participants and the class timing and duration. Caregivers noted a desire for more diabetes education, enhanced peer-to-peer interaction, and incorporation of animal-based protein recipes in future programmes. Conclusion: The current study demonstrates the feasibility and acceptability of the virtual summerlunch+ At Home cooking and nutrition program that was adapted for children with diabetes. Similar food skills programmes may support the development of food skills imperative to diabetes self-management long-term. Further research can continue to assess food literacy skills, glycemic management, and the social benefits of such interventions.",
-              "title_ko": "제1형 당뇨병을 앓고 있는 아동을 대상으로 설계된 가상 식품 기술 및 식품 지속 가능성 프로그램의 타당성 및 수용성 평가."
+              "title_ko": "제1형 당뇨병을 앓고 있는 아동을 대상으로 설계된 가상 식품 기술 및 식품 지속 가능성 프로그램의 타당성 및 수용 가능성 평가."
             },
             {
               "pmid": "40302970",
@@ -1303,7 +1303,7 @@
             "field": "preventive",
             "field_label": "예방의학",
             "abstract": "Early psychosis intervention (EPI) is a complex model of care designed to be delivered by a large multidisciplinary team. However, in practice, it is often delivered by very small teams, particularly in rural areas. This study analyzed fidelity data from over half of Ontario EPI programs (n = 24) to compare model fidelity in programs with smaller (≤2.1 staff) and larger (≥4.3 staff) teams. Few differences were identified, suggesting that small teams may be a viable option to deliver the EPI model, although both large and small teams were challenged to deliver almost a third of the elements of care.",
-            "title_ko": "소규모 팀이 농촌 지역에서 조기 정신증 개입 서비스를 제공하는 데 실행 가능한 전략인가? 온타리오 충실도 연구."
+            "title_ko": "소규모 팀이 농촌 지역에서 조기 정신병 개입 서비스를 제공하는 데 실행 가능한 전략인가? 온타리오 충실도 연구."
           },
           "papers": [
             {
@@ -1332,7 +1332,7 @@
               "field": "preventive",
               "field_label": "예방의학",
               "abstract": "Early psychosis intervention (EPI) is a complex model of care designed to be delivered by a large multidisciplinary team. However, in practice, it is often delivered by very small teams, particularly in rural areas. This study analyzed fidelity data from over half of Ontario EPI programs (n = 24) to compare model fidelity in programs with smaller (≤2.1 staff) and larger (≥4.3 staff) teams. Few differences were identified, suggesting that small teams may be a viable option to deliver the EPI model, although both large and small teams were challenged to deliver almost a third of the elements of care.",
-              "title_ko": "소규모 팀이 농촌 지역에서 조기 정신증 개입 서비스를 제공하는 데 실행 가능한 전략인가? 온타리오 충실도 연구."
+              "title_ko": "소규모 팀이 농촌 지역에서 조기 정신병 개입 서비스를 제공하는 데 실행 가능한 전략인가? 온타리오 충실도 연구."
             }
           ]
         },
@@ -1461,7 +1461,7 @@
             "field": "preventive",
             "field_label": "예방의학",
             "abstract": "Although safety plans (SPs), following the Stanley-Brown Safety Planning Intervention protocol, are required for suicidal veterans receiving treatment in the Veterans Health Administration (VHA), prior studies have shown that they are frequently incomplete or are not sufficiently personalized to the unique circumstances of each patient. In two studies, we examined SP completeness, SP quality (i.e., degree to which the SP was clear, actionable, and personalized), and SP fidelity (i.e., sum of completeness and quality). We also examined which SP steps were associated with a reduced likelihood of future psychiatric rehospitalizations (Study 1) and suicide attempts (Study 2) following hospital discharge. Participants were veterans admitted to two VHA acute inpatient psychiatric units for suicide risk (Study 1: N = 78; Study 2: N = 132). SPs were coded by independent raters on completeness, quality, and fidelity; step scores (e.g., Step 1 quality) were summed to create whole-plan scores (e.g., SP quality). In Study 1, 52.5% of participants had an SP and, in Study 2, 93.1% of participants had an SP. In Study 1, whole plan scores were not associated with subsequent psychiatric hospitalization status, but higher Step 2 (internal coping) fidelity scores were associated with decreased likelihood of rehospitalization (AHR = 0.05, 95% CI [0.30, 0.84], p = .008). In Study 2, higher whole-plan quality (AHR = 0.79, 95% CI [0.66, 0.95], p = .012) and fidelity (AHR = 0.84, 95% CI [0.71, 0.99], p = .040) scores were associated with a decreased likelihood of future suicide attempt. Step 1 (warning signs) quality (HR = 0.48, 95% CI [0.30, 0.76], p = .002) and fidelity scores (AHR = 0.57, 95% CI [0.37, 0.90], p = .016) were associated with a decreased likelihood of future suicide attempt. The association of SP characteristics differs by outcome of interest, and fidelity of internal coping strategies may contribute to preventing rehospitalizations, whereas quality and fidelity of warning signs may help prevent future suicide attempts. Overall, results suggest that mandating SPs without training and implementation strategies to ensure quality is not enough.",
-            "title_ko": "정신과적 입원 치료를 받은 두 군의 군인 출신 퇴역자 표본을 대상으로 한 자살 위험 완화용 안전 계획의 효과 평가."
+            "title_ko": "정신과적 입원 치료를 받은 두 군의 군인 출신 퇴역자 표본을 대상으로 한 자살 위험 완화 안전 계획의 효과 평가."
           },
           "papers": [
             {
@@ -1490,7 +1490,7 @@
               "field": "preventive",
               "field_label": "예방의학",
               "abstract": "Although safety plans (SPs), following the Stanley-Brown Safety Planning Intervention protocol, are required for suicidal veterans receiving treatment in the Veterans Health Administration (VHA), prior studies have shown that they are frequently incomplete or are not sufficiently personalized to the unique circumstances of each patient. In two studies, we examined SP completeness, SP quality (i.e., degree to which the SP was clear, actionable, and personalized), and SP fidelity (i.e., sum of completeness and quality). We also examined which SP steps were associated with a reduced likelihood of future psychiatric rehospitalizations (Study 1) and suicide attempts (Study 2) following hospital discharge. Participants were veterans admitted to two VHA acute inpatient psychiatric units for suicide risk (Study 1: N = 78; Study 2: N = 132). SPs were coded by independent raters on completeness, quality, and fidelity; step scores (e.g., Step 1 quality) were summed to create whole-plan scores (e.g., SP quality). In Study 1, 52.5% of participants had an SP and, in Study 2, 93.1% of participants had an SP. In Study 1, whole plan scores were not associated with subsequent psychiatric hospitalization status, but higher Step 2 (internal coping) fidelity scores were associated with decreased likelihood of rehospitalization (AHR = 0.05, 95% CI [0.30, 0.84], p = .008). In Study 2, higher whole-plan quality (AHR = 0.79, 95% CI [0.66, 0.95], p = .012) and fidelity (AHR = 0.84, 95% CI [0.71, 0.99], p = .040) scores were associated with a decreased likelihood of future suicide attempt. Step 1 (warning signs) quality (HR = 0.48, 95% CI [0.30, 0.76], p = .002) and fidelity scores (AHR = 0.57, 95% CI [0.37, 0.90], p = .016) were associated with a decreased likelihood of future suicide attempt. The association of SP characteristics differs by outcome of interest, and fidelity of internal coping strategies may contribute to preventing rehospitalizations, whereas quality and fidelity of warning signs may help prevent future suicide attempts. Overall, results suggest that mandating SPs without training and implementation strategies to ensure quality is not enough.",
-              "title_ko": "정신과적 입원 치료를 받은 두 군의 군인 출신 퇴역자 표본을 대상으로 한 자살 위험 완화용 안전 계획의 효과 평가."
+              "title_ko": "정신과적 입원 치료를 받은 두 군의 군인 출신 퇴역자 표본을 대상으로 한 자살 위험 완화 안전 계획의 효과 평가."
             },
             {
               "pmid": "43072968",
@@ -1518,7 +1518,7 @@
               "field": "preventive",
               "field_label": "예방의학",
               "abstract": "Anorexia nervosa (AN) is a serious psychiatric illness. Despite its severity, most individuals with AN never achieve full recovery and more than 50% of patients relapse after treatment. One of the primary reasons that many treatments are limited in their effectiveness is that they do not specifically target cognitive-affective pathology. Furthermore, many treatments are limited by lack of scalability. New treatments that target cognitive-affective pathology (e.g., anxiety, fear) and that are scalable are needed to improve both outcomes and access to evidence-based care. As such, the current open series trial (N = 10) piloted a new digital, exposure-based modular treatment for AN-related fear and anxiety, called Digital Facing Eating Disorder Fears (FED-F). FED-F consists of five digital modules focused on four common AN fears: weight gain, food, social eating, and physical sensations, and one module of cognitive restructuring. Modules are complemented by homework assignments and light-touch coaching. FED-F had high feasibility, acceptability, mixed findings for target engagement (i.e., decreased avoidance behaviors), and good initial clinical efficacy, with pre-post effect sizes ranging from small to large, dependent on the type of fear. Overall, FED-F is a promising new digital treatment that could be used to decrease anxiety-based cognitions and behaviors present in AN. Future work should test FED-F in a randomized controlled trial design especially with populations who may have difficulty accessing evidence-based care.",
-              "title_ko": "디지털 방식으로 식이장애에 대한 두려움에 맞서기: 신경성 식욕부진증을 위한 디지털 재발 예방 프로그램의 수용성 및 실행 가능성 공개 시리즈 시험."
+              "title_ko": "디지털 방식으로 섭식 장애에 대한 두려움에 맞서기: 신경성 식욕 부진증을 위한 디지털 재발 예방 프로그램의 수용성 및 실행 가능성 공개 시리즈 시험."
             },
             {
               "pmid": "42097786",
@@ -1582,7 +1582,7 @@
             "field": "preventive",
             "field_label": "예방의학",
             "abstract": "This guideline defines recurrent early pregnancy loss (REPL) as two or more losses that occur before 10 weeks gestational age and includes non-consecutive and biochemical losses. Investigations should be considered on an individual basis and may include an evaluation of genetic, anatomical, endocrinological, structural and male-associated factors. Based on the findings and available resources, options for management may include preimplantation genetic testing (PGT) for aneuploidies or PGT for chromosomal structural rearrangements, progesterone supplementation and supportive care. This guideline emphasizes a personalized approach to the problem of REPL, recognizing an overall promising prognosis for this patient population and the avoidance of treatment options that have not been shown to be of benefit.",
-            "title_ko": "반복되는 조기 임신 손실의 조사 및 관리: 캐나다 생식력 및 남성학회 임상 진료 가이드라인."
+            "title_ko": "반복되는 조기 임신 소실의 조사 및 관리: 캐나다 생식력 및 남성학회 임상 진료 가이드라인."
           },
           "papers": [
             {
@@ -1611,7 +1611,7 @@
               "field": "preventive",
               "field_label": "예방의학",
               "abstract": "This guideline defines recurrent early pregnancy loss (REPL) as two or more losses that occur before 10 weeks gestational age and includes non-consecutive and biochemical losses. Investigations should be considered on an individual basis and may include an evaluation of genetic, anatomical, endocrinological, structural and male-associated factors. Based on the findings and available resources, options for management may include preimplantation genetic testing (PGT) for aneuploidies or PGT for chromosomal structural rearrangements, progesterone supplementation and supportive care. This guideline emphasizes a personalized approach to the problem of REPL, recognizing an overall promising prognosis for this patient population and the avoidance of treatment options that have not been shown to be of benefit.",
-              "title_ko": "반복되는 조기 임신 손실의 조사 및 관리: 캐나다 생식력 및 남성학회 임상 진료 가이드라인."
+              "title_ko": "반복되는 조기 임신 소실의 조사 및 관리: 캐나다 생식력 및 남성학회 임상 진료 가이드라인."
             },
             {
               "pmid": "40262446",
@@ -1639,7 +1639,7 @@
               "field": "preventive",
               "field_label": "예방의학",
               "abstract": "RESEARCH QUESTION: Are some non-2PN zygotes normally fertilized, euploid and thus available for transfer? DESIGN: Retrospective cohort study of patient data from 1214 PGT-A cycles from a single private IVF clinic. A total of 152 non-2PN embryos were assessed by PGT-A with parent of origin assessment, and were compared with 4822 2PN embryos assessed by PGT-A. Transfer outcomes of euploid embryos were then compared. RESULTS: Over 40% of the tested non-2PN embryos were euploid. The 152 non-2PN (89 ICSI, 63 IVF), embryos were 2×0PN, 50×1PN, 24×2.1PN, 65×3PN, 9×4PN and 2×5PN. Of 4822 2PN embryos, 4737 (98.2%) were diploid, 1.4% polyploid and 0.4% haploid. Embryos resulting from 1PN zygotes were more likely to be haploid, and embryos resulting from 3PN and 4PN zygotes were more likely to be polyploid (P < 0.001). A total of 44 out of 89 (50%) ICSI embryos were either haploid or polyploid, significantly higher than those derived from IVF (16/63 [25.4%], P = 0.004). Maternal origin of polyploidy was more common in ICSI cases (P = 0.005). A total of 42% of the 93 diploid non-2PN embryos were also euploid, with diploid blastocysts from non-2PN zygotes likely to be euploid as those from diploid 2PN zygotes (P = 0.10). Twelve euploid 1PN, 2.1PN and 3PN embryos were transferred; two ongoing pregnancies and four live births have been reported. CONCLUSIONS: This approach extends the use of PGT-A in identifying more embryos available for transfer, has the potential to increase cumulative pregnancy rates and questions the value of the fertilization check.",
-              "title_ko": "기존의 수정 확인을 재평가: 이수성(Aneuploidy)에 대한 착상 전 유전자 검사를 활용하여 이식 가능한 배아의 수를 증가시킴."
+              "title_ko": "기존의 수정 확인 검사를 재평가: 이수성(Aneuploidy)에 대한 착상 전 유전자 검사를 활용하여 이식 가능한 배아의 수를 증가시킴."
             },
             {
               "pmid": "41844433",
@@ -1667,7 +1667,7 @@
               "field": "preventive",
               "field_label": "예방의학",
               "abstract": "RESEARCH QUESTION: Does the number of trophectoderm cells biopsied during blastocyst-stage preimplantation genetic testing for aneuploidy (PGT-A) affect diagnostic or clinical outcomes? DESIGN: This retrospective study included 660 blastocysts from 222 cycles, grouped according to the number of cells biopsied (two to four, five to six, seven or more). Next-generation sequencing (NGS) was used for genetic analysis. Diagnostic failure, aneuploidy, mosaicism, re-expansion and implantation rates were compared between the groups. Multivariable logistic regression adjusted for age, embryo quality, and morphological grade of trophectoderm cells. RESULTS: Diagnostic failure and mosaicism rates did not differ significantly between the groups. The aneuploidy rate differed significantly between the 2-4-, 5-6-, and ≥7-cell groups (56.7%, 43.1% and 57.8%, respectively; P = 0.010); this was associated with maternal age ≥35 years (adjusted OR 2.34, 95% CI 1.59-3.45; P < 0.001) and grade B trophectoderm cells compared with grade A trophectoderm cells (adjusted OR 1.55, 95% CI, 1.05-2.30; P = 0.028), but not with the number of cells biopsied. The blastocyst re-expansion rate was >98%, and the implantation rate was similar across the groups. CONCLUSIONS: Diagnostic failure rates may be comparable when different numbers of trophectoderm cells are biopsied, after adjustment for potential confounders in multivariable analyses. Minimizing the number of cells biopsied may reduce embryo injury, supporting the need for standardized biopsy protocols that consider both diagnostic yield and embryo preservation.",
-              "title_ko": "유사분열(Aneuploidy)에 대한 착상 전 유전자 검사의 품질에 대한 생착상외층 세포 생검 수의 영향."
+              "title_ko": "유전자 검사 전 착상에서 이수성을 위한 생검된 영양외배엽 세포 수의 영향."
             },
             {
               "pmid": "40262448",
@@ -1695,7 +1695,7 @@
               "field": "preventive",
               "field_label": "예방의학",
               "abstract": "RESEARCH QUESTION: Do antinuclear antibodies affect the blastocyst aneuploidy rate during preimplantation genetic testing for aneuploidy (PGT-A) cycles? DESIGN: A retrospective cohort study was undertaken of 259 patients who underwent PGT-A and immunological screening at the study centre between May 2018 and May 2023. Patients were divided into an antinuclear-antibody-negative group (213 cycles) and an antinuclear-antibody-positive group (46 cycles) based on the presence/absence of antinuclear antibodies, and embryo outcomes were compared. RESULTS: Significant differences were found between antinuclear-antibody-negative and antinuclear-antibody-positive patients in terms of paternal age (34 versus 37 years; P = 0.032), maternal age (33 versus 35 years; P = 0.046) and duration of infertility (2 versus 3 years; P = 0.009). No significant differences were found in the number of retrieved oocytes, metaphase II (MII) oocytes, available embryos, high-quality embryos, blastocysts biopsied, euploid blastocysts, MII oocyte rate, fertilization rate, high-quality embryo rate and euploidy rate. Multiple linear regression revealed that, in infertile couples who underwent PGT-A, maternal age was an independent factor influencing the euploidy rate (regression coefficient -0.009), whereas the presence of antinuclear antibodies was not an independent factor influencing the euploidy rate. CONCLUSION: In couples who underwent PGT-A, the presence of antinuclear antibodies did not affect the euploidy rate. This study did not observe any negative effects of antinuclear antibodies on oocyte or embryo outcomes.",
-              "title_ko": "항핵항체는 이수성 검사를 위한 착상 전 유전자 검사에서 정상염색체수 비율에 영향을 미치지 않습니다."
+              "title_ko": "항핵 항체는 이수성 검사를 위한 착상 전 유전자 검사에서 정상배수성 비율에 영향을 미치지 않는다."
             },
             {
               "pmid": "40024009",
@@ -1816,7 +1816,7 @@
               "field": "preventive",
               "field_label": "예방의학",
               "abstract": "BACKGROUND: The Indian government is committed to addressing various manifestations of malnutrition, including overweight and obesity, inorder to improve individual health and well-being. The scoping review aims to map existing national policy instruments (programmes, schemes, regulations and guidelines) addressing overweight and obesity in India and analysing them for Social and Behaviour Change Communication (SBCC) strategies. METHODS: Systematic identification and selection of policy instruments using 'Arksey and O'Malley' framework was conducted from central government ministry websites, between March and June 2023. These instruments focused on nutrition and/or physical activity, targeting specific demographic groups like pregnant women, lactating mothers, children (0-5 years and 5-9 years), or adolescents (10-19 years); excluding those focusing on specific diseases like micronutrient deficiencies, wasting, and stunting. Based on search strategy six policy instruments were included and analysed for SBCC strategies. RESULTS: While many policy instruments incorporated SBCC plans; the 'National Programme for Prevention of Non-Communicable Diseases (NP-NCD)' stands out as a significant policy initiative specifically targeting the prevention of overweight and obesity within the broader context of Non-Communicable Diseases. It adopts a comprehensive approach addressing key drivers contributing to overweight/obesity across multiple levels of behavioural influence i.e., individual, interpersonal, community and organisation for health promotion. However, there's need to strengthen SBCC strategies related to prevention and management of obesity, especially screening and counselling, to cover all age groups with a particular focus on adolescents and youth. SBCC strategies can also be incorporated into India's Integrated Nutrition Support Programme (POSHAN 2.0) and/or Reproductive, Maternal, New-born, Child, Adolescent Health and Nutrition (RMNCAH+N) under the National Health Mission. CONCLUSION: This paper underscores the necessity for comprehensive strategies to address multifaceted origins of overweight and obesity. The NP-NCD stands out as a noteworthy initiative, and there is considerable potential for other programmes to emulate SBCC strategies to bolster their overall effectiveness. Note : *Policy instruments throughout the paper have been used to cover programmes, schemes, regulations and guidelines.",
-              "title_ko": "인도에서 과체중 및 비만을 해결하기 위한 기존 정책 수단의 범위 검토: 사회 및 행동 변화 커뮤니케이션 전략에 대한 권장 사항."
+              "title_ko": "인도의 과체중 및 비만 문제 해결을 위한 기존 정책 수단의 범위 검토: 사회 및 행동 변화 커뮤니케이션 전략에 대한 권고안."
             },
             {
               "pmid": "40655936",
@@ -1844,7 +1844,7 @@
               "field": "preventive",
               "field_label": "예방의학",
               "abstract": "BACKGROUND: Insufficient awareness of foot self-care among diabetic individuals results in diabetic foot ulcers especially in the Indian population considering its varied ethnicity and lifestyle practices. The management of diabetes and diabetic foot ulcers therefore demands a well-coordinated approach that involves multiple healthcare providers (HCPs). The present study aims to develop and validate an interprofessional collaborative (IPC) educational program involving HCPs to efficiently oversee and instruct the public on appropriate strategies for self-managing diabetic foot health in the Indian population. METHODS: The research group worked on creating an educational module titled 'An Interprofessional Collaborative Educational Module on Self-Management of Foot for Individuals with Type II Diabetes Mellitus.' The objective of this module was to promote the adoption of proper practices in self-managing foot health for individuals with type 2 diabetes mellitus. A panel of 13 experts participated in a two-stage validation process using the Delphi method to assess the module and its educational resources. Subsequently, the module was tested on a group of 30 participants, i.e., individuals with diabetes, with its efficacy evaluated through conversation analysis and in-depth interviews. RESULTS: The three-month-long module included three sessions 1: Diabetes and its health implications2: Diabetic foot and self-management3: Interprofessional education in diabetic foot care The mode of content delivery was via Whatsapp, and the educational resources, in the form of pamphlets, flowcharts, handouts, case-based cartoons, and videos on diabetes, including diabetic foot, its risks, and self-management, were shared regularly.All participating experts consensually validated the module and educational resources. Analysis of in-depth interviews revealed that the module immensely benefitted the participants and helped them improve their knowledge and practices of foot care in diabetes. CONCLUSIONS: The study highlights the importance of developing and validating IPC educational modules tailored to diabetic foot care. It can aid in enhancing adherence to proper diabetic foot care practices.",
-              "title_ko": "인도에서 제2형 당뇨병 환자를 위한 발 자가관리에 관한 직종 간 협력 교육 모듈의 개발 및 검증."
+              "title_ko": "인도에서 제2형 당뇨병 환자를 위한 발 자기관리 관련 직종 간 협업 교육 모듈 개발 및 검증."
             },
             {
               "pmid": "40469994",
@@ -1926,7 +1926,7 @@
               "field": "preventive",
               "field_label": "예방의학",
               "abstract": "INTRODUCTION: Zero-dose children (ZDC) are defined as those that have never been reached by routine immunization services. In Latin America, almost 2.7 million infants younger than 1 year of age, have incomplete vaccination schedules, and vaccine preventable diseases such as measles or polio have increase worldwide. ZDC are reported to reside in high risk and fragile settings, including remote-rural areas, urban slums, and conflict-affected areas. Identifying the problem and settings in each country is mandatory to propose possible solutions to the immunization coverage situation. AREAS COVERED: In November 2023, a group of experts of the Latin America Society of Pediatric Infectious Diseases (SLIPE) analyzed the global and regional reality of ZDC, and present in this document an updated reality of the Latin American region and the weight of the possible interventions to overcome this problem. EXPERT COMMENTARY: Communication is a key element to improve vaccination coverage, as it is quality and use of vaccination data. Campaigns that deliver targeted and effective messages to communities and families, provide education about vaccination, avoid missed vaccination opportunities, and coordinate efforts across different sectors and communities, among other strategies, could improve the current immunization situation.",
-              "title_ko": "라틴 아메리카의 예방접종 미접종 아동: 문제 분석 및 가능한 해결책."
+              "title_ko": "라틴 아메리카의 미접종 아동: 문제 분석 및 가능한 해결책."
             },
             {
               "pmid": "42148380",
@@ -2074,7 +2074,7 @@
               "field": "preventive",
               "field_label": "예방의학",
               "abstract": "This study aimed to examine the relationship between medication literacy and the degree to which patients are considered capable of medication self-management, the factors influencing the strength of this relationship and the factors influencing a patient's capability for medication self-management. Between January and April 2022, a cross-sectional survey was conducted on hospitalised patients (65+) with polypharmacy. Medication literacy was evaluated using the MEDication Literacy Assessment of Geriatric patients and informal caregivers (MED-fLAG). The SelfMED assessment determined a patient's capability for medication self-management. The relationship between MED-fLAG and SelfMED was explored with Pearson's r. Moderation analysis was used to explore the factors influencing the strength of the relationship between both. Linear regression explored the factors influencing SelfMED scores. In total, 169 patients participated in the study. Patients considered themselves more capable of in-hospital medication self-management (8/10 rating) compared to nurses' and physicians' opinions (6/10 rating). Interactive medication literacy scored higher (mean = 3.0) than functional (mean = 2.9) and critical medication literacy (mean = 2.8). The more medication literacy skills, the more patients were considered able for medication self-management by healthcare providers (r = 0.630, p < 0.001). Moderation analysis could not reveal any factors that significantly affected the strength of the relationship between both. Age, managing medication independently at home, the number of chronic conditions and medication literacy were significant predictors of a patient's capability for in-hospital medication self-management. This study demonstrated a rather strong correlation between the results of the MED-fLAG and the SelfMED assessment. Hence, SelfMED can be used as a stand-alone first screening instrument to determine a patient's capability for in-hospital medication self-management, without first assessing medication literacy. MED-fLAG can provide valuable insights into the medication literacy of patients considered less capable of managing their medication, allowing medication information and interventions to be tailored to the patient.",
-              "title_ko": "약물 문해력 및 약물 자가 관리: 다제약물요법을 받는 입원 환자(65세 이상)를 대상으로 한 횡단면 연구."
+              "title_ko": "약물 문해력 및 약물 자가 관리: 다제제 투여를 받는 입원 환자(65세 이상)를 대상으로 한 횡단면 연구."
             }
           ]
         },
@@ -2261,7 +2261,7 @@
             "field": "preventive",
             "field_label": "예방의학",
             "abstract": "A pharmacogenomics-informed prescribing strategy examines genetic variations in individual patients for more personalized selection and dosing of psychiatric medications for which a clinical evidence base and/or clinical guidelines exist. Clinicians who prescribe psychiatric medications should be aware of the pharmacogenomic evidence base and existing guidelines relevant to medication selection, dosing, and interactions to ensure safe and effective treatment. Although pharmacogenomic testing does not replace current prescribing strategies, when used alongside them, it acts as a valuable clinical decision support tool that can improve the selection and dosing of specific psychiatric medications.",
-            "title_ko": "약물유전체학적 검사와 정신과 약물 처방에 대한 영향."
+            "title_ko": "약물유전체 검사 및 정신과 약물 처방에 대한 영향."
           },
           "papers": [
             {
@@ -2288,7 +2288,7 @@
               "field": "preventive",
               "field_label": "예방의학",
               "abstract": "A pharmacogenomics-informed prescribing strategy examines genetic variations in individual patients for more personalized selection and dosing of psychiatric medications for which a clinical evidence base and/or clinical guidelines exist. Clinicians who prescribe psychiatric medications should be aware of the pharmacogenomic evidence base and existing guidelines relevant to medication selection, dosing, and interactions to ensure safe and effective treatment. Although pharmacogenomic testing does not replace current prescribing strategies, when used alongside them, it acts as a valuable clinical decision support tool that can improve the selection and dosing of specific psychiatric medications.",
-              "title_ko": "약물유전체학적 검사와 정신과 약물 처방에 대한 영향."
+              "title_ko": "약물유전체 검사 및 정신과 약물 처방에 대한 영향."
             }
           ]
         },
@@ -2324,7 +2324,7 @@
             "field": "preventive",
             "field_label": "예방의학",
             "abstract": "INTRODUCTION: Health professions training programs must train future healthcare providers to meet the needs of equity-deserving patient populations. Standardized patient (SP) programs are one mechanism by which this training can occur. Our aim was to develop a set of recommendations for SP programs and educators around planning, organizing, and delivering SP-based education involving equity-deserving groups. METHODS: We undertook a qualitative analysis of interview transcripts of SPs, educators, and trainers involved in SP work with equity-deserving groups. Subsequently, we conducted a three-stage modified Delphi process to generate recommendations. RESULTS: We derived 10 tips to help stakeholders improve SP-based education involving equity-deserving groups. The underlying themes included collaborative involvement, including co-creation and co-delivery of content with members of equity-deserving groups, as well as consistent prioritization of the needs of SPs throughout the process. CONCLUSIONS: Our findings suggest ways in which SP programs and educators can better train future healthcare providers to meet the needs of equity-deserving patient populations.",
-            "title_ko": "형평성을 보장받아야 할 집단에 초점을 맞춘 표준화된 환자 교육: 교육자와 프로그램을 위한 10가지 팁-질적 연구."
+            "title_ko": "형평성을 보장받아야 할 집단에 초점을 맞춘 표준화된 환자 교육: 교육자 및 프로그램을 위한 10가지 팁 - 질적 연구."
           },
           "papers": [
             {
@@ -2353,7 +2353,7 @@
               "field": "preventive",
               "field_label": "예방의학",
               "abstract": "INTRODUCTION: Health professions training programs must train future healthcare providers to meet the needs of equity-deserving patient populations. Standardized patient (SP) programs are one mechanism by which this training can occur. Our aim was to develop a set of recommendations for SP programs and educators around planning, organizing, and delivering SP-based education involving equity-deserving groups. METHODS: We undertook a qualitative analysis of interview transcripts of SPs, educators, and trainers involved in SP work with equity-deserving groups. Subsequently, we conducted a three-stage modified Delphi process to generate recommendations. RESULTS: We derived 10 tips to help stakeholders improve SP-based education involving equity-deserving groups. The underlying themes included collaborative involvement, including co-creation and co-delivery of content with members of equity-deserving groups, as well as consistent prioritization of the needs of SPs throughout the process. CONCLUSIONS: Our findings suggest ways in which SP programs and educators can better train future healthcare providers to meet the needs of equity-deserving patient populations.",
-              "title_ko": "형평성을 보장받아야 할 집단에 초점을 맞춘 표준화된 환자 교육: 교육자와 프로그램을 위한 10가지 팁-질적 연구."
+              "title_ko": "형평성을 보장받아야 할 집단에 초점을 맞춘 표준화된 환자 교육: 교육자 및 프로그램을 위한 10가지 팁 - 질적 연구."
             }
           ]
         },
@@ -2446,7 +2446,7 @@
               "field": "preventive",
               "field_label": "예방의학",
               "abstract": "Information technology-enabled precision prevention is a relatively new approach designed to improve population health. It forms an organic development linking principles of optimizing added value from health-related information technology and data systems with clinical aspirations to add longer-term problem prevention to immediate illness treatment. It includes drawing on information technology to identify persons at risk for developing certain conditions and then developing targeted behavioral and psychosocial approaches to modifying the behaviors of individuals or specific groups. We here discuss evaluation challenges associated with information technology-enabled precision prevention approaches to facilitate the development of an empirical evidence base. Challenges associated with measuring the impact of information technology-enabled precision prevention initiatives include considerations surrounding the relevance and fit of external data sources, the accuracy of prediction models, establishing added benefits of preventative activities, measuring pre-post outcomes at individual and population levels, and considerations surrounding cost-benefit analysis. Challenges associated with assessing processes of information technology-enabled precision prevention initiatives include the quality of data used to create underlying data models, exploring processes not necessarily related to each other, evolving social and environmental determinants of health and individual circumstances, the evolving nature of needs and interventions over time, and ethical considerations. If these challenges are attended to in evaluation activities, this will help to ensure that information technology-enabled approaches to precision prevention will have a positive impact on individual and population health.",
-              "title_ko": "의료 및 돌봄 분야에서 정보기술(IT) 기반 정밀 예방 이니셔티브 평가."
+              "title_ko": "의료 및 돌봄 분야에서 정보 기술을 활용한 정밀 예방 이니셔티브 평가."
             },
             {
               "pmid": "40199293",
@@ -2696,7 +2696,7 @@
               "field": "preventive",
               "field_label": "예방의학",
               "abstract": "Bovine parainfluenza-3 virus (BPI3V) contributes to Bovine Respiratory Disease Complex, causing severe pneumonia and death in cattle, leading to economic losses. Existing BPI3V commercial vaccines, based on genotype A strains, confer protection against some, but not all, genotype A strains and induce low neutralizing antibody titers against genotypes B and C. This study aimed to develop a live vaccine capable of inducing broad protection against diverse BPI3V strains using an attenuated BPI3V vaccine vector based on a genotype C strain. A rescued recombinant BPI3VcmutantGFP virus exhibited a temperature-sensitive attenuated phenotype in vitro. Novel Fusion (designated F2) and Hemagglutinin-Neuraminidase (designated HN2) antigens, derived from consensus protein sequences of BPI3V genotypes A, B, and C, were used to develop a recombinant prototype vaccine, designated rBPI3VcmutF2-HN2. The recombinant virus replicated efficiently, displayed the novel antigens on the surface of infected cells, and remained stable over nine in vitro passages. Intranasal vaccination of calves with the rBPI3VcmutF2-HN2 virus induced strong systemic and mucosal IgG responses against BPI3V genotypes A, B, and C, which were significantly amplified upon boost, unlike the responses elicited by a commercial vaccine. Notably, sera from calves vaccinated with the rBPI3VcmutF2-HN2 virus had significantly higher (p<0.0001) neutralizing antibodies against BPI3V genotypes A-C compared to the commercial vaccine. The F2-HN2 antigens were critical in eliciting neutralizing antibodies against wild-type BPI3Va and c (p< 0.0001), and BPI3Vb (p<0.001). Upon challenge with wild-type BPI3V genotype C virus, the rBPI3VcmutF2-HN2-vaccinated calves shed the least amount of virus in nasal swabs, had lower viremia, and exhibited minimal pulmonary lesions. Therefore, rBPI3VcmutF2-HN2 virus is a promising vaccine candidate that has potential to confer broad protection against multiple BPI3V strains.",
-              "title_ko": "신규한 BPI3Vc-벡터화 표면 발현 융합 및 헤마글루티닌-뉴라미니다제 항원은 소에서 광범위하게 중화 항체를 유도한다."
+              "title_ko": "신규한 BPI3Vc-벡터화된 표면 발현 융합 및 혈구응집소-뉴라미니다제 항원은 소에서 광범위하게 중화 항체를 유도한다."
             },
             {
               "pmid": "39926602",
@@ -2753,34 +2753,6 @@
               "field_label": "예방의학",
               "abstract": "INTRODUCTION: The innate immune response is an important first checkpoint in the evolution of an infection. Although adaptive immunity is generally considered the immune component that retains antigenic memory, innate immune responses can also be affected by previous stimulations. This study evaluated the impact of vaccination on innate cell activation by TLR7/8 agonist R848, as well as seasonal variations. METHODS: To this end, blood samples from a cohort of 304 food and retail workers from the Quebec City region were collected during three visits at 12-week intervals. Peripheral blood mononuclear cells and polymorphonuclear neutrophils were isolated during the first and third visits and were stimulated with R848 to assess the innate immune response. RESULTS: Our results show that IL-8 production after stimulation decreased after vaccination. In addition, the IL-8 response was significantly different depending on the season when the visit occurred, for both COVID-19 vaccinated and unvaccinated individuals. DISCUSSION: This study highlights that innate immune responses can be affected by SARS-CoV-2 vaccination and fluctuate seasonally.",
               "title_ko": "SARS-CoV-2 백신 접종 및 계절적 변동이 선천성 면역 염증 반응에 미치는 영향."
-            },
-            {
-              "pmid": "41624847",
-              "title": "Protective efficacy of a 'pan-fungal' vaccination strategy against experimental Pneumocystis infection in drug-immunosuppressed macaques.",
-              "journal": "Frontiers in immunology",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2026-01-16",
-              "authors": [
-                "Rabacal W",
-                "Hu A",
-                "Kirton G"
-              ],
-              "citation_count": 2,
-              "rcr": null,
-              "volume": "16",
-              "issue": "",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/41624847/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": false,
-              "hot_score": 10.7,
-              "field": "preventive",
-              "field_label": "예방의학",
-              "abstract": "INTRODUCTION: Pneumocystis jirovecii causes life-threatening fungal pneumonia (PJP) and other serious pulmonary sequelae in HIV infected individuals and other immunocompromised populations. In recent years, while the frequency of PJP has declined in HIV infected individuals treated with anti-retroviral therapies, the incidence has increased among non-HIV populations due to the expanding use of corticosteroids and other immunomodulatory agents to treat immune-mediated inflammatory diseases and hematologic and solid malignancies. Despite the success of trimethoprim-sulfamethoxazole (TMP-SMX) prophylaxis, patients who are unable to tolerate treatment, take drugs where TMP-SMX is contraindicated, or experience breaks in daily compliance remain at risk. Immunocompromised populations would benefit from vaccine strategies that reduce morbidity and mortality due to acute PJP. METHODS: Herein, we used a newly established non-human primate (NHP) model of Pneumocystis infection in the context of drug-induced immunosuppression to test the immunogenicity and protective efficacy of a vaccine strategy administered prior to and throughout drug-induced immunosuppression using the 'pan-fungal' vaccine candidate NXT-2a. Longitudinal blood and bronchoalveolar lavage sampling was performed to monitor anti-NXT-2a antibody titers, lymphocyte populations, and infection status. RESULTS: Immunization with NXT-2a prior to immunosuppression induced robust humoral immune responses in healthy outbred macaques. Subsequent therapeutic boosting throughout drug-induced immunosuppression prevented protective antibody titer decline. Our collective vaccination strategy provided significant protection against Pneumocystis infection throughout the duration of the study. DISCUSSION: These studies demonstrate the efficacy and feasibility of an NXT-2a based vaccination strategy in a NHP model with a planned immunosuppressive regimen. This strategy may be further applied toward other opportunistic fungal pathogens, such as Candida spp. and Aspergillus spp. in similarly immunosuppressed populations.",
-              "title_ko": "약물 면역억제 원숭이를 대상으로 한 실험적 폐포자충 감염에 대한 '범진균' 백신 접종 전략의 보호 효능."
             },
             {
               "pmid": "39877366",
@@ -2865,6 +2837,34 @@
               "field_label": "예방의학",
               "abstract": "BACKGROUND: While SARS-CoV-2 vaccines are highly effective in healthy individuals, the magnitude and durability of humoral and cellular responses in patients with solid malignancies receiving chemotherapy remain understudied. Previous reports suggest that patients with cancer may not mount adequate immune response after SARS-CoV-2 vaccination. Additionally, most studies focused on humoral responses, while data regarding cellular immune responses are scarce. In this study, we evaluated humoral and cellular responses in patients with solid tumors receiving chemotherapy compared to healthy individuals up to one year after vaccinations. METHODS: Patients aged ≥18 who were willing to receive the SARS-CoV-2 vaccine were enrolled. Anti-SARS-CoV-2 immunoassays were used to detect antibodies against nucleocapsid and spike proteins. Human IFN-γ Fluorospot assay was used to determine antigen-specific T-cell responses. Data were compared between groups using Mann-Whitney test for continuous variables and Fisher's exact test for categorical variables. RESULTS: A total of 67 subjects (47 patients with cancer and 20 healthy individuals) were included. 1-3 months following the second vaccine doses, 96% of patients with cancer and 100% of healthy individuals demonstrated a positive humoral response. While the positivity rate was not significantly different, patients with cancer had significantly lower spike IgG antibodies than healthy individuals. However, this difference diminished at 6 months when patients with cancer had increased antibodies compared to decreased antibodies in the healthy cohort and no difference was noticed at 12-month. Patients with cancer developed a similar antigen-specific T-cell response as healthy individuals at 1-3 months, 6 months and 12 months. There were no significant differences when comparing patients aged ≤ 55 years vs. >55 years, stages I-III vs. IV, single vs. multiple chemotherapy, and BNT162b2 vs. mRNA-1273 vaccines. There was a significant moderate correlation between neutralization and antibody levels at 12 months. However, despite patients with cancer having a significantly higher COVID risk score, there were no significant differences in COVID-19 infection and hospitalization between patients with cancer and healthy individuals. CONCLUSION: Despite initial impaired antibody responses to SARS-CoV-2 vaccinations, patients with solid malignancies receiving chemotherapy effectively generated long-term cellular and humoral responses by 6 and 12 months, leading to similar infection and hospitalization rates compared to healthy individuals.",
               "title_ko": "화학요법을 받는 고형암 환자에서 SARS-CoV-2 백신 접종에 대한 장기적인 세포성 및 체액성 반응."
+            },
+            {
+              "pmid": "41646979",
+              "title": "Immunogenicity evaluation of altSonflex1-2-3 Shigella vaccine across mice, rats, and rabbits to inform human translational insights.",
+              "journal": "Frontiers in immunology",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2026-01-21",
+              "authors": [
+                "Caradonna V",
+                "Alfini R",
+                "Pinto M"
+              ],
+              "citation_count": 1,
+              "rcr": null,
+              "volume": "16",
+              "issue": "",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/41646979/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 6.8,
+              "field": "preventive",
+              "field_label": "예방의학",
+              "abstract": "Shigella, a leading cause of bacillary dysentery, represents a significant global health challenge, particularly in low- and middle-income countries. Shigellosis predominantly affects children under the age of five and is associated with high morbidity and mortality rates. To address this burden, a generalized modules for membrane antigens (GMMA)-based vaccine, altSonflex1-2-3, incorporating S. sonnei and S. flexneri 1b, 2a, and 3a O-antigens, has been developed. This study aimed to evaluate and compare the immunogenicity of the altSonflex1-2-3 vaccine in mice, rats, and rabbits. Significant increase in O-antigen specific IgG response was observed in all animal models after one single injection, that further increased post-second vaccination in mice and rats for all antigens at all tested doses. In rabbits, booster effects were observed for all antigens, except for S. flexneri O-antigen at the highest dose and S. sonnei O-antigen at intermediate and high dose. This study showed how each species exhibited its own unique dose-response pattern against S. flexneri 1b and 3a. Instead, S. flexneri 2a consistently showed a positive dose-response in every model examined. A hook effect was observed for S. sonnei IgG across all models, with responses peaking at medium doses and decreasing at higher doses. This trend was most pronounced in mice and less evident in rats. Across all antigens, mice and rabbits exhibited more homogeneous immune responses to the 4 antigens, while rats showed numerically higher response to S. sonnei and S. flexneri 2a compared to S. flexneri 1b and 3a. Interestingly, this pattern in rats aligns more closely with responses recently observed in European adults. The vaccine has now advanced to Phase 2 clinical trials in the target population of 9-month-old infants, where different doses of the vaccine are being tested. Immune data collected will allow to further evaluate which preclinical model can better predict humoral response elicited in different age group populations. Expanding studies of this kind across different platforms and pathogens could provide valuable insights into the optimal animal models for supporting rapid vaccine design and development prior to clinical trials.",
+              "title_ko": "인간 대상 중개 연구 통찰력을 제공하기 위한 생쥐, 쥐 및 토끼를 대상으로 한 altSonflex1-2-3 시겔라 백신의 면역원성 평가."
             }
           ]
         },
@@ -2957,7 +2957,7 @@
               "field": "preventive",
               "field_label": "예방의학",
               "abstract": "Pompe disease (PD) is a rare autosomal recessive lysosomal disorder caused by loss-of-function of the α-glucosidase (GAA) gene. The deficient GAA enzyme activity may result in potential life-threatening muscle weakness, thus requiring a rapid diagnosis to initiate therapeutic interventions. In this large retrospective study, we analyzed 30.836 PD suspect samples from 57 countries using a two-step approach utilizing dried blood spots (DBSs): biochemical testing of GAA activity followed by complementary genetic sequencing of GAA in biochemically conspicuous cases. Of these 30.836 samples, 2% (n = 639) were excluded; accordingly, this study consisted of 30.193 cases. Biochemical testing of GAA enzyme activity showed normal values in 28.354 (93.90%) and enzyme activity below the cut-off in 1843 (6.10%) cases. These biochemically suspicious cases were genetically analyzed. We identified 723 Pompe cases with 283 different GAA alterations, and 98 variants have been unpublished so far. The most common variant was the splice variant c.-32-13T>G (IVS1). Looking at the IVS1-genotype, the majority was compound heterozygous (n = 169) and identified in late-onset cases (n = 162). Comparison of early- versus late-onset cases to evaluate whether certain genotypes correlate with the age of onset revealed that homozygosity was predominantly found in infantile (85.65%) and compound heterozygosity in late-onset (76.9%) cases. Analysis of homozygous cases revealed 61% nonsense variants in the early stages and 87% missense variants in the late stages. Mapping of disease-associated (homozygous) missense variants to functional GAA protein domains showed that missense variants were found throughout GAA, but we identified enrichment in the catalytic domain. A strict genotype-phenotype correlation cannot be established; nevertheless, a phenotypic implication of some GAA variants could be drawn (e.g., c.896T>C/p.L299P, c.2015G>A/p.R672Q, and c.-32-13T>G). The combined enzyme activity and genetic testing from DBS cards can reliably identify PD and significantly accelerate diagnosis. We identified new genetic variants that contribute to the spectrum of pathogenic variants of the GAA gene.",
-              "title_ko": "폼페병에 이환된 것으로 의심되는 30,000명 이상의 증상이 있는 환자에 대한 GAA의 생화학적 및 유전적 검사."
+              "title_ko": "폼페병에 이환된 것으로 의심되는 30,000명 이상의 증상 있는 환자에 대한 GAA의 생화학적 및 유전적 검사."
             },
             {
               "pmid": "40225936",
@@ -3097,7 +3097,7 @@
               "field": "preventive",
               "field_label": "예방의학",
               "abstract": "Hereditary breast cancer (HBC) accounts for an estimated 15% of breast cancer diagnoses worldwide and is primarily driven by pathogenic variants (PVs) in high- and moderate-penetrance susceptibility genes. Current clinical guidelines recommend genetic counseling and multigene testing for individuals with suspected HBC. However, across Latin America and the Caribbean (LAC), structural inequities persist in access to molecular diagnostics, specialized genetics services, and systematic variant interpretation frameworks, resulting in underdiagnosis, limited representation of regional populations in genomic databases, and asymmetries in the clinical implementation of precision oncology. We systematically reviewed the literature to identify studies reporting pathogenic or likely pathogenic germline variants in HBC susceptibility genes among LAC populations. A total of 120 studies from multiple countries were included. Overall, 202 PVs were identified in BRCA1 and 199 in BRCA2. Furthermore, 180 PVs were identified in 15 high- and moderate-risk genes associated with HBC, whereas 102 PVs were reported in 52 rare susceptibility genes. Our synthesis reveals substantial heterogeneity in the distribution of PVs across countries, recurrent population-specific variants, and a strong predominance of BRCA1/2-focused studies, despite growing use of broader genomic testing approaches. Importantly, the availability of genetic counseling and publicly funded testing remains highly uneven, with fragmented implementation and limited integration into national cancer control strategies. Together, these findings highlight a critical gap between the expanding genomic knowledge base and its translation into clinical practice in LAC.",
-              "title_ko": "라틴 아메리카 및 카리브해 지역의 유전성 유방암에서 병원성 변이 및 유전자 상담의 현황: 범위 검토."
+              "title_ko": "라틴 아메리카 및 카리브해 지역의 유전성 유방암에서 병원성 변이 및 유전자 상담의 양상: 범위 검토."
             }
           ]
         },
@@ -3106,7 +3106,7 @@
           "impact_factor": 1.5,
           "index_type": "미상",
           "quartile": "미상",
-          "paper_count": 1,
+          "paper_count": 2,
           "top_paper": {
             "pmid": "42048757",
             "title": "Mediterranean diet for the primary prevention of cardiometabolic diseases: evidence from a systematic review and meta-analysis featured in the Italian National Guidelines \"La Dieta Mediterranea\".",
@@ -3133,7 +3133,7 @@
             "field": "preventive",
             "field_label": "예방의학",
             "abstract": "OBJECTIVES: The Mediterranean diet (MD) is widely recognized for its potential health benefits, yet the extent and certainty of its association with metabolic outcomes remains incompletely understood. The aim of this systematic review and meta-analysis was to evaluate the relationship between adherence to the MD and the risk or prevalence of cardiometabolic disorders in the general population, with a focus on its role in primordial and primary prevention. METHODS: This review followed PRISMA 2020 and MOOSE guidelines. A systematic search of PubMed/MEDLINE, Scopus, Embase, and the Cochrane Library was conducted through February 28, 2024. Eligible studies examined adherence to the MD in relation to the risk or prevalence of metabolic disorders. Study quality was assessed using the Newcastle-Ottawa Scale, and evidence certainty was rated with the NUTRI-GRADE framework. Pooled effect estimates were calculated using a random-effects model and reported as risk ratios (RR), hazard ratios (HR), or odds ratios (OR), as appropriate. RESULTS: Sixty studies comprising over 1.1 million participants were included. Higher MD adherence was consistently associated with a reduced risk of T2DM (RR: 0.96; 95% CI: 0.95-0.97), supported by moderate to high certainty of evidence. Similar inverse associations were observed for overweight (OR: 0.94; 95% CI: 0.91-0.97) and adult obesity (OR: 0.95; 95% CI: 0.93-0.97). The PREDIMED randomized trial further demonstrated a 20% reduction in diabetes incidence with MD intervention. Evidence for metabolic syndrome (RR: 0.98; 95% CI: 0.98-0.99) and hyperuricemia (OR: 0.43; 95% CI: 0.25-0.75) was suggestive of protective effects, though with lower certainty. Associations with hypercholesterolemia and hypertriglyceridemia were inconsistent and inconclusive. CONCLUSIONS: Adherence to the Mediterranean diet is associated with a lower risk of several metabolic disorders, particularly T2DM and obesity in adults. These findings support the inclusion of the MD in public health strategies for metabolic disease prevention. Further high-quality longitudinal and interventional studies are warranted to clarify its effects on other metabolic outcomes.",
-            "title_ko": "심장대사 질환의 1차 예방을 위한 지중해식 식단: 이탈리아 국가 가이드라인 'La Dieta Mediterranea'에 소개된 체계적 문헌고찰 및 메타분석을 통한 근거."
+            "title_ko": "심장대사 질환의 1차 예방을 위한 지중해식 식단: 이탈리아 국가 가이드라인 '지중해식 식단(La Dieta Mediterranea)'에 소개된 체계적 문헌고찰 및 메타분석을 통한 증거."
           },
           "papers": [
             {
@@ -3162,7 +3162,35 @@
               "field": "preventive",
               "field_label": "예방의학",
               "abstract": "OBJECTIVES: The Mediterranean diet (MD) is widely recognized for its potential health benefits, yet the extent and certainty of its association with metabolic outcomes remains incompletely understood. The aim of this systematic review and meta-analysis was to evaluate the relationship between adherence to the MD and the risk or prevalence of cardiometabolic disorders in the general population, with a focus on its role in primordial and primary prevention. METHODS: This review followed PRISMA 2020 and MOOSE guidelines. A systematic search of PubMed/MEDLINE, Scopus, Embase, and the Cochrane Library was conducted through February 28, 2024. Eligible studies examined adherence to the MD in relation to the risk or prevalence of metabolic disorders. Study quality was assessed using the Newcastle-Ottawa Scale, and evidence certainty was rated with the NUTRI-GRADE framework. Pooled effect estimates were calculated using a random-effects model and reported as risk ratios (RR), hazard ratios (HR), or odds ratios (OR), as appropriate. RESULTS: Sixty studies comprising over 1.1 million participants were included. Higher MD adherence was consistently associated with a reduced risk of T2DM (RR: 0.96; 95% CI: 0.95-0.97), supported by moderate to high certainty of evidence. Similar inverse associations were observed for overweight (OR: 0.94; 95% CI: 0.91-0.97) and adult obesity (OR: 0.95; 95% CI: 0.93-0.97). The PREDIMED randomized trial further demonstrated a 20% reduction in diabetes incidence with MD intervention. Evidence for metabolic syndrome (RR: 0.98; 95% CI: 0.98-0.99) and hyperuricemia (OR: 0.43; 95% CI: 0.25-0.75) was suggestive of protective effects, though with lower certainty. Associations with hypercholesterolemia and hypertriglyceridemia were inconsistent and inconclusive. CONCLUSIONS: Adherence to the Mediterranean diet is associated with a lower risk of several metabolic disorders, particularly T2DM and obesity in adults. These findings support the inclusion of the MD in public health strategies for metabolic disease prevention. Further high-quality longitudinal and interventional studies are warranted to clarify its effects on other metabolic outcomes.",
-              "title_ko": "심장대사 질환의 1차 예방을 위한 지중해식 식단: 이탈리아 국가 가이드라인 'La Dieta Mediterranea'에 소개된 체계적 문헌고찰 및 메타분석을 통한 근거."
+              "title_ko": "심장대사 질환의 1차 예방을 위한 지중해식 식단: 이탈리아 국가 가이드라인 '지중해식 식단(La Dieta Mediterranea)'에 소개된 체계적 문헌고찰 및 메타분석을 통한 증거."
+            },
+            {
+              "pmid": "42090744",
+              "title": "Effectiveness of Mediterranean diet for the primary prevention of cardiovascular diseases: A systematic review and meta-analysis featured in the Italian National Guidelines \"La Dieta Mediterranea\".",
+              "journal": "Nutrition (Burbank, Los Angeles County, Calif.)",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2025-11-29",
+              "authors": [
+                "Volpe R",
+                "Ciccone MM",
+                "Pala B"
+              ],
+              "citation_count": 3,
+              "rcr": null,
+              "volume": "148",
+              "issue": "",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/42090744/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": false,
+              "hot_score": 13.5,
+              "field": "preventive",
+              "field_label": "예방의학",
+              "abstract": "BACKGROUND: Cardiovascular diseases (CVDs) are among the leading causes of premature mortality in Europe, with unhealthy diets a major contributing factor. The Mediterranean diet (MD), characterized by high intake of plant-based foods and healthy fats, has been associated with reduced cardiovascular risk. This systematic review and meta-analysis aimed to assess the effectiveness of MD in the primary prevention of CVDs. METHODS: This review was conducted in accordance with Preferred Reporting Items for Systematic Reviews and Meta-Analyses 2020 and Meta-analysis of Observational Studies in Epidemiology guidelines. A comprehensive search of PubMed/MEDLINE, Scopus, Embase, and Cochrane Library was performed up to February 28, 2024. Study quality was assessed using the Newcastle-Ottawa Scale, and the certainty of evidence was evaluated with the NUTRIGRADE approach. Pooled effect sizes were computed using a random-effects model and expressed as risk ratios, hazard ratios (HR), or odds ratios, as appropriate. RESULTS: A total of 87 studies, encompassing over 1.4 million participants, were included. Higher adherence to the MD was consistently associated with a reduced risk of peripheral artery disease (HR-from 0.34 to 0.54), coronary heart disease (HR: 0.95), atrial fibrillation (HR: 0.65), cerebrovascular disease (HR: 0.97), hypertension (HR: 0.97), and CVDs mortality (HR: 0.97). Even a one-point increase in MD adherence score conferred a statistically significant benefit. The strongest evidence emerged from high-quality RCTs, notably the PREDIMED study. CONCLUSIONS: The MD is an effective strategy for the primary prevention of CVDs. These findings suggest the importance of adherence to MD and support incorporating MD-based recommendations in national dietary guidelines and public health initiatives.",
+              "title_ko": "심혈관 질환의 1차 예방을 위한 지중해식 식단의 효과: 이탈리아 국가 가이드라인 '지중해식 식단(La Dieta Mediterranea)'에 소개된 체계적 문헌고찰 및 메타 분석."
             }
           ]
         },
@@ -3255,7 +3283,7 @@
               "field": "preventive",
               "field_label": "예방의학",
               "abstract": "Wild boar (Sus scrofa) is a common wild ungulate known as the most important reservoir of tuberculosis (TB) in Spain. The severity of TB lesions in this species and the high prevalence of porcine circovirus type 2 (PCV-2) have been related. PCV-2 is ubiquitous in swine populations, being usual for the free-living ones the contact with this agent. Recent studies found a correlation between a decrease of generalised TB prevalence in wild boar populations and the PCV-2-vaccination. The aim of this study was to find out if PCV-2 vaccination modulates the gene expression of cytokines from immune cells after its exposition with mycobacterial antigens using an in vitro methodology. A total of 46 wild boars from a PCV-2 infection endemic area were blood-sampled before and after the PCV-2 vaccination of 22 of them. Peripheral blood mononuclear cells (PBMC) were obtained and isolated from these samples. Aliquots of the cells were in vitro cultured and respectively stimulated with PPDa, PPDb, and a mitogen. A complete analysis of the gene expression of cytokines from the cultured PBMC was carried out. Also, Mycobacterium bovis and PCV-2 contacts were revealed by ELISA and/or qPCR. The results demonstrated that the animals which have had contact with PCV-2 and had been vaccinated, manifested a significant decrease in gene expression of proinflammatory cytokines, like interleukin 1 beta, interleukin 6, and tumour necrosis factor-alpha, possibly related with the severity of TB lesions, and also a significant decrease of interleukin 10, a key cytokine. In conclusion, in case of possible infection or contact events with the virus, PCV-2 vaccination could be an effective measure to reduce the TB severity in wild boar populations, which could decrease the intra and interspecies transmission of TB.",
-              "title_ko": "미코박테리아 항원으로 자극 후 멧돼지 말초혈액 단핵구 세포의 사이토카인 유전자 발현 프로파일에 대한 PCV-2 백신접종의 영향."
+              "title_ko": "미코박테리아 항원으로 자극한 후 멧돼지 말초혈액 단핵구 세포의 사이토카인 유전자 발현 프로파일에 대한 PCV-2 백신접종의 영향."
             }
           ]
         },
@@ -3289,7 +3317,7 @@
             "field": "preventive",
             "field_label": "예방의학",
             "abstract": "El Instituto Mexicano del Seguro Social-Bienestar (IMSS-Bienestar), nueva institución encargada de la atención a la salud de las personas sin seguridad social en los estados mexicanos que firmen convenios con este propósito, basará la atención médica en el Modelo de Atención a la Salud para el Bienestar. Este modelo se sostiene en la atención primaria de salud que considera: a) servicios de salud integrados para satisfacer las necesidades de salud de las personas a lo largo de sus vidas; b) abordar los determinantes más amplios de la salud a través de políticas y acciones multisectoriales, y c) empoderar a individuos, familias y comunidades para que se hagan cargo de su propia salud. Se busca satisfacer las necesidades a lo largo del proceso continuo, que va desde la promoción de la salud y la prevención de enfermedades, hasta el tratamiento, la rehabilitación y los cuidados paliativos, y tan próximo como sea posible del entorno cotidiano de las personas. El componente de atención colectiva estará a cargo de la Secretaría de Salud Federal y de las secretarías de salud estatales, así como del Servicio Nacional de Salud Pública en vinculación con los operadores de servicios de salud del sector. El componente de atención médica será responsabilidad de IMSS-Bienestar. En este artículo se presenta la manera en la que el IMSS-Bienestar implementará este modelo de atención durante los siguientes años. Se plantea la manera operativa a través de equipos de conducción multidisciplinarios regionales y zonales, y se delinean los indicadores que serán empleados para su evaluación y seguimiento.",
-            "title_ko": "멕시코의 웰빙을 위한 의료 서비스 모델에서의 1차 의료."
+            "title_ko": "멕시코의 웰빙을 위한 의료 서비스 모델에서의 1차 진료."
           },
           "papers": [
             {
@@ -3316,7 +3344,7 @@
               "field": "preventive",
               "field_label": "예방의학",
               "abstract": "El Instituto Mexicano del Seguro Social-Bienestar (IMSS-Bienestar), nueva institución encargada de la atención a la salud de las personas sin seguridad social en los estados mexicanos que firmen convenios con este propósito, basará la atención médica en el Modelo de Atención a la Salud para el Bienestar. Este modelo se sostiene en la atención primaria de salud que considera: a) servicios de salud integrados para satisfacer las necesidades de salud de las personas a lo largo de sus vidas; b) abordar los determinantes más amplios de la salud a través de políticas y acciones multisectoriales, y c) empoderar a individuos, familias y comunidades para que se hagan cargo de su propia salud. Se busca satisfacer las necesidades a lo largo del proceso continuo, que va desde la promoción de la salud y la prevención de enfermedades, hasta el tratamiento, la rehabilitación y los cuidados paliativos, y tan próximo como sea posible del entorno cotidiano de las personas. El componente de atención colectiva estará a cargo de la Secretaría de Salud Federal y de las secretarías de salud estatales, así como del Servicio Nacional de Salud Pública en vinculación con los operadores de servicios de salud del sector. El componente de atención médica será responsabilidad de IMSS-Bienestar. En este artículo se presenta la manera en la que el IMSS-Bienestar implementará este modelo de atención durante los siguientes años. Se plantea la manera operativa a través de equipos de conducción multidisciplinarios regionales y zonales, y se delinean los indicadores que serán empleados para su evaluación y seguimiento.",
-              "title_ko": "멕시코의 웰빙을 위한 의료 서비스 모델에서의 1차 의료."
+              "title_ko": "멕시코의 웰빙을 위한 의료 서비스 모델에서의 1차 진료."
             },
             {
               "pmid": "39977105",
@@ -3344,7 +3372,7 @@
               "field": "preventive",
               "field_label": "예방의학",
               "abstract": "OBJETIVO: Examinar los factores asociados con el incumplimiento de las recomendaciones de los comportamientos del movimiento (CM) y la asociación con el estado nutricional en escolares y adolescentes mexicanos. Material y métodos. Estudio transversal con datos de la Encuesta Nacional de Salud y Nutrición 2022-2023 (Ensanut 2022-2023). Se obtuvo información de CM (actividad física, sedentarismo y sueño), características sociodemográficas (sexo, índice de bienestar, nivel educativo y área) y estado nutricional (índice de masa corporal). Se utilizaron regresiones logísticas crudas y ajustadas. RESULTADOS: Ser mujer, vivir en áreas urbanas y tener un mayor índice de bienestar se asoció con no cumplir ninguna de las recomendaciones CM (escolares) o algún CM individual (escolares y adolescentes). No cumplir con ninguna de las tres recomendaciones de los CM se asoció con más posibilidades de tener sobrepeso/obesidad en adolescentes. CONCLUSIONES: Es necesario implementar estrategias con perspectiva de género que promuevan CM saludables en áreas urbanas y con mayor índice de bienestar.",
-              "title_ko": "학령기 아동 및 청소년의 신체 활동 촉진."
+              "title_ko": "학령기 아동 및 청소년의 신체 활동 증진."
             },
             {
               "pmid": "39977187",
@@ -3519,7 +3547,7 @@
               "field": "preventive",
               "field_label": "예방의학",
               "abstract": "INTRODUCTION AND OBJECTIVE: The study examines the vaccination status and attitudes of Ukrainian refugees in Poland, focusing on factors influencing decisions regarding mandatory vaccinations. Given the ongoing migration and geopolitical instability, understanding these determinants is crucial for improving immunization coverage and mitigating public health risks. MATERIAL AND METHODS: Data were collected from 102 Ukrainian refugee participants in the Rzeszów area using a structured survey. The questionnaire included demographic questions and inquiries about vaccination practices, reasons for incomplete immunization, and attitudes toward vaccination. Statistical analysis was conducted to identify significant correlations. RESULTS: The study found that 55.88% of participants reported full vaccination of their children, while 42.16% had partial vaccination, and less than 2% were unvaccinated. The most common barriers to vaccination were limited access to vaccines (40%) and mistrust in vaccine formulations (37.78%). Additionally, statistical analysis revealed a significant correlation between the COVID-19 pandemic and vaccination uptake (p < 0.05). CONCLUSIONS: The findings emphasize the need for targeted interventions to address vaccine hesitancy and logistical challenges among Ukrainian refugees. Strengthening cooperation between Ukraine and Poland is crucial for enhancing immunization coverage. Despite broader vaccine availability in Poland, hesitancy remains an issue, necessitating educational initiatives and policy adjustments.",
-              "title_ko": "폴란드 내 우크라이나인의 예방접종 현황 및 의무적 예방접종에 대한 태도."
+              "title_ko": "폴란드 내 우크라이나인의 예방접종 현황 및 필수 예방접종에 대한 태도."
             }
           ]
         },
@@ -3555,7 +3583,7 @@
             "field": "preventive",
             "field_label": "예방의학",
             "abstract": "BACKGROUND: Early diabetes detection can enhance metabolic outcomes, reducing future risks and complications. Effective diabetes screening remains crucial in the post cystic fibrosis (CF) modulator therapy era whereby treatment with Elexacaftor/Tezacaftor/Ivacaftor (ETI) will lead to an aging CF population. Therefore, adults living with CF will be at increased risk of metabolic complications, specifically diabetes. The oral glucose tolerance test (OGTT) remains a key validated diagnostic tool for diabetes in this population; however, uptake has been historically low. AIM: This study aimed to evaluate and address barriers to the uptake of OGTT screening for CF-related diabetes from a clinician and service perspective. METHOD: This single center mixed methods study comprised a survey, solution mapping workshops, and database-driven analytics, incorporating both qualitative and quantitative analyses. The study was conducted in a hospital in Brisbane, Australia from 2017 to 2023. We hybridized the Theoretical Domains Framework and the Capability, Opportunity, Motivation, and Behaviour (COM-B) change model to identify clinician- and service-level barriers to OGTT uptake. OGTT uptake was assessed at three time-points: T0 (2018-2019) Baseline/Pre-implementation, T1 (2020-2021) Post-implementation, and T2 (2022-2023) Post-implementation and ETI. RESULTS: Three barriers to OGTT uptake were identified: (1) clinician capacity, (2) systematic processes, and (3) consumer engagement. Provider knowledge gaps on diabetes diagnostic criteria were addressed through education. A CF-related diabetes clinical pathway was developed and integrated into service procedures and clinical databases. Consumer engagement initiatives were implemented. In our cohort, OGTT screening significantly increased from 12.7% at T0 to 38.5% at T1 (p < 0.001), stabilizing at 33.5% at T2 (p < 0.001). CONCLUSIONS: OGTT screening significantly improved following the implementation of behavior-based solutions. Our findings indicate that addressing key barriers at a service level using a multifaceted interventional approach can change end-user perspectives and behavior. SPANISH ABSTRACT: http://links.lww.com/IJEBH/A405.",
-            "title_ko": "경구 포도당 내성 검사(OGTT)를 사용하여 성인의 낭포성 섬유증 관련 당뇨병 선별 검사를 최적화: 단일 센터 혼합 방법 연구."
+            "title_ko": "경구 당부하 검사(OGTT)를 사용하여 성인의 낭포성 섬유증 관련 당뇨병 선별 검사를 최적화: 단일 센터 혼합 방법 연구."
           },
           "papers": [
             {
@@ -3584,7 +3612,7 @@
               "field": "preventive",
               "field_label": "예방의학",
               "abstract": "BACKGROUND: Early diabetes detection can enhance metabolic outcomes, reducing future risks and complications. Effective diabetes screening remains crucial in the post cystic fibrosis (CF) modulator therapy era whereby treatment with Elexacaftor/Tezacaftor/Ivacaftor (ETI) will lead to an aging CF population. Therefore, adults living with CF will be at increased risk of metabolic complications, specifically diabetes. The oral glucose tolerance test (OGTT) remains a key validated diagnostic tool for diabetes in this population; however, uptake has been historically low. AIM: This study aimed to evaluate and address barriers to the uptake of OGTT screening for CF-related diabetes from a clinician and service perspective. METHOD: This single center mixed methods study comprised a survey, solution mapping workshops, and database-driven analytics, incorporating both qualitative and quantitative analyses. The study was conducted in a hospital in Brisbane, Australia from 2017 to 2023. We hybridized the Theoretical Domains Framework and the Capability, Opportunity, Motivation, and Behaviour (COM-B) change model to identify clinician- and service-level barriers to OGTT uptake. OGTT uptake was assessed at three time-points: T0 (2018-2019) Baseline/Pre-implementation, T1 (2020-2021) Post-implementation, and T2 (2022-2023) Post-implementation and ETI. RESULTS: Three barriers to OGTT uptake were identified: (1) clinician capacity, (2) systematic processes, and (3) consumer engagement. Provider knowledge gaps on diabetes diagnostic criteria were addressed through education. A CF-related diabetes clinical pathway was developed and integrated into service procedures and clinical databases. Consumer engagement initiatives were implemented. In our cohort, OGTT screening significantly increased from 12.7% at T0 to 38.5% at T1 (p < 0.001), stabilizing at 33.5% at T2 (p < 0.001). CONCLUSIONS: OGTT screening significantly improved following the implementation of behavior-based solutions. Our findings indicate that addressing key barriers at a service level using a multifaceted interventional approach can change end-user perspectives and behavior. SPANISH ABSTRACT: http://links.lww.com/IJEBH/A405.",
-              "title_ko": "경구 포도당 내성 검사(OGTT)를 사용하여 성인의 낭포성 섬유증 관련 당뇨병 선별 검사를 최적화: 단일 센터 혼합 방법 연구."
+              "title_ko": "경구 당부하 검사(OGTT)를 사용하여 성인의 낭포성 섬유증 관련 당뇨병 선별 검사를 최적화: 단일 센터 혼합 방법 연구."
             }
           ]
         },
@@ -3654,71 +3682,6 @@
           ]
         },
         {
-          "journal": "Seminars in vascular surgery",
-          "impact_factor": 1.5,
-          "index_type": "미상",
-          "quartile": "미상",
-          "paper_count": 1,
-          "top_paper": {
-            "pmid": "41866674",
-            "title": "Optimal treatment of preclinical cardiovascular disease: A narrative review with a focus on carotid artery stenosis.",
-            "journal": "Seminars in vascular surgery",
-            "impact_factor": 1.5,
-            "index_type": "미상",
-            "quartile": "미상",
-            "pubdate": "2025-11-27",
-            "authors": [
-              "Paraskevas KI",
-              "Mikhailidis DP",
-              "Myrcha P"
-            ],
-            "citation_count": 1,
-            "rcr": null,
-            "volume": "39",
-            "issue": "1",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/41866674/",
-            "altmetric_score": 0,
-            "altmetric_news": 0,
-            "altmetric_social": 0,
-            "is_current_issue": true,
-            "hot_score": 16.8,
-            "field": "preventive",
-            "field_label": "예방의학",
-            "abstract": "Atherosclerosis is a chronic and progressive disease with a long preclinical (asymptomatic) period. The optimal management of patients with preclinical cardiovascular disease (CVD) includes behavioral counselling and lifestyle measures. Weight loss, regular exercise, interventions to modify sleep distubances and control of the modifiable cardiovascular risk factors (smoking, dyslipidemia, hypertension and diabetes mellitus), as well as adoption of a Mediterranean diet including 5 portions of vegetables and fruits per day, are of utmost importance in these patients. Timely initiation of appropriate medical therapy reduces cardiovascular events and disease progression. Medical therapy should be administered: (1) to lower blood pressure <130/80 mmHg in patients with hypertension (and even <120/80 mmHg if tolerated), (2) to reduce glycated hemoglobin values <7.0% (equivalent to <53 mmol/mol), and, (3) to lower low-density lipoprotein cholesterol values <70 mg/dL (1.8 mmol/L) for high-risk individuals and to <55 mg/dL (<1.4 mmol/L) for very high-risk patients. The present narrative review discusses the optimal management of individuals with preclinical cardiovascular disease (CVD), with a focus on carotid artery stenosis.",
-            "title_ko": "전임상 심혈관 질환의 최적 치료: 경동맥 협착증에 초점을 맞춘 서술적 고찰."
-          },
-          "papers": [
-            {
-              "pmid": "41866674",
-              "title": "Optimal treatment of preclinical cardiovascular disease: A narrative review with a focus on carotid artery stenosis.",
-              "journal": "Seminars in vascular surgery",
-              "impact_factor": 1.5,
-              "index_type": "미상",
-              "quartile": "미상",
-              "pubdate": "2025-11-27",
-              "authors": [
-                "Paraskevas KI",
-                "Mikhailidis DP",
-                "Myrcha P"
-              ],
-              "citation_count": 1,
-              "rcr": null,
-              "volume": "39",
-              "issue": "1",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/41866674/",
-              "altmetric_score": 0,
-              "altmetric_news": 0,
-              "altmetric_social": 0,
-              "is_current_issue": true,
-              "hot_score": 16.8,
-              "field": "preventive",
-              "field_label": "예방의학",
-              "abstract": "Atherosclerosis is a chronic and progressive disease with a long preclinical (asymptomatic) period. The optimal management of patients with preclinical cardiovascular disease (CVD) includes behavioral counselling and lifestyle measures. Weight loss, regular exercise, interventions to modify sleep distubances and control of the modifiable cardiovascular risk factors (smoking, dyslipidemia, hypertension and diabetes mellitus), as well as adoption of a Mediterranean diet including 5 portions of vegetables and fruits per day, are of utmost importance in these patients. Timely initiation of appropriate medical therapy reduces cardiovascular events and disease progression. Medical therapy should be administered: (1) to lower blood pressure <130/80 mmHg in patients with hypertension (and even <120/80 mmHg if tolerated), (2) to reduce glycated hemoglobin values <7.0% (equivalent to <53 mmol/mol), and, (3) to lower low-density lipoprotein cholesterol values <70 mg/dL (1.8 mmol/L) for high-risk individuals and to <55 mg/dL (<1.4 mmol/L) for very high-risk patients. The present narrative review discusses the optimal management of individuals with preclinical cardiovascular disease (CVD), with a focus on carotid artery stenosis.",
-              "title_ko": "전임상 심혈관 질환의 최적 치료: 경동맥 협착증에 초점을 맞춘 서술적 고찰."
-            }
-          ]
-        },
-        {
           "journal": "Journal of infection and chemotherapy : official journal of the Japan Society of Chemotherapy",
           "impact_factor": 1.5,
           "index_type": "미상",
@@ -3750,7 +3713,7 @@
             "field": "preventive",
             "field_label": "예방의학",
             "abstract": "INTRODUCTION: Data on the correlation between SARS-CoV-2 neutralizing activity and strain-specific anti-RBD IgG antibody (anti-RBD) titers is limited, particularly in the context of XBB.1.5-adapted vaccination. METHODS: A direct comparison of neutralizing activity, measured as 50 % neutralization (NT50), and anti-RBD titers, measured using an ELISA, was conducted using serum samples collected in Japan before and after XBB.1.5-adapted mRNA vaccination. RESULTS: A total of 108 serum samples from 54 patients were analyzed. A strong correlation between neutralizing activity and anti-RBD titers was observed for the wild-type (WT), XBB.1.5, JN.1, and KP.3 strains (r = 0.94, 0.87, 0.86, and 0.82, respectively). This correlation persisted when stratifying pre- and post-vaccination samples (r = 0.92, 0.83, 0.85, and 0.82, respectively, for pre-vaccination samples and r = 0.96, 0.85, 0.82, and 0.75, respectively, for post-vaccination samples). Both NT50 and anti-RBD titers significantly increased against all four tested strains after vaccination (p < 0.001), with the highest fold change observed for the XBB.1.5 variant. Additionally, variant specificity, defined as the ratio of variant to WT values, significantly increased for XBB.1.5, JN.1, and KP.3 after vaccination in NT50 and was also observed in anti-RBD titers. CONCLUSIONS: These findings, demonstrating a strong correlation with neutralizing activity not only against the WT strain but also against the XBB.1.5, JN.1, and KP.3 variants, suggest that strain-specific anti-RBD IgG antibody titers would be useful as an indicator of humoral immunity following XBB.1.5-adapted vaccination.",
-            "title_ko": "WT, XBB.1.5, JN.1 및 KP.3 균주에 대한 균주 특이적 항-RBD IgG 항체 역가는 SARS-CoV-2 XBB.1.5에 적응된 mRNA 백신 접종 후 중화 활성과 지속적으로 상관관계를 보입니다."
+            "title_ko": "WT, XBB.1.5, JN.1 및 KP.3株에 대한株 특이적 항-RBD IgG 항체 역가는 SARS-CoV-2 XBB.1.5에 적응된 mRNA 백신 접종 후 중화 활성과 일관되게 상관관계가 있습니다."
           },
           "papers": [
             {
@@ -3779,7 +3742,7 @@
               "field": "preventive",
               "field_label": "예방의학",
               "abstract": "INTRODUCTION: Data on the correlation between SARS-CoV-2 neutralizing activity and strain-specific anti-RBD IgG antibody (anti-RBD) titers is limited, particularly in the context of XBB.1.5-adapted vaccination. METHODS: A direct comparison of neutralizing activity, measured as 50 % neutralization (NT50), and anti-RBD titers, measured using an ELISA, was conducted using serum samples collected in Japan before and after XBB.1.5-adapted mRNA vaccination. RESULTS: A total of 108 serum samples from 54 patients were analyzed. A strong correlation between neutralizing activity and anti-RBD titers was observed for the wild-type (WT), XBB.1.5, JN.1, and KP.3 strains (r = 0.94, 0.87, 0.86, and 0.82, respectively). This correlation persisted when stratifying pre- and post-vaccination samples (r = 0.92, 0.83, 0.85, and 0.82, respectively, for pre-vaccination samples and r = 0.96, 0.85, 0.82, and 0.75, respectively, for post-vaccination samples). Both NT50 and anti-RBD titers significantly increased against all four tested strains after vaccination (p < 0.001), with the highest fold change observed for the XBB.1.5 variant. Additionally, variant specificity, defined as the ratio of variant to WT values, significantly increased for XBB.1.5, JN.1, and KP.3 after vaccination in NT50 and was also observed in anti-RBD titers. CONCLUSIONS: These findings, demonstrating a strong correlation with neutralizing activity not only against the WT strain but also against the XBB.1.5, JN.1, and KP.3 variants, suggest that strain-specific anti-RBD IgG antibody titers would be useful as an indicator of humoral immunity following XBB.1.5-adapted vaccination.",
-              "title_ko": "WT, XBB.1.5, JN.1 및 KP.3 균주에 대한 균주 특이적 항-RBD IgG 항체 역가는 SARS-CoV-2 XBB.1.5에 적응된 mRNA 백신 접종 후 중화 활성과 지속적으로 상관관계를 보입니다."
+              "title_ko": "WT, XBB.1.5, JN.1 및 KP.3株에 대한株 특이적 항-RBD IgG 항체 역가는 SARS-CoV-2 XBB.1.5에 적응된 mRNA 백신 접종 후 중화 활성과 일관되게 상관관계가 있습니다."
             }
           ]
         },
@@ -3815,7 +3778,7 @@
             "field": "preventive",
             "field_label": "예방의학",
             "abstract": "OBJECTIVE: This study examined the effects of a 20-minute mindfulness-based intervention (MBI) on preoperative pain, desire for pain medication, and anxiety among adults scheduled for knee or hip arthroplasty, compared with a pain psychoeducation intervention (control condition). DESIGN: A single-site, two-arm, parallel-group, randomized, controlled trial. METHODS: Participants attending a preoperative education program were randomized to either a MBI or pain psychoeducation intervention, which were matched in format (group), duration (20 minutes), and frequency (once). Pain intensity, pain unpleasantness, desire for pain medication, and anxiety symptoms were assessed using 0 to 10 numeric rating scales immediately before and after the intervention. T-tests evaluated within-group change. Intention-to-treat generalized linear mixed modeling evaluated between-group pre-post changes in outcomes. FINDINGS: Among 170 enrolled participants (86 MBI; 84 control), 160 (94%) completed all study procedures. Both MBI and control participants markedly reduced their pain-related and anxiety symptoms postintervention; however, only the MBI group reduced their pain medication desire. Generalized linear mixed modeling revealed that the MBI group, compared with the control group, markedly decreased their pain intensity (P < 0.001; d = 0.85), pain unpleasantness (P < 0.001; d = 0.64), desire for pain medication (P = 0.008; d = 0.41), and anxiety symptoms (P < 0.001; d = 0.55). On average, the MBI decreased pain intensity by over two points, and a higher percentage of participants in the MBI condition reported clinically meaningful reductions in pain intensity (ie, by at least 30%) compared with the control participants (60% versus 26%, respectively, P < 0.001). CONCLUSIONS: These findings suggest the effectiveness of a brief MBI in reducing preoperative pain and anxiety among adults preparing for knee or hip arthroplasty, underscoring the potential of MBIs to safely address pain and anxiety in surgical settings.",
-            "title_ko": "단일 세션의 짧은 마음챙김 중재가 수술 환자의 수술 전 통증, 진통제 복용 욕구 및 불안을 감소시켰다: 무작위배정 대조시험 결과."
+            "title_ko": "단일 세션의 짧은 마음챙김 중재가 수술 환자의 수술 전 통증, 진통제 복용 욕구 및 불안을 감소시켰다: 무작위배정 대조군 임상시험 결과."
           },
           "papers": [
             {
@@ -3844,7 +3807,7 @@
               "field": "preventive",
               "field_label": "예방의학",
               "abstract": "OBJECTIVE: This study examined the effects of a 20-minute mindfulness-based intervention (MBI) on preoperative pain, desire for pain medication, and anxiety among adults scheduled for knee or hip arthroplasty, compared with a pain psychoeducation intervention (control condition). DESIGN: A single-site, two-arm, parallel-group, randomized, controlled trial. METHODS: Participants attending a preoperative education program were randomized to either a MBI or pain psychoeducation intervention, which were matched in format (group), duration (20 minutes), and frequency (once). Pain intensity, pain unpleasantness, desire for pain medication, and anxiety symptoms were assessed using 0 to 10 numeric rating scales immediately before and after the intervention. T-tests evaluated within-group change. Intention-to-treat generalized linear mixed modeling evaluated between-group pre-post changes in outcomes. FINDINGS: Among 170 enrolled participants (86 MBI; 84 control), 160 (94%) completed all study procedures. Both MBI and control participants markedly reduced their pain-related and anxiety symptoms postintervention; however, only the MBI group reduced their pain medication desire. Generalized linear mixed modeling revealed that the MBI group, compared with the control group, markedly decreased their pain intensity (P < 0.001; d = 0.85), pain unpleasantness (P < 0.001; d = 0.64), desire for pain medication (P = 0.008; d = 0.41), and anxiety symptoms (P < 0.001; d = 0.55). On average, the MBI decreased pain intensity by over two points, and a higher percentage of participants in the MBI condition reported clinically meaningful reductions in pain intensity (ie, by at least 30%) compared with the control participants (60% versus 26%, respectively, P < 0.001). CONCLUSIONS: These findings suggest the effectiveness of a brief MBI in reducing preoperative pain and anxiety among adults preparing for knee or hip arthroplasty, underscoring the potential of MBIs to safely address pain and anxiety in surgical settings.",
-              "title_ko": "단일 세션의 짧은 마음챙김 중재가 수술 환자의 수술 전 통증, 진통제 복용 욕구 및 불안을 감소시켰다: 무작위배정 대조시험 결과."
+              "title_ko": "단일 세션의 짧은 마음챙김 중재가 수술 환자의 수술 전 통증, 진통제 복용 욕구 및 불안을 감소시켰다: 무작위배정 대조군 임상시험 결과."
             }
           ]
         },
@@ -3937,7 +3900,7 @@
               "field": "preventive",
               "field_label": "예방의학",
               "abstract": "BACKGROUND: Diagnosing type 2 diabetes mellitus (T2DM) in people with sickle cell disease (SCD) is complicated due to hemoglobin A variance in affected individuals. Accurate screening assessments are needed to prevent excessive morbidity and mortality. Primary care physicians need recommendations for screening and diagnosis in this unique population. PURPOSE: To synthesize recommendations regarding medical diagnosis criteria for T2DM in SCD. DATA SOURCES: PubMed, Standards of Medical Care in Diabetes, US Preventative Services Task Force, National Institute of Diabetes and Digestive and Kidney Diseases, searched on December 28, 2022. STUDY SELECTION: One reviewer searched each database to select applicable studies pertaining to \"sickle cell disease,\" \"type 2 diabetes,\" \"HbA1c,\" and \"fructosamine\" from December 28, 2022, to March 15, 2023. DATA EXTRACTION AND QUALITY ASSESSMENT: A comprehensive literature review was done to extract current data/facts and assess certainty of evidence. DATA SYNTHESIS: This review reviews 5 articles that met inclusion criteria to outline outpatient screening and diagnosis of T2DM in SCD. Based on these findings, we recommend fasting plasma glucose as the standard screening starting at age 35 based on USPSTF guidelines. We do not recommend using HbA1c, fructosamine, or glycated albumin for screening or diagnosis of T2DM in individuals with SCD; the latter entities have limited implications in their use. LIMITATIONS: There are limited studies available for diagnosis of T2DM in SCD. CONCLUSIONS: Fasting plasma glucose is the standard screening for T2DM for SCD to ensure early diagnosis and prevent worsening macro and microvascular complications from both comorbid conditions.",
-              "title_ko": "겸상적혈구증후군에서 제2형 당뇨병의 선별검사 및 진단."
+              "title_ko": "겸상적혈구증후군 환자에서 2형 당뇨병의 선별검사 및 진단."
             },
             {
               "pmid": "40118544",
@@ -4049,7 +4012,7 @@
               "field": "preventive",
               "field_label": "예방의학",
               "abstract": "INTRODUCTION: Both the prevalence of obesity and weight-related illness continue to rise. While weight loss strategies are plentiful, the weight loss is usually temporary and evidence-based strategies for sustaining weight loss remain elusive. METHODS: Weight loss outcomes of participants in a Wellness Group (WG) visit program, which provided education and support around healthful behavioral modification, led by a family physician and dietitian were analyzed. We performed a chart review to extract last recorded weights for participants. Using statistical analyses, we analyzed weight loss outcomes for all included participants in their initial group, as well as a subgroup analysis of weight loss maintenance 1 to 13 years after the initial group for those who initially lost clinically important (≥5%) weight. We examined the effects of gender, age, and starting Body Mass Index (BMI) on weight loss and weight loss maintenance outcomes. RESULTS: A total of 310 patients were included in the analysis. Participants lost a mean of 6.5% of their body weight in their first group. After an average of 6.6 years, participants had maintained an average of 3.5% weight loss. 58% of participants lost clinically important weight in their first group, and of those patients, 54% maintained clinically important weight loss. In addition, we found that participation in multiple groups was associated with improved CIWL, and that the participants with the highest starting BMIs (class III obesity) maintained more weight loss than those who were overweight. CONCLUSION: This retrospective observational study demonstrates sustainable weight loss achieved by the majority of participants who initially lost clinically important weight in a WG program.",
-              "title_ko": "가정의학 웰니스 그룹 프로그램이 장기적인 체중 감량 유지 결과에 미치는 영향."
+              "title_ko": "가정의학과 웰니스 그룹 프로그램이 장기적인 체중 감량 유지 결과에 미치는 영향."
             }
           ]
         },
@@ -4085,7 +4048,7 @@
             "field": "preventive",
             "field_label": "예방의학",
             "abstract": "Engaging adolescents and young adults in food justice initiatives is a powerful tool to address the complex landscape of food-related inequities. Youth Market is a paid 8-week summer internship in Northern Manhattan that engages 16- to 22-year olds in managing a farm stand, leading nutrition workshops, and distributing food to families experiencing food insecurity. Through a positive youth development lens, the program aims to empower interns to become ambassadors of healthy food access in their community, while supporting their personal health and career goals. Matched, de-identified, pre-post online surveys of Summer 2021 and 2022 interns and a 1-year follow-up survey of Summer 2021 interns used Likert-type scale and open-ended questions to assess program satisfaction and perceived knowledge, attitudes, and self-efficacy regarding nutrition behaviors, food insecurity resources, and community connectedness. Pre-post results (n = 35) demonstrated high program satisfaction and statistically significant increases in interns' self-reported fruit and vegetable consumption, confidence in ability to share information about healthy eating and food insecurity resources, and sense of community connectedness. Longitudinal results (n = 13) showed some significant improvements from baseline. Youth Market demonstrates a valuable model for youth engagement in paid work to promote community access to healthy food, improve knowledge and resource-sharing related to nutrition and food insecurity, and support youth career development.",
-            "title_ko": "청소년 시장: 북부 맨해튼의 식량 정의 증진을 위한 유급 여름 인턴십 평가."
+            "title_ko": "청소년 시장: 북부 맨해튼에서 식량 정의를 증진하기 위한 유급 여름 인턴십 평가."
           },
           "papers": [
             {
@@ -4114,7 +4077,7 @@
               "field": "preventive",
               "field_label": "예방의학",
               "abstract": "Engaging adolescents and young adults in food justice initiatives is a powerful tool to address the complex landscape of food-related inequities. Youth Market is a paid 8-week summer internship in Northern Manhattan that engages 16- to 22-year olds in managing a farm stand, leading nutrition workshops, and distributing food to families experiencing food insecurity. Through a positive youth development lens, the program aims to empower interns to become ambassadors of healthy food access in their community, while supporting their personal health and career goals. Matched, de-identified, pre-post online surveys of Summer 2021 and 2022 interns and a 1-year follow-up survey of Summer 2021 interns used Likert-type scale and open-ended questions to assess program satisfaction and perceived knowledge, attitudes, and self-efficacy regarding nutrition behaviors, food insecurity resources, and community connectedness. Pre-post results (n = 35) demonstrated high program satisfaction and statistically significant increases in interns' self-reported fruit and vegetable consumption, confidence in ability to share information about healthy eating and food insecurity resources, and sense of community connectedness. Longitudinal results (n = 13) showed some significant improvements from baseline. Youth Market demonstrates a valuable model for youth engagement in paid work to promote community access to healthy food, improve knowledge and resource-sharing related to nutrition and food insecurity, and support youth career development.",
-              "title_ko": "청소년 시장: 북부 맨해튼의 식량 정의 증진을 위한 유급 여름 인턴십 평가."
+              "title_ko": "청소년 시장: 북부 맨해튼에서 식량 정의를 증진하기 위한 유급 여름 인턴십 평가."
             },
             {
               "pmid": "40589218",
@@ -4178,7 +4141,7 @@
             "field": "preventive",
             "field_label": "예방의학",
             "abstract": "BACKGROUND: Our interdisciplinary team initiated a project to inform the COVID-19 vaccination programme. We developed a novel research co-creation approach to share emerging findings with government. AIMS AND OBJECTIVES: We critically assess the 'Functional Dialogue' (FD) programme for future research translation practices in time-limited policy-making scenarios. We identify what factors helped us to put the FDs together and consider their effects on all aspects of the research programme. We draw out key moments of impact, weaknesses and challenges and identify how future FDs might be enhanced. METHODS: Between January 2021 and June 2022, we conducted 14 FDs with state and federal government, exploring attendees' attitudes, beliefs, experiences, roles and observations regarding our research. FDs and research team debriefs were audio-recorded, transcribed and analysed thematically. FINDINGS: FD processes proved invaluable to the timeliness, impact and flow of our research project by creating systems that helped to bridge the evidence-policy gap. Relationships and reciprocity helped, but other professional commitments of our government partners posed challenges and produced fluctuating engagement. FDs built the capacity of the research team, strengthening communication skills and creating opportunities to contribute to pandemic policies. DISCUSSION AND CONCLUSION: We struggled to quantify the impact of FDs on policy decisions due to the ethical requirements of academic research, barriers for policy makers in isolating and/or acknowledging impact, and the collaborative nature of dialogue. Nevertheless, the structures of knowledge transfer that we foresaw as necessary to ensure impact became the central plank of the project's broader success.",
-            "title_ko": "호주의 코로나19 백신 접종 과정에서 지식 이전 촉진: 증거와 정책 간의 격차를 해소하기 위한 접근법으로서의 '기능적 대화'에 대한 고찰."
+            "title_ko": "호주의 코로나19 백신 접종 과정에서 지식 이전 촉진: 증거-정책 간 격차를 해소하기 위한 접근법으로서의 '기능적 대화' 검토."
           },
           "papers": [
             {
@@ -4207,7 +4170,7 @@
               "field": "preventive",
               "field_label": "예방의학",
               "abstract": "BACKGROUND: Our interdisciplinary team initiated a project to inform the COVID-19 vaccination programme. We developed a novel research co-creation approach to share emerging findings with government. AIMS AND OBJECTIVES: We critically assess the 'Functional Dialogue' (FD) programme for future research translation practices in time-limited policy-making scenarios. We identify what factors helped us to put the FDs together and consider their effects on all aspects of the research programme. We draw out key moments of impact, weaknesses and challenges and identify how future FDs might be enhanced. METHODS: Between January 2021 and June 2022, we conducted 14 FDs with state and federal government, exploring attendees' attitudes, beliefs, experiences, roles and observations regarding our research. FDs and research team debriefs were audio-recorded, transcribed and analysed thematically. FINDINGS: FD processes proved invaluable to the timeliness, impact and flow of our research project by creating systems that helped to bridge the evidence-policy gap. Relationships and reciprocity helped, but other professional commitments of our government partners posed challenges and produced fluctuating engagement. FDs built the capacity of the research team, strengthening communication skills and creating opportunities to contribute to pandemic policies. DISCUSSION AND CONCLUSION: We struggled to quantify the impact of FDs on policy decisions due to the ethical requirements of academic research, barriers for policy makers in isolating and/or acknowledging impact, and the collaborative nature of dialogue. Nevertheless, the structures of knowledge transfer that we foresaw as necessary to ensure impact became the central plank of the project's broader success.",
-              "title_ko": "호주의 코로나19 백신 접종 과정에서 지식 이전 촉진: 증거와 정책 간의 격차를 해소하기 위한 접근법으로서의 '기능적 대화'에 대한 고찰."
+              "title_ko": "호주의 코로나19 백신 접종 과정에서 지식 이전 촉진: 증거-정책 간 격차를 해소하기 위한 접근법으로서의 '기능적 대화' 검토."
             }
           ]
         },
@@ -4243,7 +4206,7 @@
             "field": "preventive",
             "field_label": "예방의학",
             "abstract": "BACKGROUND: Individuals with lower limb loss (LLL) require self-management education for amputation adaptation. eHealth technologies, like online platforms, widen access to educational resources. We developed an online self-management program for individuals with LLL called Self-Management for Amputee Rehabilitation using Technology (SMART). OBJECTIVE: To assess the feasibility of SMART for improving walking capacity and confidence for adults with recent LLL. STUDY DESIGN: A single-group pre-post intervention design. METHODS: We recruited community-dwelling adults, with unilateral, transtibial, or transfemoral amputation. Self-management for amputee rehabilitation using technology included 6 weekly online educational modules, for example, pain management, diet, and sock management, and 6 weekly online meetings with a peer mentor to discuss goal setting and action planning. Outcomes were assessed at baseline (before SMART) and after 6 weeks using SMART. Feasibility indicators included process (retention rate), resource (duration of training sessions), management (participant processing), and treatment issues (effect size). The primary clinical outcome was walking capacity measured using Timed Up and Go, and secondary outcome was walking confidence measured using the Ambulatory Self-Confidence Questionnaire. RESULTS: Twelve participants were recruited. The median (range) age was 56.0 (26-79) years. The retention rate was 100%. All participants were trained in less than 15 min. Four participants had an enrollment delay of more than 10 days. Two participants reported noninjurious falls because of amputation comorbidities and increased activity. The effect sizes for walking capacity and confidence were 0.51 and 0.86, respectively. CONCLUSIONS: Only small intervention and protocol refinements are required to SMART. These will be incorporated for a future multisite randomized controlled trial. SMART is an eHealth education program for people with LLL. Self-management for amputee rehabilitation using technology with peer support is a feasible intervention. However, adjustments to the study protocol and intervention safety are necessary before proceeding with the evaluation of SMART in a larger study.",
-            "title_ko": "하지를 잃은 개인의 보행 및 자신감 향상을 위해 기술 및 동료 지원을 활용한 절단 환자 재활을 위한 자기 관리의 타당성."
+            "title_ko": "하지를 상실한 개인의 보행 및 자신감 향상을 위해 기술 및 동료 지원을 활용한 절단 환자 재활을 위한 자기 관리의 타당성."
           },
           "papers": [
             {
@@ -4272,7 +4235,7 @@
               "field": "preventive",
               "field_label": "예방의학",
               "abstract": "BACKGROUND: Individuals with lower limb loss (LLL) require self-management education for amputation adaptation. eHealth technologies, like online platforms, widen access to educational resources. We developed an online self-management program for individuals with LLL called Self-Management for Amputee Rehabilitation using Technology (SMART). OBJECTIVE: To assess the feasibility of SMART for improving walking capacity and confidence for adults with recent LLL. STUDY DESIGN: A single-group pre-post intervention design. METHODS: We recruited community-dwelling adults, with unilateral, transtibial, or transfemoral amputation. Self-management for amputee rehabilitation using technology included 6 weekly online educational modules, for example, pain management, diet, and sock management, and 6 weekly online meetings with a peer mentor to discuss goal setting and action planning. Outcomes were assessed at baseline (before SMART) and after 6 weeks using SMART. Feasibility indicators included process (retention rate), resource (duration of training sessions), management (participant processing), and treatment issues (effect size). The primary clinical outcome was walking capacity measured using Timed Up and Go, and secondary outcome was walking confidence measured using the Ambulatory Self-Confidence Questionnaire. RESULTS: Twelve participants were recruited. The median (range) age was 56.0 (26-79) years. The retention rate was 100%. All participants were trained in less than 15 min. Four participants had an enrollment delay of more than 10 days. Two participants reported noninjurious falls because of amputation comorbidities and increased activity. The effect sizes for walking capacity and confidence were 0.51 and 0.86, respectively. CONCLUSIONS: Only small intervention and protocol refinements are required to SMART. These will be incorporated for a future multisite randomized controlled trial. SMART is an eHealth education program for people with LLL. Self-management for amputee rehabilitation using technology with peer support is a feasible intervention. However, adjustments to the study protocol and intervention safety are necessary before proceeding with the evaluation of SMART in a larger study.",
-              "title_ko": "하지를 잃은 개인의 보행 및 자신감 향상을 위해 기술 및 동료 지원을 활용한 절단 환자 재활을 위한 자기 관리의 타당성."
+              "title_ko": "하지를 상실한 개인의 보행 및 자신감 향상을 위해 기술 및 동료 지원을 활용한 절단 환자 재활을 위한 자기 관리의 타당성."
             }
           ]
         },
@@ -4533,6 +4496,71 @@
               "title_ko": "의약품 관련 정보에 대한 접근성 향상에 있어 전자 설명서의 역할."
             }
           ]
+        },
+        {
+          "journal": "Lymphology",
+          "impact_factor": 1.5,
+          "index_type": "미상",
+          "quartile": "미상",
+          "paper_count": 1,
+          "top_paper": {
+            "pmid": "39874052",
+            "title": "Investigation of the Effect of Lymphedema Self-Care Patient School on Functionality, Quality of Life, Lymphedema Volume, and Body Value in Patients with Lower Extremity Lymphedema: A Quasi-Experimental Study.",
+            "journal": "Lymphology",
+            "impact_factor": 1.5,
+            "index_type": "미상",
+            "quartile": "미상",
+            "pubdate": "2024-01-01",
+            "authors": [
+              "Eyigor S",
+              "Deveci Kocbilek Z",
+              "Ozgur Inbat M"
+            ],
+            "citation_count": 1,
+            "rcr": 0.493223016801232,
+            "volume": "57",
+            "issue": "3",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/39874052/",
+            "altmetric_score": 0,
+            "altmetric_news": 0,
+            "altmetric_social": 0,
+            "is_current_issue": true,
+            "hot_score": 16.8,
+            "field": "preventive",
+            "field_label": "예방의학",
+            "abstract": "This study examined the effect of lymphedema self-care patient school education on patient functionality, quality of life, body value, and lymphedema volume in patients with lower extremity lymphedema. The study utilized a single-group quasi-experimental design. The study sample included 21 patients with primary and secondary lower extremity lymphedema. A multidisciplinary team created a face-to-face lymphedema self-care patient education program that lasted three weeks with four hours each week to enhance lymphedema self-care management. Data collected from participants prior to the program and then at third and sixth months via Lower Extremity Functional Scale (LEFS), Lymphedema Functionality, Disability and Quality of Life Scale in Lower Extremity Lymphedema (LYMPH-ICF-LL), Body Value Scale, and extremity volumes. The average age of the patients was 54.85±11.99 years and two-thirds had secondary lymphedema. A statistically significant difference was found in the mean scores of LEFS (p<0.001), LYMPH-ICF-LL total (p= 0.006) in the 3rd and 6th months after the completion of the program, and in the lymphedema volume change (p= 0.031) in the 6th month. It was found that the lymphedema self-care patient school improved functionality and quality of life in patients with lower extremity lymphedema and decreased lymphedema volume. This lymphedema self-care patient education pro-gram is a safe and effective educational method for self-care management in individuals with lower extremity lymphedema.",
+            "title_ko": "하지 림프부종 환자를 대상으로 한 림프부종 자가 관리 환자 교육이 기능성, 삶의 질, 림프부종 부피 및 신체 가치에 미치는 영향에 대한 조사: 준실험 연구."
+          },
+          "papers": [
+            {
+              "pmid": "39874052",
+              "title": "Investigation of the Effect of Lymphedema Self-Care Patient School on Functionality, Quality of Life, Lymphedema Volume, and Body Value in Patients with Lower Extremity Lymphedema: A Quasi-Experimental Study.",
+              "journal": "Lymphology",
+              "impact_factor": 1.5,
+              "index_type": "미상",
+              "quartile": "미상",
+              "pubdate": "2024-01-01",
+              "authors": [
+                "Eyigor S",
+                "Deveci Kocbilek Z",
+                "Ozgur Inbat M"
+              ],
+              "citation_count": 1,
+              "rcr": 0.493223016801232,
+              "volume": "57",
+              "issue": "3",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/39874052/",
+              "altmetric_score": 0,
+              "altmetric_news": 0,
+              "altmetric_social": 0,
+              "is_current_issue": true,
+              "hot_score": 16.8,
+              "field": "preventive",
+              "field_label": "예방의학",
+              "abstract": "This study examined the effect of lymphedema self-care patient school education on patient functionality, quality of life, body value, and lymphedema volume in patients with lower extremity lymphedema. The study utilized a single-group quasi-experimental design. The study sample included 21 patients with primary and secondary lower extremity lymphedema. A multidisciplinary team created a face-to-face lymphedema self-care patient education program that lasted three weeks with four hours each week to enhance lymphedema self-care management. Data collected from participants prior to the program and then at third and sixth months via Lower Extremity Functional Scale (LEFS), Lymphedema Functionality, Disability and Quality of Life Scale in Lower Extremity Lymphedema (LYMPH-ICF-LL), Body Value Scale, and extremity volumes. The average age of the patients was 54.85±11.99 years and two-thirds had secondary lymphedema. A statistically significant difference was found in the mean scores of LEFS (p<0.001), LYMPH-ICF-LL total (p= 0.006) in the 3rd and 6th months after the completion of the program, and in the lymphedema volume change (p= 0.031) in the 6th month. It was found that the lymphedema self-care patient school improved functionality and quality of life in patients with lower extremity lymphedema and decreased lymphedema volume. This lymphedema self-care patient education pro-gram is a safe and effective educational method for self-care management in individuals with lower extremity lymphedema.",
+              "title_ko": "하지 림프부종 환자를 대상으로 한 림프부종 자가 관리 환자 교육이 기능성, 삶의 질, 림프부종 부피 및 신체 가치에 미치는 영향에 대한 조사: 준실험 연구."
+            }
+          ]
         }
       ],
       "hot_topics": [
@@ -4578,6 +4606,15 @@
           "pmids": [
             "41755708",
             "40053326"
+          ]
+        },
+        {
+          "phrase": "quality life",
+          "score": 40.3,
+          "paper_count": 2,
+          "pmids": [
+            "39959334",
+            "39874052"
           ]
         },
         {
@@ -4638,21 +4675,12 @@
           ]
         },
         {
-          "phrase": "cervical cancer",
-          "score": 30.3,
+          "phrase": "mediterranean diet",
+          "score": 30.9,
           "paper_count": 2,
           "pmids": [
-            "40469994",
-            "41720510"
-          ]
-        },
-        {
-          "phrase": "rural india",
-          "score": 29.2,
-          "paper_count": 2,
-          "pmids": [
-            "39944562",
-            "40469994"
+            "42048757",
+            "42090744"
           ]
         }
       ],
@@ -4665,21 +4693,21 @@
         ],
         "series": [
           {
-            "phrase": "cancer screening",
-            "scores": [
-              0.0,
-              31.4,
-              26.8,
-              46.8
-            ]
-          },
-          {
             "phrase": "type diabetes",
             "scores": [
               0.0,
               60.6,
               13.5,
-              25.7
+              35.7
+            ]
+          },
+          {
+            "phrase": "cancer screening",
+            "scores": [
+              0.0,
+              31.4,
+              26.8,
+              16.8
             ]
           },
           {
@@ -4701,12 +4729,12 @@
             ]
           },
           {
-            "phrase": "cervical cancer",
+            "phrase": "hpv vaccination",
             "scores": [
               0.0,
-              6.8,
-              30.3,
-              30.0
+              0.0,
+              26.4,
+              36.8
             ]
           },
           {
@@ -4823,7 +4851,7 @@
             "field": "emergency",
             "field_label": "응급의학",
             "abstract": "OBJECTIVE: This study aims to compare 90-day postoperative complications, readmissions, and emergency department (ED) visits between robotic-assisted (RA-THA) and manual (M-THA) total hip arthroplasty. METHODS: A retrospective review of a multi-hospital database identified primary total hip arthroplasty patients between January 2016 and December 2021. The cohorts were 1-to-1 matched based on patient sex, age, and body mass index resulting in 8033 patients in each cohort (N = 16,066). Odds of 90-day revisits, readmission with >23 hours of observation, and ED visits were compared between cohorts. Complications reported during revisits and readmission were classified according to the Clinical Classification Software schema, using the International Classification of Diseases, 10th Revision codes, and compared using mixed-effect models. RESULTS: This study found an overall 90-day revisit rate of 8.3%. RA-THA was associated with significantly reduced odds of revisit within 90 days [odds ratio (OR): 0.71, 95% CI: 0.58-0.89, P = 0.002] and readmissions with >23 hours of observation (OR: 0.61, 95% CI: 0.48-0.77, P < 0.001). RA-THA patients had fewer readmissions with >23 hours of observation due to dislocations (RA-THA: 0.09%; M-THA: 0.39%, P < 0.001), surgical site infections (RA-THA: 0.04%; M-THA: 0.20%, P = 0.004), and wound infections/cellulitis (RA-THA: 0.01%; M-THA: 0.11%, P = 0.021). No difference in ED visits was observed between cohorts (OR: 0.92, 95% CI: 0.77-1.09, P = 0.3). RA-THA patients had more ED visits for dyspnea without pulmonary embolism (RA-THA: 0.20%; M-THA: 0.06%, P = 0.03). CONCLUSION: RA-THA showed significantly lower odds of overall 90-day revisit rates and readmissions with >23 hours of observation, most notably for readmissions due to dislocation and surgical site infection/wound infections. There was no significant difference in the odds of ED visits between cohorts.",
-            "title_ko": "로봇 보조 및 수동 전(全)고관절 성형술의 수술 후 합병증 및 재입원율: 대규모 다기관 연구."
+            "title_ko": "로봇 보조 및 수동 전관절 치환술에서의 수술 후 합병증 및 재입원율: 대규모 다기관 연구."
           },
           "papers": [
             {
@@ -4852,7 +4880,7 @@
               "field": "emergency",
               "field_label": "응급의학",
               "abstract": "OBJECTIVE: This study aims to compare 90-day postoperative complications, readmissions, and emergency department (ED) visits between robotic-assisted (RA-THA) and manual (M-THA) total hip arthroplasty. METHODS: A retrospective review of a multi-hospital database identified primary total hip arthroplasty patients between January 2016 and December 2021. The cohorts were 1-to-1 matched based on patient sex, age, and body mass index resulting in 8033 patients in each cohort (N = 16,066). Odds of 90-day revisits, readmission with >23 hours of observation, and ED visits were compared between cohorts. Complications reported during revisits and readmission were classified according to the Clinical Classification Software schema, using the International Classification of Diseases, 10th Revision codes, and compared using mixed-effect models. RESULTS: This study found an overall 90-day revisit rate of 8.3%. RA-THA was associated with significantly reduced odds of revisit within 90 days [odds ratio (OR): 0.71, 95% CI: 0.58-0.89, P = 0.002] and readmissions with >23 hours of observation (OR: 0.61, 95% CI: 0.48-0.77, P < 0.001). RA-THA patients had fewer readmissions with >23 hours of observation due to dislocations (RA-THA: 0.09%; M-THA: 0.39%, P < 0.001), surgical site infections (RA-THA: 0.04%; M-THA: 0.20%, P = 0.004), and wound infections/cellulitis (RA-THA: 0.01%; M-THA: 0.11%, P = 0.021). No difference in ED visits was observed between cohorts (OR: 0.92, 95% CI: 0.77-1.09, P = 0.3). RA-THA patients had more ED visits for dyspnea without pulmonary embolism (RA-THA: 0.20%; M-THA: 0.06%, P = 0.03). CONCLUSION: RA-THA showed significantly lower odds of overall 90-day revisit rates and readmissions with >23 hours of observation, most notably for readmissions due to dislocation and surgical site infection/wound infections. There was no significant difference in the odds of ED visits between cohorts.",
-              "title_ko": "로봇 보조 및 수동 전(全)고관절 성형술의 수술 후 합병증 및 재입원율: 대규모 다기관 연구."
+              "title_ko": "로봇 보조 및 수동 전관절 치환술에서의 수술 후 합병증 및 재입원율: 대규모 다기관 연구."
             }
           ]
         },
@@ -5018,7 +5046,7 @@
             "field": "emergency",
             "field_label": "응급의학",
             "abstract": "During the past decade, there has been an increased research focus on the prevalence, nature, and impact of newly acquired critical illness dysphagia. Disordered function can impact the safety and efficiency across all stages of the swallow mechanism, with detrimental impacts on patients' body systems, function, and participation. Accurate assessment of swallow function is key to informed diagnosis and enhances intervention planning. We discuss the current evidence base around dysphagia pathophysiology with a detailed discussion considering the modes of ventilation commonly received in intensive care units. Assessment and management across critical illness are evaluated and future research efforts are presented.",
-            "title_ko": "중환자 치료에서 영양의 복잡성 탐구: 연하 기능 및 재활에 초점."
+            "title_ko": "중환자 치료에서 영양의 복잡성 탐색: 삼킴 기능 및 재활에 초점."
           },
           "papers": [
             {
@@ -5047,7 +5075,7 @@
               "field": "emergency",
               "field_label": "응급의학",
               "abstract": "During the past decade, there has been an increased research focus on the prevalence, nature, and impact of newly acquired critical illness dysphagia. Disordered function can impact the safety and efficiency across all stages of the swallow mechanism, with detrimental impacts on patients' body systems, function, and participation. Accurate assessment of swallow function is key to informed diagnosis and enhances intervention planning. We discuss the current evidence base around dysphagia pathophysiology with a detailed discussion considering the modes of ventilation commonly received in intensive care units. Assessment and management across critical illness are evaluated and future research efforts are presented.",
-              "title_ko": "중환자 치료에서 영양의 복잡성 탐구: 연하 기능 및 재활에 초점."
+              "title_ko": "중환자 치료에서 영양의 복잡성 탐색: 삼킴 기능 및 재활에 초점."
             }
           ]
         },
@@ -5205,7 +5233,7 @@
               "field": "emergency",
               "field_label": "응급의학",
               "abstract": "Oral hygiene care is important for ventilator-associated pneumonia prevention. However, the optimal oral hygiene care approach remains unclear. A network meta-analysis was conducted to compare the efficacy of various oral hygiene care methods for ventilator-associated pneumonia prevention in critically ill patients, and the methods were ranked. A literature search of three representative databases was conducted. We only analyzed parallel randomized controlled trials conducted to analyze the use antiseptics or toothbrushes in oral hygiene care for adult patients undergoing invasive mechanical ventilation in the intensive care unit. The outcome measure was the incidence of ventilator-associated pneumonia. Bias risk was assessed using the Cochrane Risk of Bias 2 tool, and the confidence in the evidence was evaluated using the CINeMA approach. Statistical analyses were performed using R 4.2.0., GeMTC package, and JAGS 4.3.1. The review protocol was registered in PROSPERO (registration number: CRD42022333270). Thirteen randomized controlled trials were included in the qualitative synthesis and twelve randomized controlled trials (2395 participants) were included in the network meta-analysis. Over 50% of the included studies were conducted in medical-surgical intensive care units. Ten treatments were analyzed and 12 pairwise comparisons were conducted in the 12 included studies. Analysis using surface under the cumulative ranking curves revealed that brushing combined with chlorhexidine 0.12% was most likely the optimal intervention for preventing ventilator-associated pneumonia (88.4%), followed by the use of chlorhexidine 0.12% alone (76.1%), and brushing alone (73.2%). Oral hygiene care methods that included brushing had high rankings. In conclusion, brushing combined with chlorhexidine 0.12% may be an effective intervention for preventing ventilator-associated pneumonia in critically ill patients. Furthermore, brushing may be the optimal oral hygiene care method for preventing ventilator-associated pneumonia in the intensive care unit. Further research is needed to verify these findings as the CINeMA confidence rate was low for each comparison.",
-              "title_ko": "중환자에서 인공호흡기 관련 폐렴 예방을 위한 다양한 구강 위생 관리 방법의 비교 효능: 체계적 문헌고찰 및 네트워크 메타분석."
+              "title_ko": "중환자에서 인공호흡기 관련 폐렴 예방을 위한 다양한 구강 위생 관리 방법의 비교 효능: 체계적 고찰 및 네트워크 메타분석."
             },
             {
               "pmid": "39729465",
@@ -5233,7 +5261,7 @@
               "field": "emergency",
               "field_label": "응급의학",
               "abstract": "BACKGROUND: Dyspnoea is one of the emergency department's (ED) most common and deadly chief complaints, but frequently misdiagnosed and mistreated. We aimed to design a diagnostic decision support which classifies dyspnoeic ED visits into acute heart failure (AHF), exacerbation of chronic obstructive pulmonary disease (eCOPD), pneumonia and \"other diagnoses\" by using deep learning and complete, unselected data from an entire regional health care system. METHODS: In this cross-sectional study, we included all dyspnoeic ED visits of patients ≥ 18 years of age at the two EDs in the region of Halland, Sweden, 07/01/2017-12/31/2019. Data from the complete regional health care system within five years prior to the ED visit were analysed. Gold standard diagnoses were defined as the subsequent in-hospital or ED discharge notes, and a subsample was manually reviewed by emergency medicine experts. A novel deep learning model, the clinical attention-based recurrent encoder network (CareNet), was developed. Cohort performance was compared to a simpler CatBoost model. A list of all variables and their importance for diagnosis was created. For each unique patient visit, the model selected the most important variables, analysed them and presented them to the clinician interpretably by taking event time and clinical context into account. AUROC, sensitivity and specificity were compared. FINDINGS: The most prevalent diagnoses among the 10,315 dyspnoeic ED visits were AHF (15.5%), eCOPD (14.0%) and pneumonia (13.3%). Median number of unique events, i.e., registered clinical data with time stamps, per ED visit was 1,095 (IQR 459-2,310). CareNet median AUROC was 87.0%, substantially higher than the CatBoost model´s (81.4%). CareNet median sensitivity for AHF, eCOPD, and pneumonia was 74.5%, 92.6%, and 54.1%, respectively, with a specificity set above 75.0, slightly inferior to that of the CatBoost baseline model. The model assembled a list of 1,596 variables by importance for diagnosis, on top were prior diagnoses of heart failure or COPD, daily smoking, atrial fibrillation/flutter, life management difficulties and maternity care. Each patient visit received their own unique attention plot, graphically displaying important clinical events for the diagnosis. INTERPRETATION: We designed a novel interpretable deep learning model for diagnosis in emergency department dyspnoea patients by analysing unselected data from a complete regional health care system.",
-              "title_ko": "전체 의료 시스템의 완전한 데이터를 기반으로 한 응급실 호흡곤란 환자 진단을 위한 새로운 해석 가능한 딥 러닝 모델."
+              "title_ko": "전체 의료 시스템의 완전한 데이터를 기반으로 한 응급실 호흡곤란 환자의 진단을 위한 새로운 해석 가능한 딥러닝 모델."
             },
             {
               "pmid": "39636963",
@@ -5373,7 +5401,7 @@
               "field": "emergency",
               "field_label": "응급의학",
               "abstract": "INTRODUCTION/HYPOTHESIS: The chances of survival from sepsis are improved by early diagnosis and treatment. In the prospective SENSOR study, RNA biomarkers of innate immune neutrophil activation were examined in emergency department (ED) patients triggering an automated sepsis alert. We hypothesized that higher levels of blood RNA biomarkers related to neutrophil activation would be associated with progression to more severe forms of sepsis. METHODS: Adult patients in the ED triggering a sepsis alert were consented, enrolled, and study samples were obtained during the ED visit. Additionally, study samples were collected from a convenience sample of 16 adult non-ED controls and 8 other adults with self-described infectious illnesses. Blood samples were drawn in RNA preservative (Tempus) and whole blood RNA was analyzed by droplet digital PCR (ddPCR) for RNA transcripts related to neutrophil response to infection by bacterial (DEFA1; ALPL, IL8RB/CXCR2), and viral (IFI27, RSAD2) pathogens. Bacterial burden in blood was quantitated by ddPCR of 16S ribosomal DNA. Separately, neutrophil elastase was measured in immunomagnetically captured CD66b+ neutrophils by a novel point-of-care device. RESULTS: Patients were grouped using both 'Sepsis-2' SIRS criteria, adjudicated by independent physicians, and 'Sepsis-3' criteria which uses a qSOFA score for categorizing the severity of illness. Across 72 enrolled sepsis alert patients, 62.5% showed positive RNA biomarkers for bacterial infection, and 8.3% were positive for viral markers, with only 2 cases that showed only a viral signal. Septic patients showed a 4-fold increase in RNA markers vs. those without infection (p < 0.05). However, no significant differences were observed in RNA levels between those with sepsis vs those with more severe forms of sepsis. Likewise, RNA biomarker levels did not discriminate patients with qSOFA≥2 from qSOFA = 1. In a subset of patients with zero and three hour blood samples (n = 27) it was found that changes in RNA levels (up or down), or neutrophil elastase activity, was strongly associated with progression to more severe forms of sepsis or a qSOFA score of ≥2. CONCLUSIONS: Patients progressing to more severe forms of sepsis did not have higher absolute levels of neutrophil activation RNA biomarkers (or higher bacterial burden in blood) compared to patients with sepsis. However, a change in RNA biomarkers or elastase between zero and three hours was strongly indicative of progression to more severe forms of sepsis.",
-              "title_ko": "의심되는 패혈증에서 숙주 면역 활성화를 검출하기 위한 혈액 RNA 바이오마커 및 현장 진단용 엘라스타제 검사: 궤적이 중요합니다."
+              "title_ko": "의심되는 패혈증에서 숙주 면역 활성화를 검출하기 위한 혈액 RNA 바이오마커 및 현장 진단용 엘라스타아제 검사: 궤적이 중요함."
             }
           ]
         },
@@ -5409,7 +5437,7 @@
             "field": "emergency",
             "field_label": "응급의학",
             "abstract": "OBJECTIVE: To examine trends in children's emergency department (ED) visits' payer mix before and after Texas initiated Medicaid unwinding. STUDY SETTING AND DESIGN: We conducted a retrospective, secondary data analysis of children's ED visits in Texas, aggregated at the facility level. We analyzed trends in ED visit payer mix before and after Texas initiated unwinding and employed an interrupted time series design to examine the association between unwinding and ED visit payer mix. DATA SOURCES AND ANALYTIC SAMPLE: We used data from the Texas Emergency Department Public Use Data Files encompassing all children's ED visits between 2021 Q2 and 2024 Q2 and included 7.6 million visits from 472 facilities. PRINCIPAL FINDINGS: Average quarterly visits per facility increased from 1225.2 at baseline to 1254.8 visits during the post-unwinding period (p < 0.001). The average share of quarterly Medicaid visits declined by 11.7% (-7.2 pp.; from 64.3% to 57.1%, p < 0.001) in the post- relative to the pre-unwinding period. This decline was split between a 12.5% increase in the average share of quarterly ED visits attributed to commercial plans (3.4 pp.; from 26.0% to 29.4%, p < 0.001) and a 45.2% increase in the share attributed to uninsured children (3.8 pp.; from 6.9% to 10.7%, p < 0.001). CONCLUSIONS: Unwinding was associated with decreased ED visit share for Medicaid among children, while commercial and uninsured ED visit shares increased.",
-            "title_ko": "텍사스주에서 메디케이드 종료 후 아동 응급실 환자 중 보험사 구성의 변화."
+            "title_ko": "텍사스주에서 메디케이드 종료 후 아동 응급실 환자들의 보험사 구성 변화."
           },
           "papers": [
             {
@@ -5438,7 +5466,7 @@
               "field": "emergency",
               "field_label": "응급의학",
               "abstract": "OBJECTIVE: To examine trends in children's emergency department (ED) visits' payer mix before and after Texas initiated Medicaid unwinding. STUDY SETTING AND DESIGN: We conducted a retrospective, secondary data analysis of children's ED visits in Texas, aggregated at the facility level. We analyzed trends in ED visit payer mix before and after Texas initiated unwinding and employed an interrupted time series design to examine the association between unwinding and ED visit payer mix. DATA SOURCES AND ANALYTIC SAMPLE: We used data from the Texas Emergency Department Public Use Data Files encompassing all children's ED visits between 2021 Q2 and 2024 Q2 and included 7.6 million visits from 472 facilities. PRINCIPAL FINDINGS: Average quarterly visits per facility increased from 1225.2 at baseline to 1254.8 visits during the post-unwinding period (p < 0.001). The average share of quarterly Medicaid visits declined by 11.7% (-7.2 pp.; from 64.3% to 57.1%, p < 0.001) in the post- relative to the pre-unwinding period. This decline was split between a 12.5% increase in the average share of quarterly ED visits attributed to commercial plans (3.4 pp.; from 26.0% to 29.4%, p < 0.001) and a 45.2% increase in the share attributed to uninsured children (3.8 pp.; from 6.9% to 10.7%, p < 0.001). CONCLUSIONS: Unwinding was associated with decreased ED visit share for Medicaid among children, while commercial and uninsured ED visit shares increased.",
-              "title_ko": "텍사스주에서 메디케이드 종료 후 아동 응급실 환자 중 보험사 구성의 변화."
+              "title_ko": "텍사스주에서 메디케이드 종료 후 아동 응급실 환자들의 보험사 구성 변화."
             }
           ]
         },
@@ -5474,7 +5502,7 @@
             "field": "emergency",
             "field_label": "응급의학",
             "abstract": "OBJECTIVE: Continuity of primary care reduces costs and hospitalizations over 1-year periods, but its long-term effects remain unclear, a key concern for value-based payment. We examined associations between physician-level continuity and health care expenditures/utilization across single- and multi-year measurement periods. DESIGN: Retrospective cohort study using 2011 to 2017 Medicare Fee-for-Service (FFS) claims. We constructed physician-level continuity measures over 1- to 5-year lookback periods. Generalized linear models estimated associations with total Medicare Part A & B expenditures, and logit models assessed hospitalization and emergency department (ED) visits, adjusting for patient and physician characteristics. SETTING & PARTICIPANTS: Nationally representative sample of 4,940 primary care practices, including 1.1 to 2.5 million Medicare FFS beneficiaries seen by 6,758-14,949 physicians. RESULTS: Beneficiaries in the highest continuity quintile had 7.4%-10.4% lower total expenditures than those in the lowest quintile, with the greatest difference in the 1-year lookback. Hospitalization and ED visit odds were 5.5%-8.6% and 4.9%-6.3% lower, respectively, for high-continuity physicians. Effects attenuated slightly with longer lookbacks. CONCLUSION: Physician continuity is consistently associated with lower costs, hospitalizations, and ED visits across lookback periods. Given this stability and the complexity of multi-year claims measurement, a 1-year assessment may be sufficient for physician continuity evaluation and value-based payment programs.",
-            "title_ko": "일차진료의 지속성은 비용 및 입원율 감소와 연관된 일관된 지표입니다."
+            "title_ko": "일차진료의 연속성은 비용 및 입원율 감소와 연관된 일관된 지표입니다."
           },
           "papers": [
             {
@@ -5503,7 +5531,7 @@
               "field": "emergency",
               "field_label": "응급의학",
               "abstract": "OBJECTIVE: Continuity of primary care reduces costs and hospitalizations over 1-year periods, but its long-term effects remain unclear, a key concern for value-based payment. We examined associations between physician-level continuity and health care expenditures/utilization across single- and multi-year measurement periods. DESIGN: Retrospective cohort study using 2011 to 2017 Medicare Fee-for-Service (FFS) claims. We constructed physician-level continuity measures over 1- to 5-year lookback periods. Generalized linear models estimated associations with total Medicare Part A & B expenditures, and logit models assessed hospitalization and emergency department (ED) visits, adjusting for patient and physician characteristics. SETTING & PARTICIPANTS: Nationally representative sample of 4,940 primary care practices, including 1.1 to 2.5 million Medicare FFS beneficiaries seen by 6,758-14,949 physicians. RESULTS: Beneficiaries in the highest continuity quintile had 7.4%-10.4% lower total expenditures than those in the lowest quintile, with the greatest difference in the 1-year lookback. Hospitalization and ED visit odds were 5.5%-8.6% and 4.9%-6.3% lower, respectively, for high-continuity physicians. Effects attenuated slightly with longer lookbacks. CONCLUSION: Physician continuity is consistently associated with lower costs, hospitalizations, and ED visits across lookback periods. Given this stability and the complexity of multi-year claims measurement, a 1-year assessment may be sufficient for physician continuity evaluation and value-based payment programs.",
-              "title_ko": "일차진료의 지속성은 비용 및 입원율 감소와 연관된 일관된 지표입니다."
+              "title_ko": "일차진료의 연속성은 비용 및 입원율 감소와 연관된 일관된 지표입니다."
             }
           ]
         },
@@ -5512,7 +5540,7 @@
           "impact_factor": 1.5,
           "index_type": "미상",
           "quartile": "미상",
-          "paper_count": 43,
+          "paper_count": 44,
           "top_paper": {
             "pmid": "39947973",
             "title": "Promethazine: A Review of Therapeutic Uses and Toxicity.",
@@ -5596,7 +5624,7 @@
               "field": "emergency",
               "field_label": "응급의학",
               "abstract": "BACKGROUND: Skin and soft tissue infections (SSTIs) including cellulitis and abscess are common conditions managed in the emergency department, but differentiating these on history and physical examination alone can be challenging. Point-of-care ultrasound (POCUS) has been proposed as a tool to distinguish abscess from cellulitis. CLINICAL QUESTION: What is the utility of POCUS for diagnosing soft tissue abscess vs. cellulitis? EVIDENCE REVIEW: Studies retrieved included four systematic reviews and meta-analyses evaluating the use of POCUS for diagnosing abscess. These studies provide estimates of the potential utility of POCUS in differentiating abscess and cellulitis. CONCLUSION: Based upon the available literature, POCUS can reliably differentiate abscess and cellulitis and assist with management of SSTIs.",
-              "title_ko": "연부조직 농양 대 봉와직염 진단에 있어 현장 초음파 검사의 유용성은 무엇인가?"
+              "title_ko": "연부조직 농양 대 봉와직염 진단에 있어 환자 진료 시점 초음파 검사의 유용성은 무엇인가?"
             },
             {
               "pmid": "40274496",
@@ -5652,7 +5680,7 @@
               "field": "emergency",
               "field_label": "응급의학",
               "abstract": "BACKGROUND: Auricular hematoma is a condition commonly seen in the emergency department among patients presenting with trauma to the ear. It may result in several complications such as perichondritis and cauliflower ear if not managed appropriately. OBJECTIVE: This narrative review provides an evidence-based summary of the evaluation and management of auricular hematoma. DISCUSSION: Auricular hematoma is most commonly associated with shearing or blunt trauma to the ear, resulting in formation of a hematoma within the subperichondrial space. This hematoma obstructs the nutrient supply from the perichondrium to the avascular cartilage. Without a nutrient supply, the ear is at risk for infection, necrosis, and fibrocartilaginous deposition causing cauliflower ear. If a fluctuant hematoma is present within the cartilaginous auricle within 7 days of injury, evacuation should be offered. Prior to the procedure, analgesia should be performed using an auricular block. The hematoma can then be evacuated via needle aspiration or incision and drainage followed by a bolster compression dressing to prevent reaccumulation of blood within this potential space. Despite limited data, 7-10 days of antibiotics are currently recommended with coverage for Pseudomonas aeruginosa (eg, fluoroquinolones in adults, amoxicillin-clavulanate in children). This may mitigate the risk of perichondritis. Patients should be reevaluated at 24-48 hours and abstain from contact sports for at least 2 weeks. CONCLUSION: Emergency clinicians must be knowledgeable regarding the evaluation and management of auricular hematoma, including the various drainage techniques.",
-              "title_ko": "이개혈종 관리: 응급의학 서술적 고찰."
+              "title_ko": ""
             },
             {
               "pmid": "40288939",
@@ -5680,7 +5708,7 @@
               "field": "emergency",
               "field_label": "응급의학",
               "abstract": "BACKGROUND: Contemporary evaluation of chest pain (CP) utilizes a high-sensitivity troponin (hsTn) accelerated diagnostic protocol (ADP). Whether the addition of a bioclinical risk score such as the HEART score improves performance of a hsTn ADP is not clear. OBJECTIVES: To determine the effect of an automated best practice alert (BPA) that guided capture of the HEART score on emergency department (ED) discharge decision-making and outcomes when added to a hsTn ADP. METHODS: Retrospective cohort study of patients evaluated for CP in a 6 month period before and 10-month period following launch of a HEART score BPA in May 2022. Discharge percentages and 30-day major adverse cardiac event (MACE) rates were determined for the pre- vs. post-BPA cohort and stratified by both peak hsTnT value and HEART score. RESULTS: Compared to the pre-BPA cohort (n = 4438), post-BPA (n = 6794) with a completed HEART score had a higher rate of ED discharge (5.5% vs. 3.6%, p < 0.001). Patients with low (≤3) risk HEART scores had significantly lower (1.6% vs. 0.6%, p = 0.001) and patients with high-risk scores had significantly higher (1.6% vs. 6.6%, p < 0.001) rates of 30-day MACE vs. pre-BPA. The relationship of HEART score to MACE had the most discriminatory power in patients with peak hsTnT 12/51 ng/dL (3.9% vs. 6.7%, p < 0.028). CONCLUSION: The addition of a HEART score BPA to a hsTnT ADP was associated with a higher rate of discharge and improved risk stratification of 30-day MACE among patients for whom a discharge disposition was made, particularly among patients with moderate elevations (12-51 ng/dL) of hsTnT.",
-              "title_ko": "흉통을 호소하며 응급실을 내원한 환자의 퇴원 결정 및 결과에 대한 HEART 점수 모범 사례 경고의 효과."
+              "title_ko": ""
             },
             {
               "pmid": "39939187",
@@ -5707,7 +5735,7 @@
               "field": "emergency",
               "field_label": "응급의학",
               "abstract": "BACKGROUND: Rib fractures represent a common injury after blunt chest wall trauma with known complications including pneumothorax, hemothorax, pulmonary contusion, and pneumonia. This case report describes an emergency department patient with acute decompensation from aortic laceration as a rare complication of rib fractures. There are rare documented cases of this complication occurring in admitted patients with rib fractures, but this is one of the only cases that describes this complication occurring in a patient presenting to the emergency department. CASE REPORT: This case describes a patient who was found down at her home and presented to the emergency department in acute distress. She was found to have three left-sided posterior rib fractures, which had lacerated her thoracic aorta causing a large left hemothorax and acute decompensation. The patient was resuscitated in the emergency department followed by thoracic endovascular aortic repair in the operating room. The patient did well after surgical repair and was discharged from the hospital at her baseline mental and functional status. WHY SHOULD AN EMERGENCY PHYSICIAN BE AWARE OF THIS?: It remains important to resuscitate an acutely ill patient based on history, physical examination, and vital signs. The key takeaway from this case report is that, although rare, aortic laceration remains a possible complication of posterior rib fractures in a patient who acutely decompensates.",
-              "title_ko": "낙상 후 후방 늑골 골절로 인한 대동맥 열상: 증례 보고."
+              "title_ko": ""
             },
             {
               "pmid": "39939186",
@@ -8855,7 +8883,7 @@
           "impact_factor": 1.5,
           "index_type": "미상",
           "quartile": "미상",
-          "paper_count": 13,
+          "paper_count": 12,
           "top_paper": {
             "pmid": "41362590",
             "title": "Cognitive Burden in Emergency Care: A Qualitative Exploratory Study of Emergency Nurses.",
@@ -9754,7 +9782,7 @@
             "scores": [
               0.0,
               77.3,
-              60.3,
+              50.3,
               70.0
             ]
           },
@@ -9764,7 +9792,7 @@
               0.0,
               69.4,
               33.2,
-              80.0
+              60.0
             ]
           },
           {
@@ -9772,8 +9800,8 @@
             "scores": [
               0.0,
               57.4,
-              40.3,
-              40.0
+              46.9,
+              30.0
             ]
           },
           {
@@ -9800,7 +9828,7 @@
               0.0,
               10.5,
               26.6,
-              30.0
+              20.0
             ]
           }
         ]
